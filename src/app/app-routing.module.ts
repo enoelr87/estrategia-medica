@@ -6,13 +6,13 @@ import { AuthGuard } from './_helpers';
 
 const accountModule = () => import('./account/account.module').then(x => x.AccountModule);
 const usersModule = () => import('./users/users.module').then(x => x.UsersModule);
-const courseModule = () => import('./course/course.module').then(x => x.CourseModule);
+const theoreticalCourseModule = () => import('./theoretical-course/theoretical-course.module').then(x => x.TheoreticalCourseModule);
 
 const routes: Routes = [
     { path: '', component: HomeComponent, canActivate: [AuthGuard] },
     { path: 'users', loadChildren: usersModule, canActivate: [AuthGuard] },
     { path: 'account', loadChildren: accountModule },
-    { path: 'course', loadChildren: courseModule, canActivate: [AuthGuard] },
+    { path: 'theoretical-course', loadChildren: theoreticalCourseModule, canActivate: [AuthGuard] },
 
     // otherwise redirect to home
     { path: '**', redirectTo: '' }
