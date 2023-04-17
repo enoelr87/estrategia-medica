@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { DataViewLayoutOptions } from 'primeng/dataview';
+import { UserData } from 'src/app/_models';
+import { AccountService } from 'src/app/_services';
 
 @Component({
   selector: 'app-content-list',
@@ -7,6 +9,8 @@ import { DataViewLayoutOptions } from 'primeng/dataview';
   styleUrls: ['./content-list.component.scss']
 })
 export class ContentListComponent {
+
+  user: UserData;
 
   specialties: any[] = [];
   selectedSpecialty: any;
@@ -19,7 +23,11 @@ export class ContentListComponent {
   dataList: any[] = [];
   dataListTemp: any[] = [];
 
-  constructor(){
+  constructor(
+    private accountService: AccountService
+  ){
+    this.accountService.user.subscribe(x => this.user = x);
+    
     this.specialties = [
       {
         label: 'Cardiología'
@@ -346,6 +354,158 @@ export class ContentListComponent {
         description: 'Urologia',
         image: 'urologia.jpeg',
         category: 'Cirugia',
+      },
+      {
+        id: '36',
+        link: 'https://mega.nz/folder/GA5wxRyD#nkL4fFmcLB8KeWaCD3soaA',
+        name: 'Câncer de Pele',
+        description: 'Câncer de Pele',
+        image: 'cancer-pele.jpeg',
+        category: 'Dermatologia',
+      },
+      {
+        id: '37',
+        link: 'https://mega.nz/folder/SJwg3DjT#tCm8otDGRvitzG_qXzqT0g',
+        name: 'Dermatoses Infecciosas',
+        description: 'Dermatoses Infecciosas',
+        image: 'dermatoses-infecciosas.jpeg',
+        category: 'Dermatologia',
+      },
+      {
+        id: '38',
+        link: 'https://mega.nz/folder/nB5wiK7Q#MpRPimcK1bd3U6p0uA15RA',
+        name: 'Hanseníase',
+        description: 'Hanseníase',
+        image: 'hanseniase.jpeg',
+        category: 'Dermatologia',
+      },
+      {
+        id: '40',
+        link: 'https://mega.nz/folder/yZgA2LDZ#c8Bb34FkVvo5rmmHc9LLaw',
+        name: 'Adrenal - Distúrbios do Cortisol (Insuficiência Adrenal e Sínfrome de Cushing)',
+        description: 'Adrenal - Distúrbios do Cortisol (Insuficiência Adrenal e Sínfrome de Cushing)',
+        image: 'disturbios-cortisol.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '41',
+        link: 'https://mega.nz/folder/CdhEAbrT#8js1zEQhI9uNkUe5Z9lrvA',
+        name: 'Adrenal - Feocromocitoma, Hiperaldosteronismo Primário e Incidentaloma Adrenal',
+        description: 'Adrenal - Feocromocitoma, Hiperaldosteronismo Primário e Incidentaloma Adrenal',
+        image: 'feocromocitoma.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '42',
+        link: 'https://mega.nz/folder/OMxS3TqA#c2vMliGhTS9_zN9vUKZzqg',
+        name: 'Diabetes Mellitus – Complicações Agudas',
+        description: 'Diabetes Mellitus – Complicações Agudas',
+        image: 'complicaciones-agudas.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '43',
+        link: 'https://mega.nz/folder/CEZ1zQ5R#9iSDHCOIA3UV3k7HV0UihA',
+        name: 'Diabetes Mellitus – Complicações Crônicas',
+        description: 'Diabetes Mellitus – Complicações Crônicas',
+        image: 'complicacoes-cronicas.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '44',
+        link: 'https://mega.nz/folder/yRJRBAwQ#yyohFRfOGlBMBLJKP-iKOg',
+        name: 'Diabetes Mellitus – Insulinoterapia',
+        description: 'Diabetes Mellitus – Insulinoterapia',
+        image: 'insulinoterapia.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '45',
+        link: 'https://mega.nz/folder/LdhVUBzC#hCWzbGFXvtpTvoGjAqalwA',
+        name: 'Diabetes Mellitus Tipo II',
+        description: 'Diabetes Mellitus Tipo II',
+        image: 'diabetes-mellitus-II.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '46',
+        link: 'https://mega.nz/folder/TMhDUQIT#dlc9l3DM6Erq7AREQLH97w',
+        name: 'Diabetes Mellitus- Diagnóstico, Classificação e Metas de Controle Glicêmico',
+        description: 'Diabetes Mellitus- Diagnóstico, Classificação e Metas de Controle Glicêmico',
+        image: 'diabetes-mellitus-metas.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '47',
+        link: 'https://mega.nz/folder/TFoTUIZC#AE9t5zr7n7pUza5NY3sfXQ',
+        name: 'Hipófise - Acromegalia',
+        description: 'Hipófise - Acromegalia',
+        image: 'acromegalia.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '48',
+        link: 'https://mega.nz/folder/GYhEgKjI#Ez0kCkexsmFW1fmtoav2YA',
+        name: 'Hipófise - Hiperprolactinemia',
+        description: 'Hipófise - Hiperprolactinemia',
+        image: 'hiperprolactinemia.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '49',
+        link: 'https://mega.nz/folder/yAACxC5I#A7YqDGZRdNptawPEcRRseA',
+        name: 'Metabolismo Ósseo e Mineral - Distúrbios do Cálcio',
+        description: 'Metabolismo Ósseo e Mineral - Distúrbios do Cálcio',
+        image: 'disturbios-calcio.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '50',
+        link: 'https://mega.nz/folder/7RJX2K7I#iHYWco1x7y8ModWYZc0KUw',
+        name: 'Metabolismo Ósseo e Mineral - Osteoporose',
+        description: 'Metabolismo Ósseo e Mineral - Osteoporose',
+        image: 'osteoporose.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '51',
+        link: 'https://mega.nz/folder/uVRhRR7I#rmlId3knrTI_Vz8JED31vA',
+        name: 'Obesidade e Síndrome Metabólica',
+        description: 'Obesidade e Síndrome Metabólica',
+        image: 'obesidade.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '52',
+        link: 'https://mega.nz/folder/mFQmVYJI#eN2BzSPPSB_Ie_qJqnJuoA',
+        name: 'Tireoide - Fisiologia e Avaliação Diagnóstica',
+        description: 'Tireoide - Fisiologia e Avaliação Diagnóstica',
+        image: 'tireoide.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '53',
+        link: 'https://mega.nz/folder/iAQlUJpR#Cbu4bhbsUvmggwio_zsHiw',
+        name: 'Tireoide - Hipotireoidismo',
+        description: 'Tireoide - Hipotireoidismo',
+        image: 'tireoide-hipotireoidismo.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '54',
+        link: 'https://mega.nz/folder/zMRHTSBa#YJU2eDbaD_36FGo3Wd5oiQ',
+        name: 'Tireoide - Manejo dos Nódulos Tireoidianos, Câncer de Tireoide e Tireoidectomia',
+        description: 'Tireoide - Manejo dos Nódulos Tireoidianos, Câncer de Tireoide e Tireoidectomia',
+        image: 'tireoide-tireoidectomia.jpeg',
+        category: 'Endocrinologia',
+      },
+      {
+        id: '55',
+        link: 'https://mega.nz/folder/HYwFBRya#ZMRy28-VPVWk35Sthr9KeA',
+        name: 'Tireoide - Tireotoxicose',
+        description: 'Tireoide - Tireotoxicose',
+        image: 'tireoide-tireotoxicose.jpeg',
+        category: 'Endocrinologia',
       },
     ];
     this.dataListTemp = [...this.dataList];

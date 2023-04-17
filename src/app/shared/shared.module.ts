@@ -6,7 +6,9 @@ import { TagModule } from 'primeng/tag';
 import { ButtonModule } from 'primeng/button';
 import { SelectButtonModule } from 'primeng/selectbutton';
 import { DropdownModule } from 'primeng/dropdown';
+import { CardModule } from 'primeng/card';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { TooltipModule } from 'primeng/tooltip';
 
 
 @NgModule({
@@ -21,7 +23,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     TagModule,
     ButtonModule,
     SelectButtonModule,
-    DropdownModule
+    DropdownModule,
+    CardModule,
+    TooltipModule,
   ],
   exports: [
     CommonModule,
@@ -33,7 +37,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     TagModule,
     ButtonModule,
     SelectButtonModule,
-    DropdownModule
+    DropdownModule,
+    CardModule,
+    TooltipModule,
   ]
 })
 export class SharedModule { }

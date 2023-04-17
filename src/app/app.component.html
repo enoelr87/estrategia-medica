@@ -1,10 +1,10 @@
 <!-- nav -->
-<nav class="navbar navbar-expand navbar-dark bg-dark" *ngIf="user">
+<nav class="navbar navbar-expand navbar-dark bg-dark flex justify-content-between align-items-center " *ngIf="user">
     <div class="navbar-nav">
-        <a class="nav-item nav-link" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">Inicio</a>
-        <a class="nav-item nav-link" routerLink="/theoretical-course" routerLinkActive="active">Teórico</a>
-        <a class="nav-item nav-link" routerLink="/users" routerLinkActive="active">Usuários</a>
-        <a class="nav-item nav-link" (click)="logout()">Fechar sessão</a>
+        <a class="nav-item nav-link flex gap-2" routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}"><i class="mdi mdi-home"></i>Inicio</a>
+    </div>
+    <div class="profile-user text-white flex gap-2 align-items-center ">
+        Bem-vindo {{user.first_name}} <p-button icon="mdi mdi-logout" styleClass="p-button-rounded h-2rem w-2rem" (onClick)="logout()" pTooltip="Fechar sessão"></p-button>
     </div>
 </nav>
 

@@ -1,0 +1,32 @@
+.courses-data{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "course-data-1 course-data-2 course-data-3";
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.course-data-1{
+    grid-area: course-data-1;
+}
+
+.course-data-2{
+    grid-area: course-data-2;
+}
+
+.course-data-3 {
+    grid-area: course-data-3;
+}
+
+@media screen and (max-width: 960px) {
+    .courses-data {
+        row-gap: 30px;
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-template-areas: 
+        "course-data-1 course-data-1 course-data-1"
+        "course-data-2 course-data-2 course-data-2"
+        "course-data-3 course-data-3 course-data-3";
+    }
+}

@@ -7,6 +7,18 @@ export class User {
     token: string;
 }
 
+export interface UserData {
+    id: number;
+    first_name: string;
+    last_name: string;
+    username: string;
+    password: string;
+    active: boolean;
+    role: string;
+    courses: Array<string>,
+    token: string;
+}
+
 export class PostRegisterRequest {
     first_name: string;
     last_name: string;
