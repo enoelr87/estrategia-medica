@@ -49,7 +49,12 @@ export class LoginComponent implements OnInit {
             .pipe(first())
             .subscribe(
                 data => {
-                    this.router.navigate([this.returnUrl]);
+                    if(data){
+                        this.router.navigate([this.returnUrl]);
+                    } else {
+                        this.alertService.error("Nome de usuário ou senha está incorreta");
+                        this.loading = false;    
+                    }
                 },
                 error => {
                     this.alertService.error(error);
