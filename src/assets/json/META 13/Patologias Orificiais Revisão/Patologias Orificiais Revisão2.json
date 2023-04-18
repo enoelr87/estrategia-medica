@@ -1,0 +1,3726 @@
+{
+    "data": [
+        {
+            "id": "4000138339",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "046f0505-90c9-4862-b318-388c0d1e8026",
+                            "name": "Anestesiologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:27:03Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "9b34a94d-754d-4510-8bad-60f649fa825b",
+                            "name": "Clínica Médica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 5,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:27:45Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "f30d24a0-2f2d-43be-9812-73746e91a61a",
+                            "name": "5 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "66678bdd-d9e1-4267-a4cf-f3beebfd7d0e",
+                            "name": "Neurocirurgia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:28:13Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "8d4e50ad-d41e-40c9-9f4d-842251c2d2d9",
+                            "name": "Neurologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:28:49Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "0609ccdb-db5c-4c47-a306-31a0a655e95c",
+                            "name": "Ginecologia e Obstetrícia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:29:20Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                            "name": "Oftalmologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:29:58Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                            "name": "Ortopedia e Traumatologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:30:24Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "4d4116be-190d-4321-94c8-66da6d1acb11",
+                            "name": "Otorrinolaringologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:30:53Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "710b6098-b1cc-40fb-a6e9-1978c156b947",
+                            "name": "Pediatria"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:11Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "dfa90599-1ee1-4de3-8605-a75ecd3799bd",
+                            "name": "Cirurgia Básica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 5,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:34Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "23112f36-223f-447c-a1b6-08bf6dad1276",
+                            "name": "4 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "b39a29ec-d8c7-4592-b019-d0c7ee728856",
+                            "name": "Radioterapia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:58Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "25a4263960e34ffca52bb59ae2236264",
+                    "name": "Abscessos Anorretais",
+                    "is_master": false,
+                    "master_id": "39c78b4b923747689a5f71af09dff042",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Abscessos Anorretais",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "c806f66051e54accabb8b76e4e512243",
+                    "name": "Anatomia e Fisiologia",
+                    "is_master": false,
+                    "master_id": "55e75193dadc4a6786c1a9c038e3ecc9",
+                    "path": "Cirurgia[$$]Proctologia[$$]Canal Anal - Introdução[$$]Anatomia e Fisiologia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9a88f721-1c7b-4761-91c6-681eb0414c48",
+                    "position": "0",
+                    "body": "Submucoso e isquiorretal.",
+                    "sanitized_body": "Submucoso e isquiorretal.",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:58.324159 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:44:58.822921 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:40.588279 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 22
+                },
+                {
+                    "id": "f401dba0-326d-425d-83a1-d52292680363",
+                    "position": "1",
+                    "body": "Pelvirretal e perianal.",
+                    "sanitized_body": "Pelvirretal e perianal.",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:59.87593 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:44:58.807851 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:40.583477 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 16
+                },
+                {
+                    "id": "383f239b-5978-4933-845f-c1482646bdb0",
+                    "position": "2",
+                    "body": "Interesfincteriano e isquiorretal.",
+                    "sanitized_body": "Interesfincteriano e isquiorretal.",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+                    "updated_at": "2021-01-13 13:42:00.621744 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:44:58.798433 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:40.605467 +0000 UTC"
+                    },
+                    "answer_percentage": 20,
+                    "answers": 55
+                },
+                {
+                    "id": "cb15ac1e-b9ae-4812-ace9-4f41e229bc4c",
+                    "position": "3",
+                    "body": "Perianal e submucoso.",
+                    "sanitized_body": "Perianal e submucoso.",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+                    "updated_at": "2021-01-13 13:42:00.764661 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:44:58.847871 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:40.605505 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 8
+                },
+                {
+                    "id": "211b8c8e-769b-42f4-9dc8-a10e7161cf54",
+                    "position": "4",
+                    "body": "Pelvirretal e Interesfincteriano.",
+                    "sanitized_body": "Pelvirretal e Interesfincteriano.",
+                    "correct": true,
+                    "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+                    "updated_at": "2021-01-13 13:42:00.853968 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta.",
+                        "sanitized_complete": "Correta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:44:58.817356 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:40.589934 +0000 UTC"
+                    },
+                    "answer_percentage": 64,
+                    "answers": 177
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Abscessos anorretais são coleções purulentas localizadas em torno do reto e do canal anal. Na figura a seguir, temos um esquema de localização dos abscessos anorretais. Sendo assim os abscesso indicados pelos números 4 e 5 são:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A7DA3426-70C0-8BDE-B9FB-E60EC28547A1/A7DA3426-70C0-8BDE-B9FB-E60EC28547A1-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+            "statement_text": "Abscessos anorretais são coleções purulentas localizadas em torno do reto e do canal anal. Na figura a seguir, temos um esquema de localização dos abscessos anorretais. Sendo assim os abscesso indicados pelos números 4 e 5 são:",
+            "labels": [
+                "TEMPORARY_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "HARD",
+            "created_at": "2021-01-05 01:37:18.592772 +0000 UTC",
+            "solution": {
+                "complete": "Os abscessos anorretais são originados pela <b>infecção das glândulas anais</b> (infecção criptoglandular).<div>As glândulas anais localizam-se no espaço <b>entre os esfíncteres interno e externo</b>. O processo Infeccioso nessa região levará à formação de um abscesso anorretal que, <b>a depender do seu crescimento e disseminação</b> (cranial, caudal, vertical, horizontal, cirncunferencial), poderá acometer outros planos no espaço perianal e perirretal.&nbsp;</div><div>Classificamos os abscesso anorretais, de acordo com sua localização:</div><div>- <b>submucoso</b>: <b>entre a parede anal e o esfíncter interno do ânus</b> - pode drenar para o canal anal, ou se transformar em abscesso interesfincteriano;</div><div>- <b>interesfincteriano</b>: no sulco<b> entre o esfincter interno e externo</b>. Pode drenar para o canal anal, borda anal ou expandir cranialmente.</div><div>- <b>perianal</b>: resultado da <b>expansão caudal do abscesso interesfincteriano</b>;</div><div>- <b>isquiorretal</b>: abscesso interesfincteriano que se <b>expande para o tecido gorduroso extraesfincteriano</b>, localizando-se <b>entre o esfíncter anal externo e o osso isquiático</b>.</div><div>- <b>supraelevador</b> (retrorretal/pelvirretal): localizado na <b>gordura retroperitoneal</b>, fora da parede retal. Pode ocorrer devido a extensão cranial de um abscesso interesfincteriano, ou como complicação de abscesso intra-abdominal com progressão caudal.&nbsp;</div><div>Identifique-os na imagem abaixo:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C57D5A3D-FFE3-78FC-7E7C-9D66078BB43E/C57D5A3D-FFE3-78FC-7E7C-9D66078BB43E-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Logo, os números da imagem apresentada pela questão correspondem à:</div><div>1: abscesso perianal;</div><div>2: abscesso isquiorretal;</div><div>3: abscesso submucoso;</div><div>4: abscesso pelvirrenal, retrorretal ou supraelevador;</div><div>5: abscesso interesfincteriano.</div>",
+                "sanitized_complete": "Os abscessos anorretais são originados pela infecção das glândulas anais (infecção criptoglandular).As glândulas anais localizam-se no espaço entre os esfíncteres interno e externo. O processo Infeccioso nessa região levará à formação de um abscesso anorretal que, a depender do seu crescimento e disseminação (cranial, caudal, vertical, horizontal, cirncunferencial), poderá acometer outros planos no espaço perianal e perirretal. Classificamos os abscesso anorretais, de acordo com sua localização:- submucoso: entre a parede anal e o esfíncter interno do ânus - pode drenar para o canal anal, ou se transformar em abscesso interesfincteriano;- interesfincteriano: no sulco entre o esfincter interno e externo. Pode drenar para o canal anal, borda anal ou expandir cranialmente.- perianal: resultado da expansão caudal do abscesso interesfincteriano;- isquiorretal: abscesso interesfincteriano que se expande para o tecido gorduroso extraesfincteriano, localizando-se entre o esfíncter anal externo e o osso isquiático.- supraelevador (retrorretal/pelvirretal): localizado na gordura retroperitoneal, fora da parede retal. Pode ocorrer devido a extensão cranial de um abscesso interesfincteriano, ou como complicação de abscesso intra-abdominal com progressão caudal. Identifique-os na imagem abaixo:Logo, os números da imagem apresentada pela questão correspondem à:1: abscesso perianal;2: abscesso isquiorretal;3: abscesso submucoso;4: abscesso pelvirrenal, retrorretal ou supraelevador;5: abscesso interesfincteriano.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                "author_profile": {
+                    "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                    "full_name": "José Rodolfo Corradini Tolino",
+                    "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+                    "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-05-25 01:44:58.950539 +0000 UTC",
+                "updated_at": "2021-06-14 19:27:40.773797 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000138330",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "046f0505-90c9-4862-b318-388c0d1e8026",
+                            "name": "Anestesiologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:27:03Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "9b34a94d-754d-4510-8bad-60f649fa825b",
+                            "name": "Clínica Médica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 5,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:27:45Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "f30d24a0-2f2d-43be-9812-73746e91a61a",
+                            "name": "5 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "66678bdd-d9e1-4267-a4cf-f3beebfd7d0e",
+                            "name": "Neurocirurgia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:28:13Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "8d4e50ad-d41e-40c9-9f4d-842251c2d2d9",
+                            "name": "Neurologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:28:49Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "0609ccdb-db5c-4c47-a306-31a0a655e95c",
+                            "name": "Ginecologia e Obstetrícia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:29:20Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                            "name": "Oftalmologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:29:58Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                            "name": "Ortopedia e Traumatologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:30:24Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "4d4116be-190d-4321-94c8-66da6d1acb11",
+                            "name": "Otorrinolaringologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:30:53Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "710b6098-b1cc-40fb-a6e9-1978c156b947",
+                            "name": "Pediatria"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:11Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "dfa90599-1ee1-4de3-8605-a75ecd3799bd",
+                            "name": "Cirurgia Básica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 5,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:34Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "23112f36-223f-447c-a1b6-08bf6dad1276",
+                            "name": "4 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "5a1e5909-2f5a-477c-924a-ec32151bdf80",
+                            "name": "PR - Hospital Angelina Caron - HAC PR"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "b39a29ec-d8c7-4592-b019-d0c7ee728856",
+                            "name": "Radioterapia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "426ED979-7A5E-C3C8-7B68-28C484FBF158"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "1AF73EA9-3F75-E29D-12B0-ACFC4A9FECE4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2021-01-04T23:31:58Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "21898495596f48aab3a3a7b8d4711465",
+                    "name": "Apresentação Clínica e Classificação",
+                    "is_master": false,
+                    "master_id": "aebea2cc83a14b1a8610ceb08f1ddc77",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Doença Hemorroidária[$$]Apresentação Clínica e Classificação",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f919237c-27eb-418d-8546-e2f6dcf8b3bb",
+                    "position": "0",
+                    "body": "Grau I",
+                    "sanitized_body": "Grau I",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:56.083742 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Hemorroidas grau I <b>não apresentam prolapso</b>.",
+                        "sanitized_complete": "Incorreta. Hemorroidas grau I não apresentam prolapso.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:37:44.236247 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:11.236762 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 8
+                },
+                {
+                    "id": "7110dc5a-d229-499d-9f36-c5ece68a2517",
+                    "position": "1",
+                    "body": "Grau II",
+                    "sanitized_body": "Grau II",
+                    "correct": true,
+                    "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:56.244673 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta. Hemorroidas internas grau II apresentam <b>prolapso ao esforço, com retorno espontâneo</b>.<div><br></div>",
+                        "sanitized_complete": "Correta. Hemorroidas internas grau II apresentam prolapso ao esforço, com retorno espontâneo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:37:44.248714 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:11.234884 +0000 UTC"
+                    },
+                    "answer_percentage": 93,
+                    "answers": 267
+                },
+                {
+                    "id": "8e89e2f9-bd08-459e-b0fd-2a515dfc3f51",
+                    "position": "2",
+                    "body": "Grau III",
+                    "sanitized_body": "Grau III",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:58.225422 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Hemorroidas grau III apresentam pr<b>olapso redutível com manobra digital</b>.",
+                        "sanitized_complete": "Incorreta. Hemorroidas grau III apresentam prolapso redutível com manobra digital.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:37:44.257429 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:11.252212 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 12
+                },
+                {
+                    "id": "788f829d-7ff7-4bb1-86e1-23a12e1f8637",
+                    "position": "3",
+                    "body": "Grau IV",
+                    "sanitized_body": "Grau IV",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:59.854085 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Hemorróidas grau IV <b>não são passíveis de redução, mesmo com manobra digital.</b>",
+                        "sanitized_complete": "Incorreta. Hemorróidas grau IV não são passíveis de redução, mesmo com manobra digital.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:37:44.226812 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:11.255933 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "f41b5df5-c472-4510-b9e9-ba784db1d155",
+                    "position": "4",
+                    "body": "Grau V",
+                    "sanitized_body": "Grau V",
+                    "correct": false,
+                    "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+                    "updated_at": "2021-01-13 13:41:59.930224 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Não corresponde à classificação.",
+                        "sanitized_complete": "Incorreta. Não corresponde à classificação.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:37:44.248519 +0000 UTC",
+                        "updated_at": "2021-06-14 19:27:11.268385 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Hemorróidas que se exteriorizam durante a evacuação retornando espontaneamente para dentro do canal anal, são classificadas em:",
+            "statement_text": "Hemorróidas que se exteriorizam durante a evacuação retornando espontaneamente para dentro do canal anal, são classificadas em:",
+            "labels": [
+                "TEMPORARY_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "EASY",
+            "created_at": "2021-01-05 01:32:31.58478 +0000 UTC",
+            "solution": {
+                "complete": "Vamos relembrar a classificação das hemorroidas:<div>- <b>internas</b>: acima da linha pectínea, originadas no plexo hemorroidario superior.</div><div>&nbsp;- grau I: não apresenta prolapso;</div><div>&nbsp;- grau II: prolapso ao esforço, com redução espontânea;</div><div>&nbsp;- grau III: prolapso pelo canal anal, com necessidade de redução digital;</div><div>&nbsp;- grau IV: prolapso pelo canal anal, sem possibilidade de redução digital.</div><div>- <b>externas</b>: abaixo da linha pectínea, derivadas do plexo hemorroidario inferior.</div><div>Relembre na tabela a classificação e conduta mais adequada nas internas:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/89B5D967-B79B-0F23-72A8-9CAC7C23452F/89B5D967-B79B-0F23-72A8-9CAC7C23452F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div>",
+                "sanitized_complete": "Vamos relembrar a classificação das hemorroidas:- internas: acima da linha pectínea, originadas no plexo hemorroidario superior. - grau I: não apresenta prolapso; - grau II: prolapso ao esforço, com redução espontânea; - grau III: prolapso pelo canal anal, com necessidade de redução digital; - grau IV: prolapso pelo canal anal, sem possibilidade de redução digital.- externas: abaixo da linha pectínea, derivadas do plexo hemorroidario inferior.Relembre na tabela a classificação e conduta mais adequada nas internas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                "author_profile": {
+                    "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                    "full_name": "José Rodolfo Corradini Tolino",
+                    "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+                    "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-05-25 01:37:44.348161 +0000 UTC",
+                "updated_at": "2021-06-14 19:27:11.443265 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000131256",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "046f0505-90c9-4862-b318-388c0d1e8026",
+                            "name": "Anestesiologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 5,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:14:36Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "dfa90599-1ee1-4de3-8605-a75ecd3799bd",
+                            "name": "Cirurgia Básica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:15:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "32bef8bd-8aac-4ede-aede-06b9458b026b",
+                            "name": "Cirurgia Geral"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:15:48Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "9b34a94d-754d-4510-8bad-60f649fa825b",
+                            "name": "Clínica Médica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 12,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:16:18Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "eca7ae7c-654b-407e-9b37-ad41ad2834b1",
+                            "name": "Dermatologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:16:42Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "2ca62942-4eab-49e5-acaf-e395254eee99",
+                            "name": "Infectologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:17:03Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "f30d24a0-2f2d-43be-9812-73746e91a61a",
+                            "name": "5 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "66678bdd-d9e1-4267-a4cf-f3beebfd7d0e",
+                            "name": "Neurocirurgia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 1,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:17:34Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "8d4e50ad-d41e-40c9-9f4d-842251c2d2d9",
+                            "name": "Neurologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:18:01Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "0609ccdb-db5c-4c47-a306-31a0a655e95c",
+                            "name": "Ginecologia e Obstetrícia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 6,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:18:38Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                            "name": "Oftalmologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 6,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:19:06Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                            "name": "Ortopedia e Traumatologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:19:33Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "4d4116be-190d-4321-94c8-66da6d1acb11",
+                            "name": "Otorrinolaringologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:20:00Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "25b55daa-bd57-453d-9099-8c9dfe6d622a",
+                            "name": "Patologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:20:31Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "710b6098-b1cc-40fb-a6e9-1978c156b947",
+                            "name": "Pediatria"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 8,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:20:49Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "cccffc77-8a54-477d-b101-01edbb244b74",
+                            "name": "Psiquiatria"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:21:23Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "58e86d32-df81-42c9-9810-2e519e457a6e",
+                            "name": "Centro de Seleção da Universidade Federal de Goiás (UFG)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "776b092f-eb41-4150-a252-b23a0f7914b3",
+                            "name": "Radiologia e Diagnóstico por Imagem"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 4,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "4146A4B8-EBE0-B045-A426-BFB8C79EDD91"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "3E28BB52-E385-3828-BD3A-0D087318D9E3"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "B308C12E-99F3-1EA1-0AFA-B3B684EA17A2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-08T20:21:54Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "7def64fefcf849b58da4c38461f0f719",
+                    "name": "Apresentação Clínica e Diagnóstico",
+                    "is_master": false,
+                    "master_id": "e3df8587dfa94603be3c1841d0360dad",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Fístulas Anorretais[$$]Apresentação Clínica e Diagnóstico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "ce93cab80820446290f7ea627578e6e9",
+                    "name": "Cirurgia",
+                    "is_master": true,
+                    "path": "Cirurgia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "b67827e1-373a-41b9-8a10-523954ef2960",
+                    "position": "0",
+                    "body": "interesfincteriana, transesfincteriana, supraesfincteri- ana e extraesfincterina.",
+                    "sanitized_body": "interesfincteriana, transesfincteriana, supraesfincteri- ana e extraesfincterina.",
+                    "correct": true,
+                    "created_at": "2020-12-08 21:59:10.143707 +0000 UTC",
+                    "updated_at": "2020-12-28 13:28:20.860057 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta.",
+                        "sanitized_complete": "Correta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:33:27.065233 +0000 UTC",
+                        "updated_at": "2021-06-14 19:21:26.086364 +0000 UTC"
+                    },
+                    "answer_percentage": 87,
+                    "answers": 268
+                },
+                {
+                    "id": "9c4efb5e-8c19-4506-b7f2-830438a7664d",
+                    "position": "1",
+                    "body": "interesfincteriana, supraesfincteriana, transesfincteri- ana e extraesfincteriana.",
+                    "sanitized_body": "interesfincteriana, supraesfincteriana, transesfincteri- ana e extraesfincteriana.",
+                    "correct": false,
+                    "created_at": "2020-12-08 21:59:10.143707 +0000 UTC",
+                    "updated_at": "2020-12-28 13:28:20.911025 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:33:27.091161 +0000 UTC",
+                        "updated_at": "2021-06-14 19:21:26.072147 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 18
+                },
+                {
+                    "id": "4504d239-ac3c-4235-8874-1d9782b048e5",
+                    "position": "2",
+                    "body": "extraesfincteriana, transesfincteriana, supraesfincteri- ana e interesfincteriana.",
+                    "sanitized_body": "extraesfincteriana, transesfincteriana, supraesfincteri- ana e interesfincteriana.",
+                    "correct": false,
+                    "created_at": "2020-12-08 21:59:10.143707 +0000 UTC",
+                    "updated_at": "2020-12-28 13:28:20.958754 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:33:27.049838 +0000 UTC",
+                        "updated_at": "2021-06-14 19:21:26.065292 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 16
+                },
+                {
+                    "id": "b7fd1261-7f66-42c3-80c5-9482d67731b7",
+                    "position": "3",
+                    "body": "extraesfincteriana, supraesfincteriana, interesfincteriana, transesfincteriana.",
+                    "sanitized_body": "extraesfincteriana, supraesfincteriana, interesfincteriana, transesfincteriana.",
+                    "correct": false,
+                    "created_at": "2020-12-08 21:59:10.143707 +0000 UTC",
+                    "updated_at": "2020-12-28 13:28:21.004322 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta.",
+                        "sanitized_complete": "Incorreta.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:33:27.058375 +0000 UTC",
+                        "updated_at": "2021-06-14 19:21:26.088142 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Analise o esquema a seguir.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/BAE8A29C-FAA1-039F-B77C-E439AA674E1A/BAE8A29C-FAA1-039F-B77C-E439AA674E1A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>As fístulas anorretais, representadas no esquema, são classificadas respectivamente, como:</div>",
+            "statement_text": "Analise o esquema a seguir.As fístulas anorretais, representadas no esquema, são classificadas respectivamente, como:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "HARD",
+            "created_at": "2020-12-08 21:59:10.143707 +0000 UTC",
+            "solution": {
+                "complete": "As <b>fístulas anorretais têm como origem, em sua maioria, uma infecção de alguma das glândulas do canal anal,</b> ou seja, de <b>um abscesso anorretal</b>. Após a drenagem deste, cirúrgica, ou espontânea, forma-se um <b>trajeto epitelizado</b>, o qual conecta o ânus, ou reto, à pele.<div>A classificação das fístulas foi descrita por Park, correlacionando o trajeto da fístula com a sua relação com a musculatura esfincteriana da região.</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/31A5F56E-4DD2-F3F9-4C57-7BA6580B30D9/31A5F56E-4DD2-F3F9-4C57-7BA6580B30D9-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Analisando a imagem fornecida pela questão:</div><div>1: origem próxima ao esfíncter interno, trajeto <b>ENTRE</b> os esfíncteres interno e externo, com término na borda anal: <b>inter</b>esfincteriana.</div><div>2: origem próxima ao esfíncter interno, trajeto <b>trans</b>passando pelo esfíncter externo e término na pele da nádega: <b>trans</b>esfincteriana.</div><div>3: origem próxima ao esfíncter interno, trajeto em direção <b>sup</b>erior ao esfíncter externo, terminando na pele da nádega: <b>sup</b>raesfincteriana.</div><div>4: origem mais alta, trajeto <b>ext</b>erno ao esfíncter externo, terminando na pele da nádega: <b>ext</b>raesfincteriana.</div><div><br></div>",
+                "sanitized_complete": "As fístulas anorretais têm como origem, em sua maioria, uma infecção de alguma das glândulas do canal anal, ou seja, de um abscesso anorretal. Após a drenagem deste, cirúrgica, ou espontânea, forma-se um trajeto epitelizado, o qual conecta o ânus, ou reto, à pele.A classificação das fístulas foi descrita por Park, correlacionando o trajeto da fístula com a sua relação com a musculatura esfincteriana da região.Analisando a imagem fornecida pela questão:1: origem próxima ao esfíncter interno, trajeto ENTRE os esfíncteres interno e externo, com término na borda anal: interesfincteriana.2: origem próxima ao esfíncter interno, trajeto transpassando pelo esfíncter externo e término na pele da nádega: transesfincteriana.3: origem próxima ao esfíncter interno, trajeto em direção superior ao esfíncter externo, terminando na pele da nádega: supraesfincteriana.4: origem mais alta, trajeto externo ao esfíncter externo, terminando na pele da nádega: extraesfincteriana.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                "author_profile": {
+                    "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                    "full_name": "José Rodolfo Corradini Tolino",
+                    "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+                    "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-05-25 01:33:27.188204 +0000 UTC",
+                "updated_at": "2021-06-14 19:21:26.284653 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000131256-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000129914",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "15ec4c6b-8ce4-4c9f-a382-638b86d5e002",
+                            "name": "PR - Associação Médica do Paraná - AMP"
+                        },
+                        "jury_id": {
+                            "id": "7af2b25c-dec6-4948-b963-e4946f3ac7f0",
+                            "name": "Universidade Corporativa da Associação Médica do Paraná (UCAMP)"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "3EC2D71D-9A33-70B3-1AEB-CFBF925AF285"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "625D9EFE-3C56-C4CB-D728-452FE35AF689"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "D436F315-4C6B-E678-A2C2-4B4116B2B840"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-12-03T19:44:40Z",
+                    "location": {
+                        "id": "19"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "21898495596f48aab3a3a7b8d4711465",
+                    "name": "Apresentação Clínica e Classificação",
+                    "is_master": false,
+                    "master_id": "aebea2cc83a14b1a8610ceb08f1ddc77",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Doença Hemorroidária[$$]Apresentação Clínica e Classificação",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b39b0cd2fdce4349af45a6cacd974e32",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "aebea2cc83a14b1a8610ceb08f1ddc77",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Doença Hemorroidária[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "ce93cab80820446290f7ea627578e6e9",
+                    "name": "Cirurgia",
+                    "is_master": true,
+                    "path": "Cirurgia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "fc4da947-8580-4419-8049-fa70f4118eab",
+                    "position": "0",
+                    "body": "As duas assertivas são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.",
+                    "sanitized_body": "As duas assertivas são proposições verdadeiras, e a segunda é uma justificativa correta da primeira.",
+                    "correct": false,
+                    "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+                    "updated_at": "2020-12-11 18:04:23.036528 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A segunda assertiva está incorreta. Está indicado o tratamento para doença hemorroidária em todo paciente sintomático. No caso de hemorroida interna tipo II, preconiza-se, além de medidas higienodietéticas, a ligadura elástica",
+                        "sanitized_complete": "Incorreta. A segunda assertiva está incorreta. Está indicado o tratamento para doença hemorroidária em todo paciente sintomático. No caso de hemorroida interna tipo II, preconiza-se, além de medidas higienodietéticas, a ligadura elástica",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:27:56.00495 +0000 UTC",
+                        "updated_at": "2021-06-14 19:17:45.318887 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 10
+                },
+                {
+                    "id": "197c323d-a567-4607-8d31-656af529256b",
+                    "position": "1",
+                    "body": "As duas assertivas são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.",
+                    "sanitized_body": "As duas assertivas são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira.",
+                    "correct": false,
+                    "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+                    "updated_at": "2020-12-11 18:04:23.084939 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. a Segunda assertiva é falsa - está indicado tratamento com ligadura elástica para pacientes com hemorroida grau II.",
+                        "sanitized_complete": "Incorreta. a Segunda assertiva é falsa - está indicado tratamento com ligadura elástica para pacientes com hemorroida grau II.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:27:56.036119 +0000 UTC",
+                        "updated_at": "2021-06-14 19:17:45.378532 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 3
+                },
+                {
+                    "id": "020b695a-7385-4e5e-ac25-a638bbcb976a",
+                    "position": "2",
+                    "body": "A primeira assertiva é uma proposição verdadeira, e a segunda é falsa.",
+                    "sanitized_body": "A primeira assertiva é uma proposição verdadeira, e a segunda é falsa.",
+                    "correct": true,
+                    "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+                    "updated_at": "2020-12-11 18:04:23.118292 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta. Como vimos, hemorroidas internas graus II apresentam-se com prolapso que se reduz espontaneamente. A segunda proposição é falsa, pois há indicação de tratamento, principalmente com ligadura elástica.<div><br></div>",
+                        "sanitized_complete": "Correta. Como vimos, hemorroidas internas graus II apresentam-se com prolapso que se reduz espontaneamente. A segunda proposição é falsa, pois há indicação de tratamento, principalmente com ligadura elástica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:27:56.045859 +0000 UTC",
+                        "updated_at": "2021-06-14 19:17:45.397837 +0000 UTC"
+                    },
+                    "answer_percentage": 93,
+                    "answers": 396
+                },
+                {
+                    "id": "e7d1c7b9-bfc9-45b5-b0aa-801266b1424b",
+                    "position": "3",
+                    "body": "A primeira assertiva é uma proposição falsa, e a segunda é verdadeira.",
+                    "sanitized_body": "A primeira assertiva é uma proposição falsa, e a segunda é verdadeira.",
+                    "correct": false,
+                    "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+                    "updated_at": "2020-12-11 18:04:23.160493 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A primeira assertiva é correta: hemorroidas internas grau II apresentam prolapso com redução espontânea. A segunda assertiva é incorreta: há sim indicação de tratamento.<div><br></div>",
+                        "sanitized_complete": "Incorreta. A primeira assertiva é correta: hemorroidas internas grau II apresentam prolapso com redução espontânea. A segunda assertiva é incorreta: há sim indicação de tratamento.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:27:56.022068 +0000 UTC",
+                        "updated_at": "2021-06-14 19:17:45.37379 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 7
+                },
+                {
+                    "id": "fe8d30e7-f88b-442f-a4d5-c40a26c678a0",
+                    "position": "4",
+                    "body": "As duas assertivas são proposições falsas.",
+                    "sanitized_body": "As duas assertivas são proposições falsas.",
+                    "correct": false,
+                    "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+                    "updated_at": "2020-12-11 18:04:23.207972 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A primeira assertiva é correta, trazendo adequada definição de hemorroida interna grau II.<div><br></div>",
+                        "sanitized_complete": "Incorreta. A primeira assertiva é correta, trazendo adequada definição de hemorroida interna grau II.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:27:55.988101 +0000 UTC",
+                        "updated_at": "2021-06-14 19:17:45.423888 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 10
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "As hemorróidas são protuberâncias anormais e sintomáticas, altamente vascularizadas, formadas por um adensamento submucoso espessado no canal anal, contendo músculo liso e tecido conjuntivo elástico. Em relação a esta patologia e seu tratamento, avalie as seguintes asserções e a relação proposta entre elas.<div><br><div>I)\tAs hemorróidas internas de segundo grau são aquelas em que há um prolapso do tecido e redução espontânea.</div><div><br></div><div>PORTANTO</div><div><br></div><div>II)\tpara pacientes portadores de doença com este grau não esta indicado nenhum tipo de tratamento.</div></div>",
+            "statement_text": "As hemorróidas são protuberâncias anormais e sintomáticas, altamente vascularizadas, formadas por um adensamento submucoso espessado no canal anal, contendo músculo liso e tecido conjuntivo elástico. Em relação a esta patologia e seu tratamento, avalie as seguintes asserções e a relação proposta entre elas.I)\tAs hemorróidas internas de segundo grau são aquelas em que há um prolapso do tecido e redução espontânea.PORTANTOII)\tpara pacientes portadores de doença com este grau não esta indicado nenhum tipo de tratamento.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "EASY",
+            "created_at": "2020-12-04 00:23:37.224937 +0000 UTC",
+            "solution": {
+                "complete": "As hemorróidas são bastante frequentes, acometendo até 25% da população. São classificadas, em relação a sua localização em relação à linha pectínea, em internas (acima) e externas (abaixo).<div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B895F17B-11BD-4C45-DF7D-13AEE301C0D8/B895F17B-11BD-4C45-DF7D-13AEE301C0D8-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>As hemorroidas internas são subdivididas em graus, variando de I a IV, a depender do grau de protrusão do tecido. Com base no grau, é realizada a escolha de tratamento mais adequada. Relembre na tabela abaixo:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3CD5BCA5-5B44-E33A-4CA4-B55D7E44021D/3CD5BCA5-5B44-E33A-4CA4-B55D7E44021D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>As <b>hemorroidas externas têm como base do tratamento medidas higienodietéticas</b>, com intuito de diminuir o esforço evacuatório e a traumatização local. Em caso de complicação, como <b>trombose hemorroidaria</b>, pode ser realiza a<b> hemorroidectomia</b>, sobretudo nas <b>primeiras 48 horas de sintomas</b>.</div><div><br></div>",
+                "sanitized_complete": "As hemorróidas são bastante frequentes, acometendo até 25% da população. São classificadas, em relação a sua localização em relação à linha pectínea, em internas (acima) e externas (abaixo).As hemorroidas internas são subdivididas em graus, variando de I a IV, a depender do grau de protrusão do tecido. Com base no grau, é realizada a escolha de tratamento mais adequada. Relembre na tabela abaixo:As hemorroidas externas têm como base do tratamento medidas higienodietéticas, com intuito de diminuir o esforço evacuatório e a traumatização local. Em caso de complicação, como trombose hemorroidaria, pode ser realiza a hemorroidectomia, sobretudo nas primeiras 48 horas de sintomas.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                "author_profile": {
+                    "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                    "full_name": "José Rodolfo Corradini Tolino",
+                    "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+                    "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-05-25 01:27:56.070211 +0000 UTC",
+                "updated_at": "2021-06-14 19:17:45.598816 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129914-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000129492",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2021,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                            "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "B01D42D1-EA14-1FA8-C554-152D9D9CCED1"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "3C573902-21E1-FD67-FB7B-0A3B93BDA3B5"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-11-25T20:37:37Z",
+                    "updated_at": "2020-11-26T08:40:06Z",
+                    "location": {
+                        "id": "7"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "328a844347974c758eadeb69741e52d3",
+                    "name": "Diagnóstico",
+                    "is_master": false,
+                    "master_id": "aebea2cc83a14b1a8610ceb08f1ddc77",
+                    "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Doença Hemorroidária[$$]Diagnóstico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "c4ce25e0-5ae6-40d2-997c-0896fe1a7ce5",
+                    "position": "0",
+                    "body": "Solicitação de colonoscopia com biópsia, seguido de tomografia de tórax e abdome com contraste.<div>&nbsp;</div>",
+                    "sanitized_body": "Solicitação de colonoscopia com biópsia, seguido de tomografia de tórax e abdome com contraste. ",
+                    "correct": false,
+                    "created_at": "2020-11-25 23:10:58.325637 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A colonoscopia deve ser solicitada, em caráter ambulatorial, para investigação de outras possíveis causas para o sangramento apresentado para o paciente. Tomografia, nesse caso, não está indicada, visto que a principal hipótese diagnóstica é de doença hemorroidária.",
+                        "sanitized_complete": "Incorreta. A colonoscopia deve ser solicitada, em caráter ambulatorial, para investigação de outras possíveis causas para o sangramento apresentado para o paciente. Tomografia, nesse caso, não está indicada, visto que a principal hipótese diagnóstica é de doença hemorroidária.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:11:23.89607 +0000 UTC",
+                        "updated_at": "2021-06-14 18:13:23.356247 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "690d2e62-6072-4f0a-9297-c0c40ad53606",
+                    "position": "1",
+                    "body": "Mudança alimentar e ligadura elástica e solicitação de colonoscopia para investigação de outras possíveis fontes de sangramento.<div>&nbsp;</div>",
+                    "sanitized_body": "Mudança alimentar e ligadura elástica e solicitação de colonoscopia para investigação de outras possíveis fontes de sangramento. ",
+                    "correct": false,
+                    "created_at": "2020-11-25 23:10:58.325637 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. <b>A mudança alimentar é importante no tratamento de doenças orificiais</b>, buscando reduzir o esforço evacuatório. Porém, a <b>ligadura elástica</b> está indicada, principalmente, em <b>hemorróidas graus I e II</b>, após a introdução de medidas higienodietéticas.&nbsp;<div>Como vimos, a colonoscopia está indicada em caráter ambulatorial.<div><br></div></div>",
+                        "sanitized_complete": "Incorreta. A mudança alimentar é importante no tratamento de doenças orificiais, buscando reduzir o esforço evacuatório. Porém, a ligadura elástica está indicada, principalmente, em hemorróidas graus I e II, após a introdução de medidas higienodietéticas. Como vimos, a colonoscopia está indicada em caráter ambulatorial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:11:23.860512 +0000 UTC",
+                        "updated_at": "2021-06-14 18:13:23.419637 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 45
+                },
+                {
+                    "id": "f325ade1-51d6-4556-a105-ba8678042255",
+                    "position": "2",
+                    "body": "Mudança de hábitos alimentares e defecatórios, medicações sintomáticas, seguido de solicitação de retosigoidoscopia e/ou colonoscopia.<div>&nbsp;</div>",
+                    "sanitized_body": "Mudança de hábitos alimentares e defecatórios, medicações sintomáticas, seguido de solicitação de retosigoidoscopia e/ou colonoscopia. ",
+                    "correct": true,
+                    "created_at": "2020-11-25 23:10:58.325637 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta. <b>A introdução de mudanças alimentares, higiênicas e defecatórias deve ser realizada para todo paciente com doença hemorroidária</b>.&nbsp;<div>O uso de medicações sintomáticas é importante, reduzindo a dor e facilitando as evacuações. É importante a exclusão de outras doenças do trato digestivo que possam cursar com sangue vivo nas fezes, <b>mediante a realização de exames endoscópicos, como colonoscopia e retossigmoidoscopia.</b><div><br></div></div>",
+                        "sanitized_complete": "Correta. A introdução de mudanças alimentares, higiênicas e defecatórias deve ser realizada para todo paciente com doença hemorroidária. O uso de medicações sintomáticas é importante, reduzindo a dor e facilitando as evacuações. É importante a exclusão de outras doenças do trato digestivo que possam cursar com sangue vivo nas fezes, mediante a realização de exames endoscópicos, como colonoscopia e retossigmoidoscopia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:11:23.886333 +0000 UTC",
+                        "updated_at": "2021-06-14 18:13:23.364581 +0000 UTC"
+                    },
+                    "answer_percentage": 51,
+                    "answers": 265
+                },
+                {
+                    "id": "30c40952-f987-4a08-84bf-a6ed5b798314",
+                    "position": "3",
+                    "body": "Aumento da ingesta hídrica, mudança alimentar, laxativo e agentes esclerosantes e orientação quanto a colonoscopia a partir dos 50 anos.&nbsp;",
+                    "sanitized_body": "Aumento da ingesta hídrica, mudança alimentar, laxativo e agentes esclerosantes e orientação quanto a colonoscopia a partir dos 50 anos. ",
+                    "correct": false,
+                    "created_at": "2020-11-25 23:10:58.325637 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. <b>Mudanças alimentares e aumento da ingesta hídrica são fundamentais no paciente com doença orificial</b>, sendo preferenciais ao uso de laxativos. A colonoscopia deve ser realizada para investigar outras possíveis causas de sangramento, em caráter ambulatorial, sem necessidade de aguardar até os 50 anos, nesse caso.<div><br></div>",
+                        "sanitized_complete": "Incorreta. Mudanças alimentares e aumento da ingesta hídrica são fundamentais no paciente com doença orificial, sendo preferenciais ao uso de laxativos. A colonoscopia deve ser realizada para investigar outras possíveis causas de sangramento, em caráter ambulatorial, sem necessidade de aguardar até os 50 anos, nesse caso.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                        "author_profile": null,
+                        "created_at": "2021-05-25 01:11:23.846409 +0000 UTC",
+                        "updated_at": "2021-06-14 18:13:23.366407 +0000 UTC"
+                    },
+                    "answer_percentage": 40,
+                    "answers": 207
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente, sexo masculino, 47 anos, apresenta-se com história de sangramento anal vermelho vivo e dor após as evacuações (chegando a pingar no vaso), associado a ardor e prurido anal de início há 3 dias. Refere piora recente da alimentação devido quadro de ansiedade, com fezes mais ressecadas e maior esforço evacuatório.<div><br><div>Nega outros sintomas associados, comorbidades ou cirurgias prévias. Após realização do exame proctológico, qual a melhor conduta a seguir?</div><div>&nbsp;</div></div>",
+            "statement_text": "Paciente, sexo masculino, 47 anos, apresenta-se com história de sangramento anal vermelho vivo e dor após as evacuações (chegando a pingar no vaso), associado a ardor e prurido anal de início há 3 dias. Refere piora recente da alimentação devido quadro de ansiedade, com fezes mais ressecadas e maior esforço evacuatório.Nega outros sintomas associados, comorbidades ou cirurgias prévias. Após realização do exame proctológico, qual a melhor conduta a seguir? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-25 23:10:58.325637 +0000 UTC",
+            "forum_id": "3f29acef-da1e-4db6-9940-ea190d765039",
+            "solution": {
+                "complete": "Temos paciente masculino, 47 anos, com <b>fezes ressecadas e esforço evacuatório aumentado</b>. Apresenta sintomas de <b>prurido anal, ardor e sangue vivo nas fezes há 3 dias</b>. A principal hipótese diagnóstica é <b>doença hemorroidaria</b>.<div>O tratamento dessa afecção baseia-se em <b>cuidados locais, </b>sobretudo com pomadas,<b> e principalmente em medidas higieno dietéticas</b>, como ingestão adequada de água e fibras, visando melhorar a formação do bolo fecal; cuidados com a higienização perianal, priorizando banho após as evacuações, além redução do tempo sentado no sanitário.<div><b>É importante a investigação de causas mais graves que cursam com sangue nas fezes,</b> como neoplasias de cólon, reto e canal anal, nos pacientes com queixa de sangramento, mediante realização de exame endoscópico.</div><div><br></div></div>",
+                "sanitized_complete": "Temos paciente masculino, 47 anos, com fezes ressecadas e esforço evacuatório aumentado. Apresenta sintomas de prurido anal, ardor e sangue vivo nas fezes há 3 dias. A principal hipótese diagnóstica é doença hemorroidaria.O tratamento dessa afecção baseia-se em cuidados locais, sobretudo com pomadas, e principalmente em medidas higieno dietéticas, como ingestão adequada de água e fibras, visando melhorar a formação do bolo fecal; cuidados com a higienização perianal, priorizando banho após as evacuações, além redução do tempo sentado no sanitário.É importante a investigação de causas mais graves que cursam com sangue nas fezes, como neoplasias de cólon, reto e canal anal, nos pacientes com queixa de sangramento, mediante realização de exame endoscópico.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+                "author_profile": {
+                    "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                    "full_name": "José Rodolfo Corradini Tolino",
+                    "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+                    "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-05-25 01:11:23.924999 +0000 UTC",
+                "updated_at": "2021-06-14 18:13:24.423812 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129492-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 30
+    }
+}

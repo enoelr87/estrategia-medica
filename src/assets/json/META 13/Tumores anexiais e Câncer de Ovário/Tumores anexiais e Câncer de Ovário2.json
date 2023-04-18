@@ -1,0 +1,300 @@
+{
+    "data": [
+        {
+            "id": "4000127064",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "a278e856fb4a46ed87c72db65e6cde90",
+                    "name": "Câncer de ovário",
+                    "is_master": false,
+                    "master_id": "d6c3320772a543ef93cc5bf194a5b5cd",
+                    "path": "Ginecologia[$$]Oncologia ginecológica[$$]Tumores anexiais e câncer de ovário[$$]Câncer de ovário",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "cc751378-131f-4779-a0f7-a2b626877bae",
+                    "position": "0",
+                    "body": "Cisto benigno de ovário.",
+                    "sanitized_body": "Cisto benigno de ovário.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+                    "updated_at": "2020-11-23 13:58:15.347961 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa “a” incorreta, pois apesar da maior parte de tumores ovarianos no menacme serem funcionais, no caso dessa paciente ela já está em uma idade mais próxima da menopausa e apresenta fatores de risco importantes para neoplasia maligna do ovário.",
+                        "sanitized_complete": "Alternativa “a” incorreta, pois apesar da maior parte de tumores ovarianos no menacme serem funcionais, no caso dessa paciente ela já está em uma idade mais próxima da menopausa e apresenta fatores de risco importantes para neoplasia maligna do ovário.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                        "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                        "author_profile": null,
+                        "created_at": "2020-11-26 12:01:43.215734 +0000 UTC",
+                        "updated_at": "2020-12-12 01:06:10.256433 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 11
+                },
+                {
+                    "id": "0a3540ca-4f3c-4977-8c07-4d3acf8ddab0",
+                    "position": "1",
+                    "body": "Neoplasia maligna de ovário.",
+                    "sanitized_body": "Neoplasia maligna de ovário.",
+                    "correct": true,
+                    "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+                    "updated_at": "2020-11-23 13:58:15.385469 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa “b” correta, pois o risco de câncer de ovário quando há antecedente familiar em parente de primeiro grau é três vezes maior do que na população normal. Além disso, o antecedente pessoal de câncer de mama aumenta o risco para um câncer hereditário de ovário. A paciente em questão inclusive tem indicação de pesquisa de mutação genética pelos critérios do NCCN (National Comprehensive Cancer Network). A tabela abaixo resume as indicações:&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AA255400-322E-E531-F6A0-6435E3F54FE6/AA255400-322E-E531-F6A0-6435E3F54FE6-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/143329BB-D328-EC97-7798-CEDB6A7C960C/143329BB-D328-EC97-7798-CEDB6A7C960C-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5D7CB0F9-CDB3-C9D1-CE3C-A1ED6CF34D74/5D7CB0F9-CDB3-C9D1-CE3C-A1ED6CF34D74-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/EB638C94-D3EA-D9EF-7DED-123E4F553B6D/EB638C94-D3EA-D9EF-7DED-123E4F553B6D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Alternativa “b” correta, pois o risco de câncer de ovário quando há antecedente familiar em parente de primeiro grau é três vezes maior do que na população normal. Além disso, o antecedente pessoal de câncer de mama aumenta o risco para um câncer hereditário de ovário. A paciente em questão inclusive tem indicação de pesquisa de mutação genética pelos critérios do NCCN (National Comprehensive Cancer Network). A tabela abaixo resume as indicações: ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                        "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                        "author_profile": null,
+                        "created_at": "2020-11-26 12:01:43.244079 +0000 UTC",
+                        "updated_at": "2020-12-12 01:06:10.245057 +0000 UTC"
+                    },
+                    "answer_percentage": 92,
+                    "answers": 457
+                },
+                {
+                    "id": "002f3b41-b19b-4541-bc1d-0115d0131057",
+                    "position": "2",
+                    "body": "Endometrioma.",
+                    "sanitized_body": "Endometrioma.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+                    "updated_at": "2020-11-23 13:58:15.426093 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa “c” incorreta, pois a paciente não apresenta sintomas típicos de endometriose, como dor pélvica, dismenorréia e infertilidade, deixando o diagnóstico menos provável.",
+                        "sanitized_complete": "Alternativa “c” incorreta, pois a paciente não apresenta sintomas típicos de endometriose, como dor pélvica, dismenorréia e infertilidade, deixando o diagnóstico menos provável.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                        "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                        "author_profile": null,
+                        "created_at": "2020-11-26 12:01:43.203393 +0000 UTC",
+                        "updated_at": "2020-12-12 01:06:10.236689 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 17
+                },
+                {
+                    "id": "9d0af280-6537-495f-bcb2-0d065f3f7e89",
+                    "position": "3",
+                    "body": "Tuberculose genital (ovário e trompa).",
+                    "sanitized_body": "Tuberculose genital (ovário e trompa).",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+                    "updated_at": "2020-11-23 13:58:15.487635 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa “d” incorreta, pois a tuberculose genital está associada a quadros de infertilidade e não de tumores anexiais.",
+                        "sanitized_complete": "Alternativa “d” incorreta, pois a tuberculose genital está associada a quadros de infertilidade e não de tumores anexiais.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                        "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                        "author_profile": null,
+                        "created_at": "2020-11-26 12:01:43.228912 +0000 UTC",
+                        "updated_at": "2020-12-12 01:06:10.241275 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 5
+                },
+                {
+                    "id": "7b9ea544-3f12-4eef-a349-9e01b9afa188",
+                    "position": "4",
+                    "body": "Abscesso ovariano.",
+                    "sanitized_body": "Abscesso ovariano.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+                    "updated_at": "2020-11-23 13:58:15.547433 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa “e” incorreta, pois a paciente não tem critérios para doença inflamatória pélvica. Os critérios maiores são dor pélvica, dor à mobilização do colo e à palpação anexial.&nbsp;",
+                        "sanitized_complete": "Alternativa “e” incorreta, pois a paciente não tem critérios para doença inflamatória pélvica. Os critérios maiores são dor pélvica, dor à mobilização do colo e à palpação anexial. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                        "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                        "author_profile": null,
+                        "created_at": "2020-11-26 12:01:43.209884 +0000 UTC",
+                        "updated_at": "2020-12-12 01:06:10.249354 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 6
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Mulher com 45 anos de idade, cor branca, multípara, proveniente de zona rural, procura consulta ginecológica com queixa de peso na região pélvica há cerca de 60 dias, perda de peso corporal e distensão abdominal. A paciente não faz uso de método contraceptivo oral e não apresenta dismenorreia. A paciente tem antecedente de neoplasia maligna de mama e a mãe, história de câncer de ovário. Ao exame, observou- se massa palpável em anexo esquerdo. De acordo com o exame clínico e com os antecedentes pessoais e familiares informados pela paciente, qual a principal hipótese diagnóstica?",
+            "statement_text": "Mulher com 45 anos de idade, cor branca, multípara, proveniente de zona rural, procura consulta ginecológica com queixa de peso na região pélvica há cerca de 60 dias, perda de peso corporal e distensão abdominal. A paciente não faz uso de método contraceptivo oral e não apresenta dismenorreia. A paciente tem antecedente de neoplasia maligna de mama e a mãe, história de câncer de ovário. Ao exame, observou- se massa palpável em anexo esquerdo. De acordo com o exame clínico e com os antecedentes pessoais e familiares informados pela paciente, qual a principal hipótese diagnóstica?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 09:13:21.389935 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA B</b></div><div><br></div>Devido ao componente multifatorial da gênese do câncer de ovário, existem diversos fatores de risco associados à sua ocorrência. Sem dúvidas, o principal fator de risco para essa neoplasia é o antecedente familiar de câncer de ovário e de mama, sobretudo em parentes de primeiro grau. Os demais fatores de risco estão associados à exposição a ciclos ovulatórios sem interrupção ao longo da vida, pois o estímulo ao epitélio ovariano parece estar associado à carcinogênese. O quadro abaixo traz os principais fatores de risco:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2F0A41AE-D88F-B653-C497-01AAFB1981E5/2F0A41AE-D88F-B653-C497-01AAFB1981E5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BDevido ao componente multifatorial da gênese do câncer de ovário, existem diversos fatores de risco associados à sua ocorrência. Sem dúvidas, o principal fator de risco para essa neoplasia é o antecedente familiar de câncer de ovário e de mama, sobretudo em parentes de primeiro grau. Os demais fatores de risco estão associados à exposição a ciclos ovulatórios sem interrupção ao longo da vida, pois o estímulo ao epitélio ovariano parece estar associado à carcinogênese. O quadro abaixo traz os principais fatores de risco:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+                "author_profile": {
+                    "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+                    "full_name": "Carlos Martins",
+                    "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+                    "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-26 12:01:43.368065 +0000 UTC",
+                "updated_at": "2020-12-12 01:06:10.353897 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127064-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

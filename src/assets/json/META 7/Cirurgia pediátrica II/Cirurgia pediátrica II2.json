@@ -1,0 +1,305 @@
+{
+    "data": [
+        {
+            "id": "4000127204",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "9047f16698bc4a2188189ebc2dba5b72",
+                    "name": "Intussuscepção Intestinal",
+                    "is_master": false,
+                    "master_id": "c48d15d6e42449f5a11ba2ff9bc84925",
+                    "path": "Cirurgia[$$]Cirurgia Infantil[$$]Principais Afecções Cirúrgicas Abdominais Adquiridas do Lactente[$$]Intussuscepção Intestinal",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "ce93cab80820446290f7ea627578e6e9",
+                    "name": "Cirurgia",
+                    "is_master": true,
+                    "path": "Cirurgia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "a6bfb42c-6aa6-4d2f-916b-e5d990053845",
+                    "position": "0",
+                    "body": "volvo do intestino médio.",
+                    "sanitized_body": "volvo do intestino médio.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+                    "updated_at": "2020-11-22 13:43:29.323327 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>(A)INCORRETA</b>. O lactente com vólvulo do intestino médio apresenta-se com uma tríade de sinais clínicos característicos: vômitos biliosos, eliminação de sangue pelo ânus e massa abdominal palpável, mas, diferente do lactente com invaginação intestinal, estes pacientes costumam estar em mau estado geral, pois há rápida evolução para isquemia e gangrena intestinal.&nbsp;",
+                        "sanitized_complete": "(A)INCORRETA. O lactente com vólvulo do intestino médio apresenta-se com uma tríade de sinais clínicos característicos: vômitos biliosos, eliminação de sangue pelo ânus e massa abdominal palpável, mas, diferente do lactente com invaginação intestinal, estes pacientes costumam estar em mau estado geral, pois há rápida evolução para isquemia e gangrena intestinal. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                        "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                        "author_profile": null,
+                        "created_at": "2020-11-14 12:32:06.747202 +0000 UTC",
+                        "updated_at": "2020-11-14 12:32:11.102329 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 30
+                },
+                {
+                    "id": "7642847b-22a6-41ac-bc55-f5f1768da0be",
+                    "position": "1",
+                    "body": "hérnia inguinal estrangulada.",
+                    "sanitized_body": "hérnia inguinal estrangulada.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+                    "updated_at": "2020-11-22 13:43:29.387209 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>(B) INCORRETA</b>. Não há referência à abaulamento inguinal irredutível para pensarmos em hérnia inguinal estrangulada.",
+                        "sanitized_complete": "(B) INCORRETA. Não há referência à abaulamento inguinal irredutível para pensarmos em hérnia inguinal estrangulada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                        "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                        "author_profile": null,
+                        "created_at": "2020-11-14 12:32:06.736988 +0000 UTC",
+                        "updated_at": "2020-11-14 12:32:11.100488 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 5
+                },
+                {
+                    "id": "3e7376bb-f85d-4961-90ac-ac96409701ee",
+                    "position": "2",
+                    "body": "divertículo de Meckel.",
+                    "sanitized_body": "divertículo de Meckel.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+                    "updated_at": "2020-11-22 13:43:29.462973 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>(C) INCORRETA</b>. O divertículo de Meckel ocorre em 2% da população, podendo se manifestar em qualquer idade, com incidência decrescente com o passar dos anos. Em geral, os sintomas clínicos são relacionados com complicações do divertículo: hemorragia, obstrução, inflamação ou perfuração. O sintoma mais comum é o sangramento gastrointestinal inferior maciço e indolor em crianças com idade inferior a cinco anos. Na criança, a intussuscepção é geralmente idiopática, sem um ponto de condução anatômico, em 90% dos casos. A incidência de uma lesão anatômica que age como cabeça da invaginação é de até 12%, forma denominada secundária, que geralmente ocorre em crianças maiores de dois anos. O divertículo de Meckel é tido como a lesão indutora de intussuscepção mais comum. Dessa forma, este lactente poderia apresentar um divertículo de Meckel funcionando como “cabeça de invaginação”, mas sem dúvida este lactente apresenta intussuscepção, e deve receber tratamento para esta afecção.",
+                        "sanitized_complete": "(C) INCORRETA. O divertículo de Meckel ocorre em 2% da população, podendo se manifestar em qualquer idade, com incidência decrescente com o passar dos anos. Em geral, os sintomas clínicos são relacionados com complicações do divertículo: hemorragia, obstrução, inflamação ou perfuração. O sintoma mais comum é o sangramento gastrointestinal inferior maciço e indolor em crianças com idade inferior a cinco anos. Na criança, a intussuscepção é geralmente idiopática, sem um ponto de condução anatômico, em 90% dos casos. A incidência de uma lesão anatômica que age como cabeça da invaginação é de até 12%, forma denominada secundária, que geralmente ocorre em crianças maiores de dois anos. O divertículo de Meckel é tido como a lesão indutora de intussuscepção mais comum. Dessa forma, este lactente poderia apresentar um divertículo de Meckel funcionando como “cabeça de invaginação”, mas sem dúvida este lactente apresenta intussuscepção, e deve receber tratamento para esta afecção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                        "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                        "author_profile": null,
+                        "created_at": "2020-11-14 12:32:06.735486 +0000 UTC",
+                        "updated_at": "2020-11-14 12:32:11.105692 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 71
+                },
+                {
+                    "id": "66d0275b-c19a-4afa-95bd-b99b1f874e68",
+                    "position": "3",
+                    "body": "intussuscepção intestinal.",
+                    "sanitized_body": "intussuscepção intestinal.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+                    "updated_at": "2020-11-22 13:43:29.530453 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                        "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                        "author_profile": null,
+                        "created_at": "2020-11-14 12:32:06.74775 +0000 UTC",
+                        "updated_at": "2020-11-14 12:32:11.101755 +0000 UTC"
+                    },
+                    "answer_percentage": 84,
+                    "answers": 656
+                },
+                {
+                    "id": "df881ab8-01c4-45c1-ae7d-900a8535ceba",
+                    "position": "4",
+                    "body": "oclusão intestinal por Ascaris lumbricoides.",
+                    "sanitized_body": "oclusão intestinal por Ascaris lumbricoides.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+                    "updated_at": "2020-11-22 13:43:29.596647 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>(E) INCORRETA.</b> A maioria das crianças com parasitose intestinal é assintomática. Nos pacientes que expressam sintomas, estes costumam ser inespecíficos, como desconforto abdominal, anorexia, náusea, vômito e diarreia. A ascaridíase é uma causa de abdome agudo obstrutivo em lactentes mais velhos e pré-escolares, diante de uma infestação maciça, quando um grande número de vermes adultos pode obstruir o lúmen intestinal, causando obstrução aguda. Aproximadamente 85% das obstruções devidas à ascaridíase ocorrem em crianças entre um e cinco anos de idade. Estes pacientes manifestam dor abdominal em cólica, vômitos e ausência de eliminação de flatos e fezes, mas a presença de sangue nas fezes não é esperada.",
+                        "sanitized_complete": "(E) INCORRETA. A maioria das crianças com parasitose intestinal é assintomática. Nos pacientes que expressam sintomas, estes costumam ser inespecíficos, como desconforto abdominal, anorexia, náusea, vômito e diarreia. A ascaridíase é uma causa de abdome agudo obstrutivo em lactentes mais velhos e pré-escolares, diante de uma infestação maciça, quando um grande número de vermes adultos pode obstruir o lúmen intestinal, causando obstrução aguda. Aproximadamente 85% das obstruções devidas à ascaridíase ocorrem em crianças entre um e cinco anos de idade. Estes pacientes manifestam dor abdominal em cólica, vômitos e ausência de eliminação de flatos e fezes, mas a presença de sangue nas fezes não é esperada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                        "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                        "author_profile": null,
+                        "created_at": "2020-11-14 12:32:06.749508 +0000 UTC",
+                        "updated_at": "2020-11-14 12:32:11.108062 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 23
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Um lactente, com nove meses de idade, foi levado ao Pronto Atendimento porque,   há 5 horas vem apresentando choro inconsolável, vômitos, fezes com sangue e distensão abdominal. A mãe refere que a criança ficou gripada há uma semana. Durante o exame físico, o pediatra palpou massa abdominal e solicitou radiografia simples de abdome que foi inespecífica e ultrassonografia de abdome total que mostrou anéis concêntricos de camadas hipoecóicas e hiperecóicas alternantes, com porção central hiperecóica (sinal da “rosquinha/alvo/olho de boi”). Foi encaminhado ao centro cirúrgico para laparotomia.<div><br></div><div>Baseado nos sintomas apresentados, o quadro descrito é compatível com abdome agudo, tendo como causa:</div>",
+            "statement_text": "Um lactente, com nove meses de idade, foi levado ao Pronto Atendimento porque,   há 5 horas vem apresentando choro inconsolável, vômitos, fezes com sangue e distensão abdominal. A mãe refere que a criança ficou gripada há uma semana. Durante o exame físico, o pediatra palpou massa abdominal e solicitou radiografia simples de abdome que foi inespecífica e ultrassonografia de abdome total que mostrou anéis concêntricos de camadas hipoecóicas e hiperecóicas alternantes, com porção central hiperecóica (sinal da “rosquinha/alvo/olho de boi”). Foi encaminhado ao centro cirúrgico para laparotomia.Baseado nos sintomas apresentados, o quadro descrito é compatível com abdome agudo, tendo como causa:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 12:13:11.423751 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>O examinador nos apresenta um lactente de 09 meses que iniciou quadro de choro inconsolável, distensão abdominal, vômitos e eliminou fezes com sangue. A presença destes achados em conjunto, especialmente na faixa etária em questão, deve chamar sua atenção para a possibilidade de invaginação intestinal!</div><div><br></div><div>A intussuscepção ou invaginação intestinal ocorre quando um segmento proximal de alça intestinal penetra num segmento distal, causando compressão vascular do mesentério, com consequentes edema e isquemia, podendo evoluir para necrose e, por fim, perfuração. Esta entidade pode se manifestar em qualquer idade, mas apenas 10% a 25% dos casos ocorrem após os dois anos. Classicamente a invaginação intestinal acomete lactentes entre 04 e 12 meses, de outra forma saudáveis. Na criança a invaginação é frequentemente idiopática.&nbsp;</div><div><br></div><div>A criança apresenta episódios de dor abdominal aguda intensa e intermitente, caracteristicamente em cólica, acompanhada de palidez cutânea, sudorese e contração dos membros inferiores. Após o primeiro surto de dor, a criança permanece relativamente bem, mas em seguida volta a apresentar novo episódio álgico. Os surtos passam então a ser mais frequentes, surgem vômitos e eliminação de muco com sangue (“geleia de morango”). Ao exame do abdome, é comum a palpação de massa alongada, tubuliforme, frequentemente detectada no quadrante superior direito ou epigástrio.</div><div><br></div><div>Atualmente, o ultrassom abdominal é utilizado como prova diagnóstica inicial. Trata-se de exame não invasivo, rápido, de baixo custo e permite um diagnóstico acurado. Os achados característicos incluem o “sinal do alvo” (camadas concêntricas de ecogenicidades diferentes, em visão transversal) ou do “pseudorim” (quando a invaginação é vista longitudinalmente). Dessa forma, a alternativa correta é a letra “D”.</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DO examinador nos apresenta um lactente de 09 meses que iniciou quadro de choro inconsolável, distensão abdominal, vômitos e eliminou fezes com sangue. A presença destes achados em conjunto, especialmente na faixa etária em questão, deve chamar sua atenção para a possibilidade de invaginação intestinal!A intussuscepção ou invaginação intestinal ocorre quando um segmento proximal de alça intestinal penetra num segmento distal, causando compressão vascular do mesentério, com consequentes edema e isquemia, podendo evoluir para necrose e, por fim, perfuração. Esta entidade pode se manifestar em qualquer idade, mas apenas 10% a 25% dos casos ocorrem após os dois anos. Classicamente a invaginação intestinal acomete lactentes entre 04 e 12 meses, de outra forma saudáveis. Na criança a invaginação é frequentemente idiopática. A criança apresenta episódios de dor abdominal aguda intensa e intermitente, caracteristicamente em cólica, acompanhada de palidez cutânea, sudorese e contração dos membros inferiores. Após o primeiro surto de dor, a criança permanece relativamente bem, mas em seguida volta a apresentar novo episódio álgico. Os surtos passam então a ser mais frequentes, surgem vômitos e eliminação de muco com sangue (“geleia de morango”). Ao exame do abdome, é comum a palpação de massa alongada, tubuliforme, frequentemente detectada no quadrante superior direito ou epigástrio.Atualmente, o ultrassom abdominal é utilizado como prova diagnóstica inicial. Trata-se de exame não invasivo, rápido, de baixo custo e permite um diagnóstico acurado. Os achados característicos incluem o “sinal do alvo” (camadas concêntricas de ecogenicidades diferentes, em visão transversal) ou do “pseudorim” (quando a invaginação é vista longitudinalmente). Dessa forma, a alternativa correta é a letra “D”.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                "author_email_id": "6f4bc6fdd024239f6a4af5051f3263fe",
+                "author_profile": {
+                    "id": "9b3fd22e-548c-4323-9dd0-fbad72d0ff7c",
+                    "full_name": "Sarah Cozar",
+                    "avatar_url": "https://static.accounts.estrategia.com/8d196206e2a9fc220e5e8ab2d1ef6879",
+                    "about_me": "Graduada em Medicina pela Pontifícia Universidade Católica de Campinas (PUC-Campinas). Cirurgiã Geral pela Faculdade de Medicina da Universidade de São Paulo (FMUSP-SP)."
+                },
+                "created_at": "2020-11-14 12:32:06.810277 +0000 UTC",
+                "updated_at": "2020-11-14 12:32:11.130107 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false,
+            "user_solution": {
+                "is_correct": true,
+                "selected_alternative_id": "66d0275b-c19a-4afa-95bd-b99b1f874e68",
+                "correct_alternative_id": "66d0275b-c19a-4afa-95bd-b99b1f874e68"
+            }
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

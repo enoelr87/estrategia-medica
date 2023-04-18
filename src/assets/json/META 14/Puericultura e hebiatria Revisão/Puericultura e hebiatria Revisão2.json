@@ -1,0 +1,2109 @@
+{
+    "data": [
+        {
+            "id": "4000127000",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T18:54:40Z",
+                    "updated_at": "2020-09-24T16:06:37Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "b8c33f34a5b945bdbbb0269f90f716c6",
+                    "name": "Deficiência",
+                    "is_master": false,
+                    "master_id": "d70c091864c84067bd82c6d077a72208",
+                    "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina A/Retinol[$$]Deficiência",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "35a977b7-1be3-40ee-a08e-f763164604a1",
+                    "position": "0",
+                    "body": "hipovitaminose A.",
+                    "sanitized_body": "hipovitaminose A.",
+                    "correct": true,
+                    "created_at": "2020-09-25 03:58:29.359031 +0000 UTC",
+                    "updated_at": "2020-10-12 19:55:26.699163 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "b8c33f34a5b945bdbbb0269f90f716c6",
+                            "name": "Deficiência",
+                            "is_master": false,
+                            "master_id": "d70c091864c84067bd82c6d077a72208",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina A/Retinol[$$]Deficiência",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Correta alternativa “A” porque a hipovitaminose A é muito frequente em crianças desnutridas e os sintomas de xeroftalmia e xerodermia são encontrados nesta condição.",
+                        "sanitized_complete": "Correta alternativa “A” porque a hipovitaminose A é muito frequente em crianças desnutridas e os sintomas de xeroftalmia e xerodermia são encontrados nesta condição.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:55:27.744503 +0000 UTC",
+                        "updated_at": "2021-07-25 11:17:19.148772 +0000 UTC"
+                    },
+                    "answer_percentage": 94,
+                    "answers": 537
+                },
+                {
+                    "id": "9ad2490a-4ab2-4125-9162-ceb7bf90c2b6",
+                    "position": "1",
+                    "body": "hipovitaminose D.",
+                    "sanitized_body": "hipovitaminose D.",
+                    "correct": false,
+                    "created_at": "2020-09-25 03:58:29.359031 +0000 UTC",
+                    "updated_at": "2020-10-12 19:55:26.837016 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "2c6293a6269f4c44aedc953b2eeec6d5",
+                            "name": "Raquitismo",
+                            "is_master": false,
+                            "master_id": "90c98d9d2fe1431fa591938c9bb3a8ce",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina D/Colecalciferol[$$]Raquitismo",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta alternativa “B” porque a hipovitaminose D, conhecida como raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. As manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania.",
+                        "sanitized_complete": "Incorreta alternativa “B” porque a hipovitaminose D, conhecida como raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. As manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:55:27.737994 +0000 UTC",
+                        "updated_at": "2021-07-25 11:17:19.179329 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 21
+                },
+                {
+                    "id": "5e4724f4-b96e-47f3-ba1f-6caf58523c29",
+                    "position": "2",
+                    "body": "hipovitaminose C.",
+                    "sanitized_body": "hipovitaminose C.",
+                    "correct": false,
+                    "created_at": "2020-09-25 03:58:29.359031 +0000 UTC",
+                    "updated_at": "2020-10-12 19:55:26.974363 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d5085d73289a4715b9ce2f068391ef46",
+                            "name": "Deficiência/Escorbuto",
+                            "is_master": false,
+                            "master_id": "5ecce89c1b68486487b68821e54d6b87",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina C/Ácido Ascórbico[$$]Deficiência/Escorbuto",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta alternativa “C” porque a deficiência de vitamina C (escorbuto), se manifesta com alterações cutâneas (petéquias, hemorragia perifolicular e hematomas), gengivite, artralgia, fraqueza muscular e inapetência.",
+                        "sanitized_complete": "Incorreta alternativa “C” porque a deficiência de vitamina C (escorbuto), se manifesta com alterações cutâneas (petéquias, hemorragia perifolicular e hematomas), gengivite, artralgia, fraqueza muscular e inapetência.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:55:27.738872 +0000 UTC",
+                        "updated_at": "2021-07-25 11:17:19.170791 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "d2e1b905-d949-4386-8e26-e8956abbbc9d",
+                    "position": "3",
+                    "body": "hipovitaminose B.",
+                    "sanitized_body": "hipovitaminose B.",
+                    "correct": false,
+                    "created_at": "2020-09-25 03:58:29.359031 +0000 UTC",
+                    "updated_at": "2020-10-12 19:55:27.110849 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "e971e1d12ab349e6b3beee7ba6e3eb0a",
+                            "name": "Deficiência",
+                            "is_master": false,
+                            "master_id": "7af795e5bcc04a35b7459cc93e4a96ad",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B12/Cianocobalamina[$$]Deficiência",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta alternativa “D” porque existem várias vitaminas do complexo B. A deficiência mais comum é a deficiência de Vitamina B12 que cursa com anemia megaloblástica que se caracteriza por anemia com hemácias grandes. Pode apresentar leucopenia e plaquetopenia e pode apresentar sintomas neurológicos associados, como parestesias, irritabilidade, demência e fraqueza muscular.",
+                        "sanitized_complete": "Incorreta alternativa “D” porque existem várias vitaminas do complexo B. A deficiência mais comum é a deficiência de Vitamina B12 que cursa com anemia megaloblástica que se caracteriza por anemia com hemácias grandes. Pode apresentar leucopenia e plaquetopenia e pode apresentar sintomas neurológicos associados, como parestesias, irritabilidade, demência e fraqueza muscular.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:55:27.733857 +0000 UTC",
+                        "updated_at": "2021-07-25 11:17:19.134255 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 10
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma criança com 3 anos de idade é levada à consulta na Unidade Básica de Saúde.   A mãe queixa-se que o filho não está crescendo, tem apresentado perda do apetite e parece não enxergar bem, principalmente no período da noite. Ao exame físico, o médico observou que o peso da criança se situa entre (-2) e (-3) escore z da curva da    Organização Mundial da Saúde, além de xerodermia e xeroftalmia. O quadro clínico apresentado pela criança é de:",
+            "statement_text": "Uma criança com 3 anos de idade é levada à consulta na Unidade Básica de Saúde.   A mãe queixa-se que o filho não está crescendo, tem apresentado perda do apetite e parece não enxergar bem, principalmente no período da noite. Ao exame físico, o médico observou que o peso da criança se situa entre (-2) e (-3) escore z da curva da    Organização Mundial da Saúde, além de xerodermia e xeroftalmia. O quadro clínico apresentado pela criança é de:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "liz.muller@globomail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 03:58:29.359031 +0000 UTC",
+            "forum_id": "1dd2c908-9538-434f-bec0-6950f1c8a59c",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA A</b></div><div><br></div>Caro aluno,<div><br><div>Vamos organizar os dados do enunciado;</div><div><br></div><div>•\tCrianças de 3 anos,</div><div>•\tPerda do apetite,</div><div>•\tDesnutrida (escore Z entre -2 e -3)</div><div>•\tXerodermia e xeroftalmia.</div><div><br></div><div>A Organização Mundial de Saúde leva em conta o Escore Z (P/E) e classifica a desnutrição em:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A9EABEE5-37BA-37FC-F18E-2E2753DD548B/A9EABEE5-37BA-37FC-F18E-2E2753DD548B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Crianças com desnutrição grave apresentam várias deficiências vitamínicas, dentre elas a deficiência de Vitamina A.</div><div><br></div><div>A Vitamina A é um micronutriente de origem animal (retinol) e vegetal (provitamina A). Ela atua na renovação celular do nosso organismo. Como não somos capazes de produzir a Vitamina A, ela deve ser consumida através da dieta. São alimentos ricos em Vitamina A: leite humano, gema de ovo, fígado, leite, cenoura, abóbora, manga, caqui, goiaba).</div><div><br></div><div>A deficiência clássica da Vitamina A cursa com fotofobia, xeroftalmia, manchas conjuntivais (Manchas de Bitot) podendo evoluir para cegueira. Além disso, a hipovitaminose A pode ocasionar déficit de crescimento ósseo com baixa estatura, devido a alterações na placa epifisária, anemia, insônia, fadiga, inapetência, perda de peso, alteração do paladar, queratinização das papilas gustativas e de mucosas (respiratória, gastrointestinal e urinárias).&nbsp;</div><div><br></div><div>Na pele, pacientes com hipovitaminose A apresentam acne, xerodermia, hiperqueratose folicular, cabelos secos e destruição dos folículos capilares. Observe a figura abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/74A711AD-0999-E7FC-59F8-4F5A3E5B4209/74A711AD-0999-E7FC-59F8-4F5A3E5B4209-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA ACaro aluno,Vamos organizar os dados do enunciado;•\tCrianças de 3 anos,•\tPerda do apetite,•\tDesnutrida (escore Z entre -2 e -3)•\tXerodermia e xeroftalmia.A Organização Mundial de Saúde leva em conta o Escore Z (P/E) e classifica a desnutrição em:Crianças com desnutrição grave apresentam várias deficiências vitamínicas, dentre elas a deficiência de Vitamina A.A Vitamina A é um micronutriente de origem animal (retinol) e vegetal (provitamina A). Ela atua na renovação celular do nosso organismo. Como não somos capazes de produzir a Vitamina A, ela deve ser consumida através da dieta. São alimentos ricos em Vitamina A: leite humano, gema de ovo, fígado, leite, cenoura, abóbora, manga, caqui, goiaba).A deficiência clássica da Vitamina A cursa com fotofobia, xeroftalmia, manchas conjuntivais (Manchas de Bitot) podendo evoluir para cegueira. Além disso, a hipovitaminose A pode ocasionar déficit de crescimento ósseo com baixa estatura, devido a alterações na placa epifisária, anemia, insônia, fadiga, inapetência, perda de peso, alteração do paladar, queratinização das papilas gustativas e de mucosas (respiratória, gastrointestinal e urinárias). Na pele, pacientes com hipovitaminose A apresentam acne, xerodermia, hiperqueratose folicular, cabelos secos e destruição dos folículos capilares. Observe a figura abaixo:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                "author_profile": {
+                    "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                    "full_name": "Andrea Makssoudian",
+                    "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+                    "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                            "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                            "name": "Twitter",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-12 19:55:27.874334 +0000 UTC",
+                "updated_at": "2021-07-25 11:17:19.321787 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127000-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000103767",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "7302e208-b9d4-4001-967d-348213e06370",
+                            "name": "SP - Universidade de São Paulo - USP (Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "8962AE78-1BA2-BF78-5162-3E38D6489084"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T17:39:33Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "667459abb63a443ba858df1ca9100007",
+                    "name": "Dermatoses carenciais",
+                    "is_master": false,
+                    "master_id": "623365fad6504ba49a2c9d3cede215c0",
+                    "path": "Clínica Médica[$$]Dermatologia [$$]Miscelânea[$$]Dermatoses carenciais",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "96f97fbb854b4bd8bc93fe32779c47ae",
+                    "name": "Vitamina B3/Niacina",
+                    "is_master": false,
+                    "master_id": "c45d7af930094da39aae0732723a1750",
+                    "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B3/Niacina",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "d32832fb150b4f248cb138500c75dae5",
+                    "name": "Deficiência/Pelagra",
+                    "is_master": false,
+                    "master_id": "96f97fbb854b4bd8bc93fe32779c47ae",
+                    "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B3/Niacina[$$]Deficiência/Pelagra",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "188d9065-65b6-4018-a2fa-91d5b60f8787",
+                    "position": "0",
+                    "body": "Corticosteroides sistêmicos.&nbsp;",
+                    "sanitized_body": "Corticosteroides sistêmicos. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 23:12:24.317638 +0000 UTC",
+                    "updated_at": "2020-10-29 22:51:51.297319 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa A) Incorreta. Não utilizamos corticoides sistêmicos para o tratamento da pelagra.<div>&nbsp;</div><div><br></div>",
+                        "sanitized_complete": "Alternativa A) Incorreta. Não utilizamos corticoides sistêmicos para o tratamento da pelagra. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-13 10:11:01.017566 +0000 UTC",
+                        "updated_at": "2020-10-30 14:08:27.294708 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 3
+                },
+                {
+                    "id": "44f011cd-fffa-4f8b-98cc-60250fac6494",
+                    "position": "1",
+                    "body": "Vitaminas do complexo B.&nbsp;",
+                    "sanitized_body": "Vitaminas do complexo B. ",
+                    "correct": true,
+                    "created_at": "2020-09-15 23:12:24.317638 +0000 UTC",
+                    "updated_at": "2020-10-29 22:51:51.36218 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa B) Correta. O tratamento é feito com suplementos vitamínicos do complexo B.<div><br></div>",
+                        "sanitized_complete": "Alternativa B) Correta. O tratamento é feito com suplementos vitamínicos do complexo B.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-13 10:11:01.056519 +0000 UTC",
+                        "updated_at": "2020-10-30 14:08:27.301248 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 141
+                },
+                {
+                    "id": "00ebe770-e437-4ab2-bb5c-eb91ccbdcd23",
+                    "position": "2",
+                    "body": "Filtro solar.",
+                    "sanitized_body": "Filtro solar.",
+                    "correct": false,
+                    "created_at": "2020-09-15 23:12:24.317638 +0000 UTC",
+                    "updated_at": "2020-10-29 22:51:51.43035 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa C) Incorreta. O uso de filtro solar deve ser indicado, porém não é o principal tratamento para pelagra.<div><br></div>",
+                        "sanitized_complete": "Alternativa C) Incorreta. O uso de filtro solar deve ser indicado, porém não é o principal tratamento para pelagra.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-13 10:11:01.03008 +0000 UTC",
+                        "updated_at": "2020-10-30 14:08:27.316022 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 1
+                },
+                {
+                    "id": "7cc35022-33e1-41b7-a2ef-1a1b59468e01",
+                    "position": "3",
+                    "body": "Hidroquinona.",
+                    "sanitized_body": "Hidroquinona.",
+                    "correct": false,
+                    "created_at": "2020-09-15 23:12:24.317638 +0000 UTC",
+                    "updated_at": "2020-10-29 22:51:51.511808 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa D) Incorreta. A hidroquinona é um inibidor da tirosina quinase utilizado para clareamento de manchas cutâneas, como o melasma. Não é utilizado para o tratamento da pelagra.<div><br></div>",
+                        "sanitized_complete": "Alternativa D) Incorreta. A hidroquinona é um inibidor da tirosina quinase utilizado para clareamento de manchas cutâneas, como o melasma. Não é utilizado para o tratamento da pelagra.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-13 10:11:01.022293 +0000 UTC",
+                        "updated_at": "2020-10-30 14:08:27.316943 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 1
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Homem, 40 anos de idade, foi trazido por familiares ao atendimento. HMA: relataram emagrecimento, episódios de diarreia e antecedentes de etilismo crônico. EF: ao exame dermatológico, foram observadas alterações cutâneas. (VER IMAGEM) Qual a conduta terapêutica mais indicada?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/47055DAE-16ED-B2AC-D4DC-782DF0AC7F1E/47055DAE-16ED-B2AC-D4DC-782DF0AC7F1E-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+            "statement_text": "Homem, 40 anos de idade, foi trazido por familiares ao atendimento. HMA: relataram emagrecimento, episódios de diarreia e antecedentes de etilismo crônico. EF: ao exame dermatológico, foram observadas alterações cutâneas. (VER IMAGEM) Qual a conduta terapêutica mais indicada?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "juninhoksantos@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 23:12:24.317638 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><br></div><div>O que nós visualizamos nesse caso é um eritema levemente violáceo, fotodistribuído, com áreas de hiperpigmentação. Perceba que as lesões estão localizadas no colo, na face extensora dos braços e das pernas. Nos pés conseguimos ver nitidamente a distinção de onde a pele é protegida pela borracha do calçado do paciente. Esse quadro dermatológico é muito característico de pelagra. A pelagra ocorre devido à falta de vitamina B3. É conhecida como doença dos 4 D’s: dermatite, diarréia, demência e “death” (morte). É encontrada principalmente em pacientes desnutridos ou alcoólatras, porém pode ocorrer secundária ao uso da isoniazida. Outras causas são: colite crônica, cirrose hepática, tumor carcinoide, síndrome de Hartnup. O sinal dermatológico conhecido é o “colar de casal”, que consiste em uma faixa bem demarcada ao redor do pescoço. Pode ocorrer ainda inflamação perianal e oral, queilite e glossite. O tratamento é feito com a administração de niacina ou nicotinamida. Mas, como esses pacientes geralmente são desnutridos, muitas vezes são administrados suplementos vitamínicos do complexo B.<div>&nbsp;</div><div><br></div></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B.O que nós visualizamos nesse caso é um eritema levemente violáceo, fotodistribuído, com áreas de hiperpigmentação. Perceba que as lesões estão localizadas no colo, na face extensora dos braços e das pernas. Nos pés conseguimos ver nitidamente a distinção de onde a pele é protegida pela borracha do calçado do paciente. Esse quadro dermatológico é muito característico de pelagra. A pelagra ocorre devido à falta de vitamina B3. É conhecida como doença dos 4 D’s: dermatite, diarréia, demência e “death” (morte). É encontrada principalmente em pacientes desnutridos ou alcoólatras, porém pode ocorrer secundária ao uso da isoniazida. Outras causas são: colite crônica, cirrose hepática, tumor carcinoide, síndrome de Hartnup. O sinal dermatológico conhecido é o “colar de casal”, que consiste em uma faixa bem demarcada ao redor do pescoço. Pode ocorrer ainda inflamação perianal e oral, queilite e glossite. O tratamento é feito com a administração de niacina ou nicotinamida. Mas, como esses pacientes geralmente são desnutridos, muitas vezes são administrados suplementos vitamínicos do complexo B. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                "author_profile": {
+                    "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                    "full_name": "Bruno de Castro e Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+                    "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-13 10:11:01.186259 +0000 UTC",
+                "updated_at": "2020-10-30 14:08:27.486173 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000103767-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000078185",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "af651dfc-56df-4f08-b73d-3f9eb02e1f69",
+                            "name": "RJ - Universidade Federal do Rio de Janeiro - UFRJ (Hospital Universitário Clementino Fraga Filho -- HUCFF)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "831D67EE-D589-FC34-E1B1-7B9D84D482AF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-08T10:59:20Z",
+                    "updated_at": "2020-11-26T03:11:38Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "45c689d9802748dcb1f6308fb98b7dbb",
+                    "name": "Perfil de ferro na anemia ferropriva",
+                    "is_master": false,
+                    "master_id": "2a06d4b65b5f45c9a372fde71a61a421",
+                    "path": "Clínica Médica[$$]Hematologia [$$]Anemias microcíticas[$$]Anemia ferropriva[$$]Diagnóstico da anemia ferropriva[$$]Perfil de ferro na anemia ferropriva",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "c7166a2d20f24a64afdf703d92c38fe4",
+                    "name": "Classificação das anemias - Foco na ferropriva",
+                    "is_master": false,
+                    "master_id": "003782d453834368879a9b20d352d684",
+                    "path": "Pediatria[$$]Hematologia Pediátrica[$$]Anemia ferropriva na infância[$$]Classificação das anemias - Foco na ferropriva",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "d1e624e8-90c0-416a-95da-65ae4b20ee77",
+                    "position": "0",
+                    "body": "Alfatalassemia.",
+                    "sanitized_body": "Alfatalassemia.",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:25:45.410083 +0000 UTC",
+                    "updated_at": "2020-11-23 18:48:51.477706 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>INCORRETA AS ALTERNATIVAS A e C </b>pelo explicado acima, além disso, as anemias alfatalassemia e betatalassemia são hereditárias e mais infrequentes.&nbsp;",
+                        "sanitized_complete": "INCORRETA AS ALTERNATIVAS A e C pelo explicado acima, além disso, as anemias alfatalassemia e betatalassemia são hereditárias e mais infrequentes. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:56:02.184704 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:50.680034 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 1
+                },
+                {
+                    "id": "f1dfc481-6897-47fb-8e83-09426171b72e",
+                    "position": "1",
+                    "body": "Anemia ferropriva.",
+                    "sanitized_body": "Anemia ferropriva.",
+                    "correct": true,
+                    "created_at": "2020-09-14 14:25:45.410083 +0000 UTC",
+                    "updated_at": "2020-11-23 18:48:51.53304 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:56:02.169508 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:50.67013 +0000 UTC"
+                    },
+                    "answer_percentage": 92,
+                    "answers": 66
+                },
+                {
+                    "id": "483e931f-779d-4995-9fea-0d3e3790f24a",
+                    "position": "2",
+                    "body": "Betatalassemia.",
+                    "sanitized_body": "Betatalassemia.",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:25:45.410083 +0000 UTC",
+                    "updated_at": "2020-11-23 18:48:51.589591 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:56:02.176859 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:50.665216 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 2
+                },
+                {
+                    "id": "8a0aa209-04fc-4ade-8330-e1f5f5a1c732",
+                    "position": "3",
+                    "body": "Anemia da doença crônica.",
+                    "sanitized_body": "Anemia da doença crônica.",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:25:45.410083 +0000 UTC",
+                    "updated_at": "2020-11-23 18:48:51.656803 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>INCORRETA A ALTERNATIVA D </b>porque anemia de doença crônica é normocrômica e normocítica.&nbsp;",
+                        "sanitized_complete": "INCORRETA A ALTERNATIVA D porque anemia de doença crônica é normocrômica e normocítica. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:56:02.177576 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:50.672713 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 3
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Criança apresenta anemia microcítica, diminuição da hemoglobina e do número de células vermelhas; RDW e capacidade total de ligação do ferro aumentados.&nbsp;<div><br></div><div>A etiologia mais provável é:</div>",
+            "statement_text": "Criança apresenta anemia microcítica, diminuição da hemoglobina e do número de células vermelhas; RDW e capacidade total de ligação do ferro aumentados. A etiologia mais provável é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 14:25:45.410083 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>CORRETA A ALTERNATIVA B&nbsp;</b></div><div><br></div><div>Porque a etiologia <b>mais provável (mais prevalente) em crianças </b>de uma anemia <b>microcítica e hipocrômica é a anemia ferropriva</b>.&nbsp;</div><div><br></div>Caro colega, a anemia ferropriva é um tema que cai muito em pediatria nas provas de residência como um todo! Tanto por sua importância no diagnóstico precoce e no tratamento, quanto por sua alta prevalência!&nbsp;<div><br></div><div>O RDW é o coeficiente de variação do tamanho da hemácia (anisocitose), se há deficiência de ferro, com a produção errática, as hemácias ficam de diferentes tamanhos e a <b>anisocitose (RDW) aumenta</b>, isto diferencia a anemia carencial ferropriva das outras anemias microcíticas hereditárias em que não há variação do RDW (pois as hemácias alteradas geneticamente são produzidas da mesma maneira), <u>mas nem precisaríamos saber disto para responder esta questão!<br></u></div><div><br></div><div>(Em relação à capacidade de ligação total de ferro, ela indica a quantidade máxima de ferro que pode se ligar a transferrina e, se temos carência de ferro, a transferrina estará “ávida” por se ligar ao ferro! Então, ela estará elevada na anemia ferropriva.)</div>",
+                "sanitized_complete": "CORRETA A ALTERNATIVA B Porque a etiologia mais provável (mais prevalente) em crianças de uma anemia microcítica e hipocrômica é a anemia ferropriva. Caro colega, a anemia ferropriva é um tema que cai muito em pediatria nas provas de residência como um todo! Tanto por sua importância no diagnóstico precoce e no tratamento, quanto por sua alta prevalência! O RDW é o coeficiente de variação do tamanho da hemácia (anisocitose), se há deficiência de ferro, com a produção errática, as hemácias ficam de diferentes tamanhos e a anisocitose (RDW) aumenta, isto diferencia a anemia carencial ferropriva das outras anemias microcíticas hereditárias em que não há variação do RDW (pois as hemácias alteradas geneticamente são produzidas da mesma maneira), mas nem precisaríamos saber disto para responder esta questão!(Em relação à capacidade de ligação total de ferro, ela indica a quantidade máxima de ferro que pode se ligar a transferrina e, se temos carência de ferro, a transferrina estará “ávida” por se ligar ao ferro! Então, ela estará elevada na anemia ferropriva.)",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                "author_profile": {
+                    "id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                    "full_name": "Raquel Quiles",
+                    "avatar_url": "https://static.accounts.estrategia.com/e4f63c504d8737d11ad75605b3761139",
+                    "about_me": "Currículo Médico\n- Formação: Médica Pediatra, formada pela Faculdade de Medicina da Universidade de São Paulo (FM- USP) – Graduação e Residência Médica\n- Título de Especialista em Pediatria (TEP) da Sociedade Brasileira de Pediatria;\n- Especialização em Pediatria e em Cancerologia Pediátrica, Programa de Residência Médica, Pós-Graduação Senso Lato, da FM-USP, no ICrInstituto de Tratamento do Câncer Infantil (ITACI);\n\nAtualmente: Pediatra Professora EstratégiaMed;\n                    Pediatra Professora UNICID;\n\nAtividade acadêmicaprofissional anterior: \n- Médica Preceptora do Hospital Israelita Albert Einstein (HIAE), na Unidade de Pronto Atendimento, com atuação na supervisão do médico residente e na organização da residência médica de pediatria;\n- Médica Assistente do Centro de Referência Nacional de Saúde da Criança do Instituto da Criança (ICr) do Hospital das Clínicas da FM-USP, no Centro de Saúde Escola Samuel Pessoa – Butantã, no ensino de pediatria ambulatorial aos alunos do 4º e 5º ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Assistente do Hospital 9 de Julho, em São Paulo, na Unidade de Internação Pediátrica;\n- Médica Assistente do Corpo Clínico do Hospital Santa Catarina, em São Paulo, no Pronto Socorro Infantil;\n- Consultório Médico de Pediatria Geral e Puericultura;\n- Médica Pediatra do NASF (Núcleo de Apoio à Saúde da Família);\n- Médica Preceptora da Disciplina de Pediatria Clinica I –MPE-521, no Ambulatório Geral de Pediatria do Hospital Universitário. Com atuação no ensino dos alunos do 5o ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Plantonista do Hospital Estadual Vila Alpina, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital da Criança, do Hospital Nossa Sra. de Lourdes, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital 9 de Julho, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Instituto de Tratamento do Câncer Infantil (ITACI), na enfermaria unidade de internação;\n- Médica Plantonista do Hospital Metropolitano, de São Paulo, no Pronto Socorro Infantil;\n\nRedes Sociais:\nwww.facebook.comdraraquelquiles\nwww.instagram.comdraraquelquiles",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/draraquelquiles",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draraquelquiles",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-02 02:56:02.266023 +0000 UTC",
+                "updated_at": "2020-10-09 15:00:50.760921 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000078185-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000077993",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "af651dfc-56df-4f08-b73d-3f9eb02e1f69",
+                            "name": "RJ - Universidade Federal do Rio de Janeiro - UFRJ (Hospital Universitário Clementino Fraga Filho -- HUCFF)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "831D67EE-D589-FC34-E1B1-7B9D84D482AF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-08T10:59:20Z",
+                    "updated_at": "2020-11-26T03:11:38Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "371fb0b8edc64ced9e7aecf920cd6772",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "003782d453834368879a9b20d352d684",
+                    "path": "Pediatria[$$]Hematologia Pediátrica[$$]Anemia ferropriva na infância[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "71abe33a-f2c6-4f6b-b7a1-5a1ca8f0d471",
+                    "position": "0",
+                    "body": "150 mg;",
+                    "sanitized_body": "150 mg;",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:17:57.957996 +0000 UTC",
+                    "updated_at": "2020-11-23 18:46:13.439876 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:27:37.340089 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:52.999475 +0000 UTC"
+                    },
+                    "answer_percentage": 15,
+                    "answers": 8
+                },
+                {
+                    "id": "8d09c88a-994d-42ba-976a-7d4b356e8f0e",
+                    "position": "1",
+                    "body": "345 mg;",
+                    "sanitized_body": "345 mg;",
+                    "correct": true,
+                    "created_at": "2020-09-14 14:17:57.957996 +0000 UTC",
+                    "updated_at": "2020-11-23 18:46:13.567921 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:27:37.333287 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:52.993524 +0000 UTC"
+                    },
+                    "answer_percentage": 50,
+                    "answers": 27
+                },
+                {
+                    "id": "733e3c28-494c-4d32-9759-5f45c8fbcaff",
+                    "position": "2",
+                    "body": "600 mg;",
+                    "sanitized_body": "600 mg;",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:17:57.957996 +0000 UTC",
+                    "updated_at": "2020-11-23 18:46:13.687757 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:27:37.332996 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:52.994459 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 9
+                },
+                {
+                    "id": "f7a15b34-9d10-4be7-aaeb-80d990407237",
+                    "position": "3",
+                    "body": "750 mg;",
+                    "sanitized_body": "750 mg;",
+                    "correct": false,
+                    "created_at": "2020-09-14 14:17:57.957996 +0000 UTC",
+                    "updated_at": "2020-11-23 18:46:13.800887 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                        "author_profile": null,
+                        "created_at": "2020-10-02 02:27:37.335783 +0000 UTC",
+                        "updated_at": "2020-10-09 15:00:52.993535 +0000 UTC"
+                    },
+                    "answer_percentage": 19,
+                    "answers": 10
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Criança,15 kg, com diagnóstico de anemia por deficiência de ferro. A dose adequada de sulfato ferroso, por dia, para o tratamento é:",
+            "statement_text": "Criança,15 kg, com diagnóstico de anemia por deficiência de ferro. A dose adequada de sulfato ferroso, por dia, para o tratamento é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 14:17:57.957996 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>CORRETA A ALTERNATIVA B</b></div><div><br></div>Caro colega, a anemia ferropriva é a anemia mais prevalente na infância e é <b>sabidamente microcítica </b>(VCM: volume diminuído) <b>e hipocrômica </b>(HCM: Hb corpuscular média diminuída), é um tema que cai muito em pediatria nas provas de residência como um todo! Tanto por sua importância no diagnóstico precoce e no tratamento, quanto por sua alta prevalência!<div><br></div><div><div><div>A <b>dose terapêutica </b>mais recomendada atualmente para tratamento dessa anemia <b>é de 5 mg/kg/dia (pelo Ministério da Saúde (MS): 3 a 6 mg/kg/dia), portanto, 5 x 15 Kg (que pesa a criança) = 75 mg de ferro elementar (por dia)</b>. Como cada 5 mg de sulfato ferroso tem 1 mg de ferro elementar: 75 mg de Fe x 5 = 375 mg.&nbsp;</div><div><br></div><div><b>CORRETA A ALTERNATIVA B:</b> porque é a que mais se aproxima da dose terapêutica mais recomentada: 345 mg. Também está no intervalo de dose preconizada pelo MS.&nbsp;</div><div><br></div><div>Incorretas as alternativas A, C e D.</div></div></div>",
+                "sanitized_complete": "CORRETA A ALTERNATIVA BCaro colega, a anemia ferropriva é a anemia mais prevalente na infância e é sabidamente microcítica (VCM: volume diminuído) e hipocrômica (HCM: Hb corpuscular média diminuída), é um tema que cai muito em pediatria nas provas de residência como um todo! Tanto por sua importância no diagnóstico precoce e no tratamento, quanto por sua alta prevalência!A dose terapêutica mais recomendada atualmente para tratamento dessa anemia é de 5 mg/kg/dia (pelo Ministério da Saúde (MS): 3 a 6 mg/kg/dia), portanto, 5 x 15 Kg (que pesa a criança) = 75 mg de ferro elementar (por dia). Como cada 5 mg de sulfato ferroso tem 1 mg de ferro elementar: 75 mg de Fe x 5 = 375 mg. CORRETA A ALTERNATIVA B: porque é a que mais se aproxima da dose terapêutica mais recomentada: 345 mg. Também está no intervalo de dose preconizada pelo MS. Incorretas as alternativas A, C e D.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+                "author_profile": {
+                    "id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+                    "full_name": "Raquel Quiles",
+                    "avatar_url": "https://static.accounts.estrategia.com/e4f63c504d8737d11ad75605b3761139",
+                    "about_me": "Currículo Médico\n- Formação: Médica Pediatra, formada pela Faculdade de Medicina da Universidade de São Paulo (FM- USP) – Graduação e Residência Médica\n- Título de Especialista em Pediatria (TEP) da Sociedade Brasileira de Pediatria;\n- Especialização em Pediatria e em Cancerologia Pediátrica, Programa de Residência Médica, Pós-Graduação Senso Lato, da FM-USP, no ICrInstituto de Tratamento do Câncer Infantil (ITACI);\n\nAtualmente: Pediatra Professora EstratégiaMed;\n                    Pediatra Professora UNICID;\n\nAtividade acadêmicaprofissional anterior: \n- Médica Preceptora do Hospital Israelita Albert Einstein (HIAE), na Unidade de Pronto Atendimento, com atuação na supervisão do médico residente e na organização da residência médica de pediatria;\n- Médica Assistente do Centro de Referência Nacional de Saúde da Criança do Instituto da Criança (ICr) do Hospital das Clínicas da FM-USP, no Centro de Saúde Escola Samuel Pessoa – Butantã, no ensino de pediatria ambulatorial aos alunos do 4º e 5º ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Assistente do Hospital 9 de Julho, em São Paulo, na Unidade de Internação Pediátrica;\n- Médica Assistente do Corpo Clínico do Hospital Santa Catarina, em São Paulo, no Pronto Socorro Infantil;\n- Consultório Médico de Pediatria Geral e Puericultura;\n- Médica Pediatra do NASF (Núcleo de Apoio à Saúde da Família);\n- Médica Preceptora da Disciplina de Pediatria Clinica I –MPE-521, no Ambulatório Geral de Pediatria do Hospital Universitário. Com atuação no ensino dos alunos do 5o ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Plantonista do Hospital Estadual Vila Alpina, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital da Criança, do Hospital Nossa Sra. de Lourdes, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital 9 de Julho, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Instituto de Tratamento do Câncer Infantil (ITACI), na enfermaria unidade de internação;\n- Médica Plantonista do Hospital Metropolitano, de São Paulo, no Pronto Socorro Infantil;\n\nRedes Sociais:\nwww.facebook.comdraraquelquiles\nwww.instagram.comdraraquelquiles",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/draraquelquiles",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draraquelquiles",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-02 02:27:37.456462 +0000 UTC",
+                "updated_at": "2020-10-09 15:00:53.085587 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000077993-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000127107",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2013,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T18:11:02Z",
+                    "updated_at": "2020-09-24T15:35:26Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "2c6293a6269f4c44aedc953b2eeec6d5",
+                    "name": "Raquitismo",
+                    "is_master": false,
+                    "master_id": "90c98d9d2fe1431fa591938c9bb3a8ce",
+                    "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina D/Colecalciferol[$$]Raquitismo",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f05ce2f2-e4dc-4467-9fee-991dd23d7782",
+                    "position": "0",
+                    "body": "Osteopenia e perda da densidade  óssea.",
+                    "sanitized_body": "Osteopenia e perda da densidade  óssea.",
+                    "correct": false,
+                    "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+                    "updated_at": "2020-10-12 19:41:22.446846 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta alternativa “A” porque a ostepenia, embora possa induzir a fraturas, não ocasiona este alargamento significativo das epífises que observamos na figura acima.",
+                        "sanitized_complete": "Incorreta alternativa “A” porque a ostepenia, embora possa induzir a fraturas, não ocasiona este alargamento significativo das epífises que observamos na figura acima.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:42:29.245305 +0000 UTC",
+                        "updated_at": "2020-10-12 19:42:30.997019 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 36
+                },
+                {
+                    "id": "e44324d7-a2fb-481d-94d6-b62fdbe2ba5d",
+                    "position": "1",
+                    "body": "Hipotireoidismo e atraso da idade  óssea.",
+                    "sanitized_body": "Hipotireoidismo e atraso da idade  óssea.",
+                    "correct": false,
+                    "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+                    "updated_at": "2020-10-12 19:41:22.583084 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta alternativa “B” porque embora, este paciente apresente alguns sintomas encontrados no hipotireoidismo (hérnia umbilical e baixa estatura), a rarefação óssea, propensão a fraturas, alargamento epifisário e desproporção de relação entre segmento superior e inferior, não são encontrados em pacientes com hipotieroidismo.",
+                        "sanitized_complete": "Incorreta alternativa “B” porque embora, este paciente apresente alguns sintomas encontrados no hipotireoidismo (hérnia umbilical e baixa estatura), a rarefação óssea, propensão a fraturas, alargamento epifisário e desproporção de relação entre segmento superior e inferior, não são encontrados em pacientes com hipotieroidismo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:42:29.24433 +0000 UTC",
+                        "updated_at": "2020-10-12 19:42:30.991208 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 49
+                },
+                {
+                    "id": "3434e894-577a-460e-968e-e118cda76031",
+                    "position": "2",
+                    "body": "Deficiência de fósforo e osteomalácia.",
+                    "sanitized_body": "Deficiência de fósforo e osteomalácia.",
+                    "correct": false,
+                    "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+                    "updated_at": "2020-10-12 19:41:22.718013 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta alternativa “C” porque a osteomalácia é uma condição que ocorre após o fechamento da cartilagem de crescimento. Ela se caracteriza por deficiente mineralização óssea devido a baixas concentrações de cálcio e fósforo. Por não ser uma condição encontrada em crianças, esta hipótese diagnóstica pode ser afastada.",
+                        "sanitized_complete": "Incorreta alternativa “C” porque a osteomalácia é uma condição que ocorre após o fechamento da cartilagem de crescimento. Ela se caracteriza por deficiente mineralização óssea devido a baixas concentrações de cálcio e fósforo. Por não ser uma condição encontrada em crianças, esta hipótese diagnóstica pode ser afastada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:42:29.231516 +0000 UTC",
+                        "updated_at": "2020-10-12 19:42:31.002102 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 10
+                },
+                {
+                    "id": "0b951f6d-0821-4dd2-b05d-c877e7647909",
+                    "position": "3",
+                    "body": "Displasia óssea e displasia  metafisária.",
+                    "sanitized_body": "Displasia óssea e displasia  metafisária.",
+                    "correct": false,
+                    "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+                    "updated_at": "2020-10-12 19:41:22.85176 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta alternativa “D” porque as displasias óssea e epifisária se caracterizam por anomalias na região epifisária que cursam com osteocondrite e artrose precoce. Constituem uma condição rara e não estão associadas ao quadro clínico descrito.&nbsp;",
+                        "sanitized_complete": "Incorreta alternativa “D” porque as displasias óssea e epifisária se caracterizam por anomalias na região epifisária que cursam com osteocondrite e artrose precoce. Constituem uma condição rara e não estão associadas ao quadro clínico descrito. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:42:29.249829 +0000 UTC",
+                        "updated_at": "2020-10-12 19:42:30.993656 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 17
+                },
+                {
+                    "id": "a5507576-a4aa-41c7-90ab-b23cf33daf4c",
+                    "position": "4",
+                    "body": "Raquitismo e alargamento das  epífises.",
+                    "sanitized_body": "Raquitismo e alargamento das  epífises.",
+                    "correct": true,
+                    "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+                    "updated_at": "2020-10-12 19:41:22.986407 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta alternativa “E” porque o raquitismo carencial pode se manifestar com o quadro clínico descrito no enunciado, associado a fraturas recorrentes e com as alterações radiológicas apresentadas nas radiografias fornecidas.",
+                        "sanitized_complete": "Correta alternativa “E” porque o raquitismo carencial pode se manifestar com o quadro clínico descrito no enunciado, associado a fraturas recorrentes e com as alterações radiológicas apresentadas nas radiografias fornecidas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                        "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                        "author_profile": null,
+                        "created_at": "2020-10-12 19:42:29.238853 +0000 UTC",
+                        "updated_at": "2020-10-12 19:42:31.00928 +0000 UTC"
+                    },
+                    "answer_percentage": 75,
+                    "answers": 343
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "<div>Criança com três anos de idade, nascida à termo, não acompanhada regularmente na Puericultura, foi levada pela mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após avaliação médica, foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e inferior, hipotonia muscular e hérnia umbilical pequena. O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo.</div><!-- BEGIN:IMAGE_TO_REPLACE --><div><br></div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9617331C-D0E5-B931-A0DD-8E6D46F8FF5B/9617331C-D0E5-B931-A0DD-8E6D46F8FF5B-400.bmp\"><div><br></div><div>O diagnóstico e  a alteração radiológica que o confirma são, respectivamente:</div>",
+            "statement_text": "Criança com três anos de idade, nascida à termo, não acompanhada regularmente na Puericultura, foi levada pela mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após avaliação médica, foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e inferior, hipotonia muscular e hérnia umbilical pequena. O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo.O diagnóstico e  a alteração radiológica que o confirma são, respectivamente:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA E</b></div><div><br></div>Caro aluno,<div><br><div>Vamos organizar os dados do enunciado:</div><div><br></div><div>•\tCriança de três anos,</div><div>•\tFratura no antebraço direito,</div><div>•\tbaixa estatura para a idade,&nbsp;</div><div>•\tescoliose,&nbsp;</div><div>•\tdesproporção da relação segmento superior e inferior,&nbsp;</div><div>•\thipotonia muscular,</div><div>•\thérnia umbilical pequena</div><div><br></div><div>Observamos nestas radiografias um arqueamento do fêmur e alargamento importante das epífises do fêmur, tíbia e do rádio.</div><div><br></div><div>O raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. Sendo as manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania. Veja a figura:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6F6B8254-AD7D-8156-42C3-7CA68EB0BC0B/6F6B8254-AD7D-8156-42C3-7CA68EB0BC0B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA ECaro aluno,Vamos organizar os dados do enunciado:•\tCriança de três anos,•\tFratura no antebraço direito,•\tbaixa estatura para a idade, •\tescoliose, •\tdesproporção da relação segmento superior e inferior, •\thipotonia muscular,•\thérnia umbilical pequenaObservamos nestas radiografias um arqueamento do fêmur e alargamento importante das epífises do fêmur, tíbia e do rádio.O raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. Sendo as manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania. Veja a figura:Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+                "author_profile": {
+                    "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+                    "full_name": "Andrea Makssoudian",
+                    "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+                    "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+                    "social_networks": [
+                        {
+                            "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                            "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                            "name": "Twitter",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+                        },
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-12 19:42:29.380054 +0000 UTC",
+                "updated_at": "2020-10-12 19:42:31.055258 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127107-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000066417",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2013,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "4f7b79b9-6ac0-4037-ae9a-94677d9a1054",
+                            "name": "RJ - Universidade do Estado do Rio de Janeiro - UERJ (Hospital Universitário Pedro Ernesto - HUPE)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "37D0677D-33FE-6B59-6536-CE95D26D7A31"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T20:20:35Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "667459abb63a443ba858df1ca9100007",
+                    "name": "Dermatoses carenciais",
+                    "is_master": false,
+                    "master_id": "623365fad6504ba49a2c9d3cede215c0",
+                    "path": "Clínica Médica[$$]Dermatologia [$$]Miscelânea[$$]Dermatoses carenciais",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "d32832fb150b4f248cb138500c75dae5",
+                    "name": "Deficiência/Pelagra",
+                    "is_master": false,
+                    "master_id": "96f97fbb854b4bd8bc93fe32779c47ae",
+                    "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B3/Niacina[$$]Deficiência/Pelagra",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "94427a68-5328-4c2b-9b2e-d15c49b48078",
+                    "position": "0",
+                    "body": "Ácido fólico.",
+                    "sanitized_body": "Ácido fólico.",
+                    "correct": false,
+                    "created_at": "2020-09-13 17:41:27.343774 +0000 UTC",
+                    "updated_at": "2020-10-26 14:44:07.940187 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "0882048b031f40a1bda2c84192611226",
+                            "name": "Deficiência de ácido fólico",
+                            "is_master": false,
+                            "master_id": "457df38c7f754ae3a4cc420d22e85746",
+                            "path": "Clínica Médica[$$]Hematologia [$$]Anemias macrocíticas[$$]Anemia megaloblástica[$$]Deficiência de ácido fólico",
+                            "has_children": true,
+                            "nodes": null
+                        },
+                        {
+                            "id": "5d1bbeb1459b430e9c1002a03cfe4572",
+                            "name": "Carência nutricional do ácido fólico",
+                            "is_master": false,
+                            "master_id": "0882048b031f40a1bda2c84192611226",
+                            "path": "Clínica Médica[$$]Hematologia [$$]Anemias macrocíticas[$$]Anemia megaloblástica[$$]Deficiência de ácido fólico[$$]Carência nutricional do ácido fólico",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "e57a71bcb0414ae7a1ab3019398c260c",
+                            "name": "Vitamina B9/Ácido Fólico",
+                            "is_master": false,
+                            "master_id": "c45d7af930094da39aae0732723a1750",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B9/Ácido Fólico",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa A) Incorreta. A deficiência de ácido fólico (vitamina B9) leva a queilite, glossite, erosões mucosas e hiperpigmentação difusa com acentuação em áreas expostas ao sol, quadro semelhante ao da deficiência de vitamina B12. Leva a anemia megaloblástica e sintomas neuropsiquiátricos.<div><br></div>",
+                        "sanitized_complete": "Alternativa A) Incorreta. A deficiência de ácido fólico (vitamina B9) leva a queilite, glossite, erosões mucosas e hiperpigmentação difusa com acentuação em áreas expostas ao sol, quadro semelhante ao da deficiência de vitamina B12. Leva a anemia megaloblástica e sintomas neuropsiquiátricos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-05 19:20:06.385341 +0000 UTC",
+                        "updated_at": "2020-10-27 18:34:45.273932 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 4
+                },
+                {
+                    "id": "4905720a-13e8-4d24-853d-b390b4f78897",
+                    "position": "1",
+                    "body": "Piridoxina.",
+                    "sanitized_body": "Piridoxina.",
+                    "correct": false,
+                    "created_at": "2020-09-13 17:41:27.343774 +0000 UTC",
+                    "updated_at": "2020-10-26 14:44:08.001328 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "fd42464a66344985aa0e014f3113ce6e",
+                            "name": "Vitamina B6/Piridoxina",
+                            "is_master": false,
+                            "master_id": "c45d7af930094da39aae0732723a1750",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B6/Piridoxina",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa B) Incorreta. A piridoxina é a vitamina B6. As alterações mucocutâneas da deficiência de piridoxina são lesões semelhantes às da dermatite seborreica, queilite angular, estomatite, glossite, intertrigo e conjuntivite. Do ponto de vista sistêmico o paciente pode apresentar sintomas neurológicos, incluindo neuropatias periféricas, confusão e convulsões. Pode ainda ter eosinofilia e linfopenia.<div><br></div>",
+                        "sanitized_complete": "Alternativa B) Incorreta. A piridoxina é a vitamina B6. As alterações mucocutâneas da deficiência de piridoxina são lesões semelhantes às da dermatite seborreica, queilite angular, estomatite, glossite, intertrigo e conjuntivite. Do ponto de vista sistêmico o paciente pode apresentar sintomas neurológicos, incluindo neuropatias periféricas, confusão e convulsões. Pode ainda ter eosinofilia e linfopenia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-05 19:20:06.375862 +0000 UTC",
+                        "updated_at": "2020-10-27 18:34:45.302939 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 5
+                },
+                {
+                    "id": "6eeaa85f-67bc-46d7-b4ac-adfd37218867",
+                    "position": "2",
+                    "body": "Niacina.",
+                    "sanitized_body": "Niacina.",
+                    "correct": true,
+                    "created_at": "2020-09-13 17:41:27.343774 +0000 UTC",
+                    "updated_at": "2020-10-26 14:44:08.091913 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "96f97fbb854b4bd8bc93fe32779c47ae",
+                            "name": "Vitamina B3/Niacina",
+                            "is_master": false,
+                            "master_id": "c45d7af930094da39aae0732723a1750",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B3/Niacina",
+                            "has_children": true,
+                            "nodes": null
+                        },
+                        {
+                            "id": "d32832fb150b4f248cb138500c75dae5",
+                            "name": "Deficiência/Pelagra",
+                            "is_master": false,
+                            "master_id": "96f97fbb854b4bd8bc93fe32779c47ae",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B3/Niacina[$$]Deficiência/Pelagra",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa C) Correta. O conjunto de lesões dermatológicas em áreas fotoexpostas, associado a diarreia, é muito sugestivo de pelagra. Observe ainda que o paciente é alcoólatra, que é um fator de risco para essa deficiência nutricional.<div><br><div>A pelagra ocorre devido à falta de vitamina B3 (niacina, ácido nicotínico). É conhecida como doença dos 4 D’s: dermatite, diarreia, demência e “death” (morte). É encontrada principalmente em pacientes desnutridos ou alcoólatras, porém pode ocorrer secundária ao uso da isoniazida. Outras causas são: colite crônica, cirrose hepática, tumor carcinoide, síndrome de Hartnup. O sinal dermatológico conhecido é o “colar de casal”, que consiste em uma faixa bem demarcada ao redor do pescoço. Pode ocorrer ainda inflamação perianal e oral, queilite e glossite. O tratamento é feito com a administração de niacina ou nicotinamida. Mas, como esses pacientes geralmente são desnutridos, muitas vezes são administrados suplementos vitamínicos do complexo B.</div><div><br></div><div><br></div></div>",
+                        "sanitized_complete": "Alternativa C) Correta. O conjunto de lesões dermatológicas em áreas fotoexpostas, associado a diarreia, é muito sugestivo de pelagra. Observe ainda que o paciente é alcoólatra, que é um fator de risco para essa deficiência nutricional.A pelagra ocorre devido à falta de vitamina B3 (niacina, ácido nicotínico). É conhecida como doença dos 4 D’s: dermatite, diarreia, demência e “death” (morte). É encontrada principalmente em pacientes desnutridos ou alcoólatras, porém pode ocorrer secundária ao uso da isoniazida. Outras causas são: colite crônica, cirrose hepática, tumor carcinoide, síndrome de Hartnup. O sinal dermatológico conhecido é o “colar de casal”, que consiste em uma faixa bem demarcada ao redor do pescoço. Pode ocorrer ainda inflamação perianal e oral, queilite e glossite. O tratamento é feito com a administração de niacina ou nicotinamida. Mas, como esses pacientes geralmente são desnutridos, muitas vezes são administrados suplementos vitamínicos do complexo B.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-05 19:20:06.390717 +0000 UTC",
+                        "updated_at": "2020-10-27 18:34:45.298601 +0000 UTC"
+                    },
+                    "answer_percentage": 77,
+                    "answers": 37
+                },
+                {
+                    "id": "0bd207a3-724e-4d4f-8365-5542d045b767",
+                    "position": "3",
+                    "body": "Tiamina.",
+                    "sanitized_body": "Tiamina.",
+                    "correct": false,
+                    "created_at": "2020-09-13 17:41:27.343774 +0000 UTC",
+                    "updated_at": "2020-10-26 14:44:08.163323 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "10b69c4645754fef8914ab9e95042704",
+                            "name": "Deficiência/Beribéri",
+                            "is_master": false,
+                            "master_id": "ea00d1b146074ef3aa3b0b8bed116776",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B1/Tiamina[$$]Deficiência/Beribéri",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "ea00d1b146074ef3aa3b0b8bed116776",
+                            "name": "Vitamina B1/Tiamina",
+                            "is_master": false,
+                            "master_id": "c45d7af930094da39aae0732723a1750",
+                            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitaminas do Complexo B[$$]Vitamina B1/Tiamina",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa D) Incorreta. A tiamina é a vitamina B1. A falta da tiamina leva a fissuras cutâneas úmidas, glossite e glossodinia. O quadro sistêmico é chamado de beribéri.<div><br></div>",
+                        "sanitized_complete": "Alternativa D) Incorreta. A tiamina é a vitamina B1. A falta da tiamina leva a fissuras cutâneas úmidas, glossite e glossodinia. O quadro sistêmico é chamado de beribéri.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-10-05 19:20:06.384931 +0000 UTC",
+                        "updated_at": "2020-10-27 18:34:45.314334 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 2
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Homem de 56 anos, alcoólatra, é internado por quadro de diarreia pastosa, sem elementos inflamatórios, e perda ponderal. Ao exame físico, encontra-se desorientado, sem flapping ou sinais neurológicos focais, e apresenta rash cutâneo eritematoso descamativo, simétrico, em áreas fotoexpostas. Para o tratamento dessa doença, é indicada a reposição de:",
+            "statement_text": "Homem de 56 anos, alcoólatra, é internado por quadro de diarreia pastosa, sem elementos inflamatórios, e perda ponderal. Ao exame físico, encontra-se desorientado, sem flapping ou sinais neurológicos focais, e apresenta rash cutâneo eritematoso descamativo, simétrico, em áreas fotoexpostas. Para o tratamento dessa doença, é indicada a reposição de:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "carlosjsouza07@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-13 17:41:27.343774 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA C.</b></div><div><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA C.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                "author_profile": {
+                    "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                    "full_name": "Bruno de Castro e Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+                    "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-05 19:20:06.549058 +0000 UTC",
+                "updated_at": "2020-10-27 18:34:45.422212 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000066417-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000129247",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "003782d453834368879a9b20d352d684",
+                    "name": "Anemia ferropriva na infância",
+                    "is_master": false,
+                    "master_id": "bf92c34749f0458a94a5aa0f3c147130",
+                    "path": "Pediatria[$$]Hematologia Pediátrica[$$]Anemia ferropriva na infância",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "494a812ec6dc44fc9e0a7873088e590c",
+                    "name": "Hematologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Hematologia ",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "91e23a954cd94ea08a24c213a3acb13e",
+                    "name": "Pediatria",
+                    "is_master": true,
+                    "path": "Pediatria",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b31bc41a2e1b43018fad12cb3384f2d9",
+                    "name": "Diagnóstico",
+                    "is_master": false,
+                    "master_id": "003782d453834368879a9b20d352d684",
+                    "path": "Pediatria[$$]Hematologia Pediátrica[$$]Anemia ferropriva na infância[$$]Diagnóstico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "08b98689-5e43-4484-8292-677b9eda608d",
+                    "position": "0",
+                    "body": "Morfologia das hemácias: normocítica e normocrômica; ferritina baixa; ferro sérico normal; capacidade de ligação do ferro baixa; saturação de transferrina normal.<div>&nbsp;</div>",
+                    "sanitized_body": "Morfologia das hemácias: normocítica e normocrômica; ferritina baixa; ferro sérico normal; capacidade de ligação do ferro baixa; saturação de transferrina normal. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+                    "updated_at": "2020-12-01 18:31:16.513664 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, quando a anemia se instala já esperamos queda da ferritina, ferro sérico e saturação de transferrina, assim como capacidade de ligação do ferro aumentada e anemia inicialmente normo/normo e, na sequência, micro/hipo.",
+                        "sanitized_complete": "Incorreta, quando a anemia se instala já esperamos queda da ferritina, ferro sérico e saturação de transferrina, assim como capacidade de ligação do ferro aumentada e anemia inicialmente normo/normo e, na sequência, micro/hipo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                        "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                        "author_profile": null,
+                        "created_at": "2021-07-31 19:27:57.8558 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 15
+                },
+                {
+                    "id": "1c6ca463-21f8-4898-b722-20b5ec8d384d",
+                    "position": "1",
+                    "body": "Morfologia das hemácias: microcítica e hipocrômica; ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa.<div>&nbsp;</div>",
+                    "sanitized_body": "Morfologia das hemácias: microcítica e hipocrômica; ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa. ",
+                    "correct": true,
+                    "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+                    "updated_at": "2020-12-01 18:31:16.813614 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta, quando já instalada a anemia, esperamos que inicialmente seja normo/normo, e depois micro/hipo. A ferritina baixa é o primeiro parâmetro a se instalar, assim como esperamos ferro sérico e saturação de transferrina baixa, e capacidade de ligação do ferro elevada.",
+                        "sanitized_complete": "Correta, quando já instalada a anemia, esperamos que inicialmente seja normo/normo, e depois micro/hipo. A ferritina baixa é o primeiro parâmetro a se instalar, assim como esperamos ferro sérico e saturação de transferrina baixa, e capacidade de ligação do ferro elevada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                        "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                        "author_profile": null,
+                        "created_at": "2021-07-31 19:27:57.540293 +0000 UTC"
+                    },
+                    "answer_percentage": 82,
+                    "answers": 348
+                },
+                {
+                    "id": "453d4f53-c8ed-4cc1-a128-f4af28b99e95",
+                    "position": "2",
+                    "body": "Morfologia das hemácias: normocítica e normocrômica; ferritina normal; ferro sérico baixo; capacidade de ligação do ferro baixa; saturação de transferrina normal.<div>&nbsp;</div>",
+                    "sanitized_body": "Morfologia das hemácias: normocítica e normocrômica; ferritina normal; ferro sérico baixo; capacidade de ligação do ferro baixa; saturação de transferrina normal. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+                    "updated_at": "2020-12-01 18:31:17.093626 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, comece pela ferritina que é o primeiro parâmetro que deveria estar baixo.",
+                        "sanitized_complete": "Incorreta, comece pela ferritina que é o primeiro parâmetro que deveria estar baixo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                        "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                        "author_profile": null,
+                        "created_at": "2021-07-31 19:27:57.857757 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 22
+                },
+                {
+                    "id": "94a7683d-3a49-407f-ba72-0b0f1096b4ea",
+                    "position": "3",
+                    "body": "Morfologia das hemácias: microcítica e normocrômica; ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa.<div>&nbsp;</div>",
+                    "sanitized_body": "Morfologia das hemácias: microcítica e normocrômica; ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+                    "updated_at": "2020-12-01 18:31:17.463083 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, aorfologia das hemácias: microcítica e <strike>normocrômica </strike>e hipocrômica,&nbsp;ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa.<div>&nbsp;</div>",
+                        "sanitized_complete": "Incorreta, aorfologia das hemácias: microcítica e normocrômica e hipocrômica, ferritina baixa; ferro sérico baixo; capacidade de ligação do ferro elevada; saturação de transferrina baixa. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                        "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                        "author_profile": null,
+                        "created_at": "2021-07-31 19:27:57.606166 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 29
+                },
+                {
+                    "id": "d0ccdd31-1fd1-42d2-8c77-3ea2f0fbe0ed",
+                    "position": "4",
+                    "body": "Morfologia das hemácias: normocítica e hipocrômica; ferritina normal; ferro sérico normal; capacidade de ligação do ferro baixa; saturação de transferrina normal.",
+                    "sanitized_body": "Morfologia das hemácias: normocítica e hipocrômica; ferritina normal; ferro sérico normal; capacidade de ligação do ferro baixa; saturação de transferrina normal.",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+                    "updated_at": "2020-12-01 18:31:17.764225 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, morfologia das hemácias: <strike>normocítica</strike>&nbsp;microcítica e hipocrômica; ferritina <strike>normal</strike>&nbsp;baixa; ferro sérico<strike> normal</strike>&nbsp;baixo; capacidade de ligação do ferro<strike> baixa</strike>&nbsp;alta; saturação de transferrina<strike> normal</strike>&nbsp;baixa.",
+                        "sanitized_complete": "Incorreta, morfologia das hemácias: normocítica microcítica e hipocrômica; ferritina normal baixa; ferro sérico normal baixo; capacidade de ligação do ferro baixa alta; saturação de transferrina normal baixa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                        "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                        "author_profile": null,
+                        "created_at": "2021-07-31 19:27:57.537359 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 11
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma criança com 6 anos de idade, moradora em zona rural, é trazida por sua mãe à Unidade Básica de Saúde (UBS) por apresentar palidez, falta de apetite, perda de peso e rendimento escolar insatisfatório observados há dois meses. Além da dosagem de hemoglobina e hematimetria, que outros exames, com seus respectivos resultados, servirão para o diagnóstico de uma anemia carencial?<div><br></div>",
+            "statement_text": "Uma criança com 6 anos de idade, moradora em zona rural, é trazida por sua mãe à Unidade Básica de Saúde (UBS) por apresentar palidez, falta de apetite, perda de peso e rendimento escolar insatisfatório observados há dois meses. Além da dosagem de hemoglobina e hematimetria, que outros exames, com seus respectivos resultados, servirão para o diagnóstico de uma anemia carencial?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 13:35:02.200195 +0000 UTC",
+            "solution": {
+                "complete": "Coruja,<div><br></div><div>Os parâmetros laboratoriais na anemia ferropriva são muito explorados nas provas. Vamos revisar juntos!</div><div><br></div><div><ol><li>Diante da carência de ferro, a primeira resposta do corpo é mobilizar seu estoque, ou seja:<b> consumir ferritina</b>. Esse será o primeiro marcador sérico alterado, sendo o <b>mais sensível e o mais específico</b> para diagnosticar anemia ferropriva.</li><li>Quando se esgota o estoque (ferritina), na sequência, o <b>ferro sérico</b> cai, e não há mais ferro suficiente para saturar completamente a sua proteína carreadora -<b> a saturação da transferrina</b>&nbsp;que também tem sua queda.&nbsp;</li><li>O próximo evento da sequência será uma <b>eritropoese deficiente</b>, com algumas hemácias pequenas <b>(microcitose)</b> e com pouca <b>hemoglobina (hipocromia).</b> Como, nesse momento, ainda circulam hemácias mais velhas, a hemoglobina total continua normal (ainda não há anemia). Porém, com hemácias novas micr/hipo circulando juntamente com hemácias antigas normais, o padrão se torna heterogêneo - <b>RDW aumentado (anisocitose).</b></li><li>\"Fim de linha\",<b>&nbsp;</b>quando as hemácias antigas morrem, os níveis de hemoglobina começam a cair, e instala-se, efetivamente, a<b> anemia.</b> Inicialmente normo/normo, mas, progressivamente, hipo/micro.</li></ol></div>",
+                "sanitized_complete": "Coruja,Os parâmetros laboratoriais na anemia ferropriva são muito explorados nas provas. Vamos revisar juntos!Diante da carência de ferro, a primeira resposta do corpo é mobilizar seu estoque, ou seja: consumir ferritina. Esse será o primeiro marcador sérico alterado, sendo o mais sensível e o mais específico para diagnosticar anemia ferropriva.Quando se esgota o estoque (ferritina), na sequência, o ferro sérico cai, e não há mais ferro suficiente para saturar completamente a sua proteína carreadora - a saturação da transferrina que também tem sua queda. O próximo evento da sequência será uma eritropoese deficiente, com algumas hemácias pequenas (microcitose) e com pouca hemoglobina (hipocromia). Como, nesse momento, ainda circulam hemácias mais velhas, a hemoglobina total continua normal (ainda não há anemia). Porém, com hemácias novas micr/hipo circulando juntamente com hemácias antigas normais, o padrão se torna heterogêneo - RDW aumentado (anisocitose).&#34;Fim de linha&#34;, quando as hemácias antigas morrem, os níveis de hemoglobina começam a cair, e instala-se, efetivamente, a anemia. Inicialmente normo/normo, mas, progressivamente, hipo/micro.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+                "author_profile": {
+                    "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+                    "full_name": "Jéssica Dantas",
+                    "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+                    "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med."
+                },
+                "created_at": "2021-07-31 19:27:58.037263 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 32
+    }
+}

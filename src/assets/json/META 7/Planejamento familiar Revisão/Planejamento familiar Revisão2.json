@@ -1,0 +1,2994 @@
+{
+    "data": [
+        {
+            "id": "4000127867",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2019,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4963C0AC-C4C6-39CE-3F68-5CFE1DEF48D0"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-24T18:48:31Z",
+                    "updated_at": "2021-10-01T21:32:08Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "d796ac50c67d491f8a3e06ad2e67adb5",
+                    "name": "Contraindicações",
+                    "is_master": false,
+                    "master_id": "40428d846af84bb086d989c090de710b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Métodos hormonais combinados[$$]Contraindicações",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "91788e8d-a803-4c90-8d05-a29f4fd1ca96",
+                    "position": "0",
+                    "body": "Anticoncepcional hormonal oral combinado.",
+                    "sanitized_body": "Anticoncepcional hormonal oral combinado.",
+                    "correct": false,
+                    "created_at": "2020-10-03 12:30:07.686442 +0000 UTC",
+                    "updated_at": "2020-11-14 13:25:42.480067 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:35:18.736088 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 3
+                },
+                {
+                    "id": "a97f14da-5944-45cc-b941-08914138625a",
+                    "position": "1",
+                    "body": "Dispositivo intrauterino de cobre.",
+                    "sanitized_body": "Dispositivo intrauterino de cobre.",
+                    "correct": true,
+                    "created_at": "2020-10-03 12:30:07.686442 +0000 UTC",
+                    "updated_at": "2020-11-14 13:25:42.627403 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:35:18.736028 +0000 UTC"
+                    },
+                    "answer_percentage": 86,
+                    "answers": 505
+                },
+                {
+                    "id": "1a1f5299-5c21-4b65-8d9c-0d748a71bb3e",
+                    "position": "2",
+                    "body": "Anticoncepcional hormonal oral com progestágeno.",
+                    "sanitized_body": "Anticoncepcional hormonal oral com progestágeno.",
+                    "correct": false,
+                    "created_at": "2020-10-03 12:30:07.686442 +0000 UTC",
+                    "updated_at": "2020-11-14 13:25:42.830714 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:35:18.724 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 47
+                },
+                {
+                    "id": "75cc4569-1371-4dfa-8e88-e031a8cbcab8",
+                    "position": "3",
+                    "body": "Dispositivo intrauterino hormonal.",
+                    "sanitized_body": "Dispositivo intrauterino hormonal.",
+                    "correct": false,
+                    "created_at": "2020-10-03 12:30:07.686442 +0000 UTC",
+                    "updated_at": "2020-11-14 13:25:42.971633 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:35:18.726799 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 34
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente ASP, 25 anos, chega ao ambulatório de anticoncepção para inciar método contraceptivo adequado, pois refere que há seis meses apresentou quadro de trombose estando internada por sete dias em unidade de terapia intensiva. O método de escolha para essa paciente é:<div><br></div>",
+            "statement_text": "Paciente ASP, 25 anos, chega ao ambulatório de anticoncepção para inciar método contraceptivo adequado, pois refere que há seis meses apresentou quadro de trombose estando internada por sete dias em unidade de terapia intensiva. O método de escolha para essa paciente é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "douglas.correa@estrategiaconcursos.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-10-03 12:30:07.686442 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Na escolha do método contraceptivo, temos que levar em conta as preferências da paciente e todas as suas características (idade, histórico pessoal, comorbidades etc). Neste caso, a paciente tem um passado de trombose (há 6 meses). A banca dá como gabarito alternativa B (DIU de cobre). Entretanto, você deve lembrar que a o passado de trombose venosa é contraindicação ABSOLUTA apenas para os métodos combinados (estrogênio + progesterona). Há contraindicação RELATIVA ao uso de métodos hormonais contendo apenas progestágenos (alternativas C e D) quando a paciente se encontra na fase aguda do tromboembolismo venoso (não é o caso dessa paciente).&nbsp;</div><div><br></div><div>Como a paciente se encontra fora da fase aguda, os métodos com progestágenos são categoria 2. O DIU de cobre, por ser um método nao hormonal, pode ser utilizado sem restrições (categoria 1). Relembre as categorias abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B2D48AAF-4110-E1D8-79B4-26132B55D63E/B2D48AAF-4110-E1D8-79B4-26132B55D63E-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Considerando que a questão deve estar se referindo ao MELHOR método,</div><div>Correta alternativa “B”</div><div><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BNa escolha do método contraceptivo, temos que levar em conta as preferências da paciente e todas as suas características (idade, histórico pessoal, comorbidades etc). Neste caso, a paciente tem um passado de trombose (há 6 meses). A banca dá como gabarito alternativa B (DIU de cobre). Entretanto, você deve lembrar que a o passado de trombose venosa é contraindicação ABSOLUTA apenas para os métodos combinados (estrogênio + progesterona). Há contraindicação RELATIVA ao uso de métodos hormonais contendo apenas progestágenos (alternativas C e D) quando a paciente se encontra na fase aguda do tromboembolismo venoso (não é o caso dessa paciente). Como a paciente se encontra fora da fase aguda, os métodos com progestágenos são categoria 2. O DIU de cobre, por ser um método nao hormonal, pode ser utilizado sem restrições (categoria 1). Relembre as categorias abaixo:Considerando que a questão deve estar se referindo ao MELHOR método,Correta alternativa “B”",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-04 19:35:18.781833 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127867-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000127967",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FE3B6FED-5E6E-9CFE-610F-8826890C3776"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-24T18:40:45Z",
+                    "updated_at": "2020-11-25T03:19:48Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "418ec0398a5f4314b940bd15b38b6c9f",
+                    "name": "Complicações pós-inserção",
+                    "is_master": false,
+                    "master_id": "d31d08efc2504c55a39429b7fa3657ad",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos[$$]Inserção[$$]Complicações pós-inserção",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "9d7d8eb69f664725a40f5a08231dbca2",
+                    "name": "Gravidez em usuárias de DIU",
+                    "is_master": false,
+                    "master_id": "f5a6200a93574dbe8ffbd8883bd235b8",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos[$$]Gravidez em usuárias de DIU",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "8cf35299-2b49-437e-9fae-6be3b2f21f55",
+                    "position": "0",
+                    "body": "I e II, apenas.",
+                    "sanitized_body": "I e II, apenas.",
+                    "correct": false,
+                    "created_at": "2020-10-03 14:11:09.434653 +0000 UTC",
+                    "updated_at": "2020-11-14 13:28:37.257278 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:44:55.320314 +0000 UTC"
+                    },
+                    "answer_percentage": 19,
+                    "answers": 86
+                },
+                {
+                    "id": "eabbe768-1965-4941-b948-c836feb0aa09",
+                    "position": "1",
+                    "body": "I, apenas.",
+                    "sanitized_body": "I, apenas.",
+                    "correct": true,
+                    "created_at": "2020-10-03 14:11:09.434653 +0000 UTC",
+                    "updated_at": "2020-11-14 13:28:37.325876 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:44:55.319776 +0000 UTC"
+                    },
+                    "answer_percentage": 71,
+                    "answers": 326
+                },
+                {
+                    "id": "5fa02803-48f3-4a75-9aa6-9c46cc69120d",
+                    "position": "2",
+                    "body": "III, apenas.",
+                    "sanitized_body": "III, apenas.",
+                    "correct": false,
+                    "created_at": "2020-10-03 14:11:09.434653 +0000 UTC",
+                    "updated_at": "2020-11-14 13:28:37.416426 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:44:55.306666 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 25
+                },
+                {
+                    "id": "ef222397-bae3-47a9-a49a-308374a84ea2",
+                    "position": "3",
+                    "body": "II e III, apenas.",
+                    "sanitized_body": "II e III, apenas.",
+                    "correct": false,
+                    "created_at": "2020-10-03 14:11:09.434653 +0000 UTC",
+                    "updated_at": "2020-11-14 13:28:37.517329 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-04 19:44:55.307396 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 25
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Durante o renascimento moderno do DIU, diversas melhorias resultaram em métodos mais seguros e efetivos. A despeito do custo inicial maior, sua ação efetiva prolongada resulta em relação custo/efetividade competitiva quanto a  outras  formas  de contracepção. Ainda há alguns efeitos colaterais indesejados, assim como equívocos  acerca de seu uso.&nbsp;<div><br></div><div>Sobre a temática, analise as assertivas.&nbsp;<div><br></div><div>I - Pacientes com DIU intra- abdominal, fora do útero pode causar dano. Identificado por laparoscopia, o dispositivo inerte pode ser removido no mesmo procedimento.&nbsp;<div><br></div><div>II - Pacientes grávidas e com DIU, a identificação precoce da gestação é importante. Se até antes da 14ª semana de gestação, com a extremidade final do dispositivo visível no colo uterino, deverá ser mantido.&nbsp;<div><br></div><div>III - Se   a extremidade final do DIU não estiver visível, as tentativas de localização e remoção do dispositivo não resultam em perda da gestação.&nbsp;<div><br></div><div>Está correto o que se afirma em</div></div></div></div></div>",
+            "statement_text": "Durante o renascimento moderno do DIU, diversas melhorias resultaram em métodos mais seguros e efetivos. A despeito do custo inicial maior, sua ação efetiva prolongada resulta em relação custo/efetividade competitiva quanto a  outras  formas  de contracepção. Ainda há alguns efeitos colaterais indesejados, assim como equívocos  acerca de seu uso. Sobre a temática, analise as assertivas. I - Pacientes com DIU intra- abdominal, fora do útero pode causar dano. Identificado por laparoscopia, o dispositivo inerte pode ser removido no mesmo procedimento. II - Pacientes grávidas e com DIU, a identificação precoce da gestação é importante. Se até antes da 14ª semana de gestação, com a extremidade final do dispositivo visível no colo uterino, deverá ser mantido. III - Se   a extremidade final do DIU não estiver visível, as tentativas de localização e remoção do dispositivo não resultam em perda da gestação. Está correto o que se afirma em",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "elisbete.souza@estrategiaconcursos.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-10-03 14:11:09.434653 +0000 UTC",
+            "forum_id": "b3084d21-1736-465a-be18-1e98700c9516",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Vamos analisar as assertivas:</div><div>I- CORRETA: o DIU pode se alojar na cavidade abdominal tanto em consequência de perfuração uterina, quanto por migração do dispositivo através da tuba uterina. Nas duas situações, é imperiosa a sua remoção, não apenas por não apresentar benefício contraceptivo, mas também devido ao risco de perfuração de órgãos abdominais.</div><div><br></div><div>II- INCORRETA: há a possibilidade de gestação com o DIU na cavidade uterina. Neste caso, há aumento do risco de complicações maternas e fetais. O risco materno está relacionado à aborto séptico e corioamnionite. O risco fetal inclui aborto espontâneo (47 a 57% dos casos), amniorrexe e parto prematuro. A retirada precoce do DIU reduz, mas não elimina, o risco de aborto, corioamnionite e parto prematuro.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/41315407-698C-E30C-8E2E-8DEAF3C7F41E/41315407-698C-E30C-8E2E-8DEAF3C7F41E-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>III- INCORRETA: como está descrito acima, se o fio do DIU não estiver visível, a remoção não deve ser feita, pois há aumento dos riscos fetais, como amniorrexe a abortamento.</div><div>Portanto,</div><div>Correta alternativa “B”,</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BVamos analisar as assertivas:I- CORRETA: o DIU pode se alojar na cavidade abdominal tanto em consequência de perfuração uterina, quanto por migração do dispositivo através da tuba uterina. Nas duas situações, é imperiosa a sua remoção, não apenas por não apresentar benefício contraceptivo, mas também devido ao risco de perfuração de órgãos abdominais.II- INCORRETA: há a possibilidade de gestação com o DIU na cavidade uterina. Neste caso, há aumento do risco de complicações maternas e fetais. O risco materno está relacionado à aborto séptico e corioamnionite. O risco fetal inclui aborto espontâneo (47 a 57% dos casos), amniorrexe e parto prematuro. A retirada precoce do DIU reduz, mas não elimina, o risco de aborto, corioamnionite e parto prematuro.III- INCORRETA: como está descrito acima, se o fio do DIU não estiver visível, a remoção não deve ser feita, pois há aumento dos riscos fetais, como amniorrexe a abortamento.Portanto,Correta alternativa “B”,",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-04 19:44:55.351988 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127967-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126927",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2016,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T16:46:08Z",
+                    "updated_at": "2020-09-24T17:24:55Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "736fdacb3d0045c29c723b105235f00b",
+                    "name": "Critérios de elegibilidade da OMS",
+                    "is_master": false,
+                    "master_id": "a18b78ff5b744b8e90fe0f656fb8974b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Conceitos iniciais[$$]Critérios de elegibilidade da OMS",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "babe5ce79f4c425c889bab5e48f56022",
+                    "name": "Anticoncepção hormonal apenas com progesterona",
+                    "is_master": false,
+                    "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção hormonal apenas com progesterona",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "f8f849cef341439abadb4743d1fbade8",
+                    "name": "Orais",
+                    "is_master": false,
+                    "master_id": "2f437c23e6f14fe986f72fd5c890f0a9",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção hormonal apenas com progesterona[$$]Classificação por vias de administração[$$]Orais",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "6bddc98b-cbf0-41ab-b9af-a66d3158de64",
+                    "position": "0",
+                    "body": "Etinilestradiol 50 mcg, por via oral, mensal.",
+                    "sanitized_body": "Etinilestradiol 50 mcg, por via oral, mensal.",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:00:37.051484 +0000 UTC",
+                    "updated_at": "2020-11-20 13:15:43.783909 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:32:41.356983 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 135
+                },
+                {
+                    "id": "5792e055-397e-4fa4-b72f-7f0fb78dc77a",
+                    "position": "1",
+                    "body": "Norestisterona 0,35 mg, por via oral, de uso continuo.",
+                    "sanitized_body": "Norestisterona 0,35 mg, por via oral, de uso continuo.",
+                    "correct": true,
+                    "created_at": "2020-09-25 02:00:37.051484 +0000 UTC",
+                    "updated_at": "2020-11-20 13:15:43.849746 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:32:41.356329 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 1586
+                },
+                {
+                    "id": "15cd005e-ce45-47aa-a75e-734cd88e55e4",
+                    "position": "2",
+                    "body": "Etinilestradiol 30 mcg + levonorgestrel 0,15 mg, por via oral, mensal.",
+                    "sanitized_body": "Etinilestradiol 30 mcg + levonorgestrel 0,15 mg, por via oral, mensal.",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:00:37.051484 +0000 UTC",
+                    "updated_at": "2020-11-20 13:15:43.921774 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:32:41.365748 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 73
+                },
+                {
+                    "id": "84552725-aa8a-4a21-9211-4bf909a5df58",
+                    "position": "3",
+                    "body": "Enantato de noretisterona 50 mg + valerato de estradiol 5 mg, injetável, mensal.",
+                    "sanitized_body": "Enantato de noretisterona 50 mg + valerato de estradiol 5 mg, injetável, mensal.",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:00:37.051484 +0000 UTC",
+                    "updated_at": "2020-11-20 13:15:43.986197 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:32:41.358803 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 77
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma mulher com 36 anos de idade, Gesta 2 Para 2, procura a Unidade Básica de Saúde solicitando informações para utilização de método contraceptivo. Está assintomática, faz acompanhamento médico regular e apresenta resultado normal de citologia cervicovaginal colhida há 2 meses. Registra-se, como antecedente, colecistectomia há 2 anos, que cursou com trombose venosa profunda no membro inferior direito no pós-operatório. A paciente relata que, atualmente, não faz uso de qualquer medicação e nega tabagismo e outras doenças. Uma opção contraceptiva adequada para essa paciente é o uso de anticoncepcional à base de:",
+            "statement_text": "Uma mulher com 36 anos de idade, Gesta 2 Para 2, procura a Unidade Básica de Saúde solicitando informações para utilização de método contraceptivo. Está assintomática, faz acompanhamento médico regular e apresenta resultado normal de citologia cervicovaginal colhida há 2 meses. Registra-se, como antecedente, colecistectomia há 2 anos, que cursou com trombose venosa profunda no membro inferior direito no pós-operatório. A paciente relata que, atualmente, não faz uso de qualquer medicação e nega tabagismo e outras doenças. Uma opção contraceptiva adequada para essa paciente é o uso de anticoncepcional à base de:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "keniagabriela.santos@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 02:00:37.051484 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Na escolha do método contraceptivo, temos que levar em conta as preferências da paciente e todas as suas características (idade, histórico pessoal, comorbidades etc). Neste caso, a paciente tem um passado de trombose (há 2 anos). Como os métodos combinados (estrogênio + progesterona) aumentam o risco em 2-6x de eventos tromboembólicos venosos e também aumentam o risco de eventos tromboembólicos arteriais, o passado de trombose venosa é contraindicação ABSOLUTA apenas para os método combinados. Resta para essa paciente os métodos apenas de progestágenos e os métodos não hormonais. Vamos analisar as alternativas:</div><div><b>Incorreta alternativa “A”</b>, não é método contraceptivo e sim de terapia de reposição hormonal.</div><div><b>Correta alternativa “B”</b>, é um método apenas de progestágeno e, portanto, pode ser utilizado nessa paciente. Entretanto, vale ressaltar que essa progesterona é uma minipílula e que não é anovulatória na maioria dos casos. São mais indicados em pacientes que se encontram no puerpério com lactação, pois têm a proteção adicional dessa última.&nbsp;</div><div><b>Incorreta alternativa “C” e “D”</b>, são métodos combinadas e, portanto, contraindicados nesses casos.</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BNa escolha do método contraceptivo, temos que levar em conta as preferências da paciente e todas as suas características (idade, histórico pessoal, comorbidades etc). Neste caso, a paciente tem um passado de trombose (há 2 anos). Como os métodos combinados (estrogênio + progesterona) aumentam o risco em 2-6x de eventos tromboembólicos venosos e também aumentam o risco de eventos tromboembólicos arteriais, o passado de trombose venosa é contraindicação ABSOLUTA apenas para os método combinados. Resta para essa paciente os métodos apenas de progestágenos e os métodos não hormonais. Vamos analisar as alternativas:Incorreta alternativa “A”, não é método contraceptivo e sim de terapia de reposição hormonal.Correta alternativa “B”, é um método apenas de progestágeno e, portanto, pode ser utilizado nessa paciente. Entretanto, vale ressaltar que essa progesterona é uma minipílula e que não é anovulatória na maioria dos casos. São mais indicados em pacientes que se encontram no puerpério com lactação, pois têm a proteção adicional dessa última. Incorreta alternativa “C” e “D”, são métodos combinadas e, portanto, contraindicados nesses casos.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-13 00:32:41.481295 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126927-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126958",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2015,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "1A301CE1-86B7-2BAB-81B2-2185B79D5392"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-04T15:14:18Z",
+                    "updated_at": "2020-11-26T17:58:58Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "736fdacb3d0045c29c723b105235f00b",
+                    "name": "Critérios de elegibilidade da OMS",
+                    "is_master": false,
+                    "master_id": "a18b78ff5b744b8e90fe0f656fb8974b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Conceitos iniciais[$$]Critérios de elegibilidade da OMS",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "9450509c5b414518adf2db81a2d01ed1",
+                    "name": "Tabela dos critérios de elegibilidade OMS",
+                    "is_master": false,
+                    "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Tabela dos critérios de elegibilidade OMS",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "48c63979-288f-449d-b3a3-86bbe7a9187d",
+                    "position": "0",
+                    "body": "DIU e SIU de levonorgestrel apresentam contraindicações em fumantes.",
+                    "sanitized_body": "DIU e SIU de levonorgestrel apresentam contraindicações em fumantes.",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:30:58.153118 +0000 UTC",
+                    "updated_at": "2020-11-20 13:13:29.859761 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:34:46.471134 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 11
+                },
+                {
+                    "id": "1ded39fc-e3e7-4945-ba7e-7999513b1129",
+                    "position": "1",
+                    "body": "Compostos apenas por progestagênios estão liberados (categoria 1 da OMS).",
+                    "sanitized_body": "Compostos apenas por progestagênios estão liberados (categoria 1 da OMS).",
+                    "correct": true,
+                    "created_at": "2020-09-25 02:30:58.153118 +0000 UTC",
+                    "updated_at": "2020-11-20 13:13:29.919403 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:34:46.474481 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 352
+                },
+                {
+                    "id": "72e45341-b549-426b-8a32-5f3a93d7ce47",
+                    "position": "2",
+                    "body": "Métodos hormonais combinados sem cautela (categoria 2 da OMS).",
+                    "sanitized_body": "Métodos hormonais combinados sem cautela (categoria 2 da OMS).",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:30:58.153118 +0000 UTC",
+                    "updated_at": "2020-11-20 13:13:30.002001 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:34:46.475205 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 11
+                },
+                {
+                    "id": "2822ee43-d756-43ba-bb23-fac6a56e5a42",
+                    "position": "3",
+                    "body": "O injetável combinado mensal recebe categoria 3 da OMS.",
+                    "sanitized_body": "O injetável combinado mensal recebe categoria 3 da OMS.",
+                    "correct": false,
+                    "created_at": "2020-09-25 02:30:58.153118 +0000 UTC",
+                    "updated_at": "2020-11-20 13:13:30.070663 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:34:46.473551 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 42
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente de 35 anos, nuligesta, tabagista há 5 anos, 20 cigarros por dia. Procurou a UBS para fazer a coleta de colpocitologia e estava interessada em receber orientação anticoncepcional. Considerando o caso, o médico orientou a opção mais segura:",
+            "statement_text": "Paciente de 35 anos, nuligesta, tabagista há 5 anos, 20 cigarros por dia. Procurou a UBS para fazer a coleta de colpocitologia e estava interessada em receber orientação anticoncepcional. Considerando o caso, o médico orientou a opção mais segura:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "keniagabriela.santos@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 02:30:58.153118 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Na escolha do método contraceptivo devemos sempre avaliar as preferências da sua paciente e suas comorbidades. Neste caso, temos uma paciente de 35 anos tabagista. Sabemos que o tabagismo é um conhecido fator de risco tromboembólico e a classificação em categorias dos métodos contraceptivos em fumantes vai depender da idade da paciente e do número de cigarros que ela fuma por dia. Sendo assim:</div><div>1.    Tabagismo em mulheres &lt; 35 anos- os métodos combinados são categoria 2.</div><div>2.    Tabagismo em mulheres &gt;35 anos</div><div>a.    &lt;15 cigarros/dia- categoria 3</div><div>b.    &gt;15 cigarros&gt;=/dia- categoria 4.</div><div><br></div><div>Lembrem-se das categorias:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4D4752DE-066A-BFF4-1380-855F385EA1BD/4D4752DE-066A-BFF4-1380-855F385EA1BD-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como a paciente tem &gt;35 anos e fuma &gt;15 cigarros/dia, há contraindicação ABSOLUTA ao uso de método combinados (estrogênio + progesterona)</div><div>Vamos analisar as alternativas:</div><div><b>Incorreta alternativa “A”</b>, nesta paciente não há contraindicação ao uso de métodos não hormonais e nem aos métodos que contêm apenas progestágenos. O DIU de cobre é um método não hormonal e o SIU de levonorgestrel contém apenas progesterona, portanto, podem ser utilizados.</div><div><b>Correta alternativa “B”</b>, como vimos na alternativa anterior, compostos que contêm apenas progesteronas são liberados para essa paciente.</div><div><b>Incorreta alternativa “C”</b>, todos os métodos combinados são categoria 4.</div><div><b>Incorreta alternativa “D”</b>, o injetável mensal é um método combinado e, portanto, é categoria 4 (contraindicação absoluta).</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BNa escolha do método contraceptivo devemos sempre avaliar as preferências da sua paciente e suas comorbidades. Neste caso, temos uma paciente de 35 anos tabagista. Sabemos que o tabagismo é um conhecido fator de risco tromboembólico e a classificação em categorias dos métodos contraceptivos em fumantes vai depender da idade da paciente e do número de cigarros que ela fuma por dia. Sendo assim:1.    Tabagismo em mulheres &lt; 35 anos- os métodos combinados são categoria 2.2.    Tabagismo em mulheres &gt;35 anosa.    &lt;15 cigarros/dia- categoria 3b.    &gt;15 cigarros&gt;=/dia- categoria 4.Lembrem-se das categorias:Como a paciente tem &gt;35 anos e fuma &gt;15 cigarros/dia, há contraindicação ABSOLUTA ao uso de método combinados (estrogênio + progesterona)Vamos analisar as alternativas:Incorreta alternativa “A”, nesta paciente não há contraindicação ao uso de métodos não hormonais e nem aos métodos que contêm apenas progestágenos. O DIU de cobre é um método não hormonal e o SIU de levonorgestrel contém apenas progesterona, portanto, podem ser utilizados.Correta alternativa “B”, como vimos na alternativa anterior, compostos que contêm apenas progesteronas são liberados para essa paciente.Incorreta alternativa “C”, todos os métodos combinados são categoria 4.Incorreta alternativa “D”, o injetável mensal é um método combinado e, portanto, é categoria 4 (contraindicação absoluta).",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-13 00:34:46.627741 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126958-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126623",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2015,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T20:18:19Z",
+                    "updated_at": "2020-09-24T17:11:55Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "d796ac50c67d491f8a3e06ad2e67adb5",
+                    "name": "Contraindicações",
+                    "is_master": false,
+                    "master_id": "40428d846af84bb086d989c090de710b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Métodos hormonais combinados[$$]Contraindicações",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "f5a6200a93574dbe8ffbd8883bd235b8",
+                    "name": "Dispositivos intrauterinos",
+                    "is_master": false,
+                    "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "171495a6-9df6-4588-bb06-d1cc5d554c3f",
+                    "position": "0",
+                    "body": "o dispositivo intrauterino.",
+                    "sanitized_body": "o dispositivo intrauterino.",
+                    "correct": true,
+                    "created_at": "2020-09-24 20:17:05.215175 +0000 UTC",
+                    "updated_at": "2020-11-20 13:28:08.401975 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:42:55.534584 +0000 UTC",
+                        "updated_at": "2022-01-12 21:20:56.901056 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 1269
+                },
+                {
+                    "id": "87a098bd-4b38-483c-8b72-8dad5517348b",
+                    "position": "1",
+                    "body": "a laqueadura tubária bilateral.",
+                    "sanitized_body": "a laqueadura tubária bilateral.",
+                    "correct": false,
+                    "created_at": "2020-09-24 20:17:05.215175 +0000 UTC",
+                    "updated_at": "2020-11-20 13:28:08.478275 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:42:55.539675 +0000 UTC",
+                        "updated_at": "2022-01-12 21:20:56.88401 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 8
+                },
+                {
+                    "id": "035d26f5-fcda-4f73-9e45-fdec1345e545",
+                    "position": "2",
+                    "body": "o diafragma com geleia espermicida.",
+                    "sanitized_body": "o diafragma com geleia espermicida.",
+                    "correct": false,
+                    "created_at": "2020-09-24 20:17:05.215175 +0000 UTC",
+                    "updated_at": "2020-11-20 13:28:08.575344 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:42:55.536638 +0000 UTC",
+                        "updated_at": "2022-01-12 21:20:56.906619 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 16
+                },
+                {
+                    "id": "bc243d9d-7b43-4b3f-b06b-21c8fafd6199",
+                    "position": "3",
+                    "body": "a anticoncepção hormonal combinado de baixa dosagem.",
+                    "sanitized_body": "a anticoncepção hormonal combinado de baixa dosagem.",
+                    "correct": false,
+                    "created_at": "2020-09-24 20:17:05.215175 +0000 UTC",
+                    "updated_at": "2020-11-20 13:28:08.646157 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 00:42:55.52867 +0000 UTC",
+                        "updated_at": "2022-01-12 21:20:56.917321 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 13
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma paciente de 20 anos de idade, Gesta 2 Para 1 Aborto 1, procura atendimento médico para orientação quanto à contracepção. Desde os 8 anos de idade tem diagnóstico de epilepsia de difícil controle, estando atualmente em uso de carbamazepina (1.000 mg/dia) e ácido valpróico (1.500 mg/dia). Diante desse quadro, seria mais recomendado",
+            "statement_text": "Uma paciente de 20 anos de idade, Gesta 2 Para 1 Aborto 1, procura atendimento médico para orientação quanto à contracepção. Desde os 8 anos de idade tem diagnóstico de epilepsia de difícil controle, estando atualmente em uso de carbamazepina (1.000 mg/dia) e ácido valpróico (1.500 mg/dia). Diante desse quadro, seria mais recomendado",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "eduderossi@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-24 20:17:05.215175 +0000 UTC",
+            "forum_id": "ecc17a26-a987-4b50-8af8-30ea97f229c4",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Na escolha do método contraceptivo devemos sempre avaliar as preferências da sua paciente e suas comorbidades. Neste caso, temos uma paciente de 20 anos, portadora de epilepsia de difícil controle em uso de carbamazepina e ácido valproico. Sabemos que algumas medicações são capazes de reduzir a eficácia dos métodos combinados, são elas:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8EEB5C2E-2362-A20F-29CA-B81D8AACB492/8EEB5C2E-2362-A20F-29CA-B81D8AACB492-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/ABAD76CC-CB64-AE9B-7EE4-338A50799957/ABAD76CC-CB64-AE9B-7EE4-338A50799957-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Sendo assim, a paciente tem contraindicação aos métodos combinados. Vamos analisar as alternativas:</div><div><b>Correta alternativa “A”</b>, o DIU de cobre é um método excelente para essa paciente, pois tem alta eficácia e é não hormonal. O DIU hormonal também pode ser utilizado já que contém apenas progesterona e é não-oral</div><div><b>Incorreta alternativa “B”</b>, para a solicitação de laqueadura tubária, a paciente deve ter idade igual ou superior a 25 anos e/ou dois ou mais filhos vivos. A paciente em questão não preenche nenhum desses critérios.</div><div><b>Incorreta alternativa “C”</b>, o diafragma com espermicida não é contraindicado para esta paciente. Entretanto, considerando que a epilepsia tem difícil controle e há grandes chances da piora das crises convulsivas durante uma nova gravidez, devemos procurar métodos contraceptivos eficazes ou altamente eficazes para a paciente. O diafragma é um método moderadamente efetivo.</div><div><b>Incorreta alternativa “D”</b>, como vimos, nesse caso, os métodos combinados (estrogênio + progesterona são contraindicados), pois têm eficácia reduzida com o uso concomitante de anticonvulsivantes.</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA ANa escolha do método contraceptivo devemos sempre avaliar as preferências da sua paciente e suas comorbidades. Neste caso, temos uma paciente de 20 anos, portadora de epilepsia de difícil controle em uso de carbamazepina e ácido valproico. Sabemos que algumas medicações são capazes de reduzir a eficácia dos métodos combinados, são elas:Sendo assim, a paciente tem contraindicação aos métodos combinados. Vamos analisar as alternativas:Correta alternativa “A”, o DIU de cobre é um método excelente para essa paciente, pois tem alta eficácia e é não hormonal. O DIU hormonal também pode ser utilizado já que contém apenas progesterona e é não-oralIncorreta alternativa “B”, para a solicitação de laqueadura tubária, a paciente deve ter idade igual ou superior a 25 anos e/ou dois ou mais filhos vivos. A paciente em questão não preenche nenhum desses critérios.Incorreta alternativa “C”, o diafragma com espermicida não é contraindicado para esta paciente. Entretanto, considerando que a epilepsia tem difícil controle e há grandes chances da piora das crises convulsivas durante uma nova gravidez, devemos procurar métodos contraceptivos eficazes ou altamente eficazes para a paciente. O diafragma é um método moderadamente efetivo.Incorreta alternativa “D”, como vimos, nesse caso, os métodos combinados (estrogênio + progesterona são contraindicados), pois têm eficácia reduzida com o uso concomitante de anticonvulsivantes.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-13 00:42:55.688639 +0000 UTC",
+                "updated_at": "2022-01-12 21:20:57.041823 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126623-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126789",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T18:54:40Z",
+                    "updated_at": "2020-09-24T16:06:37Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "4e1cc4f064f140968db2a20d4c44962f",
+                    "name": "Adolescentes",
+                    "is_master": false,
+                    "master_id": "9f7dd6f48efe4555819b6493fcf8237b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção em condições especiais[$$]Adolescentes",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "4df0e376-13b3-4e4e-a06e-1cdf75205901",
+                    "position": "0",
+                    "body": "Orientar uso de camisinha apenas.",
+                    "sanitized_body": "Orientar uso de camisinha apenas.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:49:17.763077 +0000 UTC",
+                    "updated_at": "2020-11-21 16:07:53.19119 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:39:08.832758 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 10
+                },
+                {
+                    "id": "5e40d97c-8ced-4bf1-8107-d9ba98587b7f",
+                    "position": "1",
+                    "body": "Prescrever ACO e orientar uso de condom.",
+                    "sanitized_body": "Prescrever ACO e orientar uso de condom.",
+                    "correct": true,
+                    "created_at": "2020-09-24 23:49:17.763077 +0000 UTC",
+                    "updated_at": "2020-11-21 16:07:53.480953 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:39:08.832687 +0000 UTC"
+                    },
+                    "answer_percentage": 98,
+                    "answers": 1242
+                },
+                {
+                    "id": "3931cd22-32fd-4cbf-a521-e2956f5ba49e",
+                    "position": "2",
+                    "body": "Não prescrever ACO, pois a paciente é menor de idade.",
+                    "sanitized_body": "Não prescrever ACO, pois a paciente é menor de idade.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:49:17.763077 +0000 UTC",
+                    "updated_at": "2020-11-21 16:07:53.550285 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:39:08.827381 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "b0671c72-27c5-4254-b89b-7d0f8e95d6c8",
+                    "position": "3",
+                    "body": "Orientar que a paciente venha à consulta acompanhada da mãe.",
+                    "sanitized_body": "Orientar que a paciente venha à consulta acompanhada da mãe.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:49:17.763077 +0000 UTC",
+                    "updated_at": "2020-11-21 16:07:53.622389 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:39:08.832784 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 16
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma adolescente com 15 anos de idade, com menarca aos 12 anos, procura atendimento na Unidade Básica de Saúde porque deseja usar anticoncepcional combinado oral (ACO). Iniciou atividade sexual há seis meses e teme uma gravidez indesejada. Está menstruada no dia da consulta. Nega comorbidades ou uso de medicações. Qual a conduta correta para a paciente?",
+            "statement_text": "Uma adolescente com 15 anos de idade, com menarca aos 12 anos, procura atendimento na Unidade Básica de Saúde porque deseja usar anticoncepcional combinado oral (ACO). Iniciou atividade sexual há seis meses e teme uma gravidez indesejada. Está menstruada no dia da consulta. Nega comorbidades ou uso de medicações. Qual a conduta correta para a paciente?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "liz.muller@globomail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-24 23:49:17.763077 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>A questão envolve os detalhes sobre contracepção em adolescentes . Tanto a Federação Brasileira das Sociedades de Ginecologia e Obstetrícia (FEBRASGO) como a Sociedade Brasileira de Pediatria (SBP) orientam que a “prescrição de métodos anticoncepcionais deverá levar em conta a solicitação dos adolescentes, respeitando-se os critérios médicos de elegibilidade, independentemente da idade.&nbsp;</div><div>Vamos analisar as alternativas:</div><div><b>Incorreta alternativa “A”</b>, a camisinha (condom) utilizada isoladamente é um método moderadamente efetivo. Todas as pacientes devem utilizar para prevenção de infecções sexualmente transmissíveis, mas deve ser estimulada a associação com outro método mais efetivo quando a paciente não está considerando gestação no período.</div><div><b>Correta alternativa “B”</b>, como a paciente não tem comorbidades e nem utiliza medicações de uso crônico, não há contraindicações ao uso de métodos combinados. Para a sua prescrição, é necessário apenas descartar gravidez. Como a paciente está menstruada, o método pode ser iniciado.</div><div><b>Incorreta alternativa “C”</b>, como vimos acima, qualquer método pode ser prescrito para as adolescentes, desde que se respeitem os critérios de elegibilidade.</div><div><b>Incorreta alternativa “D”</b>, a adolescente tem direito ao sigilo médico durante a consulta. Sendo assim, não é necessário a presença do responsável. Na prescrição de LARCS (métodos reversíveis de longa duração), por serem procedimentos invasivos, o ideal seria a assinatura da paciente e do responsável no termo de consentimento, mas a FEBRASGO não orienta a obrigatoriedade da assinatura do responsável legal..</div><div><br></div><div><br></div><div><b><br></b></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BA questão envolve os detalhes sobre contracepção em adolescentes . Tanto a Federação Brasileira das Sociedades de Ginecologia e Obstetrícia (FEBRASGO) como a Sociedade Brasileira de Pediatria (SBP) orientam que a “prescrição de métodos anticoncepcionais deverá levar em conta a solicitação dos adolescentes, respeitando-se os critérios médicos de elegibilidade, independentemente da idade. Vamos analisar as alternativas:Incorreta alternativa “A”, a camisinha (condom) utilizada isoladamente é um método moderadamente efetivo. Todas as pacientes devem utilizar para prevenção de infecções sexualmente transmissíveis, mas deve ser estimulada a associação com outro método mais efetivo quando a paciente não está considerando gestação no período.Correta alternativa “B”, como a paciente não tem comorbidades e nem utiliza medicações de uso crônico, não há contraindicações ao uso de métodos combinados. Para a sua prescrição, é necessário apenas descartar gravidez. Como a paciente está menstruada, o método pode ser iniciado.Incorreta alternativa “C”, como vimos acima, qualquer método pode ser prescrito para as adolescentes, desde que se respeitem os critérios de elegibilidade.Incorreta alternativa “D”, a adolescente tem direito ao sigilo médico durante a consulta. Sendo assim, não é necessário a presença do responsável. Na prescrição de LARCS (métodos reversíveis de longa duração), por serem procedimentos invasivos, o ideal seria a assinatura da paciente e do responsável no termo de consentimento, mas a FEBRASGO não orienta a obrigatoriedade da assinatura do responsável legal..",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-13 16:39:08.925226 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126789-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126777",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T18:54:40Z",
+                    "updated_at": "2020-09-24T16:06:37Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "36422e6ff78a499d93759c2bacdbf11a",
+                    "name": "Lei do planejamento familiar",
+                    "is_master": false,
+                    "master_id": "7c3845540d62418c93e6857881d5b547",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Métodos contraceptivos irreversíveis[$$]Lei do planejamento familiar",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "7b42dd75-da86-44c8-91b6-5ebc7a79f438",
+                    "position": "0",
+                    "body": "apresentar o caso à Secretaria de Saúde para avalição e sua consideração na decisão final.",
+                    "sanitized_body": "apresentar o caso à Secretaria de Saúde para avalição e sua consideração na decisão final.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:12:50.225816 +0000 UTC",
+                    "updated_at": "2021-07-29 00:57:51.118131 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque o caso não precisa ser apresentado para a secretaria de saúde já que a lei é bem clara nas suas regras.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque o caso não precisa ser apresentado para a secretaria de saúde já que a lei é bem clara nas suas regras.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 01:05:48.289621 +0000 UTC",
+                        "updated_at": "2023-01-12 21:23:12.010539 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 32
+                },
+                {
+                    "id": "dbde6a22-f54d-4564-aaee-c4725d557a01",
+                    "position": "1",
+                    "body": "agendar consulta conjunta para o casal, com o objetivo de apresentar todos os métodos contraceptivos disponíveis.",
+                    "sanitized_body": "agendar consulta conjunta para o casal, com o objetivo de apresentar todos os métodos contraceptivos disponíveis.",
+                    "correct": true,
+                    "created_at": "2020-09-24 23:12:50.225816 +0000 UTC",
+                    "updated_at": "2021-07-29 00:57:51.327961 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B: o casal deve ser apresentado aos métodos contraceptivos disponíveis e, se optarem pela laqueadura, deve haver um prazo mínimo de 60 dias entre a manifestação da vontade por escrito e a realização do procedimento.",
+                        "sanitized_complete": "Correta a alternativa B: o casal deve ser apresentado aos métodos contraceptivos disponíveis e, se optarem pela laqueadura, deve haver um prazo mínimo de 60 dias entre a manifestação da vontade por escrito e a realização do procedimento.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 01:05:48.27898 +0000 UTC",
+                        "updated_at": "2023-01-12 21:23:12.004782 +0000 UTC"
+                    },
+                    "answer_percentage": 80,
+                    "answers": 895
+                },
+                {
+                    "id": "c0c7d376-2ee4-4bf7-886b-c5f7ecfd4b5a",
+                    "position": "2",
+                    "body": "orientar que a paciente informe na maternidade, por ocasião da admissão para o parto, sobre seu desejo de ser submetida à laqueadura.",
+                    "sanitized_body": "orientar que a paciente informe na maternidade, por ocasião da admissão para o parto, sobre seu desejo de ser submetida à laqueadura.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:12:50.225816 +0000 UTC",
+                    "updated_at": "2021-07-29 00:57:51.534414 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque na época do concurso era proibida a realização de laqueadura no momento do parto, porém a partir de março de 2023 isto foi liberado.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque na época do concurso era proibida a realização de laqueadura no momento do parto, porém a partir de março de 2023 isto foi liberado.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 01:05:48.281984 +0000 UTC",
+                        "updated_at": "2023-01-12 21:23:12.006808 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 93
+                },
+                {
+                    "id": "539bfb6d-04e0-4a1d-b2c2-0d36fa1e365c",
+                    "position": "3",
+                    "body": "encaminhar para o serviço de Obstetrícia de referência, devido ao risco obstétrico desta gestação e da especificidade da solicitação.",
+                    "sanitized_body": "encaminhar para o serviço de Obstetrícia de referência, devido ao risco obstétrico desta gestação e da especificidade da solicitação.",
+                    "correct": false,
+                    "created_at": "2020-09-24 23:12:50.225816 +0000 UTC",
+                    "updated_at": "2021-07-29 00:57:51.752115 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D: a paciente não deve ser encaminhada para serviço de Obstétrico apenas devido à vontade de laqueadura. Como a gravidez tem risco habitual, todo o pré-natal e o planejamento familiar podem ser realizados à nível de atenção básica.",
+                        "sanitized_complete": "Incorreta a alternativa D: a paciente não deve ser encaminhada para serviço de Obstétrico apenas devido à vontade de laqueadura. Como a gravidez tem risco habitual, todo o pré-natal e o planejamento familiar podem ser realizados à nível de atenção básica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 01:05:48.298725 +0000 UTC",
+                        "updated_at": "2023-01-12 21:23:12.000419 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 105
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma mulher com 27 anos de idade apresenta o seguinte histórico: gestação = 3, parto = 1 (vaginal), aborto = 1 (provocado). A paciente, com gestação de 28 semanas, está realizando acompanhamento pré-natal em Unidade Básica de Saúde, sem intercorrências. Esta é a primeira consulta com o médico. No prontuário constam os seguintes registros do atendimento com a enfermeira: trata-se de gestação não planejada e indesejada; a gestante manifestou desejo de ser submetida a laqueadura tubária por ocasião do parto desta gestação. A paciente relata relacionamento fixo, mas conturbado, com o pai de seu único filho. Nega violência física ou sexual. Considerando as questões ético-legais envolvendo o planejamento familiar, a conduta indicada para a paciente é:",
+            "statement_text": "Uma mulher com 27 anos de idade apresenta o seguinte histórico: gestação = 3, parto = 1 (vaginal), aborto = 1 (provocado). A paciente, com gestação de 28 semanas, está realizando acompanhamento pré-natal em Unidade Básica de Saúde, sem intercorrências. Esta é a primeira consulta com o médico. No prontuário constam os seguintes registros do atendimento com a enfermeira: trata-se de gestação não planejada e indesejada; a gestante manifestou desejo de ser submetida a laqueadura tubária por ocasião do parto desta gestação. A paciente relata relacionamento fixo, mas conturbado, com o pai de seu único filho. Nega violência física ou sexual. Considerando as questões ético-legais envolvendo o planejamento familiar, a conduta indicada para a paciente é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "liz.muller@globomail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-24 23:12:50.225816 +0000 UTC",
+            "forum_id": "5a1c5242-7fc0-4498-95d2-c8c2858bffc1",
+            "solution": {
+                "complete": "A questão traz detalhes sobre a lei do planejamento familiar. Vamos relembrar os principais tópicos da Lei:<div>1. QUEM PODE?</div><div>• Homens e mulheres.</div><div>• Idade igual ou superior a 21 anos ou dois filhos vivos.</div><div>• Risco de vida à mulher ou ao futuro concepto → assinado por 2 médicos.</div><div><br></div><div>2. Manifestação da vontade por escrito → prazo de 60 dias entre a manifestação do desejo e o procedimento;</div><div><br></div><div>3. Proibida esterilização por histerectomia ou ooforectomia;</div><div><br></div><div>4. Se sociedade conjugal → não é necessária autorização do conjuge.</div><div><br></div><div>5. PENA: reclusão de 2-8 anos e multa.</div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "A questão traz detalhes sobre a lei do planejamento familiar. Vamos relembrar os principais tópicos da Lei:1. QUEM PODE?• Homens e mulheres.• Idade igual ou superior a 21 anos ou dois filhos vivos.• Risco de vida à mulher ou ao futuro concepto → assinado por 2 médicos.2. Manifestação da vontade por escrito → prazo de 60 dias entre a manifestação do desejo e o procedimento;3. Proibida esterilização por histerectomia ou ooforectomia;4. Se sociedade conjugal → não é necessária autorização do conjuge.5. PENA: reclusão de 2-8 anos e multa.Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-07-29 01:05:48.511477 +0000 UTC",
+                "updated_at": "2023-01-12 21:23:12.35502 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000126730",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C5F83421-5DE6-E2C4-CC60-B4BE2A2591B3"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-03T20:14:31Z",
+                    "updated_at": "2020-11-25T18:33:28Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "736fdacb3d0045c29c723b105235f00b",
+                    "name": "Critérios de elegibilidade da OMS",
+                    "is_master": false,
+                    "master_id": "a18b78ff5b744b8e90fe0f656fb8974b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Conceitos iniciais[$$]Critérios de elegibilidade da OMS",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "dcbd1f8d-6c61-4990-b2bf-e6c17ba94f5f",
+                    "position": "0",
+                    "body": "podem ser usados, pois as vantagens superam possíveis riscos.",
+                    "sanitized_body": "podem ser usados, pois as vantagens superam possíveis riscos.",
+                    "correct": true,
+                    "created_at": "2020-09-24 21:24:39.450771 +0000 UTC",
+                    "updated_at": "2020-11-21 16:05:33.054326 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:29:21.047567 +0000 UTC"
+                    },
+                    "answer_percentage": 90,
+                    "answers": 336
+                },
+                {
+                    "id": "a639cfaf-5356-4a24-92fd-e3d9e67cb2df",
+                    "position": "1",
+                    "body": "não devem ser usados, já que os riscos superam os benefícios.",
+                    "sanitized_body": "não devem ser usados, já que os riscos superam os benefícios.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:24:39.450771 +0000 UTC",
+                    "updated_at": "2020-11-21 16:05:33.171822 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:29:21.04699 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 8
+                },
+                {
+                    "id": "de1862d1-d3a6-4b13-b690-e55ce96b85b4",
+                    "position": "2",
+                    "body": "são de última escolha, pois necessitam acompanhamento rigoroso.",
+                    "sanitized_body": "são de última escolha, pois necessitam acompanhamento rigoroso.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:24:39.450771 +0000 UTC",
+                    "updated_at": "2020-11-21 16:05:33.246755 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:29:21.044189 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 6
+                },
+                {
+                    "id": "08148123-1323-4e48-bac5-0b6ab46bdacc",
+                    "position": "3",
+                    "body": "podem ser usados sem restrições e o acompanhamento é o habitual.",
+                    "sanitized_body": "podem ser usados sem restrições e o acompanhamento é o habitual.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:24:39.450771 +0000 UTC",
+                    "updated_at": "2020-11-21 16:05:33.323304 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2020-11-13 16:29:21.053422 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 25
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Nos critérios de elegibilidade da OMS para uso de método anticoncepcional, na categoria 2 se enquadram os métodos que:<div><br></div>",
+            "statement_text": "Nos critérios de elegibilidade da OMS para uso de método anticoncepcional, na categoria 2 se enquadram os métodos que:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "eliets.9@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-24 21:24:39.450771 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Para a adequada escolha do método contraceptivo é importante que vários fatores sejam levados em conta, como disponibilidade do serviço de saúde, preferências da paciente, custos, efeitos colaterais e condições de saúde da mulher. Esta última tem fundamental importância pois, ao mesmo tempo que o anticoncepcional contribui para diminuir os ricos de uma gravidez não planejada, também podem causar sérias complicações clínicas, caso prescrito inadequadamente.</div><div>Para minimizar esse risco, a Organização Mundial de Saúde (OMS) formulou os “Critérios de Elegibilidade para uso de Métodos Anticoncepcionais”. Os critérios reúnem diversas condições (características individuais ou condição médica/patológica preexistente) e as divide em quatro categorias (1 a 4). Observe a tabela abaixo:</div><div><b><br></b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2670D1E6-9A60-020C-20B8-292E1CCB20AC/2670D1E6-9A60-020C-20B8-292E1CCB20AC-400.png\"><!-- END:IMAGE_TO_REPLACE --><b><br></b></div><div>A questão pede qual das alternativas representa a categoria 2. Vamos analisá-las:</div><div><b>Correta alternativa “A”</b>, está de acordo com a tabela acima.</div><div><b>Incorreta alternativa “B”</b>, categoria 4.</div><div><b>Incorreta alternativa “C”</b>, categoria 3.</div><div><b>Incorreta alternativa “D”</b>, categoria 1.</div><div>REVALIDA DF 2014</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA APara a adequada escolha do método contraceptivo é importante que vários fatores sejam levados em conta, como disponibilidade do serviço de saúde, preferências da paciente, custos, efeitos colaterais e condições de saúde da mulher. Esta última tem fundamental importância pois, ao mesmo tempo que o anticoncepcional contribui para diminuir os ricos de uma gravidez não planejada, também podem causar sérias complicações clínicas, caso prescrito inadequadamente.Para minimizar esse risco, a Organização Mundial de Saúde (OMS) formulou os “Critérios de Elegibilidade para uso de Métodos Anticoncepcionais”. Os critérios reúnem diversas condições (características individuais ou condição médica/patológica preexistente) e as divide em quatro categorias (1 a 4). Observe a tabela abaixo:A questão pede qual das alternativas representa a categoria 2. Vamos analisá-las:Correta alternativa “A”, está de acordo com a tabela acima.Incorreta alternativa “B”, categoria 4.Incorreta alternativa “C”, categoria 3.Incorreta alternativa “D”, categoria 1.REVALIDA DF 2014",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-13 16:29:21.083473 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126730-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000153865",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4238DFC9-B03C-8BAC-1C76-1899E78C8C36"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "50DC4203-E773-803A-3BD8-CC1E7DD33312"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2021-10-01T13:48:08Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "40428d846af84bb086d989c090de710b",
+                    "name": "Métodos hormonais combinados",
+                    "is_master": false,
+                    "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Métodos hormonais combinados",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "babe5ce79f4c425c889bab5e48f56022",
+                    "name": "Anticoncepção hormonal apenas com progesterona",
+                    "is_master": false,
+                    "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção hormonal apenas com progesterona",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9f20a59c-51a1-4257-8f2e-c45f0bbf0b4f",
+                    "position": "0",
+                    "body": "os progestagênios diminuem a resistência à insulina.\n",
+                    "sanitized_body": "os progestagênios diminuem a resistência à insulina.\n",
+                    "correct": false,
+                    "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+                    "updated_at": "2022-03-29 14:18:37.124955 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque os anticoncepcionais combinados reduzem a sensibilidade à insulina, ou seja, aumenta a resistência insulínica. Esse efeito é menor com o uso de estrogênio natural. ",
+                        "sanitized_complete": "Incorreta a alternativa A, porque os anticoncepcionais combinados reduzem a sensibilidade à insulina, ou seja, aumenta a resistência insulínica. Esse efeito é menor com o uso de estrogênio natural.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2022-03-29 14:23:49.02724 +0000 UTC",
+                        "updated_at": "2022-03-29 14:33:16.061931 +0000 UTC"
+                    },
+                    "answer_percentage": 21,
+                    "answers": 40
+                },
+                {
+                    "id": "aefebe36-d524-4bd6-82dd-180e1782e57b",
+                    "position": "1",
+                    "body": "o etinil-estradiol reduz a albumina hepática.",
+                    "sanitized_body": "o etinil-estradiol reduz a albumina hepática.",
+                    "correct": false,
+                    "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+                    "updated_at": "2022-03-29 14:18:37.540376 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque o etinilestradiol não reduz a albumina hepática",
+                        "sanitized_complete": "Incorreta a alternativa B, porque o etinilestradiol não reduz a albumina hepática",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2022-03-29 14:23:49.02471 +0000 UTC",
+                        "updated_at": "2022-03-29 14:33:16.07632 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 20
+                },
+                {
+                    "id": "226e83c2-e624-4322-a98a-863596739e3f",
+                    "position": "2",
+                    "body": "os progestagênios aumentam o HDL-colesterol.\n",
+                    "sanitized_body": "os progestagênios aumentam o HDL-colesterol.\n",
+                    "correct": false,
+                    "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+                    "updated_at": "2022-03-29 14:18:37.94774 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque é o etinilestradiol que aumenta o HDL colesterol. Os métodos combinados aumentam o HDL (lipoproteína de alta densidade) e os triglicérides (TG). O aumento dos TG gira em torno de 30-80%.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque é o etinilestradiol que aumenta o HDL colesterol. Os métodos combinados aumentam o HDL (lipoproteína de alta densidade) e os triglicérides (TG). O aumento dos TG gira em torno de 30-80%.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2022-03-29 14:23:49.027748 +0000 UTC",
+                        "updated_at": "2022-03-29 14:33:16.06254 +0000 UTC"
+                    },
+                    "answer_percentage": 21,
+                    "answers": 40
+                },
+                {
+                    "id": "853c454c-197f-4aeb-ba29-391acb0b56a1",
+                    "position": "3",
+                    "body": "o etinil-estradiol reduz o colesterol total.",
+                    "sanitized_body": "o etinil-estradiol reduz o colesterol total.",
+                    "correct": true,
+                    "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+                    "updated_at": "2022-03-29 14:18:38.279689 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa D, o etinilestradiol diminui o colesterol total.",
+                        "sanitized_complete": "Correta a alternativa D, o etinilestradiol diminui o colesterol total.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2022-03-29 14:23:49.022907 +0000 UTC",
+                        "updated_at": "2022-03-29 14:33:16.076147 +0000 UTC"
+                    },
+                    "answer_percentage": 31,
+                    "answers": 61
+                },
+                {
+                    "id": "f6a853f7-4506-49fb-9411-e2b0421837fc",
+                    "position": "4",
+                    "body": "o etinil-estradiol reduz os fatores de coagulação VII e XII.",
+                    "sanitized_body": "o etinil-estradiol reduz os fatores de coagulação VII e XII.",
+                    "correct": false,
+                    "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+                    "updated_at": "2022-03-29 14:18:38.820932 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E, porque o etinilestradiol aumenta a síntese de fatores de coagulação, reduz alguns anticoagulantes naturais e promove resistência à proteína C ativada. O efeito pró-coagulante do estrogênio é maior quanto maior a dosagem utilizada. ",
+                        "sanitized_complete": "Incorreta a alternativa E, porque o etinilestradiol aumenta a síntese de fatores de coagulação, reduz alguns anticoagulantes naturais e promove resistência à proteína C ativada. O efeito pró-coagulante do estrogênio é maior quanto maior a dosagem utilizada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2022-03-29 14:23:49.060891 +0000 UTC",
+                        "updated_at": "2022-03-29 14:33:16.062808 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 33
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em relação aos efeitos metabólicos dos componentes dos anticoncepcionais orais, está comprovado que",
+            "statement_text": "Em relação aos efeitos metabólicos dos componentes dos anticoncepcionais orais, está comprovado que",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "socorrosantos2408@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2021-10-01 19:32:26.748607 +0000 UTC",
+            "solution": {
+                "complete": "Estrategista, esta é uma questão sobre os benefícios e efeitos colaterais do anticoncepcionais hormonais combinados. Além da eficácia (índice de Pearl de 0,3 com uso perfeito e 3 com uso típico) e reversibilidade rápida, todos os métodos hormonais combinados possuem diversos benefícios não contraceptivos: <div><br></div><div>1. Decorrentes da anovulação: </div><div>a.  Melhora dos sintomas da síndrome pré-menstrual (mastalgia, irritabilidade, cefaleia) e da dismenorreia primária ou secundária; </div><div>b..“Repouso ovariano” - provoca redução e desaparecimento de cistos ovariano simples; </div><div><br></div><div>2. Regulação do sangramento menstrual e redução de sangramento excessivo; </div><div><br></div><div>3. Melhora da sexualidade: os anticoncepcionais hormonais podem melhorar a sexualidade devido à redução do risco de gestação. Entretanto, também podem estar associados à redução da libido (como veremos no tópico de efeitos adversos). </div><div><br></div><div>4. Redução de manifestações dermatológicas de hiperandrogenismo (acne, oleosidade e hirsutismo): esse efeito é maior com o uso de progestágenos antiandrogênicos.</div><div><br></div><div>5. Melhora da densidade mineral óssea devido ao componente estrogênico (lembre-se de que o estrogênio reduz a reabsorção óssea. </div><div><br></div><div>6. Risco de câncer: os anticoncepcionais hormonais utilizados por tempo prolongado reduzem o risco de câncer de ovário (devido à anovulação), de endométrio (devido à atrofia endometrial) e colorretal. </div><div><br></div><div>7. Doença inflamatória pélvica: ao alterar o muco cervical, os métodos hormonais dificultam a ascensão de patógenos para a cavidade uterina, reduzindo o risco de doença inflamatória pélvica.</div><div><br></div><div>A tabela abaixo mostra os efeitos colaterais dos anticoncepcionais combinados:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AEAC00FC-048F-3083-BFD6-25E6A5AB4307/AEAC00FC-048F-3083-BFD6-25E6A5AB4307-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+                "sanitized_complete": "Estrategista, esta é uma questão sobre os benefícios e efeitos colaterais do anticoncepcionais hormonais combinados. Além da eficácia (índice de Pearl de 0,3 com uso perfeito e 3 com uso típico) e reversibilidade rápida, todos os métodos hormonais combinados possuem diversos benefícios não contraceptivos: 1. Decorrentes da anovulação: a.  Melhora dos sintomas da síndrome pré-menstrual (mastalgia, irritabilidade, cefaleia) e da dismenorreia primária ou secundária; b..“Repouso ovariano” - provoca redução e desaparecimento de cistos ovariano simples; 2. Regulação do sangramento menstrual e redução de sangramento excessivo; 3. Melhora da sexualidade: os anticoncepcionais hormonais podem melhorar a sexualidade devido à redução do risco de gestação. Entretanto, também podem estar associados à redução da libido (como veremos no tópico de efeitos adversos). 4. Redução de manifestações dermatológicas de hiperandrogenismo (acne, oleosidade e hirsutismo): esse efeito é maior com o uso de progestágenos antiandrogênicos.5. Melhora da densidade mineral óssea devido ao componente estrogênico (lembre-se de que o estrogênio reduz a reabsorção óssea. 6. Risco de câncer: os anticoncepcionais hormonais utilizados por tempo prolongado reduzem o risco de câncer de ovário (devido à anovulação), de endométrio (devido à atrofia endometrial) e colorretal. 7. Doença inflamatória pélvica: ao alterar o muco cervical, os métodos hormonais dificultam a ascensão de patógenos para a cavidade uterina, reduzindo o risco de doença inflamatória pélvica.A tabela abaixo mostra os efeitos colaterais dos anticoncepcionais combinados:Agora vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-03-29 14:23:49.491533 +0000 UTC",
+                "updated_at": "2022-03-29 14:33:16.245181 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000129309",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "d31d08efc2504c55a39429b7fa3657ad",
+                    "name": "Inserção",
+                    "is_master": false,
+                    "master_id": "f5a6200a93574dbe8ffbd8883bd235b8",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos[$$]Inserção",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "28bf05ce-6e97-4687-9970-f056b69d0ba8",
+                    "position": "0",
+                    "body": "Colposcopia.<div>&nbsp;</div>",
+                    "sanitized_body": "Colposcopia. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+                    "updated_at": "2021-07-29 00:08:41.480319 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "na suspeita de câncer de colo uterino visível, o dispositivo intrauterino não deve ser inserido. Entretanto, não é obrigatório colposcopia nem citologia para a inserção.",
+                        "sanitized_complete": "na suspeita de câncer de colo uterino visível, o dispositivo intrauterino não deve ser inserido. Entretanto, não é obrigatório colposcopia nem citologia para a inserção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 00:17:57.364596 +0000 UTC",
+                        "updated_at": "2021-07-29 00:18:00.030076 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 17
+                },
+                {
+                    "id": "5edcf4a2-f6e0-4cae-bfd0-e7b45f8c60d2",
+                    "position": "1",
+                    "body": "Ultrassonografia transvaginal.<div>&nbsp;</div>",
+                    "sanitized_body": "Ultrassonografia transvaginal. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+                    "updated_at": "2021-07-29 00:08:41.678921 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "apenas o exame pélvico e a história clínica conseguem predizer se a paciente tem cavidade uterina de tamanho adequado para receber o DIU. Apesar de bastante utilizado na prática clínica, a ultrassonografia transvaginal não é obrigatória.",
+                        "sanitized_complete": "apenas o exame pélvico e a história clínica conseguem predizer se a paciente tem cavidade uterina de tamanho adequado para receber o DIU. Apesar de bastante utilizado na prática clínica, a ultrassonografia transvaginal não é obrigatória.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 00:17:57.433731 +0000 UTC",
+                        "updated_at": "2021-07-29 00:17:59.960364 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 180
+                },
+                {
+                    "id": "20bf125c-95bf-4836-a48c-53804aa34786",
+                    "position": "2",
+                    "body": "Exame pélvico especular e toque bimanual.<div>&nbsp;</div>",
+                    "sanitized_body": "Exame pélvico especular e toque bimanual. ",
+                    "correct": true,
+                    "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+                    "updated_at": "2021-07-29 00:08:41.878586 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "apenas o exame pélvico e a história clínica conseguem predizer se a paciente tem cavidade uterina de tamanho adequado para receber o DIU.&nbsp;",
+                        "sanitized_complete": "apenas o exame pélvico e a história clínica conseguem predizer se a paciente tem cavidade uterina de tamanho adequado para receber o DIU. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 00:17:57.365636 +0000 UTC",
+                        "updated_at": "2021-07-29 00:17:59.93372 +0000 UTC"
+                    },
+                    "answer_percentage": 60,
+                    "answers": 618
+                },
+                {
+                    "id": "2c8187d3-b5e4-4fd2-a7ff-6055c1a3e609",
+                    "position": "3",
+                    "body": "Coleta de citologia cérvico-vaginal preventiva.<div>&nbsp;</div>",
+                    "sanitized_body": "Coleta de citologia cérvico-vaginal preventiva. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+                    "updated_at": "2021-07-29 00:08:42.129261 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "como vimos na alternativa A, a coleta da citologia é dispensável.",
+                        "sanitized_complete": "como vimos na alternativa A, a coleta da citologia é dispensável.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 00:17:57.357988 +0000 UTC",
+                        "updated_at": "2021-07-29 00:18:00.030784 +0000 UTC"
+                    },
+                    "answer_percentage": 18,
+                    "answers": 190
+                },
+                {
+                    "id": "b5404601-390c-4ab7-980c-c08ce8560a89",
+                    "position": "4",
+                    "body": "Triagem para doenças sexualmente transmissíveis: anti HIV e VDRL.",
+                    "sanitized_body": "Triagem para doenças sexualmente transmissíveis: anti HIV e VDRL.",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+                    "updated_at": "2021-07-29 00:08:42.338288 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "apesar do rastreio das ISTs (infecções sexualmente transmissíveis) ser muito importante para a consulta ginecológica, deve ser feito baseado nas práticas sexuais da paciente e não para a inserção do DIU.",
+                        "sanitized_complete": "apesar do rastreio das ISTs (infecções sexualmente transmissíveis) ser muito importante para a consulta ginecológica, deve ser feito baseado nas práticas sexuais da paciente e não para a inserção do DIU.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 00:17:57.550637 +0000 UTC",
+                        "updated_at": "2021-07-29 00:17:59.963568 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 32
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma mulher puérpera de 29 anos, gesta = 5, para = 5, último parto há 2 meses, procura o Posto de Saúde para fazer planejamento familiar. A paciente é casada e informa ter apenas um parceiro sexual. Além disso, nega história de hipertensão, diabetes ou doenças sexualmente transmissíveis. A paciente está assintomática por ocasião dessa consulta. Após as reuniões de orientação reprodutiva, a paciente optou pela inserção do dispositivo intrauterino.<div><br></div><div>Nesse caso, que procedimento deve ser realizado antes do início do uso desse método?</div><div>&nbsp;</div>",
+            "statement_text": "Uma mulher puérpera de 29 anos, gesta = 5, para = 5, último parto há 2 meses, procura o Posto de Saúde para fazer planejamento familiar. A paciente é casada e informa ter apenas um parceiro sexual. Além disso, nega história de hipertensão, diabetes ou doenças sexualmente transmissíveis. A paciente está assintomática por ocasião dessa consulta. Após as reuniões de orientação reprodutiva, a paciente optou pela inserção do dispositivo intrauterino.Nesse caso, que procedimento deve ser realizado antes do início do uso desse método? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 15:16:22.57394 +0000 UTC",
+            "solution": {
+                "complete": "A questão traz detalhes sobre a inserção dos dispositivos intrauterinos. Para utilizar esse método, primeiro temos que analisar se existem contraindicações ao seu uso, o que não é o caso da paciente.<div>Em pacientes eumenorreicas, a inserção dos dispositivos intrauterinos pode ser a qualquer momento do ciclo, desde que descartada gestação, mas é preferível durante a menstruação, pois gera menor desconforto e se tem a certeza da ausência de gravidez. Se a inserção for realizada até o 12° dia do ciclo não há necessidade de proteção contraceptiva adicional.</div><div>Vamos analisar as alternativas:</div><div><br></div>",
+                "sanitized_complete": "A questão traz detalhes sobre a inserção dos dispositivos intrauterinos. Para utilizar esse método, primeiro temos que analisar se existem contraindicações ao seu uso, o que não é o caso da paciente.Em pacientes eumenorreicas, a inserção dos dispositivos intrauterinos pode ser a qualquer momento do ciclo, desde que descartada gestação, mas é preferível durante a menstruação, pois gera menor desconforto e se tem a certeza da ausência de gravidez. Se a inserção for realizada até o 12° dia do ciclo não há necessidade de proteção contraceptiva adicional.Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-07-29 00:17:58.048964 +0000 UTC",
+                "updated_at": "2021-07-29 00:18:00.059931 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129309-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000129254",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "34828a2d97b64128bbd514bc960dca0b",
+                    "name": "Sigilo profissional em crianças e adolescentes (Parecer CFM nº 25, de 2013)",
+                    "is_master": false,
+                    "master_id": "4c90a782aad948218242b834f696fbda",
+                    "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)[$$]Sigilo profissional[$$]Sigilo profissional em crianças e adolescentes (Parecer CFM nº 25, de 2013)",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "4e1cc4f064f140968db2a20d4c44962f",
+                    "name": "Adolescentes",
+                    "is_master": false,
+                    "master_id": "9f7dd6f48efe4555819b6493fcf8237b",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção em condições especiais[$$]Adolescentes",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9505a751-4c95-4f47-abb6-d84bb9b1f2d4",
+                    "position": "0",
+                    "body": "Não prescrever anticoncepcional oral, pois a paciente é menor de idade.<div> </div>",
+                    "sanitized_body": "Não prescrever anticoncepcional oral, pois a paciente é menor de idade. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+                    "updated_at": "2022-01-08 20:27:35.416374 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "como vimos acima, se você considerar a paciente com discernimento adequado, a idade não é fato limitante para a prescrição do contraceptivo.",
+                        "sanitized_complete": "como vimos acima, se você considerar a paciente com discernimento adequado, a idade não é fato limitante para a prescrição do contraceptivo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-28 18:02:41.016194 +0000 UTC",
+                        "updated_at": "2021-07-28 18:02:42.366599 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "a067f42a-4516-476c-8243-c5113dae7f2a",
+                    "position": "1",
+                    "body": "Não prescrever anticoncepcional oral, pois a paciente teve menarca há apenas 3 anos.<div> </div>",
+                    "sanitized_body": "Não prescrever anticoncepcional oral, pois a paciente teve menarca há apenas 3 anos. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+                    "updated_at": "2022-01-08 20:27:35.493874 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "não há relação entre tempo de menarca e tempo de início de métodos contraceptivos.",
+                        "sanitized_complete": "não há relação entre tempo de menarca e tempo de início de métodos contraceptivos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-28 18:02:41.029831 +0000 UTC",
+                        "updated_at": "2021-07-28 18:02:42.393206 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "2309302e-2682-4c42-876a-4f23e279b2b8",
+                    "position": "2",
+                    "body": "Solicitar que a paciente compareça acompanhada de um responsável à consulta médica.<div> </div>",
+                    "sanitized_body": "Solicitar que a paciente compareça acompanhada de um responsável à consulta médica. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+                    "updated_at": "2022-01-08 20:27:35.543245 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "como vimos acima, a paciente tem direito ao sigilo médico. Este só pode ser quebrado em duas situações:<div>- em caso de ideação suicida;</div><div>-na suspeita de abuso sexual.</div>",
+                        "sanitized_complete": "como vimos acima, a paciente tem direito ao sigilo médico. Este só pode ser quebrado em duas situações:- em caso de ideação suicida;-na suspeita de abuso sexual.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-28 18:02:41.029807 +0000 UTC",
+                        "updated_at": "2021-07-28 18:02:42.384067 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 19
+                },
+                {
+                    "id": "39969a46-f4c4-4c06-a881-e2eed89fa957",
+                    "position": "3",
+                    "body": "Prescrever anticoncepcional oral, orientar uso de preservativo e garantir a confidencialidade da consulta.<div> </div>",
+                    "sanitized_body": "Prescrever anticoncepcional oral, orientar uso de preservativo e garantir a confidencialidade da consulta. ",
+                    "correct": true,
+                    "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+                    "updated_at": "2022-01-08 20:27:35.593704 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "está de acordo com o que vimos acima.",
+                        "sanitized_complete": "está de acordo com o que vimos acima.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-28 18:02:41.037546 +0000 UTC",
+                        "updated_at": "2021-07-28 18:02:42.428976 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 1571
+                },
+                {
+                    "id": "93fd87cc-d387-4008-a08c-edf1a2eacf30",
+                    "position": "4",
+                    "body": "Prescrever anticoncepcional oral e solicitar a presença de um responsável pela menor para comunicar o fato.",
+                    "sanitized_body": "Prescrever anticoncepcional oral e solicitar a presença de um responsável pela menor para comunicar o fato.",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+                    "updated_at": "2022-01-08 20:27:35.646466 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "como vimos, a paciente tem direito ao sigilo médico.",
+                        "sanitized_complete": "como vimos, a paciente tem direito ao sigilo médico.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                        "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                        "author_profile": null,
+                        "created_at": "2021-07-28 18:02:41.031148 +0000 UTC",
+                        "updated_at": "2021-07-28 18:02:42.393137 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 19
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma adolescente com idade de 14 anos procura uma Unidade Básica de Saúde (UBS) para a sua primeira consulta ginecológica, pois deseja usar anticoncepcional oral. Ela iniciou atividade sexual há 6 meses e refere menarca aos 11 anos de idade e ciclos regulares. A adolescente nega comorbidades e diz, ainda, que os pais não sabem do início da atividade sexual. Qual a conduta mais adequada frente ao caso relatado acima?<div><br></div>",
+            "statement_text": "Uma adolescente com idade de 14 anos procura uma Unidade Básica de Saúde (UBS) para a sua primeira consulta ginecológica, pois deseja usar anticoncepcional oral. Ela iniciou atividade sexual há 6 meses e refere menarca aos 11 anos de idade e ciclos regulares. A adolescente nega comorbidades e diz, ainda, que os pais não sabem do início da atividade sexual. Qual a conduta mais adequada frente ao caso relatado acima?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 13:46:50.595893 +0000 UTC",
+            "forum_id": "bc4c6076-55e6-49bc-ad95-1fb32604c5f0",
+            "solution": {
+                "complete": "Um tema frequentemente cobrado nas provas de residência médica e Revalida é a consulta ginecológica e prescrição de contraceptivos nas adolescentes.<div>A consulta ginecológica do adolescente requer os mesmos princípios do sigilo médico-paciente. Caso você julgue que a adolescente tenha discernimento adequado, você pode prescrever qualquer método contraceptivo, mesmo na ausência do seu responsável legal, desde que sejam respeitados os critérios de elegibilidade. É importante que seja encorajada a discussão sobre o assunto com os responsáveis.</div><div>&nbsp;Entretanto, para a prescrição de métodos invasivos (como dispositivo intrauterino e implante subdérmico), deve-se considerar o consentimento da adolescente e do responsável legal.</div><div>Vamos analisar cada uma das alternativas:</div><div><br></div>",
+                "sanitized_complete": "Um tema frequentemente cobrado nas provas de residência médica e Revalida é a consulta ginecológica e prescrição de contraceptivos nas adolescentes.A consulta ginecológica do adolescente requer os mesmos princípios do sigilo médico-paciente. Caso você julgue que a adolescente tenha discernimento adequado, você pode prescrever qualquer método contraceptivo, mesmo na ausência do seu responsável legal, desde que sejam respeitados os critérios de elegibilidade. É importante que seja encorajada a discussão sobre o assunto com os responsáveis. Entretanto, para a prescrição de métodos invasivos (como dispositivo intrauterino e implante subdérmico), deve-se considerar o consentimento da adolescente e do responsável legal.Vamos analisar cada uma das alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+                "author_profile": {
+                    "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+                    "full_name": "Monalisa Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+                    "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-07-28 18:02:41.2363 +0000 UTC",
+                "updated_at": "2021-07-28 18:02:42.489288 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129254-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 36
+    }
+}

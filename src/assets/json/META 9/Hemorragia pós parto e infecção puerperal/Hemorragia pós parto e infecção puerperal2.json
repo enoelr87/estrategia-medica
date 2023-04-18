@@ -1,0 +1,614 @@
+{
+    "data": [
+        {
+            "id": "4000154215",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2009,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "9795389F-01F0-A678-A9A7-43816AF83B55"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2021-10-01T23:48:10Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "000022a155dc415188d0a066a1b80734",
+                    "name": "Hemorragias pós parto (HPP) e rotura uterina",
+                    "is_master": false,
+                    "master_id": "001fbed1e8584cf1852a121c19413527",
+                    "path": "Obstetrícia[$$]Puerpério[$$]Hemorragias pós parto (HPP) e rotura uterina",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "7520f8de-0069-4c33-a548-53beaa8d6058",
+                    "position": "0",
+                    "body": "administrar uterotônicos e realizar exérese do tumor.",
+                    "sanitized_body": "administrar uterotônicos e realizar exérese do tumor.",
+                    "correct": false,
+                    "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+                    "updated_at": "2022-02-08 14:42:52.3571 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A: como estamos diante de uma HPP por inversão uterina, a conduta não é administrar uterotônicos. A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. ",
+                        "sanitized_complete": "Incorreta a alternativa A: como estamos diante de uma HPP por inversão uterina, a conduta não é administrar uterotônicos. A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:45:00.549475 +0000 UTC",
+                        "updated_at": "2022-02-08 14:45:03.379541 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 10
+                },
+                {
+                    "id": "f8b8b283-49c1-49d4-8083-c0960af491e4",
+                    "position": "1",
+                    "body": "solicitar anestesia com halogenado e realizar manobra de Taxe.",
+                    "sanitized_body": "solicitar anestesia com halogenado e realizar manobra de Taxe.",
+                    "correct": true,
+                    "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+                    "updated_at": "2022-02-08 14:42:52.532822 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B: como estamos diante de uma gestante com inversão uterina, a conduta deve ser realizar analgesia com halogenado para relaxamento uterino e em seguida fazer a manobra de Taxe para o retorno do útero na posição normal. ",
+                        "sanitized_complete": "Correta a alternativa B: como estamos diante de uma gestante com inversão uterina, a conduta deve ser realizar analgesia com halogenado para relaxamento uterino e em seguida fazer a manobra de Taxe para o retorno do útero na posição normal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:45:00.786055 +0000 UTC",
+                        "updated_at": "2022-02-08 14:45:03.383002 +0000 UTC"
+                    },
+                    "answer_percentage": 67,
+                    "answers": 106
+                },
+                {
+                    "id": "d6b6045b-b4de-43a8-970a-ff27d4c4605e",
+                    "position": "2",
+                    "body": "realizar o morcelamento do tumor via vaginal.",
+                    "sanitized_body": "realizar o morcelamento do tumor via vaginal.",
+                    "correct": false,
+                    "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+                    "updated_at": "2022-02-08 14:42:52.667866 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C: A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. A remoção do útero, caso seja necessária é realizada por via abdominal por histerectomia. ",
+                        "sanitized_complete": "Incorreta a alternativa C: A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. A remoção do útero, caso seja necessária é realizada por via abdominal por histerectomia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:45:00.966767 +0000 UTC",
+                        "updated_at": "2022-02-08 14:45:03.380388 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 4
+                },
+                {
+                    "id": "66662e49-c2a7-4ace-8062-511f75f3ec26",
+                    "position": "3",
+                    "body": "realizar reposição volêmica e misoprostol por via retal.",
+                    "sanitized_body": "realizar reposição volêmica e misoprostol por via retal.",
+                    "correct": false,
+                    "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+                    "updated_at": "2022-02-08 14:42:52.79869 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D: como se trata de uma inversão uterina, não há indicação do uso de misoprostol, reservado para os casos de HPP por atonia uterina. ",
+                        "sanitized_complete": "Incorreta a alternativa D: como se trata de uma inversão uterina, não há indicação do uso de misoprostol, reservado para os casos de HPP por atonia uterina.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:45:00.349915 +0000 UTC",
+                        "updated_at": "2022-02-08 14:45:03.3829 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 13
+                },
+                {
+                    "id": "b474cb9b-194e-4f10-bd51-19123a4daa6e",
+                    "position": "4",
+                    "body": "administrar ocitocina endovenosa.",
+                    "sanitized_body": "administrar ocitocina endovenosa.",
+                    "correct": false,
+                    "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+                    "updated_at": "2022-02-08 14:42:52.967408 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E: a ocitocina endovenosa deve ser administrada somente após o reposicionamento uterino. Para se conseguir reposicionar o útero, este precisa estar bem relaxado.  Somente após a manobra de Taxe que se usa uterotônico para contrair o útero. ",
+                        "sanitized_complete": "Incorreta a alternativa E: a ocitocina endovenosa deve ser administrada somente após o reposicionamento uterino. Para se conseguir reposicionar o útero, este precisa estar bem relaxado.  Somente após a manobra de Taxe que se usa uterotônico para contrair o útero.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:45:00.375821 +0000 UTC",
+                        "updated_at": "2022-02-08 14:45:03.367745 +0000 UTC"
+                    },
+                    "answer_percentage": 16,
+                    "answers": 25
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Multípara com hemorragia grave, após a dequitação, apresenta tumoração vaginal sangrante e fundo uterino muito abaixo da cicatriz umbilical. A conduta indicada é:",
+            "statement_text": "Multípara com hemorragia grave, após a dequitação, apresenta tumoração vaginal sangrante e fundo uterino muito abaixo da cicatriz umbilical. A conduta indicada é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "socorrosantos2408@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2021-10-03 20:15:52.655032 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>O que o examinador quer saber: sobre inversão uterina. </div><div><br></div><div>O quadro clínico sugestivo de<b> inversão uterina</b> consiste em dor abdominal importante associada à invaginação do fundo uterino para a vagina e choque neurogênico (também conhecido como choque vasovagal). Este choque, com sintomas de bradicardia e hipotensão desproporcional ao sangramento, é uma pista importante para se suspeitar de inversão uterina.</div><div><br></div><div>O tratamento dessa complicação resume-se na administração de uterolíticos para relaxar o útero e em seguida na manobra para restituir o útero à sua posição normal, chamada de manobra de Taxe ou Johnson. Abaixo há a ilustração dessa manobra:</div><div><br></div><div>Os uterolíticos utilizado para manter o relaxamento uterino são a terbutalina e o sulfato de magnésio. </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/21063C73-0F78-E76D-8198-F09ACB6E2FAA/21063C73-0F78-E76D-8198-F09ACB6E2FAA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A nitroglicerina intravenosa também pode ser utilizada, pois possui um início de ação mais rápido e um tempo de ação menor. Outra opção para o relaxamento uterino é a anestesia geral com o uso de halotano.</div><div><br></div><div>Logo após o útero voltar à sua posição, é obrigatório administrar um agente uterotônico para que o útero se mantenha contraído na posição normal. Além disso, as pacientes que desenvolverem reflexo vasovagal devem receber atropina 0,5 mg EV e infusão de líquido em bolus, para reverter o choque neurogênico.</div><div><br></div><div>Caso a manobra de Taxe não consiga manter o útero na posição normal, será necessário realizar correção cirúrgica, sendo as cirurgias de Huntington e de Haultain as mais utilizadas. Por fim, a histerectomia deve ser o último recurso, adotado para hemorragias persistentes e refratarias às medidas anteriores. </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D64CB219-053E-2600-A3D5-DEB5A2331F42/D64CB219-053E-2600-A3D5-DEB5A2331F42-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: sobre inversão uterina. O quadro clínico sugestivo de inversão uterina consiste em dor abdominal importante associada à invaginação do fundo uterino para a vagina e choque neurogênico (também conhecido como choque vasovagal). Este choque, com sintomas de bradicardia e hipotensão desproporcional ao sangramento, é uma pista importante para se suspeitar de inversão uterina.O tratamento dessa complicação resume-se na administração de uterolíticos para relaxar o útero e em seguida na manobra para restituir o útero à sua posição normal, chamada de manobra de Taxe ou Johnson. Abaixo há a ilustração dessa manobra:Os uterolíticos utilizado para manter o relaxamento uterino são a terbutalina e o sulfato de magnésio. A nitroglicerina intravenosa também pode ser utilizada, pois possui um início de ação mais rápido e um tempo de ação menor. Outra opção para o relaxamento uterino é a anestesia geral com o uso de halotano.Logo após o útero voltar à sua posição, é obrigatório administrar um agente uterotônico para que o útero se mantenha contraído na posição normal. Além disso, as pacientes que desenvolverem reflexo vasovagal devem receber atropina 0,5 mg EV e infusão de líquido em bolus, para reverter o choque neurogênico.Caso a manobra de Taxe não consiga manter o útero na posição normal, será necessário realizar correção cirúrgica, sendo as cirurgias de Huntington e de Haultain as mais utilizadas. Por fim, a histerectomia deve ser o último recurso, adotado para hemorragias persistentes e refratarias às medidas anteriores.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                "author_profile": {
+                    "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                    "full_name": "Natalia Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+                    "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-02-08 14:45:01.076371 +0000 UTC",
+                "updated_at": "2022-02-08 14:45:03.468339 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000154215-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000154071",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2007,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "14994229-77BE-17B2-0781-4B5DB74F305F"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 60,
+                    "created_at": "2021-10-01T23:53:25Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "000022a155dc415188d0a066a1b80734",
+                    "name": "Hemorragias pós parto (HPP) e rotura uterina",
+                    "is_master": false,
+                    "master_id": "001fbed1e8584cf1852a121c19413527",
+                    "path": "Obstetrícia[$$]Puerpério[$$]Hemorragias pós parto (HPP) e rotura uterina",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "ad7f1f71-2032-483d-978d-0d223643632f",
+                    "position": "0",
+                    "body": "Realizar reposição volêmica e medroxiprogesterona intramuscular.",
+                    "sanitized_body": "Realizar reposição volêmica e medroxiprogesterona intramuscular.",
+                    "correct": false,
+                    "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+                    "updated_at": "2022-02-08 14:38:12.112717 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A: o uso de medroxiprogesterona intramuscular não faz parte do tratamento de hemorragia pós-parto.  ",
+                        "sanitized_complete": "Incorreta a alternativa A: o uso de medroxiprogesterona intramuscular não faz parte do tratamento de hemorragia pós-parto.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:41:32.05863 +0000 UTC",
+                        "updated_at": "2022-02-08 14:41:59.904442 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 3
+                },
+                {
+                    "id": "4be002b1-4332-4c3b-866d-c4b904aa15c9",
+                    "position": "1",
+                    "body": "Administrar uterotônicos e realizar exérese do tumor.",
+                    "sanitized_body": "Administrar uterotônicos e realizar exérese do tumor.",
+                    "correct": false,
+                    "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+                    "updated_at": "2022-02-08 14:38:12.268916 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B: como estamos diante de uma HPP por inversão uterina, a conduta não é administrar uterotônicos. A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. ",
+                        "sanitized_complete": "Incorreta a alternativa B: como estamos diante de uma HPP por inversão uterina, a conduta não é administrar uterotônicos. A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:41:32.040547 +0000 UTC",
+                        "updated_at": "2022-02-08 14:41:59.904026 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 8
+                },
+                {
+                    "id": "63039c07-3536-4044-a58a-2c30959acd17",
+                    "position": "2",
+                    "body": "Realizar o morcelamento do tumor via vaginal.",
+                    "sanitized_body": "Realizar o morcelamento do tumor via vaginal.",
+                    "correct": false,
+                    "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+                    "updated_at": "2022-02-08 14:38:12.399578 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C: A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. A remoção do útero, caso seja necessária é realizada por via abdominal por histerectomia. ",
+                        "sanitized_complete": "Incorreta a alternativa C: A tumoração na vagina é o útero invertido que só deve ser removido quando todas as outras medidas não forem efetivas. A remoção do útero, caso seja necessária é realizada por via abdominal por histerectomia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:41:32.064078 +0000 UTC",
+                        "updated_at": "2022-02-08 14:42:00.474942 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "2ca5a17c-0c95-4c98-bc50-34fd06c46b21",
+                    "position": "3",
+                    "body": "Solicitar anestesia com halogenado e realizar manobra de Taxe.",
+                    "sanitized_body": "Solicitar anestesia com halogenado e realizar manobra de Taxe.",
+                    "correct": true,
+                    "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+                    "updated_at": "2022-02-08 14:38:12.536674 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa D: como estamos diante de uma gestante com inversão uterina, a conduta deve ser realizar analgesia com halogenado para relaxamento uterino e em seguida fazer a manobra de Taxe para o retorno do útero na posição normal. ",
+                        "sanitized_complete": "Correta a alternativa D: como estamos diante de uma gestante com inversão uterina, a conduta deve ser realizar analgesia com halogenado para relaxamento uterino e em seguida fazer a manobra de Taxe para o retorno do útero na posição normal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:41:32.061113 +0000 UTC",
+                        "updated_at": "2022-02-08 14:42:00.475046 +0000 UTC"
+                    },
+                    "answer_percentage": 91,
+                    "answers": 131
+                },
+                {
+                    "id": "e50d4f1b-d898-4f18-a735-db6429255621",
+                    "position": "4",
+                    "body": "Realizar curagem sob analgesia\n",
+                    "sanitized_body": "Realizar curagem sob analgesia\n",
+                    "correct": false,
+                    "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+                    "updated_at": "2022-02-08 14:38:12.655728 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E: como se trata de uma inversão uterina, a curagem não está indicada. ",
+                        "sanitized_complete": "Incorreta a alternativa E: como se trata de uma inversão uterina, a curagem não está indicada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2022-02-08 14:41:32.0512 +0000 UTC",
+                        "updated_at": "2022-02-08 14:41:59.965909 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Multípara com hemorragia grave, após a dequitação, apresenta tumoração vaginal sangrante e fundo uterino muito abaixo da cicatriz umbilical. A conduta indicada é",
+            "statement_text": "Multípara com hemorragia grave, após a dequitação, apresenta tumoração vaginal sangrante e fundo uterino muito abaixo da cicatriz umbilical. A conduta indicada é",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "socorrosantos2408@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2021-10-02 22:41:42.982996 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>O que o examinador quer saber: sobre inversão uterina. </div><div><br></div><div>O quadro clínico sugestivo de <b>inversão uterina</b> consiste em dor abdominal importante associada à invaginação do fundo uterino para a vagina e choque neurogênico (também conhecido como choque vasovagal). Este choque, com sintomas de bradicardia e hipotensão desproporcional ao sangramento, é uma pista importante para se suspeitar de inversão uterina.</div><div><br></div><div>O tratamento dessa complicação resume-se na administração de uterolíticos para relaxar o útero e em seguida na manobra para restituir o útero à sua posição normal, chamada de manobra de Taxe ou Johnson. Abaixo há a ilustração dessa manobra:</div><div><br></div><div>Os uterolíticos utilizado para manter o relaxamento uterino são a terbutalina e o sulfato de magnésio. </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1E841442-F0D0-3F50-5585-3E7588FB2FDA/1E841442-F0D0-3F50-5585-3E7588FB2FDA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A nitroglicerina intravenosa também pode ser utilizada, pois possui um início de ação mais rápido e um tempo de ação menor. Outra opção para o relaxamento uterino é a anestesia geral com o uso de halotano.</div><div><br></div><div>Logo após o útero voltar à sua posição, é obrigatório administrar um agente uterotônico para que o útero se mantenha contraído na posição normal. Além disso, as pacientes que desenvolverem reflexo vasovagal devem receber atropina 0,5 mg EV e infusão de líquido em bolus, para reverter o choque neurogênico.</div><div><br></div><div>Caso a manobra de Taxe não consiga manter o útero na posição normal, será necessário realizar correção cirúrgica, sendo as cirurgias de Huntington e de Haultain as mais utilizadas. Por fim, a histerectomia deve ser o último recurso, adotado para hemorragias persistentes e refratarias às medidas anteriores. </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B549FA08-39D1-3B50-2648-0E6ADF8C3503/B549FA08-39D1-3B50-2648-0E6ADF8C3503-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><b><br></b></div><div><b>Comentários: </b></div><div><br></div><div>O quadro clínico de sangramento pós-parto, associado tumoração sangrante na vagina é sugestivo de inversão uterina. </div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber: sobre inversão uterina. O quadro clínico sugestivo de inversão uterina consiste em dor abdominal importante associada à invaginação do fundo uterino para a vagina e choque neurogênico (também conhecido como choque vasovagal). Este choque, com sintomas de bradicardia e hipotensão desproporcional ao sangramento, é uma pista importante para se suspeitar de inversão uterina.O tratamento dessa complicação resume-se na administração de uterolíticos para relaxar o útero e em seguida na manobra para restituir o útero à sua posição normal, chamada de manobra de Taxe ou Johnson. Abaixo há a ilustração dessa manobra:Os uterolíticos utilizado para manter o relaxamento uterino são a terbutalina e o sulfato de magnésio. A nitroglicerina intravenosa também pode ser utilizada, pois possui um início de ação mais rápido e um tempo de ação menor. Outra opção para o relaxamento uterino é a anestesia geral com o uso de halotano.Logo após o útero voltar à sua posição, é obrigatório administrar um agente uterotônico para que o útero se mantenha contraído na posição normal. Além disso, as pacientes que desenvolverem reflexo vasovagal devem receber atropina 0,5 mg EV e infusão de líquido em bolus, para reverter o choque neurogênico.Caso a manobra de Taxe não consiga manter o útero na posição normal, será necessário realizar correção cirúrgica, sendo as cirurgias de Huntington e de Haultain as mais utilizadas. Por fim, a histerectomia deve ser o último recurso, adotado para hemorragias persistentes e refratarias às medidas anteriores. Comentários: O quadro clínico de sangramento pós-parto, associado tumoração sangrante na vagina é sugestivo de inversão uterina.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                "author_profile": {
+                    "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                    "full_name": "Natalia Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+                    "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-02-08 14:41:32.17761 +0000 UTC",
+                "updated_at": "2022-02-08 14:42:00.079758 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000154071-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 27
+    }
+}

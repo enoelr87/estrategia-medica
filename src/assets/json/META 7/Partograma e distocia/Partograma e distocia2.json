@@ -1,0 +1,896 @@
+{
+    "data": [
+        {
+            "id": "4000127039",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2013,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "F38DC711-F3BE-A057-4DBE-6A6E29AFCFD8"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-03T18:53:43Z",
+                    "updated_at": "2020-11-25T18:18:11Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "9220f770ee3342829b28ea006d2ba7e7",
+                    "name": "Assinclitismo",
+                    "is_master": false,
+                    "master_id": "29db033d2b3a46739a8819e6463dbfd2",
+                    "path": "Obstetrícia[$$]Parto[$$]Mecanismo de parto[$$]Tempos da apresentação cefálica[$$]Descida[$$]Assinclitismo",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "d9514679fb8144b188416c29f1508207",
+                    "name": "Aspectos fetais",
+                    "is_master": false,
+                    "master_id": "dfd6642157644fb886a01f0c55596bad",
+                    "path": "Obstetrícia[$$]Parto[$$]Distocia – funcional, de objeto, de trajeto[$$]De objeto[$$]Aspectos fetais",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "2ad5facc-35c7-42fc-b29c-5243ac3f7220",
+                    "position": "0",
+                    "body": "Insinuação.",
+                    "sanitized_body": "Insinuação.",
+                    "correct": false,
+                    "created_at": "2020-09-25 05:16:53.727835 +0000 UTC",
+                    "updated_at": "2020-11-20 00:42:42.902931 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “a”&nbsp;porque insinuação caracteriza-se por ser o primeiro tempo do mecanismo de parto, em que ocorre passagem do maior diâmetro transverso da apresentação fetal pelo estreito superior da bacia materna e é possível tocar o vértice da apresentação na altura das espinhas isquiáticas. Observe na figura a seguir a representação dos planos de De Lee.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2132C308-FD02-8F7A-3683-BC029705EA94/2132C308-FD02-8F7A-3683-BC029705EA94-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “a” porque insinuação caracteriza-se por ser o primeiro tempo do mecanismo de parto, em que ocorre passagem do maior diâmetro transverso da apresentação fetal pelo estreito superior da bacia materna e é possível tocar o vértice da apresentação na altura das espinhas isquiáticas. Observe na figura a seguir a representação dos planos de De Lee.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 12:17:16.611236 +0000 UTC",
+                        "updated_at": "2020-10-20 12:17:17.189408 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 75
+                },
+                {
+                    "id": "819e73b7-0316-4f72-ac86-63d4a8c5dbd8",
+                    "position": "1",
+                    "body": "Rotação.",
+                    "sanitized_body": "Rotação.",
+                    "correct": true,
+                    "created_at": "2020-09-25 05:16:53.727835 +0000 UTC",
+                    "updated_at": "2020-11-20 00:42:42.946744 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “b” porque distocia de rotação caracteriza-se pela apresentação fetal que apesar de descer pelo canal de parto não completa a rotação interna para variedade occipitopubica, interferindo no desprendimento do polo cefálico, o que pode ser acarretado por assinclitismo que não retorne ao sinclitismo fisiologicamente<div><br></div>",
+                        "sanitized_complete": "Correta a alternativa “b” porque distocia de rotação caracteriza-se pela apresentação fetal que apesar de descer pelo canal de parto não completa a rotação interna para variedade occipitopubica, interferindo no desprendimento do polo cefálico, o que pode ser acarretado por assinclitismo que não retorne ao sinclitismo fisiologicamente",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 12:17:16.604063 +0000 UTC",
+                        "updated_at": "2020-10-20 12:17:17.18357 +0000 UTC"
+                    },
+                    "answer_percentage": 51,
+                    "answers": 231
+                },
+                {
+                    "id": "701d4486-c37f-4fd4-8cf3-7037a4678505",
+                    "position": "2",
+                    "body": "Restituição.",
+                    "sanitized_body": "Restituição.",
+                    "correct": false,
+                    "created_at": "2020-09-25 05:16:53.727835 +0000 UTC",
+                    "updated_at": "2020-11-20 00:42:43.004609 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c” porque o movimento de restituição ocorre após o desprendimento do polo cefálico do canal de parto, não tendo, portanto, nenhuma relação com o assinclitismo. Vale ressaltar que restituição se caracteriza pela rotação cefálica externa, que promove o retorno do feto para posição inicial, ou seja, a cabeça roda de maneira a restituir o dorso para o lado que estava no interior do canal de parto e, dessa maneira, facilitar o desprendimento dos ombros fetais.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A3648171-4030-E4B2-C055-A080A4B47BAD/A3648171-4030-E4B2-C055-A080A4B47BAD-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque o movimento de restituição ocorre após o desprendimento do polo cefálico do canal de parto, não tendo, portanto, nenhuma relação com o assinclitismo. Vale ressaltar que restituição se caracteriza pela rotação cefálica externa, que promove o retorno do feto para posição inicial, ou seja, a cabeça roda de maneira a restituir o dorso para o lado que estava no interior do canal de parto e, dessa maneira, facilitar o desprendimento dos ombros fetais.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 12:17:16.606153 +0000 UTC",
+                        "updated_at": "2020-10-20 12:17:17.199758 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 11
+                },
+                {
+                    "id": "bf7f26df-8233-4b08-a5d7-e3d484b3e2ba",
+                    "position": "3",
+                    "body": "Ombro.",
+                    "sanitized_body": "Ombro.",
+                    "correct": false,
+                    "created_at": "2020-09-25 05:16:53.727835 +0000 UTC",
+                    "updated_at": "2020-11-20 00:42:43.046334 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “d”&nbsp;porque distocia de ombro ocorre após o desprendimento do polo cefálico do canal de parto, não tendo, portanto, nenhuma relação com o assinclitismo. Vale ressaltar que distocia de ombro ou biacromial ocorre quando há o desprendimento do polo cefálico, mas os ombros não se desprendem por estarem impactados entre a sínfise púbica e o promontório, podendo acarretar complicações maternas como lacerações do canal de parto e atonia uterina e complicações fetais como fratura de clavícula e lesão de plexo braquial. É uma intercorrência rara, mas pode ser grave e mais frequente entre os fetos com mais quatro quilos, ao seja, macrossômicos ao nascer.<div><br><div>Gabarito: alternativa B</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “d” porque distocia de ombro ocorre após o desprendimento do polo cefálico do canal de parto, não tendo, portanto, nenhuma relação com o assinclitismo. Vale ressaltar que distocia de ombro ou biacromial ocorre quando há o desprendimento do polo cefálico, mas os ombros não se desprendem por estarem impactados entre a sínfise púbica e o promontório, podendo acarretar complicações maternas como lacerações do canal de parto e atonia uterina e complicações fetais como fratura de clavícula e lesão de plexo braquial. É uma intercorrência rara, mas pode ser grave e mais frequente entre os fetos com mais quatro quilos, ao seja, macrossômicos ao nascer.Gabarito: alternativa B",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 12:17:16.619283 +0000 UTC",
+                        "updated_at": "2020-10-20 12:17:17.185831 +0000 UTC"
+                    },
+                    "answer_percentage": 29,
+                    "answers": 132
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Na evolução do trabalho de parto, a ocorrência de assinclitismo acentuado pode levar à distócia de:",
+            "statement_text": "Na evolução do trabalho de parto, a ocorrência de assinclitismo acentuado pode levar à distócia de:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "liz.muller@globomail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 05:16:53.727835 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você conhece a distocia associada ao assinclitismo.</div><div><br><div>Doc, assinclitismo caracteriza-se por maior proximidade da sutura sagital fetal do sacro ou do pube materno durante o movimento de descida após a insinuação da apresentação fetal. Isso ocorre porque o polo cefálico realiza movimentos de flexão lateral e anteroposteriores para se acomodar e progredir pelo canal de parto. Caso o assinclitismo não retorne ao sinclitismo fisiologicamente, ou seja, a sutura sagital fique equidistante do sacro e da pube, caracteriza-se distocia e há parada da descida da apresentação fetal. O assinclitismo posterior, também chamado de obliquidade de Litzmann ocorre quando a sutura sagital está mais próxima da sínfise púbica e, portanto, o parietal posterior é o primeiro a descer e ultrapassar o promontório, enquanto o assinclitismo anterior, também chamado de obliquidade de Näegele, ocorre quanto a sutura sagital está mais próxima do sacro e, portanto, o parietal anterior é o primeiro a descer. Observe a figura abaixo para fixar esse conceito.&nbsp;</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FF1D27D5-28AC-CABE-89EF-172B5ECADBC6/FF1D27D5-28AC-CABE-89EF-172B5ECADBC6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: Se você conhece a distocia associada ao assinclitismo.Doc, assinclitismo caracteriza-se por maior proximidade da sutura sagital fetal do sacro ou do pube materno durante o movimento de descida após a insinuação da apresentação fetal. Isso ocorre porque o polo cefálico realiza movimentos de flexão lateral e anteroposteriores para se acomodar e progredir pelo canal de parto. Caso o assinclitismo não retorne ao sinclitismo fisiologicamente, ou seja, a sutura sagital fique equidistante do sacro e da pube, caracteriza-se distocia e há parada da descida da apresentação fetal. O assinclitismo posterior, também chamado de obliquidade de Litzmann ocorre quando a sutura sagital está mais próxima da sínfise púbica e, portanto, o parietal posterior é o primeiro a descer e ultrapassar o promontório, enquanto o assinclitismo anterior, também chamado de obliquidade de Näegele, ocorre quanto a sutura sagital está mais próxima do sacro e, portanto, o parietal anterior é o primeiro a descer. Observe a figura abaixo para fixar esse conceito. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                "author_profile": {
+                    "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                    "full_name": "Ana Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+                    "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-20 12:17:16.747612 +0000 UTC",
+                "updated_at": "2020-10-20 12:17:17.301427 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000129347",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "08628bfc2cc04d08a43b9359dd28e3bb",
+                    "name": "Diagnóstico de distocias no partograma",
+                    "is_master": false,
+                    "master_id": "e78927d03b584416b2d63f1cc2937f3a",
+                    "path": "Obstetrícia[$$]Parto[$$]Partograma[$$]Diagnóstico de distocias no partograma",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "8f32c5644d374122b76fb10ea8d41f22",
+                    "name": "Distocia de descida",
+                    "is_master": false,
+                    "master_id": "08628bfc2cc04d08a43b9359dd28e3bb",
+                    "path": "Obstetrícia[$$]Parto[$$]Partograma[$$]Diagnóstico de distocias no partograma[$$]Distocia de descida",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "e78927d03b584416b2d63f1cc2937f3a",
+                    "name": "Partograma",
+                    "is_master": false,
+                    "master_id": "c547f4392d744a9b975bdaf095b0feae",
+                    "path": "Obstetrícia[$$]Parto[$$]Partograma",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "14d70994-5a09-4bbe-a657-54aa9f35d264",
+                    "position": "0",
+                    "body": "Período pélvico prolongado; fórcipe para distocia de rotação.<div>&nbsp;</div>",
+                    "sanitized_body": "Período pélvico prolongado; fórcipe para distocia de rotação. ",
+                    "correct": true,
+                    "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+                    "updated_at": "2021-07-29 15:21:33.349801 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Correta a alternativa “A”: </b>o partograma mostra que há paciente está há 45 min no período expulsivo e a cabeça fetal continua na mesma posição. Isso se deve a distócia de rotação, uma vez que o feto está no plano +3 de De Lee ( observar os círculos) , mas ainda em uma variedade de posição transversa. Como o feto apresenta desacelerações tardias ( tipo II) o parto deve ser ultimado com a realização de um fórcipe de rotação ( fórcipe de Kielland). Chamamos de período pélvico prolongado, quando a paciente apresenta um período expulsivo prolongado, isto é , mais de 3 horas nas primigesta e mais de 2 horas nas multíparas sem anestesia. Então nesse caso a paciente não apresenta período expulsivo prolongado e essa questão é passível de recurso.&nbsp;",
+                        "sanitized_complete": "Correta a alternativa “A”: o partograma mostra que há paciente está há 45 min no período expulsivo e a cabeça fetal continua na mesma posição. Isso se deve a distócia de rotação, uma vez que o feto está no plano +3 de De Lee ( observar os círculos) , mas ainda em uma variedade de posição transversa. Como o feto apresenta desacelerações tardias ( tipo II) o parto deve ser ultimado com a realização de um fórcipe de rotação ( fórcipe de Kielland). Chamamos de período pélvico prolongado, quando a paciente apresenta um período expulsivo prolongado, isto é , mais de 3 horas nas primigesta e mais de 2 horas nas multíparas sem anestesia. Então nesse caso a paciente não apresenta período expulsivo prolongado e essa questão é passível de recurso. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 15:26:21.948242 +0000 UTC"
+                    },
+                    "answer_percentage": 49,
+                    "answers": 406
+                },
+                {
+                    "id": "0c12d73b-30af-43d2-8da8-41f7bf56bdf5",
+                    "position": "1",
+                    "body": "Parto taquitócico; tocólise aguda com terbutalina subcutânea.<div>&nbsp;</div>",
+                    "sanitized_body": "Parto taquitócico; tocólise aguda com terbutalina subcutânea. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+                    "updated_at": "2021-07-29 15:21:33.374067 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “B”: </b>considera-se parto taquitócico quando o parto dura menos do que 4 horas. Nesse caso a paciente está em trabalho de parto há mais de 6 horas.&nbsp;",
+                        "sanitized_complete": "Incorreta a alternativa “B”: considera-se parto taquitócico quando o parto dura menos do que 4 horas. Nesse caso a paciente está em trabalho de parto há mais de 6 horas. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 15:26:21.939307 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 11
+                },
+                {
+                    "id": "c65b09c1-ba26-40e1-bfad-7c2d089921d4",
+                    "position": "2",
+                    "body": "Parada secundária da descida; operação cesariana por desproporção cefalopélvica.<div>&nbsp;</div>",
+                    "sanitized_body": "Parada secundária da descida; operação cesariana por desproporção cefalopélvica. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+                    "updated_at": "2021-07-29 15:21:33.397857 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “C”: </b>consideramos que há parada secundaria da descida quando não há descida da cabeça fetal em um intervalo de duas horas. Nesse caso a descida da cabeça fetal foi avaliada somente no intervalo de uma hora, então não é possível fazer esse diagnóstico.&nbsp;",
+                        "sanitized_complete": "Incorreta a alternativa “C”: consideramos que há parada secundaria da descida quando não há descida da cabeça fetal em um intervalo de duas horas. Nesse caso a descida da cabeça fetal foi avaliada somente no intervalo de uma hora, então não é possível fazer esse diagnóstico. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 15:26:21.948432 +0000 UTC"
+                    },
+                    "answer_percentage": 37,
+                    "answers": 305
+                },
+                {
+                    "id": "7b3206fe-7e06-4565-b82c-bd656fced0f2",
+                    "position": "3",
+                    "body": "Fase ativa prolongada; administração de ocitocina para aumentar as metrossístoles.<div>&nbsp;</div>",
+                    "sanitized_body": "Fase ativa prolongada; administração de ocitocina para aumentar as metrossístoles. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+                    "updated_at": "2021-07-29 15:21:33.429062 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “D”:</b> consideramos fase ativa prolongado quando o período de dilatação demora para ocorrer. Nesse caso a dilatação ocorreu em um intervalo de menos de 6 horas.&nbsp;",
+                        "sanitized_complete": "Incorreta a alternativa “D”: consideramos fase ativa prolongado quando o período de dilatação demora para ocorrer. Nesse caso a dilatação ocorreu em um intervalo de menos de 6 horas. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 15:26:21.954326 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 84
+                },
+                {
+                    "id": "b9b83cd1-3a5e-4d1a-be2a-ddf03c9b4876",
+                    "position": "4",
+                    "body": "Parada secundária da dilatação; orientação para a paciente ficar em decúbito lateral esquerdo para coordenar as metrossístoles.",
+                    "sanitized_body": "Parada secundária da dilatação; orientação para a paciente ficar em decúbito lateral esquerdo para coordenar as metrossístoles.",
+                    "correct": false,
+                    "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+                    "updated_at": "2021-07-29 15:21:33.466235 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “E”: </b>não houve parada secundaria da dilatação, pois a paciente atingiu a dilatação completa ( observar o “X”).&nbsp;",
+                        "sanitized_complete": "Incorreta a alternativa “E”: não houve parada secundaria da dilatação, pois a paciente atingiu a dilatação completa ( observar o “X”). ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                        "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                        "author_profile": null,
+                        "created_at": "2021-07-29 15:26:21.947834 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 16
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Primigesta de 25 anos de idade procura a Maternidade pelo início do trabalho de parto às 13 horas e sua evolução está registrada no partograma abaixo.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6F39ED31-4BAE-5EF1-1ED2-3F7589BEF000/6F39ED31-4BAE-5EF1-1ED2-3F7589BEF000-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A paciente completa o primeiro período do parto às 18h30min. O segundo período já durava 45 minutos, quando o feto começou a apresentar desacelerações tipo II.</div><div><br></div><div>Qual o diagnóstico desse caso e a conduta obstétrica mais apropriada?<br></div><div>&nbsp;</div>",
+            "statement_text": "Primigesta de 25 anos de idade procura a Maternidade pelo início do trabalho de parto às 13 horas e sua evolução está registrada no partograma abaixo.A paciente completa o primeiro período do parto às 18h30min. O segundo período já durava 45 minutos, quando o feto começou a apresentar desacelerações tipo II.Qual o diagnóstico desse caso e a conduta obstétrica mais apropriada? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 16:01:32.868761 +0000 UTC",
+            "forum_id": "4936d5b0-6da9-4b6a-a8ae-ea6c62eb0cfa",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div><b>O que o examinador quer saber: se você sabe interpretar um partograma.&nbsp;</b></div><div><b><br></b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/68E8E8D0-D277-4812-46D4-3D87D43F7534/68E8E8D0-D277-4812-46D4-3D87D43F7534-400.png\"><!-- END:IMAGE_TO_REPLACE --><b><br></b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FD424107-2C85-F342-AC2A-297DA762066D/FD424107-2C85-F342-AC2A-297DA762066D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/EB581252-7C35-22F8-9F90-553D87EAB9B6/EB581252-7C35-22F8-9F90-553D87EAB9B6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2A7AD64B-D67D-057B-FF49-4F44367AF3CB/2A7AD64B-D67D-057B-FF49-4F44367AF3CB-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DB1D15C8-D8FC-39A7-B84F-BFF29BB19B92/DB1D15C8-D8FC-39A7-B84F-BFF29BB19B92-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><b>Comentários:&nbsp;</b></div><div><b><br></b></div><div>Atenção, estrategista! Observe que cada quadradinho desse partograma corresponde a 15 min e não a 1 hora, como vemos habitualmente.&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador quer saber: se você sabe interpretar um partograma. Comentários: Atenção, estrategista! Observe que cada quadradinho desse partograma corresponde a 15 min e não a 1 hora, como vemos habitualmente. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+                "author_profile": {
+                    "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+                    "full_name": "Natalia Carvalho",
+                    "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+                    "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                            "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                            "name": "Facebook",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+                        },
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-07-29 15:26:22.007453 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000127195",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "8f32c5644d374122b76fb10ea8d41f22",
+                    "name": "Distocia de descida",
+                    "is_master": false,
+                    "master_id": "08628bfc2cc04d08a43b9359dd28e3bb",
+                    "path": "Obstetrícia[$$]Parto[$$]Partograma[$$]Diagnóstico de distocias no partograma[$$]Distocia de descida",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "15a19417-9e60-4a9c-9407-1243c09f9192",
+                    "position": "0",
+                    "body": "Parada secundária da descida e fórceps.",
+                    "sanitized_body": "Parada secundária da descida e fórceps.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “a”&nbsp;porque embora esteja correto o diagnóstico de parada secundária da descida, uma vez que o partograma registra parada da progressão da apresentação fetal pelo canal de parto por mais de duas horas durante o período expulsivo, ou seja, quando a dilatação cervical é total de dez centímetros, a conduta correta é realização de parto cesáreo, uma vez que não há condições de aplicabilidade do fórceps, isso é, a altura da apresentação não está abaixo do plano +2 de De Lee e há sinais de desproporção cefálo pélvica.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “a” porque embora esteja correto o diagnóstico de parada secundária da descida, uma vez que o partograma registra parada da progressão da apresentação fetal pelo canal de parto por mais de duas horas durante o período expulsivo, ou seja, quando a dilatação cervical é total de dez centímetros, a conduta correta é realização de parto cesáreo, uma vez que não há condições de aplicabilidade do fórceps, isso é, a altura da apresentação não está abaixo do plano +2 de De Lee e há sinais de desproporção cefálo pélvica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:22:31.766521 +0000 UTC",
+                        "updated_at": "2020-10-20 10:22:32.510285 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 75
+                },
+                {
+                    "id": "0596c495-095e-4ded-8d67-29144e2c947a",
+                    "position": "1",
+                    "body": "Parada secundária da dilatação e ocitocina.",
+                    "sanitized_body": "Parada secundária da dilatação e ocitocina.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “b” porque parada secundária da dilatação caracteriza-se por dilatação cervical que não evolui em pelo menos dois toques vaginais consecutivos com intervalo de ao menos duas horas entre eles, sendo, portanto, incompatível com o partograma apresentado no enunciado em que a dilatação cervical é completa, ou seja, de dez centímetros. Vale ressaltar que ocitocina é indicada apenas quando há hipoatividade uterina, o que não ocorre no caso apresentado, em que se descreve cinco contrações fortes a cada dez minutos e, portanto, adequadas ao período expulsivo.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “b” porque parada secundária da dilatação caracteriza-se por dilatação cervical que não evolui em pelo menos dois toques vaginais consecutivos com intervalo de ao menos duas horas entre eles, sendo, portanto, incompatível com o partograma apresentado no enunciado em que a dilatação cervical é completa, ou seja, de dez centímetros. Vale ressaltar que ocitocina é indicada apenas quando há hipoatividade uterina, o que não ocorre no caso apresentado, em que se descreve cinco contrações fortes a cada dez minutos e, portanto, adequadas ao período expulsivo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:22:31.766167 +0000 UTC",
+                        "updated_at": "2020-10-20 10:22:32.512715 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 23
+                },
+                {
+                    "id": "b136cc0e-b961-448d-b065-4f7d45716c6f",
+                    "position": "2",
+                    "body": "Parada secundária da dilatação e fórceps.",
+                    "sanitized_body": "Parada secundária da dilatação e fórceps.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c” porque parada secundária da dilatação caracteriza-se por dilatação cervical que não evolui em pelo menos dois toques vaginais consecutivos com intervalo de ao menos duas horas entre eles, sendo, portanto, incompatível com o partograma apresentado no enunciado em que a dilatação cervical é completa, ou seja, de dez centímetros. Vale ressaltar que não há condições de aplicabilidade do fórceps no caso apresentado, uma vez que a altura da apresentação não está abaixo do plano +2 de De Lee e há sinais de desproporção cefálo pélvica.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque parada secundária da dilatação caracteriza-se por dilatação cervical que não evolui em pelo menos dois toques vaginais consecutivos com intervalo de ao menos duas horas entre eles, sendo, portanto, incompatível com o partograma apresentado no enunciado em que a dilatação cervical é completa, ou seja, de dez centímetros. Vale ressaltar que não há condições de aplicabilidade do fórceps no caso apresentado, uma vez que a altura da apresentação não está abaixo do plano +2 de De Lee e há sinais de desproporção cefálo pélvica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:22:31.768388 +0000 UTC",
+                        "updated_at": "2020-10-20 10:22:32.519754 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 8
+                },
+                {
+                    "id": "55d017d7-f199-46d3-966a-bf7aa60e251b",
+                    "position": "3",
+                    "body": "Parada secundária da descida e  cesárea.",
+                    "sanitized_body": "Parada secundária da descida e  cesárea.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “d” porque o partograma apresentado no enunciado é compatível com o diagnóstico de parada secundária da descida, uma vez que registra parada da progressão da apresentação fetal pelo canal de parto por mais de duas horas durante o período expulsivo, ou seja, quando a dilatação cervical é total de dez centímetros e a conduta correta é realização de parto cesáreo por desproporção cefalo pélvica.<div><br></div>",
+                        "sanitized_complete": "Correta a alternativa “d” porque o partograma apresentado no enunciado é compatível com o diagnóstico de parada secundária da descida, uma vez que registra parada da progressão da apresentação fetal pelo canal de parto por mais de duas horas durante o período expulsivo, ou seja, quando a dilatação cervical é total de dez centímetros e a conduta correta é realização de parto cesáreo por desproporção cefalo pélvica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:22:31.75526 +0000 UTC",
+                        "updated_at": "2020-10-20 10:22:32.512745 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 716
+                },
+                {
+                    "id": "4368d9f4-e2d2-4391-9ff7-2dd21892cc11",
+                    "position": "4",
+                    "body": "Período expulsivo prolongado e  cesárea.",
+                    "sanitized_body": "Período expulsivo prolongado e  cesárea.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “e” porque embora esteja correto a indicação de parto cesáreo, o diagnóstico correto do partograma é parada secundária da descida e não período expulsivo prolongado, o qual caracteriza-se por intervalo maior do que uma hora em multíparas ou duas horas em primíparas entre o início, ou seja, dilatação cervical total, e o parto. Observe que no partograma apresentado na questão não se observa duração do período expulsivo maior do que duas horas.&nbsp;<div><br><div>Gabarito: alternativa D</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “e” porque embora esteja correto a indicação de parto cesáreo, o diagnóstico correto do partograma é parada secundária da descida e não período expulsivo prolongado, o qual caracteriza-se por intervalo maior do que uma hora em multíparas ou duas horas em primíparas entre o início, ou seja, dilatação cervical total, e o parto. Observe que no partograma apresentado na questão não se observa duração do período expulsivo maior do que duas horas. Gabarito: alternativa D",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:22:31.753572 +0000 UTC",
+                        "updated_at": "2020-10-20 10:22:32.5216 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 22
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente, com 25 anos de idade, secundigesta, com parto cesáreo anterior (G2P1C1), pré-natal sem intercorrências, foi internada em trabalho de parto e apresenta evolução    de acordo com partograma, apresentado abaixo. Na décima hora de evolução, apresenta atividade uterina regular de 5 contrações/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm. Analisando o partograma, qual é o diagnóstico e a conduta para o caso?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/216271B5-B703-62C6-DDB1-06768F84F5D3/216271B5-B703-62C6-DDB1-06768F84F5D3-400.jpeg\"><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+            "statement_text": "Paciente, com 25 anos de idade, secundigesta, com parto cesáreo anterior (G2P1C1), pré-natal sem intercorrências, foi internada em trabalho de parto e apresenta evolução    de acordo com partograma, apresentado abaixo. Na décima hora de evolução, apresenta atividade uterina regular de 5 contrações/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm. Analisando o partograma, qual é o diagnóstico e a conduta para o caso?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 12:07:54.872715 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div><b>O que o examinador quer saber: </b>Se você sabe avaliar a evolução do parto a partir do partograma.<div><br></div><div>Doc, o partograma é a forma de representar graficamente o trabalho de parto permitindo que seja adequadamente acompanhado, avaliado e documentado. Ele é preenchido em colunas que representam cada hora do trabalho de parto e em linhas que se associam a dilatação e altura da apresentação específicas. A dilatação cervical é representada classicamente por um triângulo e a altura da apresentação por uma circunferência. O registro da variedade de posição é feito pela representação do ponto de referência da apresentação em relação à pelve materna dentro da circunferência.</div><div><br></div><div>&nbsp;Para responder a essa questão é esperado que ao interpretar o partograma você perceba:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/557887F3-22D2-150B-25F8-C9438404EB1A/557887F3-22D2-150B-25F8-C9438404EB1A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber: Se você sabe avaliar a evolução do parto a partir do partograma.Doc, o partograma é a forma de representar graficamente o trabalho de parto permitindo que seja adequadamente acompanhado, avaliado e documentado. Ele é preenchido em colunas que representam cada hora do trabalho de parto e em linhas que se associam a dilatação e altura da apresentação específicas. A dilatação cervical é representada classicamente por um triângulo e a altura da apresentação por uma circunferência. O registro da variedade de posição é feito pela representação do ponto de referência da apresentação em relação à pelve materna dentro da circunferência. Para responder a essa questão é esperado que ao interpretar o partograma você perceba:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                "author_profile": {
+                    "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                    "full_name": "Ana Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+                    "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-20 10:22:31.964756 +0000 UTC",
+                "updated_at": "2020-10-20 10:22:32.650671 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 28
+    }
+}

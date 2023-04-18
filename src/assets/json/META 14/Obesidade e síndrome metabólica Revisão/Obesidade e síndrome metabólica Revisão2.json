@@ -1,0 +1,1499 @@
+{
+    "data": [
+        {
+            "id": "4000086216",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2019,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "af651dfc-56df-4f08-b73d-3f9eb02e1f69",
+                            "name": "RJ - Universidade Federal do Rio de Janeiro - UFRJ (Hospital Universitário Clementino Fraga Filho -- HUCFF)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "49632856-48F5-63ED-4473-AA1DAE5C0B2C"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-08T12:40:03Z",
+                    "updated_at": "2020-11-26T03:13:17Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "01d7c4463cf8472a8486a86eb0c30924",
+                    "name": "Etiologia",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Etiologia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "c64380605a4e40a0a6a6bdb2931582a6",
+                    "name": "Fisiopatogenia",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Fisiopatogenia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "d0ff4a421b794f4a9b6662b3e09a48f9",
+                    "name": "Epidemiologia",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Epidemiologia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "f3f42a85782a4fad891ae3050d027346",
+                    "name": "Obesidade e síndrome metabólica",
+                    "is_master": false,
+                    "master_id": "ab6c6a1fb6604cf98243ac486f80dac8",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f89cc36d-de0e-4303-8e2c-e6502cb90ab6",
+                    "position": "0",
+                    "body": "O hábito de assistir televisão estimula o consumo de alimentos ultraprocessados por meio da propaganda. Mas a publicidade dirigida à criança tem pouca influência, já que as escolhas de consumo são dos pais.",
+                    "sanitized_body": "O hábito de assistir televisão estimula o consumo de alimentos ultraprocessados por meio da propaganda. Mas a publicidade dirigida à criança tem pouca influência, já que as escolhas de consumo são dos pais.",
+                    "correct": false,
+                    "created_at": "2020-09-14 21:46:58.83005 +0000 UTC",
+                    "updated_at": "2020-11-25 01:55:37.368178 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "01d7c4463cf8472a8486a86eb0c30924",
+                            "name": "Etiologia",
+                            "is_master": false,
+                            "master_id": "f3f42a85782a4fad891ae3050d027346",
+                            "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Etiologia",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                        "author_email_id": "d2613709608ea4e24806426c0949aa88",
+                        "author_profile": null,
+                        "created_at": "2020-10-30 16:51:23.623975 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "24dd1833-cfbc-4e71-970e-831e76458c0b",
+                    "position": "1",
+                    "body": "Os custos atribuíves à obesidade foram de aproximadamente 0,5 bilhão de reais para o SUS em 2011. A obesidade grau III, apesar de grave, e responsável por uma parcela pouco importante desse custo, pois sua prevalência é 18 vezes menor do que a dos graus I e II.",
+                    "sanitized_body": "Os custos atribuíves à obesidade foram de aproximadamente 0,5 bilhão de reais para o SUS em 2011. A obesidade grau III, apesar de grave, e responsável por uma parcela pouco importante desse custo, pois sua prevalência é 18 vezes menor do que a dos graus I e II.",
+                    "correct": false,
+                    "created_at": "2020-09-14 21:46:58.83005 +0000 UTC",
+                    "updated_at": "2020-11-25 01:55:37.411809 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d0ff4a421b794f4a9b6662b3e09a48f9",
+                            "name": "Epidemiologia",
+                            "is_master": false,
+                            "master_id": "f3f42a85782a4fad891ae3050d027346",
+                            "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Epidemiologia",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "f3f42a85782a4fad891ae3050d027346",
+                            "name": "Obesidade e síndrome metabólica",
+                            "is_master": false,
+                            "master_id": "ab6c6a1fb6604cf98243ac486f80dac8",
+                            "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                        "author_email_id": "d2613709608ea4e24806426c0949aa88",
+                        "author_profile": null,
+                        "created_at": "2020-10-30 16:51:23.623879 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                },
+                {
+                    "id": "106041c4-a05f-4f2c-b6f6-cf6c8f2d5693",
+                    "position": "2",
+                    "body": "A prevalência da obesidade, nos países em desenvolvimento continua sendo mais importante entre as classes A e B, que tem mais acesso ao consumo de alimentos industrializados.",
+                    "sanitized_body": "A prevalência da obesidade, nos países em desenvolvimento continua sendo mais importante entre as classes A e B, que tem mais acesso ao consumo de alimentos industrializados.",
+                    "correct": false,
+                    "created_at": "2020-09-14 21:46:58.83005 +0000 UTC",
+                    "updated_at": "2020-11-25 01:55:37.454011 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d0ff4a421b794f4a9b6662b3e09a48f9",
+                            "name": "Epidemiologia",
+                            "is_master": false,
+                            "master_id": "f3f42a85782a4fad891ae3050d027346",
+                            "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Epidemiologia",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                        "author_email_id": "d2613709608ea4e24806426c0949aa88",
+                        "author_profile": null,
+                        "created_at": "2020-10-30 16:51:23.616073 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 7
+                },
+                {
+                    "id": "c4e87e50-36aa-4577-b53e-d3bdc0135249",
+                    "position": "3",
+                    "body": "A determinação da obesidade é multifatorial, e envolve o consumo cada vez maior de alimentos ultraprocessados, associado a uma redução no nível de atividade física no trabalho e no lazer.",
+                    "sanitized_body": "A determinação da obesidade é multifatorial, e envolve o consumo cada vez maior de alimentos ultraprocessados, associado a uma redução no nível de atividade física no trabalho e no lazer.",
+                    "correct": true,
+                    "created_at": "2020-09-14 21:46:58.83005 +0000 UTC",
+                    "updated_at": "2020-11-25 01:55:37.496771 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "c64380605a4e40a0a6a6bdb2931582a6",
+                            "name": "Fisiopatogenia",
+                            "is_master": false,
+                            "master_id": "f3f42a85782a4fad891ae3050d027346",
+                            "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Fisiopatogenia",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                        "author_email_id": "d2613709608ea4e24806426c0949aa88",
+                        "author_profile": null,
+                        "created_at": "2020-10-30 16:51:23.613467 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 255
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Pode-se afirmar sobre a obesidade na atualidade:",
+            "statement_text": "Pode-se afirmar sobre a obesidade na atualidade:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vidalrj161@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 21:46:58.83005 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Estrategista,</div><div>Essa questão foi elaborada com base no documento chamado “<b>Perspectivas e Desafios no cuidado às pessoas com obesidade no SUS</b>”, publicado em 2014 pelo Ministério da Saúde em conjunto com a Organização Pan-americana da Saúde (OPAS) (1).</div><div>Segundo o documento, a Obesidade tem avançado de forma sistemática no Brasil e no mundo. Só em 2011, o SUS gastou quase meio bilhão de reais com a obesidade e o excesso de peso. <i>Quanto mais grave a obesidade, maior o custo para o sistema de saúde</i>. A obesidade grau III, por exemplo, custou quatro vezes mais aos cofres públicos do que a de grau I e II, mesmo sendo 18 vezes menos prevalente.&nbsp;</div><div>Falando especificamente sobre a gênese da obesidade, é preciso entender que nem sempre as causas biológicas são as responsáveis pela incidência elevada, pois essa é uma condição clínica que tem <u>caráter multifatorial</u>. Isso significa que<i> múltiplos fatores atuam causando essa doença, de forma conjunta e em diferentes níveis</i>. Fatores sociais, históricos, econômicos e até culturais, têm contribuição importante e são chamados de <b>determinantes sociais da obesidade</b>.&nbsp; &nbsp;</div><div><br></div><div>O documento descreve alguns <b>determinantes</b>, entre eles:&nbsp; &nbsp;</div><div>·<b>\tFatores relacionados ao modo de comer e viver na atualidade</b>: O aumento do consumo de alimentos ultraprocessados, comer em frente à TV ou no computador, comer de forma rápida e sem atenção, escolher locais com quantidades ilimitadas de alimentos e comer em <i>fast foods</i> são hábitos que estão relacionados ao consumo exagerado de alimentos, contribuindo para a obesidade. Além disso, o hábito de comer sozinho e a padronização da alimentação também interferem na experiência da saciedade o que pode, em última instância, contribuir para a obesidade. Propagandas de TV também estimulam hábitos alimentares distorcidos, principalmente em crianças. O excesso de trabalho, principalmente no grupo das mulheres, diminui a disponibilidade de tempo para cozinhar pratos saudáveis e para praticar atividade física.&nbsp;</div><div>·\t<b>Fatores relacionados ao Sistema Alimentar</b>: Mudanças na produção de alimentos, como a fabricação de alimentos ultraprocessados em maior número, também contribuem para a gênese da obesidade.  Ainda, esses alimentos são acessíveis do ponto de vista econômico, atingindo assim todas as classes sociais.&nbsp;</div><div>·\t<b><i>Fatores relacionados às alterações fisiológicas do organismo humano (fatores biológicos ou proximais)</i></b>: Fatores como o envelhecimento, a paridade e o sedentarismo, por exemplo, podem atuar contribuindo para a obesidade. Em relação ao envelhecimento, sabe-se que há diminuição da massa magra com o avançar da idade. Ainda, a paridade é um fator biológico importante, visto que muitas mulheres não conseguem voltar ao peso pré-gestacional após cada gestação, o leva ao ganho de peso de forma sistemática. Ainda, o sedentarismo é um dos principais fatores de risco biológicos para a obesidade, visto que <i>a população está comendo mais, mas “gastando menos energia</i>”, o que leva ao balanço calórico positivo ao final de cada dia.&nbsp; &nbsp;&nbsp;</div><div><br></div><div>A banca enumera quatro alternativas e questiona qual delas é a verdadeira. Logo:&nbsp;</div><div><b><br></b></div><div><b>Incorreta a alternativa “A” </b>porque o hábito de assistir televisão estimula o consumo de alimentos ultraprocessados por meio da propaganda, a qual também tem impacto no público infantil.&nbsp;</div><div><b>Incorreta a alternativa “B” </b>porque os custos atribuíveis à obesidade foram de aproximadamente 0,5 bilhão de reais para o SUS e a obesidade grau III teve contribuição importante nesse custo pois, mesmo sendo 18 vezes menos frequente que os outros graus de obesidade, custou cerca de<i> quatro vezes mais</i> quando comparada às obesidades I e II.&nbsp;</div><div><b>Incorreta a alternativa “C”</b> porque a obesidade nos países em desenvolvimento também atinge as pessoas com baixa renda, pois os alimentos ultraprocessados tem preços acessíveis.&nbsp;</div><div><b>Correta a alternativa “D”</b> porque a obesidade é multifatorial e alguns fatores relacionados à mudança na comensalidade e ao sistema alimentar contribuem para a gênese desse problema, como a fabricação em maior quantidade de produtos ultraprocessados e a diminuição do tempo disponível para lazer e atividade física devido ao excesso de trabalho.&nbsp;</div><div><br></div><div><b>Gabarito: Alternativa “D”.</b></div><div><b><br></b></div><div><b>Referência bibliográfica:&nbsp;</b></div><div>(1)\tMinistério da Saúde. Perspectivas e desafios no cuidado às pessoas com obesidade no SUS: resultados do Laboratório de Inovação no manejo da obesidade nas Redes de Atenção à Saúde. Ministério da Saúde e Organização Pan-Americana da Saúde. Brasília-DF, 2014. Disponível em:&nbsp;</div><div>http://189.28.128.100/dab/docs/portaldab/publicacoes/perspectivas_desafios_cuidado_pessoas_obesidade.pdf.</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DEstrategista,Essa questão foi elaborada com base no documento chamado “Perspectivas e Desafios no cuidado às pessoas com obesidade no SUS”, publicado em 2014 pelo Ministério da Saúde em conjunto com a Organização Pan-americana da Saúde (OPAS) (1).Segundo o documento, a Obesidade tem avançado de forma sistemática no Brasil e no mundo. Só em 2011, o SUS gastou quase meio bilhão de reais com a obesidade e o excesso de peso. Quanto mais grave a obesidade, maior o custo para o sistema de saúde. A obesidade grau III, por exemplo, custou quatro vezes mais aos cofres públicos do que a de grau I e II, mesmo sendo 18 vezes menos prevalente. Falando especificamente sobre a gênese da obesidade, é preciso entender que nem sempre as causas biológicas são as responsáveis pela incidência elevada, pois essa é uma condição clínica que tem caráter multifatorial. Isso significa que múltiplos fatores atuam causando essa doença, de forma conjunta e em diferentes níveis. Fatores sociais, históricos, econômicos e até culturais, têm contribuição importante e são chamados de determinantes sociais da obesidade.   O documento descreve alguns determinantes, entre eles:   ·\tFatores relacionados ao modo de comer e viver na atualidade: O aumento do consumo de alimentos ultraprocessados, comer em frente à TV ou no computador, comer de forma rápida e sem atenção, escolher locais com quantidades ilimitadas de alimentos e comer em fast foods são hábitos que estão relacionados ao consumo exagerado de alimentos, contribuindo para a obesidade. Além disso, o hábito de comer sozinho e a padronização da alimentação também interferem na experiência da saciedade o que pode, em última instância, contribuir para a obesidade. Propagandas de TV também estimulam hábitos alimentares distorcidos, principalmente em crianças. O excesso de trabalho, principalmente no grupo das mulheres, diminui a disponibilidade de tempo para cozinhar pratos saudáveis e para praticar atividade física. ·\tFatores relacionados ao Sistema Alimentar: Mudanças na produção de alimentos, como a fabricação de alimentos ultraprocessados em maior número, também contribuem para a gênese da obesidade.  Ainda, esses alimentos são acessíveis do ponto de vista econômico, atingindo assim todas as classes sociais. ·\tFatores relacionados às alterações fisiológicas do organismo humano (fatores biológicos ou proximais): Fatores como o envelhecimento, a paridade e o sedentarismo, por exemplo, podem atuar contribuindo para a obesidade. Em relação ao envelhecimento, sabe-se que há diminuição da massa magra com o avançar da idade. Ainda, a paridade é um fator biológico importante, visto que muitas mulheres não conseguem voltar ao peso pré-gestacional após cada gestação, o leva ao ganho de peso de forma sistemática. Ainda, o sedentarismo é um dos principais fatores de risco biológicos para a obesidade, visto que a população está comendo mais, mas “gastando menos energia”, o que leva ao balanço calórico positivo ao final de cada dia.    A banca enumera quatro alternativas e questiona qual delas é a verdadeira. Logo: Incorreta a alternativa “A” porque o hábito de assistir televisão estimula o consumo de alimentos ultraprocessados por meio da propaganda, a qual também tem impacto no público infantil. Incorreta a alternativa “B” porque os custos atribuíveis à obesidade foram de aproximadamente 0,5 bilhão de reais para o SUS e a obesidade grau III teve contribuição importante nesse custo pois, mesmo sendo 18 vezes menos frequente que os outros graus de obesidade, custou cerca de quatro vezes mais quando comparada às obesidades I e II. Incorreta a alternativa “C” porque a obesidade nos países em desenvolvimento também atinge as pessoas com baixa renda, pois os alimentos ultraprocessados tem preços acessíveis. Correta a alternativa “D” porque a obesidade é multifatorial e alguns fatores relacionados à mudança na comensalidade e ao sistema alimentar contribuem para a gênese desse problema, como a fabricação em maior quantidade de produtos ultraprocessados e a diminuição do tempo disponível para lazer e atividade física devido ao excesso de trabalho. Gabarito: Alternativa “D”.Referência bibliográfica: (1)\tMinistério da Saúde. Perspectivas e desafios no cuidado às pessoas com obesidade no SUS: resultados do Laboratório de Inovação no manejo da obesidade nas Redes de Atenção à Saúde. Ministério da Saúde e Organização Pan-Americana da Saúde. Brasília-DF, 2014. Disponível em: http://189.28.128.100/dab/docs/portaldab/publicacoes/perspectivas_desafios_cuidado_pessoas_obesidade.pdf.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                "author_email_id": "d2613709608ea4e24806426c0949aa88",
+                "author_profile": {
+                    "id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+                    "full_name": "Bárbara D'Alegria",
+                    "avatar_url": "https://static.accounts.estrategia.com/9bf22828b20ebd5ca4b714b1542266cc",
+                    "about_me": "Graduada em Medicina pela Universidade do Estado do Rio de Janeiro (UERJ) e em Nutrição pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Especialista em Medicina de Família pelo Programa de Residência Médica em Medicina de Família e Comunidade da Secretaria Municipal de Saúde do Rio de Janeiro (RQE 32341), Mestre em Biologia Celular e Molecular, com ênfase em Imunologia e Farmacologia, pela Fundação Oswaldo Cruz (FIOCRUZ), Pós-graduada em Preceptoria Médica pela Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Professora de Medicina Preventiva do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.barbaradalegria",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-30 16:51:23.680563 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000082538",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2019,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "38ef9803-7b80-4cc7-8a67-fcb71d205731",
+                            "name": "RS - Associação Médica do Rio Grande do Sul - AMRIGS"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "9B7EA9D4-70E5-88C7-CF6D-9842002D7958"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T20:41:17Z",
+                    "location": {
+                        "id": "24"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "c1c22f24ebc04033b99d7d811d329bd6",
+                    "name": "Adenocarcinoma de Esôfago",
+                    "is_master": false,
+                    "master_id": "9946b3fe745b4de29a8808eaebbb3da3",
+                    "path": "Clínica Médica[$$]Gastroenterologia[$$]Neoplasias do Sistema Digestivo[$$]Neoplasias do Esôfago[$$]Neoplasias Malignas do Esôfago[$$]Adenocarcinoma de Esôfago",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "e57155df998140ee8cee425717cc7e6c",
+                    "name": "Manifestações clínicas e doenças associadas",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Manifestações clínicas e doenças associadas",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "defb0ea0-f22c-4907-a700-afb7dbabddb3",
+                    "position": "0",
+                    "body": "Tumor de Klatskin.",
+                    "sanitized_body": "Tumor de Klatskin.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:09.195876 +0000 UTC",
+                    "updated_at": "2020-11-22 20:56:01.607629 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "INCORRETA:&nbsp;Tumor de Klatskin é incomum. Trata-se de um tumor de vias biliares (colangiocarcinoma) que se localiza na bifurcação do ducto hepático, ainda fora do fígado. A obesidade não é um fator de risco importante para este tumor.",
+                        "sanitized_complete": "INCORRETA: Tumor de Klatskin é incomum. Trata-se de um tumor de vias biliares (colangiocarcinoma) que se localiza na bifurcação do ducto hepático, ainda fora do fígado. A obesidade não é um fator de risco importante para este tumor.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                        "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+                        "author_profile": null,
+                        "created_at": "2020-10-27 20:48:42.777394 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 15
+                },
+                {
+                    "id": "7bd477bb-2309-4dfb-be28-a1880f9f9929",
+                    "position": "1",
+                    "body": "Carcinoma epidermoide de esôfago.",
+                    "sanitized_body": "Carcinoma epidermoide de esôfago.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:09.195876 +0000 UTC",
+                    "updated_at": "2020-11-22 20:56:01.69488 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "INCORRETA:&nbsp;O carcinoma epidermoide de esôfago (também chamado de espinocelular ou escamoso) é um câncer cujos principais fatores de risco são o tabagismo e o etilismo, mais comum em pessoas a partir dos 60 anos, especialmente de etnia negra. É o tipo histológico mais comum no esôfago, especialmente no Brasil.",
+                        "sanitized_complete": "INCORRETA: O carcinoma epidermoide de esôfago (também chamado de espinocelular ou escamoso) é um câncer cujos principais fatores de risco são o tabagismo e o etilismo, mais comum em pessoas a partir dos 60 anos, especialmente de etnia negra. É o tipo histológico mais comum no esôfago, especialmente no Brasil.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                        "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+                        "author_profile": null,
+                        "created_at": "2020-10-27 20:48:42.871207 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 40
+                },
+                {
+                    "id": "c0e64232-681e-483d-ba77-666ec0e731b2",
+                    "position": "2",
+                    "body": "Adenocarcinoma da junção esôfago-gástrica.\r",
+                    "sanitized_body": "Adenocarcinoma da junção esôfago-gástrica.\n",
+                    "correct": true,
+                    "created_at": "2020-09-14 18:27:09.195876 +0000 UTC",
+                    "updated_at": "2020-11-22 20:56:01.77688 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>CORRETA</b>:&nbsp;O adenocarcinoma é o tipo histológico de tumor de esôfago que se origina no epitélio do Esôfago de Barrett, isto é, em uma área de metaplasia intestinal no esôfago distal, junto à transição esofagogástrica. Essa metaplasia ocorre como reação do tecido à injúria crônica provocada pelo ácido, já que normalmente está presente em pessoas com doença do refluxo (DRGE) de longa data. Além do esôfago de Barrett, a&nbsp;<b>OBESIDADE</b>&nbsp;é o outro fator de risco mais importante para esse tipo histológico de tumor, motivo pelo qual sua incidência está aumentando progressivamente nos países do Hemisfério Norte, acompanhando a epidemia de obesidade que tem ocorrido nesses países.",
+                        "sanitized_complete": "CORRETA: O adenocarcinoma é o tipo histológico de tumor de esôfago que se origina no epitélio do Esôfago de Barrett, isto é, em uma área de metaplasia intestinal no esôfago distal, junto à transição esofagogástrica. Essa metaplasia ocorre como reação do tecido à injúria crônica provocada pelo ácido, já que normalmente está presente em pessoas com doença do refluxo (DRGE) de longa data. Além do esôfago de Barrett, a OBESIDADE é o outro fator de risco mais importante para esse tipo histológico de tumor, motivo pelo qual sua incidência está aumentando progressivamente nos países do Hemisfério Norte, acompanhando a epidemia de obesidade que tem ocorrido nesses países.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                        "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+                        "author_profile": null,
+                        "created_at": "2020-10-27 20:48:42.880212 +0000 UTC"
+                    },
+                    "answer_percentage": 74,
+                    "answers": 302
+                },
+                {
+                    "id": "7c1d2fd8-95e5-4d76-84a7-89111212081d",
+                    "position": "3",
+                    "body": "Carcinoma epidermoide do reto.",
+                    "sanitized_body": "Carcinoma epidermoide do reto.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:09.195876 +0000 UTC",
+                    "updated_at": "2020-11-22 20:56:01.850772 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "INCORRETA:&nbsp;O carcinoma epidermoide do reto é uma neoplasia rara. Está associada a situações que provocam inflamação crônica do que reto, com o surgimento de áreas de metaplasia escamosa. Uma das causas é infecção pelo HPV (Papiloma Vírus Humano), mas também pela irradiação (radioterapia) para tratamento de tumores regionais (próstata, colo de útero). Não há relação com obesidade.",
+                        "sanitized_complete": "INCORRETA: O carcinoma epidermoide do reto é uma neoplasia rara. Está associada a situações que provocam inflamação crônica do que reto, com o surgimento de áreas de metaplasia escamosa. Uma das causas é infecção pelo HPV (Papiloma Vírus Humano), mas também pela irradiação (radioterapia) para tratamento de tumores regionais (próstata, colo de útero). Não há relação com obesidade.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                        "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+                        "author_profile": null,
+                        "created_at": "2020-10-27 20:48:42.871155 +0000 UTC"
+                    },
+                    "answer_percentage": 12,
+                    "answers": 50
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A obesidade consiste em fator de risco para:",
+            "statement_text": "A obesidade consiste em fator de risco para:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "santos123mariamariana@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 18:27:09.195876 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div>Obesidade é um fator de risco para muitas doenças. Em relação aos cânceres do tubo digestivo, existe um em especial que tem a obesidade como um dos fatores de risco mais importantes. Vamos discutir enquanto avaliamos as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA C.Obesidade é um fator de risco para muitas doenças. Em relação aos cânceres do tubo digestivo, existe um em especial que tem a obesidade como um dos fatores de risco mais importantes. Vamos discutir enquanto avaliamos as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+                "author_profile": {
+                    "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+                    "full_name": "Élio Castro",
+                    "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+                    "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profeliocastro",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-27 20:48:42.984041 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000082538-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000079412",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2019,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9f69194e-47cb-4ace-bf98-3df90eddbd55",
+                            "name": "RN - Universidade Federal do Rio Grande do Norte - UFRN (Hospital Universitário Onofre Lopes - HUOL)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "B7D09256-8D24-9CF9-D2ED-FF37B2931EDA"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T13:16:48Z",
+                    "updated_at": "2020-11-26T02:57:52Z",
+                    "location": {
+                        "id": "21"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "312c267c5dcc40d39a384a02f0094d3e",
+                    "name": "Cirurgia Bariátrica e Metabólica",
+                    "is_master": false,
+                    "master_id": "ce93cab80820446290f7ea627578e6e9",
+                    "path": "Cirurgia[$$]Cirurgia Bariátrica e Metabólica",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "62748d49c1cc493d8f8b673c282d3309",
+                    "name": "Pacientes candidatos à cirurgia bariátrica",
+                    "is_master": false,
+                    "master_id": "f2ff457697714810b32411d19b308ae5",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Tratamento cirúrgico[$$]Pacientes candidatos à cirurgia bariátrica",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "0d82e3c6-6f7e-439b-8e9a-ca2ce13d7aa5",
+                    "position": "0",
+                    "body": "incontinência urinária de esforço masculina.",
+                    "sanitized_body": "incontinência urinária de esforço masculina.",
+                    "correct": false,
+                    "created_at": "2020-09-14 15:39:51.348869 +0000 UTC",
+                    "updated_at": "2020-12-04 05:28:27.799681 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “a”:</b> O correto seria “incontinência urinária de esforço na mulher”.",
+                        "sanitized_complete": "Incorreta a alternativa “a”: O correto seria “incontinência urinária de esforço na mulher”.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                        "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+                        "author_profile": null,
+                        "created_at": "2022-09-04 23:19:32.407355 +0000 UTC",
+                        "updated_at": "2022-09-04 23:19:43.232402 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 10
+                },
+                {
+                    "id": "94063379-407c-4c83-90d2-9d3679104237",
+                    "position": "1",
+                    "body": "asma grave controlada.",
+                    "sanitized_body": "asma grave controlada.",
+                    "correct": false,
+                    "created_at": "2020-09-14 15:39:51.348869 +0000 UTC",
+                    "updated_at": "2020-12-04 05:28:27.982057 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “b”:</b> O correto seria “asma grave não controlada”.",
+                        "sanitized_complete": "Incorreta a alternativa “b”: O correto seria “asma grave não controlada”.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                        "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+                        "author_profile": null,
+                        "created_at": "2022-09-04 23:19:32.38855 +0000 UTC",
+                        "updated_at": "2022-09-04 23:19:43.231639 +0000 UTC"
+                    },
+                    "answer_percentage": 30,
+                    "answers": 40
+                },
+                {
+                    "id": "e0f1ed2c-0da2-483c-802d-6e2fbb1da353",
+                    "position": "2",
+                    "body": "refluxo gastroesofageano controlado.",
+                    "sanitized_body": "refluxo gastroesofageano controlado.",
+                    "correct": false,
+                    "created_at": "2020-09-14 15:39:51.348869 +0000 UTC",
+                    "updated_at": "2020-12-04 05:28:28.193437 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa “c”:</b> O correto seria “refluxo gastroesofágico com indicação cirúrgica”.",
+                        "sanitized_complete": "Incorreta a alternativa “c”: O correto seria “refluxo gastroesofágico com indicação cirúrgica”.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                        "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+                        "author_profile": null,
+                        "created_at": "2022-09-04 23:19:32.398989 +0000 UTC",
+                        "updated_at": "2022-09-04 23:19:43.233544 +0000 UTC"
+                    },
+                    "answer_percentage": 16,
+                    "answers": 22
+                },
+                {
+                    "id": "70b387ee-392d-4d5a-ba8c-1ffb65eac8d8",
+                    "position": "3",
+                    "body": "doença hemorroidária.",
+                    "sanitized_body": "doença hemorroidária.",
+                    "correct": true,
+                    "created_at": "2020-09-14 15:39:51.348869 +0000 UTC",
+                    "updated_at": "2020-12-04 05:28:28.420441 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Correta a alternativa “d”: </b>Vide comentário geral.",
+                        "sanitized_complete": "Correta a alternativa “d”: Vide comentário geral.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                        "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+                        "author_profile": null,
+                        "created_at": "2022-09-04 23:19:32.397917 +0000 UTC",
+                        "updated_at": "2022-09-04 23:19:43.237228 +0000 UTC"
+                    },
+                    "answer_percentage": 47,
+                    "answers": 63
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A presença de comorbidades é uma condição essencial para indicação de cirurgia bariátrica em pacientes portadores de obesidade classe II.&nbsp;<div><br></div><div>Segundo a Resolução 2.131/15, têm indicação de cirurgia bariátrica pacientes com IMC maior que 35 kg/m² e afetados por comorbidezes que ameacem a vida, tal como</div>",
+            "statement_text": "A presença de comorbidades é uma condição essencial para indicação de cirurgia bariátrica em pacientes portadores de obesidade classe II. Segundo a Resolução 2.131/15, têm indicação de cirurgia bariátrica pacientes com IMC maior que 35 kg/m² e afetados por comorbidezes que ameacem a vida, tal como",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 15:39:51.348869 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO ALTERNATIVA \"D\"</b><div><br></div><div>Segundo as orientações da Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica (ABESO) e do Conselho Federal de Medicina (CFM), as indicações de cirurgia bariátrica são as seguintes:</div><div>●\t<b>Idade entre 18 e 65 anos</b>: </div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CC6DE9E1-7741-F348-EC76-19249E9D0289/CC6DE9E1-7741-F348-EC76-19249E9D0289-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>●<b>\tAdolescentes com 16 anos completos e menores de 18 anos</b> poderão ser operados, respeitadas as condições acima, além das seguintes exigências:</div><div>°\tTer a concordância dos pais ou responsáveis legais</div><div>°\tPresença de pediatra na equipe multiprofissional</div><div>°\tConsolidação das cartilagens das epífises de crescimento dos punhos</div><div>°\tAnálise criteriosa do da relação risco-benefício</div><div>●\t<b>Em menores de 16 anos</b>, a cirurgia é considerada experimental e somente pode ser realizada sob as normas do CEP/CONEP.</div><div>●\t<b>Em maiores 65 anos</b>, uma avaliação específica deve considerar: o risco cirúrgico e anestésico, a presença de comorbidades, a expectativa de vida, os benefícios da perda de peso e as limitações da idade, como por exemplo, dismotilidade esofágica, sarcopenia, risco de queda, e osteoporose.</div><div><br></div><div>Em 2016 o CFM publicou a Resolução 2.131/2015, onde as comorbidades para indicação de cirurgia bariátrica em pacientes com IMC maior que 35 kg/m² e menor que 40 kg/m² foram detalhadas <u>(diabetes, apneia do sono, hipertensão arterial, dislipidemia, doenças cardiovasculares, síndrome da hipoventilação da obesidade, asma grave não controlada, hérnias discais, osteoartroses, refluxo gastroesofágico com indicação cirúrgica, colecistopatia calculosa, pancreatites agudas de repetição, incontinência urinária de esforço na mulher, infertilidade masculina e feminina, disfunção erétil, síndrome dos ovários policísticos, veias varicosas e <b>doença hemorroidária</b>, hipertensão intracraniana idiopática, estigmatização social e depressão)</u>; acrescentou ainda como precauções para a indicação de cirurgia: a ausência de uso de drogas ilícitas ou alcoolismo, a ausência de quadros psicóticos ou demenciais graves ou moderados, além da compreensão, por parte do paciente e dos familiares, dos riscos e das mudanças de hábitos inerentes a uma cirurgia de grande porte sobre o tubo digestivo e da necessidade de acompanhamento pós-operatório com a equipe multidisciplinar em longo prazo.</div><div><br></div><div><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;D&#34;Segundo as orientações da Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica (ABESO) e do Conselho Federal de Medicina (CFM), as indicações de cirurgia bariátrica são as seguintes:●\tIdade entre 18 e 65 anos: ●\tAdolescentes com 16 anos completos e menores de 18 anos poderão ser operados, respeitadas as condições acima, além das seguintes exigências:°\tTer a concordância dos pais ou responsáveis legais°\tPresença de pediatra na equipe multiprofissional°\tConsolidação das cartilagens das epífises de crescimento dos punhos°\tAnálise criteriosa do da relação risco-benefício●\tEm menores de 16 anos, a cirurgia é considerada experimental e somente pode ser realizada sob as normas do CEP/CONEP.●\tEm maiores 65 anos, uma avaliação específica deve considerar: o risco cirúrgico e anestésico, a presença de comorbidades, a expectativa de vida, os benefícios da perda de peso e as limitações da idade, como por exemplo, dismotilidade esofágica, sarcopenia, risco de queda, e osteoporose.Em 2016 o CFM publicou a Resolução 2.131/2015, onde as comorbidades para indicação de cirurgia bariátrica em pacientes com IMC maior que 35 kg/m² e menor que 40 kg/m² foram detalhadas (diabetes, apneia do sono, hipertensão arterial, dislipidemia, doenças cardiovasculares, síndrome da hipoventilação da obesidade, asma grave não controlada, hérnias discais, osteoartroses, refluxo gastroesofágico com indicação cirúrgica, colecistopatia calculosa, pancreatites agudas de repetição, incontinência urinária de esforço na mulher, infertilidade masculina e feminina, disfunção erétil, síndrome dos ovários policísticos, veias varicosas e doença hemorroidária, hipertensão intracraniana idiopática, estigmatização social e depressão); acrescentou ainda como precauções para a indicação de cirurgia: a ausência de uso de drogas ilícitas ou alcoolismo, a ausência de quadros psicóticos ou demenciais graves ou moderados, além da compreensão, por parte do paciente e dos familiares, dos riscos e das mudanças de hábitos inerentes a uma cirurgia de grande porte sobre o tubo digestivo e da necessidade de acompanhamento pós-operatório com a equipe multidisciplinar em longo prazo.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+                "author_profile": {
+                    "id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+                    "full_name": "Renatha Paiva de Castro",
+                    "avatar_url": "https://static.accounts.estrategia.com/e4000946ecd6625076f499e28ce5ac58",
+                    "about_me": "➢ Graduação: Curso de Medicina pela Universidade Federal de Juiz de ForaMG, 1997 a 2002\n➢ Residência Médica em Cirurgia Geral pelo Hospital Santa Marcelina em São PauloSP, 2003 e 2004 – Prova de residência SUSSP.\n➢ Residência Médica em Cirurgia Oncológica pelo Instituto Arnaldo Vieira de CarvalhoSP, 2005 a 2007 – Prova de residência SUSSP.\n➢ Pós-graduação em Nutrologia pela ABRAN (Associação Brasileira de Nutrologia) em 2018.\n➢ Aprovada em 1o lugar no concurso público da Polícia Civil do Estado de São Paulo, para o cargo de\nmédico legista, em 2008.\n➢ Médica legista, chefe de equipe, do Instituto Médico Legal de Taboão da SerraSP, desde 2009.\n➢ Médica cirurgiã do Pronto Socorro do Hospital Regional de CotiaSP, desde 2007.\n➢ Preceptora da Residência Médica de Cirurgia Geral do Hospital Regional de CotiaSP, desde 2014.\n➢ Preceptora do internato de Cirurgia Geral da Unicid, Universidade Cidade São Paulo, realizado no\nHospital Regional de Cotia, desde 2019.\n➢ Professora da disciplina de Medicina Legal da Academia de Polícia Civil de São Paulo.\n\nRedes sociais:\nhttp:linkedin.cominrenatha-paiva-96a125196",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.renathapaiva",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-09-04 23:19:32.738952 +0000 UTC",
+                "updated_at": "2022-09-04 23:19:43.579774 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000079412-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000126742",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2014,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-03T18:54:40Z",
+                    "updated_at": "2020-09-24T16:06:37Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "665af44f1fed4cedb63b764fbfaef27f",
+                    "name": "Diagnóstico de obesidade",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Diagnóstico de obesidade",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "88b13354f06e4ec4b00661d442521c5e",
+                    "name": "Tratamento medicamentoso",
+                    "is_master": false,
+                    "master_id": "81ff3de13a7b48f09b3a721395b68db5",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Tratamento não medicamentoso[$$]Tratamento medicamentoso",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b54fbccccdd84da9b4af03e76a411048",
+                    "name": "Critérios diagnósticos de síndrome metabólica",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Critérios diagnósticos de síndrome metabólica",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "cf31a8ddd7c143589222fb06af123659",
+                    "name": "Escolha da droga",
+                    "is_master": false,
+                    "master_id": "88b13354f06e4ec4b00661d442521c5e",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Tratamento não medicamentoso[$$]Tratamento medicamentoso[$$]Escolha da droga",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "dfb40c6b60c4445c931961b13a096e34",
+                    "name": "Indicação de drogas antiobesidade",
+                    "is_master": false,
+                    "master_id": "88b13354f06e4ec4b00661d442521c5e",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Tratamento não medicamentoso[$$]Tratamento medicamentoso[$$]Indicação de drogas antiobesidade",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "0350516e-8618-4775-819d-3d9b2e9419d9",
+                    "position": "0",
+                    "body": "existe indicação para tratamento farmacológico e a droga de escolha é a sibutramina na dose de 15 mg ao dia.",
+                    "sanitized_body": "existe indicação para tratamento farmacológico e a droga de escolha é a sibutramina na dose de 15 mg ao dia.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:40:19.556618 +0000 UTC",
+                    "updated_at": "2020-11-16 13:10:56.715038 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa (A) é incorreta. </b>O tratamento do excesso de peso envolve modificações de hábitos de vida, que incluem readequação alimentar com dieta hipocalórica, prática frequente de atividade física e, se indicado, associação de medicações.&nbsp;<div><br></div><div><b>INDICAÇÃO DE TRATAMENTO MEDICAMENTOSO</b></div><div><br></div><div>A associação de medicações antiobesidade é feita quando há <b>falha em perder peso com o tratamento não farmacológico por 3-6 meses e</b></div><div><ul><li>IMC ≥ 30 kg/m²;</li><li>IMC ≥ 27 kg/m², na presença de comorbidades modificáveis pela perda de peso.</li></ul></div><div>No caso em questão, a paciente ainda não foi submetida ao tratamento não farmacológico; se em 3-6 meses não apresentar perda ponderal entre 5-10%, o tratamento medicamentoso pode ser associado (se comprovada osteoartrite de joelhos e coluna, devido às dores apresentadas).&nbsp;<br></div><div><br></div><div>A sibutramina é uma droga catecolaminérgica que reduz o apetite e seria uma opção medicamentosa, visto que a paciente não possui contraindicações (idade &gt; 65 anos, doença cardiovascular, hipertensão não controlada, transtornos alimentares, uso de outras drogas de ação central, nefropatia ou tabagismo ativo).</div>",
+                        "sanitized_complete": "Alternativa (A) é incorreta. O tratamento do excesso de peso envolve modificações de hábitos de vida, que incluem readequação alimentar com dieta hipocalórica, prática frequente de atividade física e, se indicado, associação de medicações. INDICAÇÃO DE TRATAMENTO MEDICAMENTOSOA associação de medicações antiobesidade é feita quando há falha em perder peso com o tratamento não farmacológico por 3-6 meses eIMC ≥ 30 kg/m²;IMC ≥ 27 kg/m², na presença de comorbidades modificáveis pela perda de peso.No caso em questão, a paciente ainda não foi submetida ao tratamento não farmacológico; se em 3-6 meses não apresentar perda ponderal entre 5-10%, o tratamento medicamentoso pode ser associado (se comprovada osteoartrite de joelhos e coluna, devido às dores apresentadas). A sibutramina é uma droga catecolaminérgica que reduz o apetite e seria uma opção medicamentosa, visto que a paciente não possui contraindicações (idade &gt; 65 anos, doença cardiovascular, hipertensão não controlada, transtornos alimentares, uso de outras drogas de ação central, nefropatia ou tabagismo ativo).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 14:07:31.774458 +0000 UTC",
+                        "updated_at": "2020-10-22 14:07:45.615091 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 21
+                },
+                {
+                    "id": "ceaacb0d-802a-41c5-b6ec-fd1c4af5ce5c",
+                    "position": "1",
+                    "body": "os valores de circunferência abdominal e IMC colocam a paciente em situação de aumento de risco cardiovascular.",
+                    "sanitized_body": "os valores de circunferência abdominal e IMC colocam a paciente em situação de aumento de risco cardiovascular.",
+                    "correct": true,
+                    "created_at": "2020-09-24 21:40:19.556618 +0000 UTC",
+                    "updated_at": "2020-11-16 13:10:56.779252 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa (B) é correta. </b>A partir de IMC &gt; 25 kg/m², há aumento do risco relativo de morte (por doença cardiovascular, neoplasias ou por todas as causas), com elevação exponencial a partir de 30 kg/m². Observe no gráfico abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A31059AA-A339-9F65-BF3F-9A607A185665/A31059AA-A339-9F65-BF3F-9A607A185665-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Alternativa (B) é correta. A partir de IMC &gt; 25 kg/m², há aumento do risco relativo de morte (por doença cardiovascular, neoplasias ou por todas as causas), com elevação exponencial a partir de 30 kg/m². Observe no gráfico abaixo:",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 14:07:31.802408 +0000 UTC",
+                        "updated_at": "2020-10-22 14:07:45.630783 +0000 UTC"
+                    },
+                    "answer_percentage": 90,
+                    "answers": 361
+                },
+                {
+                    "id": "2add830f-5d9a-45b1-98f8-593a87831456",
+                    "position": "2",
+                    "body": "pelo cálculo do IMC, a paciente é classificada como de peso adequado, não necessitando intervenção medicamentosa.",
+                    "sanitized_body": "pelo cálculo do IMC, a paciente é classificada como de peso adequado, não necessitando intervenção medicamentosa.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:40:19.556618 +0000 UTC",
+                    "updated_at": "2020-11-16 13:10:56.849229 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa (C) é incorreta.</b> O cálculo do IMC é feito através da fórmula:<div><b><br></b></div><div><b>IMC = Peso (kg)/Altura (m)²</b></div><div><br></div><div>Como a paciente apresenta IMC = 29,7 kg/m², é classificada como portadora de sobrepeso</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/72E46121-0FE3-57AE-21A1-EEB70971773F/72E46121-0FE3-57AE-21A1-EEB70971773F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Alternativa (C) é incorreta. O cálculo do IMC é feito através da fórmula:IMC = Peso (kg)/Altura (m)²Como a paciente apresenta IMC = 29,7 kg/m², é classificada como portadora de sobrepeso",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 14:07:31.816903 +0000 UTC",
+                        "updated_at": "2020-10-22 14:07:45.625919 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "e8c0add1-7ea6-46b7-8873-44049a04d3a9",
+                    "position": "3",
+                    "body": "existe indicação para uso de inibidor da enzima de conversão, pelo risco de progressão para hipertensão arterial sistêmica.",
+                    "sanitized_body": "existe indicação para uso de inibidor da enzima de conversão, pelo risco de progressão para hipertensão arterial sistêmica.",
+                    "correct": false,
+                    "created_at": "2020-09-24 21:40:19.556618 +0000 UTC",
+                    "updated_at": "2020-11-16 13:10:56.913578 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa (D) é incorreta.</b> A paciente apresenta pré-hipertensão e apenas deveria receber tratamento medicamentoso na presença de doença cardiovascular estabelecida (infarto do miocárdio, insuficiência cardíaca, AVC, doença coronariana, doença arterial periférica e doença renal crônica). Entretanto, as medidas não farmacológicas, como perda ponderal, instituição de atividade física e redução do consumo de sal na dieta precisam ser implementadas para a melhora pressórica e diminuição do risco de progressão da doença.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/29E9DE4C-5789-A44F-2721-FF2FD797DE1A/29E9DE4C-5789-A44F-2721-FF2FD797DE1A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/75279EC7-7415-5EE4-DE86-5B00D35A9DA9/75279EC7-7415-5EE4-DE86-5B00D35A9DA9-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Alternativa (D) é incorreta. A paciente apresenta pré-hipertensão e apenas deveria receber tratamento medicamentoso na presença de doença cardiovascular estabelecida (infarto do miocárdio, insuficiência cardíaca, AVC, doença coronariana, doença arterial periférica e doença renal crônica). Entretanto, as medidas não farmacológicas, como perda ponderal, instituição de atividade física e redução do consumo de sal na dieta precisam ser implementadas para a melhora pressórica e diminuição do risco de progressão da doença.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 14:07:31.799055 +0000 UTC",
+                        "updated_at": "2020-10-22 14:07:45.650693 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 18
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma mulher com 35 anos de idade procura atendimento na Unidade Básica de Saúde para tratamento de obesidade. Manifesta desejo de usar medicações para diminuir a sensação de fome, pois refere que uma vizinha está tendo bons resultados com o uso de medicamentos há vários meses. A paciente é casada, tem três filhos - o mais novo com  dois anos - e atualmente não está trabalhando. Relata que ganhou muito peso durante a última gestação e que não conseguiu retornar ao peso anterior. Nega hipertensão ou diabetes. Não consegue fazer atividade física regular, pois tem dores na coluna e nos joelhos e diz que tem dificuldade em seguir dietas. O exame físico revela: peso = 78 kg; altura = 1,62 m; Índice de massa corporal - IMC = 29,7 kg/m²; pressão arterial = 130 x 80 mmHg; circunferência abdominal = 90 cm. O restante do exame físico não apresenta alterações significativas. Com base nessas informações, é correto afirmar que:",
+            "statement_text": "Uma mulher com 35 anos de idade procura atendimento na Unidade Básica de Saúde para tratamento de obesidade. Manifesta desejo de usar medicações para diminuir a sensação de fome, pois refere que uma vizinha está tendo bons resultados com o uso de medicamentos há vários meses. A paciente é casada, tem três filhos - o mais novo com  dois anos - e atualmente não está trabalhando. Relata que ganhou muito peso durante a última gestação e que não conseguiu retornar ao peso anterior. Nega hipertensão ou diabetes. Não consegue fazer atividade física regular, pois tem dores na coluna e nos joelhos e diz que tem dificuldade em seguir dietas. O exame físico revela: peso = 78 kg; altura = 1,62 m; Índice de massa corporal - IMC = 29,7 kg/m²; pressão arterial = 130 x 80 mmHg; circunferência abdominal = 90 cm. O restante do exame físico não apresenta alterações significativas. Com base nessas informações, é correto afirmar que:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "liz.muller@globomail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-24 21:40:19.556618 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                "author_profile": {
+                    "id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                    "full_name": "Camila Moma",
+                    "avatar_url": "https://static.accounts.estrategia.com/e7e0e9ce5efce8a2216f079d45d7381c",
+                    "about_me": "Graduação, residência em Clínica Médica, residência em Endocrinologia e mestrado pela UNICAMP.\nDoutoranda pela UNICAMP.\nEndocrinologista (consultório privado).\nProfessora do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profa.camilamoma",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/camila-moma-44720b9b",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-22 14:07:31.967318 +0000 UTC",
+                "updated_at": "2020-10-22 14:07:45.785677 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000129329",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "1965c0732bd34688ba2eddc8e07df0cc",
+                    "name": "Diabetes induzido por drogas",
+                    "is_master": false,
+                    "master_id": "7d6b22e2bfe84e9b82b718e847008631",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Outros tipos de Diabetes Mellitus[$$]Diabetes induzido por drogas",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "6ca473742be844b2b11a02db6748290f",
+                    "name": "Betabloqueadores",
+                    "is_master": false,
+                    "master_id": "1965c0732bd34688ba2eddc8e07df0cc",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Outros tipos de Diabetes Mellitus[$$]Diabetes induzido por drogas[$$]Betabloqueadores",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "ab6c6a1fb6604cf98243ac486f80dac8",
+                    "name": "Endocrinologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Endocrinologia ",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b54fbccccdd84da9b4af03e76a411048",
+                    "name": "Critérios diagnósticos de síndrome metabólica",
+                    "is_master": false,
+                    "master_id": "f3f42a85782a4fad891ae3050d027346",
+                    "path": "Clínica Médica[$$]Endocrinologia [$$]Obesidade e síndrome metabólica[$$]Critérios diagnósticos de síndrome metabólica",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "bd9d5119-67c2-491f-b324-c1f4afe226b2",
+                    "position": "0",
+                    "body": "captopril.<div>&nbsp;</div>",
+                    "sanitized_body": "captopril. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+                    "updated_at": "2021-08-02 20:10:50.767408 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa A. </b>O captopril é um inibidor da enzima conversora de angiotensina (IECA), portanto, atua em uma das bases fisiopatológicas da síndrome metabólica, que é a hiperativação do sistema renina-angiotensina-aldosterona. Não causa ganho ponderal nem hiperglicemia.",
+                        "sanitized_complete": "Incorreta a alternativa A. O captopril é um inibidor da enzima conversora de angiotensina (IECA), portanto, atua em uma das bases fisiopatológicas da síndrome metabólica, que é a hiperativação do sistema renina-angiotensina-aldosterona. Não causa ganho ponderal nem hiperglicemia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2021-08-02 20:13:51.179823 +0000 UTC",
+                        "updated_at": "2021-08-02 20:13:53.871066 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 72
+                },
+                {
+                    "id": "84f7bfff-a130-483c-b9af-bf0e9670aa9f",
+                    "position": "1",
+                    "body": "clonidina.<div>&nbsp;</div>",
+                    "sanitized_body": "clonidina. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+                    "updated_at": "2021-08-02 20:10:51.22215 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa B. </b>A clonidina é um agonista alfa-2-adrenérgico, atuando nos receptores alfa-2 no sistema nervoso central, o que resulta em diminuição da atividade simpática, com consequente diminuição da resistência arterial periférica, queda na frequência cardíaca e na pressão arterial. Não se relaciona a quadros hiperglicêmicos.",
+                        "sanitized_complete": "Incorreta a alternativa B. A clonidina é um agonista alfa-2-adrenérgico, atuando nos receptores alfa-2 no sistema nervoso central, o que resulta em diminuição da atividade simpática, com consequente diminuição da resistência arterial periférica, queda na frequência cardíaca e na pressão arterial. Não se relaciona a quadros hiperglicêmicos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2021-08-02 20:13:51.193225 +0000 UTC",
+                        "updated_at": "2021-08-02 20:13:53.891399 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 95
+                },
+                {
+                    "id": "14872add-b945-4044-a9fb-f27511c0a276",
+                    "position": "2",
+                    "body": "losartana.<div>&nbsp;</div>",
+                    "sanitized_body": "losartana. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+                    "updated_at": "2021-08-02 20:10:51.995892 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa C. </b>A losartana é um bloqueador do receptor de angiotensina (BRA), portanto, assim como os IECA, atua no sistema-renina-angiotensina-aldosterona. Tanto os BRA quanto os IECA tem prescrição prioritária em indivíduos hipertensos com albuminúria positiva, uma vez que o uso dessas medicações reduz a progressão da doença renal. Atenção que não devemos utilizar IECA junto com o BRA, pois observou-se aumento de mortalidade com o duplo bloqueio.",
+                        "sanitized_complete": "Incorreta a alternativa C. A losartana é um bloqueador do receptor de angiotensina (BRA), portanto, assim como os IECA, atua no sistema-renina-angiotensina-aldosterona. Tanto os BRA quanto os IECA tem prescrição prioritária em indivíduos hipertensos com albuminúria positiva, uma vez que o uso dessas medicações reduz a progressão da doença renal. Atenção que não devemos utilizar IECA junto com o BRA, pois observou-se aumento de mortalidade com o duplo bloqueio.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2021-08-02 20:13:51.169839 +0000 UTC",
+                        "updated_at": "2021-08-02 20:13:53.875202 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 99
+                },
+                {
+                    "id": "f86c5aa1-675d-40be-8d8b-10b13ba3b77f",
+                    "position": "3",
+                    "body": "amlodipina.<div>&nbsp;</div>",
+                    "sanitized_body": "amlodipina. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+                    "updated_at": "2021-08-02 20:10:52.443975 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Incorreta a alternativa D.</b> A amlodipina é um bloqueador de canal de cálcio di-hidropiridínico, que inibe a entrada de cálcio nas células miocárdicas e musculares lisas, promovendo relaxamento muscular, com consequente vasodilatação arterial periférica e redução pressórica.",
+                        "sanitized_complete": "Incorreta a alternativa D. A amlodipina é um bloqueador de canal de cálcio di-hidropiridínico, que inibe a entrada de cálcio nas células miocárdicas e musculares lisas, promovendo relaxamento muscular, com consequente vasodilatação arterial periférica e redução pressórica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2021-08-02 20:13:51.207363 +0000 UTC",
+                        "updated_at": "2021-08-02 20:13:53.88419 +0000 UTC"
+                    },
+                    "answer_percentage": 13,
+                    "answers": 91
+                },
+                {
+                    "id": "02af63e2-982e-4307-9142-1d96c4f8c887",
+                    "position": "4",
+                    "body": "propranolol.",
+                    "sanitized_body": "propranolol.",
+                    "correct": true,
+                    "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+                    "updated_at": "2021-08-02 20:10:52.837019 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Correta a alternativa E.</b> Vide comentário inicial.",
+                        "sanitized_complete": "Correta a alternativa E. Vide comentário inicial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                        "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                        "author_profile": null,
+                        "created_at": "2021-08-02 20:13:51.192807 +0000 UTC",
+                        "updated_at": "2021-08-02 20:13:53.895786 +0000 UTC"
+                    },
+                    "answer_percentage": 49,
+                    "answers": 346
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma mulher de 57 anos de idade, em acompanhamento na Unidade Básica de Saúde, apresenta-se com PA = 150 x 100 mmHg, circunferência abdominal de 100 cm, glicemia = 115 mg/dL (valor de referência &lt; 99 mg/dL), triglicérides = 200 mg/dL (valor de referência &lt; 150 mg/dL), HDL = 35 mg/dL (valor desejável &gt; 60 mg/dL).<div><br></div><div>Na terapia medicamentosa hipotensora, a droga que potencialmente apresenta efeitos metabólicos antagônicos às medidas para redução de peso e de controle da glicemia é</div><div>&nbsp;</div>",
+            "statement_text": "Uma mulher de 57 anos de idade, em acompanhamento na Unidade Básica de Saúde, apresenta-se com PA = 150 x 100 mmHg, circunferência abdominal de 100 cm, glicemia = 115 mg/dL (valor de referência &lt; 99 mg/dL), triglicérides = 200 mg/dL (valor de referência &lt; 150 mg/dL), HDL = 35 mg/dL (valor desejável &gt; 60 mg/dL).Na terapia medicamentosa hipotensora, a droga que potencialmente apresenta efeitos metabólicos antagônicos às medidas para redução de peso e de controle da glicemia é ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 15:38:50.258775 +0000 UTC",
+            "solution": {
+                "complete": "<b>Gabarito: alternativa E.</b><div><b>Comentários:</b></div><div>Estamos diante de uma paciente com síndrome metabólica (aumento de circunferência abdominal, hipertensão, alteração glicêmica, hipertrigliceridemia e HDL-colesterol baixo). Há 3 entidades com critérios bem estabelecidos para o diagnóstico de síndrome metabólica, a saber:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AADC7FAD-87E0-17CC-EC98-11FADF49A243/AADC7FAD-87E0-17CC-EC98-11FADF49A243-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><i>1-A resistência à insulina só pode ser considerada se for comprovada por estudo de clamp euglicêmico hiperinsulinêmico. Por ser um estudo de difícil realização e acesso, os critérios diagnósticos da OMS são os menos utilizados.</i></div><div><i>2-Para a OMS, os níveis de triglicérides e os de HDL-colesterol constituem um critério único. Assim, por exemplo, se um homem apresentar triglicérides ≥ 150 mg/dL e HDL ≥ 35 mg/dL, conta como apenas 1 critério preenchido.</i></div><div><i>3-A OMS aceita a presença de albuminúria pois reflete a disfunção endotelial.</i></div><div>A síndrome metabólica é uma condição associada a maior progressão para diabetes mellitus e maior risco de doenças cardiovasculares. Assim, o tratamento dos seus diversos componentes é imprescindível para a redução desses desfechos.</div><div>Quando pensamos no tratamento da hipertensão, o ideal seria evitarmos drogas com efeitos hiperglicemiantes, como os diuréticos tiazídicos (que diminuem a secreção de insulina pelas células beta pancreáticas e aumentam a resistência periférica à insulina) e os betabloqueadores (aumentam a resistência periférica à insulina).</div><div><br></div>",
+                "sanitized_complete": "Gabarito: alternativa E.Comentários:Estamos diante de uma paciente com síndrome metabólica (aumento de circunferência abdominal, hipertensão, alteração glicêmica, hipertrigliceridemia e HDL-colesterol baixo). Há 3 entidades com critérios bem estabelecidos para o diagnóstico de síndrome metabólica, a saber:1-A resistência à insulina só pode ser considerada se for comprovada por estudo de clamp euglicêmico hiperinsulinêmico. Por ser um estudo de difícil realização e acesso, os critérios diagnósticos da OMS são os menos utilizados.2-Para a OMS, os níveis de triglicérides e os de HDL-colesterol constituem um critério único. Assim, por exemplo, se um homem apresentar triglicérides ≥ 150 mg/dL e HDL ≥ 35 mg/dL, conta como apenas 1 critério preenchido.3-A OMS aceita a presença de albuminúria pois reflete a disfunção endotelial.A síndrome metabólica é uma condição associada a maior progressão para diabetes mellitus e maior risco de doenças cardiovasculares. Assim, o tratamento dos seus diversos componentes é imprescindível para a redução desses desfechos.Quando pensamos no tratamento da hipertensão, o ideal seria evitarmos drogas com efeitos hiperglicemiantes, como os diuréticos tiazídicos (que diminuem a secreção de insulina pelas células beta pancreáticas e aumentam a resistência periférica à insulina) e os betabloqueadores (aumentam a resistência periférica à insulina).",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+                "author_profile": {
+                    "id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+                    "full_name": "Camila Moma",
+                    "avatar_url": "https://static.accounts.estrategia.com/e7e0e9ce5efce8a2216f079d45d7381c",
+                    "about_me": "Graduação, residência em Clínica Médica, residência em Endocrinologia e mestrado pela UNICAMP.\nDoutoranda pela UNICAMP.\nEndocrinologista (consultório privado).\nProfessora do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profa.camilamoma",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/camila-moma-44720b9b",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-08-02 20:13:51.584559 +0000 UTC",
+                "updated_at": "2021-08-02 20:13:54.116999 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 30
+    }
+}

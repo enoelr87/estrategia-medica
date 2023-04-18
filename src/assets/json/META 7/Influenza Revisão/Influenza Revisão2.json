@@ -1,0 +1,2052 @@
+{
+    "data": [
+        {
+            "id": "4000127572",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-24T18:33:06Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "73dca64fc2074002b34f62570434ceb9",
+                    "name": "Características Gerais",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Características Gerais",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "b7e14300-18c2-42a4-8568-6c2d59152732",
+                    "position": "0",
+                    "body": "Na fase 3, a transmissão direta de pessoa a pessoa do vírus recombinante já é suficiente, segundo a OMS, para sustentar surtos em comunidades.",
+                    "sanitized_body": "Na fase 3, a transmissão direta de pessoa a pessoa do vírus recombinante já é suficiente, segundo a OMS, para sustentar surtos em comunidades.",
+                    "correct": false,
+                    "created_at": "2020-10-02 16:49:33.583409 +0000 UTC",
+                    "updated_at": "2021-01-27 14:22:20.488359 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"a\" é incorreta. Na fase 3, há casos esporádicos de infecção, com limitada transmissão entre humanos. Nesta fase, o vírus não é capaz de sustentar surtos comunitários.",
+                        "sanitized_complete": "Alternativa &#34;a&#34; é incorreta. Na fase 3, há casos esporádicos de infecção, com limitada transmissão entre humanos. Nesta fase, o vírus não é capaz de sustentar surtos comunitários.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 18:05:36.443817 +0000 UTC",
+                        "updated_at": "2021-01-27 14:36:42.898315 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 46
+                },
+                {
+                    "id": "73510203-6627-454c-99d5-ac0fca1e8031",
+                    "position": "1",
+                    "body": "Na fase 4, a OMS realiza o desenvolvimento e a distribuição de insumos voltados para  a produção de vacinas específicas para controle da pandemia.",
+                    "sanitized_body": "Na fase 4, a OMS realiza o desenvolvimento e a distribuição de insumos voltados para  a produção de vacinas específicas para controle da pandemia.",
+                    "correct": true,
+                    "created_at": "2020-10-02 16:49:33.583409 +0000 UTC",
+                    "updated_at": "2021-01-27 14:22:20.538605 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"b\" é correta. As medidas a serem tomadas na fase 4 incluem a contenção de pequenos focos da doença e o desenvolvimento de vacinas.",
+                        "sanitized_complete": "Alternativa &#34;b&#34; é correta. As medidas a serem tomadas na fase 4 incluem a contenção de pequenos focos da doença e o desenvolvimento de vacinas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 18:05:36.450587 +0000 UTC",
+                        "updated_at": "2021-01-27 14:36:42.907052 +0000 UTC"
+                    },
+                    "answer_percentage": 58,
+                    "answers": 452
+                },
+                {
+                    "id": "80038191-7f51-4fe9-a56b-1ffca8a0d38f",
+                    "position": "2",
+                    "body": "Na fase 5, a maioria dos países está sob risco de ocorrência dessa doença e, por essa razão, ela é considerada como pandêmica pela OMS.",
+                    "sanitized_body": "Na fase 5, a maioria dos países está sob risco de ocorrência dessa doença e, por essa razão, ela é considerada como pandêmica pela OMS.",
+                    "correct": false,
+                    "created_at": "2020-10-02 16:49:33.583409 +0000 UTC",
+                    "updated_at": "2021-01-27 14:22:20.601531 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"c\" é incorreta. Na fase 5, ao menos dois países têm disseminação viral entre humanos, mas ainda não é caracterizada pandemia.",
+                        "sanitized_complete": "Alternativa &#34;c&#34; é incorreta. Na fase 5, ao menos dois países têm disseminação viral entre humanos, mas ainda não é caracterizada pandemia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 18:05:36.430246 +0000 UTC",
+                        "updated_at": "2021-01-27 14:36:42.893011 +0000 UTC"
+                    },
+                    "answer_percentage": 30,
+                    "answers": 232
+                },
+                {
+                    "id": "9fca5457-e919-4cd6-b17b-807ec447faac",
+                    "position": "3",
+                    "body": "Na fase 6, a OMS agiliza todo o processo de revisão da disseminação do vírus, por meio de transmissão direta, para controle de pandemia.",
+                    "sanitized_body": "Na fase 6, a OMS agiliza todo o processo de revisão da disseminação do vírus, por meio de transmissão direta, para controle de pandemia.",
+                    "correct": false,
+                    "created_at": "2020-10-02 16:49:33.583409 +0000 UTC",
+                    "updated_at": "2021-01-27 14:22:20.660866 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"d\" é incorreta. A fase 6 corresponde à pandemia. A revisão da disseminação do vírus deve ocorrer na fase pós-pandêmica.&nbsp;<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;d&#34; é incorreta. A fase 6 corresponde à pandemia. A revisão da disseminação do vírus deve ocorrer na fase pós-pandêmica. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-22 18:05:36.443825 +0000 UTC",
+                        "updated_at": "2021-01-27 14:36:42.906898 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 45
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A figura abaixo representa as fases da Influenza Pandêmica de 2009 estabelecidas pela Organização Mundial da Saúde (OMS). Atualmente, a fase de alerta pandêmico para   H1N1 é a de pós-pandemia.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D3A8974C-F353-90BC-5D38-A03BA248D2DC/D3A8974C-F353-90BC-5D38-A03BA248D2DC-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Considerando a figura e as informações apresentadas, assinale a alternativa correta sobre o estado de preparação e resposta à pandemia de H1N1.</div>",
+            "statement_text": "A figura abaixo representa as fases da Influenza Pandêmica de 2009 estabelecidas pela Organização Mundial da Saúde (OMS). Atualmente, a fase de alerta pandêmico para   H1N1 é a de pós-pandemia.Considerando a figura e as informações apresentadas, assinale a alternativa correta sobre o estado de preparação e resposta à pandemia de H1N1.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "elisbete.souza@estrategiaconcursos.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-10-02 16:49:33.583409 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO ALTERNATIVA \"B\"</b><div><br></div><div>Este é um tema raro em provas de residência médica.</div><div>A Organização Mundial da Saúde (OMS) categoriza o enfrentamento a pandemias em fases. A tabela abaixo demonstra essa classificação e as medidas indicadas para cada fase.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B3013BCE-98E4-5467-AFD3-7FB545BC07CE/B3013BCE-98E4-5467-AFD3-7FB545BC07CE-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;B&#34;Este é um tema raro em provas de residência médica.A Organização Mundial da Saúde (OMS) categoriza o enfrentamento a pandemias em fases. A tabela abaixo demonstra essa classificação e as medidas indicadas para cada fase.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "Sérgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Residência médica em Infectologia pela Secretaria de Estado da Saúde de Santa Catarina (Hospital Nereu Ramos). MBA em Gestão em Saúde e Controle de Infecção. Atua como médico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Saúde de Santa Catarina, em Florianópolis/SC. Professor de Infectologia do curso Estratégia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-22 18:05:36.642565 +0000 UTC",
+                "updated_at": "2021-01-27 14:36:42.951208 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127572-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000119594",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                            "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "59DEEEBB-5B35-D7E9-0271-A9B9C9533A46"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T22:03:33Z",
+                    "location": {
+                        "id": "5223"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "7dfd7a75864c4a2d9919e9338b0d46d3",
+                    "name": "Quadro Clínico",
+                    "is_master": false,
+                    "master_id": "f63cf473472443878cfa67f940878c94",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Manifestações Clínicas De Influenza[$$]Quadro Clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b01b60a672df4965a889ef446cda5671",
+                    "name": "Pneumologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Pneumologia ",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "ee3e83b74e294e5596c556db71c65d7f",
+                    "name": "Complicações",
+                    "is_master": false,
+                    "master_id": "f63cf473472443878cfa67f940878c94",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Manifestações Clínicas De Influenza[$$]Complicações",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "f63cf473472443878cfa67f940878c94",
+                    "name": "Manifestações Clínicas De Influenza",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Manifestações Clínicas De Influenza",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "79427aad-6f4e-404d-97a9-f9ffef42196a",
+                    "position": "0",
+                    "body": "Febre (&gt;38°C) e história de viagem há 10 dias ou menos a uma área afetada.",
+                    "sanitized_body": "Febre (&gt;38°C) e história de viagem há 10 dias ou menos a uma área afetada.",
+                    "correct": false,
+                    "created_at": "2020-09-16 21:36:54.214808 +0000 UTC",
+                    "updated_at": "2021-01-06 17:19:11.055433 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A.\tCorreta. Febre é um dos critérios para SG / SRAG.",
+                        "sanitized_complete": "A.\tCorreta. Febre é um dos critérios para SG / SRAG.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-06 17:19:12.475029 +0000 UTC",
+                        "updated_at": "2021-01-11 14:18:36.742234 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 11
+                },
+                {
+                    "id": "7be2cea9-53ab-43c0-a6ee-3110f9e826f8",
+                    "position": "1",
+                    "body": "Residência em áreas afetadas e radiografia de tórax com infiltrado compatível com pneumonia.&nbsp;",
+                    "sanitized_body": "Residência em áreas afetadas e radiografia de tórax com infiltrado compatível com pneumonia. ",
+                    "correct": false,
+                    "created_at": "2020-09-16 21:36:54.214808 +0000 UTC",
+                    "updated_at": "2021-01-06 17:19:11.106079 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "B.\tCorreta. Futuro residente, diversas vezes nos depararemos com alternativas duvidosas, como essa. Veja que de acordo com a definição do MS de 2018, não é necessária a radiografia de tórax e, mesmo que fosse, o padrão seria de opacidades alveolares bilaterais, não compatível com pneumonia. Entretanto, na definição antiga, era critério. Mas veja a alternativa “C” e repare que rouquidão não entra como critério nem para SG nem para SRAG.&nbsp;",
+                        "sanitized_complete": "B.\tCorreta. Futuro residente, diversas vezes nos depararemos com alternativas duvidosas, como essa. Veja que de acordo com a definição do MS de 2018, não é necessária a radiografia de tórax e, mesmo que fosse, o padrão seria de opacidades alveolares bilaterais, não compatível com pneumonia. Entretanto, na definição antiga, era critério. Mas veja a alternativa “C” e repare que rouquidão não entra como critério nem para SG nem para SRAG. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-06 17:19:12.489043 +0000 UTC",
+                        "updated_at": "2021-01-11 14:18:36.737778 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 14
+                },
+                {
+                    "id": "7ba90472-bfa2-4eb8-a091-bf6d117be2a7",
+                    "position": "2",
+                    "body": "Residência em áreas afetadas e rouquidão há mais de 10 dias.",
+                    "sanitized_body": "Residência em áreas afetadas e rouquidão há mais de 10 dias.",
+                    "correct": true,
+                    "created_at": "2020-09-16 21:36:54.214808 +0000 UTC",
+                    "updated_at": "2021-01-06 17:19:11.155265 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Observe que tal alternativa é a mais incorreta, quando comparada com a alternativa “B”.",
+                        "sanitized_complete": "Incorreta. Observe que tal alternativa é a mais incorreta, quando comparada com a alternativa “B”.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-06 17:19:12.48731 +0000 UTC",
+                        "updated_at": "2021-01-11 14:18:36.750694 +0000 UTC"
+                    },
+                    "answer_percentage": 60,
+                    "answers": 49
+                },
+                {
+                    "id": "01c3e98d-4dab-436b-8b75-a2ff3399303d",
+                    "position": "3",
+                    "body": "Residência em áreas afetadas e febre (&gt;38°C) e tosse.",
+                    "sanitized_body": "Residência em áreas afetadas e febre (&gt;38°C) e tosse.",
+                    "correct": false,
+                    "created_at": "2020-09-16 21:36:54.214808 +0000 UTC",
+                    "updated_at": "2021-01-06 17:19:11.212891 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "D.\tCorreta. Febre é um dos requisitos da SG.",
+                        "sanitized_complete": "D.\tCorreta. Febre é um dos requisitos da SG.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-06 17:19:12.475277 +0000 UTC",
+                        "updated_at": "2021-01-11 14:18:36.752378 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A síndrome respiratória auda grave (SARS, do inglês Severe Acute Respiratory Syndrome), uma pneumonia atípica grave, transmissível para contactantes próximos. Doença de notificação compulsória imediata. Deve ser considerado caso suspeito o paciente que apresentar dificuldade respiratória (taquipneia, dispneia) e uma ou mais das seguintes condições, EXCETO:",
+            "statement_text": "A síndrome respiratória auda grave (SARS, do inglês Severe Acute Respiratory Syndrome), uma pneumonia atípica grave, transmissível para contactantes próximos. Doença de notificação compulsória imediata. Deve ser considerado caso suspeito o paciente que apresentar dificuldade respiratória (taquipneia, dispneia) e uma ou mais das seguintes condições, EXCETO:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "deborahcdireito@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 21:36:54.214808 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><div><br></div>Estrategista, de acordo com as definições de Síndrome Gripal (SG) preconizadas pelo Ministério da Saúde (MS) em 2018, na ausência de outro diagnóstico específico, devemos considerar o paciente com febre, de início súbito, mesmo que referida, acompanhada de tosse ou dor de garganta e pelo menos um dos sintomas: mialgia, cefaleia ou artralgia.<div><br></div><div>A partir de então, posto que o paciente apresenta SG, o próximo passo é verificar se o paciente apresenta SINAIS DE GRAVIDADE. Quais são eles?</div><div><br></div><div>•\tDispneia (já citado no enunciado)</div><div>•\tDesconforto respiratório</div><div>•\tSaturação de Oxigênio (SpO2) menor que 95% ou</div><div>•\tExacerbação de doença preexistente.</div><div><br></div><div>Se sim para algum dos sinais, o paciente é considerado como portador da Síndrome Respiratória Aguda Grave (SRAG). Futuro residente, cuidado para não confundir com Síndrome do Desconforto Respiratório Agudo (SDRA), uma entidade clínica separada.</div><div><br></div><div>As indicações de internação de SRAG em leito em Unidade de Terapia Intensiva (UTI) são:</div><div><br></div><div>•\tChoque</div><div>•\tDisfunção orgânica</div><div>•\tInstabilidade hemodinâmica ou&nbsp;</div><div>•\tInsuficiência respiratória</div><div><br></div><div>De posse de tais conhecimentos, vamos avaliar as alternativas – observe que viagem ou residência em uma área afetada está presente em todas as alternativas:<br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CEstrategista, de acordo com as definições de Síndrome Gripal (SG) preconizadas pelo Ministério da Saúde (MS) em 2018, na ausência de outro diagnóstico específico, devemos considerar o paciente com febre, de início súbito, mesmo que referida, acompanhada de tosse ou dor de garganta e pelo menos um dos sintomas: mialgia, cefaleia ou artralgia.A partir de então, posto que o paciente apresenta SG, o próximo passo é verificar se o paciente apresenta SINAIS DE GRAVIDADE. Quais são eles?•\tDispneia (já citado no enunciado)•\tDesconforto respiratório•\tSaturação de Oxigênio (SpO2) menor que 95% ou•\tExacerbação de doença preexistente.Se sim para algum dos sinais, o paciente é considerado como portador da Síndrome Respiratória Aguda Grave (SRAG). Futuro residente, cuidado para não confundir com Síndrome do Desconforto Respiratório Agudo (SDRA), uma entidade clínica separada.As indicações de internação de SRAG em leito em Unidade de Terapia Intensiva (UTI) são:•\tChoque•\tDisfunção orgânica•\tInstabilidade hemodinâmica ou •\tInsuficiência respiratóriaDe posse de tais conhecimentos, vamos avaliar as alternativas – observe que viagem ou residência em uma área afetada está presente em todas as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                "author_profile": {
+                    "id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                    "full_name": "Ricardo Siufi",
+                    "avatar_url": "https://static.accounts.estrategia.com/3b65183b80e79351bb91557df65122fe",
+                    "about_me": "Formado em Medicina na Universidade Federal do Triângulo Mineiro (UFTM) em 2012, residência em Clínica Médica, Pneumologia e Mestrado em Ciências pela Universidade Estadual de Campinas (Unicamp). Atualmente, ocupa os cargos de Professor de Pneumologia - Estratégia Med, Médico Colaborador na Disciplina de Pneumologia - Unicamp e Docente em Pneumologia - Faculdade São Leopoldo Mandic, além de cursar MBA Executivo - Gestão em Saúde no Hospital Israelita Albert Einstein (HIAE)\n\nwww.linkedin.cominricardo-siufi-900883164\n\n?igshid=339wpg7npjah",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/pneumologinsta",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucyuycsikwcx1nomrxgkscca",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-01-06 17:19:12.533926 +0000 UTC",
+                "updated_at": "2021-01-11 14:18:36.892369 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000099114",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "21CA9189-C016-84DB-36D8-804ED8FD5C26"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-06T18:21:03Z",
+                    "updated_at": "2020-11-26T10:54:00Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "214a8b48715848df92db40e8cf1c5771",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "5c14731e-519c-4893-b10e-ff12ce616c0d",
+                    "position": "0",
+                    "body": "1, 3 e 5.&nbsp;",
+                    "sanitized_body": "1, 3 e 5. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:00:02.999775 +0000 UTC",
+                    "updated_at": "2020-11-19 22:08:09.141356 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque inclui o caso 5, que apresenta um exantema sugerindo outras hipóteses diagnósticas para o quadro febril e o caso 3, que não apresenta nenhuma condição relacionada a risco de complicações em influenza. Para este caso de síndrome gripal sem fatores de risco o protocolo do Ministério da Saúde prevê a prescrição conforme julgamento clínico do médico assistente.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque inclui o caso 5, que apresenta um exantema sugerindo outras hipóteses diagnósticas para o quadro febril e o caso 3, que não apresenta nenhuma condição relacionada a risco de complicações em influenza. Para este caso de síndrome gripal sem fatores de risco o protocolo do Ministério da Saúde prevê a prescrição conforme julgamento clínico do médico assistente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:14:11.538958 +0000 UTC",
+                        "updated_at": "2020-11-19 14:47:24.16381 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 12
+                },
+                {
+                    "id": "4e2f7781-e69b-41bd-bf7e-84a398db16a5",
+                    "position": "1",
+                    "body": "2, 3 e 5.&nbsp;",
+                    "sanitized_body": "2, 3 e 5. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:00:02.999775 +0000 UTC",
+                    "updated_at": "2020-11-19 22:08:09.191912 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque inclui o caso 5 e 3, que não tem indicação de oseltamivir pelos motivos explicitados.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque inclui o caso 5 e 3, que não tem indicação de oseltamivir pelos motivos explicitados.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:14:11.538665 +0000 UTC",
+                        "updated_at": "2020-11-19 14:47:24.175938 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 13
+                },
+                {
+                    "id": "c4952d44-5b5d-4779-9473-435ebb3247ec",
+                    "position": "2",
+                    "body": "1, 2 e 4.&nbsp;",
+                    "sanitized_body": "1, 2 e 4. ",
+                    "correct": true,
+                    "created_at": "2020-09-15 19:00:02.999775 +0000 UTC",
+                    "updated_at": "2020-11-19 22:08:09.253283 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa C, porque apresentavam critérios de síndrome gripal e as seguintes condições consideradas<u> fatores de risco para complicações em influenza</u>, portanto, estando indicado o uso de oseltamivir: CASO 1 - nefropatia, que no caso correspondia síndrome <u>nefrótica</u>; CASO 2 – <u>transtorno neurológico e do </u>desenvolvimento que favoreça aspiração, o que inclui a síndrome de Down; CASO 4 – doença hematológica, o que inclui anemia falciforme (<b>A questão foi ADAPTADA para incluir febre no caso 1 e anemia falciforme no caso 4, permitindo uma melhor discussão do protocolo de influenza atualizado após essa prova</b>).",
+                        "sanitized_complete": "Correta a alternativa C, porque apresentavam critérios de síndrome gripal e as seguintes condições consideradas fatores de risco para complicações em influenza, portanto, estando indicado o uso de oseltamivir: CASO 1 - nefropatia, que no caso correspondia síndrome nefrótica; CASO 2 – transtorno neurológico e do desenvolvimento que favoreça aspiração, o que inclui a síndrome de Down; CASO 4 – doença hematológica, o que inclui anemia falciforme (A questão foi ADAPTADA para incluir febre no caso 1 e anemia falciforme no caso 4, permitindo uma melhor discussão do protocolo de influenza atualizado após essa prova).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:14:11.53529 +0000 UTC",
+                        "updated_at": "2020-11-19 14:47:24.16195 +0000 UTC"
+                    },
+                    "answer_percentage": 82,
+                    "answers": 155
+                },
+                {
+                    "id": "88230c48-00cb-48e8-a216-3bf49f455ea8",
+                    "position": "3",
+                    "body": "3, 4 e 5.",
+                    "sanitized_body": "3, 4 e 5.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:00:02.999775 +0000 UTC",
+                    "updated_at": "2020-11-19 22:08:09.320983 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque inclui o caso 5 e 3, que não tem indicação de oseltamivir pelos motivos explicitados.<div><br></div><div><b>Tabela – Fatores de risco para complicações<br></b><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F1DBD4E1-1BEF-BB16-24CC-E69AA6C111A5/F1DBD4E1-1BEF-BB16-24CC-E69AA6C111A5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa D, porque inclui o caso 5 e 3, que não tem indicação de oseltamivir pelos motivos explicitados.Tabela – Fatores de risco para complicações",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:14:11.56008 +0000 UTC",
+                        "updated_at": "2020-11-19 14:47:24.180591 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 9
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em uma Unidade Básica de Saúde foram atendidos:<div><br></div><div>CASO 1: Menino, 8a, portador de síndrome nefrótica em uso de predinisona 10 mg/dia, refere febre, tosse coriza, mialgia e cafaleia há 36 horas;&nbsp;<div><br></div><div>CASO 2: Menina, 6a, portadora de síndrome de Down e hipotireoidismo, e a mãe conta tosse, febre, obstrução nasal e coriza, há 24 horas;&nbsp;</div><div><br></div><div>CASO 3: Menina, 9a, febre, tosse, cefaleia, coriza e artralgia há 24 horas;&nbsp;<div><br></div><div>CASO 4: Menino, 4a, portador de anemia falciforme, referindo tosse, cefaleia, artralgia e febre há 36 horas;</div><div><br></div><div>CASO 5: Menino 7a, com tosse, coriza, artralgia, exantema e febre há 30 horas.&nbsp;</div><div><br></div><div>A prescrição de oseltamivir é para os casos:&nbsp;</div></div></div>",
+            "statement_text": "Em uma Unidade Básica de Saúde foram atendidos:CASO 1: Menino, 8a, portador de síndrome nefrótica em uso de predinisona 10 mg/dia, refere febre, tosse coriza, mialgia e cafaleia há 36 horas; CASO 2: Menina, 6a, portadora de síndrome de Down e hipotireoidismo, e a mãe conta tosse, febre, obstrução nasal e coriza, há 24 horas; CASO 3: Menina, 9a, febre, tosse, cefaleia, coriza e artralgia há 24 horas; CASO 4: Menino, 4a, portador de anemia falciforme, referindo tosse, cefaleia, artralgia e febre há 36 horas;CASO 5: Menino 7a, com tosse, coriza, artralgia, exantema e febre há 30 horas. A prescrição de oseltamivir é para os casos: ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 19:00:02.999775 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>De acordo com o protocolo do ministério da Saúde, está indicado o uso do antiviral (oseltamivir) para todos os casos que preencham a definição de síndrome gripal e que tenham condições e fatores de risco para complicações (tabela resumida abaixo), independentemente da situação vacinal, mesmo em atendimento ambulatorial.&nbsp;</div><div><br></div><div>É considerado síndrome gripal em pacientes acima de 2 anos a presença de febre de início súbito, acompanhada de tosse ou dor de garganta e pelo menos um dos seguintes sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico específico. Para menores de 2 anos basta a presença de febre de início súbito e sintomas respiratórios (tosse, coriza e obstrução nasal), na ausência de outro diagnóstico específico.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CDe acordo com o protocolo do ministério da Saúde, está indicado o uso do antiviral (oseltamivir) para todos os casos que preencham a definição de síndrome gripal e que tenham condições e fatores de risco para complicações (tabela resumida abaixo), independentemente da situação vacinal, mesmo em atendimento ambulatorial. É considerado síndrome gripal em pacientes acima de 2 anos a presença de febre de início súbito, acompanhada de tosse ou dor de garganta e pelo menos um dos seguintes sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico específico. Para menores de 2 anos basta a presença de febre de início súbito e sintomas respiratórios (tosse, coriza e obstrução nasal), na ausência de outro diagnóstico específico.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 14:14:11.667622 +0000 UTC",
+                "updated_at": "2020-11-19 14:47:24.32984 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000086497",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "38ef9803-7b80-4cc7-8a67-fcb71d205731",
+                            "name": "RS - Associação Médica do Rio Grande do Sul - AMRIGS"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "EBB75CC4-DEB4-635B-609D-0A5F754E9306"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T20:40:18Z",
+                    "location": {
+                        "id": "24"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "214a8b48715848df92db40e8cf1c5771",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "e5130895-db70-42fe-8246-dc7f839d5e85",
+                    "position": "0",
+                    "body": "Apenas I e II.",
+                    "sanitized_body": "Apenas I e II.",
+                    "correct": false,
+                    "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+                    "updated_at": "2020-11-26 13:31:16.061339 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:27:09.436576 +0000 UTC",
+                        "updated_at": "2020-11-19 14:27:10.522712 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 21
+                },
+                {
+                    "id": "e11807ff-52d4-4942-90af-c4fbb4bf3ace",
+                    "position": "1",
+                    "body": "Apenas I e III.",
+                    "sanitized_body": "Apenas I e III.",
+                    "correct": false,
+                    "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+                    "updated_at": "2020-11-26 13:31:16.253054 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:27:09.442391 +0000 UTC",
+                        "updated_at": "2020-11-19 14:27:10.509597 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 28
+                },
+                {
+                    "id": "dc671d8c-53a0-4a9d-b029-0d371831fcd9",
+                    "position": "2",
+                    "body": "Apenas II e IV.",
+                    "sanitized_body": "Apenas II e IV.",
+                    "correct": false,
+                    "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+                    "updated_at": "2020-11-26 13:31:16.443519 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:27:09.450875 +0000 UTC",
+                        "updated_at": "2020-11-19 14:27:10.515074 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 7
+                },
+                {
+                    "id": "5f91e803-82a1-4a7c-bdce-0769c539cf33",
+                    "position": "3",
+                    "body": "Apenas I, II e III.",
+                    "sanitized_body": "Apenas I, II e III.",
+                    "correct": true,
+                    "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+                    "updated_at": "2020-11-26 13:31:16.674788 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:27:09.45167 +0000 UTC",
+                        "updated_at": "2020-11-19 14:27:10.512928 +0000 UTC"
+                    },
+                    "answer_percentage": 65,
+                    "answers": 162
+                },
+                {
+                    "id": "c59f4b36-ac06-4c73-9ca8-c4f8cc280a13",
+                    "position": "4",
+                    "body": "Apenas I, III e IV.",
+                    "sanitized_body": "Apenas I, III e IV.",
+                    "correct": false,
+                    "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+                    "updated_at": "2020-11-26 13:31:16.870074 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:27:09.45356 +0000 UTC",
+                        "updated_at": "2020-11-19 14:27:10.516053 +0000 UTC"
+                    },
+                    "answer_percentage": 13,
+                    "answers": 32
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em relação ao uso de Oseltamivir no tratamento da influenza, analise as seguintes assertivas:<div><br></div><div>I. A droga deve ser prescrita na dose de 75 mg 2x/dia por 5 dias.</div><div><br></div><div>II. Náuseas e vômitos podem ser minimizados se a droga for ingerida com a alimentação.</div><div><br></div><div>III. Reduz a duração dos sintomas nos casos de Influenza não complicada e, se iniciado dentro de 2 dias, do início dos sintomas.</div><div><br></div><div>IV. Tem sido associado a alterações psiquiátricas em pacientes com mais de 70 anos.</div><div><br></div><div>Quais estão CORRETAS?</div>",
+            "statement_text": "Em relação ao uso de Oseltamivir no tratamento da influenza, analise as seguintes assertivas:I. A droga deve ser prescrita na dose de 75 mg 2x/dia por 5 dias.II. Náuseas e vômitos podem ser minimizados se a droga for ingerida com a alimentação.III. Reduz a duração dos sintomas nos casos de Influenza não complicada e, se iniciado dentro de 2 dias, do início dos sintomas.IV. Tem sido associado a alterações psiquiátricas em pacientes com mais de 70 anos.Quais estão CORRETAS?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "purezathiago@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 22:03:25.668957 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>De acordo com o protocolo do ministério da Saúde, está indicado o uso do antiviral oseltamivir para todos os casos que preencham a definição de síndrome gripal e que tenham condições e fatores de risco para complicações (tabela resumida abaixo), independentemente da situação vacinal, mesmo em atendimento ambulatorial.&nbsp;</div><div><br></div><div>É considerada síndrome gripal em pacientes acima de 2 anos a presença de febre de início súbito, acompanhada de tosse ou dor de garganta e pelo menos um dos seguintes sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico específico.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AC39329F-FE37-578E-628E-D8D77FA6CCCD/AC39329F-FE37-578E-628E-D8D77FA6CCCD-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><b><br></b></div><div><b>Afirmativa I está correta</b>, porque a dose preconizada do oseltamivir para tratamento é 75 mg, VO, 12/12h por 5 dias. <i>Atenção! É importante lembrar que a posologia desse antiviral para a quimioprofilaxia é diferente da dose de tratamento e consiste em 75 mg/dia por 10 dias.</i></div><div><br></div><div><b>Afirmativa II está correta</b>, porque náuseas e vômitos são os eventos adversos mais frequentes relacionados ao uso de oseltamivir e podem ser prevenidos se administrado com alimentos. Ocorre em aproximadamente 15% dos pacientes, a apresentação normalmente é branda e mais frequente nos primeiros dois dias de tratamento.</div><div><br></div><div><b>Afirmativa III está correta</b>, porque o tratamento com os inibidores de neuraminidase (oseltamivir ou zanamivir) instituído, de maneira precoce, pode reduzir a duração dos sintomas e, principalmente, a redução da ocorrência de complicações da infecção pelo vírus influenza. Há evidências mostrando um maior benefício clínico quando o oseltamivir é iniciado até 48 horas do início dos sintomas. <i>Por outro lado, alguns estudos sugerem que esse antiviral pode ainda ser benéfico para pacientes hospitalizados, com fatores de risco para complicação ou sintomas moderados/graves, se iniciado até quatro a cinco dias após o início do quadro clínico.</i></div><div><br></div><div><b>Afirmativa IV está incorreta,</b> porque os relatos de eventos adversos neuropsiquiátricos (delirium, alucinações, confusão mental, alterações comportamentais, encefalite e convulsões) são raros, porém mais frequentes em crianças e não em idosos. Há mais relatos no Japão onde o uso de antivirais é disseminado.&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DDe acordo com o protocolo do ministério da Saúde, está indicado o uso do antiviral oseltamivir para todos os casos que preencham a definição de síndrome gripal e que tenham condições e fatores de risco para complicações (tabela resumida abaixo), independentemente da situação vacinal, mesmo em atendimento ambulatorial. É considerada síndrome gripal em pacientes acima de 2 anos a presença de febre de início súbito, acompanhada de tosse ou dor de garganta e pelo menos um dos seguintes sintomas: cefaleia, mialgia ou artralgia, na ausência de outro diagnóstico específico.Afirmativa I está correta, porque a dose preconizada do oseltamivir para tratamento é 75 mg, VO, 12/12h por 5 dias. Atenção! É importante lembrar que a posologia desse antiviral para a quimioprofilaxia é diferente da dose de tratamento e consiste em 75 mg/dia por 10 dias.Afirmativa II está correta, porque náuseas e vômitos são os eventos adversos mais frequentes relacionados ao uso de oseltamivir e podem ser prevenidos se administrado com alimentos. Ocorre em aproximadamente 15% dos pacientes, a apresentação normalmente é branda e mais frequente nos primeiros dois dias de tratamento.Afirmativa III está correta, porque o tratamento com os inibidores de neuraminidase (oseltamivir ou zanamivir) instituído, de maneira precoce, pode reduzir a duração dos sintomas e, principalmente, a redução da ocorrência de complicações da infecção pelo vírus influenza. Há evidências mostrando um maior benefício clínico quando o oseltamivir é iniciado até 48 horas do início dos sintomas. Por outro lado, alguns estudos sugerem que esse antiviral pode ainda ser benéfico para pacientes hospitalizados, com fatores de risco para complicação ou sintomas moderados/graves, se iniciado até quatro a cinco dias após o início do quadro clínico.Afirmativa IV está incorreta, porque os relatos de eventos adversos neuropsiquiátricos (delirium, alucinações, confusão mental, alterações comportamentais, encefalite e convulsões) são raros, porém mais frequentes em crianças e não em idosos. Há mais relatos no Japão onde o uso de antivirais é disseminado. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 14:27:09.575833 +0000 UTC",
+                "updated_at": "2020-11-19 14:27:10.562355 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000023306",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "6eea706a-42c1-4b98-aeae-dde61a733cae",
+                            "name": "GO - Secretaria de Estado da Saúde de Goiás - SES GO"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "10820455-3DFF-5293-89C3-987574025669"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T20:52:50Z",
+                    "location": {
+                        "id": "10"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "cc90551e34364a968d4956c65362c07f",
+                    "name": "Calendário vacinal em adultos e idosos",
+                    "is_master": false,
+                    "master_id": "8ad0f3cc70cb4b3b862f4f378ed5626f",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Vacinas[$$]Calendário vacinal em adultos e idosos",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "a2df7e8c-f8ed-4ce0-912e-09838401636f",
+                    "position": "0",
+                    "body": "Prescrever 3 doses de hepatite B, 1 dose de dT e orientar vacinação anual anti- influenza.",
+                    "sanitized_body": "Prescrever 3 doses de hepatite B, 1 dose de dT e orientar vacinação anual anti- influenza.",
+                    "correct": false,
+                    "created_at": "2020-09-10 19:42:01.865133 +0000 UTC",
+                    "updated_at": "2020-11-10 21:37:11.843985 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"a\". Para a hepatite B, ele só precisa de só mais 1 dose.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;a&#34;. Para a hepatite B, ele só precisa de só mais 1 dose.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 14:06:27.197388 +0000 UTC",
+                        "updated_at": "2020-10-14 14:06:32.871408 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 22
+                },
+                {
+                    "id": "bfe3b2ce-2863-47e0-b471-deb17f1f3971",
+                    "position": "1",
+                    "body": "Prescrever 1 dose de hepatite B, 1 dose de T T, 1 dose de tríplice viral e orientar vacinação anual anti-influenza.&nbsp;",
+                    "sanitized_body": "Prescrever 1 dose de hepatite B, 1 dose de T T, 1 dose de tríplice viral e orientar vacinação anual anti-influenza. ",
+                    "correct": true,
+                    "created_at": "2020-09-10 19:42:01.865133 +0000 UTC",
+                    "updated_at": "2020-11-10 21:37:11.970481 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "63b98af675f74f8aacdc3b8b82c5a746",
+                            "name": "Indicação",
+                            "is_master": false,
+                            "master_id": "606d0fd4080b4604bf17666b39f82318",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Vacinas contra sarampo, caxumba, rubéola e varicela[$$]Vacina Tríplice Viral[$$]Indicação",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "b0313d600fc64390b36a49139dca97a3",
+                            "name": "Indicações",
+                            "is_master": false,
+                            "master_id": "fda523f6274c409b80c2fdd5509b9a3c",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Vacina contra influenza[$$]Indicações",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "debe58ec62664506ac6ec2dd27aa52e9",
+                            "name": "Indicações",
+                            "is_master": false,
+                            "master_id": "cefa7b48e35546a1ae40c7aa6f228145",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Vacina contra hepatite B[$$]Indicações",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "ecef6c8751984033b5684c3cbf935efd",
+                            "name": "Imunização",
+                            "is_master": false,
+                            "master_id": "214a8b48715848df92db40e8cf1c5771",
+                            "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Tratamento[$$]Imunização",
+                            "has_children": false,
+                            "nodes": null
+                        },
+                        {
+                            "id": "fea85f87ad7a4a4f99370979f22454e7",
+                            "name": "Vacinação ",
+                            "is_master": false,
+                            "master_id": "3754175a281740ee81d1355839716ce1",
+                            "path": "Clínica Médica[$$]Hepatologia [$$]Hepatites Virais[$$]Hepatite B [$$]Vacinação ",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Correta a alternativa \"b\". O paciente deve receber mais 1 dose da vacina contra a hepatite B, reforço da vacina anti-tetânica, dose única da tríplice viral e orientar vacinação anual contra influenza.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Correta a alternativa &#34;b&#34;. O paciente deve receber mais 1 dose da vacina contra a hepatite B, reforço da vacina anti-tetânica, dose única da tríplice viral e orientar vacinação anual contra influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 14:06:27.197706 +0000 UTC",
+                        "updated_at": "2020-10-14 14:06:32.883825 +0000 UTC"
+                    },
+                    "answer_percentage": 50,
+                    "answers": 122
+                },
+                {
+                    "id": "80464f8f-f398-4e10-8cc2-e85823cd5264",
+                    "position": "2",
+                    "body": "Prescrever 1 dose de hepatite B, 1 dose de DTP e orientar vacinação anual anti- influenza.",
+                    "sanitized_body": "Prescrever 1 dose de hepatite B, 1 dose de DTP e orientar vacinação anual anti- influenza.",
+                    "correct": false,
+                    "created_at": "2020-09-10 19:42:01.865133 +0000 UTC",
+                    "updated_at": "2020-11-10 21:37:12.099822 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\". A vacina contra o pertussis (DTP) não é necessária nos adultos. Além disso, o paciente deve receber uma dose contra a tríplice viral.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34;. A vacina contra o pertussis (DTP) não é necessária nos adultos. Além disso, o paciente deve receber uma dose contra a tríplice viral.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 14:06:27.20532 +0000 UTC",
+                        "updated_at": "2020-10-14 14:06:32.889646 +0000 UTC"
+                    },
+                    "answer_percentage": 30,
+                    "answers": 72
+                },
+                {
+                    "id": "c3fb4bdb-e380-4cc1-b1c2-274bfb26750c",
+                    "position": "3",
+                    "body": "Solicitar anti-HBs para avaliar imunidade contra hepatite B, orientar 1 dose de T T e vacinação anual anti-influenza.&nbsp;&nbsp;",
+                    "sanitized_body": "Solicitar anti-HBs para avaliar imunidade contra hepatite B, orientar 1 dose de T T e vacinação anual anti-influenza.  ",
+                    "correct": false,
+                    "created_at": "2020-09-10 19:42:01.865133 +0000 UTC",
+                    "updated_at": "2020-11-10 21:37:12.225264 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "3824c59b5c824bc7ad27ef27cd3fff4d",
+                            "name": "dT - Dupla bacteriana adulta",
+                            "is_master": false,
+                            "master_id": "264cb8eaf9b748aa859e9d159c4eecdb",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Família DTP[$$]dT - Dupla bacteriana adulta",
+                            "has_children": true,
+                            "nodes": null
+                        },
+                        {
+                            "id": "4a1fa0a2e8f6498588152fd8a5080c5f",
+                            "name": "dTpa - Tríplice bacteriana adulta acelular ",
+                            "is_master": false,
+                            "master_id": "264cb8eaf9b748aa859e9d159c4eecdb",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Família DTP[$$]dTpa - Tríplice bacteriana adulta acelular ",
+                            "has_children": true,
+                            "nodes": null
+                        },
+                        {
+                            "id": "6e01aade7c614aecb2998a722373016f",
+                            "name": "Tétano",
+                            "is_master": false,
+                            "master_id": "264cb8eaf9b748aa859e9d159c4eecdb",
+                            "path": "Pediatria[$$]Puericultura [$$]Imunizações/Vacinação [$$]Família DTP[$$]Tétano",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "<div>Incorreta a alternativa \"d\". Não é necessário solicitar a sorologia para hepatite B antes de completar o esquema vacinal. Além disso, o paciente deve receber uma dose contra a tríplice viral.<br></div><div><br></div><div>Gabarito: alternativa “b”.</div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34;. Não é necessário solicitar a sorologia para hepatite B antes de completar o esquema vacinal. Além disso, o paciente deve receber uma dose contra a tríplice viral.Gabarito: alternativa “b”.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 14:06:27.197389 +0000 UTC",
+                        "updated_at": "2020-10-14 14:06:32.874082 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 26
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente de 35 anos, sem comorbidades, procura o posto de saúde para atualizar suas vacinas. Em seu cartão de vacinação há registro das seguintes doses: (VER IMAGEM) Considerando as recomendações do Ministério da Saúde, qual é a conduta adequada?&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/E698504B-2147-C129-3D04-16D5781A0627/E698504B-2147-C129-3D04-16D5781A0627-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+            "statement_text": "Paciente de 35 anos, sem comorbidades, procura o posto de saúde para atualizar suas vacinas. Em seu cartão de vacinação há registro das seguintes doses: (VER IMAGEM) Considerando as recomendações do Ministério da Saúde, qual é a conduta adequada? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "eduderossi@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 19:42:01.865133 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>O ministério da saúde recomenda para indivíduos entre 20 a 59 anos as seguintes vacinas:<div><br></div><div>- Hepatite B - 3 doses;</div><div>- Febre amarela - dose única na vida (verificar situação vacinal);</div><div>- Tríplice viral - 2 doses de 20 a 29 anos e 1 dose se entre 30 a 49 anos;</div><div>- Dupla adulto ou contra o tétano – reforço a cada 10 anos.</div><div>- Vacina anual contra influenza é indicada, porém o ministério da saúde prioriza certos grupos como: gestantes, puérperas, profissionais de saúde, professores, povos indígenas,  população privada de liberdade e pessoas com doenças crônicas não transmissíveis.&nbsp;</div><div>&nbsp;</div><div>Ao analisarmos o cartão vacinal do paciente, devemos indicar 1 dose da vacina contra a hepatite B, não é necessário novas doses contra a febre amarela e indicar reforço da dupla adulto. Ele não tem&nbsp;</div><div><br></div><div><br></div></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BO ministério da saúde recomenda para indivíduos entre 20 a 59 anos as seguintes vacinas:- Hepatite B - 3 doses;- Febre amarela - dose única na vida (verificar situação vacinal);- Tríplice viral - 2 doses de 20 a 29 anos e 1 dose se entre 30 a 49 anos;- Dupla adulto ou contra o tétano – reforço a cada 10 anos.- Vacina anual contra influenza é indicada, porém o ministério da saúde prioriza certos grupos como: gestantes, puérperas, profissionais de saúde, professores, povos indígenas,  população privada de liberdade e pessoas com doenças crônicas não transmissíveis.  Ao analisarmos o cartão vacinal do paciente, devemos indicar 1 dose da vacina contra a hepatite B, não é necessário novas doses contra a febre amarela e indicar reforço da dupla adulto. Ele não tem ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-14 14:06:27.402771 +0000 UTC",
+                "updated_at": "2020-10-14 14:06:33.063894 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000023306-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000017245",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "06a40386-1ed7-4afc-a6b9-fe8ec9509d90",
+                            "name": "ES - Universidade Federal do Espírito Santo - UFES (Hospital Universitário Cassiano Antônio de Moraes - HUCAM)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "45DEBB71-B5C8-B810-B919-C1F05AFF4176"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T19:14:08Z",
+                    "updated_at": "2020-11-26T10:15:21Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "214a8b48715848df92db40e8cf1c5771",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "c05633a14b814b5ab49cc991c64ac08f",
+                    "name": "Obstetrícia",
+                    "is_master": true,
+                    "path": "Obstetrícia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f4bce6ea-e50b-43b8-8901-2e446dcb1f08",
+                    "position": "0",
+                    "body": "Aciclovir.",
+                    "sanitized_body": "Aciclovir.",
+                    "correct": false,
+                    "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+                    "updated_at": "2020-11-23 14:50:24.142636 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque o aciclovir é um antiviral indicado para herpes simples tipo 1 e 2, e herpes-zoster, não tendo ação contra influenza.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque o aciclovir é um antiviral indicado para herpes simples tipo 1 e 2, e herpes-zoster, não tendo ação contra influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:28:39.349606 +0000 UTC",
+                        "updated_at": "2020-11-19 14:28:40.92177 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                },
+                {
+                    "id": "416a179e-cba0-41d5-8514-c4aecb322cb8",
+                    "position": "1",
+                    "body": "Fanciclovir.&nbsp;",
+                    "sanitized_body": "Fanciclovir. ",
+                    "correct": false,
+                    "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+                    "updated_at": "2020-11-23 14:50:29.366575 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque o famciclovir é um antiviral com ação para herpes simples tipo 1 e 2, e herpes-zoster, mas não para influenza.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque o famciclovir é um antiviral com ação para herpes simples tipo 1 e 2, e herpes-zoster, mas não para influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:28:39.336961 +0000 UTC",
+                        "updated_at": "2020-11-19 14:28:40.927682 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "b77dc394-8559-4888-80b2-937c115537fb",
+                    "position": "2",
+                    "body": "Ganciclovir.",
+                    "sanitized_body": "Ganciclovir.",
+                    "correct": false,
+                    "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+                    "updated_at": "2020-11-23 14:50:29.452209 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque o ganciclovir é indicado para o tratamento de citomegalovírus, não tendo ação contra influenza.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque o ganciclovir é indicado para o tratamento de citomegalovírus, não tendo ação contra influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:28:39.34681 +0000 UTC",
+                        "updated_at": "2020-11-19 14:28:40.930261 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                },
+                {
+                    "id": "f2756dcc-41ac-4842-a155-d3d44c809318",
+                    "position": "3",
+                    "body": "Oseltamivir.",
+                    "sanitized_body": "Oseltamivir.",
+                    "correct": true,
+                    "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+                    "updated_at": "2020-11-23 14:50:31.002827 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa D, porque oseltamivir é o antiviral da classe dos inibidores de neuraminidase com maior experiência de uso em gestantes. Esse fármaco apresenta boa absorção sistêmica e uma taxa de resistência baixa dentre as cepas circulantes de influenza.",
+                        "sanitized_complete": "Correta a alternativa D, porque oseltamivir é o antiviral da classe dos inibidores de neuraminidase com maior experiência de uso em gestantes. Esse fármaco apresenta boa absorção sistêmica e uma taxa de resistência baixa dentre as cepas circulantes de influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:28:39.352687 +0000 UTC",
+                        "updated_at": "2020-11-19 14:28:40.938086 +0000 UTC"
+                    },
+                    "answer_percentage": 96,
+                    "answers": 156
+                },
+                {
+                    "id": "8d7b141d-804c-4b4b-9ad4-460a4a7d324e",
+                    "position": "4",
+                    "body": "Zidovudina.&nbsp;",
+                    "sanitized_body": "Zidovudina. ",
+                    "correct": false,
+                    "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+                    "updated_at": "2020-11-23 14:50:31.098898 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E, porque a zidovudina (AZT) é um antirretroviral que faz parte do protocolo de tratamento de pessoas vivendo com HIV/Aids, mas não tem ação contra influenza.",
+                        "sanitized_complete": "Incorreta a alternativa E, porque a zidovudina (AZT) é um antirretroviral que faz parte do protocolo de tratamento de pessoas vivendo com HIV/Aids, mas não tem ação contra influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 14:28:39.334714 +0000 UTC",
+                        "updated_at": "2020-11-19 14:28:40.928313 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Para gestantes com suspeita ou confirmação de infecção por influenza sazonal (H1N1) qual é o tratamento antiviral recomendado?&nbsp;",
+            "statement_text": "Para gestantes com suspeita ou confirmação de infecção por influenza sazonal (H1N1) qual é o tratamento antiviral recomendado? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "lamaral@admin.admin",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 14:42:45.48075 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Caro estrategista, a banca aborda nessa questão o tratamento de influenza em gestantes. Esse é um tema importante, porque sabidamente esse grupo apresenta um maior risco de complicações e de óbito do que a população geral.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DCaro estrategista, a banca aborda nessa questão o tratamento de influenza em gestantes. Esse é um tema importante, porque sabidamente esse grupo apresenta um maior risco de complicações e de óbito do que a população geral.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 14:28:39.427533 +0000 UTC",
+                "updated_at": "2020-11-19 14:28:41.001303 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000129257",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "e66ecf06c537478eb27997d779e8d614",
+                    "name": "Influenza Em Gestantes",
+                    "is_master": false,
+                    "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Influenza Em Gestantes",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "27343894-8b39-46e5-a131-35d778e229be",
+                    "position": "0",
+                    "body": "Encaminhar a paciente para internação hospitalar.<div>&nbsp;&nbsp;</div>",
+                    "sanitized_body": "Encaminhar a paciente para internação hospitalar.  ",
+                    "correct": true,
+                    "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+                    "updated_at": "2021-07-18 15:17:30.264569 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A alternativa A está correta, pois trata-se de uma síndrome respiratória aguda grave e a paciente deve ser internada, com cobertura para influenza (oseltamivir) e infecção bacteriana (combinação de cefalosporina de 3ª geração e macrolídeo) simultaneamente, pela dificuldade de se diferenciar esses agentes etiológicos na avaliação inicial e pela possibilidade de coinfecção.<div><div><br></div><div>No Brasil, recomenda-se a notificação de todo caso de síndrome respiratória aguda grave.</div></div>",
+                        "sanitized_complete": "A alternativa A está correta, pois trata-se de uma síndrome respiratória aguda grave e a paciente deve ser internada, com cobertura para influenza (oseltamivir) e infecção bacteriana (combinação de cefalosporina de 3ª geração e macrolídeo) simultaneamente, pela dificuldade de se diferenciar esses agentes etiológicos na avaliação inicial e pela possibilidade de coinfecção.No Brasil, recomenda-se a notificação de todo caso de síndrome respiratória aguda grave.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                        "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                        "author_profile": null,
+                        "created_at": "2021-07-25 06:52:02.609092 +0000 UTC",
+                        "updated_at": "2021-07-25 07:08:20.022759 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 352
+                },
+                {
+                    "id": "b86f09c1-a89e-451d-b7b0-eeaddbb05e2b",
+                    "position": "1",
+                    "body": "Solicitar hemograma completo e radiografia de tórax com urgência.<div>&nbsp;</div>",
+                    "sanitized_body": "Solicitar hemograma completo e radiografia de tórax com urgência. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+                    "updated_at": "2021-07-18 15:17:30.322861 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A alternativa B está incorreta, pois o hemograma não define conduta nesse caso.<div><br></div><div>Radiografia de tórax deve ser realizada, com proteção abdominal.</div>",
+                        "sanitized_complete": "A alternativa B está incorreta, pois o hemograma não define conduta nesse caso.Radiografia de tórax deve ser realizada, com proteção abdominal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                        "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                        "author_profile": null,
+                        "created_at": "2021-07-25 06:52:02.593003 +0000 UTC",
+                        "updated_at": "2021-07-25 07:08:19.967369 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 31
+                },
+                {
+                    "id": "8009f4df-7a94-428b-bf0b-3232ef8fa844",
+                    "position": "2",
+                    "body": "Orientar hidratação, prescrever paracetamol e solicitar retorno se piorar.<div>&nbsp;</div>",
+                    "sanitized_body": "Orientar hidratação, prescrever paracetamol e solicitar retorno se piorar. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+                    "updated_at": "2021-07-18 15:17:30.389818 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A alternativa C está incorreta, pois a paciente deve permanecer internada.",
+                        "sanitized_complete": "A alternativa C está incorreta, pois a paciente deve permanecer internada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                        "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                        "author_profile": null,
+                        "created_at": "2021-07-25 06:52:02.606411 +0000 UTC",
+                        "updated_at": "2021-07-25 07:08:20.057931 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 19
+                },
+                {
+                    "id": "4d6cd4da-5a34-4eb4-82c5-9abe58cd82e7",
+                    "position": "3",
+                    "body": "Solicitar hemograma completo, prescrever vitamina C, dipirona e nebulização.<div>&nbsp;</div>",
+                    "sanitized_body": "Solicitar hemograma completo, prescrever vitamina C, dipirona e nebulização. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+                    "updated_at": "2021-07-18 15:17:30.451238 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A alternativa D está incorreta, pois indica-se internação hospitalar com antiviral e antibioticoterapia na síndrome respiratória aguda grave.",
+                        "sanitized_complete": "A alternativa D está incorreta, pois indica-se internação hospitalar com antiviral e antibioticoterapia na síndrome respiratória aguda grave.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                        "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                        "author_profile": null,
+                        "created_at": "2021-07-25 06:52:02.595379 +0000 UTC",
+                        "updated_at": "2021-07-25 07:08:19.976521 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "0fc7018d-e648-4bfb-92ea-cbc1a3eaf466",
+                    "position": "4",
+                    "body": "Prescrever dipirona, nebulização sem uso de broncodilatador e reavaliar a paciente em 48 horas.",
+                    "sanitized_body": "Prescrever dipirona, nebulização sem uso de broncodilatador e reavaliar a paciente em 48 horas.",
+                    "correct": false,
+                    "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+                    "updated_at": "2021-07-18 15:17:30.518403 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A alternativa E está incorreta, pois está indicado internação hospitalar em uma síndrome respiratória aguda grave.",
+                        "sanitized_complete": "A alternativa E está incorreta, pois está indicado internação hospitalar em uma síndrome respiratória aguda grave.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                        "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                        "author_profile": null,
+                        "created_at": "2021-07-25 06:52:02.587591 +0000 UTC",
+                        "updated_at": "2021-07-25 07:08:19.958187 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 9
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma paciente de 25 anos de idade, com história obstétrica gesta = 1, para = 0, aborto = 0, com 28 semanas de idade gestacional, foi atendida na Unidade Básica de Saúde (UBS) referindo que há 2 dias está gripada e fez uso de medicação sintomática. Resolveu vir ao posto de saúde porque está tossindo muito. Ao ser realizado o exame físico, constatou-se: temperatura axilar = 38,1oC, frequência respiratória = 30 irpm, pressão arterial = 80 x 60 mmHg, normohidratada.<div><br></div><div>Qual é a abordagem adequada para o caso?</div><div>&nbsp;</div>",
+            "statement_text": "Uma paciente de 25 anos de idade, com história obstétrica gesta = 1, para = 0, aborto = 0, com 28 semanas de idade gestacional, foi atendida na Unidade Básica de Saúde (UBS) referindo que há 2 dias está gripada e fez uso de medicação sintomática. Resolveu vir ao posto de saúde porque está tossindo muito. Ao ser realizado o exame físico, constatou-se: temperatura axilar = 38,1oC, frequência respiratória = 30 irpm, pressão arterial = 80 x 60 mmHg, normohidratada.Qual é a abordagem adequada para o caso? ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "solution": {
+                "complete": "Caro(a) Estrategista, trata-se de uma gestante relatando que \"há 2 dias está gripada e fez uso de medicação sintomática\". No momento, tem tosse, febre (T = 38,1°C), taquipneia (FR = 30 ipm) e hipotensão arterial (80x60 mmHg). Diante do exposto, trata-se uma síndrome gripal, com sinais de gravidade. Portanto, uma síndrome respiratória aguda grave.<div><br></div><div>Vale destacar que a frequência respiratória da gestante é geralmente semelhante à da mulher não gestante e, sendo assim, deve-se considerar como sinal de gravidade a taquipneia apresentada pela paciente do caso clínico.</div><div><br></div><div>São considerados sinais de alarme em gestantes valores de frequência respiratória &gt; 20 ipm ou frequência cardíaca &gt; 100 bpm.&nbsp;</div>",
+                "sanitized_complete": "Caro(a) Estrategista, trata-se de uma gestante relatando que &#34;há 2 dias está gripada e fez uso de medicação sintomática&#34;. No momento, tem tosse, febre (T = 38,1°C), taquipneia (FR = 30 ipm) e hipotensão arterial (80x60 mmHg). Diante do exposto, trata-se uma síndrome gripal, com sinais de gravidade. Portanto, uma síndrome respiratória aguda grave.Vale destacar que a frequência respiratória da gestante é geralmente semelhante à da mulher não gestante e, sendo assim, deve-se considerar como sinal de gravidade a taquipneia apresentada pela paciente do caso clínico.São considerados sinais de alarme em gestantes valores de frequência respiratória &gt; 20 ipm ou frequência cardíaca &gt; 100 bpm. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+                "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+                "author_profile": {
+                    "id": "d191cae6-c811-4066-86cd-56cff476031a",
+                    "full_name": "Leonardo Weissmann",
+                    "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+                    "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia."
+                },
+                "created_at": "2021-07-25 06:52:02.674153 +0000 UTC",
+                "updated_at": "2021-07-25 07:08:20.131068 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 32
+    }
+}

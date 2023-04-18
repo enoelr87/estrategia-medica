@@ -1,0 +1,3010 @@
+{
+    "data": [
+        {
+            "id": "4000118004",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "7ccc1cea-63cd-47a4-81bf-9f4f93afb01f",
+                            "name": "PB - Universidade Federal de Campina Grande - UFCG (Hospital Universitário Alcides Carneiro - HUAC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "A9F6FFF1-2448-06AA-B25B-5147AC257531"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-03T22:39:22Z",
+                    "updated_at": "2021-01-19T01:39:00Z",
+                    "location": {
+                        "id": "2638"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "8002bdf191ef4e1fb00a2744f9c56fd6",
+                    "name": "Quadro Clínico",
+                    "is_master": false,
+                    "master_id": "98d460c312e84e59814a19da072646f6",
+                    "path": "Ginecologia[$$]Ginecologia geral[$$]Miomatose uterina[$$]Quadro Clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "82e42035706942f0a4b571288372bb7b",
+                    "name": "Leiomiomatose uterina",
+                    "is_master": false,
+                    "master_id": "4ae49d5305fe453cb57c9326f70a0cc5",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia[$$]Causas estruturais (PALM)[$$]Leiomiomatose uterina",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "db9a2ad0-884f-47a8-83e0-42d037f20028",
+                    "position": "0",
+                    "body": "Síndrome dos ovários policísticos.",
+                    "sanitized_body": "Síndrome dos ovários policísticos.",
+                    "correct": false,
+                    "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+                    "updated_at": "2020-11-13 14:22:48.532432 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque, em geral, a síndrome dos ovários policísticos cursa com amenorreia, e não sangramento uterino anormal.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque, em geral, a síndrome dos ovários policísticos cursa com amenorreia, e não sangramento uterino anormal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:32:19.155817 +0000 UTC",
+                        "updated_at": "2020-10-19 02:32:20.132014 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 13
+                },
+                {
+                    "id": "bb3b9722-1f60-48ef-af1d-4e5748d32137",
+                    "position": "1",
+                    "body": "Miomatose uterina.",
+                    "sanitized_body": "Miomatose uterina.",
+                    "correct": true,
+                    "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+                    "updated_at": "2020-11-13 14:22:48.572356 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B: a miomatose uterina é a causa mais frequente de SUA na faixa dos 40 anos de idade (perimenopausa).",
+                        "sanitized_complete": "Correta a alternativa B: a miomatose uterina é a causa mais frequente de SUA na faixa dos 40 anos de idade (perimenopausa).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:32:19.155802 +0000 UTC",
+                        "updated_at": "2020-10-19 02:32:20.137013 +0000 UTC"
+                    },
+                    "answer_percentage": 79,
+                    "answers": 461
+                },
+                {
+                    "id": "6aab25b7-f791-4279-945c-666126ba20c8",
+                    "position": "2",
+                    "body": "Pólipos endometriais.",
+                    "sanitized_body": "Pólipos endometriais.",
+                    "correct": false,
+                    "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+                    "updated_at": "2020-11-13 14:22:48.615496 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque os pólipos endometriais são menos comuns do que a miomatose uterina.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque os pólipos endometriais são menos comuns do que a miomatose uterina.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:32:19.163415 +0000 UTC",
+                        "updated_at": "2020-10-19 02:32:20.136589 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 83
+                },
+                {
+                    "id": "cd0f96b5-69df-4ce5-80cf-ed0dd182452c",
+                    "position": "3",
+                    "body": "Câncer de endométrio.",
+                    "sanitized_body": "Câncer de endométrio.",
+                    "correct": false,
+                    "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+                    "updated_at": "2020-11-13 14:22:48.661207 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque o câncer de endométrio é mais comum após os 50 anos de idade (pós menopausa).",
+                        "sanitized_complete": "Incorreta a alternativa D, porque o câncer de endométrio é mais comum após os 50 anos de idade (pós menopausa).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:32:19.163338 +0000 UTC",
+                        "updated_at": "2020-10-19 02:32:20.150865 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 19
+                },
+                {
+                    "id": "cfc2c2ac-610b-4c3e-aff5-8c2bf61bb6f3",
+                    "position": "4",
+                    "body": "Câncer de colo uterino.",
+                    "sanitized_body": "Câncer de colo uterino.",
+                    "correct": false,
+                    "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+                    "updated_at": "2020-11-13 14:22:48.693669 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E, porque o câncer de colo de útero não é considerado uma das causas de sangramento uterino anormal. Consideramos sangramento uterino anormal quando o sangramento vem de “dentro do útero”. O sangramento proveniente de lesões no trato genital inferior (vulva, vagina e colo) não são consideradas sangramento uterino anormal e entram dentro das causas de sangramento genital.",
+                        "sanitized_complete": "Incorreta a alternativa E, porque o câncer de colo de útero não é considerado uma das causas de sangramento uterino anormal. Consideramos sangramento uterino anormal quando o sangramento vem de “dentro do útero”. O sangramento proveniente de lesões no trato genital inferior (vulva, vagina e colo) não são consideradas sangramento uterino anormal e entram dentro das causas de sangramento genital.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:32:19.155796 +0000 UTC",
+                        "updated_at": "2020-10-19 02:32:20.140242 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "JABB, 43 anos, apresenta sangramento uterino anormal. Nessa faixa etária, a causa mais comum é:",
+            "statement_text": "JABB, 43 anos, apresenta sangramento uterino anormal. Nessa faixa etária, a causa mais comum é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "wannynepomuceno@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 19:35:11.221464 +0000 UTC",
+            "forum_id": "5748008d-9c8d-4a3a-a6e9-d56370039bd6",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><b><br></b></div><div>Estrategista, este tipo de questão é frequente nas provas de residência. As causas de SUA dependem da idade da paciente. Algumas causas são mais frequentes em algumas fases da vida da mulher do que outras. A tabela abaixo irá te ajudar a resolver todas estas questões.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/126B2151-3469-BA3E-2C80-A72BF2C4820E/126B2151-3469-BA3E-2C80-A72BF2C4820E-400.png\"><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/51755EE6-2D28-B48C-1D13-6455AA07D541/51755EE6-2D28-B48C-1D13-6455AA07D541-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002.</div><div><br></div><div>No caso desta paciente de 43 anos (perimenopausa), a causa mais comum de SUA é a miomatose uterina.</div><div><br></div><div>Vamos analisar as alternativas:</div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B.Estrategista, este tipo de questão é frequente nas provas de residência. As causas de SUA dependem da idade da paciente. Algumas causas são mais frequentes em algumas fases da vida da mulher do que outras. A tabela abaixo irá te ajudar a resolver todas estas questões.Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002.No caso desta paciente de 43 anos (perimenopausa), a causa mais comum de SUA é a miomatose uterina.Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 02:32:19.282113 +0000 UTC",
+                "updated_at": "2020-10-19 02:32:20.229269 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000118004-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000115375",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "1fbba0ef-c2ed-4ed8-a5f4-b8cde062025d",
+                            "name": "SP - Santa Casa de Misericórdia de Votuporanga - SCMV"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "89CA9F20-CCB8-87FA-6844-B5C8E79184F2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T19:38:20Z",
+                    "location": {
+                        "id": "5377"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "0c9a3c0ef6514b2f8a7d96e751e1e469",
+                    "name": "Etiologia",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "42e3823e-20f9-4ecd-afa7-2d4670d5beb6",
+                    "position": "0",
+                    "body": "Anovulação.",
+                    "sanitized_body": "Anovulação.",
+                    "correct": true,
+                    "created_at": "2020-09-16 17:18:10.300247 +0000 UTC",
+                    "updated_at": "2021-02-24 10:09:08.220102 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d5f333bd12c9484f80bb22b076e2828e",
+                            "name": "Ovulatório (Distúrbios)",
+                            "is_master": false,
+                            "master_id": "d9177a919a514ea8a1c60502a576f542",
+                            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia[$$]Causas não estruturais (COEIN)[$$]Ovulatório (Distúrbios)",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Correta a alternativa A: a causa mais frequente de SUA nos primeiros anos após a menarca é a anovulação.",
+                        "sanitized_complete": "Correta a alternativa A: a causa mais frequente de SUA nos primeiros anos após a menarca é a anovulação.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:43:17.835574 +0000 UTC",
+                        "updated_at": "2021-02-24 10:09:02.346769 +0000 UTC"
+                    },
+                    "answer_percentage": 42,
+                    "answers": 79
+                },
+                {
+                    "id": "317e55e6-a61f-40ba-b3b4-8aa38baa6c86",
+                    "position": "1",
+                    "body": "Abuso sexual.",
+                    "sanitized_body": "Abuso sexual.",
+                    "correct": false,
+                    "created_at": "2020-09-16 17:18:10.300247 +0000 UTC",
+                    "updated_at": "2021-02-24 10:09:08.266086 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque o enunciado não fornece nenhum indício de agressão sexual.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque o enunciado não fornece nenhum indício de agressão sexual.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:43:17.843985 +0000 UTC",
+                        "updated_at": "2021-02-24 10:09:02.343679 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 12
+                },
+                {
+                    "id": "cb16773a-57b0-490b-a1d8-c86cd9f9775e",
+                    "position": "2",
+                    "body": "Deficiência de fator VIII.",
+                    "sanitized_body": "Deficiência de fator VIII.",
+                    "correct": false,
+                    "created_at": "2020-09-16 17:18:10.300247 +0000 UTC",
+                    "updated_at": "2021-02-24 10:09:08.312052 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a deficiência de fator VIII (coagulopatia) é a segunda causa de SUA nos primeiros anos após a menarca. O enunciado não fornece nenhuma informação sugestiva de coagulopatia, tais como história de sangramentos prévios, hematomas inexplicados ou antecedentes familiares.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a deficiência de fator VIII (coagulopatia) é a segunda causa de SUA nos primeiros anos após a menarca. O enunciado não fornece nenhuma informação sugestiva de coagulopatia, tais como história de sangramentos prévios, hematomas inexplicados ou antecedentes familiares.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:43:17.856033 +0000 UTC",
+                        "updated_at": "2021-02-24 10:09:02.334598 +0000 UTC"
+                    },
+                    "answer_percentage": 49,
+                    "answers": 93
+                },
+                {
+                    "id": "ebf52c11-cfa2-4042-b0f2-4e53ef63c91b",
+                    "position": "3",
+                    "body": "Uso inadequado de pílula.",
+                    "sanitized_body": "Uso inadequado de pílula.",
+                    "correct": false,
+                    "created_at": "2020-09-16 17:18:10.300247 +0000 UTC",
+                    "updated_at": "2021-02-24 10:09:08.358059 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque a paciente não está usando pílula anticoncepcional.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque a paciente não está usando pílula anticoncepcional.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:43:17.856232 +0000 UTC",
+                        "updated_at": "2021-02-24 10:09:02.333768 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 5
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente de 13 anos, menarca há 6 meses, admitida no pronto atendimento com história de sangramento menstrual excessivo há 5 dias. Nega atividade sexual, mas a entrevista foi realizada na presença da mãe. Solicitado eritrograma na urgência que mostrou hemoglobina de 8,5% e hematócrito de 22%. Teste de gravidez negativo. PA: 80X40 mmHg e FR: 20 bpm. Assinale a alternativa que apresenta o diagnóstico MAIS PROVÁVEL para essa paciente.",
+            "statement_text": "Paciente de 13 anos, menarca há 6 meses, admitida no pronto atendimento com história de sangramento menstrual excessivo há 5 dias. Nega atividade sexual, mas a entrevista foi realizada na presença da mãe. Solicitado eritrograma na urgência que mostrou hemoglobina de 8,5% e hematócrito de 22%. Teste de gravidez negativo. PA: 80X40 mmHg e FR: 20 bpm. Assinale a alternativa que apresenta o diagnóstico MAIS PROVÁVEL para essa paciente.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "fernandocastroteixeira@yahoo.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 17:18:10.300247 +0000 UTC",
+            "forum_id": "eda7358f-45c3-4ccf-b89a-b219edd4ea7d",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A.</b><div><b><br></b></div><div>Estrategista, esta questão fala das causas mais frequentes de SUA de acordo com a idade da paciente. A causa mais frequente de SUA nos primeiros anos após a menarca é a anovulação (distúrbios ovulatórios). Isto ocorre devido a imaturidade do eixo hipotálamo – hipófise – ovário destas pacientes. A tabela abaixo mostra as principais causas de sangramento genital de acordo com o fase da vida da mulher e irá te ajudar a acertar todas estas questões:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C958BD65-73CC-46F0-EC6B-BFF18B2EE70D/C958BD65-73CC-46F0-EC6B-BFF18B2EE70D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002.</div><div>&nbsp;</div><div>Vamos analisar as alternativas:</div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+                "sanitized_complete": "GABARITO: ALTERNATIVA A.Estrategista, esta questão fala das causas mais frequentes de SUA de acordo com a idade da paciente. A causa mais frequente de SUA nos primeiros anos após a menarca é a anovulação (distúrbios ovulatórios). Isto ocorre devido a imaturidade do eixo hipotálamo – hipófise – ovário destas pacientes. A tabela abaixo mostra as principais causas de sangramento genital de acordo com o fase da vida da mulher e irá te ajudar a acertar todas estas questões:Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002. Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 02:43:18.005103 +0000 UTC",
+                "updated_at": "2021-02-24 10:09:02.417815 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000115375-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000114364",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "ab4f3f0a-3910-4562-8964-bd931981b963",
+                            "name": "SP - Prefeitura Municipal de Franca - PMF"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "07e709e5-56ba-4ae8-8b0b-881fb01eafa4",
+                            "name": "Público - Municipal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "BF6B06AB-DE25-5737-1276-824187E25A2F"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-07T17:38:14Z",
+                    "location": {
+                        "id": "4921"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6f70a540caa540dba83fc4b250e3f409",
+                    "name": "Classificação (FIGO)",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Classificação (FIGO)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "1bd380ab-6a74-46ad-9989-72f457f51b2e",
+                    "position": "0",
+                    "body": "<div>Pólipo e coagulopatia;<br></div>",
+                    "sanitized_body": "Pólipo e coagulopatia;",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:34:30.762773 +0000 UTC",
+                    "updated_at": "2020-11-17 13:29:23.081483 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque a coagulopatia é uma causa não estrutural de SUA.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque a coagulopatia é uma causa não estrutural de SUA.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:58:02.091062 +0000 UTC",
+                        "updated_at": "2020-10-19 02:58:03.0954 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 9
+                },
+                {
+                    "id": "44dd9a8d-6ea7-4e18-8c47-7d0e8a12134c",
+                    "position": "1",
+                    "body": "<div>SOP e leiomioma;<br></div>",
+                    "sanitized_body": "SOP e leiomioma;",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:34:30.762773 +0000 UTC",
+                    "updated_at": "2020-11-17 13:29:23.116859 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque a SOP é uma causa não estrutural de SUA, pois entra na classificação como uma causa ovulatória (distúrbios ovulatórios).",
+                        "sanitized_complete": "Incorreta a alternativa B, porque a SOP é uma causa não estrutural de SUA, pois entra na classificação como uma causa ovulatória (distúrbios ovulatórios).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:58:02.07834 +0000 UTC",
+                        "updated_at": "2020-10-19 02:58:03.099311 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 16
+                },
+                {
+                    "id": "3a283dfb-3263-4c15-a6d6-909062d9c3bc",
+                    "position": "2",
+                    "body": "<div>Câncer de endométrio e adenomiose;<br></div>",
+                    "sanitized_body": "Câncer de endométrio e adenomiose;",
+                    "correct": true,
+                    "created_at": "2020-09-16 16:34:30.762773 +0000 UTC",
+                    "updated_at": "2020-11-17 13:29:23.157216 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa C: o câncer de endométrio e a adenomiose são causas estruturais do SUA.",
+                        "sanitized_complete": "Correta a alternativa C: o câncer de endométrio e a adenomiose são causas estruturais do SUA.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:58:02.071171 +0000 UTC",
+                        "updated_at": "2020-10-19 02:58:03.111178 +0000 UTC"
+                    },
+                    "answer_percentage": 90,
+                    "answers": 299
+                },
+                {
+                    "id": "362a11ae-6a84-4452-9a01-36cfc9438703",
+                    "position": "3",
+                    "body": "<div>Hiperplasia endometrial e induzidas por medicação.</div>",
+                    "sanitized_body": "Hiperplasia endometrial e induzidas por medicação.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:34:30.762773 +0000 UTC",
+                    "updated_at": "2020-11-17 13:29:23.198794 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque as causas medicamentosas ou iatrogênicas são classificadas como causa não estrutural de SUA.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque as causas medicamentosas ou iatrogênicas são classificadas como causa não estrutural de SUA.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 02:58:02.090242 +0000 UTC",
+                        "updated_at": "2020-10-19 02:58:03.107651 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 8
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em 2011 a FIGO desenvolveu um sistema de classificação para causas de sangramento uterino anormal em mulheres não grávidas em idade reprodutiva denominada PALM-COEIN. Fazem parte das causas classificadas como estruturais:",
+            "statement_text": "Em 2011 a FIGO desenvolveu um sistema de classificação para causas de sangramento uterino anormal em mulheres não grávidas em idade reprodutiva denominada PALM-COEIN. Fazem parte das causas classificadas como estruturais:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "edgard.estrategia@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 16:34:30.762773 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><b><br></b></div><div>Estrategista, a FIGO classificou as causas de sangramento uterino anormal em estruturais e não estruturais de acordo com o mnemônico PALM-COEIN:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1D398470-FB9F-5F05-7E02-11C925D1D91F/1D398470-FB9F-5F05-7E02-11C925D1D91F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA C.Estrategista, a FIGO classificou as causas de sangramento uterino anormal em estruturais e não estruturais de acordo com o mnemônico PALM-COEIN:Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 02:58:02.257474 +0000 UTC",
+                "updated_at": "2020-10-19 02:58:03.192476 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000114364-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000114316",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "c5fc35d2-d548-463f-bbc9-4dbe4bf44cf4",
+                            "name": "SP - Irmandade da Santa Casa de Misericórdia de São Carlos - ISCMSC"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "3331AC07-ECCF-0315-45A3-5D54417B7118"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-07T14:28:01Z",
+                    "updated_at": "2020-09-17T20:57:56Z",
+                    "location": {
+                        "id": "5282"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "3407ad9bc9c94d1f902887c4a52cc528",
+                    "name": "Exames complementares",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Exames complementares",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "7b50233dc9ff4954ac2e17d6ed945a93",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f8ec0ccb-c54d-4daa-991e-aed550b28b1d",
+                    "position": "0",
+                    "body": "histeroscopia.",
+                    "sanitized_body": "histeroscopia.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:32:25.020767 +0000 UTC",
+                    "updated_at": "2020-11-17 13:23:48.430679 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque a histeroscopia é indicada para os casos de alteração ultrassonográfica sugestiva de patologia estrutural, como os miomas submucosos, pólipos ou espessamento endometrial.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque a histeroscopia é indicada para os casos de alteração ultrassonográfica sugestiva de patologia estrutural, como os miomas submucosos, pólipos ou espessamento endometrial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:20:04.962478 +0000 UTC",
+                        "updated_at": "2020-10-19 03:20:06.512083 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 4
+                },
+                {
+                    "id": "920a6e98-6a6f-4948-b1b7-05c8e0cc3a72",
+                    "position": "1",
+                    "body": "ultrassonografia pélvica.",
+                    "sanitized_body": "ultrassonografia pélvica.",
+                    "correct": true,
+                    "created_at": "2020-09-16 16:32:25.020767 +0000 UTC",
+                    "updated_at": "2020-11-17 13:23:48.465009 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B, porque a ultrassonografia pélvica é o exame de imagem de primeira escolha que deve ser solicitado nos casos de sangramento uterino anormal.",
+                        "sanitized_complete": "Correta a alternativa B, porque a ultrassonografia pélvica é o exame de imagem de primeira escolha que deve ser solicitado nos casos de sangramento uterino anormal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:20:04.95188 +0000 UTC",
+                        "updated_at": "2020-10-19 03:20:06.503459 +0000 UTC"
+                    },
+                    "answer_percentage": 81,
+                    "answers": 134
+                },
+                {
+                    "id": "dbaeddf8-15ea-437c-a2a5-eabde7a8101d",
+                    "position": "2",
+                    "body": "dosagem de estradiol.",
+                    "sanitized_body": "dosagem de estradiol.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:32:25.020767 +0000 UTC",
+                    "updated_at": "2020-11-17 13:23:48.502229 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque as dosagens hormonais, em geral, não precisam ser solicitadas. Estão indicadas para os casos em que se observa hiperandrogenismo (hirsutismo) e virilização (clitoromegalia, calvície, engrossamento da voz).",
+                        "sanitized_complete": "Incorreta a alternativa C, porque as dosagens hormonais, em geral, não precisam ser solicitadas. Estão indicadas para os casos em que se observa hiperandrogenismo (hirsutismo) e virilização (clitoromegalia, calvície, engrossamento da voz).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:20:04.962975 +0000 UTC",
+                        "updated_at": "2020-10-19 03:20:06.511873 +0000 UTC"
+                    },
+                    "answer_percentage": 16,
+                    "answers": 27
+                },
+                {
+                    "id": "987cdf38-af76-4dc3-8b2e-8148b9c6534a",
+                    "position": "3",
+                    "body": "curetagem uterina.",
+                    "sanitized_body": "curetagem uterina.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:32:25.020767 +0000 UTC",
+                    "updated_at": "2020-11-17 13:23:48.540641 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque a curetagem uterina também estaria indicada nos casos em que o ultrassom tivesse apresentado alguma patologia estrutural, como pólipos ou espessamento endometrial.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque a curetagem uterina também estaria indicada nos casos em que o ultrassom tivesse apresentado alguma patologia estrutural, como pólipos ou espessamento endometrial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:20:04.970294 +0000 UTC",
+                        "updated_at": "2020-10-19 03:20:06.501831 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A propedêutica inicial em adolescente de 15 anos, sem vida sexual ativa, com quadro de metrorragia é:",
+            "statement_text": "A propedêutica inicial em adolescente de 15 anos, sem vida sexual ativa, com quadro de metrorragia é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 16:32:25.020767 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><b><br></b></div><div>Estrategista, a avaliação inicial do sangramento uterino anormal deve incluir o Beta HCG, o hemograma completo, o coagulograma e o ultrassom (transvaginal ou pélvico). Com estes exames é possível definir a causa de sangramento uterino anormal na maioria dos casos.</div><div><br></div><div>A ultrassonografia (pélvica ou transvaginal) é o exame de imagem de primeira escolha a ser solicitado nos casos de sangramento uterino anormal. É o exame de escolha para ser realizado nos casos de sangramento uterino anormal com útero aumentado ao exame físico. É útil para a identificação das patologias estruturais.</div><div><br></div><div>Neste caso temos uma adolescente com quadro de metrorragia. A principal causa de SUA nos primeiros anos após a menarca é o distúrbio ovulatório (não estrutural), devido a imaturidade do eixo hipotálamo – hipófise – ovário. Sendo assim, provavelmente o ultrassom desta paciente não apresentará alterações.</div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B.Estrategista, a avaliação inicial do sangramento uterino anormal deve incluir o Beta HCG, o hemograma completo, o coagulograma e o ultrassom (transvaginal ou pélvico). Com estes exames é possível definir a causa de sangramento uterino anormal na maioria dos casos.A ultrassonografia (pélvica ou transvaginal) é o exame de imagem de primeira escolha a ser solicitado nos casos de sangramento uterino anormal. É o exame de escolha para ser realizado nos casos de sangramento uterino anormal com útero aumentado ao exame físico. É útil para a identificação das patologias estruturais.Neste caso temos uma adolescente com quadro de metrorragia. A principal causa de SUA nos primeiros anos após a menarca é o distúrbio ovulatório (não estrutural), devido a imaturidade do eixo hipotálamo – hipófise – ovário. Sendo assim, provavelmente o ultrassom desta paciente não apresentará alterações.Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 03:20:05.057663 +0000 UTC",
+                "updated_at": "2020-10-19 03:20:06.532089 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000114316-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000114177",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "7302e208-b9d4-4001-967d-348213e06370",
+                            "name": "SP - Universidade de São Paulo - USP (Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da USP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "6D779EEA-8E77-BBA0-061D-4C709C5C9557"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T17:46:56Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "969a8cbafe9647f3af4b8a26583cf82a",
+                    "name": "Definição",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Definição",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "60f62b98-ded8-48c6-b1e7-bea4449191ba",
+                    "position": "0",
+                    "body": "Orienta que o ciclo está regular e que a duração do sangramento está normal.",
+                    "sanitized_body": "Orienta que o ciclo está regular e que a duração do sangramento está normal.",
+                    "correct": true,
+                    "created_at": "2020-09-16 16:26:06.369714 +0000 UTC",
+                    "updated_at": "2020-11-19 15:28:42.391613 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “a” de acordo com os critérios de normalidade de ciclo menstrual da Federação Interacional de Ginecologia e Obstetrícia, FIGO, 2018 devemos orientar esta paciente que o seu ciclo está regular e que a duração do sangramento está normal.<div><br></div>",
+                        "sanitized_complete": "Correta a alternativa “a” de acordo com os critérios de normalidade de ciclo menstrual da Federação Interacional de Ginecologia e Obstetrícia, FIGO, 2018 devemos orientar esta paciente que o seu ciclo está regular e que a duração do sangramento está normal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:47:22.190938 +0000 UTC",
+                        "updated_at": "2020-11-03 16:47:22.714518 +0000 UTC"
+                    },
+                    "answer_percentage": 73,
+                    "answers": 597
+                },
+                {
+                    "id": "20d4f652-69d3-4127-bf84-9e130e4fd779",
+                    "position": "1",
+                    "body": "Confirma o diagnóstico de irregularidade menstrual e prescreve contraceptivo oral combinado.",
+                    "sanitized_body": "Confirma o diagnóstico de irregularidade menstrual e prescreve contraceptivo oral combinado.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:26:06.369714 +0000 UTC",
+                    "updated_at": "2020-11-19 15:28:42.434937 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “b” porque esta paciente apresenta ciclos regulares.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “b” porque esta paciente apresenta ciclos regulares.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:47:22.200482 +0000 UTC",
+                        "updated_at": "2020-11-03 16:47:22.705728 +0000 UTC"
+                    },
+                    "answer_percentage": 13,
+                    "answers": 103
+                },
+                {
+                    "id": "a50401e1-1a9c-4a6a-9837-ffbd56733174",
+                    "position": "2",
+                    "body": "Orienta que o ciclo está regular, mas a duração está aumentada. Solicita ultrassonografia pélvica.",
+                    "sanitized_body": "Orienta que o ciclo está regular, mas a duração está aumentada. Solicita ultrassonografia pélvica.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:26:06.369714 +0000 UTC",
+                    "updated_at": "2020-11-19 15:28:42.48007 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c” porque esta paciente apresenta menstruação com duração dentro dos padrões normais.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque esta paciente apresenta menstruação com duração dentro dos padrões normais.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:47:22.19838 +0000 UTC",
+                        "updated_at": "2020-11-03 16:47:22.717288 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 70
+                },
+                {
+                    "id": "dda05a9a-59e9-416c-ad8c-596450341c75",
+                    "position": "3",
+                    "body": "Confirma o diagnóstico de irregularidade menstrual e solicita FSH, prolactina e TSH.",
+                    "sanitized_body": "Confirma o diagnóstico de irregularidade menstrual e solicita FSH, prolactina e TSH.",
+                    "correct": false,
+                    "created_at": "2020-09-16 16:26:06.369714 +0000 UTC",
+                    "updated_at": "2020-11-19 15:28:42.520499 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “d” porque esta paciente apresenta menstruações regulares, não havendo indicação de prosseguir a investigação diagnóstica.&nbsp;<div>Gabarito: alternativa A.</div><div><br></div><div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “d” porque esta paciente apresenta menstruações regulares, não havendo indicação de prosseguir a investigação diagnóstica. Gabarito: alternativa A.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:47:22.192018 +0000 UTC",
+                        "updated_at": "2020-11-03 16:47:22.70923 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 49
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Mulher, 21 anos, G0, procura a Unidade Básica de Saúde, pois refere que seus ciclos estão irregulares e o número de dias de sangramento está aumentado. Você pediu um calendário menstrual para avaliação no retorno. Abaixo está o histórico menstrual dos últimos 6 meses. 1° ciclo: 30 dias - 7 dias de sangramento; 2° ciclo: 28 dias - 5 dias de sangramento; 3° ciclo: 33 dias - 6 dias de sangramento; 4° ciclo: 31 dias - 8 dias de sangramento; 5° ciclo: 29 dias - 5 dias de sangramento; 6° ciclo: 36 dias - 8 dias de sangramento; Observando o calendário, qual alternativa apresenta a melhor conduta (de acordo com os critérios de normalidade de ciclo menstrual da Federação Interacional de Ginecologia e Obstetrícia, FIGO, 2018)?",
+            "statement_text": "Mulher, 21 anos, G0, procura a Unidade Básica de Saúde, pois refere que seus ciclos estão irregulares e o número de dias de sangramento está aumentado. Você pediu um calendário menstrual para avaliação no retorno. Abaixo está o histórico menstrual dos últimos 6 meses. 1° ciclo: 30 dias - 7 dias de sangramento; 2° ciclo: 28 dias - 5 dias de sangramento; 3° ciclo: 33 dias - 6 dias de sangramento; 4° ciclo: 31 dias - 8 dias de sangramento; 5° ciclo: 29 dias - 5 dias de sangramento; 6° ciclo: 36 dias - 8 dias de sangramento; Observando o calendário, qual alternativa apresenta a melhor conduta (de acordo com os critérios de normalidade de ciclo menstrual da Federação Interacional de Ginecologia e Obstetrícia, FIGO, 2018)?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "socorrosantos2408@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 16:26:06.369714 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Estrategista, vamos ver qual é a definição de menstruação normal e anormal:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/86467C7B-386F-F13E-47C5-9C4E9D88CA9B/86467C7B-386F-F13E-47C5-9C4E9D88CA9B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div></div><div><br></div><div>Fonte: Fraser et al., 2011.</div><div><br></div><div>Agora vamos analisar as alternativas:</div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AEstrategista, vamos ver qual é a definição de menstruação normal e anormal:Fonte: Fraser et al., 2011.Agora vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-03 16:47:22.4095 +0000 UTC",
+                "updated_at": "2020-11-03 16:47:22.864326 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000114177-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000109045",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9addd954-685f-49ad-83b1-a7941cd4e26d",
+                            "name": "SP - Universidade de São Paulo - USP (Hospital das Clínicas da Faculdade de Medicina da USP - HC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "9AA500A6-6983-3F21-3F60-0B7D1E9E63AB"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T19:23:35Z",
+                    "updated_at": "2020-11-26T20:09:50Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "0c9a3c0ef6514b2f8a7d96e751e1e469",
+                    "name": "Etiologia",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "3407ad9bc9c94d1f902887c4a52cc528",
+                    "name": "Exames complementares",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Exames complementares",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "7b50233dc9ff4954ac2e17d6ed945a93",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "a22ffc54-9ee6-4a6f-88ad-34c967ff3e3b",
+                    "position": "0",
+                    "body": "Dispositivo intrauterino com progesterona.",
+                    "sanitized_body": "Dispositivo intrauterino com progesterona.",
+                    "correct": false,
+                    "created_at": "2020-09-16 12:26:31.226157 +0000 UTC",
+                    "updated_at": "2020-12-07 16:54:26.777835 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque trata-se de um mioma submucoso G0, estando indicada a ressecção histeroscópica para possibilitar que a paciente engravide assim que desejar.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque trata-se de um mioma submucoso G0, estando indicada a ressecção histeroscópica para possibilitar que a paciente engravide assim que desejar.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-12-07 17:11:08.295919 +0000 UTC",
+                        "updated_at": "2020-12-07 17:12:00.634187 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 128
+                },
+                {
+                    "id": "8ce0c339-42c5-4861-ab81-edaff7354897",
+                    "position": "1",
+                    "body": "Ácido tranexâmico.",
+                    "sanitized_body": "Ácido tranexâmico.",
+                    "correct": false,
+                    "created_at": "2020-09-16 12:26:31.226157 +0000 UTC",
+                    "updated_at": "2020-12-07 16:54:26.819039 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque está indicado o tratamento cirúrgico e resolutivo para este caso.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque está indicado o tratamento cirúrgico e resolutivo para este caso.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-12-07 17:11:08.288343 +0000 UTC",
+                        "updated_at": "2020-12-07 17:12:00.634416 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 117
+                },
+                {
+                    "id": "f8b28f40-1756-4755-b6cd-90833dc9c413",
+                    "position": "2",
+                    "body": "Embolização.",
+                    "sanitized_body": "Embolização.",
+                    "correct": false,
+                    "created_at": "2020-09-16 12:26:31.226157 +0000 UTC",
+                    "updated_at": "2020-12-07 16:54:26.866303 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a embolização não é indicada para pacientes que desejam preservar o seu futuro reprodutivo. A embolização das artérias uterinas pode comprometer a vascularização do endométrio e dos ovários e prejudicar a fertilidade e uma gravidez futura.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a embolização não é indicada para pacientes que desejam preservar o seu futuro reprodutivo. A embolização das artérias uterinas pode comprometer a vascularização do endométrio e dos ovários e prejudicar a fertilidade e uma gravidez futura.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-12-07 17:11:08.28783 +0000 UTC",
+                        "updated_at": "2020-12-07 17:12:00.642437 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 127
+                },
+                {
+                    "id": "796d075e-959d-4cc0-adf4-173ee44c4afb",
+                    "position": "3",
+                    "body": "Ablação histeroscópica.",
+                    "sanitized_body": "Ablação histeroscópica.",
+                    "correct": true,
+                    "created_at": "2020-09-16 12:26:31.226157 +0000 UTC",
+                    "updated_at": "2020-12-07 16:54:26.916158 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d468ce5b25484dd98b7f5b82ec81ff28",
+                            "name": "Tratamento cirurgico conservador",
+                            "is_master": false,
+                            "master_id": "08b510fd23cc43128571af2c8f2c2ac0",
+                            "path": "Ginecologia[$$]Ginecologia geral[$$]Miomatose uterina[$$]Tratamento[$$]Tratamento cirurgico[$$]Tratamento cirurgico conservador",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Correta a alternativa D, pois trata-se de um mioma submucoso G0 e está indicada a ablação (ressecção) histeroscópica.",
+                        "sanitized_complete": "Correta a alternativa D, pois trata-se de um mioma submucoso G0 e está indicada a ablação (ressecção) histeroscópica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-12-07 17:11:08.296078 +0000 UTC",
+                        "updated_at": "2020-12-07 17:12:00.625429 +0000 UTC"
+                    },
+                    "answer_percentage": 70,
+                    "answers": 889
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente de 40 anos apresenta sangramento menstrual excessivo com o seguinte achado histeroscópico:&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F2AB098F-35F8-CB64-CE63-32E3BD4EC809/F2AB098F-35F8-CB64-CE63-32E3BD4EC809-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Qual é o tratamento mais adequado?</div>",
+            "statement_text": "Paciente de 40 anos apresenta sangramento menstrual excessivo com o seguinte achado histeroscópico: Qual é o tratamento mais adequado?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "verl81@yahoo.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 12:26:31.226157 +0000 UTC",
+            "forum_id": "ed8ba5f9-61ae-4c4b-af20-9a252d5e7967",
+            "solution": {
+                "complete": "Estrategista, a imagem mostra um mioma submucoso. Uma dificuldade que pode acontecer é diferenciar um mioma submucoso de um pólipo endometrial. O mioma costuma ter um contorno mais arredondado, consistência mais firme, cor branca (empalidecido). O pólipo geralmente é mais pediculad, consistência amolecida e cor rósea ou avermelhada. Aparentemente é um mioma grau 0, totalmente submucoso.<div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3FB082AB-90A2-C222-85C9-6E0377785FA0/3FB082AB-90A2-C222-85C9-6E0377785FA0-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>O tratamento dos miomas G0 é feito através da ressecção histeroscópica, os miomas G1 podem ser ressecados através da histeroscopia, mas após o tratamento com análogo de GnRH e os miomas B2 não são passíveis de ressecção histeroscópica, estando indicada a via&nbsp; laparoscópica ou laparotômica.</div>",
+                "sanitized_complete": "Estrategista, a imagem mostra um mioma submucoso. Uma dificuldade que pode acontecer é diferenciar um mioma submucoso de um pólipo endometrial. O mioma costuma ter um contorno mais arredondado, consistência mais firme, cor branca (empalidecido). O pólipo geralmente é mais pediculad, consistência amolecida e cor rósea ou avermelhada. Aparentemente é um mioma grau 0, totalmente submucoso.O tratamento dos miomas G0 é feito através da ressecção histeroscópica, os miomas G1 podem ser ressecados através da histeroscopia, mas após o tratamento com análogo de GnRH e os miomas B2 não são passíveis de ressecção histeroscópica, estando indicada a via  laparoscópica ou laparotômica.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-12-07 17:11:08.370737 +0000 UTC",
+                "updated_at": "2020-12-07 17:12:00.664822 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000109045-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000108217",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "f5869f7c-7f0c-482d-82e2-fddb3bf4eda7",
+                            "name": "SP - Hospital Israelita Albert Einstein - HIAE"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C84D54D2-3CB7-8CB6-410D-3EC3701FBBC7"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 75,
+                    "created_at": "2020-09-07T03:57:56Z",
+                    "updated_at": "2020-09-19T14:50:00Z",
+                    "location": {
+                        "id": "5298"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6efe517275454d5199ad9ede16aa62ed",
+                    "name": "Tratamento do sangramento uterino anormal agudo",
+                    "is_master": false,
+                    "master_id": "8dc600ab93e846cdaf6450eeb5db1031",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Tratamento[$$]Tratamento do sangramento uterino anormal agudo",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "196099f0-8d89-49ac-9d98-698bb8ba49a8",
+                    "position": "0",
+                    "body": "corticoides, anti-inflamatórios não hormonais ou contraceptivos injetáveis.",
+                    "sanitized_body": "corticoides, anti-inflamatórios não hormonais ou contraceptivos injetáveis.",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+                    "updated_at": "2020-11-16 20:56:34.108918 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “a” porque os corticóides não são uma opção terapêutica para o tratamento do SUA não estrutural.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “a” porque os corticóides não são uma opção terapêutica para o tratamento do SUA não estrutural.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:38:20.458795 +0000 UTC",
+                        "updated_at": "2020-11-03 16:38:20.747653 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 14
+                },
+                {
+                    "id": "cb6ed3ff-70d9-4710-891a-d35c6d3afd4b",
+                    "position": "1",
+                    "body": "estrogênios, anti-inflamatórios ou antifibrinolíticos.",
+                    "sanitized_body": "estrogênios, anti-inflamatórios ou antifibrinolíticos.",
+                    "correct": true,
+                    "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+                    "updated_at": "2020-11-16 20:56:34.148231 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “b” os estrogênios, os anti-inflamatórios (ácido mefenâmico e o naproxeno) e os antifibrinolíticos (ácido tranexâmico) são as opções medicamentosas para o tratamento do SUA não estrutural.<div><br></div>",
+                        "sanitized_complete": "Correta a alternativa “b” os estrogênios, os anti-inflamatórios (ácido mefenâmico e o naproxeno) e os antifibrinolíticos (ácido tranexâmico) são as opções medicamentosas para o tratamento do SUA não estrutural.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:38:20.437472 +0000 UTC",
+                        "updated_at": "2020-11-03 16:38:20.740396 +0000 UTC"
+                    },
+                    "answer_percentage": 71,
+                    "answers": 471
+                },
+                {
+                    "id": "ce667bb8-46a9-4d94-b9fa-6ee79e984ce6",
+                    "position": "2",
+                    "body": "progesterona vaginal, análogos de GnRh, albumina endovenosa.",
+                    "sanitized_body": "progesterona vaginal, análogos de GnRh, albumina endovenosa.",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+                    "updated_at": "2020-11-16 20:56:34.191984 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c” porque a progesterona vaginal, os análogos de GnRh e a albumina endovenosa não são opções medicamentosas para o tratamento do SUA não estrutural.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque a progesterona vaginal, os análogos de GnRh e a albumina endovenosa não são opções medicamentosas para o tratamento do SUA não estrutural.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:38:20.453128 +0000 UTC",
+                        "updated_at": "2020-11-03 16:38:20.747423 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 7
+                },
+                {
+                    "id": "b3c4a4b4-1c30-43c9-8179-8ea57c1f5867",
+                    "position": "3",
+                    "body": "análogos de GnRH, contraceptivos hormonais de progestagênio ou combinados.",
+                    "sanitized_body": "análogos de GnRH, contraceptivos hormonais de progestagênio ou combinados.",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+                    "updated_at": "2020-11-16 20:56:34.23 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “d” porque os análogos de GnRH não são uma opção medicamentosa para o tratamento do SUA não estrutural.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “d” porque os análogos de GnRH não são uma opção medicamentosa para o tratamento do SUA não estrutural.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:38:20.438282 +0000 UTC",
+                        "updated_at": "2020-11-03 16:38:20.747901 +0000 UTC"
+                    },
+                    "answer_percentage": 16,
+                    "answers": 108
+                },
+                {
+                    "id": "21a27d8c-984a-4b69-ba1e-1d5f421241ed",
+                    "position": "4",
+                    "body": "implante de progesterona, progesterona oral ou fibrinolíticos.",
+                    "sanitized_body": "implante de progesterona, progesterona oral ou fibrinolíticos.",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+                    "updated_at": "2020-11-16 20:56:34.274492 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “e” porque os fibrinolíticos não são uma opção terapêutica para o SUA não estrutural, e sim os antifibrinolíticos.<div>Gabarito: alternativa B.</div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “e” porque os fibrinolíticos não são uma opção terapêutica para o SUA não estrutural, e sim os antifibrinolíticos.Gabarito: alternativa B.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 16:38:20.440557 +0000 UTC",
+                        "updated_at": "2020-11-03 16:38:20.748663 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 61
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente de 45 anos de idade, com sangramento genital em grande quantidade, há 3 dias. Ao exame, encontra-se descorada, porém normotensa. O exame físico mostra presença de grande quantidade de sangue e coágulos na vagina, sem lesões visíveis. A ultrassonografia pélvica mostra útero e ovários normais. As medicações que podem melhorar o sangramento genital nesse momento são",
+            "statement_text": "Paciente de 45 anos de idade, com sangramento genital em grande quantidade, há 3 dias. Ao exame, encontra-se descorada, porém normotensa. O exame físico mostra presença de grande quantidade de sangue e coágulos na vagina, sem lesões visíveis. A ultrassonografia pélvica mostra útero e ovários normais. As medicações que podem melhorar o sangramento genital nesse momento são",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "patriciaeotavio1984@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 11:51:37.772103 +0000 UTC",
+            "forum_id": "96980546-46f2-455c-8813-d7ebbc60bddf",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Esta paciente apresenta quadro de sangramento uterino anormal. O sangramento uterino anormal é por definição o sangramento com alteração na sua regularidade, no volume, na frequência ou duração, em mulheres que não estejam grávidas.<div>&nbsp;Dividimos as causas de SUA em estruturais e não estruturais (FIGO) e usamos o método mnemônico PALM-COEIN para auxiliar no diagnóstico diferencial:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AB046632-5CB5-3372-6CEF-08EA3C30ED4B/AB046632-5CB5-3372-6CEF-08EA3C30ED4B-400.png\"><br></div><div><br></div><div>Esta paciente apresenta exame ginecológico normal, portanto podemos considerar afastadas as causas estruturais.</div><div>São opções medicamentosas para o tratamento dos casos de SUA não estruturais:</div><div>&nbsp;</div><div><b>Hormonal</b>:</div><div><br></div><div>&nbsp;• Estrogênio e progestagênio combinados</div><div>&nbsp;• Progestagênio oral cíclico ou contínuo</div><div>&nbsp;• Progestagênio injetável</div><div>&nbsp; • Sistema uterino liberador de levonorgestrel&nbsp;</div><div><br></div><div><b>Não hormonal:</b></div><div>&nbsp;• Anti-inflamatórios</div><div>&nbsp;• Antifibrinolíticos</div><div><br></div><div>Vamos ver o fluxograma para o tratamento do SUA:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/E4748E95-C52F-6B1F-3685-90D94A324AEE/E4748E95-C52F-6B1F-3685-90D94A324AEE-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Fonte: Tratado de Ginecologia - Febrasgo, 2019.</div><div><br></div><div>Agora vamos analisar as alternativas:</div><div><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BEsta paciente apresenta quadro de sangramento uterino anormal. O sangramento uterino anormal é por definição o sangramento com alteração na sua regularidade, no volume, na frequência ou duração, em mulheres que não estejam grávidas. Dividimos as causas de SUA em estruturais e não estruturais (FIGO) e usamos o método mnemônico PALM-COEIN para auxiliar no diagnóstico diferencial:Esta paciente apresenta exame ginecológico normal, portanto podemos considerar afastadas as causas estruturais.São opções medicamentosas para o tratamento dos casos de SUA não estruturais: Hormonal: • Estrogênio e progestagênio combinados • Progestagênio oral cíclico ou contínuo • Progestagênio injetável  • Sistema uterino liberador de levonorgestrel Não hormonal: • Anti-inflamatórios • AntifibrinolíticosVamos ver o fluxograma para o tratamento do SUA:Fonte: Tratado de Ginecologia - Febrasgo, 2019.Agora vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-03 16:38:20.611198 +0000 UTC",
+                "updated_at": "2020-11-03 16:38:20.865124 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000108217-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000108128",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "e1e437ed-ee4c-4ba0-bb22-831360529a4c",
+                            "name": "SP - Universidade de Taubaté - Unitau (Hospital Universitário de Taubaté)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "07e709e5-56ba-4ae8-8b0b-881fb01eafa4",
+                            "name": "Público - Municipal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "E4F2DB60-37B1-8A6B-A1A9-D81AFD77BCC2"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-07T14:53:45Z",
+                    "updated_at": "2020-09-17T21:50:18Z",
+                    "location": {
+                        "id": "5340"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "0c9a3c0ef6514b2f8a7d96e751e1e469",
+                    "name": "Etiologia",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "98c7f264-7108-4961-8cca-bb188a9832ae",
+                    "position": "0",
+                    "body": "Câncer de endométrio e curetagem uterina",
+                    "sanitized_body": "Câncer de endométrio e curetagem uterina",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+                    "updated_at": "2020-11-19 19:44:59.735827 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque esta paciente não apresenta espessamento endometrial.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque esta paciente não apresenta espessamento endometrial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:44:46.12457 +0000 UTC",
+                        "updated_at": "2020-10-19 03:44:48.29899 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "631b3cde-404f-4589-a10d-95daca32e924",
+                    "position": "1",
+                    "body": "Pólipo endometrial e histeroscopia",
+                    "sanitized_body": "Pólipo endometrial e histeroscopia",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+                    "updated_at": "2020-11-19 19:44:59.786706 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque o ultrassom não apresentou espessamento endometrial ou imagem nodular intracavitária.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque o ultrassom não apresentou espessamento endometrial ou imagem nodular intracavitária.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:44:46.160794 +0000 UTC",
+                        "updated_at": "2020-10-19 03:44:48.286734 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 21
+                },
+                {
+                    "id": "b67ad604-4456-401b-94b5-85ef3482cf03",
+                    "position": "2",
+                    "body": "Hiperplasia endometrial e biópsia",
+                    "sanitized_body": "Hiperplasia endometrial e biópsia",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+                    "updated_at": "2020-11-19 19:44:59.828952 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque esta paciente apresenta um eco endometrial de 2 mm.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque esta paciente apresenta um eco endometrial de 2 mm.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:44:46.140225 +0000 UTC",
+                        "updated_at": "2020-10-19 03:44:48.305858 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 13
+                },
+                {
+                    "id": "4aa0ff45-dd08-4670-8684-b56d81262e3f",
+                    "position": "3",
+                    "body": "Sangramento disfuncional e reposição hormonal",
+                    "sanitized_body": "Sangramento disfuncional e reposição hormonal",
+                    "correct": false,
+                    "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+                    "updated_at": "2020-11-19 19:44:59.879621 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque o sangramento uterino disfuncional é geralmente classificado como um distúrbio ovulatório, dentro das causas de SUA e a atrofia é classificada como causa endometrial.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque o sangramento uterino disfuncional é geralmente classificado como um distúrbio ovulatório, dentro das causas de SUA e a atrofia é classificada como causa endometrial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:44:46.143497 +0000 UTC",
+                        "updated_at": "2020-10-19 03:44:48.291012 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 10
+                },
+                {
+                    "id": "c137409f-cf4d-4297-9aa9-ac1bc66511a0",
+                    "position": "4",
+                    "body": "Atrofia endometrial e acompanhamento",
+                    "sanitized_body": "Atrofia endometrial e acompanhamento",
+                    "correct": true,
+                    "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+                    "updated_at": "2020-11-19 19:44:59.939439 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa E: trata-se de um caso de atrofia endometrial. A conduta pode ser o acompanhamento ou a prescrição de reposição hormonal.",
+                        "sanitized_complete": "Correta a alternativa E: trata-se de um caso de atrofia endometrial. A conduta pode ser o acompanhamento ou a prescrição de reposição hormonal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 03:44:46.155496 +0000 UTC",
+                        "updated_at": "2020-10-19 03:44:48.305988 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 275
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A.L.F., 57 anos, com história de pequeno sangramento pós-menopausa. Exame físico sem alterações. Fez uma ultrassonografia transvaginal que evidenciou um eco endometrial homogêneo medindo 2 mm. Qual o provável diagnóstico e a conduta mais adequada, respectivamente?<div><br></div>",
+            "statement_text": "A.L.F., 57 anos, com história de pequeno sangramento pós-menopausa. Exame físico sem alterações. Fez uma ultrassonografia transvaginal que evidenciou um eco endometrial homogêneo medindo 2 mm. Qual o provável diagnóstico e a conduta mais adequada, respectivamente?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 11:48:01.245453 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA E.</b><div><b><br></b></div><div>Estrategista, a causa mais frequente do sangramento pós menopausa é a atrofia endometrial e a causa mais temida é o câncer de endométrio.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/24CF0D88-B36F-9A15-61B4-0F9DF6F5DFAA/24CF0D88-B36F-9A15-61B4-0F9DF6F5DFAA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como podemos diferenciar uma causa da outra?&nbsp;</div><div><br></div><div>Simples, através da medida da espessura do endométrio pela ultrassonografia. Veja o fluxograma abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5ABF0D65-6D95-D382-5C77-371FF07205EA/5ABF0D65-6D95-D382-5C77-371FF07205EA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Esta paciente apresenta um eco endometrial de 2 mm de espessura, ou seja, trata-se de um caso de atrofia endometrial. Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA E.Estrategista, a causa mais frequente do sangramento pós menopausa é a atrofia endometrial e a causa mais temida é o câncer de endométrio.Como podemos diferenciar uma causa da outra? Simples, através da medida da espessura do endométrio pela ultrassonografia. Veja o fluxograma abaixo:Esta paciente apresenta um eco endometrial de 2 mm de espessura, ou seja, trata-se de um caso de atrofia endometrial. Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 03:44:46.325809 +0000 UTC",
+                "updated_at": "2020-10-19 03:44:48.351294 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000108128-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000098082",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "ea597107-83c1-420d-be9e-f04f6ac27ab5",
+                            "name": "SP - Associação da Santa Casa de Misericórdia de Ourinhos - SCO"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "EE290C8C-1555-7DA8-44CA-355FA6062800"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T13:26:08Z",
+                    "location": {
+                        "id": "5126"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "4fb92941120644368824ad162d08006d",
+                    "name": "Endometrial",
+                    "is_master": false,
+                    "master_id": "d9177a919a514ea8a1c60502a576f542",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia[$$]Causas não estruturais (COEIN)[$$]Endometrial",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "6fcb9955-c3af-4489-96b1-efab061d217d",
+                    "position": "0",
+                    "body": "Cândida albicans.\r",
+                    "sanitized_body": "Cândida albicans.\n",
+                    "correct": false,
+                    "created_at": "2020-09-15 18:11:03.387489 +0000 UTC",
+                    "updated_at": "2020-11-16 13:25:40.810148 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 05:34:04.21272 +0000 UTC",
+                        "updated_at": "2020-10-19 05:34:05.105487 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 7
+                },
+                {
+                    "id": "fe14a8a4-f698-4b02-a485-34312bdc6d20",
+                    "position": "1",
+                    "body": "Estreptococo.\r",
+                    "sanitized_body": "Estreptococo.\n",
+                    "correct": false,
+                    "created_at": "2020-09-15 18:11:03.387489 +0000 UTC",
+                    "updated_at": "2020-11-16 13:25:40.859471 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 05:34:04.211659 +0000 UTC",
+                        "updated_at": "2020-10-19 05:34:05.115876 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 6
+                },
+                {
+                    "id": "fea9450a-c277-4f59-95e7-d5c034490a2f",
+                    "position": "2",
+                    "body": "Clamídia.\r",
+                    "sanitized_body": "Clamídia.\n",
+                    "correct": true,
+                    "created_at": "2020-09-15 18:11:03.387489 +0000 UTC",
+                    "updated_at": "2020-11-16 13:25:40.900622 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa C: Chlamydia trachomatis.",
+                        "sanitized_complete": "Correta a alternativa C: Chlamydia trachomatis.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 05:34:04.202941 +0000 UTC",
+                        "updated_at": "2020-10-19 05:34:05.123709 +0000 UTC"
+                    },
+                    "answer_percentage": 94,
+                    "answers": 257
+                },
+                {
+                    "id": "94055660-ca4f-402e-a5d9-7052a293727b",
+                    "position": "3",
+                    "body": "Pseudômonas.\r",
+                    "sanitized_body": "Pseudômonas.\n",
+                    "correct": false,
+                    "created_at": "2020-09-15 18:11:03.387489 +0000 UTC",
+                    "updated_at": "2020-11-16 13:25:40.951846 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 05:34:04.208698 +0000 UTC",
+                        "updated_at": "2020-10-19 05:34:05.13098 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 3
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "O sangramento uterino anormal de causa endometrial (SUA-E), de característica intermenstrual, pode ser consequência de infecção uterina (endometrite) por:&nbsp;",
+            "statement_text": "O sangramento uterino anormal de causa endometrial (SUA-E), de característica intermenstrual, pode ser consequência de infecção uterina (endometrite) por: ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "maria28aldenice@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 18:11:03.387489 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><b><br></b></div><div>Estrategista, a FIGO classificou as causas de sangramento uterino anormal em estruturais e não estruturais de acordo com o mnemônico PALM-COEIN:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/ADC6C8F9-7501-1127-6390-ED70086FDF79/ADC6C8F9-7501-1127-6390-ED70086FDF79-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Dentre as causas não estruturais de SUA, a causa endometrial (SUA-E) costuma se manifestar clinicamente através de sangramento intermenstrual e pode ser consequência de uma infecção crônica do endométrio (endometrite) por Chlamydia. O diagnóstico destes casos é geralmente feito através da pesquisa do endométrio (biópsia e cultura).</div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA C.Estrategista, a FIGO classificou as causas de sangramento uterino anormal em estruturais e não estruturais de acordo com o mnemônico PALM-COEIN:Dentre as causas não estruturais de SUA, a causa endometrial (SUA-E) costuma se manifestar clinicamente através de sangramento intermenstrual e pode ser consequência de uma infecção crônica do endométrio (endometrite) por Chlamydia. O diagnóstico destes casos é geralmente feito através da pesquisa do endométrio (biópsia e cultura).Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 05:34:04.354795 +0000 UTC",
+                "updated_at": "2020-10-19 05:34:05.266114 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000098082-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000089233",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "1dfbd0be-cff1-46b6-80d6-42b8625049fd",
+                            "name": "RJ - Secretaria Estadual de Saúde - SES RJ"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C4CC368D-9282-99F3-12DE-306ACC3F41BC"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-06T12:32:15Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "0c9a3c0ef6514b2f8a7d96e751e1e469",
+                    "name": "Etiologia",
+                    "is_master": false,
+                    "master_id": "0ecedd335cfc49199d17e776184afadb",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "40a87e33-5985-4691-b0bc-6e055d77619a",
+                    "position": "0",
+                    "body": "Atrofia endometrial.",
+                    "sanitized_body": "Atrofia endometrial.",
+                    "correct": true,
+                    "created_at": "2020-09-15 01:39:29.600246 +0000 UTC",
+                    "updated_at": "2020-11-14 20:21:27.509265 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa A: a causa mais frequente de sangramento pós menopausa é a atrofia endometrial.",
+                        "sanitized_complete": "Correta a alternativa A: a causa mais frequente de sangramento pós menopausa é a atrofia endometrial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:48:23.59141 +0000 UTC",
+                        "updated_at": "2020-10-19 04:48:24.991923 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 487
+                },
+                {
+                    "id": "489446e4-5f3d-4c2b-bd2c-b21bc31f95a0",
+                    "position": "1",
+                    "body": "Pólipo de endométrio.",
+                    "sanitized_body": "Pólipo de endométrio.",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:39:29.600246 +0000 UTC",
+                    "updated_at": "2020-11-14 20:21:27.594585 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque o pólipo endometrial é a 3ª causa mais frequente de sangramento uterino na pós menopausa.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque o pólipo endometrial é a 3ª causa mais frequente de sangramento uterino na pós menopausa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:48:23.580887 +0000 UTC",
+                        "updated_at": "2020-10-19 04:48:24.982452 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 5
+                },
+                {
+                    "id": "9ec0d5e6-2cea-4094-abbc-7e223820e58f",
+                    "position": "2",
+                    "body": "Hiperplasia endometrial.",
+                    "sanitized_body": "Hiperplasia endometrial.",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:39:29.600246 +0000 UTC",
+                    "updated_at": "2020-11-14 20:21:27.683722 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a hiperplasia endometrial é a 4ª causa mais frequente do sangramento pós menopausa.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a hiperplasia endometrial é a 4ª causa mais frequente do sangramento pós menopausa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:48:23.586343 +0000 UTC",
+                        "updated_at": "2020-10-19 04:48:24.99441 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "12d4dd75-0617-4d17-a311-9da03a5a0a02",
+                    "position": "3",
+                    "body": "Carcinoma de endométrio.",
+                    "sanitized_body": "Carcinoma de endométrio.",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:39:29.600246 +0000 UTC",
+                    "updated_at": "2020-11-14 20:21:27.724724 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque o câncer de endométrio é a 5ª causa mais frequente de sangramento na pós menopausa.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque o câncer de endométrio é a 5ª causa mais frequente de sangramento na pós menopausa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:48:23.591565 +0000 UTC",
+                        "updated_at": "2020-10-19 04:48:24.989129 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 5
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em pacientes na pós-menopausa sem reposição hormonal, a causa mais frequente de sangramento uterino anormal é:",
+            "statement_text": "Em pacientes na pós-menopausa sem reposição hormonal, a causa mais frequente de sangramento uterino anormal é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "eliets.9@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 01:39:29.600246 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A.</b><div><b><br></b></div><div>Estrategista, a causa mais frequente de sangramento uterino anormal na pós menopausa é a atrofia endometrial. Esta questão é muito frequente nas provas de residência!</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F6998F25-15CB-E63C-55F8-BB566C966EDA/F6998F25-15CB-E63C-55F8-BB566C966EDA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA A.Estrategista, a causa mais frequente de sangramento uterino anormal na pós menopausa é a atrofia endometrial. Esta questão é muito frequente nas provas de residência!Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 04:48:23.788792 +0000 UTC",
+                "updated_at": "2020-10-19 04:48:25.110965 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000089233-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000084387",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "52aff9a8-fc0e-4bc7-9022-086515af3318",
+                            "name": "RJ - Fundação João Goulart - FJG"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "07e709e5-56ba-4ae8-8b0b-881fb01eafa4",
+                            "name": "Público - Municipal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D6102A12-7514-4668-9526-616E064A3A5F"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T19:58:25Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "d5f333bd12c9484f80bb22b076e2828e",
+                    "name": "Ovulatório (Distúrbios)",
+                    "is_master": false,
+                    "master_id": "d9177a919a514ea8a1c60502a576f542",
+                    "path": "Ginecologia[$$]Ginecologia endócrina[$$]Sangramento uterino anormal[$$]Etiologia[$$]Causas não estruturais (COEIN)[$$]Ovulatório (Distúrbios)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "1a01c0e0-4d30-4399-b11c-efb216afb070",
+                    "position": "0",
+                    "body": "miomatose",
+                    "sanitized_body": "miomatose",
+                    "correct": false,
+                    "created_at": "2020-09-14 19:55:48.749173 +0000 UTC",
+                    "updated_at": "2020-11-14 16:16:55.882808 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque a miomatose uterina é mais prevalente após a adolescência.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque a miomatose uterina é mais prevalente após a adolescência.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:54:20.628876 +0000 UTC",
+                        "updated_at": "2020-10-19 04:54:22.474509 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 6
+                },
+                {
+                    "id": "1eff31c9-6540-45a6-98d2-2d93d6ca5310",
+                    "position": "1",
+                    "body": "anovulação",
+                    "sanitized_body": "anovulação",
+                    "correct": true,
+                    "created_at": "2020-09-14 19:55:48.749173 +0000 UTC",
+                    "updated_at": "2020-11-14 16:16:55.921753 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B: a anovulação é a causa mais frequente de sangramento uterino anormal na adolescência, principalmente nos primeiros anos após a menarca.",
+                        "sanitized_complete": "Correta a alternativa B: a anovulação é a causa mais frequente de sangramento uterino anormal na adolescência, principalmente nos primeiros anos após a menarca.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:54:20.613862 +0000 UTC",
+                        "updated_at": "2020-10-19 04:54:22.480096 +0000 UTC"
+                    },
+                    "answer_percentage": 96,
+                    "answers": 350
+                },
+                {
+                    "id": "7b33ebf6-859a-468d-a892-d035faf7243e",
+                    "position": "2",
+                    "body": "adenomiose",
+                    "sanitized_body": "adenomiose",
+                    "correct": false,
+                    "created_at": "2020-09-14 19:55:48.749173 +0000 UTC",
+                    "updated_at": "2020-11-14 16:16:55.964324 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a adenomiose é mais frequente após os 40 anos de idade. A adenomiose é a “invasão” do miométrio pelo endométrio.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a adenomiose é mais frequente após os 40 anos de idade. A adenomiose é a “invasão” do miométrio pelo endométrio.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:54:20.622411 +0000 UTC",
+                        "updated_at": "2020-10-19 04:54:22.472997 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 2
+                },
+                {
+                    "id": "e7ac2a35-1bf1-4594-8269-82505246b5f1",
+                    "position": "3",
+                    "body": "pólipo endometrial",
+                    "sanitized_body": "pólipo endometrial",
+                    "correct": false,
+                    "created_at": "2020-09-14 19:55:48.749173 +0000 UTC",
+                    "updated_at": "2020-11-14 16:16:56.021267 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque o pólipo endometrial é mais frequente após a adolescência, geralmente após os 30 anos de idade.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque o pólipo endometrial é mais frequente após a adolescência, geralmente após os 30 anos de idade.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                        "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 04:54:20.628872 +0000 UTC",
+                        "updated_at": "2020-10-19 04:54:22.490782 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A hipótese diagnóstica mais provável de sangramento uterino anormal na adolescência é:",
+            "statement_text": "A hipótese diagnóstica mais provável de sangramento uterino anormal na adolescência é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "juninhoksantos@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 19:55:48.749173 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><b><br></b></div><div>Estrategista, na adolescência, especialmente nos primeiros anos após a menarca, o eixo hipotálamo – hipófise – ovário ainda não está completamente amadurecido e funcionante. Por isso, são frequentes ciclos anovulatórios, que levam a irregularidade menstrual comum desta fase da vida reprodutiva.&nbsp;</div><div><br></div><div>A segunda causa de sangramento uterino anormal na adolescência são as cogulopatias, principalmente a Sd. de von Willebrand.</div><div><br></div><div>Ao responder as questões sobre SUA sempre preste atenção na idade da paciente. Esta é a principal “dica”do motivo do SUA. Veja a tabela abaixo, ela irá te ajudar a responder todas estas questões:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/01EFDDF6-B676-D083-2B99-84824858123E/01EFDDF6-B676-D083-2B99-84824858123E-400.png\"><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/24EB4467-0643-CCE8-B7B8-5CBC218E5164/24EB4467-0643-CCE8-B7B8-5CBC218E5164-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002.</div><div><br></div><div>Vamos analisar as alternativas:</div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B.Estrategista, na adolescência, especialmente nos primeiros anos após a menarca, o eixo hipotálamo – hipófise – ovário ainda não está completamente amadurecido e funcionante. Por isso, são frequentes ciclos anovulatórios, que levam a irregularidade menstrual comum desta fase da vida reprodutiva. A segunda causa de sangramento uterino anormal na adolescência são as cogulopatias, principalmente a Sd. de von Willebrand.Ao responder as questões sobre SUA sempre preste atenção na idade da paciente. Esta é a principal “dica”do motivo do SUA. Veja a tabela abaixo, ela irá te ajudar a responder todas estas questões:Tabela: Causas comuns de sangramento genital de acordo com a idade (Fonte: APGO educational series on women’s health issues. Clinical management of abnormal uterine bleeding. Association of Professors of Gynecology and Obstetrics, May 2002.Vamos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+                "author_profile": {
+                    "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+                    "full_name": "Alexandre Melitto",
+                    "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+                    "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 04:54:20.885366 +0000 UTC",
+                "updated_at": "2020-10-19 04:54:22.652055 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000084387-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 36
+    }
+}

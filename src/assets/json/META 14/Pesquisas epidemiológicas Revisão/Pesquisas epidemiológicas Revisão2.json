@@ -1,0 +1,2320 @@
+{
+    "data": [
+        {
+            "id": "4000100107",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2018,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "59A5FDE9-700A-934B-623F-21B09B3B2825"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-06T18:21:16Z",
+                    "updated_at": "2020-11-26T10:54:16Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "4550b7e935a741d5b78a5023bfddca8b",
+                    "name": "Estudos Ecológicos ",
+                    "is_master": false,
+                    "master_id": "5329d0aa752b4390877f518afa462fea",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Tipos de Estudos Epidemiológicos[$$]Estudos Observacionais[$$]Estudos Seccionais/Transversais[$$]Estudos Ecológicos ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "25fdb0fb-f4da-40b0-b803-b506b4415cad",
+                    "position": "0",
+                    "body": "<div>Coorte, onde os indivíduos foram seguidos quanto à exposição ao sol em diferentes regiões do planeta.&nbsp;<br></div>",
+                    "sanitized_body": "Coorte, onde os indivíduos foram seguidos quanto à exposição ao sol em diferentes regiões do planeta. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:51:32.143579 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “a” porque o estudo não pretende analisar a evolução do adoecimento do individualmente e também não menciona haver dois grupos estudados (caso e controle).&nbsp;<div><br><div>No estudo de coorte, é realizado o <b>seguimento </b>dos indivíduos não doentes comparando a evolução entre os grupos de expostos e não expostos para avaliar se há interferência da exposição no adoecimento.</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “a” porque o estudo não pretende analisar a evolução do adoecimento do individualmente e também não menciona haver dois grupos estudados (caso e controle). No estudo de coorte, é realizado o seguimento dos indivíduos não doentes comparando a evolução entre os grupos de expostos e não expostos para avaliar se há interferência da exposição no adoecimento.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-12 19:06:21.120556 +0000 UTC",
+                        "updated_at": "2020-11-12 19:06:21.271686 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 12
+                },
+                {
+                    "id": "3b053cbe-3a3b-4876-8d3b-7d2c2c41fc56",
+                    "position": "1",
+                    "body": "<div>Ecológico, pois foram analisados agregados espaciais com dados ambientais médios.&nbsp;<br></div>",
+                    "sanitized_body": "Ecológico, pois foram analisados agregados espaciais com dados ambientais médios. ",
+                    "correct": true,
+                    "created_at": "2020-09-15 19:51:32.143579 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “b” porque o estudo Ecológico pode envolver a análise agregada de diferentes populações (ou dentro de uma mesma população) e, neste caso, também foram incluídas a avaliação de dados ambientais médios (horas médias diárias de insolação em diferentes regiões do planeta).&nbsp;<div><br><div>No estudo ecológico, a pesquisa realizada é baseada em estatísticas populacionais e, na questão, os dados foram de diferentes regiões do planeta. A unidade de observação e análise não é o indivíduo, mas<b> grupos de indivíduos ou conglomerados (populações)</b>, por isso é um <b>estudo agregado.</b> Por exemplo, a unidade pesquisada pode ser continente, país, cidade, estado, bairro, etc.&nbsp;</div><div><br></div></div>",
+                        "sanitized_complete": "Correta a alternativa “b” porque o estudo Ecológico pode envolver a análise agregada de diferentes populações (ou dentro de uma mesma população) e, neste caso, também foram incluídas a avaliação de dados ambientais médios (horas médias diárias de insolação em diferentes regiões do planeta). No estudo ecológico, a pesquisa realizada é baseada em estatísticas populacionais e, na questão, os dados foram de diferentes regiões do planeta. A unidade de observação e análise não é o indivíduo, mas grupos de indivíduos ou conglomerados (populações), por isso é um estudo agregado. Por exemplo, a unidade pesquisada pode ser continente, país, cidade, estado, bairro, etc. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-12 19:06:21.11173 +0000 UTC",
+                        "updated_at": "2020-11-12 19:06:21.273524 +0000 UTC"
+                    },
+                    "answer_percentage": 84,
+                    "answers": 161
+                },
+                {
+                    "id": "0b8ca1b7-dc61-43f4-85a2-9964d3e5d2d5",
+                    "position": "2",
+                    "body": "<div>Transversal, pois foram analisadas as incidências médias de câncer de pele em diferentes faixas etárias.&nbsp;<br></div>",
+                    "sanitized_body": "Transversal, pois foram analisadas as incidências médias de câncer de pele em diferentes faixas etárias. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:51:32.143579 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c” porque, apesar de ser um estudo ecológico que é do tipo transversal, o foco da análise não foi somente as incidências de câncer de pele nas diferentes faixas etárias, mas também as horas médias diárias de insolação em diferentes regiões do planeta.<div><br><div>Além disso, os estudos transversais podem ser de dois tipos: agregado ou individuado. Como a questão descreve um estudo agregado (por envolver diferentes regiões do planeta), a assertiva mais correta deve descrever um estudo ecológico, já que temos estudos transversais que são individuados (ex.: inquérito).</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque, apesar de ser um estudo ecológico que é do tipo transversal, o foco da análise não foi somente as incidências de câncer de pele nas diferentes faixas etárias, mas também as horas médias diárias de insolação em diferentes regiões do planeta.Além disso, os estudos transversais podem ser de dois tipos: agregado ou individuado. Como a questão descreve um estudo agregado (por envolver diferentes regiões do planeta), a assertiva mais correta deve descrever um estudo ecológico, já que temos estudos transversais que são individuados (ex.: inquérito).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-12 19:06:21.107906 +0000 UTC",
+                        "updated_at": "2020-11-12 19:06:21.275656 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 12
+                },
+                {
+                    "id": "bc3b8d2b-2453-48d8-abe3-275b01e4d84e",
+                    "position": "3",
+                    "body": "<div>Caso controle, pois foram analisados os casos de câncer de pele e comparados quanto à exposição ao sol.&nbsp;</div>",
+                    "sanitized_body": "Caso controle, pois foram analisados os casos de câncer de pele e comparados quanto à exposição ao sol. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:51:32.143579 +0000 UTC",
+                    "updated_at": "",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “d” porque o estudo não pretende fazer a análise individual dos casos e também não menciona haver dois grupos estudados (caso e controle).<div><br><div>Nos estudos de caso-controle identificamos dois grupos: um grupo de indivíduos com o desfecho (denominado <b>casos</b>) e, para <b>comparação</b>, outro grupo de indivíduos sem o desfecho (denominado <b>controles</b>). Logo após, determinamos qual a proporção de casos e controles (que foram ou não expostos) para saber se a relação de exposição foi maior no grupo dos casos, o que confirmaria a hipótese de que esta exposição seria um fator de risco para o desfecho.</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “d” porque o estudo não pretende fazer a análise individual dos casos e também não menciona haver dois grupos estudados (caso e controle).Nos estudos de caso-controle identificamos dois grupos: um grupo de indivíduos com o desfecho (denominado casos) e, para comparação, outro grupo de indivíduos sem o desfecho (denominado controles). Logo após, determinamos qual a proporção de casos e controles (que foram ou não expostos) para saber se a relação de exposição foi maior no grupo dos casos, o que confirmaria a hipótese de que esta exposição seria um fator de risco para o desfecho.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-12 19:06:21.130108 +0000 UTC",
+                        "updated_at": "2020-11-12 19:06:21.286638 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Um estudo multicêntrico avaliou a correlação entre as taxas de incidência de câncer de pele em diferentes faixas etárias e as horas médias de insolação diárias em diferentes regiões do planeta. Trata-se de um estudo:&nbsp;",
+            "statement_text": "Um estudo multicêntrico avaliou a correlação entre as taxas de incidência de câncer de pele em diferentes faixas etárias e as horas médias de insolação diárias em diferentes regiões do planeta. Trata-se de um estudo: ",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "edgard.estrategia@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 19:51:32.143579 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA B",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                "author_profile": {
+                    "id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                    "full_name": "Fernanda Lima",
+                    "avatar_url": "https://static.accounts.estrategia.com/9910c9a2655c26773767691df0184454",
+                    "about_me": "Formada em Medicina pela Universidade Federal de Sergipe, residência médica em Medicina do Trabalho pela Universidade Federal da Bahia (RQE nº 10342) com experiência em pesquisa em saúde do trabalhador no \"Institut national de santé publique du Québec\" (Montreal, Canadá).\n\nAtua como assistente técnica em perícias médicas no âmbito da saúde do trabalhador.\n\nAprovada em 1º lugar no concurso para analista judiciário (área de medicina do trabalho) do Tribunal de Justiça de Sergipe (TJSE). \n \nExperiência na área de Saúde Ocupacional no Centro Estadual de Referência em Saúde do Trabalhador (Cesat), em empresas de construção civil, no Sindicato dos Químicos e Petroleiros da Bahia, com prestação de serviços de exames ocupacionais (Caixa Econômica Federal, Braskem, Wal Mart Brasil LTDA.), em empresa de comércio varejista (Cencosud Brasil Comercial Ltda), em empresa de logística e distribuição de bebidas (Brasil Kirin Logística e Distribuição - antiga Schincariol), em indústria metalúrgica (Papaiz), no ramo de telecomunicações (ARM Telecomunicações e Serviços de Engenharia Ltda), em associação de defesa de direitos sociais (APAE Salvador) e com transporte metroviário (Companhia do Metro da Bahia - CCR Metrô BA).",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.fernandalima",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-12 19:06:21.27395 +0000 UTC",
+                "updated_at": "2020-11-12 19:06:21.336846 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000100107-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000130208",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 2,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": null,
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-12-04T22:55:25Z",
+                    "updated_at": "2020-12-05T00:03:18Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "26fbf0feb9f24e968995496f72b60248",
+                    "name": "Medicina Preventiva",
+                    "is_master": true,
+                    "path": "Medicina Preventiva",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "6d2f0d3799fa49648c2061a61ffc4c63",
+                    "name": "NNT",
+                    "is_master": false,
+                    "master_id": "800506a0ea1c4538a575ff39cbf55126",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de Associação e Medidas de Impacto[$$]NNT e NNH[$$]NNT",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "952edb30-5515-4c59-a80d-571cb1a41db7",
+                    "position": "0",
+                    "body": "O NNT não deve interferir na conduta do médico frente ao quadro leve da doença.",
+                    "sanitized_body": "O NNT não deve interferir na conduta do médico frente ao quadro leve da doença.",
+                    "correct": false,
+                    "created_at": "2020-12-05 01:06:31.826277 +0000 UTC",
+                    "updated_at": "2021-08-10 18:20:45.458619 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Se, por exemplo, o NNT for muito elevado, a melhor conduta para uma doença leve pode ser a “demora permitida”, isto é, o médico evitar de tratar (reduzindo risco de efeitos adversos e custos, por exemplo).",
+                        "sanitized_complete": "Incorreta. Se, por exemplo, o NNT for muito elevado, a melhor conduta para uma doença leve pode ser a “demora permitida”, isto é, o médico evitar de tratar (reduzindo risco de efeitos adversos e custos, por exemplo).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-25 20:17:17.360493 +0000 UTC",
+                        "updated_at": "2021-12-25 20:17:18.965363 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 2
+                },
+                {
+                    "id": "bb2ab553-fb11-4d86-9722-5126894af94d",
+                    "position": "1",
+                    "body": "O NNT é o inverso do risco relativo.",
+                    "sanitized_body": "O NNT é o inverso do risco relativo.",
+                    "correct": false,
+                    "created_at": "2020-12-05 01:06:31.826277 +0000 UTC",
+                    "updated_at": "2021-08-10 18:20:45.529541 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. O NNT é o inverso da Redução do Risco Absoluto (RRA).",
+                        "sanitized_complete": "Incorreta. O NNT é o inverso da Redução do Risco Absoluto (RRA).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-25 20:17:17.423097 +0000 UTC",
+                        "updated_at": "2021-12-25 20:17:18.980125 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 10
+                },
+                {
+                    "id": "b2c60439-d9bf-469f-94ee-aaf179391bed",
+                    "position": "2",
+                    "body": "Quanto maior o NNT menor o impacto do tratamento.",
+                    "sanitized_body": "Quanto maior o NNT menor o impacto do tratamento.",
+                    "correct": true,
+                    "created_at": "2020-12-05 01:06:31.826277 +0000 UTC",
+                    "updated_at": "2021-08-10 18:20:45.590308 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta, pois se muitas pessoas precisam tratadas para que uma tenha resposta terapêutica (elevado NNT), essa terapia representará um baixo impacto para o tratamento dos doentes (a maioria não obterá resultados).",
+                        "sanitized_complete": "Correta, pois se muitas pessoas precisam tratadas para que uma tenha resposta terapêutica (elevado NNT), essa terapia representará um baixo impacto para o tratamento dos doentes (a maioria não obterá resultados).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-25 20:17:17.410281 +0000 UTC",
+                        "updated_at": "2021-12-25 20:17:18.966559 +0000 UTC"
+                    },
+                    "answer_percentage": 86,
+                    "answers": 86
+                },
+                {
+                    "id": "c6a58db2-c96d-438b-b9f4-780932496545",
+                    "position": "3",
+                    "body": "O valor alto do NNT tem a mesma relevância tanto nos casos graves como leves da doença.",
+                    "sanitized_body": "O valor alto do NNT tem a mesma relevância tanto nos casos graves como leves da doença.",
+                    "correct": false,
+                    "created_at": "2020-12-05 01:06:31.826277 +0000 UTC",
+                    "updated_at": "2021-08-10 18:20:45.649986 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois já vimos que em casos leve o elevado NNT pode “explicar” a demora permitida, diferentemente de um caso grave, onde as terapêuticas disponíveis devem ser utilizadas.",
+                        "sanitized_complete": "Incorreta, pois já vimos que em casos leve o elevado NNT pode “explicar” a demora permitida, diferentemente de um caso grave, onde as terapêuticas disponíveis devem ser utilizadas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-25 20:17:17.409491 +0000 UTC",
+                        "updated_at": "2021-12-25 20:17:18.967437 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 2
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Os resultados de um ensaio clínico de uma droga nova permitem calcular o Número Necessário para Tratar (NNT) uma doença. Os eventos adversos não são desprezíveis.&nbsp;<div><br></div><div>ASSINALE A ALTERNATIVA CORRETA:</div>",
+            "statement_text": "Os resultados de um ensaio clínico de uma droga nova permitem calcular o Número Necessário para Tratar (NNT) uma doença. Os eventos adversos não são desprezíveis. ASSINALE A ALTERNATIVA CORRETA:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-12-05 01:06:31.826277 +0000 UTC",
+            "solution": {
+                "complete": "<!-- BEGIN:IMAGE_TO_REPLACE -->Estrategista,<div><br></div><div>o número necessário para tratar (NNT) refere-se a quantos pacientes devem ser tratados para que um deles não desenvolva determinada doença. </div><div><br></div><div>Seu cálculo é dado pelo inverso da Redução do Risco Absoluto (RRA). Veja a fórmula:</div><div><br><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5B83B970-4EE3-7BB4-0C08-309D0ACD7F84/5B83B970-4EE3-7BB4-0C08-309D0ACD7F84-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div>Analisemos as opções:</div>",
+                "sanitized_complete": "Estrategista,o número necessário para tratar (NNT) refere-se a quantos pacientes devem ser tratados para que um deles não desenvolva determinada doença. Seu cálculo é dado pelo inverso da Redução do Risco Absoluto (RRA). Veja a fórmula:Analisemos as opções:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-12-25 20:17:17.55647 +0000 UTC",
+                "updated_at": "2021-12-25 20:17:19.054204 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000130194",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 2,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": null,
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-12-04T22:55:25Z",
+                    "updated_at": "2020-12-05T00:03:18Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "26fbf0feb9f24e968995496f72b60248",
+                    "name": "Medicina Preventiva",
+                    "is_master": true,
+                    "path": "Medicina Preventiva",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "5565390eb1de4df0b5df66e904247036",
+                    "name": "Razão de Prevalências",
+                    "is_master": false,
+                    "master_id": "e3877b12e9a5496b8a6e684e19937af6",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de Associação e Medidas de Impacto[$$]Razão de Prevalências",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9bd71ee3-c452-4e7d-a49e-eff53519360d",
+                    "position": "0",
+                    "body": "O principal problema (viés) do estudo é a maior probabilidade de encontro de casos agudos entre os entrevistados.",
+                    "sanitized_body": "O principal problema (viés) do estudo é a maior probabilidade de encontro de casos agudos entre os entrevistados.",
+                    "correct": false,
+                    "created_at": "2020-12-05 00:54:33.326679 +0000 UTC",
+                    "updated_at": "2021-12-08 23:40:43.798179 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A presença de casos agudos não vai influenciar significativamente o inquérito.",
+                        "sanitized_complete": "Incorreta. A presença de casos agudos não vai influenciar significativamente o inquérito.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-09 17:23:26.544229 +0000 UTC",
+                        "updated_at": "2021-12-09 17:23:27.564697 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 13
+                },
+                {
+                    "id": "4b453c60-023c-4fb2-ada8-584429f3bab6",
+                    "position": "1",
+                    "body": "É um estudo prospectivo para analisar a associação causal entre exposição e doença.",
+                    "sanitized_body": "É um estudo prospectivo para analisar a associação causal entre exposição e doença.",
+                    "correct": false,
+                    "created_at": "2020-12-05 00:54:33.326679 +0000 UTC",
+                    "updated_at": "2021-12-08 23:40:43.95384 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. A razão de prevalências pode sugerir que haja associação, não causalidade. Ainda assim, por ser um estudo de baixo poder analítico, seu resultado estimula a produção de estudos de maior capacidade analítica (caso-controle, coorte, ensaio clínico).",
+                        "sanitized_complete": "Incorreta. A razão de prevalências pode sugerir que haja associação, não causalidade. Ainda assim, por ser um estudo de baixo poder analítico, seu resultado estimula a produção de estudos de maior capacidade analítica (caso-controle, coorte, ensaio clínico).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-09 17:23:26.566612 +0000 UTC",
+                        "updated_at": "2021-12-09 17:23:27.564723 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 3
+                },
+                {
+                    "id": "12a7b184-9ebe-44a2-b469-8a7a2be4df04",
+                    "position": "2",
+                    "body": "O principal estimador do estudo é a razão de prevalência entre os grupos de expostos e não expostos.",
+                    "sanitized_body": "O principal estimador do estudo é a razão de prevalência entre os grupos de expostos e não expostos.",
+                    "correct": true,
+                    "created_at": "2020-12-05 00:54:33.326679 +0000 UTC",
+                    "updated_at": "2021-12-08 23:40:44.157403 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta, sem ressalvas.",
+                        "sanitized_complete": "Correta, sem ressalvas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-09 17:23:26.557194 +0000 UTC",
+                        "updated_at": "2021-12-09 17:23:27.579189 +0000 UTC"
+                    },
+                    "answer_percentage": 81,
+                    "answers": 77
+                },
+                {
+                    "id": "6287d7c1-d0b9-49ae-bf3c-2c5b5c672cd1",
+                    "position": "3",
+                    "body": "Por ser um estudo de intervenção de morbidade referida, não é possível se obterassociação causal entre os grupos de estudo.",
+                    "sanitized_body": "Por ser um estudo de intervenção de morbidade referida, não é possível se obterassociação causal entre os grupos de estudo.",
+                    "correct": false,
+                    "created_at": "2020-12-05 00:54:33.326679 +0000 UTC",
+                    "updated_at": "2021-12-08 23:40:44.373213 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Não há intervenção proposta na questão.",
+                        "sanitized_complete": "Incorreta. Não há intervenção proposta na questão.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-12-09 17:23:26.519296 +0000 UTC",
+                        "updated_at": "2021-12-09 17:23:27.564682 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 2
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A associação entre a prevalência de queixas respiratórias em crianças e o hábito de fumar em membro da família foi analisada a partir de informações coletadas em entrevistas domiciliares em amostra aleatória de adultos em um distrito da cidade. <div><br></div><div>ASSINALE A ALTERNATIVA CORRETA:</div>",
+            "statement_text": "A associação entre a prevalência de queixas respiratórias em crianças e o hábito de fumar em membro da família foi analisada a partir de informações coletadas em entrevistas domiciliares em amostra aleatória de adultos em um distrito da cidade. ASSINALE A ALTERNATIVA CORRETA:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-12-05 00:54:33.326679 +0000 UTC",
+            "forum_id": "780e1952-a794-4ba2-96dc-61dc07a2e08c",
+            "solution": {
+                "complete": "Estrategista, vamos definir primeiramente o delineamento do estudo:<div><br></div><div>1)\tNão há citação na questão de intervenção a ser realizada, portanto é um estudo observacional;</div><div>2)\tOs dados coletados referem-se ao momento atual, e não do passado, sendo uma avaliação prospectiva;</div><div>3)\tNão há distintos momentos de avaliação do estudo, o que não o faz ser longitudinal, mas sim transversal.</div><div><br></div><div>Sendo um estudo observacional, prospectivo e transversal, podemos caracterizar o estudo como transversal (ou inquérito) – cuja medida de associação é a razão de prevalência.</div><div><br></div>",
+                "sanitized_complete": "Estrategista, vamos definir primeiramente o delineamento do estudo:1)\tNão há citação na questão de intervenção a ser realizada, portanto é um estudo observacional;2)\tOs dados coletados referem-se ao momento atual, e não do passado, sendo uma avaliação prospectiva;3)\tNão há distintos momentos de avaliação do estudo, o que não o faz ser longitudinal, mas sim transversal.Sendo um estudo observacional, prospectivo e transversal, podemos caracterizar o estudo como transversal (ou inquérito) – cuja medida de associação é a razão de prevalência.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-12-09 17:23:26.751642 +0000 UTC",
+                "updated_at": "2021-12-09 17:23:27.761425 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000103158",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9addd954-685f-49ad-83b1-a7941cd4e26d",
+                            "name": "SP - Universidade de São Paulo - USP (Hospital das Clínicas da Faculdade de Medicina da USP - HC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4C5420E2-C418-91FC-3927-979DBAD7A0AE"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T02:17:47Z",
+                    "updated_at": "2020-11-26T20:07:31Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "26fbf0feb9f24e968995496f72b60248",
+                    "name": "Medicina Preventiva",
+                    "is_master": true,
+                    "path": "Medicina Preventiva",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "2ffbba5aa8374eaea6048d8b6b11eb45",
+                    "name": "Ensaios clínicos",
+                    "is_master": false,
+                    "master_id": "2259f8b7f79042e98c026da69878ce42",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Tipos de Estudos Epidemiológicos[$$]Estudos Experimentais[$$]Ensaios clínicos",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "714dc262-baa5-4095-a1db-2076ff8f8b6d",
+                    "position": "0",
+                    "body": "Estudo de caso-controle.&nbsp;",
+                    "sanitized_body": "Estudo de caso-controle. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:33:26.420273 +0000 UTC",
+                    "updated_at": "2021-08-10 01:52:18.431973 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "sanitized_complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:49:18.937615 +0000 UTC",
+                        "updated_at": "2021-11-26 23:49:20.231609 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 25
+                },
+                {
+                    "id": "a225fc64-843a-4803-ab56-32a3d74aa7b1",
+                    "position": "1",
+                    "body": "Ensaio clínico.&nbsp;",
+                    "sanitized_body": "Ensaio clínico. ",
+                    "correct": true,
+                    "created_at": "2020-09-15 22:33:26.420273 +0000 UTC",
+                    "updated_at": "2021-08-10 01:52:18.560339 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Perfeita, sem ressalvas.",
+                        "sanitized_complete": "Perfeita, sem ressalvas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:49:18.948358 +0000 UTC",
+                        "updated_at": "2021-11-26 23:49:20.232447 +0000 UTC"
+                    },
+                    "answer_percentage": 68,
+                    "answers": 162
+                },
+                {
+                    "id": "8075ffa7-e257-4e77-ae8a-73d9ab224af7",
+                    "position": "2",
+                    "body": "Estudo de coorte.&nbsp;",
+                    "sanitized_body": "Estudo de coorte. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:33:26.420273 +0000 UTC",
+                    "updated_at": "2021-08-10 01:52:18.638576 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "sanitized_complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:49:18.935466 +0000 UTC",
+                        "updated_at": "2021-11-26 23:49:20.222718 +0000 UTC"
+                    },
+                    "answer_percentage": 18,
+                    "answers": 43
+                },
+                {
+                    "id": "29ccdf3c-208c-4fed-b865-7f2b0704d7e1",
+                    "position": "3",
+                    "body": "Estudo longitudinal.&nbsp;",
+                    "sanitized_body": "Estudo longitudinal. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:33:26.420273 +0000 UTC",
+                    "updated_at": "2021-08-10 01:52:18.703133 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "sanitized_complete": "Incorreta, pois é observacional e não realiza intervenção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:49:18.951513 +0000 UTC",
+                        "updated_at": "2021-11-26 23:49:20.23206 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 9
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "O diagnóstico precoce é considerado um dos fatores relevantes para o sucesso do tratamento do câncer. No sentido de avaliar a triagem populacional com mamografia para diagnóstico precoce e mortalidade dos cânceres de mama, foi realizado estudo no qual as participantes foram alocadas aleatoriamente em grupo de intervenção ou em grupo-controle. As participantes alocadas no grupo de intervenção foram submetidas anualmente à mamografia durante os cincos primeiros anos de estudo, enquanto que as do grupo-controle não receberam essa intervenção. Ambos os grupos foram acompanhados durante 25 anos. A tabela a seguir resume alguns resultados deste estudo:&nbsp;&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C77EC793-5DCA-8A93-6459-B13B473C32E5/C77EC793-5DCA-8A93-6459-B13B473C32E5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como se denomina o delineamento do estudo descrito?</div>",
+            "statement_text": "O diagnóstico precoce é considerado um dos fatores relevantes para o sucesso do tratamento do câncer. No sentido de avaliar a triagem populacional com mamografia para diagnóstico precoce e mortalidade dos cânceres de mama, foi realizado estudo no qual as participantes foram alocadas aleatoriamente em grupo de intervenção ou em grupo-controle. As participantes alocadas no grupo de intervenção foram submetidas anualmente à mamografia durante os cincos primeiros anos de estudo, enquanto que as do grupo-controle não receberam essa intervenção. Ambos os grupos foram acompanhados durante 25 anos. A tabela a seguir resume alguns resultados deste estudo:  Como se denomina o delineamento do estudo descrito?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "alicegadini@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 22:33:26.420273 +0000 UTC",
+            "forum_id": "a3015856-70cd-4283-aeee-8ca33f0ac128",
+            "solution": {
+                "complete": "<!-- BEGIN:IMAGE_TO_REPLACE -->Estrategista, <div><br></div><div>Chegaríamos ao gabarito apenas por observar que o estudo realizou uma intervenção, o que é característico dos ensaios clínicos (ou estudos experimentais).</div><div><br></div><div>Vamos lembrar os principais aspectos dos estudos epidemiológicos:</div><div><br></div><div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2F103FDB-9E8B-ABBA-B2E9-266C05E2E6F8/2F103FDB-9E8B-ABBA-B2E9-266C05E2E6F8-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div><br></div>",
+                "sanitized_complete": "Estrategista, Chegaríamos ao gabarito apenas por observar que o estudo realizou uma intervenção, o que é característico dos ensaios clínicos (ou estudos experimentais).Vamos lembrar os principais aspectos dos estudos epidemiológicos:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-11-26 23:49:19.131268 +0000 UTC",
+                "updated_at": "2021-11-26 23:49:20.326766 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000103076",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2017,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9addd954-685f-49ad-83b1-a7941cd4e26d",
+                            "name": "SP - Universidade de São Paulo - USP (Hospital das Clínicas da Faculdade de Medicina da USP - HC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4C5420E2-C418-91FC-3927-979DBAD7A0AE"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T02:17:47Z",
+                    "updated_at": "2020-11-26T20:07:31Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "229526698e354214b22be501716a32e7",
+                    "name": "Ensaios clínicos duplo-cegos randomizados",
+                    "is_master": false,
+                    "master_id": "2ffbba5aa8374eaea6048d8b6b11eb45",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Tipos de Estudos Epidemiológicos[$$]Estudos Experimentais[$$]Ensaios clínicos[$$]Ensaios clínicos duplo-cegos randomizados",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "26fbf0feb9f24e968995496f72b60248",
+                    "name": "Medicina Preventiva",
+                    "is_master": true,
+                    "path": "Medicina Preventiva",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "6b2e953c111a4db2a52d4df707d5f3c1",
+                    "name": "Odds Ratio ou Razão de Chances",
+                    "is_master": false,
+                    "master_id": "e3877b12e9a5496b8a6e684e19937af6",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de Associação e Medidas de Impacto[$$]Odds Ratio ou Razão de Chances",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "74e980f1a0714cbc928731d635de1ed5",
+                    "name": "Mortalidade Específica",
+                    "is_master": false,
+                    "master_id": "fe9f6deeefbb4fda9a2651f47ac0062c",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de saúde coletiva[$$]Principais medidas de frequência de doenças[$$]Mortalidade[$$]Mortalidade Específica",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9ca358e4-f69b-4a11-800e-02fbc4342bbe",
+                    "position": "0",
+                    "body": "Apontam que a mamografia não teve efeito na redução da mortalidade por câncer de mama.&nbsp;",
+                    "sanitized_body": "Apontam que a mamografia não teve efeito na redução da mortalidade por câncer de mama. ",
+                    "correct": true,
+                    "created_at": "2020-09-15 22:29:12.415183 +0000 UTC",
+                    "updated_at": "2021-08-10 01:51:28.864258 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta, nem tampouco representou risco (devido ao IC95%).",
+                        "sanitized_complete": "Correta, nem tampouco representou risco (devido ao IC95%).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:50:50.73656 +0000 UTC",
+                        "updated_at": "2021-12-26 21:57:06.888094 +0000 UTC"
+                    },
+                    "answer_percentage": 65,
+                    "answers": 214
+                },
+                {
+                    "id": "a25ca017-0842-46ec-93cd-a506e05eff72",
+                    "position": "1",
+                    "body": "Comprovam a eficácia do programa de triagem populacional com mamografia.&nbsp;",
+                    "sanitized_body": "Comprovam a eficácia do programa de triagem populacional com mamografia. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:29:12.415183 +0000 UTC",
+                    "updated_at": "2021-08-10 01:51:28.967236 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois não houve demonstração da redução do risco.",
+                        "sanitized_complete": "Incorreta, pois não houve demonstração da redução do risco.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:50:50.728469 +0000 UTC",
+                        "updated_at": "2021-12-26 21:57:06.98219 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 20
+                },
+                {
+                    "id": "cb9fcc1e-c3d6-460a-a614-181ab7609b99",
+                    "position": "2",
+                    "body": "São insuficientes para avaliação da eficácia da triagem populacional com mamografia.&nbsp;",
+                    "sanitized_body": "São insuficientes para avaliação da eficácia da triagem populacional com mamografia. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:29:12.415183 +0000 UTC",
+                    "updated_at": "2021-08-10 01:51:29.091942 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta, pois se o objetivo era avaliar a eficácia na população, então foi possível, e teve a conclusão foi que a mamografia não reduziu a mortalidade.",
+                        "sanitized_complete": "Incorreta, pois se o objetivo era avaliar a eficácia na população, então foi possível, e teve a conclusão foi que a mamografia não reduziu a mortalidade.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:50:50.729241 +0000 UTC",
+                        "updated_at": "2021-12-26 21:57:06.973929 +0000 UTC"
+                    },
+                    "answer_percentage": 23,
+                    "answers": 74
+                },
+                {
+                    "id": "be7f0a29-f496-4188-855c-5d3b2ad94fd4",
+                    "position": "3",
+                    "body": "Revelaram que a mamografia é eficaz porque permitiu o diagnóstico de maior número de casos.&nbsp;",
+                    "sanitized_body": "Revelaram que a mamografia é eficaz porque permitiu o diagnóstico de maior número de casos. ",
+                    "correct": false,
+                    "created_at": "2020-09-15 22:29:12.415183 +0000 UTC",
+                    "updated_at": "2021-08-10 01:51:29.175761 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Não foi eficaz, como vimos.",
+                        "sanitized_complete": "Incorreta. Não foi eficaz, como vimos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-11-26 23:50:50.733067 +0000 UTC",
+                        "updated_at": "2021-12-26 21:57:06.98441 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 19
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "O diagnóstico precoce é considerado um dos fatores relevantes para o sucesso do tratamento do câncer. No sentido de avaliar a triagem populacional com mamografia para diagnóstico precoce e mortalidade dos cânceres de mama, foi realizado estudo no qual as participantes foram alocadas aleatoriamente ao grupo de intervenção ou ao grupo controle. As participantes alocadas no grupo de intervenção foram submetidas anualmente a mamografia durante os cincos primeiros anos de estudo, enquanto que as do grupo controle não receberam essa intervenção. Ambos os grupos foram acompanhados durante 25 anos. A tabela que segue resume alguns resultados deste estudo.&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CC362718-A6DB-E9BB-EA9B-E393E0A8CA99/CC362718-A6DB-E9BB-EA9B-E393E0A8CA99-400.png\"></div><div><br></div><div><br></div><div>Com base nesses resultados, pode-se afirmar que os dados apresentados:</div>",
+            "statement_text": "O diagnóstico precoce é considerado um dos fatores relevantes para o sucesso do tratamento do câncer. No sentido de avaliar a triagem populacional com mamografia para diagnóstico precoce e mortalidade dos cânceres de mama, foi realizado estudo no qual as participantes foram alocadas aleatoriamente ao grupo de intervenção ou ao grupo controle. As participantes alocadas no grupo de intervenção foram submetidas anualmente a mamografia durante os cincos primeiros anos de estudo, enquanto que as do grupo controle não receberam essa intervenção. Ambos os grupos foram acompanhados durante 25 anos. A tabela que segue resume alguns resultados deste estudo. Com base nesses resultados, pode-se afirmar que os dados apresentados:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "alicegadini@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 22:29:12.415183 +0000 UTC",
+            "forum_id": "b7a8150a-2e78-4255-b6f7-95dd694de99f",
+            "solution": {
+                "complete": "Estrategista, a questão pede que interpretemos a informação:<div><br></div><div>Odds Ratio = 1,05 (IC 95% 0,85-1,30). </div><div><br></div><div>Vamos revisar!</div><div><br></div><div>1)\tOdds ratio (OR) </div><div>É uma medida de associação de um estudo do tipo caso-controle, e seu valor admite três possibilidades:</div><div>•\tMenor que 1,0: indica que o fator de exposição não representou risco para o desfecho, podendo ser até mesmo um fator protetor;</div><div>•\tIgual a 1,0: indica que a exposição não representou risco nem proteção para o desfecho;</div><div>•\tMaior que 1,0: indica que a exposição representou risco para o desfecho.</div><div><br></div><div>2)\tIntervalo de Confiança (IC)</div><div>Obtida a odds ratio, precisamos analisar se aquele resultado é confiável. O intervalo de confiança geralmente é estimado em 95%, e seus valores podem ser interpretados como no exemplo:</div><div>“IC 95% 1,2-2,3 = Há 95% de chance de os resultados reais do estudo estarem compreendidos entre 1,2 e 2,3, ou seja, sempre representando risco.”</div><div>Agora você associa OR e o IC.</div><div>•\tSe OR < 1 (indicando proteção ou ausência de risco), o IC 95% confirmará os resultados apenas se todos os seus valores estiverem abaixo de 1. Se incluir o 1 ou maior que 1, não garante a confiabilidade do resultado da OR;</div><div><br></div><div>•\tDo mesmo modo, se a OR > 1, o IC 95% confirmará os resultados apenas se todos os seus valores estiverem acima de 1. Se incluir o 1 ou menor que 1, não garante a confiabilidade do resultado da OR.</div><div><br></div><div>Voltando na questão: </div><div><br></div><div>OR maior que 1,0 sugere que a mamografia (exposição) possa ter representado risco para o câncer (desfecho); no entanto, o fato de o IC 95% incluir valores igual/menores que 1,0 não confirma o risco.</div><div><br></div><div>Analisemos as opções:</div><div><br></div>",
+                "sanitized_complete": "Estrategista, a questão pede que interpretemos a informação:Odds Ratio = 1,05 (IC 95% 0,85-1,30). Vamos revisar!1)\tOdds ratio (OR) É uma medida de associação de um estudo do tipo caso-controle, e seu valor admite três possibilidades:•\tMenor que 1,0: indica que o fator de exposição não representou risco para o desfecho, podendo ser até mesmo um fator protetor;•\tIgual a 1,0: indica que a exposição não representou risco nem proteção para o desfecho;•\tMaior que 1,0: indica que a exposição representou risco para o desfecho.2)\tIntervalo de Confiança (IC)Obtida a odds ratio, precisamos analisar se aquele resultado é confiável. O intervalo de confiança geralmente é estimado em 95%, e seus valores podem ser interpretados como no exemplo:“IC 95% 1,2-2,3 = Há 95% de chance de os resultados reais do estudo estarem compreendidos entre 1,2 e 2,3, ou seja, sempre representando risco.”Agora você associa OR e o IC.•\tSe OR &lt; 1 (indicando proteção ou ausência de risco), o IC 95% confirmará os resultados apenas se todos os seus valores estiverem abaixo de 1. Se incluir o 1 ou maior que 1, não garante a confiabilidade do resultado da OR;•\tDo mesmo modo, se a OR &gt; 1, o IC 95% confirmará os resultados apenas se todos os seus valores estiverem acima de 1. Se incluir o 1 ou menor que 1, não garante a confiabilidade do resultado da OR.Voltando na questão: OR maior que 1,0 sugere que a mamografia (exposição) possa ter representado risco para o câncer (desfecho); no entanto, o fato de o IC 95% incluir valores igual/menores que 1,0 não confirma o risco.Analisemos as opções:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-11-26 23:50:50.997529 +0000 UTC",
+                "updated_at": "2021-12-26 21:57:07.182286 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000126847",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2016,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T16:46:08Z",
+                    "updated_at": "2020-09-24T17:24:55Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "24f3c12dc9c844779cfa4ece4ecfe5b7",
+                    "name": "Estratégia de observação (longitudinal x transversal)",
+                    "is_master": false,
+                    "master_id": "5e020930d45c43d791d7a6811750f99f",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Classificação dos Estudos Epidemiológicos[$$]Estratégia de observação (longitudinal x transversal)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "34806d86-b2a4-48e7-a5bc-c6b43211c091",
+                    "position": "0",
+                    "body": "Selecionar um grupo de pessoas doentes e identificar as características que ocorrem com maior frequência nesse grupo.",
+                    "sanitized_body": "Selecionar um grupo de pessoas doentes e identificar as características que ocorrem com maior frequência nesse grupo.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:23:12.59775 +0000 UTC",
+                    "updated_at": "2021-07-05 21:05:04.011217 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "sanitized_complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-07-20 13:15:23.920496 +0000 UTC",
+                        "updated_at": "2021-07-20 13:15:25.384566 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 36
+                },
+                {
+                    "id": "ce8ed172-697d-484e-bc4a-082d3eb570f4",
+                    "position": "1",
+                    "body": "Selecionar um grupo de pessoas, avaliar os participantes e classificá-los em expostos e não expostos, bem como em doentes e não doentes.",
+                    "sanitized_body": "Selecionar um grupo de pessoas, avaliar os participantes e classificá-los em expostos e não expostos, bem como em doentes e não doentes.",
+                    "correct": true,
+                    "created_at": "2020-09-25 01:23:12.59775 +0000 UTC",
+                    "updated_at": "2021-07-05 21:05:04.068792 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta! Para ter uma amostragem mais próxima da realidade devemos utilizar a aleatorização (ou randomização), e depois avaliamos as características na  amostragem da população obtida.",
+                        "sanitized_complete": "Correta! Para ter uma amostragem mais próxima da realidade devemos utilizar a aleatorização (ou randomização), e depois avaliamos as características na  amostragem da população obtida.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-07-20 13:15:23.924019 +0000 UTC",
+                        "updated_at": "2021-07-20 13:15:25.215661 +0000 UTC"
+                    },
+                    "answer_percentage": 71,
+                    "answers": 360
+                },
+                {
+                    "id": "e7a2fc58-608c-4083-9bdd-409c6ac135fc",
+                    "position": "2",
+                    "body": "Selecionar um grupo de pessoas doentes e um grupo de pessoas não doentes para identificar as características que ocorrem com maior frequência entre os doentes.",
+                    "sanitized_body": "Selecionar um grupo de pessoas doentes e um grupo de pessoas não doentes para identificar as características que ocorrem com maior frequência entre os doentes.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:23:12.59775 +0000 UTC",
+                    "updated_at": "2021-07-05 21:05:04.105075 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "sanitized_complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-07-20 13:15:23.926026 +0000 UTC",
+                        "updated_at": "2021-07-20 13:15:25.204577 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 71
+                },
+                {
+                    "id": "c5fe90da-f88f-4bb2-bc2d-691c176bbef8",
+                    "position": "3",
+                    "body": "Selecionar um grupo de pessoas não doentes, classificar os participantes quanto às exposições de interesse e acompanhá-los ao longo do tempo para avaliar a ocorrência de casos novos de doenças nos grupos.",
+                    "sanitized_body": "Selecionar um grupo de pessoas não doentes, classificar os participantes quanto às exposições de interesse e acompanhá-los ao longo do tempo para avaliar a ocorrência de casos novos de doenças nos grupos.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:23:12.59775 +0000 UTC",
+                    "updated_at": "2021-07-05 21:05:04.157674 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "sanitized_complete": "Incorreta. Devemos selecionar a amostragem populacional aleatoriamente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2021-07-20 13:15:23.964523 +0000 UTC",
+                        "updated_at": "2021-07-20 13:15:25.204047 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 42
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Uma nova Unidade Básica de Saúde será implantada em determinada localidade. Para tanto, a equipe responsável pela implantação da unidade deve realizar um estudo local com o objetivo de conhecer o perfil epidemiológico, elaborar a programação de atividades e a estruturação do processo de trabalho. Nessa situação, o delineamento de estudo adequado para alcançar os objetivos propostos é:",
+            "statement_text": "Uma nova Unidade Básica de Saúde será implantada em determinada localidade. Para tanto, a equipe responsável pela implantação da unidade deve realizar um estudo local com o objetivo de conhecer o perfil epidemiológico, elaborar a programação de atividades e a estruturação do processo de trabalho. Nessa situação, o delineamento de estudo adequado para alcançar os objetivos propostos é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "keniagabriela.santos@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 01:23:12.59775 +0000 UTC",
+            "solution": {
+                "complete": "Estrategista, a questão se relaciona à estatística e não à atenção primária. Perceba que se quer fazer um estudo para conhecer as características da população.<div><br></div><div>Não podemos selecionar propositalmente determinados grupos populacionais, caso contrário não iremos refletir a realidade da comunidade como um todo. Para evitar isto, a forma de obtenção da amostragem populacional deve ser aleatória (ou randomizada).</div><div><br></div><div>A partir de uma seleção ao acaso da amostra, então pode ser feita a alocação (distribuição) por grupos de interesse para se estudar a representatividade de tais características na população.</div><div><br></div><div>Um exemplo: se começamos um estudo para conhecer um bairro escolhendo 10 pessoas doentes com hepatite crônica, pensaremos que a hepatite pode ser o grande problema do bairro e desconsiderar outras doenças expressivas (e a realidade pode ser o inverso: pode haver somente aquelas pessoas com hepatite em todo o bairro).</div><div><br></div><div>Vejamos as alternativas:</div><div><br></div>",
+                "sanitized_complete": "Estrategista, a questão se relaciona à estatística e não à atenção primária. Perceba que se quer fazer um estudo para conhecer as características da população.Não podemos selecionar propositalmente determinados grupos populacionais, caso contrário não iremos refletir a realidade da comunidade como um todo. Para evitar isto, a forma de obtenção da amostragem populacional deve ser aleatória (ou randomizada).A partir de uma seleção ao acaso da amostra, então pode ser feita a alocação (distribuição) por grupos de interesse para se estudar a representatividade de tais características na população.Um exemplo: se começamos um estudo para conhecer um bairro escolhendo 10 pessoas doentes com hepatite crônica, pensaremos que a hepatite pode ser o grande problema do bairro e desconsiderar outras doenças expressivas (e a realidade pode ser o inverso: pode haver somente aquelas pessoas com hepatite em todo o bairro).Vejamos as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-07-20 13:15:24.146938 +0000 UTC",
+                "updated_at": "2021-07-20 13:15:25.243076 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126847-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000127250",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "b98ca8146b424c57a60c949f99efdc74",
+                    "name": "Risco Relativo (RR) (Razão de Riscos)",
+                    "is_master": false,
+                    "master_id": "e3877b12e9a5496b8a6e684e19937af6",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de Associação e Medidas de Impacto[$$]Risco Relativo (RR) (Razão de Riscos)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "073de592-8fbc-4a7f-9185-8c97583a14c3",
+                    "position": "0",
+                    "body": "1.",
+                    "sanitized_body": "1.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:55.449159 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2021-11-17 11:34:00.411636 +0000 UTC",
+                        "updated_at": "2021-11-17 11:34:03.130937 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 17
+                },
+                {
+                    "id": "dd5c72bd-45e6-4060-b72f-38593058cc2c",
+                    "position": "1",
+                    "body": "2.",
+                    "sanitized_body": "2.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:55.497914 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2021-11-17 11:34:00.419511 +0000 UTC",
+                        "updated_at": "2021-11-17 11:34:03.144022 +0000 UTC"
+                    },
+                    "answer_percentage": 61,
+                    "answers": 172
+                },
+                {
+                    "id": "ae85028d-0485-47b4-81a0-d0d370832e7f",
+                    "position": "2",
+                    "body": "3.",
+                    "sanitized_body": "3.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:55.547376 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2021-11-17 11:34:00.405243 +0000 UTC",
+                        "updated_at": "2021-11-17 11:34:03.130285 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 24
+                },
+                {
+                    "id": "0b0b241d-0e47-4c45-ae01-292e792d18a9",
+                    "position": "3",
+                    "body": "4.",
+                    "sanitized_body": "4.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:55.613261 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2021-11-17 11:34:00.419072 +0000 UTC",
+                        "updated_at": "2021-11-17 11:34:03.131165 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 25
+                },
+                {
+                    "id": "ec21ac51-cad3-4c36-acf6-4e60d9ce8cd1",
+                    "position": "4",
+                    "body": "5.",
+                    "sanitized_body": "5.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:55.66285 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2021-11-17 11:34:00.431783 +0000 UTC",
+                        "updated_at": "2021-11-17 11:34:03.144024 +0000 UTC"
+                    },
+                    "answer_percentage": 15,
+                    "answers": 43
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi o de averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos. Os dados disponíveis do estudo são:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/38F6AF8B-B7F9-F60A-6580-6EB03B170DF4/38F6AF8B-B7F9-F60A-6580-6EB03B170DF4-400.jpeg\"></div><div><br><div>Qual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?</div></div>",
+            "statement_text": "Foi realizado estudo epidemiológico, durante período de 10 anos, entre indivíduos usuários de uma determinada droga, alguns a usavam por via inalatória, outros, por via intravenosa. O objetivo do estudo foi o de averiguar se a via de administração da droga poderia estar relacionada com maior mortalidade em um dos grupos. Os dados disponíveis do estudo são:Qual o risco relativo de morte ao se usar a droga na forma injetável em relação à forma inalatória?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 12:47:28.023632 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>O risco relativo (RR) é a razão de duas probabilidades: a probabilidade de um evento ocorrer em indivíduos expostos comparada à probabilidade de o evento ocorrer em não expostos.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/95F63902-D8E7-F61D-F4C7-CF0686C5288C/95F63902-D8E7-F61D-F4C7-CF0686C5288C-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A incidência de óbito no grupo “Injetável” é de 400/5000 = 0,08. Já a incidência no grupo “inalatório” é de é de 80/2.000= 0,04.</div><div><br></div><div>Para o cálculo do risco relativo dividiremos então a incidência do grupo “injetável” pelo grupo “Inalatório”.Teremos 0,08/0,04 = 2</div><div><br></div><div>Logo, o <b>gabarito é a alternativa B. </b></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BO risco relativo (RR) é a razão de duas probabilidades: a probabilidade de um evento ocorrer em indivíduos expostos comparada à probabilidade de o evento ocorrer em não expostos.A incidência de óbito no grupo “Injetável” é de 400/5000 = 0,08. Já a incidência no grupo “inalatório” é de é de 80/2.000= 0,04.Para o cálculo do risco relativo dividiremos então a incidência do grupo “injetável” pelo grupo “Inalatório”.Teremos 0,08/0,04 = 2Logo, o gabarito é a alternativa B.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                "author_profile": {
+                    "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                    "full_name": "Bruno de Castro e Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+                    "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-11-17 11:34:00.558722 +0000 UTC",
+                "updated_at": "2021-11-17 11:34:03.211667 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127250-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000127247",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "131d6e9fcbb547649ca54257c11c5a9b",
+                    "name": "valor p e intervalo de confiança",
+                    "is_master": false,
+                    "master_id": "8723968e1c0f4420af23b74cc47a40d4",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Princípios de Estatística (Bioestatística ou Estatística Médica)[$$]Análise estatística[$$]valor p e intervalo de confiança",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b98ca8146b424c57a60c949f99efdc74",
+                    "name": "Risco Relativo (RR) (Razão de Riscos)",
+                    "is_master": false,
+                    "master_id": "e3877b12e9a5496b8a6e684e19937af6",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de Associação e Medidas de Impacto[$$]Risco Relativo (RR) (Razão de Riscos)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "781acd8e-0ba0-41e1-9c46-fbc5f577796a",
+                    "position": "0",
+                    "body": "Mães agricultoras têm risco 50% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "sanitized_body": "Mães agricultoras têm risco 50% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:11.175857 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 64,
+                    "answers": 110
+                },
+                {
+                    "id": "0272480d-c8fa-4be4-9620-9757fe4c94d1",
+                    "position": "1",
+                    "body": "Mães agricultoras têm risco 95% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "sanitized_body": "Mães agricultoras têm risco 95% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:11.21808 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 22,
+                    "answers": 38
+                },
+                {
+                    "id": "3f428346-3ace-4075-9c16-51e3ef717dc6",
+                    "position": "2",
+                    "body": "Mães agricultoras têm risco 102% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "sanitized_body": "Mães agricultoras têm risco 102% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:11.263916 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 2,
+                    "answers": 3
+                },
+                {
+                    "id": "9e555d13-86e7-4e85-9f7e-bbb0aab1a4d0",
+                    "position": "3",
+                    "body": "Mães agricultoras têm risco 150% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "sanitized_body": "Mães agricultoras têm risco 150% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:11.306571 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 12,
+                    "answers": 21
+                },
+                {
+                    "id": "9a25b136-bf7b-4d96-99a5-5176064f44ed",
+                    "position": "4",
+                    "body": "Mães agricultoras têm risco 257% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "sanitized_body": "Mães agricultoras têm risco 257% maior de conceber filhos com má formação congênita em relação a mães não-agricultoras.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+                    "updated_at": "2021-07-06 10:10:11.343677 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Considere uma comunidade rural, onde um número aparentemente elevado de neonatos com má formação congênita é atribuído pelas mães agricultoras aos   agrotóxicos utilizados na lavoura. Ao realizar um estudo de coorte retrospectivo dos nascimentos ocorridos na cidade nos últimos três anos, foi encontrado um risco relativo igual a 1,5, com um intervalo de confiança de 95%, entre 1,02 e 2,57.<div><br></div><div>Qual a interpretação desse estudo?</div>",
+            "statement_text": "Considere uma comunidade rural, onde um número aparentemente elevado de neonatos com má formação congênita é atribuído pelas mães agricultoras aos   agrotóxicos utilizados na lavoura. Ao realizar um estudo de coorte retrospectivo dos nascimentos ocorridos na cidade nos últimos três anos, foi encontrado um risco relativo igual a 1,5, com um intervalo de confiança de 95%, entre 1,02 e 2,57.Qual a interpretação desse estudo?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "created_at": "2020-09-25 12:43:27.054381 +0000 UTC",
+            "solution": {
+                "complete": "",
+                "sanitized_complete": "",
+                "complete_attachments": [],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [],
+                "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                "author_profile": null
+            },
+            "status": {
+                "value": "ANSWER_REQUESTED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127247-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000127225",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "e9514b513c9e47748e2cf78bee7b9e9d",
+                    "name": "Quasi-experimento",
+                    "is_master": false,
+                    "master_id": "2ffbba5aa8374eaea6048d8b6b11eb45",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Tipos de Estudos Epidemiológicos[$$]Estudos Experimentais[$$]Ensaios clínicos[$$]Quasi-experimento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f0af5d59-e084-4334-997d-b6d223073ec6",
+                    "position": "0",
+                    "body": "randomizado.",
+                    "sanitized_body": "randomizado.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:05:59.982641 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 9,
+                    "answers": 16
+                },
+                {
+                    "id": "f419d437-d160-429a-8efe-808c866ec577",
+                    "position": "1",
+                    "body": "quasi-experimental.",
+                    "sanitized_body": "quasi-experimental.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.045127 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 41,
+                    "answers": 69
+                },
+                {
+                    "id": "6c888973-e4cc-4592-81ed-965572ba1447",
+                    "position": "2",
+                    "body": "caso-controle.",
+                    "sanitized_body": "caso-controle.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.0858 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 26,
+                    "answers": 44
+                },
+                {
+                    "id": "9e3ae7ec-02a8-4395-85ea-5b6cca7b22f2",
+                    "position": "3",
+                    "body": "descritivo.",
+                    "sanitized_body": "descritivo.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.138325 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 11,
+                    "answers": 19
+                },
+                {
+                    "id": "d577316a-0928-4a79-973c-e6e629a293c2",
+                    "position": "4",
+                    "body": "transversal.",
+                    "sanitized_body": "transversal.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.180664 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 12,
+                    "answers": 21
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Visando aferir, em nosso meio, os fatores que influenciam no crescimento de pré- escolares, com destaque para a suplementação nutricional, foi desenvolvido um estudo  em uma população de bairro periférico de uma cidade do interior paulista. Durante um ano, em quatro observações trimestrais, acompanhou-se a evolução de indicadores de peso e altura de 444 crianças, identificadas em censo específico. Entre essas, 164 eram assistidas por creche local, enquanto as outras 280 não recebiam esse tipo de tratamento. A admissão a essa creche dava-se por meio da comprovação de que a mãe trabalhava   fora do lar. O plano analítico adotou a análise multivariada por regressão linear múltipla.&nbsp;<div><br></div><div>Quanto ao delineamento, podemos afirmar que esse estudo é:</div>",
+            "statement_text": "Visando aferir, em nosso meio, os fatores que influenciam no crescimento de pré- escolares, com destaque para a suplementação nutricional, foi desenvolvido um estudo  em uma população de bairro periférico de uma cidade do interior paulista. Durante um ano, em quatro observações trimestrais, acompanhou-se a evolução de indicadores de peso e altura de 444 crianças, identificadas em censo específico. Entre essas, 164 eram assistidas por creche local, enquanto as outras 280 não recebiam esse tipo de tratamento. A admissão a essa creche dava-se por meio da comprovação de que a mãe trabalhava   fora do lar. O plano analítico adotou a análise multivariada por regressão linear múltipla. Quanto ao delineamento, podemos afirmar que esse estudo é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+            "solution": {
+                "complete": "",
+                "sanitized_complete": "",
+                "complete_attachments": [],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [],
+                "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                "author_profile": null
+            },
+            "status": {
+                "value": "ANSWER_REQUESTED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127225-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 34
+    }
+}

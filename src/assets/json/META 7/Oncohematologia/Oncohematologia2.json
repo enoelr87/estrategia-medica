@@ -1,0 +1,299 @@
+{
+    "data": [
+        {
+            "id": "4000129269",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2012,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-11-24T13:01:40Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "57e5fa729fb54fceb8a404d869cd527f",
+                    "name": "Classificação da leucemia linfoide aguda - LLA (morfológica, citogenética e biologia molecular)",
+                    "is_master": false,
+                    "master_id": "ec69991f91b4411fb86e07a8dc1bf10c",
+                    "path": "Clínica Médica[$$]Hematologia [$$]Leucemias[$$]Leucemias agudas[$$]Leucemia linfoide aguda (LLA)[$$]Classificação da leucemia linfoide aguda - LLA (morfológica, citogenética e biologia molecular)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "449f8a13-2f9f-49c1-b44b-76c2d462c585",
+                    "position": "0",
+                    "body": "Leucometria &gt; 50 000 leucócitos/mm³ .<div>&nbsp;</div>",
+                    "sanitized_body": "Leucometria &gt; 50 000 leucócitos/mm³ . ",
+                    "correct": false,
+                    "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+                    "updated_at": "2021-08-28 13:46:45.672445 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Errado. Como vimos na tabela acima, leucocitose acima de 50mil é fator de mau prognóstico na LLA. ",
+                        "sanitized_complete": "Errado. Como vimos na tabela acima, leucocitose acima de 50mil é fator de mau prognóstico na LLA.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                        "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                        "author_profile": null,
+                        "created_at": "2022-10-22 22:58:50.70771 +0000 UTC",
+                        "updated_at": "2022-10-22 23:09:28.885895 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 11
+                },
+                {
+                    "id": "6b194916-5355-4ca2-bfc2-3c65fea120a7",
+                    "position": "1",
+                    "body": "Plaquetometria &lt; 150 000/mm³ .<div>&nbsp;</div>",
+                    "sanitized_body": "Plaquetometria &lt; 150 000/mm³ . ",
+                    "correct": false,
+                    "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+                    "updated_at": "2021-08-28 13:46:45.837921 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Plaquetometria não possui peso prognóstico na LLA, não aparecendo na nossa tabela.",
+                        "sanitized_complete": "Plaquetometria não possui peso prognóstico na LLA, não aparecendo na nossa tabela.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                        "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                        "author_profile": null,
+                        "created_at": "2022-10-22 22:58:50.716181 +0000 UTC",
+                        "updated_at": "2022-10-22 23:09:28.887851 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 4
+                },
+                {
+                    "id": "d0536efb-90f9-4a16-8b82-972146b1f17c",
+                    "position": "2",
+                    "body": "Evolução de doença &lt; 6 meses.<div>&nbsp;</div>",
+                    "sanitized_body": "Evolução de doença &lt; 6 meses. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+                    "updated_at": "2021-08-28 13:46:45.915618 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Tempo de instalação da doença não possui peso prognóstico na LLA, não aparecendo na nossa tabela.",
+                        "sanitized_complete": "Tempo de instalação da doença não possui peso prognóstico na LLA, não aparecendo na nossa tabela.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                        "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                        "author_profile": null,
+                        "created_at": "2022-10-22 22:58:50.719554 +0000 UTC",
+                        "updated_at": "2022-10-22 23:09:28.889407 +0000 UTC"
+                    },
+                    "answer_percentage": 21,
+                    "answers": 50
+                },
+                {
+                    "id": "601018c4-438d-4189-a92f-76bf0edc5b44",
+                    "position": "3",
+                    "body": "Atipia linfocitária &gt; 30%.<div>&nbsp;</div>",
+                    "sanitized_body": "Atipia linfocitária &gt; 30%. ",
+                    "correct": false,
+                    "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+                    "updated_at": "2021-08-28 13:46:45.996367 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Novamente, essa atipia linfocitária descrita nem mesmo deve ser verdade, provavelmente \"mascarando\" a presença de blastos. ",
+                        "sanitized_complete": "Novamente, essa atipia linfocitária descrita nem mesmo deve ser verdade, provavelmente &#34;mascarando&#34; a presença de blastos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                        "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                        "author_profile": null,
+                        "created_at": "2022-10-22 22:58:50.717736 +0000 UTC",
+                        "updated_at": "2022-10-22 23:09:28.890933 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 14
+                },
+                {
+                    "id": "81767cc4-95a0-4d5c-a884-ab5640c5ee50",
+                    "position": "4",
+                    "body": "Idade do paciente &gt; 1 ano.",
+                    "sanitized_body": "Idade do paciente &gt; 1 ano.",
+                    "correct": true,
+                    "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+                    "updated_at": "2021-08-28 13:46:46.07622 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "É mais ou menos isso, Estrategista. Pacientes de 01 a 09 anos são aqueles com melhor prognóstico na LLA. Ainda que a alternativa tenha sido incompleta, é a que melhor responde a questão. ",
+                        "sanitized_complete": "É mais ou menos isso, Estrategista. Pacientes de 01 a 09 anos são aqueles com melhor prognóstico na LLA. Ainda que a alternativa tenha sido incompleta, é a que melhor responde a questão.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                        "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                        "author_profile": null,
+                        "created_at": "2022-10-22 22:58:50.722451 +0000 UTC",
+                        "updated_at": "2022-10-22 23:09:28.89611 +0000 UTC"
+                    },
+                    "answer_percentage": 67,
+                    "answers": 159
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Um pré-escolar de 3 anos de idade foi levado ao pediatra de um pequeno Centro de Saúde regional para avaliação de palidez cutâneo-mucosa. A mãe relatou que a criança sempre gozou de boa saúde. Entretanto, há cerca de 2 meses, tem se apresentado prostrada. Além disso, tem se mostrado cada vez mais pálida e, no último mês, surgiram pequenas manchas vermelhas na pele. Ao exame: a criança se apresentava hipoativa, hipocorada 2+/4+, hidratada, anictérica e acianótica. Foi detectada poliadenomegalia cervical e inguinal. As auscultas respiratória e cardíaca estavam normais. O abdome estava distendido, flácido, indolor, com fígado palpável a 5 cm do rebordo costal direito e o baço palpável a 3 cm do rebordo costal esquerdo. Foi detectado rash petequial disseminado. O hemograma evidencia hematócrito de 22% (valor de referência = 36 ± 4%), hemoglobina de 7 g/dL (valor de referência = 11,8 ± 1,2 g/dL), volume corpuscular médio de 85 fL (valor de referência = 80 fL), concentração de hemoglobina corpuscular média de 32 g/dL (valor de referência = 32 g/dL), 75 000 leucócitos/mm³(valor de referência = 4 000 a 14 000 leucócitos/mm³ ) com atipia linfocitária acima de 30%, e plaquetometria de 15 000 plaquetas/mm (valor de referência = 140 000 a 400 000 plaquetas/mm³ ).<div><br></div><div>Tendo em vista o provável diagnóstico, qual dos fatores descritos neste caso está associado a um bom prognóstico para este paciente?</div><div><br></div>",
+            "statement_text": "Um pré-escolar de 3 anos de idade foi levado ao pediatra de um pequeno Centro de Saúde regional para avaliação de palidez cutâneo-mucosa. A mãe relatou que a criança sempre gozou de boa saúde. Entretanto, há cerca de 2 meses, tem se apresentado prostrada. Além disso, tem se mostrado cada vez mais pálida e, no último mês, surgiram pequenas manchas vermelhas na pele. Ao exame: a criança se apresentava hipoativa, hipocorada 2+/4+, hidratada, anictérica e acianótica. Foi detectada poliadenomegalia cervical e inguinal. As auscultas respiratória e cardíaca estavam normais. O abdome estava distendido, flácido, indolor, com fígado palpável a 5 cm do rebordo costal direito e o baço palpável a 3 cm do rebordo costal esquerdo. Foi detectado rash petequial disseminado. O hemograma evidencia hematócrito de 22% (valor de referência = 36 ± 4%), hemoglobina de 7 g/dL (valor de referência = 11,8 ± 1,2 g/dL), volume corpuscular médio de 85 fL (valor de referência = 80 fL), concentração de hemoglobina corpuscular média de 32 g/dL (valor de referência = 32 g/dL), 75 000 leucócitos/mm³(valor de referência = 4 000 a 14 000 leucócitos/mm³ ) com atipia linfocitária acima de 30%, e plaquetometria de 15 000 plaquetas/mm (valor de referência = 140 000 a 400 000 plaquetas/mm³ ).Tendo em vista o provável diagnóstico, qual dos fatores descritos neste caso está associado a um bom prognóstico para este paciente?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vitoria21ribeiro@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-11-24 14:06:01.84429 +0000 UTC",
+            "solution": {
+                "complete": "Primeiro, Estrategista, precisamos definir qual o diagnóstico de nosso paciente. Temos uma <b>criança de 3 anos com linfoadenomegalias disseminadas, hepatoesplenomegalia, anemia e plaquetopenia</b>. Só isso nos deve alertar para a provável causa, mas é a leucometria que entrega a resposta: temos uma grande <b>leucocitose</b>, muito provavelmente secundária a uma<b> leucemia linfoblástica aguda</b>, a <b>LLA</b>, leucemia mais comum da infância. <div><br></div><div>Lembre-se que a LLA é uma neoplasia dos precursores linfoides, em que uma célula neoplásica se prolifera sem controle, fazendo a medula óssea ser ocupada por<b> linfoblastos doentes</b>, impedindo a produção normal de células, o que explica a anemia e plaquetopenia de nosso caso. Esses linfoblastos normalmente caem na circulação, causando <b>leucocitose </b>e infiltrando tecidos como <b>linfonodos, fígado e baço</b>. Esse mecanismo fisiopatológico está resumido na imagem abaixo, veja com atenção. </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AA82DF16-BB25-A1E7-98E8-BEEC1E06E36D/AA82DF16-BB25-A1E7-98E8-BEEC1E06E36D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Você deve estar se perguntando onde estão os <b>blastos </b>de nosso caso, Estrategista. Lembre-se que, muitas vezes, essas células podem ser <b>confundidas com \"linfócitos atípicos\" </b>ou mesmo linfócitos normais no hemograma e é justamente o que acontece em nosso caso: a atipia linfocitária descrita não deve ser atipia em si, mas sim <b>linfoblastos circulantes</b>! Por isso saber identificar o quadro clínico da LLA é muito importante. </div><div><br></div><div>Agora vamos falar da parte mais decoreba: algumas vezes as bancas examinadores nos cobram quais são os fatores prognósticos na LLA. Lembre-se que essa leucemia tem uma característica muito marcante de incidir especialmente em crianças, sendo altamente curável na faixa etária de<b> 01 a 09 anos</b>. Esse é, portanto, o fator prognóstico mais importante na doença. Outros fatores importantes estão listados abaixo: </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C4234ED8-DB48-7D42-11F0-ABC7E5A4D4C5/C4234ED8-DB48-7D42-11F0-ABC7E5A4D4C5-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Com essa tabela em mente, vamos às alternativas: </div>",
+                "sanitized_complete": "Primeiro, Estrategista, precisamos definir qual o diagnóstico de nosso paciente. Temos uma criança de 3 anos com linfoadenomegalias disseminadas, hepatoesplenomegalia, anemia e plaquetopenia. Só isso nos deve alertar para a provável causa, mas é a leucometria que entrega a resposta: temos uma grande leucocitose, muito provavelmente secundária a uma leucemia linfoblástica aguda, a LLA, leucemia mais comum da infância. Lembre-se que a LLA é uma neoplasia dos precursores linfoides, em que uma célula neoplásica se prolifera sem controle, fazendo a medula óssea ser ocupada por linfoblastos doentes, impedindo a produção normal de células, o que explica a anemia e plaquetopenia de nosso caso. Esses linfoblastos normalmente caem na circulação, causando leucocitose e infiltrando tecidos como linfonodos, fígado e baço. Esse mecanismo fisiopatológico está resumido na imagem abaixo, veja com atenção. Você deve estar se perguntando onde estão os blastos de nosso caso, Estrategista. Lembre-se que, muitas vezes, essas células podem ser confundidas com &#34;linfócitos atípicos&#34; ou mesmo linfócitos normais no hemograma e é justamente o que acontece em nosso caso: a atipia linfocitária descrita não deve ser atipia em si, mas sim linfoblastos circulantes! Por isso saber identificar o quadro clínico da LLA é muito importante. Agora vamos falar da parte mais decoreba: algumas vezes as bancas examinadores nos cobram quais são os fatores prognósticos na LLA. Lembre-se que essa leucemia tem uma característica muito marcante de incidir especialmente em crianças, sendo altamente curável na faixa etária de 01 a 09 anos. Esse é, portanto, o fator prognóstico mais importante na doença. Outros fatores importantes estão listados abaixo: Com essa tabela em mente, vamos às alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+                "author_profile": {
+                    "id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+                    "full_name": "Hugo Brisolla",
+                    "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+                    "about_me": "Formado em Medicina pela Universidade Estadual de Londrina - UEL, residência em Clínica Médica pela Universidade Estadual de Londrina - UEL, residência em Hematologia e Hemoterapia pelo Hospital Israelita Albert Einstein. Atualmente, médico hematologista do Hospital do Câncer de Londrina e professor do Estratégia MED.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/hugobrisolla",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-10-22 22:58:51.073489 +0000 UTC",
+                "updated_at": "2022-10-22 23:09:29.233289 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129269-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

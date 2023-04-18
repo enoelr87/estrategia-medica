@@ -1,0 +1,360 @@
+{
+    "data": [
+        {
+            "id": "4000003326",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "bed775aa-f660-4b68-a735-c82f49cfa04b",
+                            "name": "AC - Hospital Oftalmológico do Acre - HOA"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                            "name": "Oftalmologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "0B8BD62F-0371-60E0-25B2-12557F2EAF83"
+                        },
+                        {
+                            "type": "NOTICE",
+                            "url": "ED50BFEC-607F-230E-7471-25B7A95F1995"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T12:28:57Z",
+                    "updated_at": "2020-09-05T13:57:50Z",
+                    "location": {
+                        "id": "122"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "4244d5b8e7114ffe8c7be430d31b8eca",
+                    "name": "Impetigo bolhoso",
+                    "is_master": false,
+                    "master_id": "9a7d02b8ec8e4b40a01d2d573e84eaba",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Infecções bacterianas[$$]Infecção de pele e partes moles (Piodermites)[$$]Infecções bacterianas superficiais[$$]Impetigo[$$]Impetigo bolhoso",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "4fbf8a67-fc28-4f61-a8ee-2f22aa64f832",
+                    "position": "0",
+                    "body": "Ectima inicial de etiologia estafilocócica.",
+                    "sanitized_body": "Ectima inicial de etiologia estafilocócica.",
+                    "correct": false,
+                    "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+                    "updated_at": "2020-12-06 15:55:53.292945 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "d022ebb53e3f43d7aee3d931881053ba",
+                            "name": "Ectima",
+                            "is_master": false,
+                            "master_id": "b1da03b09838401aae0edb21e432d0f9",
+                            "path": "Clínica Médica[$$]Infectologia [$$]Infecções bacterianas[$$]Infecção de pele e partes moles (Piodermites)[$$]Infecções bacterianas superficiais[$$]Ectima",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa A) Incorreta. O ectima é uma piodermite causada geralmente pelo Streptococcus pyogenes. É mais profunda que o impetigo podendo comprometer até o subcutâneo levando a cicatrizes. Geralmente localiza-se em áreas de trauma como os membros inferiores.",
+                        "sanitized_complete": "Alternativa A) Incorreta. O ectima é uma piodermite causada geralmente pelo Streptococcus pyogenes. É mais profunda que o impetigo podendo comprometer até o subcutâneo levando a cicatrizes. Geralmente localiza-se em áreas de trauma como os membros inferiores.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-12-06 15:52:55.007814 +0000 UTC",
+                        "updated_at": "2020-12-06 15:53:04.24702 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "303ba43f-7b35-4149-8a60-a70d0579e20e",
+                    "position": "1",
+                    "body": "Impetigo bolhoso de etiologia estraptocócica.",
+                    "sanitized_body": "Impetigo bolhoso de etiologia estraptocócica.",
+                    "correct": false,
+                    "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+                    "updated_at": "2020-12-06 15:55:53.589558 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "4244d5b8e7114ffe8c7be430d31b8eca",
+                            "name": "Impetigo bolhoso",
+                            "is_master": false,
+                            "master_id": "9a7d02b8ec8e4b40a01d2d573e84eaba",
+                            "path": "Clínica Médica[$$]Infectologia [$$]Infecções bacterianas[$$]Infecção de pele e partes moles (Piodermites)[$$]Infecções bacterianas superficiais[$$]Impetigo[$$]Impetigo bolhoso",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa B) Incorreta. Como falamos no comentário do enunciado, todos os casos de impetigo bolhoso são causados por S. aureus. Alguns casos de impetigo não bolhoso (crostoso) estão relacionados com S. pyogenes.",
+                        "sanitized_complete": "Alternativa B) Incorreta. Como falamos no comentário do enunciado, todos os casos de impetigo bolhoso são causados por S. aureus. Alguns casos de impetigo não bolhoso (crostoso) estão relacionados com S. pyogenes.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-12-06 15:52:55.019186 +0000 UTC",
+                        "updated_at": "2020-12-06 15:53:04.308308 +0000 UTC"
+                    },
+                    "answer_percentage": 22,
+                    "answers": 63
+                },
+                {
+                    "id": "933e6200-640d-4f6a-ad1b-6c7a01704716",
+                    "position": "2",
+                    "body": "Pênfigo foliáceo infectado.",
+                    "sanitized_body": "Pênfigo foliáceo infectado.",
+                    "correct": false,
+                    "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+                    "updated_at": "2020-12-06 15:55:53.813805 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "c08393c493074764800a8730aeefbfe3",
+                            "name": "Apresentação clínica",
+                            "is_master": false,
+                            "master_id": "3a833261ddcc4e6594a6b9579a454477",
+                            "path": "Clínica Médica[$$]Dermatologia [$$]Dermatoses vesicobolhosas[$$]Dermatoses bolhosas intraepidérmicas[$$]Pênfigo foliáceo[$$]Apresentação clínica",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa C) Incorreta. O pênfigo foliáceo é uma dermatose vesicobolhosa autoimune. Possui duas formas clínicas principais: o endêmico (ou “fogo selvagem”) e o esporádico (ou de Cazenave). Ambos possuem características clínicas, histológicas e imunológicas semelhantes, porém diferem em aspectos epidermiológicos. Enquanto que no “fogo selvagem” há história familiar e pacientes mais jovens são acometidos, no Pênfigo de Cazenave, na maioria da vezes, a doença manifesta-se a a partir da quarta década de vida.&nbsp;<div><br><div>Clinicamente há bolhas tão superficiais que na maioria das vezes só conseguimos visualizar a erosão por elas deixadas. São mais comuns nas áreas seborreicas, como na face, tronco anterior e dorso superior. Histologicamente encontra-se clivagem subcórnea e na imunofluorescência evidencia-se depósito de IgG intercelular na camada espinhosa.</div><div><br></div></div>",
+                        "sanitized_complete": "Alternativa C) Incorreta. O pênfigo foliáceo é uma dermatose vesicobolhosa autoimune. Possui duas formas clínicas principais: o endêmico (ou “fogo selvagem”) e o esporádico (ou de Cazenave). Ambos possuem características clínicas, histológicas e imunológicas semelhantes, porém diferem em aspectos epidermiológicos. Enquanto que no “fogo selvagem” há história familiar e pacientes mais jovens são acometidos, no Pênfigo de Cazenave, na maioria da vezes, a doença manifesta-se a a partir da quarta década de vida. Clinicamente há bolhas tão superficiais que na maioria das vezes só conseguimos visualizar a erosão por elas deixadas. São mais comuns nas áreas seborreicas, como na face, tronco anterior e dorso superior. Histologicamente encontra-se clivagem subcórnea e na imunofluorescência evidencia-se depósito de IgG intercelular na camada espinhosa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-12-06 15:52:55.008401 +0000 UTC",
+                        "updated_at": "2020-12-06 15:53:04.254629 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 7
+                },
+                {
+                    "id": "192deb97-b7e5-4fa9-a337-536e733606d2",
+                    "position": "3",
+                    "body": "Impetigo bolhoso de etiologia estafilocócica.",
+                    "sanitized_body": "Impetigo bolhoso de etiologia estafilocócica.",
+                    "correct": true,
+                    "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+                    "updated_at": "2020-12-06 15:55:53.993555 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "4244d5b8e7114ffe8c7be430d31b8eca",
+                            "name": "Impetigo bolhoso",
+                            "is_master": false,
+                            "master_id": "9a7d02b8ec8e4b40a01d2d573e84eaba",
+                            "path": "Clínica Médica[$$]Infectologia [$$]Infecções bacterianas[$$]Infecção de pele e partes moles (Piodermites)[$$]Infecções bacterianas superficiais[$$]Impetigo[$$]Impetigo bolhoso",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa D) Correta. Observe a descrição de bolhas com conteúdo purulento evoluindo para crostas melicéricas. Isso é característica do impetigo bolhoso que sempre é causada por S. aureus. O tratamento é feito com antibióticos tópicos na maior parte das vezes.",
+                        "sanitized_complete": "Alternativa D) Correta. Observe a descrição de bolhas com conteúdo purulento evoluindo para crostas melicéricas. Isso é característica do impetigo bolhoso que sempre é causada por S. aureus. O tratamento é feito com antibióticos tópicos na maior parte das vezes.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-12-06 15:52:55.019246 +0000 UTC",
+                        "updated_at": "2020-12-06 15:53:04.301331 +0000 UTC"
+                    },
+                    "answer_percentage": 73,
+                    "answers": 211
+                },
+                {
+                    "id": "94af1b6a-5c08-4909-974b-22e51142c953",
+                    "position": "4",
+                    "body": "Foliculite superficial de etiologia estreptocócica.",
+                    "sanitized_body": "Foliculite superficial de etiologia estreptocócica.",
+                    "correct": false,
+                    "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+                    "updated_at": "2020-12-06 15:55:54.265159 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "3a8c3403149c472db5e316252883cbad",
+                            "name": "Foliculite",
+                            "is_master": false,
+                            "master_id": "0d5fdea8bad04c9b93a516dc7382b671",
+                            "path": "Clínica Médica[$$]Infectologia [$$]Infecções bacterianas[$$]Infecção de pele e partes moles (Piodermites)[$$]Infecções bacterianas do folículo piloso[$$]Foliculite",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Alternativa E) Incorreta. A foliculite é caracterizada pela presença de pústulas ao redor de folículos pilosos. Não é essa a descrição do nosso paciente. A maior parte das foliculites é de responsabilidade de S. aureus.",
+                        "sanitized_complete": "Alternativa E) Incorreta. A foliculite é caracterizada pela presença de pústulas ao redor de folículos pilosos. Não é essa a descrição do nosso paciente. A maior parte das foliculites é de responsabilidade de S. aureus.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                        "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                        "author_profile": null,
+                        "created_at": "2020-12-06 15:52:55.008206 +0000 UTC",
+                        "updated_at": "2020-12-06 15:53:04.247426 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Menino com cinco anos de idade, natura e procedente de São Paulo (capital), apresenta há 2 semanas lesões bolhosas de conteúdo purulento e erosões recobertas por crostas melicéricas que estão se espalhando em toda a face. A provável hipótese diagnóstica é:",
+            "statement_text": "Menino com cinco anos de idade, natura e procedente de São Paulo (capital), apresenta há 2 semanas lesões bolhosas de conteúdo purulento e erosões recobertas por crostas melicéricas que estão se espalhando em toda a face. A provável hipótese diagnóstica é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "aanahcorrea@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-09 17:08:57.302202 +0000 UTC",
+            "solution": {
+                "complete": "Gabarito: D<div>Muita atenção para essa descrição, pois ela é bem característica. Quando você estiver diante de uma questão que descreve crostas melicéricas (amareladas) o diagnóstico quase sempre será de impetigo! Vamos aproveitar para revisar sobre impetigo.</div><div><br></div><div>&nbsp;O impetigo é a principal causa de infecção cutânea bacteriana em crianças. A doença ocorre por contato direto da pele sã com a pele doente e as lesões tendem a se espalhar com rapidez. Existem duas formas clínicas: bolhoso e não bolhoso. O Staphylococcus aureus é o principal causador do impetigo não bolhoso e de todos os casos de impetigo bolhoso. O Streptococcus pyogenes é responsável pelos demais casos de impetigo não bolhoso. O tipo bolhoso acomete principalmente neonatos. Pode ocorrer fraqueza, febre e diarreia. As lesões podem ser únicas ou múltiplas e se iniciam como máculas eritematosas que, após algumas horas, se transformam em vesículas, pústulas ou mesmo bolhas com conteúdo purulento. Pode ocorrer na face, nádegas, região genital e extremidades.</div><div><br></div>",
+                "sanitized_complete": "Gabarito: DMuita atenção para essa descrição, pois ela é bem característica. Quando você estiver diante de uma questão que descreve crostas melicéricas (amareladas) o diagnóstico quase sempre será de impetigo! Vamos aproveitar para revisar sobre impetigo. O impetigo é a principal causa de infecção cutânea bacteriana em crianças. A doença ocorre por contato direto da pele sã com a pele doente e as lesões tendem a se espalhar com rapidez. Existem duas formas clínicas: bolhoso e não bolhoso. O Staphylococcus aureus é o principal causador do impetigo não bolhoso e de todos os casos de impetigo bolhoso. O Streptococcus pyogenes é responsável pelos demais casos de impetigo não bolhoso. O tipo bolhoso acomete principalmente neonatos. Pode ocorrer fraqueza, febre e diarreia. As lesões podem ser únicas ou múltiplas e se iniciam como máculas eritematosas que, após algumas horas, se transformam em vesículas, pústulas ou mesmo bolhas com conteúdo purulento. Pode ocorrer na face, nádegas, região genital e extremidades.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                "author_profile": {
+                    "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                    "full_name": "Bruno de Castro e Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+                    "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-12-06 15:52:55.13601 +0000 UTC",
+                "updated_at": "2020-12-06 15:53:04.452074 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000003326-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

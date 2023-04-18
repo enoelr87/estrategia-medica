@@ -9,6 +9,8 @@ import { DropdownModule } from 'primeng/dropdown';
 import { CardModule } from 'primeng/card';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { TooltipModule } from 'primeng/tooltip';
+import { AccordionModule } from 'primeng/accordion';
+import { RadioButtonModule } from 'primeng/radiobutton';
 
 
 @NgModule({
@@ -26,6 +28,8 @@ import { TooltipModule } from 'primeng/tooltip';
     DropdownModule,
     CardModule,
     TooltipModule,
+    AccordionModule,
+    RadioButtonModule,
   ],
   exports: [
     CommonModule,
@@ -40,6 +44,8 @@ import { TooltipModule } from 'primeng/tooltip';
     DropdownModule,
     CardModule,
     TooltipModule,
+    AccordionModule,
+    RadioButtonModule,
   ]
 })
 export class SharedModule { }

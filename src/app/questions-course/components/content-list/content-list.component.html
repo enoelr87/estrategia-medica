@@ -1,0 +1,64 @@
+<div class="metas-list w-full" [ngClass]="{'hidden': activeContent, 'block': !activeContent}">
+    <h2>METAS</h2>
+    <p-accordion class="w-full">
+        <p-accordionTab *ngFor="let json of jsonFiles; let l=index" header="{{json.meta}}" class="w-full"
+            [(selected)]="activeState[l]">
+            <div class="meta-pdf" [ngClass]="{'disabled': l >= 1 && user.role.includes('Testing')}">
+                <a class="card text-center w-full my-2 mx-0 px-0 py-3 cursor-pointer hover:text-blue-500 hover:bg-gray-200 hover:text-bold" 
+                    [ngClass]="{'disabled': l >= 1 && user.role.includes('Testing')}" target="_blank"
+                    href="../assets/json/{{json.metaPdf}}">{{json.metaPdf}}</a>
+            </div>
+            <div *ngFor="let content of json.listContent; let i=index" class="list-content" [ngClass]="{'disabled': i >= 1 && user.role.includes('Testing')}">
+                <a class="card w-full my-2 mx-0 px-0 py-3 cursor-pointer hover:text-blue-500 hover:bg-gray-200 hover:text-bold"
+                    [ngClass]="{'disabled': i >= 1 && user.role.includes('Testing')}"
+                    (click)="showQuestionsList(json.meta, content, l)">{{content}}</a>
+            </div>
+        </p-accordionTab>
+    </p-accordion>
+</div>
+
+<div class="questions-list py-3" [ngClass]="{'hidden': !activeContent, 'block': activeContent}">
+    <button pButton type="button" icon="pi pi-arrow-left" label="Atrás" (click)="activeContent = ''"></button>
+    <p class="font-bold text-xl ">{{activeMeta}}:</p>
+    <p class="font-bold text-lg ">Lista de questões a resolver:</p>
+    <p><b>Tema:</b> {{activeContent}}</p>
+
+    <div class="card-container">
+        <div *ngFor="let question of questionsListFormatted; let i=index" class="question m-2 m-2 w-full">
+            <div class="question-number font-bold mb-2 text-center">Questão #{{i+1}}</div>
+            <div class="question-header flex flex-row justify-content-between p-2">
+                <div class="title font-semibold">{{question.title}}</div>
+                <div class="subtitle font-semibold">{{question.subtitle}}</div>
+            </div>
+            <div class="question-body my-3">
+                <div class="text">{{question.questionText}}</div>
+            </div>
+            <div class="question-possible-answers">
+                <div *ngFor="let option of question.options; let y=index" class="option-value py-2">
+                    <div class="option flex justify-content-start gap-2 w-full">
+                        <span
+                            class="letter uppercase font-semibold text-center flex justify-content-center align-items-center bg-bluegray-100 py-1 px-2">{{consecutiveLetters(y)}}</span>
+                        <p-radioButton [inputId]="option.text" name="option-{{i}}" [value]="option"
+                            [(ngModel)]="selectedOptions[i]"></p-radioButton>
+                        <label [for]="option.text">{{option.text}}</label>
+                    </div>
+                    <div class="comment w-full mt-2 p-2 hidden"
+                        [ngClass]="{'correct': option.correct, 'incorrect': !option.correct, 'block': activeQuestion === i && activeOptionQuestion}">
+                        {{option.comment ? option.comment : 'Não tem comentário'}}</div>
+                </div>
+            </div>
+            <div class="question-solution p-3 my-3 border-dashed border-blue-500 text-blue-500 hidden"
+                [ngClass]="{'block': activeQuestion === i && activeOptionQuestion}">
+                {{question.solution}}
+            </div>
+            <div class="check-validity">
+                <button pButton type="button"
+                    icon="pi {{activeQuestion === i && activeOptionQuestion ? (activeQuestion === i && activeOptionQuestion.correct ? 'pi-check' : 'pi-times') : ''}}"
+                    class="{{activeQuestion === i && activeOptionQuestion ? (activeQuestion === i && activeOptionQuestion.correct ? 'p-button-success' : 'p-button-danger') : 'p-button-info'}}"
+                    iconPos="left" [label]="textCheckButtons[i]" class="w-full" (click)="checkAnswer(i)"
+                    [disabled]="this.selectedOptions[i] == null"></button>
+            </div>
+        </div>
+
+    </div>
+</div>

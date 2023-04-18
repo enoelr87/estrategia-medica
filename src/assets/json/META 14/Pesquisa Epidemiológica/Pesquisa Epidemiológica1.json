@@ -1,0 +1,220 @@
+{
+    "data": [
+        {
+            "id": "4000127225",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "e9514b513c9e47748e2cf78bee7b9e9d",
+                    "name": "Quasi-experimento",
+                    "is_master": false,
+                    "master_id": "2ffbba5aa8374eaea6048d8b6b11eb45",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Estudos Epidemiológicos[$$]Tipos de Estudos Epidemiológicos[$$]Estudos Experimentais[$$]Ensaios clínicos[$$]Quasi-experimento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f0af5d59-e084-4334-997d-b6d223073ec6",
+                    "position": "0",
+                    "body": "randomizado.",
+                    "sanitized_body": "randomizado.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:05:59.982641 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 10,
+                    "answers": 16
+                },
+                {
+                    "id": "f419d437-d160-429a-8efe-808c866ec577",
+                    "position": "1",
+                    "body": "quasi-experimental.",
+                    "sanitized_body": "quasi-experimental.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.045127 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 41,
+                    "answers": 69
+                },
+                {
+                    "id": "6c888973-e4cc-4592-81ed-965572ba1447",
+                    "position": "2",
+                    "body": "caso-controle.",
+                    "sanitized_body": "caso-controle.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.0858 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 26,
+                    "answers": 44
+                },
+                {
+                    "id": "9e3ae7ec-02a8-4395-85ea-5b6cca7b22f2",
+                    "position": "3",
+                    "body": "descritivo.",
+                    "sanitized_body": "descritivo.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.138325 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 11,
+                    "answers": 19
+                },
+                {
+                    "id": "d577316a-0928-4a79-973c-e6e629a293c2",
+                    "position": "4",
+                    "body": "transversal.",
+                    "sanitized_body": "transversal.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+                    "updated_at": "2021-07-06 10:06:00.180664 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [],
+                        "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                        "author_profile": null
+                    },
+                    "answer_percentage": 12,
+                    "answers": 20
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Visando aferir, em nosso meio, os fatores que influenciam no crescimento de pré- escolares, com destaque para a suplementação nutricional, foi desenvolvido um estudo  em uma população de bairro periférico de uma cidade do interior paulista. Durante um ano, em quatro observações trimestrais, acompanhou-se a evolução de indicadores de peso e altura de 444 crianças, identificadas em censo específico. Entre essas, 164 eram assistidas por creche local, enquanto as outras 280 não recebiam esse tipo de tratamento. A admissão a essa creche dava-se por meio da comprovação de que a mãe trabalhava   fora do lar. O plano analítico adotou a análise multivariada por regressão linear múltipla.&nbsp;<div><br></div><div>Quanto ao delineamento, podemos afirmar que esse estudo é:</div>",
+            "statement_text": "Visando aferir, em nosso meio, os fatores que influenciam no crescimento de pré- escolares, com destaque para a suplementação nutricional, foi desenvolvido um estudo  em uma população de bairro periférico de uma cidade do interior paulista. Durante um ano, em quatro observações trimestrais, acompanhou-se a evolução de indicadores de peso e altura de 444 crianças, identificadas em censo específico. Entre essas, 164 eram assistidas por creche local, enquanto as outras 280 não recebiam esse tipo de tratamento. A admissão a essa creche dava-se por meio da comprovação de que a mãe trabalhava   fora do lar. O plano analítico adotou a análise multivariada por regressão linear múltipla. Quanto ao delineamento, podemos afirmar que esse estudo é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "created_at": "2020-09-25 12:26:56.781497 +0000 UTC",
+            "solution": {
+                "complete": "",
+                "sanitized_complete": "",
+                "complete_attachments": [],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [],
+                "author_email_id": "d41d8cd98f00b204e9800998ecf8427e",
+                "author_profile": null
+            },
+            "status": {
+                "value": "ANSWER_REQUESTED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127225-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

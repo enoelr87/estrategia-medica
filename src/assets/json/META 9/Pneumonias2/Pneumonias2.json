@@ -1,0 +1,2177 @@
+{
+    "data": [
+        {
+            "id": "4000033338",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "06a40386-1ed7-4afc-a6b9-fe8ec9509d90",
+                            "name": "ES - Universidade Federal do Espírito Santo - UFES (Hospital Universitário Cassiano Antônio de Moraes - HUCAM)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "13E986CD-99C3-BBBD-8368-117A4D0D5870"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-04T19:14:55Z",
+                    "updated_at": "2020-11-26T10:15:45Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b01b60a672df4965a889ef446cda5671",
+                    "name": "Pneumologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Pneumologia ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "c4c64998-570c-40a1-ae4d-0a5e93b06d61",
+                    "position": "0",
+                    "body": "Azitromicina por 5 dias.",
+                    "sanitized_body": "Azitromicina por 5 dias.",
+                    "correct": true,
+                    "created_at": "2020-09-11 14:21:23.518946 +0000 UTC",
+                    "updated_at": "2020-11-23 15:25:00.834723 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa A, porque, de acordo com as recomendações para o manejo da pneumonia adquirida na comunidade (atualizado em 2018) da Sociedade Brasileira de Pneumologia, o uso de azitromicina é uma opção terapêutica para tratamento ambulatorial de PAC em pacientes sem comorbidades, sem uso recente de antibióticos (últimos 90 dias), sem fator de risco para resistência, sem contraindicação ou história de alergia a essas drogas. Atenção! <i>Sabemos que no Brasil a resistência do Pneumococo aos macrolídeos está em torno de 20%, sendo discutível essa recomendação de utilizar a azitromicina em monoterapia para tratar pneumonia</i>.",
+                        "sanitized_complete": "Correta a alternativa A, porque, de acordo com as recomendações para o manejo da pneumonia adquirida na comunidade (atualizado em 2018) da Sociedade Brasileira de Pneumologia, o uso de azitromicina é uma opção terapêutica para tratamento ambulatorial de PAC em pacientes sem comorbidades, sem uso recente de antibióticos (últimos 90 dias), sem fator de risco para resistência, sem contraindicação ou história de alergia a essas drogas. Atenção! Sabemos que no Brasil a resistência do Pneumococo aos macrolídeos está em torno de 20%, sendo discutível essa recomendação de utilizar a azitromicina em monoterapia para tratar pneumonia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:10:42.67807 +0000 UTC"
+                    },
+                    "answer_percentage": 67,
+                    "answers": 336
+                },
+                {
+                    "id": "666a4e1f-12b3-4060-b328-d5599fda8931",
+                    "position": "1",
+                    "body": "Levofloxacino por 5 dias.",
+                    "sanitized_body": "Levofloxacino por 5 dias.",
+                    "correct": false,
+                    "created_at": "2020-09-11 14:21:23.518946 +0000 UTC",
+                    "updated_at": "2020-11-23 15:25:00.919676 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque, devido aos potenciais eventos adversos graves, o uso de fluoroquinolonas para tratamento ambulatorial de PAC deve ser reservado a alérgicos a beta-lactâmicos ou macrolídeos que tenham fatores de risco para resistência, doença mais grave ou quando não houver outra opção de tratamento.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque, devido aos potenciais eventos adversos graves, o uso de fluoroquinolonas para tratamento ambulatorial de PAC deve ser reservado a alérgicos a beta-lactâmicos ou macrolídeos que tenham fatores de risco para resistência, doença mais grave ou quando não houver outra opção de tratamento.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:10:42.705294 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 31
+                },
+                {
+                    "id": "8f5e318e-e83d-4ea5-819e-94a51209849a",
+                    "position": "2",
+                    "body": "Ceftriaxona + claritromicina por 7 dias.",
+                    "sanitized_body": "Ceftriaxona + claritromicina por 7 dias.",
+                    "correct": false,
+                    "created_at": "2020-09-11 14:21:23.518946 +0000 UTC",
+                    "updated_at": "2020-11-23 15:25:00.981468 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque há maior risco de infecção por patógenos resistentes e de falência terapêutica quando há história de uso de um antibiótico nos últimos três meses, pacientes provenientes de área onde a resistência aos macrolídeos é superior a 25% e na presença de doenças associadas (DPOC, doença hepática ou renal, câncer, diabetes, insuficiência cardíaca congestiva, alcoolismo ou imunossupressão). Para esses casos está indicado o uso de beta-lactâmico com macrolídeo, mas essa situação não é reproduzida no enunciado.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque há maior risco de infecção por patógenos resistentes e de falência terapêutica quando há história de uso de um antibiótico nos últimos três meses, pacientes provenientes de área onde a resistência aos macrolídeos é superior a 25% e na presença de doenças associadas (DPOC, doença hepática ou renal, câncer, diabetes, insuficiência cardíaca congestiva, alcoolismo ou imunossupressão). Para esses casos está indicado o uso de beta-lactâmico com macrolídeo, mas essa situação não é reproduzida no enunciado.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:10:42.683017 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 24
+                },
+                {
+                    "id": "bdae93cb-b07d-44e3-8cb5-9d09b1a62b11",
+                    "position": "3",
+                    "body": "Amoxicilina+ácido clavulânico+claritromicina por 7 dias.",
+                    "sanitized_body": "Amoxicilina+ácido clavulânico+claritromicina por 7 dias.",
+                    "correct": false,
+                    "created_at": "2020-09-11 14:21:23.518946 +0000 UTC",
+                    "updated_at": "2020-11-23 15:25:01.040935 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque como já explicitado no comentário da alternativa C, o uso ambulatorial de beta-lactâmico com macrolídeos para tratar PAC depende da presença de fatores de risco, doença mais grave ou uso recente de antibióticos.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque como já explicitado no comentário da alternativa C, o uso ambulatorial de beta-lactâmico com macrolídeos para tratar PAC depende da presença de fatores de risco, doença mais grave ou uso recente de antibióticos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:10:42.647789 +0000 UTC"
+                    },
+                    "answer_percentage": 22,
+                    "answers": 112
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Homem de 54 anos, sem fatores de risco, apresenta tosse produtiva há 3 dias com expectoração purulenta e febre de 39ºC. Ao exame físico apresenta roncos esparsos e estertores crepitantes em terço médio do hemitórax direito. Assinale o esquema de antibioticoterapia mais indicado neste caso.",
+            "statement_text": "Homem de 54 anos, sem fatores de risco, apresenta tosse produtiva há 3 dias com expectoração purulenta e febre de 39ºC. Ao exame físico apresenta roncos esparsos e estertores crepitantes em terço médio do hemitórax direito. Assinale o esquema de antibioticoterapia mais indicado neste caso.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "alicegadini@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-11 14:21:23.518946 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Futuro residente, nessa questão a banca apresenta um quadro respiratório agudo com febre e evidência de estertoração segmentar, o que sugere a hipótese diagnóstica de pneumonia adquirida na comunidade (PAC). A banca deseja saber o esquema antimicrobiano apropriado para o caso clínico.</div><div><br></div><div>O Primeiro passo consiste em definir o local de tratamento adequado para esse paciente. Para tal, como não temos resultados de exames laboratoriais, podemos aplicar um escore preditor de risco chamado CRB-65. Esse instrumento validado ajuda a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração.&nbsp;</div><div><br></div><div>Esse escore baseia-se em variáveis das quais deriva seu nome (em inglês), sendo que cada item confere 1 ponto: confusão mental; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. É uma versão simplificada do CURB-65 que não utiliza o valor da ureia.</div><div><br></div><div>De acordo com a pontuação no CRB-65 podemos definir o melhor local para tratamento do paciente:</div><div><br></div><div>- 0 ponto: candidato a tratamento ambulatorial</div><div><br></div><div>- 1 a 2 pontos: candidato a tratamento internado&nbsp;</div><div><br></div><div>- ≥ 3 pontos: hospitalização urgente</div><div><br></div><div>Nesse caso o paciente recebe 0 ponto e poderia receber tratamento ambulatorial para PAC.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AFuturo residente, nessa questão a banca apresenta um quadro respiratório agudo com febre e evidência de estertoração segmentar, o que sugere a hipótese diagnóstica de pneumonia adquirida na comunidade (PAC). A banca deseja saber o esquema antimicrobiano apropriado para o caso clínico.O Primeiro passo consiste em definir o local de tratamento adequado para esse paciente. Para tal, como não temos resultados de exames laboratoriais, podemos aplicar um escore preditor de risco chamado CRB-65. Esse instrumento validado ajuda a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração. Esse escore baseia-se em variáveis das quais deriva seu nome (em inglês), sendo que cada item confere 1 ponto: confusão mental; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. É uma versão simplificada do CURB-65 que não utiliza o valor da ureia.De acordo com a pontuação no CRB-65 podemos definir o melhor local para tratamento do paciente:- 0 ponto: candidato a tratamento ambulatorial- 1 a 2 pontos: candidato a tratamento internado - ≥ 3 pontos: hospitalização urgenteNesse caso o paciente recebe 0 ponto e poderia receber tratamento ambulatorial para PAC.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-20 11:10:42.882318 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000026045",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goiás - UFG (Hospital das Clínicas de Goiás - HC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FE1967F2-6F31-7D6D-7B8A-B79305E1EE2E"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T15:10:09Z",
+                    "updated_at": "2021-01-28T17:33:06Z",
+                    "location": {
+                        "id": "10"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "2b01ccbfdd0345da9238761f34fd147a",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b01b60a672df4965a889ef446cda5671",
+                    "name": "Pneumologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Pneumologia ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "04c78911-cd56-4b61-a44c-1660014dbf4a",
+                    "position": "0",
+                    "body": "Internação hospitalar e iniciar uso de ceftriaxone, via endovenosa.",
+                    "sanitized_body": "Internação hospitalar e iniciar uso de ceftriaxone, via endovenosa.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:27:37.403064 +0000 UTC",
+                    "updated_at": "2021-01-09 16:51:09.096519 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Nosso paciente pontua 0 pontos no CRB-65 e, por isso, é candidato a tratamento ambulatorial.",
+                        "sanitized_complete": "Incorreta. Nosso paciente pontua 0 pontos no CRB-65 e, por isso, é candidato a tratamento ambulatorial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-11 17:36:23.929001 +0000 UTC",
+                        "updated_at": "2021-01-11 17:36:24.388749 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 5
+                },
+                {
+                    "id": "61476919-3f88-4e4a-8af8-a794f9c709f9",
+                    "position": "1",
+                    "body": "Internação hospitalar e iniciar uso de levofloxacina, via endovenosa.",
+                    "sanitized_body": "Internação hospitalar e iniciar uso de levofloxacina, via endovenosa.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:27:37.403064 +0000 UTC",
+                    "updated_at": "2021-01-09 16:51:09.185819 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Nosso paciente pontua 0 pontos no CRB-65 e, por isso, é candidato a tratamento ambulatorial.",
+                        "sanitized_complete": "Incorreta. Nosso paciente pontua 0 pontos no CRB-65 e, por isso, é candidato a tratamento ambulatorial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-11 17:36:23.932471 +0000 UTC",
+                        "updated_at": "2021-01-11 17:36:24.387436 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "7c47068e-959f-456a-ab5f-3e793a803bb7",
+                    "position": "2",
+                    "body": "Tratamento domiciliar e iniciar uso de levofloxacina e azitromicina, via oral.",
+                    "sanitized_body": "Tratamento domiciliar e iniciar uso de levofloxacina e azitromicina, via oral.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:27:37.403064 +0000 UTC",
+                    "updated_at": "2021-01-09 16:51:09.265286 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. Pacientes com PAC que são candidatos a tratamento com quinolona respiratória são aqueles que tem critério de internação hospitalar, seja em enfermaria, seja em leito de terapia intensiva.",
+                        "sanitized_complete": "Incorreta. Pacientes com PAC que são candidatos a tratamento com quinolona respiratória são aqueles que tem critério de internação hospitalar, seja em enfermaria, seja em leito de terapia intensiva.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-11 17:36:23.927752 +0000 UTC",
+                        "updated_at": "2021-01-11 17:36:24.39427 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 28
+                },
+                {
+                    "id": "1613d73a-42a2-4bf7-93c0-1a1bcfedd000",
+                    "position": "3",
+                    "body": "Tratamento domiciliar e iniciar uso de amoxacilina/clavulanato, via oral.",
+                    "sanitized_body": "Tratamento domiciliar e iniciar uso de amoxacilina/clavulanato, via oral.",
+                    "correct": true,
+                    "created_at": "2020-09-10 22:27:37.403064 +0000 UTC",
+                    "updated_at": "2021-01-09 16:51:09.350142 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta. Nosso paciente é candidato a tratamento domiciliar (ambulatorial) e, como regime antimicrobiano de escolha, aminopenicilina ou aminopenicilina + inibidor.",
+                        "sanitized_complete": "Correta. Nosso paciente é candidato a tratamento domiciliar (ambulatorial) e, como regime antimicrobiano de escolha, aminopenicilina ou aminopenicilina + inibidor.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2021-01-11 17:36:23.938706 +0000 UTC",
+                        "updated_at": "2021-01-11 17:36:24.393478 +0000 UTC"
+                    },
+                    "answer_percentage": 93,
+                    "answers": 466
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente do sexo masculino, de 48 anos, sem história de patologias prévias. Iniciou sintomas há cerca de sete dias de febre alta, tosse produtiva com escarro amarelado, falta de ar e dor torácica ventilatório dependente em região de hemitórax esquerdo. Procurou atendimento médico e foi diagnosticado com pneumonia. Ao exame físico, apresentava frequência cardíaca: 78 BPM, frequência respiratória: 18 IRM, pressão arterial: 120x80 mmHg, saturação periférica de oxigênio 98% em ar ambiente, em bom estado geral, eupneico, hidratado, consciente, orientado, ausculta pulmonar com estertores finos na  base hemitórax esquerdo. Exames laboratoriais sem alterações. Sem história de alergia a medicamentos ou uso de antibióticos recentes. Qual é a conduta adequada para esse paciente?",
+            "statement_text": "Paciente do sexo masculino, de 48 anos, sem história de patologias prévias. Iniciou sintomas há cerca de sete dias de febre alta, tosse produtiva com escarro amarelado, falta de ar e dor torácica ventilatório dependente em região de hemitórax esquerdo. Procurou atendimento médico e foi diagnosticado com pneumonia. Ao exame físico, apresentava frequência cardíaca: 78 BPM, frequência respiratória: 18 IRM, pressão arterial: 120x80 mmHg, saturação periférica de oxigênio 98% em ar ambiente, em bom estado geral, eupneico, hidratado, consciente, orientado, ausculta pulmonar com estertores finos na  base hemitórax esquerdo. Exames laboratoriais sem alterações. Sem história de alergia a medicamentos ou uso de antibióticos recentes. Qual é a conduta adequada para esse paciente?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "vidalrj161@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 22:27:37.403064 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Estrategista, quer uma dica quente? Pintou questão de Pneumonia Adquirida na Comunidade (PAC), veja o que será cobrado. Se é a necessidade ou não de internação e gravidade, veja primeiro se o paciente apresenta ureia dosada, já que se não apresentar, devemos utilizar a escala CRB-65. Entretanto, veja que nosso paciente apresenta ureia. Logo, utilizaremos a escala CURB-65.&nbsp;<br></div><div><br></div><div>Veja que nosso paciente tem 48 anos, sem comorbidades, e já tem diagnóstico de PAC. Exame físico sem sinais de alarme e em bom estado geral, com alterações à ausculta que são condizentes com o diagnóstico de base, ou seja, estamos no cenário mais favorável possível no contexto da PAC, que é o paciente sem comorbidades e sem alterações nos sinais vitais e no nível / conteúdo de consciência.</div><div><br></div><div>Vamos avaliar a gravidade de nosso paciente, de acordo com o CRB-65:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FD93558C-66A2-2018-7AFF-A682FBCF2730/FD93558C-66A2-2018-7AFF-A682FBCF2730-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Quais desses critérios nossa paciente apresenta? Nenhum! Por isso, como nosso paciente pontua 0 pontos no CRB-65, é candidato a tratamento ambulatorial, com baixa taxa de mortalidade.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/61A0D9E8-1D67-B7D6-64C4-B64B08C1319D/61A0D9E8-1D67-B7D6-64C4-B64B08C1319D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>E qual o esquema de escolha para pacientes SEM COMORBIDADES e em tratamento ambulatorial? Veja a tabela acima!</div><div><br></div><div>Vamos avaliar as alternativas que seguem:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DEstrategista, quer uma dica quente? Pintou questão de Pneumonia Adquirida na Comunidade (PAC), veja o que será cobrado. Se é a necessidade ou não de internação e gravidade, veja primeiro se o paciente apresenta ureia dosada, já que se não apresentar, devemos utilizar a escala CRB-65. Entretanto, veja que nosso paciente apresenta ureia. Logo, utilizaremos a escala CURB-65. Veja que nosso paciente tem 48 anos, sem comorbidades, e já tem diagnóstico de PAC. Exame físico sem sinais de alarme e em bom estado geral, com alterações à ausculta que são condizentes com o diagnóstico de base, ou seja, estamos no cenário mais favorável possível no contexto da PAC, que é o paciente sem comorbidades e sem alterações nos sinais vitais e no nível / conteúdo de consciência.Vamos avaliar a gravidade de nosso paciente, de acordo com o CRB-65:Quais desses critérios nossa paciente apresenta? Nenhum! Por isso, como nosso paciente pontua 0 pontos no CRB-65, é candidato a tratamento ambulatorial, com baixa taxa de mortalidade.E qual o esquema de escolha para pacientes SEM COMORBIDADES e em tratamento ambulatorial? Veja a tabela acima!Vamos avaliar as alternativas que seguem:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                "author_profile": {
+                    "id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                    "full_name": "Ricardo Siufi",
+                    "avatar_url": "https://static.accounts.estrategia.com/3b65183b80e79351bb91557df65122fe",
+                    "about_me": "Formado em Medicina na Universidade Federal do Triângulo Mineiro (UFTM) em 2012, residência em Clínica Médica, Pneumologia e Mestrado em Ciências pela Universidade Estadual de Campinas (Unicamp). Atualmente, ocupa os cargos de Professor de Pneumologia - Estratégia Med, Médico Colaborador na Disciplina de Pneumologia - Unicamp e Docente em Pneumologia - Faculdade São Leopoldo Mandic, além de cursar MBA Executivo - Gestão em Saúde no Hospital Israelita Albert Einstein (HIAE)\n\nwww.linkedin.cominricardo-siufi-900883164\n\n?igshid=339wpg7npjah",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/pneumologinsta",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucyuycsikwcx1nomrxgkscca",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-01-11 17:36:24.10689 +0000 UTC",
+                "updated_at": "2021-01-11 17:36:24.495598 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000024553",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "ce8800f6-7bfe-4d2a-9dc7-62f14dbbef01",
+                            "name": "GO - Instituto e Hospital Oftalmológico de Anápolis - IHOA"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                            "name": "Oftalmologia"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 3,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "11F199C4-970D-E09A-93AC-987F6FC26DA8"
+                        },
+                        {
+                            "type": "NOTICE",
+                            "url": "DAF7256B-F617-ADFF-C722-7307C5E2962F"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T18:44:42Z",
+                    "location": {
+                        "id": "926"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "2b01ccbfdd0345da9238761f34fd147a",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "5e2d100ac2374dd7ac425b0627a84cfb",
+                    "name": "Farmacológico",
+                    "is_master": false,
+                    "master_id": "db75b865cfd94b53948036a2541ef8ff",
+                    "path": "Clínica Médica[$$]Pneumologia [$$]Doença Pulmonar Obstrutiva Crônica (DPOC)[$$]Exacerbação Aguda da DPOC (EADPOC)[$$]Tratamento[$$]Farmacológico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b7d0a4747c274f3ba131dc30e295cadc",
+                    "name": "Definição",
+                    "is_master": false,
+                    "master_id": "47500a276ea24286a3ba0a07df79c52d",
+                    "path": "Clínica Médica[$$]Pneumologia [$$]Doença Pulmonar Obstrutiva Crônica (DPOC)[$$]Exacerbação Aguda da DPOC (EADPOC)[$$]Definição",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "95ffeaed-3815-4ea1-a55f-f1f23825ce8e",
+                    "position": "0",
+                    "body": "ambulatorial com azitromicina",
+                    "sanitized_body": "ambulatorial com azitromicina",
+                    "correct": false,
+                    "created_at": "2020-09-10 20:58:14.956706 +0000 UTC",
+                    "updated_at": "2020-11-13 22:00:05.092755 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "A.\tIncorreta. Paciente possui 3 pontos no escore CURB-65. Portanto, requer internação hospitalar e tratamento como PAC grave.",
+                        "sanitized_complete": "A.\tIncorreta. Paciente possui 3 pontos no escore CURB-65. Portanto, requer internação hospitalar e tratamento como PAC grave.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2020-11-06 02:14:16.536713 +0000 UTC",
+                        "updated_at": "2020-11-06 02:14:17.0362 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 31
+                },
+                {
+                    "id": "0d2ffe60-d394-4792-95c5-ae99d4f0976c",
+                    "position": "1",
+                    "body": "hospitalar com azitromicina",
+                    "sanitized_body": "hospitalar com azitromicina",
+                    "correct": false,
+                    "created_at": "2020-09-10 20:58:14.956706 +0000 UTC",
+                    "updated_at": "2020-11-13 22:00:05.157273 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "B.\tIncorreta. O tratamento hospitalar requer a prescrição de uma cefalosporina de terceira geração OU uma aminopenicilina com inibidor de beta lactamase em associação a um macrolídeo. Portanto, a alternativa contém apenas um macrolídeo (Azitromicina), sem uma aminopenicilina com inibidor de beta lactamase. Assim, é considerada incorreta.&nbsp;",
+                        "sanitized_complete": "B.\tIncorreta. O tratamento hospitalar requer a prescrição de uma cefalosporina de terceira geração OU uma aminopenicilina com inibidor de beta lactamase em associação a um macrolídeo. Portanto, a alternativa contém apenas um macrolídeo (Azitromicina), sem uma aminopenicilina com inibidor de beta lactamase. Assim, é considerada incorreta. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2020-11-06 02:14:16.555421 +0000 UTC",
+                        "updated_at": "2020-11-06 02:14:17.035659 +0000 UTC"
+                    },
+                    "answer_percentage": 17,
+                    "answers": 101
+                },
+                {
+                    "id": "4d47291c-1cfc-4435-817a-9d663909f01c",
+                    "position": "2",
+                    "body": "ambulatorial com ampicilina, sulbactam + azitromicina",
+                    "sanitized_body": "ambulatorial com ampicilina, sulbactam + azitromicina",
+                    "correct": false,
+                    "created_at": "2020-09-10 20:58:14.956706 +0000 UTC",
+                    "updated_at": "2020-11-13 22:00:05.210684 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "C.\tIncorreta. Pacientes com pontuação maior ou igual a dois pontos no escore CURB-65 devem ser tratados em regime de internação hospitalar",
+                        "sanitized_complete": "C.\tIncorreta. Pacientes com pontuação maior ou igual a dois pontos no escore CURB-65 devem ser tratados em regime de internação hospitalar",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2020-11-06 02:14:16.544796 +0000 UTC",
+                        "updated_at": "2020-11-06 02:14:17.035908 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 15
+                },
+                {
+                    "id": "5f0ee3cc-f16e-4223-a7e5-ede90be3bcbd",
+                    "position": "3",
+                    "body": "hospitalar com ampicilina, sulbactam + azitromicina",
+                    "sanitized_body": "hospitalar com ampicilina, sulbactam + azitromicina",
+                    "correct": true,
+                    "created_at": "2020-09-10 20:58:14.956706 +0000 UTC",
+                    "updated_at": "2020-11-13 22:00:05.312642 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "D.\tCorreta. De acordo com a tabela acima, como nosso paciente pontua dois ou mais pontos no escore CURB-65, o tratamento deve ter ou uma cefalosporina de terceira geração OU uma aminopenicilina com inibidor de beta lactamase. No caso, ampicilina+sulbactam pertence à classe das aminopenicilina com inibidor e é associada a um macrolídeo, no caso, a Azitromicina.",
+                        "sanitized_complete": "D.\tCorreta. De acordo com a tabela acima, como nosso paciente pontua dois ou mais pontos no escore CURB-65, o tratamento deve ter ou uma cefalosporina de terceira geração OU uma aminopenicilina com inibidor de beta lactamase. No caso, ampicilina+sulbactam pertence à classe das aminopenicilina com inibidor e é associada a um macrolídeo, no caso, a Azitromicina.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                        "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                        "author_profile": null,
+                        "created_at": "2020-11-06 02:14:16.542527 +0000 UTC",
+                        "updated_at": "2020-11-06 02:14:17.034998 +0000 UTC"
+                    },
+                    "answer_percentage": 76,
+                    "answers": 457
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Um idoso de 75 anos, com DPOC, é admitido no pronto-socorro com tosse, febre e expectoração purulenta há 5 dias. Notam-se, ao exame físico, taquipneia (FR = 32irpm), FC = 100bpm e PA = 100x50mmHg. Os raios X de tórax demonstram consolidação na base do hemitórax direito. Nesse caso, a melhor conduta é o tratamento:",
+            "statement_text": "Um idoso de 75 anos, com DPOC, é admitido no pronto-socorro com tosse, febre e expectoração purulenta há 5 dias. Notam-se, ao exame físico, taquipneia (FR = 32irpm), FC = 100bpm e PA = 100x50mmHg. Os raios X de tórax demonstram consolidação na base do hemitórax direito. Nesse caso, a melhor conduta é o tratamento:",
+            "labels": [
+                "TEMPORARY_ANSWER_SHEET"
+            ],
+            "author_id": "fernandocastroteixeira@yahoo.com.br",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 20:58:14.956706 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA D</b></div><div><br></div>Estrategista, muita atenção. Estamos a frente de uma questão que nos cobra conceitos acerca de um paciente já sabidamente portador da Doença Pulmonar Obstrutiva Crônica (EADPOC). O senhor tem 75 anos de idade e deu entrada em um pronto atendimento com queixa de FEBRE associado a EXPECTORAÇÃO PURULENTA e, ao RAIO X, presença de CONSOLIDAÇÃO NA BASE DE HEMITÓRAX DIREITO.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3B2E91C5-FC05-AAFE-D4E6-9F8F2F376528/3B2E91C5-FC05-AAFE-D4E6-9F8F2F376528-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Veja você, futuro residente. A questão nos cobra conceitos de Exacerbação Aguda da DPOC (EADPOC) x Pneumonia Adquirida na Comunidade (PAC).</div><div><br></div><div>Para diagnosticarmos nosso paciente com EADPOC, ele tem que ter tido uma piora dos sintomas de base, NA AUSÊNCIA DE NOVA OPACIDADE AO RAIO X. Estrategista, reforço a vocês que PAC é um dos diagnósticos diferenciais de EADPOC. Veja a tabela ao lado:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FF0DFEE7-30A0-C8CD-A413-D596430BE6CA/FF0DFEE7-30A0-C8CD-A413-D596430BE6CA-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>As EADPOC são, por definição, toda piora aguda sintomática, com necessidade de terapêutica adicional. Os sintomas cardinais que sugerem infecção são: PIORA DA DISPNEIA, PIORA DA TOSSE E AUMENTO DO VOLUME ou MUDANÇA DO ASPECTO DO ESCARRO na ausência de um novo infiltrado no raio x, ao passo em que a PAC requer um infiltrado ao raio x.</div><div><br></div><div>Posto isso, estamos frente a um paciente com PAC, portador de DPOC. Sendo assim, onde devemos tratar nosso paciente? Vamos relembrar o CRB-65? (Ambulatorial x Internação hospitalar)&nbsp;</div><div><br></div><div>– Vale lembrar que o CRB deve ser preferido em relação ao CURB na ausência da uréia.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CF31EC5B-5879-D1F4-B48B-AC8B97F3225A/CF31EC5B-5879-D1F4-B48B-AC8B97F3225A-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Quais desses critérios nossa paciente apresenta? Maior que 65 anos, frequência respiratória ≥ 30 (IPM) E PAD&lt; 60 mmHg.. Portanto, de acordo com a tabela, requer internação hospitalar (Considerar tratamento hospitalar) e tratamento como PAC grave.</div><div><br></div><div>Sendo assim, nosso paciente é portador de PAC com critérios de internação em leito de ENFERMARIA. Veja a tabela que segue, para avaliarmos o melhor esquema antimicrobiano:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/47408F1D-BAF1-4B06-A2B3-2D0082641561/47408F1D-BAF1-4B06-A2B3-2D0082641561-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Posto isso, vamos avaliar as alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DEstrategista, muita atenção. Estamos a frente de uma questão que nos cobra conceitos acerca de um paciente já sabidamente portador da Doença Pulmonar Obstrutiva Crônica (EADPOC). O senhor tem 75 anos de idade e deu entrada em um pronto atendimento com queixa de FEBRE associado a EXPECTORAÇÃO PURULENTA e, ao RAIO X, presença de CONSOLIDAÇÃO NA BASE DE HEMITÓRAX DIREITO.Veja você, futuro residente. A questão nos cobra conceitos de Exacerbação Aguda da DPOC (EADPOC) x Pneumonia Adquirida na Comunidade (PAC).Para diagnosticarmos nosso paciente com EADPOC, ele tem que ter tido uma piora dos sintomas de base, NA AUSÊNCIA DE NOVA OPACIDADE AO RAIO X. Estrategista, reforço a vocês que PAC é um dos diagnósticos diferenciais de EADPOC. Veja a tabela ao lado:As EADPOC são, por definição, toda piora aguda sintomática, com necessidade de terapêutica adicional. Os sintomas cardinais que sugerem infecção são: PIORA DA DISPNEIA, PIORA DA TOSSE E AUMENTO DO VOLUME ou MUDANÇA DO ASPECTO DO ESCARRO na ausência de um novo infiltrado no raio x, ao passo em que a PAC requer um infiltrado ao raio x.Posto isso, estamos frente a um paciente com PAC, portador de DPOC. Sendo assim, onde devemos tratar nosso paciente? Vamos relembrar o CRB-65? (Ambulatorial x Internação hospitalar) – Vale lembrar que o CRB deve ser preferido em relação ao CURB na ausência da uréia.Quais desses critérios nossa paciente apresenta? Maior que 65 anos, frequência respiratória ≥ 30 (IPM) E PAD&lt; 60 mmHg.. Portanto, de acordo com a tabela, requer internação hospitalar (Considerar tratamento hospitalar) e tratamento como PAC grave.Sendo assim, nosso paciente é portador de PAC com critérios de internação em leito de ENFERMARIA. Veja a tabela que segue, para avaliarmos o melhor esquema antimicrobiano:Posto isso, vamos avaliar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                "author_email_id": "cf23ec89b143dda527674b5b011a98ab",
+                "author_profile": {
+                    "id": "adb0d984-faf7-44db-86b8-d466117ddb76",
+                    "full_name": "Ricardo Siufi",
+                    "avatar_url": "https://static.accounts.estrategia.com/3b65183b80e79351bb91557df65122fe",
+                    "about_me": "Formado em Medicina na Universidade Federal do Triângulo Mineiro (UFTM) em 2012, residência em Clínica Médica, Pneumologia e Mestrado em Ciências pela Universidade Estadual de Campinas (Unicamp). Atualmente, ocupa os cargos de Professor de Pneumologia - Estratégia Med, Médico Colaborador na Disciplina de Pneumologia - Unicamp e Docente em Pneumologia - Faculdade São Leopoldo Mandic, além de cursar MBA Executivo - Gestão em Saúde no Hospital Israelita Albert Einstein (HIAE)\n\nwww.linkedin.cominricardo-siufi-900883164\n\n?igshid=339wpg7npjah",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/pneumologinsta",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucyuycsikwcx1nomrxgkscca",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-06 02:14:16.699512 +0000 UTC",
+                "updated_at": "2020-11-06 02:14:17.124898 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000023753",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "0ed3e5bf-ad01-47b3-baf6-99da715764f0",
+                            "name": "DF - Secretaria de Saúde do Distrito Federal - SES DF"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "ebf58361-1728-4144-93bb-7f962e8b9fd6",
+                            "name": "Público - Distrital"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Certo/Errado",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "435FC5FD-1664-4303-3920-FE0FC8DF05E4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 120,
+                    "created_at": "2020-09-04T11:42:02Z",
+                    "location": {
+                        "id": "8"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b01b60a672df4965a889ef446cda5671",
+                    "name": "Pneumologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Pneumologia ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "c81c75df-8821-4d84-8226-db06ebb1feb0",
+                    "position": "0",
+                    "body": "Certo.",
+                    "sanitized_body": "Certo.",
+                    "correct": false,
+                    "created_at": "2020-09-10 20:10:03.417106 +0000 UTC",
+                    "updated_at": "2020-11-23 00:15:31.503976 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 10:58:09.111604 +0000 UTC"
+                    },
+                    "answer_percentage": 15,
+                    "answers": 73
+                },
+                {
+                    "id": "b9d62903-ed3e-4550-bc40-6aacc8383ed9",
+                    "position": "1",
+                    "body": "Errado.",
+                    "sanitized_body": "Errado.",
+                    "correct": true,
+                    "created_at": "2020-09-10 20:10:03.417106 +0000 UTC",
+                    "updated_at": "2020-11-23 00:15:31.560954 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 10:58:09.112355 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 413
+                }
+            ],
+            "answer_type": "TRUE_OR_FALSE",
+            "statement": "Uma paciente de 73 anos de idade, residente na cidade do Rio de Janeiro-RJ, é diabética e hipertensa. Negou história de tabagismo ativo ou passivo. Procurou atendimento de emergência por dispneia, tosse produtiva, febre de 39°C e dor torácica ventilatório-dependente. Ao exame físico, apresentava-se em regular estado geral, alerta, PA = 80 mmHg X 50 mmHg, FC = 115 bpm, SatO2 = 91% em ar ambiente, FR = 26 irpm; ausculta respiratória com crepitantes pulmonares à direita. Exames complementares: Hb = 13,3g/dL, Ht = 39%, leucócitos = 19.000/mm3 e 15% de bastões, 177 mil plaquetas, ureia = 108mg/dL, Cr = 1,6mg/dL, raio X de tórax com consolidação em lobo inferior direito. Quanto ao caso clínico apresentado e tendo em vista os conhecimentos médicos correlatos, julgue o item a seguir.&nbsp;<div><br></div><div>O tratamento com antibiótico macrolídeo é a escolha inicial para esse caso.</div>",
+            "statement_text": "Uma paciente de 73 anos de idade, residente na cidade do Rio de Janeiro-RJ, é diabética e hipertensa. Negou história de tabagismo ativo ou passivo. Procurou atendimento de emergência por dispneia, tosse produtiva, febre de 39°C e dor torácica ventilatório-dependente. Ao exame físico, apresentava-se em regular estado geral, alerta, PA = 80 mmHg X 50 mmHg, FC = 115 bpm, SatO2 = 91% em ar ambiente, FR = 26 irpm; ausculta respiratória com crepitantes pulmonares à direita. Exames complementares: Hb = 13,3g/dL, Ht = 39%, leucócitos = 19.000/mm3 e 15% de bastões, 177 mil plaquetas, ureia = 108mg/dL, Cr = 1,6mg/dL, raio X de tórax com consolidação em lobo inferior direito. Quanto ao caso clínico apresentado e tendo em vista os conhecimentos médicos correlatos, julgue o item a seguir. O tratamento com antibiótico macrolídeo é a escolha inicial para esse caso.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "carlosjsouza07@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 20:10:03.417106 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Futuro residente, nessa questão vamos discutir a escolha da terapia antimicrobiana empírica em um caso de pneumonia adquirida na comunidade. Para essa definição é importante avaliar a presença de fatores de risco para microrganismos resistentes (colonização ou infecção por multirresistente; internação ou uso de antimicrobianos nos últimos 90 dias; presença de doença estrutural pulmonar) e a gravidade do caso.</div><div><br></div><div>A utilização de escores prognósticos, como o PSI ou CURB-65 ajudam a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração.</div><div><br></div><div>O CURB-65 baseia-se em variáveis das quais deriva seu nome (em inglês): confusão mental; ureia &gt; 40 mg/dl; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. A grande crítica a esse escore é que ele não considera comorbidades que podem acrescentar maior risco de complicações à PAC, como alcoolismo, insuficiência cardíaca ou hepática e neoplasias, diferentemente do PSI.</div><div><br></div><div>A afirmativa está incorreta, porque essa paciente faz 3 pontos no CURB-65 (ureia, pressão arterial e idade &gt; 65 anos), o que, de acordo com a diretriz brasileira de pneumonia adquirida na comunidade (atualizada em 2018), já a classifica como grave e indica a internação. O esquema empírico sugerido para essa situação é uma cefalosporinas de terceira geração (ceftriaxona ou cefotaxima) ou ampicilina/sulbactam + um macrolídeo (azitromicina ou claritromicina), e não macrolídeo em monoterapia como citado na alternativa.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BFuturo residente, nessa questão vamos discutir a escolha da terapia antimicrobiana empírica em um caso de pneumonia adquirida na comunidade. Para essa definição é importante avaliar a presença de fatores de risco para microrganismos resistentes (colonização ou infecção por multirresistente; internação ou uso de antimicrobianos nos últimos 90 dias; presença de doença estrutural pulmonar) e a gravidade do caso.A utilização de escores prognósticos, como o PSI ou CURB-65 ajudam a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração.O CURB-65 baseia-se em variáveis das quais deriva seu nome (em inglês): confusão mental; ureia &gt; 40 mg/dl; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. A grande crítica a esse escore é que ele não considera comorbidades que podem acrescentar maior risco de complicações à PAC, como alcoolismo, insuficiência cardíaca ou hepática e neoplasias, diferentemente do PSI.A afirmativa está incorreta, porque essa paciente faz 3 pontos no CURB-65 (ureia, pressão arterial e idade &gt; 65 anos), o que, de acordo com a diretriz brasileira de pneumonia adquirida na comunidade (atualizada em 2018), já a classifica como grave e indica a internação. O esquema empírico sugerido para essa situação é uma cefalosporinas de terceira geração (ceftriaxona ou cefotaxima) ou ampicilina/sulbactam + um macrolídeo (azitromicina ou claritromicina), e não macrolídeo em monoterapia como citado na alternativa.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-20 10:58:09.268603 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000023749",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "0ed3e5bf-ad01-47b3-baf6-99da715764f0",
+                            "name": "DF - Secretaria de Saúde do Distrito Federal - SES DF"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "ebf58361-1728-4144-93bb-7f962e8b9fd6",
+                            "name": "Público - Distrital"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Certo/Errado",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "435FC5FD-1664-4303-3920-FE0FC8DF05E4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 120,
+                    "created_at": "2020-09-04T11:42:02Z",
+                    "location": {
+                        "id": "8"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b01b60a672df4965a889ef446cda5671",
+                    "name": "Pneumologia ",
+                    "is_master": false,
+                    "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+                    "path": "Clínica Médica[$$]Pneumologia ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "8d7ce166-fd5f-410f-9443-9d9c400ec539",
+                    "position": "0",
+                    "body": "Certo.",
+                    "sanitized_body": "Certo.",
+                    "correct": false,
+                    "created_at": "2020-09-10 20:09:46.509789 +0000 UTC",
+                    "updated_at": "2021-02-10 02:06:54.252316 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 10:56:59.030998 +0000 UTC",
+                        "updated_at": "2021-02-10 02:07:12.530096 +0000 UTC"
+                    },
+                    "answer_percentage": 55,
+                    "answers": 270
+                },
+                {
+                    "id": "cbe51ce0-4a66-4920-9925-6f2715a22c57",
+                    "position": "1",
+                    "body": "Errado.",
+                    "sanitized_body": "Errado.",
+                    "correct": true,
+                    "created_at": "2020-09-10 20:09:46.509789 +0000 UTC",
+                    "updated_at": "2021-02-10 02:06:54.43 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 10:56:59.016664 +0000 UTC",
+                        "updated_at": "2021-02-10 02:07:12.528059 +0000 UTC"
+                    },
+                    "answer_percentage": 45,
+                    "answers": 223
+                }
+            ],
+            "answer_type": "TRUE_OR_FALSE",
+            "statement": "Uma paciente de 73 anos de idade, residente na cidade do Rio de Janeiro-RJ, é diabética e hipertensa. Negou história de tabagismo ativo ou passivo. Procurou atendimento de emergência por dispneia, tosse produtiva, febre de 39°C e dor torácica ventilatório-dependente. Ao exame físico, apresentava-se em regular estado geral, alerta, PA = 80 mmHg X 50 mmHg, FC = 115 bpm, SatO2 = 91% em ar ambiente, FR = 26 irpm; ausculta respiratória com crepitantes pulmonares à direita. Exames complementares: Hb = 13,3g/dL, Ht = 39%, leucócitos = 19.000/mm3 e 15% de bastões, 177 mil plaquetas, ureia = 108mg/dL, Cr = 1,6mg/dL, raio X de tórax com consolidação em lobo inferior direito.&nbsp;<div><br></div><div>Quanto ao caso clínico apresentado e tendo em vista os conhecimentos médicos correlatos, julgue o item a seguir.&nbsp;<div><br></div><div>Com base no escore de gravidade (CURB-65), essa paciente possui mortalidade em torno de 31%.</div></div>",
+            "statement_text": "Uma paciente de 73 anos de idade, residente na cidade do Rio de Janeiro-RJ, é diabética e hipertensa. Negou história de tabagismo ativo ou passivo. Procurou atendimento de emergência por dispneia, tosse produtiva, febre de 39°C e dor torácica ventilatório-dependente. Ao exame físico, apresentava-se em regular estado geral, alerta, PA = 80 mmHg X 50 mmHg, FC = 115 bpm, SatO2 = 91% em ar ambiente, FR = 26 irpm; ausculta respiratória com crepitantes pulmonares à direita. Exames complementares: Hb = 13,3g/dL, Ht = 39%, leucócitos = 19.000/mm3 e 15% de bastões, 177 mil plaquetas, ureia = 108mg/dL, Cr = 1,6mg/dL, raio X de tórax com consolidação em lobo inferior direito. Quanto ao caso clínico apresentado e tendo em vista os conhecimentos médicos correlatos, julgue o item a seguir. Com base no escore de gravidade (CURB-65), essa paciente possui mortalidade em torno de 31%.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "carlosjsouza07@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 20:09:46.509789 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ERRADO</b><div><b><br></b></div><div>Caro aluno estrategista, nessa questão vamos discutir o CURB-65, um dos escores preditores de risco mais utilizados para pneumonia, por sua simplicidade de aplicação, e muito cobrado em provas de residência médica. Esse instrumento validado ajuda a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração.</div><div><br></div><div>O CURB-65 baseia-se em variáveis das quais deriva seu nome (em inglês): confusão mental; ureia &gt; 40 mg/dl; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. A grande crítica a esse escore é que ele não considera comorbidades que podem acrescentar maior risco de complicações à PAC, como alcoolismo, insuficiência cardíaca ou hepática e neoplasias, diferentemente do PSI.</div><div><br></div><div>Analisando o caso clínico observamos que é uma paciente idosa, diabética, com sinais e sintomas de uma infecção do trato respiratório inferior. A nossa hipótese diagnóstica, corroborada pela evidência de uma consolidação lobar em exame de imagem, é de uma pneumonia adquirida na comunidade.</div><div><br></div><div>A afirmativa está incorreta, porque essa paciente faz 3 pontos no CURB-65 (ureia, pressão arterial e idade &gt; 65 anos), o que está associado a uma mortalidade em 30 dias de 14,5%. De acordo com a diretriz brasileira de pneumonia adquirida na comunidade (atualizada em 2018), os pacientes que pontuam 0 ou 1 ponto são candidatos a tratamento ambulatorial, 2 pontos deve ser avaliado o tratamento internado, 3 pontos o tratamento deve ser em ambiente hospitalar, e 4 ou 5 pontos em UTI.&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ERRADOCaro aluno estrategista, nessa questão vamos discutir o CURB-65, um dos escores preditores de risco mais utilizados para pneumonia, por sua simplicidade de aplicação, e muito cobrado em provas de residência médica. Esse instrumento validado ajuda a predizer o prognóstico da doença, guiando a decisão quanto ao local de tratamento — ambulatorial, hospitalar ou UTI — quanto à necessidade de investigação etiológica, quanto à escolha do antibiótico e sua via de administração.O CURB-65 baseia-se em variáveis das quais deriva seu nome (em inglês): confusão mental; ureia &gt; 40 mg/dl; frequência Respiratória &gt; 30 irpm; pressão arterial sistólica &lt; 90 mmHg ou pressão arterial diastólica &lt; 60 mmHg; e Idade ≥ 65 anos. A grande crítica a esse escore é que ele não considera comorbidades que podem acrescentar maior risco de complicações à PAC, como alcoolismo, insuficiência cardíaca ou hepática e neoplasias, diferentemente do PSI.Analisando o caso clínico observamos que é uma paciente idosa, diabética, com sinais e sintomas de uma infecção do trato respiratório inferior. A nossa hipótese diagnóstica, corroborada pela evidência de uma consolidação lobar em exame de imagem, é de uma pneumonia adquirida na comunidade.A afirmativa está incorreta, porque essa paciente faz 3 pontos no CURB-65 (ureia, pressão arterial e idade &gt; 65 anos), o que está associado a uma mortalidade em 30 dias de 14,5%. De acordo com a diretriz brasileira de pneumonia adquirida na comunidade (atualizada em 2018), os pacientes que pontuam 0 ou 1 ponto são candidatos a tratamento ambulatorial, 2 pontos deve ser avaliado o tratamento internado, 3 pontos o tratamento deve ser em ambiente hospitalar, e 4 ou 5 pontos em UTI. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-20 10:56:59.212462 +0000 UTC",
+                "updated_at": "2021-02-10 02:07:12.645056 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000023749-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000019548",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                            "name": "3 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "a75a97e4-7d63-4eb0-82e3-9083b50d7aa9",
+                            "name": "ES - Hospital Estadual Dr Jayme dos Santos Neves - HEJSN"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "171045d3-6935-423f-bdaf-b95ac441fd8e",
+                            "name": "Medicina de Emergência"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 5,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "CA20665E-51D4-9637-FF7D-813FCB78EB82"
+                        },
+                        {
+                            "type": "NOTICE",
+                            "url": "B4956173-ED77-B90A-AAC0-D7AB19A4C9D4"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 90,
+                    "created_at": "2020-09-04T16:32:18Z",
+                    "updated_at": "2020-09-04T16:53:08Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                },
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                            "name": "2 anos"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "a75a97e4-7d63-4eb0-82e3-9083b50d7aa9",
+                            "name": "ES - Hospital Estadual Dr Jayme dos Santos Neves - HEJSN"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "776b092f-eb41-4150-a252-b23a0f7914b3",
+                            "name": "Radiologia e Diagnóstico por Imagem"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 2,
+                    "candidates_number": 5,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "CA20665E-51D4-9637-FF7D-813FCB78EB82"
+                        },
+                        {
+                            "type": "NOTICE",
+                            "url": "6F127A1D-65BC-B7E8-525F-9A4B39B6FD01"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 90,
+                    "created_at": "2020-09-04T16:50:28Z",
+                    "updated_at": "2020-09-04T16:53:24Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "2b01ccbfdd0345da9238761f34fd147a",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "2788d7bb-986c-4014-b762-d60aca62dcde",
+                    "position": "0",
+                    "body": "Rx de tórax, hemocultura, hemograma, ureia e creatinina e gasometria arterial\r",
+                    "sanitized_body": "Rx de tórax, hemocultura, hemograma, ureia e creatinina e gasometria arterial\n",
+                    "correct": false,
+                    "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+                    "updated_at": "2020-11-13 00:39:37.994397 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"a\" é incorreta. Para este paciente, é essencial a investigação da hipótese de tuberculose pulmonar.",
+                        "sanitized_complete": "Alternativa &#34;a&#34; é incorreta. Para este paciente, é essencial a investigação da hipótese de tuberculose pulmonar.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 16:54:48.768818 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 41
+                },
+                {
+                    "id": "b8a40f9f-01df-4d87-9c3b-7cf2e4b2df01",
+                    "position": "1",
+                    "body": "Rx de tórax, hemocultura, hemograma, ureia e creatinina, gasometria arterial, coleta de escarro para pesquisa de baar/micobacteria",
+                    "sanitized_body": "Rx de tórax, hemocultura, hemograma, ureia e creatinina, gasometria arterial, coleta de escarro para pesquisa de baar/micobacteria",
+                    "correct": true,
+                    "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+                    "updated_at": "2020-11-13 00:39:38.083302 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"b\" é correta. A radiografia de tórax é indicada para avaliação do acometimento pulmonar. Hemocultura é recomendada devido à falha ao tratamento antimicrobiano. Hemograma, ureia, creatinina e gasometria arterial são exames que auxiliam na análise da situação clínica do paciente. A pesquisa de micobactérias no escarro é indicada para a investigação de tuberculose, pois o paciente apresenta tosse há três semanas e perda de peso.",
+                        "sanitized_complete": "Alternativa &#34;b&#34; é correta. A radiografia de tórax é indicada para avaliação do acometimento pulmonar. Hemocultura é recomendada devido à falha ao tratamento antimicrobiano. Hemograma, ureia, creatinina e gasometria arterial são exames que auxiliam na análise da situação clínica do paciente. A pesquisa de micobactérias no escarro é indicada para a investigação de tuberculose, pois o paciente apresenta tosse há três semanas e perda de peso.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 16:54:48.766445 +0000 UTC"
+                    },
+                    "answer_percentage": 70,
+                    "answers": 328
+                },
+                {
+                    "id": "e4f466e0-b0a0-4c2d-a55c-1fac12f3f859",
+                    "position": "2",
+                    "body": "Hemograma, ureia, creatinina e gasometria arterial\r",
+                    "sanitized_body": "Hemograma, ureia, creatinina e gasometria arterial\n",
+                    "correct": false,
+                    "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+                    "updated_at": "2020-11-13 00:39:38.198403 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"c\" é incorreta, pois faltam exames importantes para avaliação deste paciente, como radiografia de tórax (indicada sempre que disponível), hemocultura (recomendada devido à falha à terapia antimicrobiana) e pesquisa de micobactérias no escarro.",
+                        "sanitized_complete": "Alternativa &#34;c&#34; é incorreta, pois faltam exames importantes para avaliação deste paciente, como radiografia de tórax (indicada sempre que disponível), hemocultura (recomendada devido à falha à terapia antimicrobiana) e pesquisa de micobactérias no escarro.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 16:54:48.4489 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 2
+                },
+                {
+                    "id": "02169e19-a95b-4415-bd1c-689a335ec9e7",
+                    "position": "3",
+                    "body": "Rx de tórax e coleta de escarro para pesquisa de baar/micobacteria\r",
+                    "sanitized_body": "Rx de tórax e coleta de escarro para pesquisa de baar/micobacteria\n",
+                    "correct": false,
+                    "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+                    "updated_at": "2020-11-13 00:39:38.279777 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"d\" é incorreta. Exames como hemocultura, bioquímica geral e gasometria são importantes para este paciente, já que apresenta quadro de possível pneumonia que não respondeu ao tratamento antimicrobiano e sinais de gravidade, como dispneia.",
+                        "sanitized_complete": "Alternativa &#34;d&#34; é incorreta. Exames como hemocultura, bioquímica geral e gasometria são importantes para este paciente, já que apresenta quadro de possível pneumonia que não respondeu ao tratamento antimicrobiano e sinais de gravidade, como dispneia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 16:54:48.80918 +0000 UTC"
+                    },
+                    "answer_percentage": 19,
+                    "answers": 89
+                },
+                {
+                    "id": "6ca4471b-693c-45bc-9937-8f5873867803",
+                    "position": "4",
+                    "body": "Rx de tórax e hemograma\r",
+                    "sanitized_body": "Rx de tórax e hemograma\n",
+                    "correct": false,
+                    "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+                    "updated_at": "2020-11-13 00:39:38.384364 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"e\" é incorreta, pois apenas radiografia de tórax e hemograma são exames insuficientes para a investigação adequada de um paciente com tosse produtiva e febre há 21 dias, que não respondeu ao tratamento antimicrobiano padrão.",
+                        "sanitized_complete": "Alternativa &#34;e&#34; é incorreta, pois apenas radiografia de tórax e hemograma são exames insuficientes para a investigação adequada de um paciente com tosse produtiva e febre há 21 dias, que não respondeu ao tratamento antimicrobiano padrão.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 16:54:48.753217 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 11
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Paciente com 66 anos, etilista, admitido no PS com relato de tosse produtiva (secreção amarela espessa) há 21 dias, dispneia a médios esforços e febre intermitente diária, sem horário predominante, perda ponderal não quantificada. Relata ter feito uso de amoxicilina clavulanato por 7 dias, sem melhora. Na admissão, estava normotenso e com dispneia leve. Qual seria a propedêutica inicial adequada:",
+            "statement_text": "Paciente com 66 anos, etilista, admitido no PS com relato de tosse produtiva (secreção amarela espessa) há 21 dias, dispneia a médios esforços e febre intermitente diária, sem horário predominante, perda ponderal não quantificada. Relata ter feito uso de amoxicilina clavulanato por 7 dias, sem melhora. Na admissão, estava normotenso e com dispneia leve. Qual seria a propedêutica inicial adequada:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "maria28aldenice@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 17:00:14.30359 +0000 UTC",
+            "solution": {
+                "complete": "GABARITO ALTERNATIVA \"B\"<div><br></div><div>Estamos diante de um paciente com quadro sugestivo de infecção pulmonar há 21 dias, que não apresentou melhora com o tratamento antimicrobiano. Nesta situação, podemos pensar em dois diagnósticos: pneumonia por micro-organismo resistente à terapia antimicrobiana utilizada ou tuberculose pulmonar.&nbsp;</div><div>Apesar de não haver dados para análise do escore de CURB-65, podemos supor que este paciente deve ser submetido a tratamento hospitalar, pois apresenta falha terapêutica prévia e dispneia.&nbsp;</div><div>Vamos assinalar abaixo a alternativa que represente a melhor conduta para este paciente.</div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;B&#34;Estamos diante de um paciente com quadro sugestivo de infecção pulmonar há 21 dias, que não apresentou melhora com o tratamento antimicrobiano. Nesta situação, podemos pensar em dois diagnósticos: pneumonia por micro-organismo resistente à terapia antimicrobiana utilizada ou tuberculose pulmonar. Apesar de não haver dados para análise do escore de CURB-65, podemos supor que este paciente deve ser submetido a tratamento hospitalar, pois apresenta falha terapêutica prévia e dispneia. Vamos assinalar abaixo a alternativa que represente a melhor conduta para este paciente.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "Sérgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Residência médica em Infectologia pela Secretaria de Estado da Saúde de Santa Catarina (Hospital Nereu Ramos). MBA em Gestão em Saúde e Controle de Infecção. Atua como médico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Saúde de Santa Catarina, em Florianópolis/SC. Professor de Infectologia do curso Estratégia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 16:54:50.372938 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000012062",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "6a8ee452-f91a-415d-8438-e1d3410deb92",
+                            "name": "SP - Visão Laser Hospital Oftalmológico - HVL"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "81BFD904-6800-FBE5-357F-127E5CBA1E43"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2020-09-07T22:55:13Z",
+                    "updated_at": "2020-09-07T22:56:12Z",
+                    "location": {
+                        "id": "5278"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "12ee573bf1024eb4a7240ef26130c677",
+                    "name": "Pneumonia adquirida na comunidade (PAC)",
+                    "is_master": false,
+                    "master_id": "a2147898814340f0af41a31b4af30109",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "d9378135-cc9e-491e-b2ea-0845f6ec7fa8",
+                    "position": "0",
+                    "body": "Resultados podem ser conflitantes com a avaliação clínica cuidadosa.",
+                    "sanitized_body": "Resultados podem ser conflitantes com a avaliação clínica cuidadosa.",
+                    "correct": false,
+                    "created_at": "2020-09-10 04:28:28.651224 +0000 UTC",
+                    "updated_at": "2020-11-11 15:38:52.276426 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"a\" é correta.  Biomarcadores com proteína C-reativa e procalcitonina podem auxiliar na avaliação de pacientes com doenças infecciosas, mas são exames complementares, e seus resultados devem ser criticamente avaliados em associação ao quadro clínico.",
+                        "sanitized_complete": "Alternativa &#34;a&#34; é correta.  Biomarcadores com proteína C-reativa e procalcitonina podem auxiliar na avaliação de pacientes com doenças infecciosas, mas são exames complementares, e seus resultados devem ser criticamente avaliados em associação ao quadro clínico.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 18:46:38.843193 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 18
+                },
+                {
+                    "id": "76c58512-4baf-46e5-a298-2430a6b3c6cf",
+                    "position": "1",
+                    "body": "Uso prévio de antibióticos pode reduzir níveis rapidamente e dar achados falso-negativos.",
+                    "sanitized_body": "Uso prévio de antibióticos pode reduzir níveis rapidamente e dar achados falso-negativos.",
+                    "correct": false,
+                    "created_at": "2020-09-10 04:28:28.651224 +0000 UTC",
+                    "updated_at": "2020-11-11 15:38:52.384874 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"b\" é correta. O uso prévio de antibióticos pode interferir impactar nos níveis de biomarcadores,  interferindo em sua interpretação.",
+                        "sanitized_complete": "Alternativa &#34;b&#34; é correta. O uso prévio de antibióticos pode interferir impactar nos níveis de biomarcadores,  interferindo em sua interpretação.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 18:46:38.848079 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 39
+                },
+                {
+                    "id": "dab76ba5-3db7-416c-852f-043fd0ae9e8f",
+                    "position": "2",
+                    "body": "Pode não diferenciar patógenos atípicos de pneumonia viral.",
+                    "sanitized_body": "Pode não diferenciar patógenos atípicos de pneumonia viral.",
+                    "correct": false,
+                    "created_at": "2020-09-10 04:28:28.651224 +0000 UTC",
+                    "updated_at": "2020-11-11 15:38:52.472458 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"c\" é correta. Embora possam auxiliar na diferenciação entre infecção viral de bacteriana, biomarcadores isoladamente podem não ser capazes de definir o tipo de agente etiológico. Seu uso deve sempre ser associado à avaliação clínica do paciente.",
+                        "sanitized_complete": "Alternativa &#34;c&#34; é correta. Embora possam auxiliar na diferenciação entre infecção viral de bacteriana, biomarcadores isoladamente podem não ser capazes de definir o tipo de agente etiológico. Seu uso deve sempre ser associado à avaliação clínica do paciente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 18:46:38.842364 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 30
+                },
+                {
+                    "id": "cb48c54c-8e1f-42e9-a7d8-1b6344dd77de",
+                    "position": "3",
+                    "body": "Sempre reconhece infecção bacteriana complicando influenza.",
+                    "sanitized_body": "Sempre reconhece infecção bacteriana complicando influenza.",
+                    "correct": true,
+                    "created_at": "2020-09-10 04:28:28.651224 +0000 UTC",
+                    "updated_at": "2020-11-11 15:38:52.555056 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"d\" é incorreta, pois nem sempre biomarcadores são capazes de reconhecer infecção bacteriana sobreposta à influenza.<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;d&#34; é incorreta, pois nem sempre biomarcadores são capazes de reconhecer infecção bacteriana sobreposta à influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 18:46:38.846286 +0000 UTC"
+                    },
+                    "answer_percentage": 79,
+                    "answers": 332
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Apesar de auxiliar em reduzir o uso de antibióticos sem consequências adversas, ocorrem desvantagens do uso de biomarcadores em doenças infecciosas, apenas não podemos aceitar o item:<div><br></div>",
+            "statement_text": "Apesar de auxiliar em reduzir o uso de antibióticos sem consequências adversas, ocorrem desvantagens do uso de biomarcadores em doenças infecciosas, apenas não podemos aceitar o item:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "matheusoficial1998ss@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 04:28:28.651224 +0000 UTC",
+            "solution": {
+                "complete": "GABARITO ALTERNATIVA \"D\"<div><br></div><div>Atenção! Nesta questão deve ser assinalada a alternativa incorreta!&nbsp;</div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;D&#34;Atenção! Nesta questão deve ser assinalada a alternativa incorreta! ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "Sérgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Residência médica em Infectologia pela Secretaria de Estado da Saúde de Santa Catarina (Hospital Nereu Ramos). MBA em Gestão em Saúde e Controle de Infecção. Atua como médico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Saúde de Santa Catarina, em Florianópolis/SC. Professor de Infectologia do curso Estratégia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-19 18:46:39.247671 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000012062-720.mp4",
+            "unlisted": false
+        },
+        {
+            "id": "4000011603",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "146c665a-9361-4434-b613-ab9816222048",
+                            "name": "SP - Universidade Federal de São Paulo - UNIFESP (Hospital Universitário da UNIFESP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "0DA58269-30FE-1B70-25A7-EA6ED63E0D82"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T23:15:27Z",
+                    "location": {
+                        "id": "5298"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "2b01ccbfdd0345da9238761f34fd147a",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "12ee573bf1024eb4a7240ef26130c677",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "7b7ba85d-fb53-44e5-a3ce-bd20b0b64f5f",
+                    "position": "0",
+                    "body": "Pneumonia adquirida na comunidade; tratamento em enfermaria (CURB-65 = 0); ceftriaxone e claritromicina; controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "sanitized_body": "Pneumonia adquirida na comunidade; tratamento em enfermaria (CURB-65 = 0); ceftriaxone e claritromicina; controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "correct": false,
+                    "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+                    "updated_at": "2020-11-12 03:04:09.527352 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"a\" é incorreta</b>, pois pelo escore de CURB-65 não é indicado o tratamento em internação hospitalar, e sim ambulatorial.&nbsp;<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;a&#34; é incorreta, pois pelo escore de CURB-65 não é indicado o tratamento em internação hospitalar, e sim ambulatorial. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 01:53:34.234454 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 15
+                },
+                {
+                    "id": "146e6d7b-c653-4ba5-9350-6b65a93bc911",
+                    "position": "1",
+                    "body": "Pneumonia adquirida na comunidade; tratamento ambulatorial (CURB-65 = 0); macrolídeo ou betalactâmico, (amoxicilina ou amoxicilina + clavulanato); controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "sanitized_body": "Pneumonia adquirida na comunidade; tratamento ambulatorial (CURB-65 = 0); macrolídeo ou betalactâmico, (amoxicilina ou amoxicilina + clavulanato); controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "correct": true,
+                    "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+                    "updated_at": "2020-11-12 03:04:09.654051 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"b\" é correta: </b>há indicação de tratamento ambulatorial (CURB-65 = 0), que deve ser realizado com macrolídeo ou betalactâmico, pois é paciente sem comorbidades ou fator de risco para resistência bacteriana. Causa um pouco de estranheza a indicação de controle radiográfico ao fim do tratamento, pois não é conduta recomendada formalmente para pacientes com resposta clínica adequada ao tratamento. De qualquer maneira, esta é a resposta “mais correta”.&nbsp;<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;b&#34; é correta: há indicação de tratamento ambulatorial (CURB-65 = 0), que deve ser realizado com macrolídeo ou betalactâmico, pois é paciente sem comorbidades ou fator de risco para resistência bacteriana. Causa um pouco de estranheza a indicação de controle radiográfico ao fim do tratamento, pois não é conduta recomendada formalmente para pacientes com resposta clínica adequada ao tratamento. De qualquer maneira, esta é a resposta “mais correta”. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 01:53:34.234526 +0000 UTC"
+                    },
+                    "answer_percentage": 98,
+                    "answers": 965
+                },
+                {
+                    "id": "e28ac66d-756e-489c-acd7-4685abcde38d",
+                    "position": "2",
+                    "body": "Pneumonia adquirida na comunidade; tratamento ambulatorial (CURB-65 = 3); quinolona respiratória; controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "sanitized_body": "Pneumonia adquirida na comunidade; tratamento ambulatorial (CURB-65 = 3); quinolona respiratória; controle clínico em 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "correct": false,
+                    "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+                    "updated_at": "2020-11-12 03:04:09.767547 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"c\" é incorreta.</b> O tratamento indicado é ambulatorial, mas CURB-65 é zero, e não três; além disto, o tratamento deve ser realizado com macrolídeo ou betalactâmico (quinolona deve ser reservada para pacientes com comorbidades, alergia ou risco de resistência bacteriana).&nbsp;<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;c&#34; é incorreta. O tratamento indicado é ambulatorial, mas CURB-65 é zero, e não três; além disto, o tratamento deve ser realizado com macrolídeo ou betalactâmico (quinolona deve ser reservada para pacientes com comorbidades, alergia ou risco de resistência bacteriana). ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 01:53:34.21936 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 7
+                },
+                {
+                    "id": "d2e32ebd-fe63-447b-94dc-11f05a4e9119",
+                    "position": "3",
+                    "body": "Pneumonia adquirida na comunidade; tratamento em enfermaria (CURB-65 = 2); ceftriaxone e claritromicina; controle clínico e radiológico 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "sanitized_body": "Pneumonia adquirida na comunidade; tratamento em enfermaria (CURB-65 = 2); ceftriaxone e claritromicina; controle clínico e radiológico 48-72 horas e clínico e radiológico no final do tratamento.",
+                    "correct": false,
+                    "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+                    "updated_at": "2020-11-12 03:04:09.877758 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"d\" é incorreta</b>, pois pelo escore de CURB-65 não é indicado o tratamento em internação hospitalar, e sim ambulatorial.<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;d&#34; é incorreta, pois pelo escore de CURB-65 não é indicado o tratamento em internação hospitalar, e sim ambulatorial.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 01:53:34.219773 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "f014944c-f8bd-46b9-b5f2-50f6a122af7b",
+                    "position": "4",
+                    "body": "Pneumonia adquirida na comunidade; tratamento em UTI (CURB-65 = 4); ceftriaxone e quinolona respiratória; controle clínico e radiológico 24 horas e clínico e radiológico no final do tratamento.",
+                    "sanitized_body": "Pneumonia adquirida na comunidade; tratamento em UTI (CURB-65 = 4); ceftriaxone e quinolona respiratória; controle clínico e radiológico 24 horas e clínico e radiológico no final do tratamento.",
+                    "correct": false,
+                    "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+                    "updated_at": "2020-11-12 03:04:09.983766 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"e\" é incorreta</b>, pois CURB-65 = 0, o que indica tratamento ambulatorial.&nbsp;<div>&nbsp;</div><div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;e&#34; é incorreta, pois CURB-65 = 0, o que indica tratamento ambulatorial.  ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 01:53:34.232559 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Homem, 19 anos de idade, apresenta tosse com expectoração amarela, sem sangue, há 3 dias, acompanhada de dor torácica posterior direita e febre de 38,5C. Nega falta de  ar, doenças associadas, tabagismo, etilismo ou viagens recentes. Exame físico: FR 16 irpm, Sat O₂ 97% ar ambiente, FC 95 bpm, PA 120x80 mmHg; estertores crepitantes finos na base posterior do pulmão direito; restante sem alterações. Radiografia de tórax: consolidação segmentar em lobo inferior direito. Quais são o diagnóstico e a conduta  mais adequados?",
+            "statement_text": "Homem, 19 anos de idade, apresenta tosse com expectoração amarela, sem sangue, há 3 dias, acompanhada de dor torácica posterior direita e febre de 38,5C. Nega falta de  ar, doenças associadas, tabagismo, etilismo ou viagens recentes. Exame físico: FR 16 irpm, Sat O₂ 97% ar ambiente, FC 95 bpm, PA 120x80 mmHg; estertores crepitantes finos na base posterior do pulmão direito; restante sem alterações. Radiografia de tórax: consolidação segmentar em lobo inferior direito. Quais são o diagnóstico e a conduta  mais adequados?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "marissolrios.1988@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 02:57:42.299737 +0000 UTC",
+            "solution": {
+                "complete": "GABARITO ALTERNATIVA \"B\"<div><br></div><div>Estamos diante de um quadro típico de pneumonia: paciente com quadro agudo de febre, tosse produtiva e dor torácica, além de estertores crepitantes à direita e radiografia de tórax com consolidação localizada. É uma pneumonia adquirida na comunidade, pois o paciente não está internado nem há relato de internação recente.&nbsp;</div><div>Vamos aproveitar para comentar sobre pneumonia relacionada à assistência à saúde. Este é um termo que American Thoracic Society e Infectious Diseases Society of America sugerem que seja abolido em seu guideline de tratamento de pneumonia adquirida na comunidade de 2019. Segundo os autores, seria melhor focar em fatores de risco para infecção por micro-organismos multirresistentes, e não apenas no fato de que o paciente está ou esteve internado recentemente. No entanto, este é um termo que ainda pode ser cobrado em provas. A sociedade europeia de infectologia e microbiologia clínica (ESCMID) define pneumonia associada à assistência à saúde como:</div><div><ul><li>Pneumonia que ocorre após 48 horas de internação hospitalar;</li><li>Pneumonia em paciente que não está sob cuidados hospitalares mas que esteve internado por 2 dias ou mais nos últimos 90 dias ou que está sob cuidados crônicos de saúde (diálise, morador de casa de repouso etc).&nbsp;</li></ul></div><div>&nbsp;Sobre a estratificação de risco por meio do escore CURB-65, há um pequeno deslize: não há informação sobre resultado de ureia, necessária para uso desta ferramenta (neste caso seria melhor empregar CRB-65, que dispensa ureia). Para resolução da questão, vamos considerar que a ureia do paciente está dentro dos limites da normalidade.</div><div>Se aplicarmos o escore de CURB-65 (relembrando: Confusão mental; Ureia &gt; 50mgdL; frequência Respiratória &gt; 30 ciclos/min; Blood pressure - pressão arterial sistólica - &lt; 90 mmHg ou diastólica &lt; 60 mmHg; e idade ≥ 65 anos), será indicado o tratamento ambulatorial, já que o paciente não teria nenhum ponto (0 a 1 pontos - tratamento ambulatorial; 2 - considerar tratamento hospitalar; 3 ou mais – hospitalização, sendo 4 a 5 indicação de considerar tratamento em UTI).</div><div><br></div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;B&#34;Estamos diante de um quadro típico de pneumonia: paciente com quadro agudo de febre, tosse produtiva e dor torácica, além de estertores crepitantes à direita e radiografia de tórax com consolidação localizada. É uma pneumonia adquirida na comunidade, pois o paciente não está internado nem há relato de internação recente. Vamos aproveitar para comentar sobre pneumonia relacionada à assistência à saúde. Este é um termo que American Thoracic Society e Infectious Diseases Society of America sugerem que seja abolido em seu guideline de tratamento de pneumonia adquirida na comunidade de 2019. Segundo os autores, seria melhor focar em fatores de risco para infecção por micro-organismos multirresistentes, e não apenas no fato de que o paciente está ou esteve internado recentemente. No entanto, este é um termo que ainda pode ser cobrado em provas. A sociedade europeia de infectologia e microbiologia clínica (ESCMID) define pneumonia associada à assistência à saúde como:Pneumonia que ocorre após 48 horas de internação hospitalar;Pneumonia em paciente que não está sob cuidados hospitalares mas que esteve internado por 2 dias ou mais nos últimos 90 dias ou que está sob cuidados crônicos de saúde (diálise, morador de casa de repouso etc).  Sobre a estratificação de risco por meio do escore CURB-65, há um pequeno deslize: não há informação sobre resultado de ureia, necessária para uso desta ferramenta (neste caso seria melhor empregar CRB-65, que dispensa ureia). Para resolução da questão, vamos considerar que a ureia do paciente está dentro dos limites da normalidade.Se aplicarmos o escore de CURB-65 (relembrando: Confusão mental; Ureia &gt; 50mgdL; frequência Respiratória &gt; 30 ciclos/min; Blood pressure - pressão arterial sistólica - &lt; 90 mmHg ou diastólica &lt; 60 mmHg; e idade ≥ 65 anos), será indicado o tratamento ambulatorial, já que o paciente não teria nenhum ponto (0 a 1 pontos - tratamento ambulatorial; 2 - considerar tratamento hospitalar; 3 ou mais – hospitalização, sendo 4 a 5 indicação de considerar tratamento em UTI).",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "Sérgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Residência médica em Infectologia pela Secretaria de Estado da Saúde de Santa Catarina (Hospital Nereu Ramos). MBA em Gestão em Saúde e Controle de Infecção. Atua como médico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Saúde de Santa Catarina, em Florianópolis/SC. Professor de Infectologia do curso Estratégia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-18 01:53:34.304728 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000011603-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 33
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "data": [
+        {
+            "id": "4000127066",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "4fb14c9b9e214837b9e9cff000958e32",
+                    "name": "Diabetes na gestação (DMG)",
+                    "is_master": false,
+                    "master_id": "0141650676cf4af7b1251f35f83c872c",
+                    "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Diabetes na gestação (DMG)",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "8cce8559-1c3a-47d3-8d5e-efe00ccf3eb3",
+                    "position": "0",
+                    "body": "a ausência de risco pela idade inferior a 30 anos da gestante.",
+                    "sanitized_body": "a ausência de risco pela idade inferior a 30 anos da gestante.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+                    "updated_at": "2020-11-20 00:44:02.583046 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “a” porque embora o risco do diabetes gestacional aumente progressivamente quanto maior a idade materna, especialmente após os 35 anos, há risco que gestantes com menos de 30 anos apresentem diabetes gestacional.<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “a” porque embora o risco do diabetes gestacional aumente progressivamente quanto maior a idade materna, especialmente após os 35 anos, há risco que gestantes com menos de 30 anos apresentem diabetes gestacional.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:15:42.264605 +0000 UTC",
+                        "updated_at": "2020-10-20 10:15:42.86468 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "c7cdba90-d765-46ad-bdb0-c484ed0ebcc2",
+                    "position": "1",
+                    "body": "a existência de risco pelo ganho excessivo de peso na gestação.",
+                    "sanitized_body": "a existência de risco pelo ganho excessivo de peso na gestação.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+                    "updated_at": "2020-11-20 00:44:02.635765 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “b” porque uma vez que o IMC pré-gravídico da gestante apresentada no enunciado é de 31, o ganho de peso de cinco quilos não pode ser considerado excessivo no momento. Aproveite essa alternativa para relembrar o ganho de peso recomendado durante a gestação de acordo com o IMC no início da gestação apresentado na tabela abaixo.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8350EBA5-1358-0079-EF79-3EDD1AE58DBC/8350EBA5-1358-0079-EF79-3EDD1AE58DBC-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “b” porque uma vez que o IMC pré-gravídico da gestante apresentada no enunciado é de 31, o ganho de peso de cinco quilos não pode ser considerado excessivo no momento. Aproveite essa alternativa para relembrar o ganho de peso recomendado durante a gestação de acordo com o IMC no início da gestação apresentado na tabela abaixo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:15:42.243903 +0000 UTC",
+                        "updated_at": "2020-10-20 10:15:42.859898 +0000 UTC"
+                    },
+                    "answer_percentage": 13,
+                    "answers": 80
+                },
+                {
+                    "id": "de0d8a94-b9b5-4a0a-a495-88ee2e9abefd",
+                    "position": "2",
+                    "body": "a ausência de risco pela normalidade da glicemia de jejum da gestante.",
+                    "sanitized_body": "a ausência de risco pela normalidade da glicemia de jejum da gestante.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+                    "updated_at": "2020-11-20 00:44:02.697144 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “c”&nbsp;porque embora a glicemia de jejum de 90mg/dL seja normal, por ser menor do que 92mg/dL, ela não afasta o risco de que a gestante apresente diabetes gestacional com o avançar da gestação, que poderá ser diagnosticado pela realização do teste oral de tolerância a glicose entre a 24ª e 28ª semana de gestação.&nbsp;<div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa “c” porque embora a glicemia de jejum de 90mg/dL seja normal, por ser menor do que 92mg/dL, ela não afasta o risco de que a gestante apresente diabetes gestacional com o avançar da gestação, que poderá ser diagnosticado pela realização do teste oral de tolerância a glicose entre a 24ª e 28ª semana de gestação. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:15:42.249971 +0000 UTC",
+                        "updated_at": "2020-10-20 10:15:42.870142 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 82
+                },
+                {
+                    "id": "4c85368c-9f1d-4a4f-a784-9c3378551018",
+                    "position": "3",
+                    "body": "a existência de risco pelo IMC pré-gravídico superior a 27Kg/m2.",
+                    "sanitized_body": "a existência de risco pelo IMC pré-gravídico superior a 27Kg/m2.",
+                    "correct": true,
+                    "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+                    "updated_at": "2020-11-20 00:44:02.744358 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa “d” porque IMC pré-grávidico compatível com sobrepeso ou obesidade relaciona-se ao aumento do risco de a gestante apresentar diabetes gestacional. Aproveite essa alternativa para relembrar a classificação do IMC pré-gravídico e o ganho de peso recomendado durante a gestação de acordo com o IMC no início da gestação apresentado na tabela abaixo.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/EB9153D8-476B-0BD9-85C8-955675A8B4ED/EB9153D8-476B-0BD9-85C8-955675A8B4ED-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+                        "sanitized_complete": "Correta a alternativa “d” porque IMC pré-grávidico compatível com sobrepeso ou obesidade relaciona-se ao aumento do risco de a gestante apresentar diabetes gestacional. Aproveite essa alternativa para relembrar a classificação do IMC pré-gravídico e o ganho de peso recomendado durante a gestação de acordo com o IMC no início da gestação apresentado na tabela abaixo.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:15:42.249429 +0000 UTC",
+                        "updated_at": "2020-10-20 10:15:42.907422 +0000 UTC"
+                    },
+                    "answer_percentage": 71,
+                    "answers": 434
+                },
+                {
+                    "id": "3a663fb2-364c-476b-9eeb-058f6b9294ae",
+                    "position": "4",
+                    "body": "a ausência de risco pela inexistência de antecedentes familiares da gestante.",
+                    "sanitized_body": "a ausência de risco pela inexistência de antecedentes familiares da gestante.",
+                    "correct": false,
+                    "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+                    "updated_at": "2020-11-20 00:44:02.807749 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa “e”&nbsp;porque embora a história familiar de diabetes aumente o risco de a gestante apresentar diabetes gestacional, a inexistência de familiares diabéticos não exclui o risco de que a gestante apresentar diabetes gestacional.<div><br><div>Gabarito: alternativa D</div><div><br></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa “e” porque embora a história familiar de diabetes aumente o risco de a gestante apresentar diabetes gestacional, a inexistência de familiares diabéticos não exclui o risco de que a gestante apresentar diabetes gestacional.Gabarito: alternativa D",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                        "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                        "author_profile": null,
+                        "created_at": "2020-10-20 10:15:42.250675 +0000 UTC",
+                        "updated_at": "2020-10-20 10:15:42.908655 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Quanto ao desenvolvimento de diabetes gestacional em paciente primigesta, com 29 anos de idade, estatura de 1,50 m , peso pré-gravídico de 70Kg, peso atual de 75Kg na 24ª semana de gestação e glicemia em jejum de 90mg/dl, pode-se afirmar:",
+            "statement_text": "Quanto ao desenvolvimento de diabetes gestacional em paciente primigesta, com 29 anos de idade, estatura de 1,50 m , peso pré-gravídico de 70Kg, peso atual de 75Kg na 24ª semana de gestação e glicemia em jejum de 90mg/dl, pode-se afirmar:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 09:15:41.953604 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div><b>O que o examinador quer saber: </b>Se você conhece os fatores de risco relacionados ao diabetes na gestação.<div><br></div></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber: Se você conhece os fatores de risco relacionados ao diabetes na gestação.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+                "author_profile": {
+                    "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+                    "full_name": "Ana Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+                    "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-10-20 10:15:42.464682 +0000 UTC",
+                "updated_at": "2020-10-20 10:15:42.987481 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127066-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 26
+    }
+}

@@ -1,0 +1,2858 @@
+{
+    "data": [
+        {
+            "id": "4000099526",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "34EF48C5-7D42-10B7-10E6-F8604943BB91"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-06T18:21:59Z",
+                    "updated_at": "2020-11-26T10:55:06Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "43f6e61590644b21900ffe411d2cbd57",
+                    "name": "Agente etiológico ",
+                    "is_master": false,
+                    "master_id": "944b5e68bfdb49719a4f846cece7a142",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Enterobíase[$$]Agente etiológico ",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "91e23a954cd94ea08a24c213a3acb13e",
+                    "name": "Pediatria",
+                    "is_master": true,
+                    "path": "Pediatria",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "59618ced-b63a-4ced-a25c-1cb785b33bec",
+                    "position": "0",
+                    "body": "Trichuris trichiura.",
+                    "sanitized_body": "Trichuris trichiura.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:18:04.717682 +0000 UTC",
+                    "updated_at": "2021-08-04 18:41:32.577176 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque a tricuríase habitualmente é assintomática e não é um diagnóstico diferencial para prurido anal. Nas infecções maciças pode correr dor abdominal, anorexia e diarreia sanguinolenta ou mucoide. Nesses casos pode mimetizar um quadro de doença inflamatória intestinal.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque a tricuríase habitualmente é assintomática e não é um diagnóstico diferencial para prurido anal. Nas infecções maciças pode correr dor abdominal, anorexia e diarreia sanguinolenta ou mucoide. Nesses casos pode mimetizar um quadro de doença inflamatória intestinal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:12:26.355617 +0000 UTC",
+                        "updated_at": "2020-11-19 21:12:27.280607 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 99
+                },
+                {
+                    "id": "0b0a7a19-fd61-4f8e-a619-3f44703f3593",
+                    "position": "1",
+                    "body": "Enterobius vermicularis.",
+                    "sanitized_body": "Enterobius vermicularis.",
+                    "correct": true,
+                    "created_at": "2020-09-15 19:18:04.717682 +0000 UTC",
+                    "updated_at": "2021-08-04 18:41:32.634833 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B, porque o prurido perianal noturno é o principal sintoma da enterobíase e pelo desconforto pode se relacionar a sono intranquilo e irritabilidade. Devido a facilidade de propagação interpessoal, é comum que outros membros da família também estejam infectados, como no caso apresentado na questão.",
+                        "sanitized_complete": "Correta a alternativa B, porque o prurido perianal noturno é o principal sintoma da enterobíase e pelo desconforto pode se relacionar a sono intranquilo e irritabilidade. Devido a facilidade de propagação interpessoal, é comum que outros membros da família também estejam infectados, como no caso apresentado na questão.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:12:26.361368 +0000 UTC",
+                        "updated_at": "2020-11-19 21:12:27.277447 +0000 UTC"
+                    },
+                    "answer_percentage": 85,
+                    "answers": 593
+                },
+                {
+                    "id": "4d20e8f5-61f3-403b-b3c9-16089e959499",
+                    "position": "2",
+                    "body": "Ancylostoma duodenalis.",
+                    "sanitized_body": "Ancylostoma duodenalis.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:18:04.717682 +0000 UTC",
+                    "updated_at": "2021-08-04 18:41:32.704513 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a ancilostomíase não é um diagnóstico diferencial para prurido anal. As infecções por esse agente habitualmente são assintomáticas e quando os sintomas estão presentes, variam de uma dermatite maculopapular no local de penetração na pele, pneumonite transitória discreta (esse é um dos vermes com migração pulmonar) e queixas abdominais, como dor epigástrica.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a ancilostomíase não é um diagnóstico diferencial para prurido anal. As infecções por esse agente habitualmente são assintomáticas e quando os sintomas estão presentes, variam de uma dermatite maculopapular no local de penetração na pele, pneumonite transitória discreta (esse é um dos vermes com migração pulmonar) e queixas abdominais, como dor epigástrica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:12:26.353899 +0000 UTC",
+                        "updated_at": "2020-11-19 21:12:27.286944 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "2a0309a1-67f7-482a-9767-0c9009bfb56b",
+                    "position": "3",
+                    "body": "Strongyloides stercoralis.",
+                    "sanitized_body": "Strongyloides stercoralis.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:18:04.717682 +0000 UTC",
+                    "updated_at": "2021-08-04 18:41:32.758001 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque até pode cursar com uma urticária com predomínio em nádegas e punho, mas o quadro de prurido anal noturno é clássico da enterobíase. A infecção por S<i>trongyloides stercoralis</i> é frequentemente assintomática, podendo se apresentar com os sintomas cutâneos já descritos ou abdominais (diarreia, sangramento digestivo, colite, náuseas etc.). <i>Não confundir com as formas graves de estrongiloidíase (hiperinfecção ou infecção disseminada), que estão associadas principalmente ao uso de corticoides, mas também: HTLV-1; uso de drogas citotóxicas e inibidores de TNF; HIV/Aids; transplante de órgãos sólidos ou de medula óssea; hipogamaglobulinemia (incluindo síndrome nefrótica e mieloma múltiplo); neoplasias; alcoolismo; e desnutrição.</i>",
+                        "sanitized_complete": "Incorreta a alternativa D, porque até pode cursar com uma urticária com predomínio em nádegas e punho, mas o quadro de prurido anal noturno é clássico da enterobíase. A infecção por Strongyloides stercoralis é frequentemente assintomática, podendo se apresentar com os sintomas cutâneos já descritos ou abdominais (diarreia, sangramento digestivo, colite, náuseas etc.). Não confundir com as formas graves de estrongiloidíase (hiperinfecção ou infecção disseminada), que estão associadas principalmente ao uso de corticoides, mas também: HTLV-1; uso de drogas citotóxicas e inibidores de TNF; HIV/Aids; transplante de órgãos sólidos ou de medula óssea; hipogamaglobulinemia (incluindo síndrome nefrótica e mieloma múltiplo); neoplasias; alcoolismo; e desnutrição.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:12:26.37492 +0000 UTC",
+                        "updated_at": "2020-11-19 21:12:27.281914 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Menino, 4ª queixa de prurido perianal, exacerbado a noite com sono intranquilo e irritabilidade. O irmão mais velho já teve sintomas semelhantes há mais ou menos um mês. Exame físico: sem alterações. O AGENTE ETIOLÓGICO É:",
+            "statement_text": "Menino, 4ª queixa de prurido perianal, exacerbado a noite com sono intranquilo e irritabilidade. O irmão mais velho já teve sintomas semelhantes há mais ou menos um mês. Exame físico: sem alterações. O AGENTE ETIOLÓGICO É:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "deborahcdireito@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 19:18:04.717682 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Caro aluno, dentro do módulo de parasitoses esse não é um dos assuntos mais cobrados em provas de residência, mas quem quer passar nos programas de residência médica mais concorridos não pode se dar ao luxo de perder questões.&nbsp;</div><div><br></div><div>O <i>Enterobius vermicularis</i> é um nematódeo causador da enterobíase, também chamada oxiúros. A característica que mais chama a atenção, e por vezes explorada em provas de residência por explicar aspectos do ciclo do parasita e manifestações clínicas, é a capacidade de <b>auto-infecção</b>. Vermes fêmeas migram durante a noite para região perianal e liberam seus ovos, o que causa a sensação de prurido perianal. Após o ato de coçar essa área, os ovos são transmitidos pela passagem da mão ou sob as unhas até a boca.&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BCaro aluno, dentro do módulo de parasitoses esse não é um dos assuntos mais cobrados em provas de residência, mas quem quer passar nos programas de residência médica mais concorridos não pode se dar ao luxo de perder questões. O Enterobius vermicularis é um nematódeo causador da enterobíase, também chamada oxiúros. A característica que mais chama a atenção, e por vezes explorada em provas de residência por explicar aspectos do ciclo do parasita e manifestações clínicas, é a capacidade de auto-infecção. Vermes fêmeas migram durante a noite para região perianal e liberam seus ovos, o que causa a sensação de prurido perianal. Após o ato de coçar essa área, os ovos são transmitidos pela passagem da mão ou sob as unhas até a boca. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 21:12:26.481889 +0000 UTC",
+                "updated_at": "2020-11-19 21:12:27.34344 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000099417",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                            "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "34EF48C5-7D42-10B7-10E6-F8604943BB91"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 80,
+                    "created_at": "2020-09-06T18:21:59Z",
+                    "updated_at": "2020-11-26T10:55:06Z",
+                    "location": {
+                        "id": "4842"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "26a5ea53b8c742ecbf27cc91ed626f77",
+                    "name": "Síndrome de Loffler",
+                    "is_master": false,
+                    "master_id": "8d20172eb09144479ba1469ed17aec02",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Síndrome de Loffler",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "2d814c762e6f4b9397b3e10824da96fb",
+                    "name": "Pneumonia de origem parasitária",
+                    "is_master": false,
+                    "master_id": "99053e467393489389b4a90598bb8ed5",
+                    "path": "Pediatria[$$]Pneumologia Pediátrica[$$]Pneumonias/Broncopneumonias (BCP) na Infância[$$]Pneumonia de origem parasitária",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "91e23a954cd94ea08a24c213a3acb13e",
+                    "name": "Pediatria",
+                    "is_master": true,
+                    "path": "Pediatria",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "5bccaba4-4374-4503-88fe-7c0fce5174ef",
+                    "position": "0",
+                    "body": "Prova tuberculínica e cultura de escarro.",
+                    "sanitized_body": "Prova tuberculínica e cultura de escarro.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:12:09.337672 +0000 UTC",
+                    "updated_at": "2021-08-04 18:47:53.738848 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque o diagnóstico de tuberculose na criança se baseia em um escore de pontos validado que contempla dados clínico-radiológicos, epidemiológicos (contato de adulto com tuberculose), estado nutricional e resultado da prova tuberculínica, e habitualmente não envolve a confirmação bacteriológica, sabidamente difícil na infância. Nesse caso apresentado na questão não há elementos para considerar um caso suspeito de tuberculose.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque o diagnóstico de tuberculose na criança se baseia em um escore de pontos validado que contempla dados clínico-radiológicos, epidemiológicos (contato de adulto com tuberculose), estado nutricional e resultado da prova tuberculínica, e habitualmente não envolve a confirmação bacteriológica, sabidamente difícil na infância. Nesse caso apresentado na questão não há elementos para considerar um caso suspeito de tuberculose.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:06:00.614433 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 44
+                },
+                {
+                    "id": "7eff0392-aec7-477c-9de8-844006d6ad5e",
+                    "position": "1",
+                    "body": "Hemograma e parasitológico de fezes.",
+                    "sanitized_body": "Hemograma e parasitológico de fezes.",
+                    "correct": true,
+                    "created_at": "2020-09-15 19:12:09.337672 +0000 UTC",
+                    "updated_at": "2021-08-04 18:47:53.825895 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B, porque se estamos pensando em uma doença causada por helmintos o diagnóstico se baseia, principalmente, em exames parasitológicos e é reforçado pela presença de eosinofilia em sangue periférico. É importante destacar que, principalmente em adultos, a sensibilidade da pesquisa de larvas em amostras respiratórias costuma ser maior que nas fezes.",
+                        "sanitized_complete": "Correta a alternativa B, porque se estamos pensando em uma doença causada por helmintos o diagnóstico se baseia, principalmente, em exames parasitológicos e é reforçado pela presença de eosinofilia em sangue periférico. É importante destacar que, principalmente em adultos, a sensibilidade da pesquisa de larvas em amostras respiratórias costuma ser maior que nas fezes.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:06:00.635722 +0000 UTC"
+                    },
+                    "answer_percentage": 80,
+                    "answers": 761
+                },
+                {
+                    "id": "4f733e5d-fad8-4d36-97cb-36f69da3b4ee",
+                    "position": "2",
+                    "body": "IgE total e tomografia de tórax.",
+                    "sanitized_body": "IgE total e tomografia de tórax.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:12:09.337672 +0000 UTC",
+                    "updated_at": "2021-08-04 18:47:54.002368 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a realização de tomografia de tórax evidenciará achados inespecíficos, que não permitem o diagnóstico dessa condição clínica. A elevação de IgE é um achado frequente, já que essa imunoglobulina ativa os mastócitos e reações mediadas por eosinófilos que fazem parte da defesa contra helmintos, além de estarem envolvidos em doenças alérgicas.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a realização de tomografia de tórax evidenciará achados inespecíficos, que não permitem o diagnóstico dessa condição clínica. A elevação de IgE é um achado frequente, já que essa imunoglobulina ativa os mastócitos e reações mediadas por eosinófilos que fazem parte da defesa contra helmintos, além de estarem envolvidos em doenças alérgicas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:06:00.641623 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 73
+                },
+                {
+                    "id": "60c7160f-d4df-4875-9009-57bef285e035",
+                    "position": "3",
+                    "body": "Sorologia para Bordetella pertussis e Mycoplasma pneumoniae.",
+                    "sanitized_body": "Sorologia para Bordetella pertussis e Mycoplasma pneumoniae.",
+                    "correct": false,
+                    "created_at": "2020-09-15 19:12:09.337672 +0000 UTC",
+                    "updated_at": "2021-08-04 18:47:54.099147 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque não foi descrito elementos característicos desses diagnósticos diferenciais, como a tosse espástica da coqueluche, ou as manifestações extrapulmonares frequentemente associadas a infecções por <i>Mycoplasma</i>, como artralgia ou o eritema multiforme. Por outro lado, o achado de “pneumonia de repetição” com infiltrados que migram entre cada episódio é muito sugestivo de Síndrome de Loffler.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque não foi descrito elementos característicos desses diagnósticos diferenciais, como a tosse espástica da coqueluche, ou as manifestações extrapulmonares frequentemente associadas a infecções por Mycoplasma, como artralgia ou o eritema multiforme. Por outro lado, o achado de “pneumonia de repetição” com infiltrados que migram entre cada episódio é muito sugestivo de Síndrome de Loffler.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:06:00.601968 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 76
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Menino, 4a, é atendido por história de cinco pneumonias, todas com resolução total. Os episódios foram caracterizados por febre baixa, cansaço e tosse seca que durava uma semana e dificultava o sono. Os radiogramas de tórax no diagnóstico evidenciavam opacidade heterogênea (alvéolo-intersticial) em diferentes campos pulmonares a cada episódio. Radiogramas de tórax de controle normais. OS EXAMES PARA A CONFIRMAÇÃO DIAGNÓSTICA SÃO:",
+            "statement_text": "Menino, 4a, é atendido por história de cinco pneumonias, todas com resolução total. Os episódios foram caracterizados por febre baixa, cansaço e tosse seca que durava uma semana e dificultava o sono. Os radiogramas de tórax no diagnóstico evidenciavam opacidade heterogênea (alvéolo-intersticial) em diferentes campos pulmonares a cada episódio. Radiogramas de tórax de controle normais. OS EXAMES PARA A CONFIRMAÇÃO DIAGNÓSTICA SÃO:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "deborahcdireito@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 19:12:09.337672 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Caro aluno estrategista, após ler esse comentário você não errará mais questões semelhantes a essa. O caso clínico evidencia uma criança com infiltrados pulmonares e alterações no exame físico que são <b>transitórios e migram entre os campos pulmonares</b>. Com essa descrição a primeira hipótese que você deve pensar é a Síndrome de Loffler.</div><div><br></div><div>Embora nesse caso a banca não tenha abordado o diagnóstico etiológico, vamos aproveitar esse caso clínico para relembrar uma importante <u>regra mnemônica</u> com a sigla <u>NASA</u> (<i>Necator americanus, Ancylostoma duodenale, Strongyloides stercoralis e Ascaris lumbricoides</i>), que corresponde aos helmintos que durante seu ciclo de vida suas larvas alcançam o pulmão por via hematogênica, penetram os alvéolos, amadurecem, e ascendem pela via aérea para posteriormente descer pelo trato digestivo até o intestino delgado.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BCaro aluno estrategista, após ler esse comentário você não errará mais questões semelhantes a essa. O caso clínico evidencia uma criança com infiltrados pulmonares e alterações no exame físico que são transitórios e migram entre os campos pulmonares. Com essa descrição a primeira hipótese que você deve pensar é a Síndrome de Loffler.Embora nesse caso a banca não tenha abordado o diagnóstico etiológico, vamos aproveitar esse caso clínico para relembrar uma importante regra mnemônica com a sigla NASA (Necator americanus, Ancylostoma duodenale, Strongyloides stercoralis e Ascaris lumbricoides), que corresponde aos helmintos que durante seu ciclo de vida suas larvas alcançam o pulmão por via hematogênica, penetram os alvéolos, amadurecem, e ascendem pela via aérea para posteriormente descer pelo trato digestivo até o intestino delgado.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 21:06:00.825538 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000089008",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "1dfbd0be-cff1-46b6-80d6-42b8625049fd",
+                            "name": "RJ - Secretaria Estadual de Saúde - SES RJ"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C4CC368D-9282-99F3-12DE-306ACC3F41BC"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-06T12:32:15Z",
+                    "location": {
+                        "id": "20"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6caeef2eb90a45908b69a76a38ab3775",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "944b5e68bfdb49719a4f846cece7a142",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Enterobíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "115ec6dc-49d9-4f87-b594-665273687364",
+                    "position": "0",
+                    "body": "o pamoato de pirvínio é um tratamento específico para esse parasita e deve ser usado em dose única, com repetição em 14 dias",
+                    "sanitized_body": "o pamoato de pirvínio é um tratamento específico para esse parasita e deve ser usado em dose única, com repetição em 14 dias",
+                    "correct": true,
+                    "created_at": "2020-09-15 01:24:02.080669 +0000 UTC",
+                    "updated_at": "2020-11-20 22:11:19.437043 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"a\". Não confunda pamoato de pirvínio com pamoata de pirantel: o pamoato de pirantel é um anti-helmíntico que atua paralisando o parasita e pode ser usado para tratar diversas infecções como a ascaridíase, enterobíase e ancilostomíase. Já o pamoato de pirvínio é somente usado para tratamento da enterobíase (oxiuríase).",
+                        "sanitized_complete": "Correta a alternativa &#34;a&#34;. Não confunda pamoato de pirvínio com pamoata de pirantel: o pamoato de pirantel é um anti-helmíntico que atua paralisando o parasita e pode ser usado para tratar diversas infecções como a ascaridíase, enterobíase e ancilostomíase. Já o pamoato de pirvínio é somente usado para tratamento da enterobíase (oxiuríase).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:43:59.451609 +0000 UTC",
+                        "updated_at": "2020-11-02 19:44:13.202009 +0000 UTC"
+                    },
+                    "answer_percentage": 65,
+                    "answers": 354
+                },
+                {
+                    "id": "bdc922cd-2321-4237-9464-f7a3b89f190f",
+                    "position": "1",
+                    "body": "o tratamento dessa paciente pode ser feito com albendazol em dose única, sem necessidade de repetição",
+                    "sanitized_body": "o tratamento dessa paciente pode ser feito com albendazol em dose única, sem necessidade de repetição",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:24:02.080669 +0000 UTC",
+                    "updated_at": "2020-11-20 22:11:19.570318 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\". O albendazol deve ser repetido em 2 semanas, já que ele não tem ação contra os ovos do parasitas.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34;. O albendazol deve ser repetido em 2 semanas, já que ele não tem ação contra os ovos do parasitas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:43:59.442114 +0000 UTC",
+                        "updated_at": "2020-11-02 19:44:13.187068 +0000 UTC"
+                    },
+                    "answer_percentage": 26,
+                    "answers": 143
+                },
+                {
+                    "id": "ff9e8d90-f88b-4fb6-b2c3-aacb13f4c3da",
+                    "position": "2",
+                    "body": "a presença de exame parasitológico de fezes negativo exclui a possibilidade de infecção por este parasita",
+                    "sanitized_body": "a presença de exame parasitológico de fezes negativo exclui a possibilidade de infecção por este parasita",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:24:02.080669 +0000 UTC",
+                    "updated_at": "2020-11-20 22:11:19.718558 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\". Geralmente o parasitológico de fezes é negativo nos casos de enterobíase. O exame de escolha é o da fita adesiva ou fita gomada.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34;. Geralmente o parasitológico de fezes é negativo nos casos de enterobíase. O exame de escolha é o da fita adesiva ou fita gomada.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:43:59.399356 +0000 UTC",
+                        "updated_at": "2020-11-02 19:44:13.197207 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "81c5cb4e-cebb-4a25-8ab5-c128ea3022af",
+                    "position": "3",
+                    "body": "prolapso retal é uma complicação frequente nas infecções por esse parasita",
+                    "sanitized_body": "prolapso retal é uma complicação frequente nas infecções por esse parasita",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:24:02.080669 +0000 UTC",
+                    "updated_at": "2020-11-20 22:11:19.851589 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\". O prolapso retal é uma complicação da tricuríase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34;. O prolapso retal é uma complicação da tricuríase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:43:59.384351 +0000 UTC",
+                        "updated_at": "2020-11-02 19:44:13.189882 +0000 UTC"
+                    },
+                    "answer_percentage": 9,
+                    "answers": 49
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Criança de 1 ano e 10 meses apresenta desconforto abdominal e prurido anal há cerca de duas semanas, além de dois episódios de diarreia sem muco ou sangue nesse período. Seu exame físico não apresentou quaisquer alterações. Considerando a principal hipótese diagnóstica, é correto afirmar que:",
+            "statement_text": "Criança de 1 ano e 10 meses apresenta desconforto abdominal e prurido anal há cerca de duas semanas, além de dois episódios de diarreia sem muco ou sangue nesse período. Seu exame físico não apresentou quaisquer alterações. Considerando a principal hipótese diagnóstica, é correto afirmar que:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "eliets.9@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-15 01:24:02.080669 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>A parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença.&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AA parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença. ",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-02 19:43:59.738584 +0000 UTC",
+                "updated_at": "2020-11-02 19:44:13.421483 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000082549",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9f69194e-47cb-4ace-bf98-3df90eddbd55",
+                            "name": "RN - Universidade Federal do Rio Grande do Norte - UFRN (Hospital Universitário Onofre Lopes - HUOL)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "ECA92201-C0B0-588A-DD9B-761FDAB84301"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T13:17:03Z",
+                    "updated_at": "2020-11-26T02:58:03Z",
+                    "location": {
+                        "id": "21"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "71f167ff629a420ea72c409fb735a241",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "2e31a6cf106d4e4fa4503d9ad2e2a690",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Tricuríase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "d2b013a72e3644ceb7c5547867f9c572",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "1977331e18134ec2861814db54b5acec",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Ancilostomíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "fb5e59e5860049ffb87963a866ce3ff1",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "22b7a5ab03174503a3113471b2967515",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Amebíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "d11ee17e-ef86-4077-815c-4b8e5317dcfa",
+                    "position": "0",
+                    "body": "Albendazol dose única.",
+                    "sanitized_body": "Albendazol dose única.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:47.248901 +0000 UTC",
+                    "updated_at": "2020-11-20 20:00:17.614861 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"a\" porque o albendazol não trata a amebíase. Ele tem ação contra a ancilostomíase e tricuríase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;a&#34; porque o albendazol não trata a amebíase. Ele tem ação contra a ancilostomíase e tricuríase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:21:55.994742 +0000 UTC",
+                        "updated_at": "2020-11-03 18:21:56.307095 +0000 UTC"
+                    },
+                    "answer_percentage": 32,
+                    "answers": 149
+                },
+                {
+                    "id": "affef1d2-b400-4d27-84c9-8a47c69b1a6d",
+                    "position": "1",
+                    "body": "Metronidazol por 5  dias.",
+                    "sanitized_body": "Metronidazol por 5  dias.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:47.248901 +0000 UTC",
+                    "updated_at": "2020-11-20 20:00:17.693819 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\" porque o metronidazol só trata a amebíase desses parasitas descritos no enunciado. Ele é eficaz para tratar protozoários anaeróbios como <i>Trichomonas vaginalis</i>, <i>Entamoeba histolytica</i> e<i> Giardia lamblia</i>.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34; porque o metronidazol só trata a amebíase desses parasitas descritos no enunciado. Ele é eficaz para tratar protozoários anaeróbios como Trichomonas vaginalis, Entamoeba histolytica e Giardia lamblia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:21:55.973867 +0000 UTC",
+                        "updated_at": "2020-11-03 18:21:56.302339 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 48
+                },
+                {
+                    "id": "68e4df9d-e53c-49bd-ae66-3371555ae3bd",
+                    "position": "2",
+                    "body": "Nitazoxanida por 3  dias.",
+                    "sanitized_body": "Nitazoxanida por 3  dias.",
+                    "correct": true,
+                    "created_at": "2020-09-14 18:27:47.248901 +0000 UTC",
+                    "updated_at": "2020-11-20 20:00:17.767203 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"c\". A nitazoxanida é um antiparasitário que tem ação contra diversos helmintos e protozoários, portanto das opções é a única que trata a ancilostomíase, tricuríase e amebíase.",
+                        "sanitized_complete": "Correta a alternativa &#34;c&#34;. A nitazoxanida é um antiparasitário que tem ação contra diversos helmintos e protozoários, portanto das opções é a única que trata a ancilostomíase, tricuríase e amebíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:21:55.984905 +0000 UTC",
+                        "updated_at": "2020-11-03 18:21:56.312347 +0000 UTC"
+                    },
+                    "answer_percentage": 53,
+                    "answers": 247
+                },
+                {
+                    "id": "80bf1e9f-d338-48c5-b541-f5652848a2ab",
+                    "position": "3",
+                    "body": "Ivermectina  dose única.",
+                    "sanitized_body": "Ivermectina  dose única.",
+                    "correct": false,
+                    "created_at": "2020-09-14 18:27:47.248901 +0000 UTC",
+                    "updated_at": "2020-11-20 20:00:17.841043 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\".  A ivermectina é a droga de escolha para tratar estrongilodíase. Não trata infecções como ascaridíase, enterobíase, tricuríase e amebíase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34;.  A ivermectina é a droga de escolha para tratar estrongilodíase. Não trata infecções como ascaridíase, enterobíase, tricuríase e amebíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:21:56.003574 +0000 UTC",
+                        "updated_at": "2020-11-03 18:21:56.315491 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 23
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Criança, 6 anos, comparece à consulta na unidade de saúde com queixa de desconforto abdominal, anorexia, astenia e alteração do hábito intestinal. Traz hemograma que, dentre os resultados, evidencia anemia moderada e eosinofilia. Diante da suspeita das principais parasitoses intestinas causadoras de anemia em criança, como a ancilostomíase, tricuríase e amebíase, o antiparasitário de escolha é o",
+            "statement_text": "Criança, 6 anos, comparece à consulta na unidade de saúde com queixa de desconforto abdominal, anorexia, astenia e alteração do hábito intestinal. Traz hemograma que, dentre os resultados, evidencia anemia moderada e eosinofilia. Diante da suspeita das principais parasitoses intestinas causadoras de anemia em criança, como a ancilostomíase, tricuríase e amebíase, o antiparasitário de escolha é o",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 18:27:47.248901 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><div><br></div>Colega, o enunciado quer uma opção terapêutica que trate helmintos (<i>Ancilostoma e Tricuris</i>) e protozoários (<i>Entamoeba</i>). Vamos juntos analisar as alternativas:",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CColega, o enunciado quer uma opção terapêutica que trate helmintos (Ancilostoma e Tricuris) e protozoários (Entamoeba). Vamos juntos analisar as alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-03 18:21:56.135734 +0000 UTC",
+                "updated_at": "2020-11-03 18:21:56.410014 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000080564",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "9f69194e-47cb-4ace-bf98-3df90eddbd55",
+                            "name": "RN - Universidade Federal do Rio Grande do Norte - UFRN (Hospital Universitário Onofre Lopes - HUOL)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "ECA92201-C0B0-588A-DD9B-761FDAB84301"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T13:17:03Z",
+                    "updated_at": "2020-11-26T02:58:03Z",
+                    "location": {
+                        "id": "21"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "ce93cab80820446290f7ea627578e6e9",
+                    "name": "Cirurgia",
+                    "is_master": true,
+                    "path": "Cirurgia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "cfae76809c3c4d098a2745be590eb1ed",
+                    "name": "Agentes etiológicos",
+                    "is_master": false,
+                    "master_id": "26a5ea53b8c742ecbf27cc91ed626f77",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Síndrome de Loffler[$$]Agentes etiológicos",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "8a2f9182-8f7b-42d5-b4fc-2874437f59a4",
+                    "position": "0",
+                    "body": "Enterobius vermiculares, Trichocephalus trichiurus e Ascaris lumbricoides.",
+                    "sanitized_body": "Enterobius vermiculares, Trichocephalus trichiurus e Ascaris lumbricoides.",
+                    "correct": false,
+                    "created_at": "2020-09-14 16:52:14.651868 +0000 UTC",
+                    "updated_at": "2020-11-20 17:54:21.056971 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"a\" porque o <i>Enterobius </i>e o <i>Trichocephalus </i>não fazem ciclo pulmonar.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;a&#34; porque o Enterobius e o Trichocephalus não fazem ciclo pulmonar.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:19:35.40705 +0000 UTC",
+                        "updated_at": "2020-11-03 18:19:51.406279 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "1d06fe0b-3d35-469f-a73f-66104741d2ae",
+                    "position": "1",
+                    "body": "Ascaris lumbricoides, Ancylostoma duodenale e Strongyloides stercoralis.",
+                    "sanitized_body": "Ascaris lumbricoides, Ancylostoma duodenale e Strongyloides stercoralis.",
+                    "correct": true,
+                    "created_at": "2020-09-14 16:52:14.651868 +0000 UTC",
+                    "updated_at": "2020-11-20 17:54:21.189853 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"b\".  Esses três vermes fazem ciclo pulmonar e podem causar a síndrome de Loffler. Para memorizar: a “NASA” faz síndrome de Loffler:<div><br><div><i><b>N</b>ecator americanus&nbsp;</i></div><div><i><b>A</b>ncylostoma duodenale&nbsp;</i></div><div><i><b>S</b>trongyloides stercoralis</i></div><div><i><b>A</b>scaris lumbricoides</i></div></div>",
+                        "sanitized_complete": "Correta a alternativa &#34;b&#34;.  Esses três vermes fazem ciclo pulmonar e podem causar a síndrome de Loffler. Para memorizar: a “NASA” faz síndrome de Loffler:Necator americanus Ancylostoma duodenale Strongyloides stercoralisAscaris lumbricoides",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:19:35.412055 +0000 UTC",
+                        "updated_at": "2020-11-03 18:19:51.398973 +0000 UTC"
+                    },
+                    "answer_percentage": 98,
+                    "answers": 422
+                },
+                {
+                    "id": "8e7ce5fc-8520-4435-87a2-41e3502ca95f",
+                    "position": "2",
+                    "body": "Entamoeba histolytica, Strongyloides stercoralis e Giardia lamblia.",
+                    "sanitized_body": "Entamoeba histolytica, Strongyloides stercoralis e Giardia lamblia.",
+                    "correct": false,
+                    "created_at": "2020-09-14 16:52:14.651868 +0000 UTC",
+                    "updated_at": "2020-11-20 17:54:21.334683 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\" porque a <i>Giardia </i>e a <i>Entamoeba </i>são protozoários e não fazem ciclo pulmonar.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34; porque a Giardia e a Entamoeba são protozoários e não fazem ciclo pulmonar.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:19:35.409436 +0000 UTC",
+                        "updated_at": "2020-11-03 18:19:51.406417 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "37779724-e0ee-4188-beea-830aca5e34a9",
+                    "position": "3",
+                    "body": "Ascaris lumbricoides, Enterobius vermiculares e Ancylostoma duodenale.",
+                    "sanitized_body": "Ascaris lumbricoides, Enterobius vermiculares e Ancylostoma duodenale.",
+                    "correct": false,
+                    "created_at": "2020-09-14 16:52:14.651868 +0000 UTC",
+                    "updated_at": "2020-11-20 17:54:21.468061 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\" porque o <i>Enterobius </i>não faz ciclo pulmonar.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34; porque o Enterobius não faz ciclo pulmonar.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-03 18:19:35.417922 +0000 UTC",
+                        "updated_at": "2020-11-03 18:19:51.389309 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 6
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A ocorrência das parasitoses intestinais está diretamente relacionada às condições de higiene, saneamento básico, educação e tipo de moradia da população. Os danos que os enteroparasitas podem causar a seus portadores  incluem,  entre  outros  agravos, obstrução intestinal, desnutrição, anemia por deficiência de ferro, diarreia, má-absorção e pneumonite a depender do parasita envolvido.&nbsp;<div><br></div><div>De acordo com a etiopatogenia, a opção   em que todos os parasitas apresentam ciclo pulmonar é:</div>",
+            "statement_text": "A ocorrência das parasitoses intestinais está diretamente relacionada às condições de higiene, saneamento básico, educação e tipo de moradia da população. Os danos que os enteroparasitas podem causar a seus portadores  incluem,  entre  outros  agravos, obstrução intestinal, desnutrição, anemia por deficiência de ferro, diarreia, má-absorção e pneumonite a depender do parasita envolvido. De acordo com a etiopatogenia, a opção   em que todos os parasitas apresentam ciclo pulmonar é:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 16:52:14.651868 +0000 UTC",
+            "solution": {
+                "complete": "<div><b>GABARITO: ALTERNATIVA B</b></div><div><br></div>Os parasitas que fazem ciclo pulmonar e podem causar a síndrome de Loffler são o <i>Ancylostoma duodenale</i> e o <i>Necator americanus</i> que causam a ancilostomíase, o <i>Strongyloides stercoralis</i>, que causa a estrongiloidíase e Ascaris lumbricoides, que causa a ascaridíase.<div><b><u><br></u></b></div><div><b><u>Para memorizar:</u></b></div><div><br></div><div>Esse tipo de questão é MUITO frequente em provas de residência médica, portanto memorize essas três doenças e seus agentes etiológicos que podem causar a síndrome de Loffler:</div><div><br></div><div><i><b>N</b>ecator americanus&nbsp;</i></div><div><i><b>A</b>ncylostoma duodenale&nbsp;</i></div><div><i><b>S</b>trongyloides stercoralis</i></div><div><i><b>A</b>scaris lumbricoides</i></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BOs parasitas que fazem ciclo pulmonar e podem causar a síndrome de Loffler são o Ancylostoma duodenale e o Necator americanus que causam a ancilostomíase, o Strongyloides stercoralis, que causa a estrongiloidíase e Ascaris lumbricoides, que causa a ascaridíase.Para memorizar:Esse tipo de questão é MUITO frequente em provas de residência médica, portanto memorize essas três doenças e seus agentes etiológicos que podem causar a síndrome de Loffler:Necator americanus Ancylostoma duodenale Strongyloides stercoralisAscaris lumbricoides",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-03 18:19:35.53287 +0000 UTC",
+                "updated_at": "2020-11-03 18:19:51.53692 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000076855",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "1a4c6e1c-9e91-41cf-ad6c-09af827d1642",
+                            "name": "PR - Hospital Pequeno Príncipe - HPP"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "770BB4D0-065B-DDBD-2BBD-B9BA7AF882FE"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T04:02:56Z",
+                    "location": {
+                        "id": "2906"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "c95f1ce03a2445289fb0d3185c6f7ae2",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "499d9a1a41e443a78c40c8207460b376",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Giardíase[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "63e14eb4-b7c5-4f87-b277-681c120f1d67",
+                    "position": "0",
+                    "body": "Amebíase",
+                    "sanitized_body": "Amebíase",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+                    "updated_at": "2020-11-20 00:21:42.09593 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"a\". A maioria dos pacientes com amebíase são assintomáticos (cerca de 90%), mas naqueles que apresentam sintomas, é frequente um quadro subagudo de disenteria com fezes sanguinolentas, dor abdominal, febre e perda ponderal.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;a&#34;. A maioria dos pacientes com amebíase são assintomáticos (cerca de 90%), mas naqueles que apresentam sintomas, é frequente um quadro subagudo de disenteria com fezes sanguinolentas, dor abdominal, febre e perda ponderal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 20:26:05.130391 +0000 UTC",
+                        "updated_at": "2020-11-02 20:26:27.027889 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 36
+                },
+                {
+                    "id": "b79ca0f4-c0cd-4cd1-800d-3eb33329c90d",
+                    "position": "1",
+                    "body": "Giardíase",
+                    "sanitized_body": "Giardíase",
+                    "correct": true,
+                    "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+                    "updated_at": "2020-11-20 00:21:42.221549 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"b\". Como vimos, o diagnóstico de giardíase é o mais provável.",
+                        "sanitized_complete": "Correta a alternativa &#34;b&#34;. Como vimos, o diagnóstico de giardíase é o mais provável.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 20:26:05.12142 +0000 UTC",
+                        "updated_at": "2020-11-02 20:26:27.048865 +0000 UTC"
+                    },
+                    "answer_percentage": 81,
+                    "answers": 277
+                },
+                {
+                    "id": "26db3a5c-ceb3-4561-bea8-2521e5c016ae",
+                    "position": "2",
+                    "body": "Ancilostomíase",
+                    "sanitized_body": "Ancilostomíase",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+                    "updated_at": "2020-11-20 00:21:42.350767 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\". A ancilostomíase é uma parasitose que pode se apresentar como um quadro pulmonar, fazendo a síndrome de Loeffler e/ou com um quadro intestinal de náuseas, vômitos, diarreia e dor epigástrica. Nos casos crônicos, o paciente geralmente apresenta anemia, pois o parasita se alimenta de sangue. Não é compatível com o quadro clínico descrito nesta questão.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34;. A ancilostomíase é uma parasitose que pode se apresentar como um quadro pulmonar, fazendo a síndrome de Loeffler e/ou com um quadro intestinal de náuseas, vômitos, diarreia e dor epigástrica. Nos casos crônicos, o paciente geralmente apresenta anemia, pois o parasita se alimenta de sangue. Não é compatível com o quadro clínico descrito nesta questão.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 20:26:05.13067 +0000 UTC",
+                        "updated_at": "2020-11-02 20:26:27.04145 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 11
+                },
+                {
+                    "id": "b32bfff8-388a-47d2-b609-b63a2dcb197b",
+                    "position": "3",
+                    "body": "Teníase",
+                    "sanitized_body": "Teníase",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+                    "updated_at": "2020-11-20 00:21:42.481523 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\" porque a teníase é geralmente assintomática. Não causa esse quadro clínico de diarreia aguda com má absorção.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34; porque a teníase é geralmente assintomática. Não causa esse quadro clínico de diarreia aguda com má absorção.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 20:26:05.119748 +0000 UTC",
+                        "updated_at": "2020-11-02 20:26:27.029081 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "986e72a2-4fcc-4112-a22c-bda375d2329a",
+                    "position": "4",
+                    "body": "Ascaridíase",
+                    "sanitized_body": "Ascaridíase",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+                    "updated_at": "2020-11-20 00:21:42.608415 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"e\". A ascaridíase não leva a um quadro de má absorção. Grande parte dos pacientes são assintomáticos. A depender da carga parasitária, o paciente pode apresentar um quadro de suboclusão intestinal.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;e&#34;. A ascaridíase não leva a um quadro de má absorção. Grande parte dos pacientes são assintomáticos. A depender da carga parasitária, o paciente pode apresentar um quadro de suboclusão intestinal.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 20:26:05.128762 +0000 UTC",
+                        "updated_at": "2020-11-02 20:26:27.126095 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 13
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Mãe vem ao posto de saúde com criança de 04 anos com história de dor abdominal frequente, diarreia intercalada com período de trânsito intestinal normal a mais ou menos 30 dias. O aspecto das fezes diarreica é líquida, espumosa e algumas vezes com restos alimentares. Este quadro é sugestivo de:",
+            "statement_text": "Mãe vem ao posto de saúde com criança de 04 anos com história de dor abdominal frequente, diarreia intercalada com período de trânsito intestinal normal a mais ou menos 30 dias. O aspecto das fezes diarreica é líquida, espumosa e algumas vezes com restos alimentares. Este quadro é sugestivo de:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "felipematsueda@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 13:37:01.446099 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Temos aqui um paciente com diarreia crônica com restos alimentares. Quem faz isso? A Giardia lamblia! Ela é um protozoário que habita o intestino delgado e a giardíase clinicamente pode se apresentar com diarreia, mal-estar, dor abdominal e esteatorreia. Em alguns casos o paciente pode apresentar um quadro de diarreia persistente com má absorção e perda ponderal. O tratamento de primeira linha para esse parasita inclui o tinidazol e a nitazoxanida. Terapias alternativas incluem o secnidazol, metronidazol, albendazol e mebendazol.&nbsp;</div><div><br></div><div>Vamos às alternativas:</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BTemos aqui um paciente com diarreia crônica com restos alimentares. Quem faz isso? A Giardia lamblia! Ela é um protozoário que habita o intestino delgado e a giardíase clinicamente pode se apresentar com diarreia, mal-estar, dor abdominal e esteatorreia. Em alguns casos o paciente pode apresentar um quadro de diarreia persistente com má absorção e perda ponderal. O tratamento de primeira linha para esse parasita inclui o tinidazol e a nitazoxanida. Terapias alternativas incluem o secnidazol, metronidazol, albendazol e mebendazol. Vamos às alternativas:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-02 20:26:05.573097 +0000 UTC",
+                "updated_at": "2020-11-02 20:26:27.307615 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000074286",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "4eb99de2-dcd6-423a-b2f6-4d4beaaea858",
+                            "name": "PR - Autarquia Municipal de Saúde de Apucarana - AMS Apucarana"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "07e709e5-56ba-4ae8-8b0b-881fb01eafa4",
+                            "name": "Público - Municipal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "6D2E57EF-B2AE-7E69-C043-BD28257C55B0"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T02:58:38Z",
+                    "updated_at": "2020-09-05T03:00:45Z",
+                    "location": {
+                        "id": "2829"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6caeef2eb90a45908b69a76a38ab3775",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "944b5e68bfdb49719a4f846cece7a142",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Enterobíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "f45da2b6-35f1-406c-8c6e-3230bbdd4bbc",
+                    "position": "0",
+                    "body": "&nbsp;Albendazol e pamoato de pirvínio.",
+                    "sanitized_body": " Albendazol e pamoato de pirvínio.",
+                    "correct": true,
+                    "created_at": "2020-09-14 11:36:25.277222 +0000 UTC",
+                    "updated_at": "2020-11-19 21:15:39.303118 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"a\". Essas duas drogas são opções para tratamento da enterobíase.",
+                        "sanitized_complete": "Correta a alternativa &#34;a&#34;. Essas duas drogas são opções para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:41:14.269774 +0000 UTC",
+                        "updated_at": "2020-11-02 19:41:34.748803 +0000 UTC"
+                    },
+                    "answer_percentage": 89,
+                    "answers": 290
+                },
+                {
+                    "id": "21d28eb8-7eaf-4b99-b6f2-dfaf3f76e407",
+                    "position": "1",
+                    "body": "&nbsp;Levamizol e ivermectina.",
+                    "sanitized_body": " Levamizol e ivermectina.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:36:25.277222 +0000 UTC",
+                    "updated_at": "2020-11-19 21:15:39.440008 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\" porque nenhuma dessas drogas está indicada para tratamento da enterobíase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34; porque nenhuma dessas drogas está indicada para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:41:14.265654 +0000 UTC",
+                        "updated_at": "2020-11-02 19:41:34.739447 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "f4e34deb-483f-4950-a479-36c2343b3e7c",
+                    "position": "2",
+                    "body": "&nbsp;Tiabendazol e mebendazol.",
+                    "sanitized_body": " Tiabendazol e mebendazol.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:36:25.277222 +0000 UTC",
+                    "updated_at": "2020-11-19 21:15:39.585079 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\" porque o tiabendazol não é uma opção terapêutica para tratamento da enterobíase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34; porque o tiabendazol não é uma opção terapêutica para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:41:14.277289 +0000 UTC",
+                        "updated_at": "2020-11-02 19:41:34.748413 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 16
+                },
+                {
+                    "id": "8791ddb8-beda-47b4-93cb-804986d8400c",
+                    "position": "3",
+                    "body": "&nbsp;Pamoato de pirantel e secnidazol.",
+                    "sanitized_body": " Pamoato de pirantel e secnidazol.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:36:25.277222 +0000 UTC",
+                    "updated_at": "2020-11-19 21:15:39.730239 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\" porque o secnidazol não tem ação contra o E. vermicularis. É uma medicação usada para tratamento de infecções por protozoários.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34; porque o secnidazol não tem ação contra o E. vermicularis. É uma medicação usada para tratamento de infecções por protozoários.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:41:14.270083 +0000 UTC",
+                        "updated_at": "2020-11-02 19:41:34.753384 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 15
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Dois irmãos, um com oito anos e o outro com seis anos de idade são levados à UBS (Unidade Básica de Saúde) com a queixa de que há uma semana, estão apresentando prurido anal no período da noite, levando-os a perder o sono. Ambos apresentam exame físico sem alterações.&nbsp;<div><br></div><div>Os medicamentos que podem ser utilizados no tratamento desta patologia são:</div>",
+            "statement_text": "Dois irmãos, um com oito anos e o outro com seis anos de idade são levados à UBS (Unidade Básica de Saúde) com a queixa de que há uma semana, estão apresentando prurido anal no período da noite, levando-os a perder o sono. Ambos apresentam exame físico sem alterações. Os medicamentos que podem ser utilizados no tratamento desta patologia são:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "mateus0992@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 11:36:25.277222 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>A parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença. O tratamento da oxiuríase pode ser feito com albendazol, mebendazol, pamoato de pirantel ou pamoato de pirvínio.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AA parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença. O tratamento da oxiuríase pode ser feito com albendazol, mebendazol, pamoato de pirantel ou pamoato de pirvínio.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-02 19:41:14.565719 +0000 UTC",
+                "updated_at": "2020-11-02 19:41:34.95664 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000074050",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "3e582b42-1253-4dd3-85fa-eb47c97f14eb",
+                            "name": "RJ - Universidade do Grande Rio - UNIGRANRIO"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "126010BC-4695-93BA-F36F-3A7F2D0ECF64"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 60,
+                    "created_at": "2020-09-06T21:35:16Z",
+                    "location": {
+                        "id": "3633"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6caeef2eb90a45908b69a76a38ab3775",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "944b5e68bfdb49719a4f846cece7a142",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Enterobíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "6e44d31f37ea47ec9ff4c794c2e6f23f",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "944b5e68bfdb49719a4f846cece7a142",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Enterobíase[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "6221fa3b-d428-40ef-9558-b86618adeb09",
+                    "position": "0",
+                    "body": "Albendazol e pamoato de pirvínio.",
+                    "sanitized_body": "Albendazol e pamoato de pirvínio.",
+                    "correct": true,
+                    "created_at": "2020-09-14 11:04:49.863938 +0000 UTC",
+                    "updated_at": "2020-11-19 21:09:47.353493 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"a\". Essas duas drogas são opções para tratamento da enterobíase.",
+                        "sanitized_complete": "Correta a alternativa &#34;a&#34;. Essas duas drogas são opções para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:47:19.250346 +0000 UTC",
+                        "updated_at": "2020-11-02 19:47:37.21366 +0000 UTC"
+                    },
+                    "answer_percentage": 97,
+                    "answers": 299
+                },
+                {
+                    "id": "24dea066-65a5-44b0-acb9-caf57a00d08c",
+                    "position": "1",
+                    "body": "Levamizol e ivermectina.",
+                    "sanitized_body": "Levamizol e ivermectina.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:04:49.863938 +0000 UTC",
+                    "updated_at": "2020-11-19 21:09:47.486641 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\" porque nenhuma dessas drogas está indicada para tratamento da enterobíase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34; porque nenhuma dessas drogas está indicada para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:47:19.264599 +0000 UTC",
+                        "updated_at": "2020-11-02 19:47:37.295166 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 1
+                },
+                {
+                    "id": "0da1ca06-0520-42d2-8fc8-f2a3871a8c84",
+                    "position": "2",
+                    "body": "Pamoato de pirantel e secnidazol.",
+                    "sanitized_body": "Pamoato de pirantel e secnidazol.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:04:49.863938 +0000 UTC",
+                    "updated_at": "2020-11-19 21:09:47.617189 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\" porque o tiabendazol não é uma opção terapêutica para tratamento da enterobíase.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34; porque o tiabendazol não é uma opção terapêutica para tratamento da enterobíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:47:19.268801 +0000 UTC",
+                        "updated_at": "2020-11-02 19:47:37.216998 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                },
+                {
+                    "id": "5de3704a-78dd-4e2a-94a5-78bed8823ac2",
+                    "position": "3",
+                    "body": "Tiabendazol e mebendazo.",
+                    "sanitized_body": "Tiabendazol e mebendazo.",
+                    "correct": false,
+                    "created_at": "2020-09-14 11:04:49.863938 +0000 UTC",
+                    "updated_at": "2020-11-19 21:09:47.750062 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\" porque o secnidazol não tem ação contra o E. vermicularis. É uma medicação usada para tratamento de infecções por protozoários.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34; porque o secnidazol não tem ação contra o E. vermicularis. É uma medicação usada para tratamento de infecções por protozoários.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 19:47:19.263676 +0000 UTC",
+                        "updated_at": "2020-11-02 19:47:37.281692 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 3
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Pediatra é acordado na madrugada por mãe de paciente que pede orientação pois seu filho de 6 anos apresenta há 2 dias prurido anal durante a madrugada. A história já ocorreu com o irmão mais velho.&nbsp;<div><br></div><div>Quais medicamentos abaixo podem ser utilizados para tratamento da patologia?</div>",
+            "statement_text": "Pediatra é acordado na madrugada por mãe de paciente que pede orientação pois seu filho de 6 anos apresenta há 2 dias prurido anal durante a madrugada. A história já ocorreu com o irmão mais velho. Quais medicamentos abaixo podem ser utilizados para tratamento da patologia?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "bruno-cesar110@hotmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-14 11:04:49.863938 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>A parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença. O tratamento da oxiuríase pode ser feito com albendazol, mebendazol, pamoato de pirantel ou pamoato de pirvínio.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AA parasitose que classicamente causa prurido anal é a enterobíase/oxiuríase. Ela é uma doença causada pelo Enterobius vermicularis. O homem é seu único hospedeiro natural. Seu ciclo de vida é simples e começa com a deposição de ovos pelas fêmeas na região perianal. Ao coçar a região, os ovos são transferidos para a mão do indivíduo e em seguida pode contaminar outras pessoas através de comidas, roupas e superfícies contaminadas. A auto-inoculação pode ocorrer se a pessoa infectada coçar a região perianal e em seguida colocar a mão na boca. Os ovo são ingeridos e liberam uma larva no intestino delgado. Na forma adulta, se estabelecem no ceco e apêndice. Quando estão grávidas, as fêmeas migram para a região perianal para depositar os ovos, levando a um quadro de prurido anal bem característico da doença. O tratamento da oxiuríase pode ser feito com albendazol, mebendazol, pamoato de pirantel ou pamoato de pirvínio.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-02 19:47:19.632314 +0000 UTC",
+                "updated_at": "2020-11-02 19:47:37.382492 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000054168",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "7468b2e6-a72b-47f1-93cd-33d275d0f426",
+                            "name": "PR - Universidade Estadual de Maringá - UEM (Hospital Universitário Regional de Maringá - HUM)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "CF3830A4-8CA5-4A40-16A4-F2E28B329E52"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-05T11:27:01Z",
+                    "location": {
+                        "id": "3022"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "326baed99b2f46bbb53d575a47cc1a96",
+                    "name": "Quadro clínico",
+                    "is_master": false,
+                    "master_id": "22b7a5ab03174503a3113471b2967515",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Amebíase[$$]Quadro clínico",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "60f61fc7ce154054b6559c5c6642804e",
+                    "name": "Agente etiológico ",
+                    "is_master": false,
+                    "master_id": "01e19ee5aa4e4eb89fd1c8f0fbd06144",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Ascaridíase[$$]Agente etiológico ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "9b7d21a6-e917-4130-bda2-649a7ee9842c",
+                    "position": "0",
+                    "body": "Ascaridíase e Amebíase",
+                    "sanitized_body": "Ascaridíase e Amebíase",
+                    "correct": true,
+                    "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+                    "updated_at": "2020-11-16 17:17:29.592568 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa \"a\". A ascaridíase é transmitida através da ingestão de alimentos ou água contaminados com ovos do parasita. A amebíase é transmitida pela ingestão de cistos que também contaminam alimentos e água.&nbsp;",
+                        "sanitized_complete": "Correta a alternativa &#34;a&#34;. A ascaridíase é transmitida através da ingestão de alimentos ou água contaminados com ovos do parasita. A amebíase é transmitida pela ingestão de cistos que também contaminam alimentos e água. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 17:30:27.233734 +0000 UTC",
+                        "updated_at": "2020-11-02 17:30:40.830357 +0000 UTC"
+                    },
+                    "answer_percentage": 72,
+                    "answers": 274
+                },
+                {
+                    "id": "f1d2a738-6f38-49e4-9439-7be06cd5f7f4",
+                    "position": "1",
+                    "body": "Giardíase e Ancilostomíase",
+                    "sanitized_body": "Giardíase e Ancilostomíase",
+                    "correct": false,
+                    "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+                    "updated_at": "2020-11-16 17:17:29.7262 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\" porque a transmissão da ancilostomíase ocorre através da penetração da larva com a pele humana que entrou em contato com o solo contaminado.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34; porque a transmissão da ancilostomíase ocorre através da penetração da larva com a pele humana que entrou em contato com o solo contaminado.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 17:30:27.24103 +0000 UTC",
+                        "updated_at": "2020-11-02 17:30:40.83039 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 29
+                },
+                {
+                    "id": "82bfb61a-6d33-4764-b82b-1616ae222818",
+                    "position": "2",
+                    "body": "Teníase e Cisticercose",
+                    "sanitized_body": "Teníase e Cisticercose",
+                    "correct": false,
+                    "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+                    "updated_at": "2020-11-16 17:17:29.85528 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\" porque a teníase é transmitida através da ingestão de carnes suínas ou bovinas mal cozidas contendo o cisticerco.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34; porque a teníase é transmitida através da ingestão de carnes suínas ou bovinas mal cozidas contendo o cisticerco.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 17:30:27.24553 +0000 UTC",
+                        "updated_at": "2020-11-02 17:30:40.834373 +0000 UTC"
+                    },
+                    "answer_percentage": 8,
+                    "answers": 32
+                },
+                {
+                    "id": "bdd75f16-bf12-4617-9764-078af1d3e87a",
+                    "position": "3",
+                    "body": "Enterobíase e Ascaridíase",
+                    "sanitized_body": "Enterobíase e Ascaridíase",
+                    "correct": false,
+                    "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+                    "updated_at": "2020-11-16 17:17:29.983245 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"d\" porque a enterobíase é transmitida pelo contato pessoa-a-pessoa ou através de fômites contaminados com ovos.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;d&#34; porque a enterobíase é transmitida pelo contato pessoa-a-pessoa ou através de fômites contaminados com ovos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 17:30:27.233863 +0000 UTC",
+                        "updated_at": "2020-11-02 17:30:40.838984 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 23
+                },
+                {
+                    "id": "aa2ec6fb-9d94-465a-a34d-c5c4e08559ae",
+                    "position": "4",
+                    "body": "Estrongiloidíase e Amebíase",
+                    "sanitized_body": "Estrongiloidíase e Amebíase",
+                    "correct": false,
+                    "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+                    "updated_at": "2020-11-16 17:17:30.12358 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"e\" \" porque a transmissão da estrongiloidíase, assim como na ancilostomíase, ocorre através da penetração da larva com a pele humana que entrou em contato com o solo contaminado.",
+                        "sanitized_complete": "Incorreta a alternativa &#34;e&#34; &#34; porque a transmissão da estrongiloidíase, assim como na ancilostomíase, ocorre através da penetração da larva com a pele humana que entrou em contato com o solo contaminado.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-11-02 17:30:27.234458 +0000 UTC",
+                        "updated_at": "2020-11-02 17:30:40.834929 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 21
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "As parasitoses intestinais são doenças transmitidas por parasitas, que se utilizam do homem como hospedeiro em algum momento do seu ciclo vital. Dentre elas, quais podem ser transmitidas por alimentos vegetais contaminados e água contaminada?",
+            "statement_text": "As parasitoses intestinais são doenças transmitidas por parasitas, que se utilizam do homem como hospedeiro em algum momento do seu ciclo vital. Dentre elas, quais podem ser transmitidas por alimentos vegetais contaminados e água contaminada?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "marissolrios.1988@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-12 18:33:03.874501 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA A</b>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA A",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-02 17:30:27.395901 +0000 UTC",
+                "updated_at": "2020-11-02 17:30:41.062209 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000047244",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Residência (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "70968071-52b0-4d19-9499-9f15a7302f70",
+                            "name": "PE - Secretaria Estadual de Saúde do Estado de Pernambuco - SES PE"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "Público - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "DB9DE346-9548-47DE-4CC0-B36C5979FEBE"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-03T17:50:02Z",
+                    "location": {
+                        "id": "17"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "aeaf8c2af8624547ba08612943c83ec6",
+                    "name": "Tratamento",
+                    "is_master": false,
+                    "master_id": "499d9a1a41e443a78c40c8207460b376",
+                    "path": "Clínica Médica[$$]Infectologia [$$]Parasitoses[$$]Giardíase[$$]Tratamento",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "c87159bc-97f2-4dce-a429-ab790dccf8f3",
+                    "position": "0",
+                    "body": "Furazolidona por 7 dias ou albendazol por 5 dias",
+                    "sanitized_body": "Furazolidona por 7 dias ou albendazol por 5 dias",
+                    "correct": false,
+                    "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+                    "updated_at": "2021-09-01 16:44:47.381809 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa A, porque a furazolidona tem ação contra giardíase e taxas de cura em torno de 80%, mas tem o seu uso limitado pelo perfil de efeitos adversos (eventos gastrointestinais, cefaleia e neuropatia) e pelo risco de induzir hemólise em portadores de deficiência de G6PD. Já o albendazol é considerado uma alternativa para giardíase, mas não o tratamento de 1ª linha.",
+                        "sanitized_complete": "Incorreta a alternativa A, porque a furazolidona tem ação contra giardíase e taxas de cura em torno de 80%, mas tem o seu uso limitado pelo perfil de efeitos adversos (eventos gastrointestinais, cefaleia e neuropatia) e pelo risco de induzir hemólise em portadores de deficiência de G6PD. Já o albendazol é considerado uma alternativa para giardíase, mas não o tratamento de 1ª linha.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:25:32.624485 +0000 UTC",
+                        "updated_at": "2020-11-19 21:25:33.747656 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 18
+                },
+                {
+                    "id": "82a50d37-22e4-4782-b667-7c79f29c4841",
+                    "position": "1",
+                    "body": "Tinidazol ou metronidazol por 7 dias",
+                    "sanitized_body": "Tinidazol ou metronidazol por 7 dias",
+                    "correct": true,
+                    "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+                    "updated_at": "2021-09-01 16:44:47.566171 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa B, porque o tinidazol e metronidazol são opções seguras e eficazes para o tratamento da giardíase, sendo consideradas opções terapêuticas de 1ª linha em crianças e adultos.<div><br></div><div><i>Atenção! O tinidazol não é liberado para menores de 3 anos de idade. Nessa faixa considerar o uso da nitazoxanida.</i></div><div><i><br></i></div><div><i>Fique ligado! O metronidazol e tinidazol são opções também para o tratamento de amebíase e tricomoníase.</i></div>",
+                        "sanitized_complete": "Correta a alternativa B, porque o tinidazol e metronidazol são opções seguras e eficazes para o tratamento da giardíase, sendo consideradas opções terapêuticas de 1ª linha em crianças e adultos.Atenção! O tinidazol não é liberado para menores de 3 anos de idade. Nessa faixa considerar o uso da nitazoxanida.Fique ligado! O metronidazol e tinidazol são opções também para o tratamento de amebíase e tricomoníase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:25:32.628849 +0000 UTC",
+                        "updated_at": "2020-11-19 21:25:33.759886 +0000 UTC"
+                    },
+                    "answer_percentage": 65,
+                    "answers": 263
+                },
+                {
+                    "id": "aa93b70d-811b-4f04-80cd-8ac07b574c09",
+                    "position": "2",
+                    "body": "Ivermectinaou secnidazol em dose única",
+                    "sanitized_body": "Ivermectinaou secnidazol em dose única",
+                    "correct": false,
+                    "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+                    "updated_at": "2021-09-01 16:44:47.629967 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, porque a ivermectina é a droga de escolha para estrongiloidíase e uma ampla gama de parasitas, mas não para giardíase. Já o secnidazol é uma droga alternativa para giardíase apenas em adultos.",
+                        "sanitized_complete": "Incorreta a alternativa C, porque a ivermectina é a droga de escolha para estrongiloidíase e uma ampla gama de parasitas, mas não para giardíase. Já o secnidazol é uma droga alternativa para giardíase apenas em adultos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:25:32.628973 +0000 UTC",
+                        "updated_at": "2020-11-19 21:25:33.755631 +0000 UTC"
+                    },
+                    "answer_percentage": 5,
+                    "answers": 22
+                },
+                {
+                    "id": "820fe4f7-7ed7-459a-a2c1-4ff4c39fcfff",
+                    "position": "3",
+                    "body": "Nitazoxanida por 3 dias ou levamisol dose única",
+                    "sanitized_body": "Nitazoxanida por 3 dias ou levamisol dose única",
+                    "correct": false,
+                    "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+                    "updated_at": "2021-09-01 16:44:47.734031 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque, embora a nitazoxanida tenha ação contra giardíase e seja uma das drogas de escolha, especialmente em menores de 3 anos de idade, o levamisol não é usado para o tratamento de giardíase.<div><br><div><i>Lembre-se que a nitazoxanida tem ação também para outras parasitoses, como criptosporidiose (importante causa de diarreia em imunossuprimidos) e amebíase.</i></div></div>",
+                        "sanitized_complete": "Incorreta a alternativa D, porque, embora a nitazoxanida tenha ação contra giardíase e seja uma das drogas de escolha, especialmente em menores de 3 anos de idade, o levamisol não é usado para o tratamento de giardíase.Lembre-se que a nitazoxanida tem ação também para outras parasitoses, como criptosporidiose (importante causa de diarreia em imunossuprimidos) e amebíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:25:32.63425 +0000 UTC",
+                        "updated_at": "2020-11-19 21:25:33.7561 +0000 UTC"
+                    },
+                    "answer_percentage": 24,
+                    "answers": 97
+                },
+                {
+                    "id": "5c9840eb-93a9-4f86-bceb-03c1e2aaa399",
+                    "position": "4",
+                    "body": "Levamisol dose única ou tiabendazol por 3 dias",
+                    "sanitized_body": "Levamisol dose única ou tiabendazol por 3 dias",
+                    "correct": false,
+                    "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+                    "updated_at": "2021-09-01 16:44:47.85002 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa E, porque o levamisol tem atividade contra ascaridíase, mas não para giardíase.",
+                        "sanitized_complete": "Incorreta a alternativa E, porque o levamisol tem atividade contra ascaridíase, mas não para giardíase.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-19 21:25:32.63398 +0000 UTC",
+                        "updated_at": "2020-11-19 21:25:33.759469 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 4
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em recente revisão sistemática realizada pelo Cochrane (ROBSINSON et al. 2019), evidenciou-se que os programas de saúde pública para tratar regularmente todas as crianças, incluindo aquelas assintomáticas, com remédios para desparasitação, especialmente as residentes em áreas endêmicas, não parecem melhorar parâmetros, como altura, hemoglobina, cognição, desempenho escolar ou mortalidade. No entanto, em situações específicas, nas quais a criança apresenta diarreia, dor abdominal ou anemia ferropriva, uma investigação laboratorial deverá ser feita e, assim, direcionar o tratamento específico para o parasita encontrado. Em relação aos pacientes sintomáticos, confirmados com giardíase, assinale a alternativa que apresenta as opções terapêuticas com as melhores taxas de cura.",
+            "statement_text": "Em recente revisão sistemática realizada pelo Cochrane (ROBSINSON et al. 2019), evidenciou-se que os programas de saúde pública para tratar regularmente todas as crianças, incluindo aquelas assintomáticas, com remédios para desparasitação, especialmente as residentes em áreas endêmicas, não parecem melhorar parâmetros, como altura, hemoglobina, cognição, desempenho escolar ou mortalidade. No entanto, em situações específicas, nas quais a criança apresenta diarreia, dor abdominal ou anemia ferropriva, uma investigação laboratorial deverá ser feita e, assim, direcionar o tratamento específico para o parasita encontrado. Em relação aos pacientes sintomáticos, confirmados com giardíase, assinale a alternativa que apresenta as opções terapêuticas com as melhores taxas de cura.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "carlat840@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-12 12:36:48.303106 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Caro aluno estratégia MED, essa é uma questão direta sobre o tratamento de giardíase, mas podemos aproveitá-la para revisar os conceitos mais abordados em provas sobre essa parasitose.</div><div><br></div><div>A giardíase é causada pela <i>Giardia intestinalis</i>, um protozoário parasita que habita o intestino delgado de humanos e outros mamíferos. A apresentação clínica varia mais frequentemente de um portador assintomático (65%) à uma diarreia crônica autolimitada. Aproximadamente 15% dos pacientes apresentam sintomas persistentes, predominando os sinais de má absorção, como esteatorreia, perda de peso, diarreia, distensão abdominal, dentre outros. O diagnóstico pode ser obtido habitualmente pela detecção de cistos nas fezes e trofozoítos nas fezes ou intestino (biopsia duodenal). A depender da disponibilidade, pode se lançar mão também da pesquisa de antígenos do parasita nas fezes ou de biologia molecular (PCR – reação em cadeia polimerase).</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BCaro aluno estratégia MED, essa é uma questão direta sobre o tratamento de giardíase, mas podemos aproveitá-la para revisar os conceitos mais abordados em provas sobre essa parasitose.A giardíase é causada pela Giardia intestinalis, um protozoário parasita que habita o intestino delgado de humanos e outros mamíferos. A apresentação clínica varia mais frequentemente de um portador assintomático (65%) à uma diarreia crônica autolimitada. Aproximadamente 15% dos pacientes apresentam sintomas persistentes, predominando os sinais de má absorção, como esteatorreia, perda de peso, diarreia, distensão abdominal, dentre outros. O diagnóstico pode ser obtido habitualmente pela detecção de cistos nas fezes e trofozoítos nas fezes ou intestino (biopsia duodenal). A depender da disponibilidade, pode se lançar mão também da pesquisa de antígenos do parasita nas fezes ou de biologia molecular (PCR – reação em cadeia polimerase).",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontifícia Universidade Católica de Campinas - PUC-Campinas, residência médica em Infectologia pelo Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo e fellowship clínico em Infecções em Pacientes Transplantados e Oncológicos pela University of Alberta (Canadá). Atualmente é médico infectologista do Hospital Cárdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2020-11-19 21:25:32.735761 +0000 UTC",
+                "updated_at": "2020-11-19 21:25:33.81383 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 35
+    }
+}

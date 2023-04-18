@@ -1,0 +1,610 @@
+{
+    "data": [
+        {
+            "id": "4000153801",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                            "name": "Revalida - Universidade Federal de Mato Grosso (UFMT)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 50,
+                    "created_at": "2021-10-01T13:46:00Z",
+                    "location": {
+                        "id": "14"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "9e1aa013ae394b7f957df01e603b843f",
+                    "name": "Conceitos fundamentais (óbito materno, óbito por causa materna, causas obstétricas diretas e causas obstétricas indiretas)",
+                    "is_master": false,
+                    "master_id": "b13182ae3d204a45a42ccf984638a30b",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de saúde coletiva[$$]Indicadores especiais de mortalidade[$$]Mortalidade Materna[$$]Conceitos fundamentais (óbito materno, óbito por causa materna, causas obstétricas diretas e causas obstétricas indiretas)",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "b13182ae3d204a45a42ccf984638a30b",
+                    "name": "Mortalidade Materna",
+                    "is_master": false,
+                    "master_id": "bb5f0c1729964b15a196c4f9a35d21b3",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de saúde coletiva[$$]Indicadores especiais de mortalidade[$$]Mortalidade Materna",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "8354021c-bc9c-438a-8320-fff886288828",
+                    "position": "0",
+                    "body": "Transtornos mentais e comportamentais associados ao puerpério.\n",
+                    "sanitized_body": "Transtornos mentais e comportamentais associados ao puerpério.\n",
+                    "correct": false,
+                    "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+                    "updated_at": "2021-10-13 13:38:45.189067 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. É considerada causa obstétrica direta pois são condições relacionadas ao puerpério.",
+                        "sanitized_complete": "Incorreta. É considerada causa obstétrica direta pois são condições relacionadas ao puerpério.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2022-02-01 19:34:14.874176 +0000 UTC",
+                        "updated_at": "2022-02-01 19:34:15.667813 +0000 UTC"
+                    },
+                    "answer_percentage": 22,
+                    "answers": 14
+                },
+                {
+                    "id": "44672782-f8d6-4dfc-b01a-220247641b6e",
+                    "position": "1",
+                    "body": "Hipertensão pré-existente complicando a gravidez, o parto e o puerpério.\n",
+                    "sanitized_body": "Hipertensão pré-existente complicando a gravidez, o parto e o puerpério.\n",
+                    "correct": true,
+                    "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+                    "updated_at": "2021-10-13 13:38:45.367497 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Perfeita! Note que a hipertensão já existia, mas foi agravada pela gestação – característica das causas obstétricas indiretas. ",
+                        "sanitized_complete": "Perfeita! Note que a hipertensão já existia, mas foi agravada pela gestação – característica das causas obstétricas indiretas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2022-02-01 19:34:14.833106 +0000 UTC",
+                        "updated_at": "2022-02-01 19:34:15.685067 +0000 UTC"
+                    },
+                    "answer_percentage": 74,
+                    "answers": 48
+                },
+                {
+                    "id": "52cbe689-f295-414a-b46e-42a2bbe46523",
+                    "position": "2",
+                    "body": "Mola hidatiforme invasiva ou maligna.",
+                    "sanitized_body": "Mola hidatiforme invasiva ou maligna.",
+                    "correct": false,
+                    "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+                    "updated_at": "2021-10-13 13:38:45.562552 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. É considerada causa obstétrica direta já que sem gravidez não há como haver mola.",
+                        "sanitized_complete": "Incorreta. É considerada causa obstétrica direta já que sem gravidez não há como haver mola.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2022-02-01 19:34:14.849403 +0000 UTC",
+                        "updated_at": "2022-02-01 19:34:15.684599 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 1
+                },
+                {
+                    "id": "bd8bc49a-8db1-44dd-bb57-8f0b01a04950",
+                    "position": "3",
+                    "body": "Necrose da hipófise pós-parto.\n",
+                    "sanitized_body": "Necrose da hipófise pós-parto.\n",
+                    "correct": false,
+                    "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+                    "updated_at": "2021-10-13 13:38:45.782433 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. É considerada causa obstétrica direta pois a gestação é causa fundamental!",
+                        "sanitized_complete": "Incorreta. É considerada causa obstétrica direta pois a gestação é causa fundamental!",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2022-02-01 19:34:14.849441 +0000 UTC",
+                        "updated_at": "2022-02-01 19:34:15.670219 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 2
+                },
+                {
+                    "id": "ef77591c-3344-4ebb-a299-a10017e294be",
+                    "position": "4",
+                    "body": "<i>Diabetes mellitus </i>que surge na gravidez.",
+                    "sanitized_body": "Diabetes mellitus que surge na gravidez.",
+                    "correct": false,
+                    "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+                    "updated_at": "2021-10-13 13:38:45.945945 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta. É causa direta pois surgiu na gravidez (se fosse anterior à gravidez seria indireta).",
+                        "sanitized_complete": "Incorreta. É causa direta pois surgiu na gravidez (se fosse anterior à gravidez seria indireta).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                        "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                        "author_profile": null,
+                        "created_at": "2022-02-01 19:34:14.874555 +0000 UTC",
+                        "updated_at": "2022-02-01 19:34:15.685094 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "As causas de mortalidade materna são discriminadas na Classificação Internacional das Doenças (CID 10) como obstétricas diretas e indiretas. Assinale a alternativa que apresenta causa de mortalidade obstétrica indireta.",
+            "statement_text": "As causas de mortalidade materna são discriminadas na Classificação Internacional das Doenças (CID 10) como obstétricas diretas e indiretas. Assinale a alternativa que apresenta causa de mortalidade obstétrica indireta.",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "socorrosantos2408@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2021-10-01 18:00:18.693063 +0000 UTC",
+            "solution": {
+                "complete": "Estrategista, vamos conversar sobre a mortalidade materna nesta questão. <div><br></div><div>Conceitualmente, a morte materna corresponde “a morte de mulheres durante a gestação ou dentro de um período de 42 dias após o término da gravidez, devido a qualquer causa relacionada ou agravada pela gravidez ou por medidas tomadas em relação a ela, porém não se motivada a causas acidentais ou incidentais” (CID-10).  Podemos classificar a morte materna como:</div><div><br></div><div>- Causa obstétrica direta: óbito devido aspectos relacionados à gravidez, parto ou puerpério e a intervenções ou omissões.</div><div>- Causa obstétrica indireta: óbito devido doenças relacionadas a condições patológicas que a mulher já tinha e foram agravadas pela gestação, ou por doenças desenvolvidas durante a gestação (exemplos: hipertensão pré-existente e diabetes pré-existente).</div><div><br></div><div>Quanto à temporalidade, pode-se ainda definir a “morte materna tardia”, a qual corresponde ao óbito que ocorrente entre após 42 dias e até 1 ano do parto, e resulta de causas obstétricas diretas ou indiretas.</div><div><br></div><div>Vamos analisar as opções:</div><div><br></div>",
+                "sanitized_complete": "Estrategista, vamos conversar sobre a mortalidade materna nesta questão. Conceitualmente, a morte materna corresponde “a morte de mulheres durante a gestação ou dentro de um período de 42 dias após o término da gravidez, devido a qualquer causa relacionada ou agravada pela gravidez ou por medidas tomadas em relação a ela, porém não se motivada a causas acidentais ou incidentais” (CID-10).  Podemos classificar a morte materna como:- Causa obstétrica direta: óbito devido aspectos relacionados à gravidez, parto ou puerpério e a intervenções ou omissões.- Causa obstétrica indireta: óbito devido doenças relacionadas a condições patológicas que a mulher já tinha e foram agravadas pela gestação, ou por doenças desenvolvidas durante a gestação (exemplos: hipertensão pré-existente e diabetes pré-existente).Quanto à temporalidade, pode-se ainda definir a “morte materna tardia”, a qual corresponde ao óbito que ocorrente entre após 42 dias e até 1 ano do parto, e resulta de causas obstétricas diretas ou indiretas.Vamos analisar as opções:",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+                "author_profile": {
+                    "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+                    "full_name": "Camilo Ramos",
+                    "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+                    "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nProfessor de Medicina Preventiva do Estratégia MED e Médico-Perito concursado do Instituto Federal do Pará.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ]
+                },
+                "created_at": "2022-02-01 19:34:15.014507 +0000 UTC",
+                "updated_at": "2022-02-01 19:34:15.788669 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false
+        },
+        {
+            "id": "4000127246",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2011,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "Não se aplica"
+                        },
+                        "goal_id": {
+                            "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                            "name": "Revalida"
+                        },
+                        "institution_id": {
+                            "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                            "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "Não se aplica"
+                        },
+                        "residency_id": {
+                            "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                            "name": "Não se aplica"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "Público - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "Não se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "Não se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "Múltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 110,
+                    "created_at": "2020-09-02T22:32:52Z",
+                    "updated_at": "2020-09-24T15:12:19Z",
+                    "location": {
+                        "id": "1"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6c6687f6a13b44f1850cd8d79d232808",
+                    "name": "Letalidade ",
+                    "is_master": false,
+                    "master_id": "102f8e0c199d46ea95ba2527772ec8aa",
+                    "path": "Medicina Preventiva[$$]Epidemiologia[$$]Medidas de saúde coletiva[$$]Principais medidas de frequência de doenças[$$]Letalidade ",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "2110ac49-1834-4e2f-9441-3cb350dfe3ea",
+                    "position": "0",
+                    "body": "0,000004.",
+                    "sanitized_body": "0,000004.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+                    "updated_at": "2021-07-06 10:09:20.629662 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "dce850c6-dad8-427e-b880-568cb2a53b96",
+                        "author_email_id": "feea7db835873e2d043bb48a8bd39ba5",
+                        "author_profile": null,
+                        "created_at": "2021-11-29 17:38:45.554488 +0000 UTC",
+                        "updated_at": "2021-11-29 17:38:49.741044 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 15
+                },
+                {
+                    "id": "b9730aab-8066-4906-9e8c-7b2c9337c051",
+                    "position": "1",
+                    "body": "0,0002.",
+                    "sanitized_body": "0,0002.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+                    "updated_at": "2021-07-06 10:09:20.704408 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "dce850c6-dad8-427e-b880-568cb2a53b96",
+                        "author_email_id": "feea7db835873e2d043bb48a8bd39ba5",
+                        "author_profile": null,
+                        "created_at": "2021-11-29 17:38:45.546738 +0000 UTC",
+                        "updated_at": "2021-11-29 17:38:49.752527 +0000 UTC"
+                    },
+                    "answer_percentage": 10,
+                    "answers": 52
+                },
+                {
+                    "id": "ba050698-3877-4c6c-a02f-d4476be93991",
+                    "position": "2",
+                    "body": "0,02.",
+                    "sanitized_body": "0,02.",
+                    "correct": true,
+                    "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+                    "updated_at": "2021-07-06 10:09:20.770344 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "dce850c6-dad8-427e-b880-568cb2a53b96",
+                        "author_email_id": "feea7db835873e2d043bb48a8bd39ba5",
+                        "author_profile": null,
+                        "created_at": "2021-11-29 17:38:45.539285 +0000 UTC",
+                        "updated_at": "2021-11-29 17:38:49.739792 +0000 UTC"
+                    },
+                    "answer_percentage": 75,
+                    "answers": 406
+                },
+                {
+                    "id": "f8006b1d-6934-41f3-8108-e40e82dc8cb9",
+                    "position": "3",
+                    "body": "0,04.",
+                    "sanitized_body": "0,04.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+                    "updated_at": "2021-07-06 10:09:20.851536 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "dce850c6-dad8-427e-b880-568cb2a53b96",
+                        "author_email_id": "feea7db835873e2d043bb48a8bd39ba5",
+                        "author_profile": null,
+                        "created_at": "2021-11-29 17:38:45.564956 +0000 UTC",
+                        "updated_at": "2021-11-29 17:38:49.745025 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 34
+                },
+                {
+                    "id": "7a66db02-54ba-46c8-87ac-2f08541452fc",
+                    "position": "4",
+                    "body": "0,2.",
+                    "sanitized_body": "0,2.",
+                    "correct": false,
+                    "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+                    "updated_at": "2021-07-06 10:09:20.90644 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "",
+                        "sanitized_complete": "",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "dce850c6-dad8-427e-b880-568cb2a53b96",
+                        "author_email_id": "feea7db835873e2d043bb48a8bd39ba5",
+                        "author_profile": null,
+                        "created_at": "2021-11-29 17:38:45.55392 +0000 UTC",
+                        "updated_at": "2021-11-29 17:38:49.753139 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 33
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Considere que, em uma cidade de dois milhões de habitantes, houve 400 casos de gripe pelo vírus H1N1, no ano de 2009. Oito pessoas faleceram. O cálculo do coeficiente de letalidade das infecções pelo vírus H1N1 nessa cidade resulta em que valor?",
+            "statement_text": "Considere que, em uma cidade de dois milhões de habitantes, houve 400 casos de gripe pelo vírus H1N1, no ano de 2009. Oito pessoas faleceram. O cálculo do coeficiente de letalidade das infecções pelo vírus H1N1 nessa cidade resulta em que valor?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "anacarolina230675@gmail.com",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-25 12:42:15.90894 +0000 UTC",
+            "solution": {
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Estrategista, o conceito de letalidade se relaciona à capacidade da doença de provocar a morte. Seu cálculo é realizado:</div><div><br></div><div>Letalidade = óbitos por determinada causa / doentes pela mesma causa. </div><div><br></div><div>Nesse caso tivemos 8 óbitos por H1N1 e 400 casos de infecção por H1N1. Logo,</div><div><br></div><div>Letalidade = 8 / 400 = 0,02. Dessa forma, o gabarito é a<b> alternativa C.</b></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CEstrategista, o conceito de letalidade se relaciona à capacidade da doença de provocar a morte. Seu cálculo é realizado:Letalidade = óbitos por determinada causa / doentes pela mesma causa. Nesse caso tivemos 8 óbitos por H1N1 e 400 casos de infecção por H1N1. Logo,Letalidade = 8 / 400 = 0,02. Dessa forma, o gabarito é a alternativa C.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+                "author_profile": {
+                    "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+                    "full_name": "Bruno de Castro e Souza",
+                    "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+                    "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ]
+                },
+                "created_at": "2021-11-29 17:38:45.705717 +0000 UTC",
+                "updated_at": "2022-07-08 15:54:32.748794 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127246-720.mp4",
+            "unlisted": false
+        }
+    ],
+    "pagination": {
+        "page": 0,
+        "total": 27
+    }
+}
