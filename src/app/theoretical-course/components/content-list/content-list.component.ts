@@ -64,6 +64,36 @@ export class ContentListComponent {
       },
       {
         label: 'Medicina Preventiva'
+      },
+      {
+        label: 'Nefrologia'
+      },
+      {
+        label: 'Neurologia'
+      },
+      {
+        label: 'Obstetricia'
+      },
+      {
+        label: 'Oftalmologia'
+      },
+      {
+        label: 'Ortopedia'
+      },
+      {
+        label: 'Otorrinolaringologia e Cirurgia de Cabeça e Pescoço'
+      },
+      {
+        label: 'Pediatría'
+      },
+      {
+        label: 'Pneumologia'
+      },
+      {
+        label: 'Psiquiatria'
+      },
+      {
+        label: 'Reumatologia'
       }
     ];
     this.stateOptions = [{ label: 'List', value: 'list', icon: 'pi pi-list' }, { label: 'Grid', value: 'grid', icon: 'pi pi-microsoft' }];
@@ -576,7 +606,7 @@ export class ContentListComponent {
       },
       {
         id: '64',
-        link: 'https://mega.nz/folder/iAIV2ITJ#_8xIuCF7oshbM3V1wG7V2w',
+        link: 'https://mega.nz/folder/GBoDhCpJ#gZoM-IJS_bF6dZHR-mfhnQ',
         name: 'Amenorreia',
         description: 'Amenorreia',
         image: 'amenorreia.jpeg',
@@ -1237,6 +1267,78 @@ export class ContentListComponent {
         description: 'Tuberculose na Infância',
         image: 'tuberculose-infancia.jpeg',
         category: 'Pediatría',
+      },
+      {
+        id: '147',
+        link: 'https://mega.nz/folder/iR4QlYpK#cYmCMj4_yu6-wIK4DEFFog',
+        name: 'Animais Peçonhentos',
+        description: 'Animais Peçonhentos',
+        image: 'animais-peconhentos.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '148',
+        link: 'https://mega.nz/folder/KFQDxIBS#LVOhmHEPySmmGCJkiBjswQ',
+        name: 'Arboviroses - Dengue, Zika e Chikungunya',
+        description: 'Arboviroses - Dengue, Zika e Chikungunya',
+        image: 'arboviroses.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '149',
+        link: 'https://mega.nz/folder/yIxGxI6I#uuWGaV5diaRS0hwKK4fPKA',
+        name: 'COVID-19',
+        description: 'COVID-19',
+        image: 'COVID-19.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '150',
+        link: 'https://mega.nz/folder/zUAjhTbD#aYrcfdqTMOVrwcSiwgoxPg',
+        name: 'Endocardite Infecciosa',
+        description: 'Endocardite Infecciosa',
+        image: 'endocardite-infecciosa.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '151',
+        link: 'https://mega.nz/folder/LUx2CQbR#bEZdYBnje-1YMu5sPJSdxg',
+        name: 'Febre, NF e FOI',
+        description: 'Febre, NF e FOI',
+        image: 'Febre-NF-FOI.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '152',
+        link: 'https://mega.nz/folder/7Zw0GKoB#4Q_NebNXxB8oVY8FXpWLEQ',
+        name: 'Hepatoesplenomegalias Infecciosas',
+        description: 'Hepatoesplenomegalias Infecciosas',
+        image: 'hepatoesplenomegalias-Infecciosas.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '153',
+        link: 'https://mega.nz/folder/6FYVXILT#v9rGcVv0zYhEmgM_YMKRhg',
+        name: 'HIV',
+        description: 'HIV',
+        image: 'HIV.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '154',
+        link: 'https://mega.nz/folder/GFBnUQQJ#pBQ9mgwM1nZYBjzGG1T5ag',
+        name: 'Infecções do Sistema Nervoso Central',
+        description: 'Infecções do Sistema Nervoso Central',
+        image: 'infeccoes-Sistema-Nervoso-Central.jpeg',
+        category: 'Infectologia',
+      },
+      {
+        id: '155',
+        link: 'https://mega.nz/folder/HBhgTLyQ#44CLP61jwdwo3sfQOnsfVg',
+        name: 'Influenza',
+        description: 'Influenza',
+        image: 'influenza.jpeg',
+        category: 'Infectologia',
       },
     ];
     this.dataListTemp = [...this.dataList];
