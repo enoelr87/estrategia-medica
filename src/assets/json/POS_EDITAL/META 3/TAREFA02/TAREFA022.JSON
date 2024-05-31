@@ -1,0 +1,306 @@
+{
+    "data": [
+      {
+        "id": "4000127245",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e1d23ed877d143c7a8d2e3c5bd19dc75",
+            "name": "Código de Ética Médica (CEM)",
+            "is_master": false,
+            "master_id": "4fd5928a38ec40c7baa9c50a80c7030f",
+            "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fe78b4d674604e588c9907c151bfd4e3",
+            "name": "Declaração de óbito (DO) / Atestado de óbito",
+            "is_master": false,
+            "master_id": "db4beeae0e6d48f4925accb6a23fb2dd",
+            "path": "Medicina Preventiva[$$]Epidemiologia[$$]Vigilância em Saúde[$$]Sistemas de Informação em Saúde (SIS) e Bases de dados do SUS[$$]Sistema de Informação sobre Mortalidade (SIM)[$$]Declaração de óbito (DO) / Atestado de óbito",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c6277a72-3b21-41f1-b82a-19fdbfd4f98b",
+            "position": "0",
+            "body": "I e II.",
+            "sanitized_body": "I e II.",
+            "correct": false,
+            "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+            "updated_at": "2021-07-17 12:20:36.129941 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-17 12:22:50.350801 +0000 UTC",
+              "updated_at": "2021-07-17 12:55:14.805483 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 49
+          },
+          {
+            "id": "bd9f4061-5437-4dc9-bee3-e3b9d13190fa",
+            "position": "1",
+            "body": "II e V.",
+            "sanitized_body": "II e V.",
+            "correct": true,
+            "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+            "updated_at": "2021-07-17 12:20:36.195587 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-17 12:22:50.344981 +0000 UTC",
+              "updated_at": "2021-07-17 12:55:14.81664 +0000 UTC"
+            },
+            "answer_percentage": 78,
+            "answers": 2031
+          },
+          {
+            "id": "2659189a-1c19-4ecc-8310-6a65295d2686",
+            "position": "2",
+            "body": "III e IV.",
+            "sanitized_body": "III e IV.",
+            "correct": false,
+            "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+            "updated_at": "2021-07-17 12:20:36.415522 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-17 12:22:50.351547 +0000 UTC",
+              "updated_at": "2021-07-17 12:55:14.799578 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 150
+          },
+          {
+            "id": "a717acd1-0745-4b16-abfc-40058aedcbfc",
+            "position": "3",
+            "body": "I e V.",
+            "sanitized_body": "I e V.",
+            "correct": false,
+            "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+            "updated_at": "2021-07-17 12:20:36.705678 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-17 12:22:50.35736 +0000 UTC",
+              "updated_at": "2021-07-17 12:55:14.809883 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 248
+          },
+          {
+            "id": "32870e18-f934-489c-96dd-bb560b779259",
+            "position": "4",
+            "body": "III e V.",
+            "sanitized_body": "III e V.",
+            "correct": false,
+            "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+            "updated_at": "2021-07-17 12:20:36.786139 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-17 12:22:50.345707 +0000 UTC",
+              "updated_at": "2021-07-17 12:55:14.817874 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 129
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Para a resolução da questão a seguir, primeiro leia o caso clínico, depois analise as assertivas relacionadas a ele e, em seguida, marque a alternativa correta. Caso: Gestante, com 18 anos de idade, primigesta, gestação com 39 semanas e 6 dias, foi admitida no Setor de Emergência Obstétrica apresentando convulsões tônico-clônicas generalizadas.  Ao exame físico: Pressão arterial=180 x 120mmHg, BCF=65 bpm; hipertonia uterina   franca, toque vaginal: colo uterino fechado, grosso e posterior. Após administração endovenosa de sulfato de magnésio e controle da crise convulsiva, a paciente foi encaminhada ao Centro Obstétrico para resolução por via alta, com as hipóteses diagnósticas de eclâmpsia, descolamento prematuro de placenta e sofrimento fetal   agudo. O parto cesáreo ocorreu de forma rápida, através de incisão mediana, após anestesia geral. Não havia acompanhantes da gestante na sala de parto. O recém-nascido nasceu com peso de 3.850g, medindo 50cm, pálido, hipotônico, não responsivo, sem choro. Foi imediatamente atendido pelo pediatra que identificou ausência de batimentos cardíacos e procedeu às manobras de ressuscitação neonatal, sem sucesso. Após o nascimento, confirmou-se o descolamento extenso da placenta, com grande quantidade  de sangue e coágulos retroplacentários. Na evolução do parto operatório, não houve contração do útero, e após exaustivas manobras e medicamentos uterotônicos, não    houve controle da hemorragia uterina profusa, que levou a equipe médica a realizar histerectomia puerperal. A hemorragia foi então controlada e a intervenção concluída    sem outras intercorrências. Todo o suporte de vida necessário durante o trans e o pós- operatório foi disponibilizado. A parturiente foi encaminhada à Unidade de Terapia Intensiva (UTI), em estado grave, sob ventilação mecânica e apresentando quadro de coagulação intravascular disseminada. Após dez dias, obteve alta da UTI e foi  encaminhada para a enfermaria obstétrica, ainda com estado geral comprometido e, pela primeira vez, consciente após o parto. Chegando à enfermaria, perguntou pelo recém- nascido. Assertivas:&nbsp;<div><br></div><div>I. A melhor conduta neste caso, em relação ao óbito do recém-  nascido, seria não informar a mãe neste momento, dizendo apenas que o recém-nato estaria em estado grave na UTI-neonatal.&nbsp;</div><div><br></div><div>II. A responsabilidade de assinar o atestado de óbito do recém-nato é do obstetra.&nbsp;<div><br></div><div>III. A equipe médica deveria ter consultado a família da parturiente antes da decisão de realizar a histerectomia puerperal, tendo em vista a idade da paciente, o fato de ser primigesta, além da morte do recém-nato.&nbsp;</div><div><br></div><div>IV. A julgar pelo relato do caso, existem evidências de imperícia e imprudência, mas não de negligência por parte da equipe médica.&nbsp;</div><div><br></div><div>V. Não houve, a julgar pelo relato do caso, evidências de negligência, imperícia ou imprudência por parte da equipe médica.&nbsp;</div><div><br></div><div>Estão de acordo com os preceitos éticos da assistência médica APENAS as afirmações:<br></div></div>",
+        "statement_text": "Para a resolução da questão a seguir, primeiro leia o caso clínico, depois analise as assertivas relacionadas a ele e, em seguida, marque a alternativa correta. Caso: Gestante, com 18 anos de idade, primigesta, gestação com 39 semanas e 6 dias, foi admitida no Setor de Emergência Obstétrica apresentando convulsões tônico-clônicas generalizadas.  Ao exame físico: Pressão arterial=180 x 120mmHg, BCF=65 bpm; hipertonia uterina   franca, toque vaginal: colo uterino fechado, grosso e posterior. Após administração endovenosa de sulfato de magnésio e controle da crise convulsiva, a paciente foi encaminhada ao Centro Obstétrico para resolução por via alta, com as hipóteses diagnósticas de eclâmpsia, descolamento prematuro de placenta e sofrimento fetal   agudo. O parto cesáreo ocorreu de forma rápida, através de incisão mediana, após anestesia geral. Não havia acompanhantes da gestante na sala de parto. O recém-nascido nasceu com peso de 3.850g, medindo 50cm, pálido, hipotônico, não responsivo, sem choro. Foi imediatamente atendido pelo pediatra que identificou ausência de batimentos cardíacos e procedeu às manobras de ressuscitação neonatal, sem sucesso. Após o nascimento, confirmou-se o descolamento extenso da placenta, com grande quantidade  de sangue e coágulos retroplacentários. Na evolução do parto operatório, não houve contração do útero, e após exaustivas manobras e medicamentos uterotônicos, não    houve controle da hemorragia uterina profusa, que levou a equipe médica a realizar histerectomia puerperal. A hemorragia foi então controlada e a intervenção concluída    sem outras intercorrências. Todo o suporte de vida necessário durante o trans e o pós- operatório foi disponibilizado. A parturiente foi encaminhada à Unidade de Terapia Intensiva (UTI), em estado grave, sob ventilação mecânica e apresentando quadro de coagulação intravascular disseminada. Após dez dias, obteve alta da UTI e foi  encaminhada para a enfermaria obstétrica, ainda com estado geral comprometido e, pela primeira vez, consciente após o parto. Chegando à enfermaria, perguntou pelo recém- nascido. Assertivas: I. A melhor conduta neste caso, em relação ao óbito do recém-  nascido, seria não informar a mãe neste momento, dizendo apenas que o recém-nato estaria em estado grave na UTI-neonatal. II. A responsabilidade de assinar o atestado de óbito do recém-nato é do obstetra. III. A equipe médica deveria ter consultado a família da parturiente antes da decisão de realizar a histerectomia puerperal, tendo em vista a idade da paciente, o fato de ser primigesta, além da morte do recém-nato. IV. A julgar pelo relato do caso, existem evidências de imperícia e imprudência, mas não de negligência por parte da equipe médica. V. Não houve, a julgar pelo relato do caso, evidências de negligência, imperícia ou imprudência por parte da equipe médica. Estão de acordo com os preceitos éticos da assistência médica APENAS as afirmações:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:41:21.640531 +0000 UTC",
+        "forum_id": "bf6f4ed4-826d-42f0-bb44-84b5cdea7fef",
+        "solution": {
+          "_key": "aaac48a2-57a8-461f-a9b8-6569282228e0",
+          "complete": "Vamos responder estas afirmativas com base em preceitos éticos!<div><br></div><div>I - Observe o Código de Ética Médica (CEM): (é vedado ao médico)Art. 34. Deixar de informar ao paciente o diagnóstico, o</div><div>prognóstico, os riscos e os objetivos do tratamento, salvo quando a comunicação direta possa lhe provocar dano, devendo, nesse caso, fazer a comunicação a seu representante legal.&nbsp;</div><div>Portanto, a paciente precisa ser informada de sua situação pela equipe.</div><div><br></div><div>II - A obstetra foi a assistente, portanto, como houve morte obstétrica por causas naturais, deve preencher a declaração de óbito.</div><div><br></div><div>III - Art. 22. do CEM: (é vedado) Deixar de obter consentimento do paciente ou de seu representante legal após esclarecê-lo sobre o procedimento a ser realizado, salvo em caso de risco iminente de morte.</div><div><br></div><div>Portanto, diante da situação, a equipe médica tinha o dever imediato de agir.</div><div><br></div><div>IV - Não há no enunciado evidências de erro médico, inclusive, a banca descreve o empenho e a assertividade da equipe.</div><div><br></div><div>V - Correto, como vimos acima.</div><div><br></div><div>Portanto, resposta II e V.</div><div><br></div>",
+          "sanitized_complete": "Vamos responder estas afirmativas com base em preceitos éticos!I - Observe o Código de Ética Médica (CEM): (é vedado ao médico)Art. 34. Deixar de informar ao paciente o diagnóstico, oprognóstico, os riscos e os objetivos do tratamento, salvo quando a comunicação direta possa lhe provocar dano, devendo, nesse caso, fazer a comunicação a seu representante legal. Portanto, a paciente precisa ser informada de sua situação pela equipe.II - A obstetra foi a assistente, portanto, como houve morte obstétrica por causas naturais, deve preencher a declaração de óbito.III - Art. 22. do CEM: (é vedado) Deixar de obter consentimento do paciente ou de seu representante legal após esclarecê-lo sobre o procedimento a ser realizado, salvo em caso de risco iminente de morte.Portanto, diante da situação, a equipe médica tinha o dever imediato de agir.IV - Não há no enunciado evidências de erro médico, inclusive, a banca descreve o empenho e a assertividade da equipe.V - Correto, como vimos acima.Portanto, resposta II e V.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-17 12:22:50.442767 +0000 UTC",
+          "updated_at": "2021-07-17 12:55:14.855816 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Para-resoluca-questa4479205e404",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

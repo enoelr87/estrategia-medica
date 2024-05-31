@@ -1,0 +1,1672 @@
+{
+    "data": [
+        {
+            "id": "4000058594",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2015,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "ac83fbea-1b3a-45e8-a2cf-2124f142799b",
+                            "name": "RJ - Faculdade de Medicina de Petr\u00f3polis - FMP - UNIFASE"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "2D67B186-B3FF-FF7A-C647-45B11EF7DA5D"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T18:44:31Z",
+                    "location": {
+                        "id": "3673"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "1224a293bf224817815cf279b4edfdc2",
+                    "name": "Arboviroses",
+                    "is_master": false,
+                    "master_id": "491c00747b9d4a7babede86d5683efc7",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]Arboviroses",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "6a2b7979-99b9-4ac1-accd-53251009764b",
+                    "position": "0",
+                    "body": "A Dengue cujo per\u00edodo de incuba\u00e7\u00e3o \u00e9 de 7 a 35 dias, ocasionalmente cursa com comprometimento renal e do Sistema Nervoso Central, mas tem por caracter\u00edstica ser uma doen\u00e7a grave que leva \u00e0 insufici\u00eancia respirat\u00f3ria, choque e \u00f3bito.",
+                    "sanitized_body": "A Dengue cujo per\u00edodo de incuba\u00e7\u00e3o \u00e9 de 7 a 35 dias, ocasionalmente cursa com comprometimento renal e do Sistema Nervoso Central, mas tem por caracter\u00edstica ser uma doen\u00e7a grave que leva \u00e0 insufici\u00eancia respirat\u00f3ria, choque e \u00f3bito.",
+                    "correct": false,
+                    "created_at": "2020-09-13 00:41:48.476801 +0000 UTC",
+                    "updated_at": "2020-11-16 18:47:24.708635 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "e75298027ffb406cb3e8b7cb5b2bd98d",
+                            "name": "Quadro cl\u00ednico",
+                            "is_master": false,
+                            "master_id": "34e938835d6f4679989ada6f4e7098fd",
+                            "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]Arboviroses[$$]Dengue[$$]Quadro cl\u00ednico",
+                            "has_children": true,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"a\". O per\u00edodo de incuba\u00e7\u00e3o da dengue \u00e9 de 4 a 10 dias. \u00c9 uma doen\u00e7a que pode levar a manifesta\u00e7\u00f5es hemorr\u00e1gicas e ao choque por extravasamento plasm\u00e1tico. N\u00e3o \u00e9 caracteristicamente uma doen\u00e7a grave e o comprometimento renal e do sistema nervoso central n\u00e3o \u00e9 frequente.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;a&#34;. O per\u00edodo de incuba\u00e7\u00e3o da dengue \u00e9 de 4 a 10 dias. \u00c9 uma doen\u00e7a que pode levar a manifesta\u00e7\u00f5es hemorr\u00e1gicas e ao choque por extravasamento plasm\u00e1tico. N\u00e3o \u00e9 caracteristicamente uma doen\u00e7a grave e o comprometimento renal e do sistema nervoso central n\u00e3o \u00e9 frequente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 13:16:55.647092 +0000 UTC",
+                        "updated_at": "2020-10-14 13:16:56.421861 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 3
+                },
+                {
+                    "id": "e8b27663-4d8a-49ac-9788-6041cdb0c52a",
+                    "position": "1",
+                    "body": "A infec\u00e7\u00e3o por Hantav\u00edrus , cujo per\u00edodo de incuba\u00e7\u00e3o varia de 3 a 6 dias, o f\u00edgado \u00e9 particularmente afetado,apresentando com degenera\u00e7\u00e3o gordurosa, necrose coagulativa dos hepat\u00f3citos e a presen\u00e7a de corpos de Councilman, cursando tamb\u00e9m com comprometimento card\u00edaco e renal.",
+                    "sanitized_body": "A infec\u00e7\u00e3o por Hantav\u00edrus , cujo per\u00edodo de incuba\u00e7\u00e3o varia de 3 a 6 dias, o f\u00edgado \u00e9 particularmente afetado,apresentando com degenera\u00e7\u00e3o gordurosa, necrose coagulativa dos hepat\u00f3citos e a presen\u00e7a de corpos de Councilman, cursando tamb\u00e9m com comprometimento card\u00edaco e renal.",
+                    "correct": false,
+                    "created_at": "2020-09-13 00:41:48.476801 +0000 UTC",
+                    "updated_at": "2020-11-16 18:47:24.837068 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "cf58eef61443465fb91ca6aa3e8a301e",
+                            "name": "Modo de transmiss\u00e3o",
+                            "is_master": false,
+                            "master_id": "eb6c627242ac46baa6cf83a4dfb19858",
+                            "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus[$$]Modo de transmiss\u00e3o",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"b\". O per\u00edodo de incuba\u00e7\u00e3o da hantavirose \u00e9 em m\u00e9dia 5 semanas e n\u00e3o de 3 a 6 dias. O f\u00edgado n\u00e3o \u00e9 um \u00f3rg\u00e3o particularmente afetado. Essa doen\u00e7a cursa com um comprometimento card\u00edaco caracter\u00edstico levando \u00e0 chamada S\u00edndrome Cardiopulmonar por Hantav\u00edrus. O quadro \u00e9 grave e o paciente pode evoluir com edema pulmonar n\u00e3o cardiog\u00eanico.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;b&#34;. O per\u00edodo de incuba\u00e7\u00e3o da hantavirose \u00e9 em m\u00e9dia 5 semanas e n\u00e3o de 3 a 6 dias. O f\u00edgado n\u00e3o \u00e9 um \u00f3rg\u00e3o particularmente afetado. Essa doen\u00e7a cursa com um comprometimento card\u00edaco caracter\u00edstico levando \u00e0 chamada S\u00edndrome Cardiopulmonar por Hantav\u00edrus. O quadro \u00e9 grave e o paciente pode evoluir com edema pulmonar n\u00e3o cardiog\u00eanico.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 13:16:55.63294 +0000 UTC",
+                        "updated_at": "2020-10-14 13:16:56.43309 +0000 UTC"
+                    },
+                    "answer_percentage": 23,
+                    "answers": 16
+                },
+                {
+                    "id": "9c995e74-7a76-4baa-8870-b83939c67de8",
+                    "position": "2",
+                    "body": "Na Febre Amarela, tem per\u00edodo de incuba\u00e7\u00e3o de 3 a 15 dias, podendo ocorrer p\u00farpuras e grandes equimoses na pele, epistaxes, gengivorragias, metrorragias e hemorragias digestivas moderadas, sendo menos frequente hepatite e encefalite.",
+                    "sanitized_body": "Na Febre Amarela, tem per\u00edodo de incuba\u00e7\u00e3o de 3 a 15 dias, podendo ocorrer p\u00farpuras e grandes equimoses na pele, epistaxes, gengivorragias, metrorragias e hemorragias digestivas moderadas, sendo menos frequente hepatite e encefalite.",
+                    "correct": false,
+                    "created_at": "2020-09-13 00:41:48.476801 +0000 UTC",
+                    "updated_at": "2020-11-16 18:47:24.96881 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "595642a55d4e4fc49c0b74df27564618",
+                            "name": "Quadro cl\u00ednico",
+                            "is_master": false,
+                            "master_id": "dcab46a3184840a69b225999d42d29b4",
+                            "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]Arboviroses[$$]Febre amarela[$$]Quadro cl\u00ednico",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \"c\". O per\u00edodo de incuba\u00e7\u00e3o da febre amarela \u00e9 em m\u00e9dia de 3 a 6 dias, podendo se estender at\u00e9 15 dias. O erro nessa alternativa est\u00e1 na parte que ela refere que a hepatite n\u00e3o \u00e9 muito frequente, afinal, essa \u00e9 a manifesta\u00e7\u00e3o mais caracter\u00edstica da febre amarela.<div><br></div><div><br></div>",
+                        "sanitized_complete": "Incorreta a alternativa &#34;c&#34;. O per\u00edodo de incuba\u00e7\u00e3o da febre amarela \u00e9 em m\u00e9dia de 3 a 6 dias, podendo se estender at\u00e9 15 dias. O erro nessa alternativa est\u00e1 na parte que ela refere que a hepatite n\u00e3o \u00e9 muito frequente, afinal, essa \u00e9 a manifesta\u00e7\u00e3o mais caracter\u00edstica da febre amarela.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 13:16:55.632905 +0000 UTC",
+                        "updated_at": "2020-10-14 13:16:56.431254 +0000 UTC"
+                    },
+                    "answer_percentage": 14,
+                    "answers": 10
+                },
+                {
+                    "id": "6236ea83-94d8-4d68-a339-ccc1318726c8",
+                    "position": "3",
+                    "body": "Nos casos de Ebola, que tem como per\u00edodo de incuba\u00e7\u00e3o de 3 a 21 dias, uma erup\u00e7\u00e3o cut\u00e2nea maculopapular no tronco ou rosto pode ser uma apresenta\u00e7\u00e3o precoce, podendo ocorrer frequentemente Coagula\u00e7\u00e3o intravascular disseminada (CID).",
+                    "sanitized_body": "Nos casos de Ebola, que tem como per\u00edodo de incuba\u00e7\u00e3o de 3 a 21 dias, uma erup\u00e7\u00e3o cut\u00e2nea maculopapular no tronco ou rosto pode ser uma apresenta\u00e7\u00e3o precoce, podendo ocorrer frequentemente Coagula\u00e7\u00e3o intravascular disseminada (CID).",
+                    "correct": true,
+                    "created_at": "2020-09-13 00:41:48.476801 +0000 UTC",
+                    "updated_at": "2020-11-16 18:47:25.103466 +0000 UTC",
+                    "topics": [
+                        {
+                            "id": "30e22537ee9b410fab325a5b841b8dc4",
+                            "name": "Ebola",
+                            "is_master": false,
+                            "master_id": "d494a8a3e2e24d84b287ca144e6c2a3c",
+                            "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Febres hemorr\u00e1gicas[$$]Ebola",
+                            "has_children": false,
+                            "nodes": null
+                        }
+                    ],
+                    "solution": {
+                        "complete": "Correta a alternativa \"d\". A ebola \u00e9 uma doen\u00e7a com per\u00edodo de incuba\u00e7\u00e3o que pode variar de 2 a 21 dias. Ela se caracteriza por um quadro abrupto de febre baixa e mal-estar. Outros sintomas como fadiga, cefaleia, n\u00e1useas e v\u00f4mitos, tamb\u00e9m podem estar presentes. Entre o quinto e o s\u00e9timo dia de doen\u00e7a O paciente pode apresentar um exantema m\u00e1culopapular n\u00e3o pruriginoso que envolve usualmente a face, pesco\u00e7o, tronco e bra\u00e7os. Anormalidades na coagula\u00e7\u00e3o podem ocorrer em casos graves, levando a uma CIVD.<div><br></div><div>Gabarito: alternativa \"d\".</div><div><br></div>",
+                        "sanitized_complete": "Correta a alternativa &#34;d&#34;. A ebola \u00e9 uma doen\u00e7a com per\u00edodo de incuba\u00e7\u00e3o que pode variar de 2 a 21 dias. Ela se caracteriza por um quadro abrupto de febre baixa e mal-estar. Outros sintomas como fadiga, cefaleia, n\u00e1useas e v\u00f4mitos, tamb\u00e9m podem estar presentes. Entre o quinto e o s\u00e9timo dia de doen\u00e7a O paciente pode apresentar um exantema m\u00e1culopapular n\u00e3o pruriginoso que envolve usualmente a face, pesco\u00e7o, tronco e bra\u00e7os. Anormalidades na coagula\u00e7\u00e3o podem ocorrer em casos graves, levando a uma CIVD.Gabarito: alternativa &#34;d&#34;.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                        "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                        "author_profile": null,
+                        "created_at": "2020-10-14 13:16:55.647098 +0000 UTC",
+                        "updated_at": "2020-10-14 13:16:56.452218 +0000 UTC"
+                    },
+                    "answer_percentage": 58,
+                    "answers": 40
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Sobre as febres hemorr\u00e1gicas por v\u00edrus, \u00e9 correto afirmar:",
+            "statement_text": "Sobre as febres hemorr\u00e1gicas por v\u00edrus, \u00e9 correto afirmar:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "185985813d32053e8466e217f113a016",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-13 00:41:48.476801 +0000 UTC",
+            "solution": {
+                "_key": "2f83ca7a-47fc-458f-a53a-436de578eef4",
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Essa quest\u00e3o \u00e9 bem legal para aproveitarmos e revisar sobre as febres hemorr\u00e1gicas.<div><br></div><div><br></div><div><br></div></div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DEssa quest\u00e3o \u00e9 bem legal para aproveitarmos e revisar sobre as febres hemorr\u00e1gicas.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+                "author_profile": {
+                    "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+                    "full_name": "Clarissa Cerqueira",
+                    "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+                    "about_me": "M\u00e9dica pela Escola Bahiana de Medicina e Sa\u00fade P\u00fablica.\nResid\u00eancia m\u00e9dica em infectologia no Instituto de Infectologia Emilio Ribas em S\u00e3o Paulo. \nEspecialista em Infec\u00e7\u00e3o em Imunossuprimidos no Hospital das Cl\u00ednicas - USP SP (Complementa\u00e7\u00e3o Especializada). \nP\u00f3s-graduada em Preven\u00e7\u00e3o e Controle de Infec\u00e7\u00e3o Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com m\u00e9dica infectologista em Salvador-Ba e como professora de infectologia do Estrat\u00e9gia Med.",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                            "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                            "name": "YouTube",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-10-14 13:16:55.809793 +0000 UTC",
+                "updated_at": "2020-10-14 13:16:56.568086 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false,
+            "slug": "febres-hemorragicas9bcff640b",
+            "public": true
+        },
+        {
+            "id": "4000000296",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2018,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "38b3acbd-b453-4ade-a31a-7c5b5f3b698d",
+                            "name": "AL - Hospital do A\u00e7\u00facar - HA (Hospital Veredas)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                            "name": "Privado"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "3916762A-49FC-BC17-35D3-ED0EE622724B"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-03T18:53:07Z",
+                    "location": {
+                        "id": "3"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "name": "Hantavirus",
+                    "is_master": false,
+                    "master_id": "e4465e1b03d74512870e5bd72af7b44f",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "d7337001-3a5a-47b5-99c4-10a15f0ee3eb",
+                    "position": "0",
+                    "body": "na Am\u00e9rica do Sul, foi observado importante comprometimento card\u00edaco, passando a ser denominada de s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).",
+                    "sanitized_body": "na Am\u00e9rica do Sul, foi observado importante comprometimento card\u00edaco, passando a ser denominada de s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).",
+                    "correct": false,
+                    "created_at": "2020-09-09 13:23:52.258675 +0000 UTC",
+                    "updated_at": "2020-11-10 17:43:45.465109 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"a\" \u00e9 verdadeira</b>, pois na Am\u00e9rica do Sul foi observado importante comprometimento card\u00edaco, que ficou conhecido como s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).",
+                        "sanitized_complete": "Alternativa &#34;a&#34; \u00e9 verdadeira, pois na Am\u00e9rica do Sul foi observado importante comprometimento card\u00edaco, que ficou conhecido como s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-26 18:48:43.899205 +0000 UTC"
+                    },
+                    "answer_percentage": 7,
+                    "answers": 15
+                },
+                {
+                    "id": "4edc2e4a-f65e-4438-a101-ae3fc05c9eac",
+                    "position": "1",
+                    "body": "v\u00edrus do g\u00eanero Hantav\u00edrus, da fam\u00edlia Bunyaviridae, sendo o \u00fanico buniav\u00edrus que n\u00e3o \u00e9 um arbov\u00edrus.&nbsp;",
+                    "sanitized_body": "v\u00edrus do g\u00eanero Hantav\u00edrus, da fam\u00edlia Bunyaviridae, sendo o \u00fanico buniav\u00edrus que n\u00e3o \u00e9 um arbov\u00edrus.\u00a0",
+                    "correct": false,
+                    "created_at": "2020-09-09 13:23:52.258675 +0000 UTC",
+                    "updated_at": "2020-11-10 17:43:45.515515 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"b\" \u00e9 verdadeira,</b> pois o Hantavirus (fam\u00edlia Bunyaviridae) \u00e9 o \u00fanico buniavirus que n\u00e3o \u00e9 um arbov\u00edrus (v\u00edrus que se transmite aos humanos atrav\u00e9s de picadas de insetos).",
+                        "sanitized_complete": "Alternativa &#34;b&#34; \u00e9 verdadeira, pois o Hantavirus (fam\u00edlia Bunyaviridae) \u00e9 o \u00fanico buniavirus que n\u00e3o \u00e9 um arbov\u00edrus (v\u00edrus que se transmite aos humanos atrav\u00e9s de picadas de insetos).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-26 18:48:43.889183 +0000 UTC"
+                    },
+                    "answer_percentage": 29,
+                    "answers": 65
+                },
+                {
+                    "id": "3c29598a-4f8d-4e7e-a7b4-ca61faa0c047",
+                    "position": "2",
+                    "body": "a infec\u00e7\u00e3o humana ocorre mais frequentemente pela inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados.",
+                    "sanitized_body": "a infec\u00e7\u00e3o humana ocorre mais frequentemente pela inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados.",
+                    "correct": false,
+                    "created_at": "2020-09-09 13:23:52.258675 +0000 UTC",
+                    "updated_at": "2020-11-10 17:43:45.611587 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"c\" \u00e9 correta, </b>j\u00e1 que a forma mais comum de infec\u00e7\u00e3o da hantavirose \u00e9 por meio de inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados.",
+                        "sanitized_complete": "Alternativa &#34;c&#34; \u00e9 correta, j\u00e1 que a forma mais comum de infec\u00e7\u00e3o da hantavirose \u00e9 por meio de inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-26 18:48:43.914527 +0000 UTC"
+                    },
+                    "answer_percentage": 29,
+                    "answers": 65
+                },
+                {
+                    "id": "4cdf4ccb-4a16-4d4c-b3be-7bedae4196b2",
+                    "position": "3",
+                    "body": "cardiopulmonar \u00e9 caracterizada pelo in\u00edcio da tosse, que em geral \u00e9 produtiva, acompanhada de bradicardia, taquidispneia e hipoxemia",
+                    "sanitized_body": "cardiopulmonar \u00e9 caracterizada pelo in\u00edcio da tosse, que em geral \u00e9 produtiva, acompanhada de bradicardia, taquidispneia e hipoxemia",
+                    "correct": true,
+                    "created_at": "2020-09-09 13:23:52.258675 +0000 UTC",
+                    "updated_at": "2020-11-10 17:43:45.667655 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"d\" \u00e9 falsa:</b>  a  fase cardiopulmonar \u00e9 caracterizada pelo in\u00edcio da tosse, que em geral \u00e9 seca, embora em alguns casos possa ser produtiva, acompanhada por taquicardia, taquidispneia e hipoxemia.<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;d&#34; \u00e9 falsa:  a  fase cardiopulmonar \u00e9 caracterizada pelo in\u00edcio da tosse, que em geral \u00e9 seca, embora em alguns casos possa ser produtiva, acompanhada por taquicardia, taquidispneia e hipoxemia.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-26 18:48:43.900044 +0000 UTC"
+                    },
+                    "answer_percentage": 36,
+                    "answers": 83
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "A hantavirose se manifesta sob diferentes formas, desde doen\u00e7a febril aguda inespec\u00edfica, at\u00e9 quadros pulmonares e cardiovasculares mais severos e caracter\u00edsticos, podendo evoluir para a s\u00edndrome da ang\u00fastia respirat\u00f3ria (SARA). Sendo INADEQUADO o seguinte:<div><br></div>",
+            "statement_text": "A hantavirose se manifesta sob diferentes formas, desde doen\u00e7a febril aguda inespec\u00edfica, at\u00e9 quadros pulmonares e cardiovasculares mais severos e caracter\u00edsticos, podendo evoluir para a s\u00edndrome da ang\u00fastia respirat\u00f3ria (SARA). Sendo INADEQUADO o seguinte:",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "19674366b572d3de8b56bceacf34849a",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-09 13:23:52.258675 +0000 UTC",
+            "forum_id": "72cff314-cb1f-46df-be46-b4424cd1b8b5",
+            "solution": {
+                "_key": "84425e22-4e04-4ac2-b6d8-142a5a033896",
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b>Aten\u00e7\u00e3o! </b>Nesta quest\u00e3o deve ser assinalada a alternativa falsa!&nbsp;</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DAten\u00e7\u00e3o! Nesta quest\u00e3o deve ser assinalada a alternativa falsa!\u00a0",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "S\u00e9rgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Resid\u00eancia m\u00e9dica em Infectologia pela Secretaria de Estado da Sa\u00fade de Santa Catarina (Hospital Nereu Ramos). MBA em Gest\u00e3o em Sa\u00fade e Controle de Infec\u00e7\u00e3o. Atua como m\u00e9dico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Sa\u00fade de Santa Catarina, em Florian\u00f3polis/SC. Professor de Infectologia do curso Estrat\u00e9gia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-10-26 18:48:43.964999 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000000296-720.mp4",
+            "unlisted": false,
+            "slug": "hantavirose-manifesta3449b631d3",
+            "public": true
+        },
+        {
+            "id": "4000059134",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2016,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "06a40386-1ed7-4afc-a6b9-fe8ec9509d90",
+                            "name": "ES - Universidade Federal do Esp\u00edrito Santo - UFES (Hospital Universit\u00e1rio Cassiano Ant\u00f4nio de Moraes - HUCAM)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "P\u00fablico - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "038B72A0-410C-CEB3-B871-B12CB256C381"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T19:13:51Z",
+                    "updated_at": "2020-11-26T10:15:12Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "1224a293bf224817815cf279b4edfdc2",
+                    "name": "Arboviroses",
+                    "is_master": false,
+                    "master_id": "491c00747b9d4a7babede86d5683efc7",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]Arboviroses",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "cf58eef61443465fb91ca6aa3e8a301e",
+                    "name": "Modo de transmiss\u00e3o",
+                    "is_master": false,
+                    "master_id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus[$$]Modo de transmiss\u00e3o",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "c022ead7-8378-4305-830b-e1bf3ab3477d",
+                    "position": "0",
+                    "body": "Doen\u00e7a por Zika v\u00edrus.",
+                    "sanitized_body": "Doen\u00e7a por Zika v\u00edrus.",
+                    "correct": false,
+                    "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+                    "updated_at": "2020-11-14 11:37:25.766855 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"a\" \u00e9 correta: Aedes aegypti \u00e9 transmissor de Zika v\u00edrus.&nbsp;",
+                        "sanitized_complete": "Alternativa &#34;a&#34; \u00e9 correta: Aedes aegypti \u00e9 transmissor de Zika v\u00edrus.\u00a0",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 01:20:20.049704 +0000 UTC"
+                    },
+                    "answer_percentage": 0,
+                    "answers": 0
+                },
+                {
+                    "id": "d623daf5-0719-4a34-9492-c35b6954c0ba",
+                    "position": "1",
+                    "body": "Dengue pelo sorotipo 4.",
+                    "sanitized_body": "Dengue pelo sorotipo 4.",
+                    "correct": false,
+                    "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+                    "updated_at": "2020-11-14 11:37:25.847057 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"b\" \u00e9 correta: todos os sorotipos de dengue s\u00e3o transmitidos por este mosquito.",
+                        "sanitized_complete": "Alternativa &#34;b&#34; \u00e9 correta: todos os sorotipos de dengue s\u00e3o transmitidos por este mosquito.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 01:20:20.042253 +0000 UTC"
+                    },
+                    "answer_percentage": 4,
+                    "answers": 3
+                },
+                {
+                    "id": "ef65b51c-4d47-465d-a3c4-68d7d96895e1",
+                    "position": "2",
+                    "body": "Febre Chikungunya.",
+                    "sanitized_body": "Febre Chikungunya.",
+                    "correct": false,
+                    "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+                    "updated_at": "2020-11-14 11:37:25.920981 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"c\" \u00e9 correta, pois o v\u00edrus da febre chikungunya \u00e9 transmitido por Aedes aegypti.",
+                        "sanitized_complete": "Alternativa &#34;c&#34; \u00e9 correta, pois o v\u00edrus da febre chikungunya \u00e9 transmitido por Aedes aegypti.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 01:20:20.043661 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 1
+                },
+                {
+                    "id": "bc621011-e1e0-430d-ad50-9cc444337446",
+                    "position": "3",
+                    "body": "Hantavirose.",
+                    "sanitized_body": "Hantavirose.",
+                    "correct": true,
+                    "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+                    "updated_at": "2020-11-14 11:37:26.024654 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"d\" \u00e9 incorreta: hantavirose \u00e9 transmitida basicamente por inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados. N\u00e3o \u00e9 transmitida por artr\u00f3podes.",
+                        "sanitized_complete": "Alternativa &#34;d&#34; \u00e9 incorreta: hantavirose \u00e9 transmitida basicamente por inala\u00e7\u00e3o de aeross\u00f3is, formados a partir da urina, fezes e saliva de roedores infectados. N\u00e3o \u00e9 transmitida por artr\u00f3podes.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 01:20:20.059404 +0000 UTC"
+                    },
+                    "answer_percentage": 88,
+                    "answers": 61
+                },
+                {
+                    "id": "d9b247cc-37d9-4128-9549-f1618725ba15",
+                    "position": "4",
+                    "body": "Febre amarela.",
+                    "sanitized_body": "Febre amarela.",
+                    "correct": false,
+                    "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+                    "updated_at": "2020-11-14 11:37:26.106617 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Alternativa \"e\" \u00e9 correta: a transmiss\u00e3o no ciclo urbano da febre amarela ocorre por Aedes aegypti. No ciclo silvestre, o vetor \u00e9 mosquito do g\u00eanero Haemagogus.",
+                        "sanitized_complete": "Alternativa &#34;e&#34; \u00e9 correta: a transmiss\u00e3o no ciclo urbano da febre amarela ocorre por Aedes aegypti. No ciclo silvestre, o vetor \u00e9 mosquito do g\u00eanero Haemagogus.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-19 01:20:20.040795 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 4
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Em qual das viroses abaixo o <i>Aedes aegypti </i>n\u00e3o pode ser o vetor da doen\u00e7a?",
+            "statement_text": "Em qual das viroses abaixo o Aedes aegypti n\u00e3o pode ser o vetor da doen\u00e7a?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "aa6ea994be2c2ed35ce57c4ac228d2e3",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-13 01:44:17.654381 +0000 UTC",
+            "solution": {
+                "_key": "34c9dada-d571-4b2f-8f48-986ae6911e7b",
+                "complete": "GABARITO ALTERNATIVA \"D\"<div><br></div><div>Aten\u00e7\u00e3o! Nesta quest\u00e3o deve ser assinalada a alternativa incorreta!&nbsp;</div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;D&#34;Aten\u00e7\u00e3o! Nesta quest\u00e3o deve ser assinalada a alternativa incorreta!\u00a0",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "S\u00e9rgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Resid\u00eancia m\u00e9dica em Infectologia pela Secretaria de Estado da Sa\u00fade de Santa Catarina (Hospital Nereu Ramos). MBA em Gest\u00e3o em Sa\u00fade e Controle de Infec\u00e7\u00e3o. Atua como m\u00e9dico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Sa\u00fade de Santa Catarina, em Florian\u00f3polis/SC. Professor de Infectologia do curso Estrat\u00e9gia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-10-19 01:20:20.15146 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000059134-720.mp4",
+            "unlisted": false,
+            "slug": "qual-viroses-Aedes150f17c361",
+            "public": true
+        },
+        {
+            "id": "4000106016",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2018,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "7302e208-b9d4-4001-967d-348213e06370",
+                            "name": "SP - Universidade de S\u00e3o Paulo - USP (Hospital das Cl\u00ednicas da Faculdade de Medicina de Ribeir\u00e3o Preto da USP)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                            "name": "P\u00fablico - Estadual"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "D133D582-3AC0-D07A-9BD1-0ABA764F60EE"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-07T17:45:00Z",
+                    "location": {
+                        "id": "27"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "d57dc97aa908496fbc10052faa7851f9",
+                    "name": "Manifesta\u00e7\u00f5es cl\u00ednicas",
+                    "is_master": false,
+                    "master_id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus[$$]Manifesta\u00e7\u00f5es cl\u00ednicas",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "88abb877-ed89-4399-9c72-c66cd740e81d",
+                    "position": "0",
+                    "body": "S\u00edndrome cardiopulmonar por Hantav\u00edrus",
+                    "sanitized_body": "S\u00edndrome cardiopulmonar por Hantav\u00edrus",
+                    "correct": true,
+                    "created_at": "2020-09-16 01:46:39.714333 +0000 UTC",
+                    "updated_at": "2020-11-24 12:12:28.487602 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Correta a alternativa A. Devemos suspeitar de s\u00edndrome cardiopulmonar por Hantav\u00edrus (SCPH) quando estamos diante de um paciente com hist\u00f3ria de exposi\u00e7\u00e3o a roedores ou que <u>vive em zona rural</u>, e apresentam sintomas respirat\u00f3rios, febre, calafrios e mialgia, especialmente na presen\u00e7a de dor abdominal, n\u00e1usea ou v\u00f4mitos. A SPCH apresenta 4 fases caracter\u00edsticas: prodr\u00f4mica (indistingu\u00edvel de infec\u00e7\u00f5es virais com dura\u00e7\u00e3o de 2 a 8 dias), cardiopulmonar (marcada pelo <u>edema pulmonar</u> resultante principalmente de altera\u00e7\u00e3o de permeabilidade capilar e <u>choque</u> progressivos), diur\u00e9tica e convalescen\u00e7a. Algumas altera\u00e7\u00f5es laboratoriais apresentadas no caso s\u00e3o frequente em SPCH e corroboram essa hip\u00f3tese, como <u>leucocitose com neutrofilia, plaquetopenia e eleva\u00e7\u00e3o do DHL</u>. A radiografia de t\u00f3rax evidencia um infiltrado intersticial difuso, que traduz o pulm\u00e3o congesto.",
+                        "sanitized_complete": "Correta a alternativa A. Devemos suspeitar de s\u00edndrome cardiopulmonar por Hantav\u00edrus (SCPH) quando estamos diante de um paciente com hist\u00f3ria de exposi\u00e7\u00e3o a roedores ou que vive em zona rural, e apresentam sintomas respirat\u00f3rios, febre, calafrios e mialgia, especialmente na presen\u00e7a de dor abdominal, n\u00e1usea ou v\u00f4mitos. A SPCH apresenta 4 fases caracter\u00edsticas: prodr\u00f4mica (indistingu\u00edvel de infec\u00e7\u00f5es virais com dura\u00e7\u00e3o de 2 a 8 dias), cardiopulmonar (marcada pelo edema pulmonar resultante principalmente de altera\u00e7\u00e3o de permeabilidade capilar e choque progressivos), diur\u00e9tica e convalescen\u00e7a. Algumas altera\u00e7\u00f5es laboratoriais apresentadas no caso s\u00e3o frequente em SPCH e corroboram essa hip\u00f3tese, como leucocitose com neutrofilia, plaquetopenia e eleva\u00e7\u00e3o do DHL. A radiografia de t\u00f3rax evidencia um infiltrado intersticial difuso, que traduz o pulm\u00e3o congesto.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:34:39.90603 +0000 UTC"
+                    },
+                    "answer_percentage": 58,
+                    "answers": 210
+                },
+                {
+                    "id": "30b490be-e368-4db6-9a2d-12744b1cb68d",
+                    "position": "1",
+                    "body": "Paracoccidioidomicose Aguda/Subaguda",
+                    "sanitized_body": "Paracoccidioidomicose Aguda/Subaguda",
+                    "correct": false,
+                    "created_at": "2020-09-16 01:46:39.714333 +0000 UTC",
+                    "updated_at": "2020-11-24 12:12:28.531786 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa B, porque a forma aguda/subaguda (juvenil) de paracoccidiodomicose \u00e9 mais frequente em crian\u00e7as e adolescentes (&lt;10% dos casos em &gt; 30 anos) e caracterizada pela dissemina\u00e7\u00e3o pelo sistema reticulo endotelial (adenomegalias, esplenomegalia e citopenias). Diferente da forma cr\u00f4nica (mais frequente em adultos) e da forma \u201cmista\u201d (esta \u00e9 observada em imunossuprimidos), o acometimento pulmonar na forma aguda/subaguda \u00e9 infrequente.",
+                        "sanitized_complete": "Incorreta a alternativa B, porque a forma aguda/subaguda (juvenil) de paracoccidiodomicose \u00e9 mais frequente em crian\u00e7as e adolescentes (&lt;10% dos casos em &gt; 30 anos) e caracterizada pela dissemina\u00e7\u00e3o pelo sistema reticulo endotelial (adenomegalias, esplenomegalia e citopenias). Diferente da forma cr\u00f4nica (mais frequente em adultos) e da forma \u201cmista\u201d (esta \u00e9 observada em imunossuprimidos), o acometimento pulmonar na forma aguda/subaguda \u00e9 infrequente.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:34:39.876704 +0000 UTC"
+                    },
+                    "answer_percentage": 24,
+                    "answers": 87
+                },
+                {
+                    "id": "76554b94-c28f-408d-ac77-d6b355ec5696",
+                    "position": "2",
+                    "body": "Pneumonia estafiloc\u00f3cica p\u00f3s-influenza&nbsp;",
+                    "sanitized_body": "Pneumonia estafiloc\u00f3cica p\u00f3s-influenza\u00a0",
+                    "correct": false,
+                    "created_at": "2020-09-16 01:46:39.714333 +0000 UTC",
+                    "updated_at": "2020-11-24 12:12:28.579178 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa C, embora S\u00edndrome gripal, evoluindo para s\u00edndrome respirat\u00f3ria aguda grave (SRAG) com ou sem infec\u00e7\u00e3o bacteriana associada, seja um diferencial, existem elementos que falam contra essa alternativa: por mais que imagem radiol\u00f3gica n\u00e3o seja um bom preditor de etiologia da pneumonia, um padr\u00e3o intersticial n\u00e3o est\u00e1 associado a <i>S. aureus</i>; Esperar\u00edamos classicamente uma leucocitose mais importante em uma infec\u00e7\u00e3o bacteriana se sobrepondo a uma infec\u00e7\u00e3o viral.",
+                        "sanitized_complete": "Incorreta a alternativa C, embora S\u00edndrome gripal, evoluindo para s\u00edndrome respirat\u00f3ria aguda grave (SRAG) com ou sem infec\u00e7\u00e3o bacteriana associada, seja um diferencial, existem elementos que falam contra essa alternativa: por mais que imagem radiol\u00f3gica n\u00e3o seja um bom preditor de etiologia da pneumonia, um padr\u00e3o intersticial n\u00e3o est\u00e1 associado a S. aureus; Esperar\u00edamos classicamente uma leucocitose mais importante em uma infec\u00e7\u00e3o bacteriana se sobrepondo a uma infec\u00e7\u00e3o viral.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:34:39.937384 +0000 UTC"
+                    },
+                    "answer_percentage": 6,
+                    "answers": 23
+                },
+                {
+                    "id": "d83a54ad-5d25-4e52-8131-46fc72dfcc34",
+                    "position": "3",
+                    "body": "Pneumonia por influenza H1N1",
+                    "sanitized_body": "Pneumonia por influenza H1N1",
+                    "correct": false,
+                    "created_at": "2020-09-16 01:46:39.714333 +0000 UTC",
+                    "updated_at": "2020-11-24 12:12:28.625626 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa D, porque embora o quadro inicial pudesse ser confundido com uma s\u00edndrome gripal (Febre + tosse + cefaleia e mialgia) e posteriormente preenchesse crit\u00e9rio para SRAG (desconforto respirat\u00f3rio, dessatura\u00e7\u00e3o, hipotens\u00e3o e piora da condi\u00e7\u00e3o cl\u00ednica de base), o enunciado nos deu algumas dicas de que esse n\u00e3o seria o diagn\u00f3stico: leucocitose com neutrofilia n\u00e3o \u00e9 esperado em uma pneumonia por influenza (o paciente apresentava 37% de bast\u00f5es) e isso ajuda a diferenciar a fase prodr\u00f4mica de SCPH de uma infec\u00e7\u00e3o viral; ser morador de \u00e1rea rural n\u00e3o \u00e9 um fator de risco para influenza.",
+                        "sanitized_complete": "Incorreta a alternativa D, porque embora o quadro inicial pudesse ser confundido com uma s\u00edndrome gripal (Febre + tosse + cefaleia e mialgia) e posteriormente preenchesse crit\u00e9rio para SRAG (desconforto respirat\u00f3rio, dessatura\u00e7\u00e3o, hipotens\u00e3o e piora da condi\u00e7\u00e3o cl\u00ednica de base), o enunciado nos deu algumas dicas de que esse n\u00e3o seria o diagn\u00f3stico: leucocitose com neutrofilia n\u00e3o \u00e9 esperado em uma pneumonia por influenza (o paciente apresentava 37% de bast\u00f5es) e isso ajuda a diferenciar a fase prodr\u00f4mica de SCPH de uma infec\u00e7\u00e3o viral; ser morador de \u00e1rea rural n\u00e3o \u00e9 um fator de risco para influenza.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                        "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 11:34:39.911516 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 39
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "Mulher, 32 anos, com febre, cefaleia, n\u00e1useas, mialgia e tosse seca h\u00e1 5 dias. H\u00e1 um dia houve piora da tosse e surgimento de dispneia intensa. Mora na zona rural e nega doen\u00e7as pr\u00e9vias. Exame f\u00edsico: MEG, corada e hidratada, acian\u00f3tica e anict\u00e9rica. Aparelho respirat\u00f3rio: murm\u00fario vesicular presente, diminu\u00eddo em base direita e estertores em base esquerda. FR = 40 ipm, satura\u00e7\u00e3o 85 % com m\u00e1scara de O\u2082 10L/min. Aparelho cardiovascular: RCR 2 T, bulhas normofon\u00e9ticas sem sopros. FC: 120 bpm. PA: 96x40 mmHg. Abdome sem altera\u00e7\u00f5es. Membros sem edemas. Exames laboratoriais: Hb = 17 G/dL; Ht = 51 %; GB = 10.800 /mm\u00b3 (Bast\u00f5es 37%; segmentados 51%; eosin\u00f3filos 1%; linf\u00f3citos 11%); Plaquetas = 98.000/mm\u00b3. LDH = 520 U/L (VR: 100 a190); Creatinina = 1,2 mg/dL; AST = 70 U/L (VR&lt;38); ALT = 67 U/L (VR&lt;31); Bilirrubina Total = 0,6 mg/dL (VR: 0,8-1,2). Radiografia de t\u00f3rax, ver figura abaixo:&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AF7CE2BC-B55B-8C3C-E78D-78FB9B6630F1/AF7CE2BC-B55B-8C3C-E78D-78FB9B6630F1-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Qual \u00e9 o diagn\u00f3stico mais prov\u00e1vel?</div>",
+            "statement_text": "Mulher, 32 anos, com febre, cefaleia, n\u00e1useas, mialgia e tosse seca h\u00e1 5 dias. H\u00e1 um dia houve piora da tosse e surgimento de dispneia intensa. Mora na zona rural e nega doen\u00e7as pr\u00e9vias. Exame f\u00edsico: MEG, corada e hidratada, acian\u00f3tica e anict\u00e9rica. Aparelho respirat\u00f3rio: murm\u00fario vesicular presente, diminu\u00eddo em base direita e estertores em base esquerda. FR = 40 ipm, satura\u00e7\u00e3o 85 % com m\u00e1scara de O\u2082 10L/min. Aparelho cardiovascular: RCR 2 T, bulhas normofon\u00e9ticas sem sopros. FC: 120 bpm. PA: 96x40 mmHg. Abdome sem altera\u00e7\u00f5es. Membros sem edemas. Exames laboratoriais: Hb = 17 G/dL; Ht = 51 %; GB = 10.800 /mm\u00b3 (Bast\u00f5es 37%; segmentados 51%; eosin\u00f3filos 1%; linf\u00f3citos 11%); Plaquetas = 98.000/mm\u00b3. LDH = 520 U/L (VR: 100 a190); Creatinina = 1,2 mg/dL; AST = 70 U/L (VR&lt;38); ALT = 67 U/L (VR&lt;31); Bilirrubina Total = 0,6 mg/dL (VR: 0,8-1,2). Radiografia de t\u00f3rax, ver figura abaixo:\u00a0Qual \u00e9 o diagn\u00f3stico mais prov\u00e1vel?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "73ad3a0aae5daad30d77211e03feb244",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-16 01:46:39.714333 +0000 UTC",
+            "solution": {
+                "_key": "f0097649-7ded-4d3f-ac41-859bb1dd9a2d",
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Fique Atento! A banca n\u00e3o inclui nenhuma informa\u00e7\u00e3o no enunciado por acaso. Dados epidemiol\u00f3gicos, como \u201cmora na zona rural\u201d, precisam ser considerados no racioc\u00ednio cl\u00ednico.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AFique Atento! A banca n\u00e3o inclui nenhuma informa\u00e7\u00e3o no enunciado por acaso. Dados epidemiol\u00f3gicos, como \u201cmora na zona rural\u201d, precisam ser considerados no racioc\u00ednio cl\u00ednico.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                "author_email_id": "2bc6020e37bbd8c72d4d70c9bbed9aca",
+                "author_profile": {
+                    "id": "91a0c65b-7291-43b0-b7c0-50dfe95109d3",
+                    "full_name": "Bruno Fernando Buzo",
+                    "avatar_url": "https://static.accounts.estrategia.com/2a20a9da81199553d3a4d65d86d7586b",
+                    "about_me": "Graduado em Medicina pela Pontif\u00edcia Universidade Cat\u00f3lica de Campinas - PUC-Campinas, resid\u00eancia m\u00e9dica em Infectologia pelo Hospital das Cl\u00ednicas da Faculdade de Medicina da Universidade de S\u00e3o Paulo e fellowship cl\u00ednico em Infec\u00e7\u00f5es em Pacientes Transplantados e Oncol\u00f3gicos pela University of Alberta (Canad\u00e1). Atualmente \u00e9 m\u00e9dico infectologista do Hospital C\u00e1rdio Pulmonar em SalvadorBA.\n\nCRM: 176.778SP, 36.215BA, RQE: 19.666",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/drbrunobuzo",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        },
+                        {
+                            "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                            "profile_social_network_url_path": "https://www.ca.linkedin.com/in/bruno-fernando-buzo-60913a43",
+                            "name": "LinkedIn",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-11-20 11:34:40.102339 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false,
+            "slug": "Mulher-32-anos-com1543ad36cc0",
+            "public": true
+        },
+        {
+            "id": "4000026316",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2020,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "b9285694-711e-47e5-bde0-991755bda0f9",
+                            "name": "GO - Universidade Federal de Goi\u00e1s - UFG (Hospital das Cl\u00ednicas de Goi\u00e1s - HC)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "P\u00fablico - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FE1967F2-6F31-7D6D-7B8A-B79305E1EE2E"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T15:10:09Z",
+                    "updated_at": "2021-01-28T17:33:06Z",
+                    "location": {
+                        "id": "10"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "name": "Hantavirus",
+                    "is_master": false,
+                    "master_id": "e4465e1b03d74512870e5bd72af7b44f",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "2ad3f52d-2f3d-41a9-91b2-a52188e8a04d",
+                    "position": "0",
+                    "body": "s\u00edndrome cardiopulmonar por hantav\u00edrus.",
+                    "sanitized_body": "s\u00edndrome cardiopulmonar por hantav\u00edrus.",
+                    "correct": true,
+                    "created_at": "2020-09-10 22:46:37.17533 +0000 UTC",
+                    "updated_at": "2020-11-25 02:40:21.237127 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Correta a alternativa \u201ca\u201d porque</b> paciente com doen\u00e7a de quadro cl\u00ednico agudo, com insufici\u00eancia respirat\u00f3ria aguda e evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a \u00e9 uma das tr\u00eas defini\u00e7\u00f5es de caso suspeito da s\u00edndrome cardiopulmonar por hantav\u00edrus.",
+                        "sanitized_complete": "Correta a alternativa \u201ca\u201d porque paciente com doen\u00e7a de quadro cl\u00ednico agudo, com insufici\u00eancia respirat\u00f3ria aguda e evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a \u00e9 uma das tr\u00eas defini\u00e7\u00f5es de caso suspeito da s\u00edndrome cardiopulmonar por hantav\u00edrus.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 16:38:45.332666 +0000 UTC"
+                    },
+                    "answer_percentage": 71,
+                    "answers": 185
+                },
+                {
+                    "id": "22d0ac1e-ecc5-4695-b43b-e6b2a16ae3f8",
+                    "position": "1",
+                    "body": "s\u00edndrome  gripal aguda.",
+                    "sanitized_body": "s\u00edndrome  gripal aguda.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:46:37.17533 +0000 UTC",
+                    "updated_at": "2020-11-25 02:40:21.342478 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \u201cb\u201d.&nbsp;O termo mais adequado nem \u00e9 s\u00edndrome gripal aguda, mas sim s\u00edndrome gripal (SG), que pode evoluir para s\u00edndrome respirat\u00f3ria aguda grave (SRAG). A defini\u00e7\u00e3o de casos para ambas s\u00e3o as seguintes:<div><br></div><div>\u2022 SG \u2013 febre, mesmo que referida, acompanhada de tosse ou dor de garganta e in\u00edcio dos sintomas nos \u00faltimos sete dias.&nbsp;</div><div><br></div><div>\u2022 SRAG \u2013 febre, mesmo que referida, acompanhada de tosse ou dor de garganta que apresente dispneia e que foi hospitalizado em UTI.</div>",
+                        "sanitized_complete": "Incorreta a alternativa \u201cb\u201d.\u00a0O termo mais adequado nem \u00e9 s\u00edndrome gripal aguda, mas sim s\u00edndrome gripal (SG), que pode evoluir para s\u00edndrome respirat\u00f3ria aguda grave (SRAG). A defini\u00e7\u00e3o de casos para ambas s\u00e3o as seguintes:\u2022 SG \u2013 febre, mesmo que referida, acompanhada de tosse ou dor de garganta e in\u00edcio dos sintomas nos \u00faltimos sete dias.\u00a0\u2022 SRAG \u2013 febre, mesmo que referida, acompanhada de tosse ou dor de garganta que apresente dispneia e que foi hospitalizado em UTI.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 16:38:45.329084 +0000 UTC"
+                    },
+                    "answer_percentage": 26,
+                    "answers": 67
+                },
+                {
+                    "id": "93342941-ca47-46d6-9f97-29d1d3b25b2c",
+                    "position": "2",
+                    "body": "endocardite infecciosa.",
+                    "sanitized_body": "endocardite infecciosa.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:46:37.17533 +0000 UTC",
+                    "updated_at": "2020-11-25 02:40:21.448446 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \u201cc\u201d&nbsp;porque a endocardite infecciosa n\u00e3o tem defini\u00e7\u00e3o de caso no referido documento, aparecendo somente como diagn\u00f3stico diferencial (de meningoccemia, febre tifoide, mal\u00e1ria e leptospirose) ou complica\u00e7\u00e3o (de varicela/herpes zoster).",
+                        "sanitized_complete": "Incorreta a alternativa \u201cc\u201d\u00a0porque a endocardite infecciosa n\u00e3o tem defini\u00e7\u00e3o de caso no referido documento, aparecendo somente como diagn\u00f3stico diferencial (de meningoccemia, febre tifoide, mal\u00e1ria e leptospirose) ou complica\u00e7\u00e3o (de varicela/herpes zoster).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 16:38:45.338754 +0000 UTC"
+                    },
+                    "answer_percentage": 1,
+                    "answers": 3
+                },
+                {
+                    "id": "afab95c5-975c-497d-b88c-caef9a9a6e0f",
+                    "position": "3",
+                    "body": "estafilococcia.",
+                    "sanitized_body": "estafilococcia.",
+                    "correct": false,
+                    "created_at": "2020-09-10 22:46:37.17533 +0000 UTC",
+                    "updated_at": "2020-11-25 02:40:21.560313 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "Incorreta a alternativa \u201cd\u201d&nbsp;porque infec\u00e7\u00e3o por estafilococos n\u00e3o tem defini\u00e7\u00e3o de caso no referido documento, aparecendo somente como diagn\u00f3stico diferencial (febre maculosa brasileira e outras riquetsioses) ou complica\u00e7\u00e3o (de varicela/herpes zoster).",
+                        "sanitized_complete": "Incorreta a alternativa \u201cd\u201d\u00a0porque infec\u00e7\u00e3o por estafilococos n\u00e3o tem defini\u00e7\u00e3o de caso no referido documento, aparecendo somente como diagn\u00f3stico diferencial (febre maculosa brasileira e outras riquetsioses) ou complica\u00e7\u00e3o (de varicela/herpes zoster).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                        "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                        "author_profile": null,
+                        "created_at": "2020-11-20 16:38:45.336051 +0000 UTC"
+                    },
+                    "answer_percentage": 3,
+                    "answers": 7
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "De acordo com o Guia de Vigil\u00e2ncia em Sa\u00fade (2019), paciente com quadro febril (acima de 38\u00baC), mialgia, cefaleia, sinais e sintomas de insufici\u00eancia respirat\u00f3ria aguda, de etiologia n\u00e3o determinada, na primeira semana da doen\u00e7a, ou paciente com enfermidade aguda, apresentando quadro de insufici\u00eancia respirat\u00f3ria aguda, com evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a. Esses s\u00e3o crit\u00e9rios estabelecidos para a defini\u00e7\u00e3o de caso suspeito de",
+            "statement_text": "De acordo com o Guia de Vigil\u00e2ncia em Sa\u00fade (2019), paciente com quadro febril (acima de 38\u00baC), mialgia, cefaleia, sinais e sintomas de insufici\u00eancia respirat\u00f3ria aguda, de etiologia n\u00e3o determinada, na primeira semana da doen\u00e7a, ou paciente com enfermidade aguda, apresentando quadro de insufici\u00eancia respirat\u00f3ria aguda, com evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a. Esses s\u00e3o crit\u00e9rios estabelecidos para a defini\u00e7\u00e3o de caso suspeito de",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "48b1f1e175d06e970c7c14053061c7be",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 22:46:37.17533 +0000 UTC",
+            "solution": {
+                "_key": "105a3421-dd79-4bcc-8d81-45cb14a6a9ec",
+                "complete": "<b>GABARITO: ALTERNATIVA A.</b><div><br></div><div>A hantavirose, doen\u00e7a causada por Hantavirus, pode estar manifestada sob diferentes formas, incluindo desde doen\u00e7a febril inespec\u00edfica a quadros cardiovasculares e pulmonares mais severos, como a s\u00edndrome da ang\u00fastia respirat\u00f3ria (SARA). Como percebe-se relevante comprometimento card\u00edaco na Am\u00e9rica do Sul, passou a ser reconhecida como s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).</div><div><br></div><div>Segundo o Guia de Vigil\u00e2ncia em Sa\u00fade (2019), a defini\u00e7\u00e3o de caso suspeito de SCPH deve atender aos seguintes crit\u00e9rios:</div><div><br></div><div>1. quadro febril (acima de 38\u00b0C), mialgia, cefaleia e sinais e sintomas de insufici\u00eancia respirat\u00f3ria aguda de etiologia n\u00e3o determinada, na primeira semana da doen\u00e7a; ou&nbsp;</div><div><br></div><div>2. enfermidade aguda, com insufici\u00eancia respirat\u00f3ria aguda e evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a; ou&nbsp;</div><div><br></div><div>3. quadro febril (acima de 38\u00b0C), mialgia, cefaleia e que tenha exposi\u00e7\u00e3o a uma situa\u00e7\u00e3o de risco*, relacionado ou n\u00e3o a casos confirmados laboratorialmente.</div><div><br></div><div>*Entendem-se como situa\u00e7\u00f5es de risco (ocorridas nos \u00faltimos 60 dias antes do in\u00edcio dos sintomas):&nbsp;</div><div><br></div><div>- exposi\u00e7\u00f5es a atividades de risco para a infec\u00e7\u00e3o por hantav\u00edrus; ou&nbsp;</div><div><br></div><div>- exist\u00eancia de roedores silvestres e/ou condi\u00e7\u00f5es ambientais favor\u00e1veis ao seu estabelecimento em locais frequentados pelo paciente.</div><div><br></div><div>Algumas atividades de risco para infec\u00e7\u00e3o por hantav\u00edrus, conforme entendimento do Minist\u00e9rio da Sa\u00fade, s\u00e3o as seguintes:</div><div><br></div><div>- teve contato direto e/ou viu roedor silvestre vivo ou morto ou seus vest\u00edgios (fezes, urina e/ou cheiro da urina, sangue, saliva, roeduras, pegadas, trilhas, manchas e outros sinais de roedores);&nbsp;</div><div><br></div><div>- ro\u00e7as abandonadas, faixas de capim n\u00e3o ocupadas;</div><div><br></div><div>- mudan\u00e7a no perfil agr\u00edcola ou outros fen\u00f4menos naturais peri\u00f3dicos que alterem a disponibilidade de alimentos (gr\u00e3os) para os roedores silvestres;&nbsp;</div><div><br></div><div>- fatores ambientais que provoquem o deslocamento de roedores (queimadas, enchentes, alagamentos, entre outros);</div><div><br></div><div>- atividades de lazer/turismo em locais rurais ou silvestres (ca\u00e7a, pesca, ecoturismo, treinamento militar, pesquisas cient\u00edficas).</div><div><br></div><div>Mesmo as atividades que n\u00e3o foram citadas, podemos resumir as atividades de risco \u00e0quelas em que h\u00e1 suspeita de contato com animais silvestres (roedores) ou ligadas a ambientes rurais ou \u00e0 ind\u00fastria agr\u00edcola.</div><div><br></div><div>A lista completa de atividades de risco para infec\u00e7\u00e3o por hantav\u00edrus e outras informa\u00e7\u00f5es adicionais sobre a doen\u00e7a pode ser visualizada no documento intitulado \u201cGuia de Vigil\u00e2ncia em Sa\u00fade\u201d do Minist\u00e9rio da Sa\u00fade (Bras\u00edlia-DF, 2019), dispon\u00edvel em:  &lt;https://portalarquivos2.saude.gov.br/images/pdf/2019/ junho/25/guia-vigilancia-saude-volume-unico-3ed.pdf&gt;. Acesso em: 09 de mar. de 2020.</div>",
+                "sanitized_complete": "GABARITO: ALTERNATIVA A.A hantavirose, doen\u00e7a causada por Hantavirus, pode estar manifestada sob diferentes formas, incluindo desde doen\u00e7a febril inespec\u00edfica a quadros cardiovasculares e pulmonares mais severos, como a s\u00edndrome da ang\u00fastia respirat\u00f3ria (SARA). Como percebe-se relevante comprometimento card\u00edaco na Am\u00e9rica do Sul, passou a ser reconhecida como s\u00edndrome cardiopulmonar por hantav\u00edrus (SCPH).Segundo o Guia de Vigil\u00e2ncia em Sa\u00fade (2019), a defini\u00e7\u00e3o de caso suspeito de SCPH deve atender aos seguintes crit\u00e9rios:1. quadro febril (acima de 38\u00b0C), mialgia, cefaleia e sinais e sintomas de insufici\u00eancia respirat\u00f3ria aguda de etiologia n\u00e3o determinada, na primeira semana da doen\u00e7a; ou\u00a02. enfermidade aguda, com insufici\u00eancia respirat\u00f3ria aguda e evolu\u00e7\u00e3o para \u00f3bito na primeira semana da doen\u00e7a; ou\u00a03. quadro febril (acima de 38\u00b0C), mialgia, cefaleia e que tenha exposi\u00e7\u00e3o a uma situa\u00e7\u00e3o de risco*, relacionado ou n\u00e3o a casos confirmados laboratorialmente.*Entendem-se como situa\u00e7\u00f5es de risco (ocorridas nos \u00faltimos 60 dias antes do in\u00edcio dos sintomas):\u00a0- exposi\u00e7\u00f5es a atividades de risco para a infec\u00e7\u00e3o por hantav\u00edrus; ou\u00a0- exist\u00eancia de roedores silvestres e/ou condi\u00e7\u00f5es ambientais favor\u00e1veis ao seu estabelecimento em locais frequentados pelo paciente.Algumas atividades de risco para infec\u00e7\u00e3o por hantav\u00edrus, conforme entendimento do Minist\u00e9rio da Sa\u00fade, s\u00e3o as seguintes:- teve contato direto e/ou viu roedor silvestre vivo ou morto ou seus vest\u00edgios (fezes, urina e/ou cheiro da urina, sangue, saliva, roeduras, pegadas, trilhas, manchas e outros sinais de roedores);\u00a0- ro\u00e7as abandonadas, faixas de capim n\u00e3o ocupadas;- mudan\u00e7a no perfil agr\u00edcola ou outros fen\u00f4menos naturais peri\u00f3dicos que alterem a disponibilidade de alimentos (gr\u00e3os) para os roedores silvestres;\u00a0- fatores ambientais que provoquem o deslocamento de roedores (queimadas, enchentes, alagamentos, entre outros);- atividades de lazer/turismo em locais rurais ou silvestres (ca\u00e7a, pesca, ecoturismo, treinamento militar, pesquisas cient\u00edficas).Mesmo as atividades que n\u00e3o foram citadas, podemos resumir as atividades de risco \u00e0quelas em que h\u00e1 suspeita de contato com animais silvestres (roedores) ou ligadas a ambientes rurais ou \u00e0 ind\u00fastria agr\u00edcola.A lista completa de atividades de risco para infec\u00e7\u00e3o por hantav\u00edrus e outras informa\u00e7\u00f5es adicionais sobre a doen\u00e7a pode ser visualizada no documento intitulado \u201cGuia de Vigil\u00e2ncia em Sa\u00fade\u201d do Minist\u00e9rio da Sa\u00fade (Bras\u00edlia-DF, 2019), dispon\u00edvel em:  &lt;https://portalarquivos2.saude.gov.br/images/pdf/2019/ junho/25/guia-vigilancia-saude-volume-unico-3ed.pdf&gt;. Acesso em: 09 de mar. de 2020.",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+                "author_profile": {
+                    "id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+                    "full_name": "Fernanda Lima",
+                    "avatar_url": "https://static.accounts.estrategia.com/9910c9a2655c26773767691df0184454",
+                    "about_me": "Formada em Medicina pela Universidade Federal de Sergipe, resid\u00eancia m\u00e9dica em Medicina do Trabalho pela Universidade Federal da Bahia (RQE n\u00ba 10342) com experi\u00eancia em pesquisa em sa\u00fade do trabalhador no \"Institut national de sant\u00e9 publique du Qu\u00e9bec\" (Montreal, Canad\u00e1).\n\nAtua como assistente t\u00e9cnica em per\u00edcias m\u00e9dicas no \u00e2mbito da sa\u00fade do trabalhador.\n\nAprovada em 1\u00ba lugar no concurso para analista judici\u00e1rio (\u00e1rea de medicina do trabalho) do Tribunal de Justi\u00e7a de Sergipe (TJSE). \n \nExperi\u00eancia na \u00e1rea de Sa\u00fade Ocupacional no Centro Estadual de Refer\u00eancia em Sa\u00fade do Trabalhador (Cesat), em empresas de constru\u00e7\u00e3o civil, no Sindicato dos Qu\u00edmicos e Petroleiros da Bahia, com presta\u00e7\u00e3o de servi\u00e7os de exames ocupacionais (Caixa Econ\u00f4mica Federal, Braskem, Wal Mart Brasil LTDA.), em empresa de com\u00e9rcio varejista (Cencosud Brasil Comercial Ltda), em empresa de log\u00edstica e distribui\u00e7\u00e3o de bebidas (Brasil Kirin Log\u00edstica e Distribui\u00e7\u00e3o - antiga Schincariol), em ind\u00fastria metal\u00fargica (Papaiz), no ramo de telecomunica\u00e7\u00f5es (ARM Telecomunica\u00e7\u00f5es e Servi\u00e7os de Engenharia Ltda), em associa\u00e7\u00e3o de defesa de direitos sociais (APAE Salvador) e com transporte metrovi\u00e1rio (Companhia do Metro da Bahia - CCR Metr\u00f4 BA).",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/prof.fernandalima",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-11-20 16:38:45.517431 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": false,
+            "solution_video_url": "",
+            "unlisted": false,
+            "slug": "acordo-com-Guia66a85fbc0b",
+            "public": true
+        },
+        {
+            "id": "4000019165",
+            "exams": [
+                {
+                    "scholarity": "placeholder",
+                    "year": 2019,
+                    "catalogs": {
+                        "duration_id": {
+                            "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "goal_id": {
+                            "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                            "name": "Resid\u00eancia (Acesso Direto)"
+                        },
+                        "institution_id": {
+                            "id": "06a40386-1ed7-4afc-a6b9-fe8ec9509d90",
+                            "name": "ES - Universidade Federal do Esp\u00edrito Santo - UFES (Hospital Universit\u00e1rio Cassiano Ant\u00f4nio de Moraes - HUCAM)"
+                        },
+                        "jury_id": {
+                            "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "residency_id": {
+                            "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                            "name": "Acesso Direto (R1)"
+                        },
+                        "sector_id": {
+                            "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                            "name": "P\u00fablico - Federal"
+                        },
+                        "specialty_id": {
+                            "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                            "name": "N\u00e3o se aplica"
+                        },
+                        "subspecialty_id": {
+                            "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                            "name": "N\u00e3o se aplica"
+                        }
+                    },
+                    "number": 1,
+                    "complement": "",
+                    "remuneration": 0,
+                    "open_spaces": 0,
+                    "candidates_number": 0,
+                    "accepted_candidates_number": 0,
+                    "answers_type": "M\u00faltipla escolha",
+                    "active": true,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "1D0F0A00-BD38-1C74-E2BC-1ACFDEF49B1E"
+                        }
+                    ],
+                    "degree_proof": false,
+                    "questions_number": 100,
+                    "created_at": "2020-09-04T19:14:33Z",
+                    "updated_at": "2020-11-26T10:15:36Z",
+                    "location": {
+                        "id": "9"
+                    },
+                    "author_id": "placeholder"
+                }
+            ],
+            "topics": [
+                {
+                    "id": "6925772d198a4618b68520d22f70c134",
+                    "name": "Epidemiologia",
+                    "is_master": false,
+                    "master_id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus[$$]Epidemiologia",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "cf58eef61443465fb91ca6aa3e8a301e",
+                    "name": "Modo de transmiss\u00e3o",
+                    "is_master": false,
+                    "master_id": "eb6c627242ac46baa6cf83a4dfb19858",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]S\u00edndromes febris[$$]Hantavirus[$$]Modo de transmiss\u00e3o",
+                    "has_children": false,
+                    "nodes": null
+                },
+                {
+                    "id": "e6e5c71fa77d4be9acc57434b817ee64",
+                    "name": "Fatores de risco",
+                    "is_master": false,
+                    "master_id": "fd0560bd6a0b45c98f6fd69781860dc1",
+                    "path": "Cl\u00ednica M\u00e9dica[$$]Infectologia [$$]Infec\u00e7\u00f5es f\u00fangicas[$$]Histoplasmose[$$]Fatores de risco",
+                    "has_children": false,
+                    "nodes": null
+                }
+            ],
+            "alternatives": [
+                {
+                    "id": "da8d5e63-fc87-4d5e-9f6d-4b880dcf0592",
+                    "position": "0",
+                    "body": "Paracoccidioidomicose, toxoplasmose, leptospirose.",
+                    "sanitized_body": "Paracoccidioidomicose, toxoplasmose, leptospirose.",
+                    "correct": false,
+                    "created_at": "2020-09-10 16:37:35.093848 +0000 UTC",
+                    "updated_at": "2020-11-14 11:26:58.208504 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"a\" \u00e9 incorreta.</b> Paracoccidioidomicose \u00e9 doen\u00e7a transmitida por inala\u00e7\u00e3o de fungos presentes no solo de pa\u00edses end\u00eamicos, em especial em \u00e1reas de planta\u00e7\u00e3o rural ou florestas tropicais ou subtropicais. N\u00e3o \u00e9 doen\u00e7a relacionada \u00e0 exposi\u00e7\u00e3o a cavernas. Toxoplasmose tamb\u00e9m n\u00e3o \u00e9 doen\u00e7a relacionada a este tipo de exposi\u00e7\u00e3o; sua transmiss\u00e3o ocorre principalmente pela ingest\u00e3o de oocistos (contato com fezes de animais ou ingest\u00e3o de alimentos contaminados).<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;a&#34; \u00e9 incorreta. Paracoccidioidomicose \u00e9 doen\u00e7a transmitida por inala\u00e7\u00e3o de fungos presentes no solo de pa\u00edses end\u00eamicos, em especial em \u00e1reas de planta\u00e7\u00e3o rural ou florestas tropicais ou subtropicais. N\u00e3o \u00e9 doen\u00e7a relacionada \u00e0 exposi\u00e7\u00e3o a cavernas. Toxoplasmose tamb\u00e9m n\u00e3o \u00e9 doen\u00e7a relacionada a este tipo de exposi\u00e7\u00e3o; sua transmiss\u00e3o ocorre principalmente pela ingest\u00e3o de oocistos (contato com fezes de animais ou ingest\u00e3o de alimentos contaminados).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 02:32:14.931338 +0000 UTC"
+                    },
+                    "answer_percentage": 11,
+                    "answers": 67
+                },
+                {
+                    "id": "c1b9ec75-3358-4151-8c40-9b57bd643af7",
+                    "position": "1",
+                    "body": "Febre maculosa, leptospirose, tuberculose.&nbsp;",
+                    "sanitized_body": "Febre maculosa, leptospirose, tuberculose.\u00a0",
+                    "correct": false,
+                    "created_at": "2020-09-10 16:37:35.093848 +0000 UTC",
+                    "updated_at": "2020-11-14 11:26:58.337362 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"b\" \u00e9 incorreta</b>. Febre maculosa \u00e9 transmitida por picada de carrapato; sua transmiss\u00e3o \u00e9 mais comum em situa\u00e7\u00f5es em que a exposi\u00e7\u00e3o a este artr\u00f3pode \u00e9 mais prov\u00e1vel (contato com animais de cria\u00e7\u00e3o ou mam\u00edferos silvestres). Tuberculose \u00e9 doen\u00e7a transmitida de pessoa a pessoa. Assim, febre maculosa e tuberculose n\u00e3o s\u00e3o doen\u00e7as relacionadas \u00e0 exposi\u00e7\u00e3o a cavernas.<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;b&#34; \u00e9 incorreta. Febre maculosa \u00e9 transmitida por picada de carrapato; sua transmiss\u00e3o \u00e9 mais comum em situa\u00e7\u00f5es em que a exposi\u00e7\u00e3o a este artr\u00f3pode \u00e9 mais prov\u00e1vel (contato com animais de cria\u00e7\u00e3o ou mam\u00edferos silvestres). Tuberculose \u00e9 doen\u00e7a transmitida de pessoa a pessoa. Assim, febre maculosa e tuberculose n\u00e3o s\u00e3o doen\u00e7as relacionadas \u00e0 exposi\u00e7\u00e3o a cavernas.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 02:32:14.935355 +0000 UTC"
+                    },
+                    "answer_percentage": 2,
+                    "answers": 14
+                },
+                {
+                    "id": "58915e61-6935-4d8e-a191-3a4c5f1f30b3",
+                    "position": "2",
+                    "body": "Histoplasmose, tuberculose, paracoccidioidomicose.",
+                    "sanitized_body": "Histoplasmose, tuberculose, paracoccidioidomicose.",
+                    "correct": false,
+                    "created_at": "2020-09-10 16:37:35.093848 +0000 UTC",
+                    "updated_at": "2020-11-14 11:26:58.414834 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"c\" \u00e9 incorreta</b>. Tuberculose \u00e9 doen\u00e7a transmitida de pessoa a pessoa, enquanto paracoccidioidomicose \u00e9 doen\u00e7a transmitida por fungos presentes no solo de pa\u00edses end\u00eamicos, em especial em \u00e1reas de planta\u00e7\u00e3o rural ou florestas tropicais ou subtropicais. Exposi\u00e7\u00e3o a cavernas n\u00e3o deve elevar o risco de infec\u00e7\u00e3o por alguma destas doen\u00e7as.&nbsp;<div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;c&#34; \u00e9 incorreta. Tuberculose \u00e9 doen\u00e7a transmitida de pessoa a pessoa, enquanto paracoccidioidomicose \u00e9 doen\u00e7a transmitida por fungos presentes no solo de pa\u00edses end\u00eamicos, em especial em \u00e1reas de planta\u00e7\u00e3o rural ou florestas tropicais ou subtropicais. Exposi\u00e7\u00e3o a cavernas n\u00e3o deve elevar o risco de infec\u00e7\u00e3o por alguma destas doen\u00e7as.\u00a0",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 02:32:14.936694 +0000 UTC"
+                    },
+                    "answer_percentage": 26,
+                    "answers": 165
+                },
+                {
+                    "id": "5c734fc7-ebb7-4624-b72c-245b199ced5d",
+                    "position": "3",
+                    "body": "Leptospirose, histoplasmose, hantavirose.",
+                    "sanitized_body": "Leptospirose, histoplasmose, hantavirose.",
+                    "correct": true,
+                    "created_at": "2020-09-10 16:37:35.093848 +0000 UTC",
+                    "updated_at": "2020-11-14 11:26:58.509546 +0000 UTC",
+                    "topics": [],
+                    "solution": {
+                        "complete": "<b>Alternativa \"d\" \u00e9 correta. </b>A primeira doen\u00e7a infecciosa que deve vir \u00e0 mente, quando se fala em exposi\u00e7\u00e3o a cavernas, \u00e9 histoplasmose. Esta doen\u00e7a f\u00fangica \u00e9 transmitida atrav\u00e9s da inala\u00e7\u00e3o de microcon\u00eddeos ou macrocon\u00eddeos provenientes de fezes de morcegos. Leptospirose e hantavirose s\u00e3o doen\u00e7as transmitidas atrav\u00e9s do contato com ratos e outros roedores silvestres. Como morcegos e ratos s\u00e3o comuns em cavernas, o time de futebol tailand\u00eas estaria sujeito a estas infec\u00e7\u00f5es no Brasil.&nbsp;<div><br></div><div><br></div>",
+                        "sanitized_complete": "Alternativa &#34;d&#34; \u00e9 correta. A primeira doen\u00e7a infecciosa que deve vir \u00e0 mente, quando se fala em exposi\u00e7\u00e3o a cavernas, \u00e9 histoplasmose. Esta doen\u00e7a f\u00fangica \u00e9 transmitida atrav\u00e9s da inala\u00e7\u00e3o de microcon\u00eddeos ou macrocon\u00eddeos provenientes de fezes de morcegos. Leptospirose e hantavirose s\u00e3o doen\u00e7as transmitidas atrav\u00e9s do contato com ratos e outros roedores silvestres. Como morcegos e ratos s\u00e3o comuns em cavernas, o time de futebol tailand\u00eas estaria sujeito a estas infec\u00e7\u00f5es no Brasil.\u00a0",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "brief": "",
+                        "sanitized_brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                        "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                        "author_profile": null,
+                        "created_at": "2020-10-18 02:32:14.943969 +0000 UTC"
+                    },
+                    "answer_percentage": 61,
+                    "answers": 388
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "statement": "O time de futebol tailand\u00eas \"Javalis Selvagens\" ficou confinado em uma caverna devido a uma inunda\u00e7\u00e3o por um per\u00edodo superior a 1 semana. Caso essa caverna estivesse localizada no Brasil, a quais doen\u00e7as esse grupo estaria exposto?",
+            "statement_text": "O time de futebol tailand\u00eas &#34;Javalis Selvagens&#34; ficou confinado em uma caverna devido a uma inunda\u00e7\u00e3o por um per\u00edodo superior a 1 semana. Caso essa caverna estivesse localizada no Brasil, a quais doen\u00e7as esse grupo estaria exposto?",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "author_id": "8149d87c7eeea17f6f61987f6a7d1aa0",
+            "difficulty_level": "MEDIUM",
+            "created_at": "2020-09-10 16:37:35.093848 +0000 UTC",
+            "solution": {
+                "_key": "f88cce09-21e6-4e4e-95d0-f22595e10662",
+                "complete": "GABARITO ALTERNATIVA \"D\"<div><br></div><div><br></div>",
+                "sanitized_complete": "GABARITO ALTERNATIVA &#34;D&#34;",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "brief": "",
+                "sanitized_brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+                "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+                "author_profile": {
+                    "id": "34f8a704-436c-4be2-987e-47289e06a577",
+                    "full_name": "S\u00e9rgio Beduschi Filho",
+                    "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+                    "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Resid\u00eancia m\u00e9dica em Infectologia pela Secretaria de Estado da Sa\u00fade de Santa Catarina (Hospital Nereu Ramos). MBA em Gest\u00e3o em Sa\u00fade e Controle de Infec\u00e7\u00e3o. Atua como m\u00e9dico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Sa\u00fade de Santa Catarina, em Florian\u00f3polis/SC. Professor de Infectologia do curso Estrat\u00e9gia Med.\nCRM/SC: 14286\nRQE: 9232",
+                    "social_networks": [
+                        {
+                            "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                            "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                            "name": "Instagram",
+                            "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+                        }
+                    ],
+                    "anonymized_areas": []
+                },
+                "created_at": "2020-10-18 02:32:15.046562 +0000 UTC"
+            },
+            "status": {
+                "value": "APPROVED"
+            },
+            "has_video_solution": true,
+            "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000019165-720.mp4",
+            "unlisted": false,
+            "slug": "time-futebol-tailandes37e6ac03f7",
+            "public": true
+        }
+    ]
+}

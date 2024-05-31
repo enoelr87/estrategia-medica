@@ -1,0 +1,668 @@
+{
+  "data":[
+  {
+    "id": "592419379",
+    "alternatives": [
+      {
+        "id": "d2253b57-eea1-458d-be36-2a1cb2438cd1",
+        "body": "Amiodarona 150 mg IV em 10 minutos.",
+        "position": "0"
+      },
+      {
+        "id": "4d2e7adb-98bf-44fa-8103-d32a57bc26c4",
+        "body": "Adenosina 6 mg IV em bolus.",
+        "position": "1"
+      },
+      {
+        "id": "1b380a35-e66f-4a47-b63b-1446a67a7828",
+        "body": "Manobra vagal.",
+        "position": "2"
+      },
+      {
+        "id": "0201bb2c-92fd-43c6-98c2-8ac57c94d5c0",
+        "body": "Verapamil 10 mg IV.",
+        "position": "3"
+      },
+      {
+        "id": "969c0c7f-4a8c-46b8-8bbf-3458554221a6",
+        "body": "Cardioversão elétrica.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Mulher de 22 anos de idade, chegou ao PS com palpitações taquicárdicas há cerca de 30 minutos sem outras queixas clínicas ou antecedentes. Sinais vitais de chegada: FC = 180 bpm; PA = 120 x 80 mmHg; T = 36°C; saturação O2 = 98%; FR = 12 irpm. Ao exame: BEG, corada, acianótica, vígil, anictérica, pulmões limpos, RCR em 2T, BNF sem sopros, abdome normal. ECG mostrado na figura. (VER IMAGEM) Qual a conduta inicial?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8547D379-5A87-2FBF-9784-12EABF17904A/8547D379-5A87-2FBF-9784-12EABF17904A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+    "position": 21,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "1469719277",
+    "alternatives": [
+      {
+        "id": "560d9801-89ef-4ff3-a92b-56b983fe1ddc",
+        "body": "30-2 (01 socorrista) 30-1 (02 socorristas).&nbsp;",
+        "position": "0"
+      },
+      {
+        "id": "eeddc048-e554-4b05-aba7-8bee3307627e",
+        "body": "15-2 (01 socorrista) 30-2 (02 socorristas).&nbsp;",
+        "position": "1"
+      },
+      {
+        "id": "13bea95c-2e2a-4fdf-816a-0f87a2f8727f",
+        "body": "30-2 (01 socorrista) 15-0 (02 socorristas).&nbsp;",
+        "position": "2"
+      },
+      {
+        "id": "e5422d5b-2f12-4cd4-a0f5-ae64e4eaf907",
+        "body": "30-2 (01 socorrista) 15-2 (02 socorristas).&nbsp;",
+        "position": "3"
+      },
+      {
+        "id": "8c4f9da3-8283-4b97-b4ea-7f7d9b7ad619",
+        "body": "30-2 (01 socorrista) 30-4 (02 socorristas).&nbsp;",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Relação compressão - ventilação sem via aérea avançada, na criança com 1 e com 2 socorristas respectivamente. Assinle a alternativa correta.<div><br></div>",
+    "position": 22,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "2871927864",
+    "alternatives": [
+      {
+        "id": "8857f43a-3825-4e0c-b25a-84a70a76639e",
+        "body": "administrar lidocaina",
+        "position": "0"
+      },
+      {
+        "id": "48229bd3-6cdc-427b-ad01-59ba858afc1a",
+        "body": "administrar adenosina",
+        "position": "1"
+      },
+      {
+        "id": "3d8b86dd-c80d-4355-a99c-560a9db32fe3",
+        "body": "administrar amiodaroma",
+        "position": "2"
+      },
+      {
+        "id": "b6ba5d79-9c29-4dad-a61e-77e0cd097f32",
+        "body": "realizar cardioversão elétrica sincronizada",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Uma lactante com 15 meses de idade é levada pela mãe ao Pronto-Socorro. A mãe relata que o coração do bebê está muito acelerado. A mãe nega outras queixas e informa que realiza acompanhamento na Unidade Básica de Saúde, não tendo ocorrido até então, intercorrências. Ao exame físico, a lactante apresenta-se em bom estado geral, corada, hidratada, afebril, consciente, com boa perfusão periférica, saturação de oxigênio de 98% em ar ambiente, BNF 2T sem sopro audivél, frequência cardíaca = 230 bpm, ausência de edema e pulsos de boa amplitude. O eletrocardiograma apresenta onda P não visível; intervalo RR fixo QRS estreito (menor que 0,09 segundos). Diante desse quadro, além da manobra vagal, a conduta inicial adequada é",
+    "position": 23,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "2521232675",
+    "alternatives": [
+      {
+        "id": "3604f28b-c4dc-427c-9575-e21d0bc7295f",
+        "body": "Desfibrilar com 50J, usando pá de adulto e gel, na sequência, iniciar RCP por 2 minutos com 120 massagens por minuto e 10 ventilações por minuto, sem sincronismo.",
+        "position": "0"
+      },
+      {
+        "id": "d044670c-533e-4816-9f6e-f8aa475f6b22",
+        "body": "Desfibrilar com 50J, usando pá infantil e gel, na sequência, iniciar RCP por 2 minutos com 15 massagens para 2 ventilações, com sincronismo.",
+        "position": "1"
+      },
+      {
+        "id": "84ec52eb-301d-497d-9b37-1e25686d47cb",
+        "body": "Desfibrilar com 4J/Kg, usando pá de adulto e gel, na sequência, iniciar RCP por 2 minutos com 120 massagens por minuto e 10 ventilações por minuto, sem sincronismo.",
+        "position": "2"
+      },
+      {
+        "id": "bdb406c4-0324-4adb-995d-1d4861d9b27f",
+        "body": "Desfibrilar com 100J, usando pá de adulto e gel, realizar na sequência RCP por dois minutos com massagens e ventilações com o sincronismo de 15:2.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Tabata, 8 anos, 25Kg, é trazida pelo resgate, intubada, após queda da montanha russa, com perda de consciência, em parque da cidade. Ao entrar na sala de emergência você pede para equipe monitorá-la. Considerando que você confirmou PCR durante o exame físico e o monitor cardiorrespiratório apresenta traçado de fibrilação ventricular, a maneira adequada para tratar a paciente é:",
+    "position": 24,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "3352905396",
+    "alternatives": [
+      {
+        "id": "df604408-26bc-4fdc-8ffe-1ee64a00ca28",
+        "body": "Realizar epinefrina; 0,01 mg/kg a cada 2 minutos.",
+        "position": "0"
+      },
+      {
+        "id": "7fb612c4-b786-4c42-91fd-76c3ee6cdc6c",
+        "body": "Expansão volêmica; 20 ml/kg em 1 hora, com solução fisiológica 0,9%",
+        "position": "1"
+      },
+      {
+        "id": "06caf735-57c8-4e02-ade3-baabbdf7bd97",
+        "body": "Iniciar manobra vagal até reversão do quadro de taquicardia.",
+        "position": "2"
+      },
+      {
+        "id": "2c41c9e1-e1c8-49f8-aa67-65dbc1c98a30",
+        "body": "Realizar cardioversão elétrica sincronizada.",
+        "position": "3"
+      },
+      {
+        "id": "e2ab1efe-aaa4-4d62-9e1d-493232c5c239",
+        "body": "Realizar amiodarona, 5 mg/kg em bolus.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Paciente de 10 anos dá entrada no serviço de emergência, trazido pelo SAMU. Refere que o menor apresentou perda súbita da consciência na sala de aula. Os antecedentes médicos do paciente não são conhecidos e os familiares ainda não foram acionados. Na entrada apresentava-se em mau estado geral, com abertura ocular a pedido verbal, com fala confusa e retirando membro em resposta à dor. Paciente recebeu os primeiros cuidados em sala de emergência, na qual foi monitorizado, mantendo via aérea patente e com acesso venoso. No ECG de 12 derivações apresentou taquicardia com QRS largo (&gt; 0,09s); evoluindo durante exame com piora do nível de consciência, queda da pressão arterial e má perfusão periférica. A conduta CORRETA a ser tomada diante do quadro é:",
+    "position": 25,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "2724251671",
+    "alternatives": [
+      {
+        "id": "aeec49a2-4d33-4a2e-8a70-569b608f2319",
+        "body": "Compressões torácicas na frequência em torno de 100/min.",
+        "position": "0"
+      },
+      {
+        "id": "9a3461f3-39e3-431d-94c7-5f374ef5ccfe",
+        "body": "&nbsp;Aumentar interrupções entre as compressões torácicas.",
+        "position": "1"
+      },
+      {
+        "id": "3febcdd9-55e0-449f-b9ed-23638a4a807f",
+        "body": "Permitir o retorno do tórax à posição de repouso entre as compressões.",
+        "position": "2"
+      },
+      {
+        "id": "41139aff-2bb7-41b2-9680-1989f0abebc4",
+        "body": "Hiperventilar o paciente para evitar danos cerebrais.&nbsp;",
+        "position": "3"
+      },
+      {
+        "id": "eaf9595b-151e-49ad-938f-98db6f04cf40",
+        "body": "Assegurar compressões torácicas na profundidade adequada de 2,5 cm.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Considerando a atualização das diretrizes da Ressuscitação Cardiopulmonar Pediátrica (RCP), publicada em 2015, assinale a alternativa correta quanto à recomendação para uma alta qualidade da RCP.",
+    "position": 26,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "3100786148",
+    "alternatives": [
+      {
+        "id": "9efd7bbd-f052-4237-b1d4-74a03e614978",
+        "body": "Massagem cardíaca sincronizada com ventilação em 15:2, adrenalina 1ml diluída em 9ml de AD oferecendo 2,5 ml desta diluição já que se trata de PCR por assistolia.",
+        "position": "0"
+      },
+      {
+        "id": "6b904b10-8c20-42a7-9a9b-f0924a6bc756",
+        "body": "Intubação orotraqueal com cânula 4,5 sem cuff após VPP, midazolam e fentanyl.",
+        "position": "1"
+      },
+      {
+        "id": "ba97ae36-bf94-4f8a-a0da-1984b24c42c3",
+        "body": "Massagem cardíaca sincronizada com ventilação em 15:2, adrenalina 1ml diluída em 9ml de AD oferecendo 2,5 ml desta diluição já que se trata de PCR por fibrilação ventricular.",
+        "position": "2"
+      },
+      {
+        "id": "deb0fb33-4387-4d99-b4c1-32ce5169792c",
+        "body": "Intubação orotraqueal com cânula 9 com cuff após VPP, atropina, midazolam e fentanyl.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Criança de 3 anos, 25 Kg, acaba de chegar ao PSI com quadro de pneumonia grave e com insuficiência respiratória em fase 3 para 4. É oferecido oxigênio e solicitado à Enfermeira acesso venoso para realização de antibióticoterapia, nesse momento ela fica extremamente cianótica, fixando nas pessoas um olhar desesperado e no monitor aparece uma linha reta na monitorização cardíaca. A conduta imediata deve ser:",
+    "position": 27,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "1244290619",
+    "alternatives": [
+      {
+        "id": "4b6105ad-d4f1-4af9-8ffb-82a004892c44",
+        "body": "A administração de lidocaína não está indicada.",
+        "position": "0"
+      },
+      {
+        "id": "d7fc49b5-586e-414f-9434-e0e72fa30ffa",
+        "body": "O tempo de reanimação cardiorrespiratória deve ser de 30 minutos.",
+        "position": "1"
+      },
+      {
+        "id": "fef8f69b-fa3a-437f-a012-9269726784b5",
+        "body": "A manutenção da pressão arterial sistólica acima do percentil 5 para a faixa etária está relacionada com melhora da sobrevida.",
+        "position": "2"
+      },
+      {
+        "id": "3bea266e-0e48-4314-993e-4d3492b0c4cb",
+        "body": "Na desfibrilação não se deve ultrapassar 4 J/Kg.",
+        "position": "3"
+      },
+      {
+        "id": "1c14505b-c2f5-48b1-8ab7-191f24a531c4",
+        "body": "A dose de epinefrina intratraqueal é de 0,01mg/Kg.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Em relação à parada cardiorrespiratória em crianças, indique a alternativa CORRETA.",
+    "position": 28,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "1407831222",
+    "alternatives": null,
+    "answer_type": "DISCURSIVE",
+    "body": "Menino, 8 anos de idade, cai subitamente enquanto participava de partida de futebol na quadra de um clube que possui enfermaria bem equipada para suporte a torneios. Verificou-se que a criança não está responsiva. Considerando as recomendações, atualizadas em 2018, da American Heart Association e da Sociedade Brasileira de Pediatria, para a faixa etária pediátrica, indique duas drogas a serem empregadas, considerando que não houve reversão após desfibrilação.",
+    "position": 29,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "4260011327",
+    "alternatives": [
+      {
+        "id": "a333ff2a-9680-4f75-b917-adf094a07e1b",
+        "body": "Fazer compressões abdominais;",
+        "position": "0"
+      },
+      {
+        "id": "7ca51010-bd47-4656-9350-27d2b9730b1a",
+        "body": "Dar golpes nas costas e fazer compressões torácicas",
+        "position": "1"
+      },
+      {
+        "id": "8c978e3a-f514-43dd-b7df-f5eb4ea25c1a",
+        "body": "Fazer 30 compressões torácicas e 2 ventilações;",
+        "position": "2"
+      },
+      {
+        "id": "af70a277-f29e-4076-963d-ec0e65445b08",
+        "body": "Fazer 15 compressões torácicas e 2 ventilações se houverem 2 socorristas;",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Lactente com suspeita de PCR pós aspiração de corpo estranho, deve-se inicialmente:",
+    "position": 30,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "2920234068",
+    "alternatives": [
+      {
+        "id": "51a66fc5-8cfe-49f7-aa9c-b0004047df0d",
+        "body": "Em se tratando de profissional de saúde no socorro à vítima de PCR, pulso e respiração devem ser checados concomitantemente.",
+        "position": "0"
+      },
+      {
+        "id": "4cec860c-8f4c-4edc-8253-4bc1b5bb98f7",
+        "body": "Se o socorro à vítima de PCR está sendo prestado por um leigo, sozinho, é preferível que o mesmo acione o serviço de emergência antes de iniciar a RCP.",
+        "position": "1"
+      },
+      {
+        "id": "854d9879-83dc-40b0-9fba-1f2deb7ff119",
+        "body": "Se a vítima encontra-se inconsciente, com respiração irregular e pulso acima de 60 batimentos/minuto, o profissional de saúde pode realizar ventilações, sem compressões torácicas, durante 2 minutos, ao fim dos quais deve reavaliar o paciente.",
+        "position": "2"
+      },
+      {
+        "id": "57e564bd-55f7-4fd3-8c4e-f5cf282b3072",
+        "body": "Mesmo na presença de pulso detectável na vítima pediátrica, caso a frequência seja inferior a 60 batimentos/minuto, o profissional de saúde deve realizar compressões torácicas.",
+        "position": "3"
+      },
+      {
+        "id": "941b0e2e-77b9-4712-ab45-5ee1c84cce0f",
+        "body": "A proporção de compressões: ventilações na população pediátrica é de 30:2, quando o socorrista está sozinho, e de 15:2, quando há mais de 1 socorrista proficiente.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Nas Diretrizes de 2010 da American Heart Association (AHA) para ressuscitação cardiopulmonar (RCP) em pediatria, alguns algoritmos foram estabelecidos. Assinale a alternativa que não expressa o que foi exposto por tais Diretrizes.",
+    "position": 31,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "384562351",
+    "alternatives": [
+      {
+        "id": "0b3b11cf-12fb-48c0-81ba-d3572cf5be8e",
+        "body": "Administração de gluconato de cálcio IV ou IO.",
+        "position": "0"
+      },
+      {
+        "id": "0c12462d-88bd-42e0-a4d4-a941c818dc8a",
+        "body": "Administração de epinefrina IV ou IO.",
+        "position": "1"
+      },
+      {
+        "id": "b831bf4b-3591-4512-bccd-df9300b74b22",
+        "body": "Administração de bolus rápido de adenosina IV ou IO.",
+        "position": "2"
+      },
+      {
+        "id": "b4f6afd3-f853-493b-82f9-2820882e4693",
+        "body": "Administração de atropina IV ou IO.",
+        "position": "3"
+      },
+      {
+        "id": "4a3d0d46-8e85-4362-b52f-cd09ae3d1deb",
+        "body": "Administração de sulfato de magnésio IV ou IO.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Um lactente de 5 meses chega ao pronto-socorro com frequência cardíaca de 220 batimentos por minuto, pulsos palpáveis e enchimento capilar de 2 segundos. Levado para a sala de emergência, administrado oxigênio e observado no monitor cardíaco: QRS estreito (&lt; 0,09s), intervalo R-P \"menor ou igual a\" 70ms e intervalo R-R constante. Qual das seguintes opções seria mais adequada?",
+    "position": 32,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "1002255696",
+    "alternatives": [
+      {
+        "id": "2a2031a7-7190-4cec-9fe6-b8c323bd156e",
+        "body": "4,5 com cuff.",
+        "position": "0"
+      },
+      {
+        "id": "03016d5b-79bd-4054-8a2b-432903fde134",
+        "body": "5,0 sem cuff.",
+        "position": "1"
+      },
+      {
+        "id": "a9837074-c383-4566-a4d5-ebae530cebf4",
+        "body": "2,5 sem cuff.",
+        "position": "2"
+      },
+      {
+        "id": "a7a624ae-c5a7-4c5f-b72a-bd02c506cbc7",
+        "body": "5,5 com cuff.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Assinale a alternativa que apresenta o número de canula de intubação orotraqueal MAIS adequado para uma criança de 4 anos de idade:",
+    "position": 33,
+    "selected_alternative_id": null,
+    "labels": [
+      "CANCELED"
+    ]
+  },
+  {
+    "id": "222915091",
+    "alternatives": [
+      {
+        "id": "d3ad28e4-04c4-43a7-8ab1-fe239b46fb15",
+        "body": "A técnica de laringoscopia independe de a lâmina ser reta ou curva.",
+        "position": "0"
+      },
+      {
+        "id": "e757ef67-f374-44f5-b9f8-a387b1736c84",
+        "body": "A extremidade da lâmina reta deve ficar entre a base da língua e a epiglote.",
+        "position": "1"
+      },
+      {
+        "id": "e087c6d1-68bf-4c87-8694-870c5c17aa87",
+        "body": "A extremidade da lâmina curva deve estar entre a epiglote e as cordas vocais.",
+        "position": "2"
+      },
+      {
+        "id": "7cb69048-f7ba-454e-bedc-3650be9b9853",
+        "body": "A lâmina reta é pouco usada, pois impede a realização da manobra de Sellick.",
+        "position": "3"
+      },
+      {
+        "id": "484ca65c-1a2f-4aed-8cf8-894726d552d4",
+        "body": "A lâmina reta é mais apropriada do que a lâmina curva nos neonatos e lactentes.",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Na laringoscopia para tubagem traqueal:",
+    "position": 34,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "827253390",
+    "alternatives": [
+      {
+        "id": "40bda4ea-3b3f-4de5-b222-1b7f8da7daff",
+        "body": "vasoconstricção venosa.",
+        "position": "0"
+      },
+      {
+        "id": "b63836c1-4cde-4fd8-a697-5dac51b7a2f9",
+        "body": "aumento da resistência vascular arterial.&nbsp;",
+        "position": "1"
+      },
+      {
+        "id": "c2918c14-51de-415e-8630-f34f7989b21c",
+        "body": "efeito beta-adrenérgico periférico.",
+        "position": "2"
+      },
+      {
+        "id": "287c3227-287b-4a0a-95ba-4efbf9d55e15",
+        "body": "aumento dos efeitos broncodilatadores.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "A adrenalina quando administrada como terapia na reanimação de parada cardíaca tem como objetivo promover:&nbsp;",
+    "position": 35,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "4252086178",
+    "alternatives": [
+      {
+        "id": "f53e2a3d-ca36-4857-9d5f-4c5722675011",
+        "body": "Respiração boca a boca ou boca-nariz&nbsp;",
+        "position": "0"
+      },
+      {
+        "id": "88d016e6-b392-41c0-9ca3-53f3f1ee4eb8",
+        "body": "Soco precordial",
+        "position": "1"
+      },
+      {
+        "id": "e310b9d6-a316-4dde-a375-3d597df225f3",
+        "body": "Massagem cardíaca externa",
+        "position": "2"
+      },
+      {
+        "id": "c6647385-09ce-46f2-9339-4c2d90d80c7a",
+        "body": "Avaliar responsividade e chamar ajuda",
+        "position": "3"
+      },
+      {
+        "id": "94268e43-ff52-47a3-9c33-a893561e8f63",
+        "body": "Nenhuma das alternativas anteriores",
+        "position": "4"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Paciente de 42 anos, branco, ao realizar caminhada matinal, cai subitamente ao solo e fica imóvel. A primeira conduta é:",
+    "position": 36,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "187817879",
+    "alternatives": [
+      {
+        "id": "eb84fc8d-6727-40ad-926e-655698cce1dc",
+        "body": "Adrenalina.",
+        "position": "0"
+      },
+      {
+        "id": "da1ce9b1-2edd-4859-93b3-d0363d882be7",
+        "body": "Bicarbonato de sódio.",
+        "position": "1"
+      },
+      {
+        "id": "1e9a8022-8897-4b0b-9b04-dbdd227235fb",
+        "body": "Naloxone.",
+        "position": "2"
+      },
+      {
+        "id": "ea0d22da-ba9f-4dc1-be53-a533297451d5",
+        "body": "Atropina.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Na reanimação cardiopulmonar, qual das drogas abaixo NÃO pode ser administrada por via traqueal?",
+    "position": 37,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "240506670",
+    "alternatives": [
+      {
+        "id": "f0cf9fce-c04a-48b8-95f1-d17785e952fb",
+        "body": "Trata-se de taquicardia supraventricular.",
+        "position": "0"
+      },
+      {
+        "id": "4f0b7275-2685-4452-9cab-3605282f632b",
+        "body": "Deve-se iniciar massagem cardíaca e oferecer adenosina rapidamente.",
+        "position": "1"
+      },
+      {
+        "id": "8bf11df2-7045-4766-8de8-4e22856e7cf7",
+        "body": "Trata-se do tipo mais comum de PCR em crianças, é a assistolia.",
+        "position": "2"
+      },
+      {
+        "id": "6db2aef3-67bc-4ef5-b66a-0cb088df68b6",
+        "body": "Devemos realizar desfibrilação.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "Responda qual a alternativa CORRETA sobre o ritmo apresentado:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A7EBD9C0-64F9-F1CC-DEC2-54E858D68B0D/A7EBD9C0-64F9-F1CC-DEC2-54E858D68B0D-400.jpeg\"></div>",
+    "position": 38,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "3004789948",
+    "alternatives": [
+      {
+        "id": "ba4ceb5c-9660-45f5-b3b7-702c5e3f05b7",
+        "body": "Choque hipovolêmico.",
+        "position": "0"
+      },
+      {
+        "id": "5948d0b1-a1d8-433a-8449-0f2945f61a9c",
+        "body": "Mal convulsivo.",
+        "position": "1"
+      },
+      {
+        "id": "5ee6f46b-0e5a-48ac-ab88-79e3202dd928",
+        "body": "Insuficiência renal crônica.",
+        "position": "2"
+      },
+      {
+        "id": "f4b5a85c-d780-432d-9d6c-70d6f4908d81",
+        "body": "Choque séptico.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "A canulação intraóssea é um método relativamente simples e eficaz de estabelecer acesso vascular rapidamente, há indicação formal de realizar este procedimento quando não for possível obter acesso vascular periférico nas situações, EXCETO:",
+    "position": 39,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  },
+  {
+    "id": "3134194065",
+    "alternatives": [
+      {
+        "id": "c46983aa-d442-4a39-9939-f6090ae5e248",
+        "body": "Quando já houve tentativa anterior de estabelecer acesso intraósseo.",
+        "position": "0"
+      },
+      {
+        "id": "19920437-2a53-426a-ace0-0c592a2e4cef",
+        "body": "Em condições com ossos frágeis.",
+        "position": "1"
+      },
+      {
+        "id": "2a090b6d-d746-4cb0-95ba-fe6db738a1f0",
+        "body": "Quando houver necessidade de acesso vascular com rapidez.",
+        "position": "2"
+      },
+      {
+        "id": "73fc65a5-e9fa-4a8e-b540-c7e544f9c0e1",
+        "body": "Quando o paciente estiver em choque hemorrágico.",
+        "position": "3"
+      }
+    ],
+    "answer_type": "MULTIPLE_CHOICE",
+    "body": "É contraindicado o acesso intraósseo:",
+    "position": 40,
+    "selected_alternative_id": null,
+    "labels": [
+      "FINAL_ANSWER_SHEET"
+    ]
+  }
+]
+}

@@ -1,0 +1,2865 @@
+{
+    "data": [
+      {
+        "id": "4000098359",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4b28d042c7064e128c99778d5390f348",
+            "name": "Tratamento Clínico",
+            "is_master": false,
+            "master_id": "ed491a5df3d3414098079b6bb7f9f2df",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Tratamento Clínico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "cc069f604196440a9fa31bca29d934b1",
+            "name": "Tratamento Cirúrgico ",
+            "is_master": false,
+            "master_id": "ed491a5df3d3414098079b6bb7f9f2df",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Tratamento Cirúrgico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f52e6f3d-5048-4e63-87c9-7da647af769d",
+            "position": "0",
+            "body": "<div>hidratação parenteral vigorosa, nutrição parenteral total e antibioticoterapia com ciproflixacina e ampicilina</div>",
+            "sanitized_body": "hidratação parenteral vigorosa, nutrição parenteral total e antibioticoterapia com ciproflixacina e ampicilina",
+            "correct": false,
+            "created_at": "2020-09-15 18:26:13.275338 +0000 UTC",
+            "updated_at": "2020-11-22 15:30:55.394594 +0000 UTC",
+            "topics": [
+              {
+                "id": "4b28d042c7064e128c99778d5390f348",
+                "name": "Tratamento Clínico",
+                "is_master": false,
+                "master_id": "ed491a5df3d3414098079b6bb7f9f2df",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Tratamento Clínico",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. A nutrição parenteral total deve ser evitada por se associar a maior incidência de complicações infecciosas e mortalidade. Ela pode ser utilizada como forma de complementar as calorias necessárias que não sejam totalmente alcançadas por meio da nutrição enteral.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A nutrição parenteral total deve ser evitada por se associar a maior incidência de complicações infecciosas e mortalidade. Ela pode ser utilizada como forma de complementar as calorias necessárias que não sejam totalmente alcançadas por meio da nutrição enteral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:23:56.900104 +0000 UTC",
+              "updated_at": "2020-10-18 10:23:57.490682 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 104
+          },
+          {
+            "id": "c5532b45-40f1-42e8-8b80-3739e9700bb7",
+            "position": "1",
+            "body": "<div>hidratação parenteral vigorosa, antibioticoterapia de amplo espectro e realizar colecistectomia de urgência</div>",
+            "sanitized_body": "hidratação parenteral vigorosa, antibioticoterapia de amplo espectro e realizar colecistectomia de urgência",
+            "correct": false,
+            "created_at": "2020-09-15 18:26:13.275338 +0000 UTC",
+            "updated_at": "2020-11-22 15:30:55.442435 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A colecistectomia imediata não é recomendada no contexto da pancreatite aguda biliar, devendo-se aguardar melhor recuperação clínica da doente. Em pacientes com pancreatite leve, a colecistectomia pode ser realizada com segurança dentro de sete dias após a recuperação, ainda na mesma internação. Em pacientes com pancreatite grave, a colecistectomia deve ser adiada até a inflamação ativa desaparecer e as coleções de fluidas resolverem ou estabilizarem.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A colecistectomia imediata não é recomendada no contexto da pancreatite aguda biliar, devendo-se aguardar melhor recuperação clínica da doente. Em pacientes com pancreatite leve, a colecistectomia pode ser realizada com segurança dentro de sete dias após a recuperação, ainda na mesma internação. Em pacientes com pancreatite grave, a colecistectomia deve ser adiada até a inflamação ativa desaparecer e as coleções de fluidas resolverem ou estabilizarem.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:23:56.887659 +0000 UTC",
+              "updated_at": "2020-10-18 10:23:57.498215 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 300
+          },
+          {
+            "id": "670941be-de80-4523-ad77-fc3e72d74a87",
+            "position": "2",
+            "body": "<div>antibioticoterapia de amplo espectro e realizar colangiopancreatografia retrógrada endoscópica com esfincterotomia.</div>",
+            "sanitized_body": "antibioticoterapia de amplo espectro e realizar colangiopancreatografia retrógrada endoscópica com esfincterotomia.",
+            "correct": true,
+            "created_at": "2020-09-15 18:26:13.275338 +0000 UTC",
+            "updated_at": "2020-11-22 15:30:55.490234 +0000 UTC",
+            "topics": [
+              {
+                "id": "19768b904a724285816ebef612d3e889",
+                "name": "Outros Exames de Imagem",
+                "is_master": false,
+                "master_id": "5607b8749067454890e02625a3939b7a",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Diagnóstico[$$]Outros Exames de Imagem",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "0bde140c19054ac1897a4fb4164ee901",
+                "name": "Antibioticoterapia",
+                "is_master": false,
+                "master_id": "4b28d042c7064e128c99778d5390f348",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Tratamento Clínico[$$]Antibioticoterapia",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Sempre que estamos diante de um paciente com pancreatite aguda biliar associada a colangite ou obstrução do ducto biliar comum, esse paciente deverá ser abordado por CPRE (colangiopancreatografia retrógrada endoscópica) ainda na urgência.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. Sempre que estamos diante de um paciente com pancreatite aguda biliar associada a colangite ou obstrução do ducto biliar comum, esse paciente deverá ser abordado por CPRE (colangiopancreatografia retrógrada endoscópica) ainda na urgência. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:23:56.902974 +0000 UTC",
+              "updated_at": "2020-10-18 10:23:57.489044 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 1931
+          },
+          {
+            "id": "04de9fd4-b386-4311-a634-d3763ea3b08f",
+            "position": "3",
+            "body": "<div>nutrição enteral com cateter posicionado distalmente ao duodeno, antibioticoterapia e proceder a necrosectomia extensa.</div>",
+            "sanitized_body": "nutrição enteral com cateter posicionado distalmente ao duodeno, antibioticoterapia e proceder a necrosectomia extensa.",
+            "correct": false,
+            "created_at": "2020-09-15 18:26:13.275338 +0000 UTC",
+            "updated_at": "2020-11-22 15:30:55.981902 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A indicação de abordagem cirúrgica da necrose pancreática limita-se aos casos de complicação infecciosa cujo tratamento com antibióticos não se mostrou eficaz.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. A indicação de abordagem cirúrgica da necrose pancreática limita-se aos casos de complicação infecciosa cujo tratamento com antibióticos não se mostrou eficaz. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:23:56.903777 +0000 UTC",
+              "updated_at": "2020-10-18 10:23:57.508257 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 232
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 26 anos de idade, obesa e multípara, com passado de dores biliares recorrentes, é atendida no Pronto-Socorro, queixando-se de dor abdominal de início abrupto, de forte intensidade, iniciada há aproximadamente 2 horas. Refere que a dor se localiza no andar superior do abdome, irradiando-se para o dorso, tendo ainda apresentado náuseas e vômitos. Ao exame físico, a paciente mostra-se hipo-hidratada (+/4+) e sente dor à palpação do abdome, que se encontra levemente distendido e com peristalse diminuída e sinal de Murphy ausente. Os exames laboratoriais mostram:  aumento de lipase (370 UI/L; valor de referência: 0 a 160 UI/L); leucócitos = 18.700/mm³ (valor de referência 6.000 a 10.000/mm³); glicose sérica = 230 mg/dL (valor de referência  60 a 110 mg/dL); ALT = 260 UI/L (valor de referência 0 a 35 UI/L). AST = 360 UI/L (valor de referência 0 a 35 UI/L) e desidrogenase tática = 425 UI/L (valor de referência: 88 a 230 UI/L). A paciente é internada na Unidade de Tratamento Intensivo, mas a despeito de ser tratada de forma adequada (pausa alimentar, hidratação venosa, reposição eletrolítica e analgesia parenteral), evolui de forma grave. Após 48 horas, a paciente apresenta piora    da dor abdominal, taquipneia, icterícia (2+/4+), febre elevada (39 ºC) e calafrios. Os  exames complementares realizados nesse dia revelam piora do leucograma, com desvio à esquerda (17% de bastões; valor de referência: 0 a 5 %), queda de 11% do hematócrito e aumento das escórias nitrogenadas, com elevação da ureia sérica de 15 mg/dL em    relação ao exame feito na admissão. Uma tomografia computadorizada dinâmica de abdome revela a presença de necrose pancreática que ocupa cerca de 35% do   parênquima e dilatação significativa das vias biliares extra-hepáticas, com presença de cálculo impactado no colédoco terminal. Nesse caso, o tratamento adequado e imediato para a paciente e instituir",
+        "statement_text": "Uma mulher com 26 anos de idade, obesa e multípara, com passado de dores biliares recorrentes, é atendida no Pronto-Socorro, queixando-se de dor abdominal de início abrupto, de forte intensidade, iniciada há aproximadamente 2 horas. Refere que a dor se localiza no andar superior do abdome, irradiando-se para o dorso, tendo ainda apresentado náuseas e vômitos. Ao exame físico, a paciente mostra-se hipo-hidratada (+/4+) e sente dor à palpação do abdome, que se encontra levemente distendido e com peristalse diminuída e sinal de Murphy ausente. Os exames laboratoriais mostram:  aumento de lipase (370 UI/L; valor de referência: 0 a 160 UI/L); leucócitos = 18.700/mm³ (valor de referência 6.000 a 10.000/mm³); glicose sérica = 230 mg/dL (valor de referência  60 a 110 mg/dL); ALT = 260 UI/L (valor de referência 0 a 35 UI/L). AST = 360 UI/L (valor de referência 0 a 35 UI/L) e desidrogenase tática = 425 UI/L (valor de referência: 88 a 230 UI/L). A paciente é internada na Unidade de Tratamento Intensivo, mas a despeito de ser tratada de forma adequada (pausa alimentar, hidratação venosa, reposição eletrolítica e analgesia parenteral), evolui de forma grave. Após 48 horas, a paciente apresenta piora    da dor abdominal, taquipneia, icterícia (2+/4+), febre elevada (39 ºC) e calafrios. Os  exames complementares realizados nesse dia revelam piora do leucograma, com desvio à esquerda (17% de bastões; valor de referência: 0 a 5 %), queda de 11% do hematócrito e aumento das escórias nitrogenadas, com elevação da ureia sérica de 15 mg/dL em    relação ao exame feito na admissão. Uma tomografia computadorizada dinâmica de abdome revela a presença de necrose pancreática que ocupa cerca de 35% do   parênquima e dilatação significativa das vias biliares extra-hepáticas, com presença de cálculo impactado no colédoco terminal. Nesse caso, o tratamento adequado e imediato para a paciente e instituir",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "148a3e7e42c7dcfece2c7b984b83ecdb",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-15 18:26:13.275338 +0000 UTC",
+        "forum_id": "d9e83242-a676-4324-8e45-73dcbc464339",
+        "solution": {
+          "_key": "34906ba8-f174-46d6-bf1d-e30b4a4ccb8e",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Estamos diante de paciente com PANCREATITE AGUDA (quadro clínico típico + exame de imagem compatível) que evolui com piora clínica evidente associada a leucocitose e cálculo impactado no colédoco terminal com dilatação das vias bilires extra-hepáticas. Nesse caso, já sabemos a causa da pancreatite: a litíase biliar.</div><div><br><div>O autor nos questiona qual seria a conduta adequada para o caso.</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CEstamos diante de paciente com PANCREATITE AGUDA (quadro clínico típico + exame de imagem compatível) que evolui com piora clínica evidente associada a leucocitose e cálculo impactado no colédoco terminal com dilatação das vias bilires extra-hepáticas. Nesse caso, já sabemos a causa da pancreatite: a litíase biliar.O autor nos questiona qual seria a conduta adequada para o caso.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 10:23:57.025995 +0000 UTC",
+          "updated_at": "2020-10-18 10:23:57.755785 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000098359-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-26-anos313296c550d",
+        "public": true
+      },
+      {
+        "id": "4000049790",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2646d1ee212f4449aef998477954d4f2",
+            "name": "Exames Endoscópicos",
+            "is_master": false,
+            "master_id": "6e8b8cfe8e424446a4fd072d8722477b",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Doença Inflamatória Intestinal[$$]Diagnóstico[$$]Exames Endoscópicos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c0d334f8-1663-4cd4-a58d-a31635d6017c",
+            "position": "0",
+            "body": "Colonoscopia.",
+            "sanitized_body": "Colonoscopia.",
+            "correct": true,
+            "created_at": "2020-09-12 14:31:15.702806 +0000 UTC",
+            "updated_at": "2020-11-21 10:41:32.48361 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A colonoscopia é excelente no contexto da doença de Crohn, permitindo avaliação de reto, cólon e íleo terminal. Excelente para visualização do lúmen, das alterações na mucosa e para biópsia das áreas lesadas visando a confirmação diagnóstica.<div><br></div>",
+              "sanitized_complete": "CORRETA. A colonoscopia é excelente no contexto da doença de Crohn, permitindo avaliação de reto, cólon e íleo terminal. Excelente para visualização do lúmen, das alterações na mucosa e para biópsia das áreas lesadas visando a confirmação diagnóstica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:15:19.947215 +0000 UTC",
+              "updated_at": "2020-10-16 14:15:20.684405 +0000 UTC"
+            },
+            "answer_percentage": 71,
+            "answers": 2001
+          },
+          {
+            "id": "a1e7d558-500b-4b26-824d-ad7b46586eaf",
+            "position": "1",
+            "body": "Enema baritado.",
+            "sanitized_body": "Enema baritado.",
+            "correct": false,
+            "created_at": "2020-09-12 14:31:15.702806 +0000 UTC",
+            "updated_at": "2020-11-21 10:41:32.536831 +0000 UTC",
+            "topics": [
+              {
+                "id": "582a9a8b72ba428f9c42202737b72667",
+                "name": "Exames Radiológicos",
+                "is_master": false,
+                "master_id": "6e8b8cfe8e424446a4fd072d8722477b",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Doença Inflamatória Intestinal[$$]Diagnóstico[$$]Exames Radiológicos",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. O enema baritado consiste na ingestão de um líquido (contraste de bário) e, a seguir, radiografias seriadas são realizadas de maneira intervalar. É um exame demorado, pois é necessário que o contraste percorra todo o trato gastrointestinal. Nos grandes centros, esse exame vem sendo substituído por tomografias computadorizadas e ressonâncias magnéticas com enterografia. No contexto das doenças inflamatórias intestinais, é útil na visualização de estenoses, porém não é exame de escolha para o diagnóstico.<div><br></div>",
+              "sanitized_complete": "INCORRETA. O enema baritado consiste na ingestão de um líquido (contraste de bário) e, a seguir, radiografias seriadas são realizadas de maneira intervalar. É um exame demorado, pois é necessário que o contraste percorra todo o trato gastrointestinal. Nos grandes centros, esse exame vem sendo substituído por tomografias computadorizadas e ressonâncias magnéticas com enterografia. No contexto das doenças inflamatórias intestinais, é útil na visualização de estenoses, porém não é exame de escolha para o diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:15:19.951238 +0000 UTC",
+              "updated_at": "2020-10-16 14:15:20.675475 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 36
+          },
+          {
+            "id": "d987bdb1-90a2-4428-99e0-5b6112141419",
+            "position": "2",
+            "body": "Ultrassonografia de abdome.",
+            "sanitized_body": "Ultrassonografia de abdome.",
+            "correct": false,
+            "created_at": "2020-10-02 18:55:56.94698 +0000 UTC",
+            "updated_at": "2020-11-21 10:41:32.629018 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. O ultrassom de abdome não permitirá a avaliação do tubo digestivo pela sua porção luminal e, portanto, não é exame de escolha para o caso.<div><br></div>",
+              "sanitized_complete": "INCORRETA. O ultrassom de abdome não permitirá a avaliação do tubo digestivo pela sua porção luminal e, portanto, não é exame de escolha para o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:15:19.956011 +0000 UTC",
+              "updated_at": "2020-10-16 14:15:20.690524 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 412
+          },
+          {
+            "id": "207e2f2e-2be0-4aea-b670-b97892a95941",
+            "position": "3",
+            "body": "Pesquisa de anticorpos antiendomísio e  antigliadina.",
+            "sanitized_body": "Pesquisa de anticorpos antiendomísio e  antigliadina.",
+            "correct": false,
+            "created_at": "2020-10-02 18:55:56.981912 +0000 UTC",
+            "updated_at": "2020-11-21 10:41:32.681818 +0000 UTC",
+            "topics": [
+              {
+                "id": "e279d5b1ce9c46f9a0a9509de476a019",
+                "name": "Diagnóstico",
+                "is_master": false,
+                "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Diagnóstico",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Tais anticorpos são úteis na suspeita de doença celíaca.<div>Gabarito: Alternativa A</div><div><br></div>",
+              "sanitized_complete": "INCORRETA. Tais anticorpos são úteis na suspeita de doença celíaca.Gabarito: Alternativa A",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:15:19.962014 +0000 UTC",
+              "updated_at": "2020-10-16 14:15:20.697018 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 358
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 18 anos de idade é encaminhado à consulta no ambulatório de medicina interna por estar com diarreia há mais de 4 semanas acompanhada de dor abdominal, febre intermitente, perda de peso e hematoquezia ocasional. Ao exame físico, o paciente mostra-se emagrecido e sente dor à palpação profunda de fossa ilíaca direita, onde uma massa abdominal é palpada. Apresenta resultado de hemograma realizado na unidade básica de saúde com hematócrito = 36% (valor de referência: 39 a 49%), sem leucocitose, sendo a velocidade de hemossedimentação = 30 mm na primeira hora. O resultado do exame parasitológico de fezes é negativo. Nessa situação, qual deve ser o próximo exame a ser solicitado ao paciente?",
+        "statement_text": "Um homem com 18 anos de idade é encaminhado à consulta no ambulatório de medicina interna por estar com diarreia há mais de 4 semanas acompanhada de dor abdominal, febre intermitente, perda de peso e hematoquezia ocasional. Ao exame físico, o paciente mostra-se emagrecido e sente dor à palpação profunda de fossa ilíaca direita, onde uma massa abdominal é palpada. Apresenta resultado de hemograma realizado na unidade básica de saúde com hematócrito = 36% (valor de referência: 39 a 49%), sem leucocitose, sendo a velocidade de hemossedimentação = 30 mm na primeira hora. O resultado do exame parasitológico de fezes é negativo. Nessa situação, qual deve ser o próximo exame a ser solicitado ao paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "626146ad14e7af2c191e4e998f369ebe",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 14:31:15.702806 +0000 UTC",
+        "forum_id": "f922588f-ca9e-459b-9a6f-4269811332cf",
+        "solution": {
+          "_key": "c21fb866-f122-49c7-80ba-b962820265bc",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Estamos diante de paciente JOVEM com DIARREIA CRÔNICA (&gt; 4 semanas) associada a FEBRE, PERDA DE PESO, SANGRAMENTO e ANEMIA. No exame físico, apresenta massa na fossa ilíaca direita. Qual o provável diagnóstico para o caso?! DOENÇA DE CROHN!</div><div><br><div>A doença de Crohn é <b>doença inflamatória intestinal que cursa com acometimento transmural da parede de qualquer porção do trato gastrointestinal (da boca ao ânus). Classicamente, cursa com diarreia crônica que pode ser associada a muco e sangue, todavia essa doença poderá apresentar nuances em sua apresentação clínica a depender do local de acometimento. Frequentemente, a doença de Crohn atinge o íleo terminal, podendo gerar massa palpável nessa topografia (justamente na fossa ilíaca direita, tal qual o caso em questão).&nbsp;</b></div><div><br></div><div>E qual o melhor exame para diagnóstico dessa condição?</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AEstamos diante de paciente JOVEM com DIARREIA CRÔNICA (&gt; 4 semanas) associada a FEBRE, PERDA DE PESO, SANGRAMENTO e ANEMIA. No exame físico, apresenta massa na fossa ilíaca direita. Qual o provável diagnóstico para o caso?! DOENÇA DE CROHN!A doença de Crohn é doença inflamatória intestinal que cursa com acometimento transmural da parede de qualquer porção do trato gastrointestinal (da boca ao ânus). Classicamente, cursa com diarreia crônica que pode ser associada a muco e sangue, todavia essa doença poderá apresentar nuances em sua apresentação clínica a depender do local de acometimento. Frequentemente, a doença de Crohn atinge o íleo terminal, podendo gerar massa palpável nessa topografia (justamente na fossa ilíaca direita, tal qual o caso em questão). E qual o melhor exame para diagnóstico dessa condição?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 14:15:20.132437 +0000 UTC",
+          "updated_at": "2020-10-16 14:15:20.766447 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000049790-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-18-anos115155e996b",
+        "public": true
+      },
+      {
+        "id": "4000127006",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "144664e9c08c456aaba8af6a4a9b763e",
+            "name": "Amilase",
+            "is_master": false,
+            "master_id": "5607b8749067454890e02625a3939b7a",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Diagnóstico[$$]Amilase",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d7948bded94f495cb25d76e1029666fc",
+            "name": "Fatores de Risco para Doença Grave",
+            "is_master": false,
+            "master_id": "863896d16c81471790bf232232a875d6",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Avaliação da Gravidade[$$]Fatores de Risco para Doença Grave",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f4e15790-33d4-47e2-8d20-d0663462ce0c",
+            "position": "0",
+            "body": "Obesidade e elevação da ureia.",
+            "sanitized_body": "Obesidade e elevação da ureia.",
+            "correct": true,
+            "created_at": "2020-09-25 04:10:45.028404 +0000 UTC",
+            "updated_at": "2020-11-23 10:07:35.268656 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A obesidade (IMC > 30 kg/m2) é fator de risco independente para gravidade da pancreatite aguda. Uréia > 50 mg/dL também é considerada fator de mau prognóstico na pancreatite aguda segundo critério BISAP.<div><br></div>",
+              "sanitized_complete": "CORRETA. A obesidade (IMC &gt; 30 kg/m2) é fator de risco independente para gravidade da pancreatite aguda. Uréia &gt; 50 mg/dL também é considerada fator de mau prognóstico na pancreatite aguda segundo critério BISAP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:22:26.842427 +0000 UTC",
+              "updated_at": "2021-08-11 02:33:24.593575 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 1265
+          },
+          {
+            "id": "bba1f107-9c5b-4a54-bc0c-ddae3f6955e6",
+            "position": "1",
+            "body": "Taquicardia e elevação da amilase.",
+            "sanitized_body": "Taquicardia e elevação da amilase.",
+            "correct": false,
+            "created_at": "2020-09-25 04:10:45.028404 +0000 UTC",
+            "updated_at": "2020-11-23 10:07:35.351635 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A elevação da amilase tem importância DIAGNÓSTICA, porém não PROGNÓSTICA na pancreatite aguda.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A elevação da amilase tem importância DIAGNÓSTICA, porém não PROGNÓSTICA na pancreatite aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:22:26.839373 +0000 UTC",
+              "updated_at": "2021-08-11 02:33:24.629307 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 327
+          },
+          {
+            "id": "35f3671d-b4a4-4037-a3ac-f70a4a5d1247",
+            "position": "2",
+            "body": "Sexo feminino e elevação das bilirrubinas.",
+            "sanitized_body": "Sexo feminino e elevação das bilirrubinas.",
+            "correct": false,
+            "created_at": "2020-09-25 04:10:45.028404 +0000 UTC",
+            "updated_at": "2020-11-23 10:07:35.432769 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Sexo feminino e bilirrubinas não são considerados fatores de mau prognóstico na pancreatite aguda.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Sexo feminino e bilirrubinas não são considerados fatores de mau prognóstico na pancreatite aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:22:26.8425 +0000 UTC",
+              "updated_at": "2021-08-11 02:33:24.591688 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 61
+          },
+          {
+            "id": "c358f660-8242-4efb-ad4e-26acced326dc",
+            "position": "3",
+            "body": "Dor abdominal intensa e elevação da glicemia.",
+            "sanitized_body": "Dor abdominal intensa e elevação da glicemia.",
+            "correct": false,
+            "created_at": "2020-09-25 04:10:45.028404 +0000 UTC",
+            "updated_at": "2020-11-23 10:07:35.565931 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Dor abdominal não é critério de gravidade na pancreatite aguda, mas sim critério diagnóstico. A elevação da glicemia é critério de mau prognóstico segundo Ranson quando assume valores > 200 mg/dL na pancreatite aguda de etiologia não biliar ou > 220 mg/dL na pancreatite aguda biliar.<div><br><div>Gabarito: Alternativa A</div><div><br></div></div>",
+              "sanitized_complete": "INCORRETA. Dor abdominal não é critério de gravidade na pancreatite aguda, mas sim critério diagnóstico. A elevação da glicemia é critério de mau prognóstico segundo Ranson quando assume valores &gt; 200 mg/dL na pancreatite aguda de etiologia não biliar ou &gt; 220 mg/dL na pancreatite aguda biliar.Gabarito: Alternativa A",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:22:26.842883 +0000 UTC",
+              "updated_at": "2021-08-11 02:33:24.611629 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 240
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher, com 76 anos de idade, apresenta antecedentes de hipertensão arterial, dislipidemia e obesidade, e faz uso de enalapril -20 mg/dia e sinvastatina -20 mg/dia. A paciente deu entrada no Pronto-Socorro com quadro de dor abdominal de início súbito  há cerca de sete horas, de forte intensidade, em região epigástrica, com irradiação para o dorso, sem relação com a alimentação e acompanhada por náuseas e vômitos. Refere haver leve melhora da dor com inclinação do corpo para frente. Na admissão hospitalar estava consciente, orientada, anictérica, com palidez cutâneo-mucosa. Temperatura axilar = 36 °C, pressão arterial = 100 x 60 mmHg, frequência cardíaca = 105 bpm, frequência respiratória = 18 irpm, índice de massa corporal = 34,2 kg/m² (valor de referência = até   30 kg/m²). As auscultas cardíacas e pulmonar não demonstram alterações. Abdome   obeso, muito doloroso à palpação superficial e profunda em epigástrio, sem massas ou organomegalias palpáveis. Ruídos hidroaéreos ausentes . Não havia edema de membros inferiores. Os exames laboratoriais iniciais revelaram: Leucócitos = 14.500/mm³ (Valor de referência: 4.500 a 11.000/mm³), com 84% de segmentados, 0% de eosinófilos, 10% de linfócitos); hemoglobina = 13,0 g/dl ( Valor de referência 12-16 g/dl); hematócritos = 39% (Valor de referência: 36% - 46%); plaquetas = 231.000/mm³ (Valor de referência: 150.000 - 350.000/mm³); glicemia = 106 mg/dl (Valor de referência: 80 - 100/mg/dl); ureia = 70 mg/dl(Valor de referência: 20 - 35/mg/dl); Creatinina = 1,2 mg/dl (Valor de referência: 0,8 - 1,2 mg/dl); amilase = 2560 U/L (Valor de referência: 4 - 400 U/L); AST = 26 U/L (Valor de referência: &lt; 35 U/L); ALT = 31 U/L (Valor de referência: &lt; 35 U/L); bilirrubina total = 1,5 mg/dl (Valor de referência: 0,3 - 1,2 mg/dl); bilirrubina direta = 0,4 mg/dl (Valor de referência: &lt; 0,2 mg/dl); bilirrubina indireta = 0,8 mg/dl (Valor de referência: &lt; 1,0 mg/dl); LDH = 200 U/L (Valor de referência: 135-214 U/L). Considerando o diagnóstico da  paciente, assinale a alternativa que contém critérios clínicos e/ou laboratoriais de maior gravidade e pior prognóstico que sugerem a necessidade de internação em Unidade de Tratamento Intensivo.",
+        "statement_text": "Uma mulher, com 76 anos de idade, apresenta antecedentes de hipertensão arterial, dislipidemia e obesidade, e faz uso de enalapril -20 mg/dia e sinvastatina -20 mg/dia. A paciente deu entrada no Pronto-Socorro com quadro de dor abdominal de início súbito  há cerca de sete horas, de forte intensidade, em região epigástrica, com irradiação para o dorso, sem relação com a alimentação e acompanhada por náuseas e vômitos. Refere haver leve melhora da dor com inclinação do corpo para frente. Na admissão hospitalar estava consciente, orientada, anictérica, com palidez cutâneo-mucosa. Temperatura axilar = 36 °C, pressão arterial = 100 x 60 mmHg, frequência cardíaca = 105 bpm, frequência respiratória = 18 irpm, índice de massa corporal = 34,2 kg/m² (valor de referência = até   30 kg/m²). As auscultas cardíacas e pulmonar não demonstram alterações. Abdome   obeso, muito doloroso à palpação superficial e profunda em epigástrio, sem massas ou organomegalias palpáveis. Ruídos hidroaéreos ausentes . Não havia edema de membros inferiores. Os exames laboratoriais iniciais revelaram: Leucócitos = 14.500/mm³ (Valor de referência: 4.500 a 11.000/mm³), com 84% de segmentados, 0% de eosinófilos, 10% de linfócitos); hemoglobina = 13,0 g/dl ( Valor de referência 12-16 g/dl); hematócritos = 39% (Valor de referência: 36% - 46%); plaquetas = 231.000/mm³ (Valor de referência: 150.000 - 350.000/mm³); glicemia = 106 mg/dl (Valor de referência: 80 - 100/mg/dl); ureia = 70 mg/dl(Valor de referência: 20 - 35/mg/dl); Creatinina = 1,2 mg/dl (Valor de referência: 0,8 - 1,2 mg/dl); amilase = 2560 U/L (Valor de referência: 4 - 400 U/L); AST = 26 U/L (Valor de referência: &lt; 35 U/L); ALT = 31 U/L (Valor de referência: &lt; 35 U/L); bilirrubina total = 1,5 mg/dl (Valor de referência: 0,3 - 1,2 mg/dl); bilirrubina direta = 0,4 mg/dl (Valor de referência: &lt; 0,2 mg/dl); bilirrubina indireta = 0,8 mg/dl (Valor de referência: &lt; 1,0 mg/dl); LDH = 200 U/L (Valor de referência: 135-214 U/L). Considerando o diagnóstico da  paciente, assinale a alternativa que contém critérios clínicos e/ou laboratoriais de maior gravidade e pior prognóstico que sugerem a necessidade de internação em Unidade de Tratamento Intensivo.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 04:10:45.028404 +0000 UTC",
+        "forum_id": "0c0ef59b-5556-436c-b0fe-0dd930bb6673",
+        "solution": {
+          "_key": "9dafbe6c-2d63-4f3c-a584-4945564659fa",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Apesar do caso clínico extenso, podemos resumi-lo da seguinte maneira: mulher com dor epigástrica aguda associada a náuseas e vômitos e com irradiação para dorso cujos exames laboratoriais revelaram aumento de amilase mais de 3x o valor de referência. Com essa simplificação, fica claro que estamos diante de um caso de PANCREATITE AGUDA. Isso porque, para diagnóstico de pancreatite aguda, o doente deverá preencher dois dos três seguintes critérios:</div><div><br><div>- Dor abdominal quadrante superior associado a náuseas e vômitos</div><div>- Aumento de amilase e/ou lipase acima de 3x o limite superior da normalidade</div><div>- Alterações típicas de pancreatite aguda nos exames de imagem</div><div><br></div><div>Qual dos achados descritos no caso apontam para uma doente com maior potencial de evolução grave, motivando a sua internação em UTI?!</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AApesar do caso clínico extenso, podemos resumi-lo da seguinte maneira: mulher com dor epigástrica aguda associada a náuseas e vômitos e com irradiação para dorso cujos exames laboratoriais revelaram aumento de amilase mais de 3x o valor de referência. Com essa simplificação, fica claro que estamos diante de um caso de PANCREATITE AGUDA. Isso porque, para diagnóstico de pancreatite aguda, o doente deverá preencher dois dos três seguintes critérios:- Dor abdominal quadrante superior associado a náuseas e vômitos- Aumento de amilase e/ou lipase acima de 3x o limite superior da normalidade- Alterações típicas de pancreatite aguda nos exames de imagemQual dos achados descritos no caso apontam para uma doente com maior potencial de evolução grave, motivando a sua internação em UTI?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 10:22:26.954728 +0000 UTC",
+          "updated_at": "2021-08-11 02:33:24.925063 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127006-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-76-anos352386ded93",
+        "public": true
+      },
+      {
+        "id": "4000126773",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a1270a7b597a43a6b9f3260c087106bd",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e279d5b1ce9c46f9a0a9509de476a019",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3bbb546b-7ff5-44d3-9cbe-701a1bcbc55c",
+            "position": "0",
+            "body": "realizar pesquisa (dosagem) de gordura fecal e, se anormal, considerar a realização de biópsia de intestino delgado pela possibilidade de doença celíaca.",
+            "sanitized_body": "realizar pesquisa (dosagem) de gordura fecal e, se anormal, considerar a realização de biópsia de intestino delgado pela possibilidade de doença celíaca.",
+            "correct": true,
+            "created_at": "2020-09-24 23:00:20.248881 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:58.346075 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A doença celíaca é doença autoimune induzida pelo glúten sendo importante causa de diarreia crônica em jovens. Clinicamente, se manifesta como diarreia disabsortiva, sendo acompanhada de esteatorreia. Perda de peso, anemia e hipovitaminoses estão associadas. O diagnóstico é feito por meio da biópsia do duodeno por endoscopia digestiva alta.<div><br></div>",
+              "sanitized_complete": "CORRETA. A doença celíaca é doença autoimune induzida pelo glúten sendo importante causa de diarreia crônica em jovens. Clinicamente, se manifesta como diarreia disabsortiva, sendo acompanhada de esteatorreia. Perda de peso, anemia e hipovitaminoses estão associadas. O diagnóstico é feito por meio da biópsia do duodeno por endoscopia digestiva alta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:16:09.813802 +0000 UTC",
+              "updated_at": "2020-10-16 14:16:10.351845 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 928
+          },
+          {
+            "id": "1d8adbd6-eda6-4d7e-82b8-de8e9f8700d3",
+            "position": "1",
+            "body": "realizar tomografia computadorizada de abdome para avaliar a ocorrência de calcificações pancreáticas e determinar o diagnóstico de pancreatite crônica.",
+            "sanitized_body": "realizar tomografia computadorizada de abdome para avaliar a ocorrência de calcificações pancreáticas e determinar o diagnóstico de pancreatite crônica.",
+            "correct": false,
+            "created_at": "2020-09-24 23:00:20.248881 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:58.489941 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora a pancreatite crônica possa evoluir com insuficiência pancreática exócrina e quadro de diarreia crônica disabsortiva, o paciente é jovem e sem fatores de risco para pancreatite crônica, tornando o diagnóstico menos provável.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora a pancreatite crônica possa evoluir com insuficiência pancreática exócrina e quadro de diarreia crônica disabsortiva, o paciente é jovem e sem fatores de risco para pancreatite crônica, tornando o diagnóstico menos provável.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:16:09.800548 +0000 UTC",
+              "updated_at": "2020-10-16 14:16:10.350972 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          },
+          {
+            "id": "2ffde74e-0d2e-4ae0-bb24-864e2851cf1a",
+            "position": "2",
+            "body": "realizar colonoscopia com biópsias de intestino devido à possibilidade de doença inflamatória intestinal, como a retocolite ulcerativa.",
+            "sanitized_body": "realizar colonoscopia com biópsias de intestino devido à possibilidade de doença inflamatória intestinal, como a retocolite ulcerativa.",
+            "correct": false,
+            "created_at": "2020-09-24 23:00:20.248881 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:58.646328 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A doença inflamatória intestinal é importante causa de diarreia crônica em jovens, causando anemia e perda de peso. No entanto, caracteristicamente causa diarreia com sangue e muco (inflamatória).<div><br></div>",
+              "sanitized_complete": "INCORRETA. A doença inflamatória intestinal é importante causa de diarreia crônica em jovens, causando anemia e perda de peso. No entanto, caracteristicamente causa diarreia com sangue e muco (inflamatória).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:16:09.80182 +0000 UTC",
+              "updated_at": "2020-10-16 14:16:10.361493 +0000 UTC"
+            },
+            "answer_percentage": 27,
+            "answers": 380
+          },
+          {
+            "id": "b6118072-06d4-43b2-b246-eb93d1e3d977",
+            "position": "3",
+            "body": "realizar dosagens de hormônio estimulador da tireoide (TSH) e de T4 livre para avaliar a possibilidade de hipertireoidismo.",
+            "sanitized_body": "realizar dosagens de hormônio estimulador da tireoide (TSH) e de T4 livre para avaliar a possibilidade de hipertireoidismo.",
+            "correct": false,
+            "created_at": "2020-09-24 23:00:20.248881 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:58.817696 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. De fato, entre as manifestações clínicas do hipertireoidismo, estão a diarreia, sudorese excessiva, taquicardia, insônia, perda ponderal, fadiga etc. Todavia, a diarreia associada ao hipertireoidismo é do tipo motora e não disabsortiva.",
+              "sanitized_complete": "INCORRETA. De fato, entre as manifestações clínicas do hipertireoidismo, estão a diarreia, sudorese excessiva, taquicardia, insônia, perda ponderal, fadiga etc. Todavia, a diarreia associada ao hipertireoidismo é do tipo motora e não disabsortiva.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:16:09.801905 +0000 UTC",
+              "updated_at": "2020-10-16 14:16:10.399155 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 63
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 25 anos de idade é encaminhado pela Unidade de Saúde da    Família do seu bairro para avaliação no Ambulatório de Clínica Médica por apresentar quadro de diarreia não acompanhada de cólicas há 5 meses, com três a quatro   evacuações ao dia, em grande quantidade, sem presença de muco ou sangue. O paciente refere perda de 15 kg nesse período, sem que tenha modificado a sua dieta ou apresentado mudança de apetite. O paciente trouxe à consulta cinco exames protoparasitológicos das fezes realizados nesse período, sendo que o primeiro  demonstrou a presença de tricocéfalos, o que motivou tratamento, por duas vezes, com albendazol durante 3 dias, sem melhora do quadro. O paciente apresentou igualmente hemogramas que demonstravam anemia hipocrômica, microcítica, com anisocitose, sem alteração nas séries branca ou megacariocítica. A investigação complementar indicada e o diagnóstico são:",
+        "statement_text": "Um paciente com 25 anos de idade é encaminhado pela Unidade de Saúde da    Família do seu bairro para avaliação no Ambulatório de Clínica Médica por apresentar quadro de diarreia não acompanhada de cólicas há 5 meses, com três a quatro   evacuações ao dia, em grande quantidade, sem presença de muco ou sangue. O paciente refere perda de 15 kg nesse período, sem que tenha modificado a sua dieta ou apresentado mudança de apetite. O paciente trouxe à consulta cinco exames protoparasitológicos das fezes realizados nesse período, sendo que o primeiro  demonstrou a presença de tricocéfalos, o que motivou tratamento, por duas vezes, com albendazol durante 3 dias, sem melhora do quadro. O paciente apresentou igualmente hemogramas que demonstravam anemia hipocrômica, microcítica, com anisocitose, sem alteração nas séries branca ou megacariocítica. A investigação complementar indicada e o diagnóstico são:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 23:00:20.248881 +0000 UTC",
+        "solution": {
+          "_key": "4508cf41-bfe5-4db4-a14a-7eb9f5088c45",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Estamos diante de paciente JOVEM com quadro de DIARREIA CRÔNICA (&gt; 4 semanas) SEM SANGUE OU MUCO associada a PERDA PONDERAL e ANEMIA. Em casos como esse, é necessária uma adequada investigação do doente a fim de descobrir a causa da doença diarreica. Tendo em vista tal cenário, o autor nos questiona qual alternativa correta.<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AEstamos diante de paciente JOVEM com quadro de DIARREIA CRÔNICA (&gt; 4 semanas) SEM SANGUE OU MUCO associada a PERDA PONDERAL e ANEMIA. Em casos como esse, é necessária uma adequada investigação do doente a fim de descobrir a causa da doença diarreica. Tendo em vista tal cenário, o autor nos questiona qual alternativa correta.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 14:16:10.012768 +0000 UTC",
+          "updated_at": "2020-10-16 14:16:10.495009 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126773-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-25-anos1455e9f282f",
+        "public": true
+      },
+      {
+        "id": "4000126765",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ff972c7d81804997a75bb307b217ca0c",
+            "name": "Exames Endoscópicos",
+            "is_master": false,
+            "master_id": "4094381c4a614dbc9e28ae1429109077",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Diagnóstico[$$]Exames Endoscópicos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "dbc99116-053f-4d7f-962b-7ef5d2a42009",
+            "position": "0",
+            "body": "Receitar acréscimo de fibras na dieta e líquidos (2.500 ml/dia) e retorno após um mês para verificar se o quadro está normalizado.",
+            "sanitized_body": "Receitar acréscimo de fibras na dieta e líquidos (2.500 ml/dia) e retorno após um mês para verificar se o quadro está normalizado.",
+            "correct": false,
+            "created_at": "2020-09-24 22:35:23.912024 +0000 UTC",
+            "updated_at": "2020-11-09 13:00:51.280942 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A simples orientação de acréscimo de fibra e aumento da ingestão hídrica deveria ser feita para pacientes com constipação funcional. O paciente, no entanto, apresenta PERDA DE PESO e AFILAMENTO DAS FEZES, o que levanta a bandeira para a possibilidade de causa orgânica para a queixa do doente, exigindo melhor investigação.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A simples orientação de acréscimo de fibra e aumento da ingestão hídrica deveria ser feita para pacientes com constipação funcional. O paciente, no entanto, apresenta PERDA DE PESO e AFILAMENTO DAS FEZES, o que levanta a bandeira para a possibilidade de causa orgânica para a queixa do doente, exigindo melhor investigação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 12:20:08.980128 +0000 UTC",
+              "updated_at": "2020-10-16 12:20:09.453612 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 84
+          },
+          {
+            "id": "72a70950-55a5-444f-a2dc-518bc183d316",
+            "position": "1",
+            "body": "Receitar acréscimo de fibras na dieta e líquidos (2.500 ml/dia) e solicitar ultrassom, uma vez que o exame proctológico foi negativo.",
+            "sanitized_body": "Receitar acréscimo de fibras na dieta e líquidos (2.500 ml/dia) e solicitar ultrassom, uma vez que o exame proctológico foi negativo.",
+            "correct": false,
+            "created_at": "2020-09-24 22:35:23.912024 +0000 UTC",
+            "updated_at": "2020-11-09 13:00:51.354714 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Diante de paciente &gt; 50 anos com alteração no hábito intestinal associada a afilamento de fezes e perda de peso, deveremos pensar em câncer colorretal. O exame proctocológico é útil na detecção de 50% dos cânceres de reto e sigmoide, entretanto não cobre 100%. A ultrassonografia de abdome não é exame útil na investigação de câncer colorretal, o que invalida essa assertiva.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Diante de paciente &gt; 50 anos com alteração no hábito intestinal associada a afilamento de fezes e perda de peso, deveremos pensar em câncer colorretal. O exame proctocológico é útil na detecção de 50% dos cânceres de reto e sigmoide, entretanto não cobre 100%. A ultrassonografia de abdome não é exame útil na investigação de câncer colorretal, o que invalida essa assertiva.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 12:20:08.993313 +0000 UTC",
+              "updated_at": "2020-10-16 12:20:09.478365 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 30
+          },
+          {
+            "id": "82ee2616-ad8b-4876-b8a4-bd95ae8122a1",
+            "position": "2",
+            "body": "O tratamento não é dietético; solicitar diretamente uma colonoscopia, pois o paciente apresenta suspeita diagnóstica que justifica a realização do exame.",
+            "sanitized_body": "O tratamento não é dietético; solicitar diretamente uma colonoscopia, pois o paciente apresenta suspeita diagnóstica que justifica a realização do exame.",
+            "correct": true,
+            "created_at": "2020-09-24 22:35:23.912024 +0000 UTC",
+            "updated_at": "2020-11-09 13:00:51.461915 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. Diante de ALTERAÇÃO DO HÁBITO INTESTINAL, PERDA DE PESO e AFILAMENTO FECAL, devemos pensar em câncer colorretal e o exame padrão-ouro para tal fim é a colonoscopia. A colonoscopia permite a visualização do reto e todo cólon, além de possibilitar a realização de biópsia nas lesões suspeitas.<div><br></div><div><br></div>",
+              "sanitized_complete": "CORRETA. Diante de ALTERAÇÃO DO HÁBITO INTESTINAL, PERDA DE PESO e AFILAMENTO FECAL, devemos pensar em câncer colorretal e o exame padrão-ouro para tal fim é a colonoscopia. A colonoscopia permite a visualização do reto e todo cólon, além de possibilitar a realização de biópsia nas lesões suspeitas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 12:20:08.98583 +0000 UTC",
+              "updated_at": "2020-10-16 12:20:09.46871 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 1398
+          },
+          {
+            "id": "d41432ec-bf76-4944-86bc-576581142dab",
+            "position": "3",
+            "body": "O tratamento não é dietético; solicitar uma tomografia por ser exame menos invasivo que a colonoscopia e pelo afilamento das fezes, que pode ser indicativo de estenose.",
+            "sanitized_body": "O tratamento não é dietético; solicitar uma tomografia por ser exame menos invasivo que a colonoscopia e pelo afilamento das fezes, que pode ser indicativo de estenose.",
+            "correct": false,
+            "created_at": "2020-09-24 22:35:23.912024 +0000 UTC",
+            "updated_at": "2020-11-09 13:00:51.540368 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A tomografia computadorizada não é superior à colonoscopia para detecção do câncer colorretal. Atualmente, com o advento da colonografia por TC, esse exame vem ganhando mais espaço no contexto neoplásico, porém ainda não é a primeira<div><br></div>",
+              "sanitized_complete": "INCORRETA. A tomografia computadorizada não é superior à colonoscopia para detecção do câncer colorretal. Atualmente, com o advento da colonografia por TC, esse exame vem ganhando mais espaço no contexto neoplásico, porém ainda não é a primeira",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 12:20:08.987581 +0000 UTC",
+              "updated_at": "2020-10-16 12:20:09.495344 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 107
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 55 anos de idade vem à unidade Básica de Saúde com queixa de alteração do hábito intestinal. Notou afilamento das fezes há cerca de quatro meses. Refere que vem emagrecendo há cerca de seis meses. É tabagista (carga tabágica de 30 maços/ano) e hipertenso leve. Nega etilismo, diabetes ou outras doenças associadas. Relata cirurgia para retirada de vesícula biliar há cerca de 20 anos. Ao exame físico apresenta-se corado, hidratado, eupneico, acianótico e anictérico. Auscultas cardíaca e pulmonar sem alterações. Abdome sem alterações, exceto pela cicatriz subcostal de cirurgia prévia. Exame proctológico sem alterações. Qual a conduta correta a ser seguida?",
+        "statement_text": "Um paciente com 55 anos de idade vem à unidade Básica de Saúde com queixa de alteração do hábito intestinal. Notou afilamento das fezes há cerca de quatro meses. Refere que vem emagrecendo há cerca de seis meses. É tabagista (carga tabágica de 30 maços/ano) e hipertenso leve. Nega etilismo, diabetes ou outras doenças associadas. Relata cirurgia para retirada de vesícula biliar há cerca de 20 anos. Ao exame físico apresenta-se corado, hidratado, eupneico, acianótico e anictérico. Auscultas cardíaca e pulmonar sem alterações. Abdome sem alterações, exceto pela cicatriz subcostal de cirurgia prévia. Exame proctológico sem alterações. Qual a conduta correta a ser seguida?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 22:35:23.912024 +0000 UTC",
+        "solution": {
+          "_key": "d55f35b5-6fb8-4444-8386-845ef4349a13",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Estamos diante de paciente &gt; 50 anos e tabagista com ALTERAÇÃO DO HÁBITO INTESTINAL, AFILAMENTO DAS FEZES e PERDA DE PESO e exame físico sem alterações. Diante de um paciente com essas queixas, o autor quer saber que conduta você tomaria.<div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CEstamos diante de paciente &gt; 50 anos e tabagista com ALTERAÇÃO DO HÁBITO INTESTINAL, AFILAMENTO DAS FEZES e PERDA DE PESO e exame físico sem alterações. Diante de um paciente com essas queixas, o autor quer saber que conduta você tomaria.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 12:20:09.162626 +0000 UTC",
+          "updated_at": "2020-10-16 12:20:09.571644 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126765-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-55-anos104884d9265",
+        "public": true
+      },
+      {
+        "id": "4000126727",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "db06fdb45a7f4a55a7675b667d9a34d2",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "272c63d8-2cf3-4cec-9e3e-73493321329b",
+            "position": "0",
+            "body": "Melhora do desconforto abdominal após evacuação.",
+            "sanitized_body": "Melhora do desconforto abdominal após evacuação.",
+            "correct": true,
+            "created_at": "2020-09-24 21:21:58.674728 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:20.809141 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A melhora dos sintomas após evacuação é característica dessa condição, tanto que entra nos critérios diagnósticos (como você pode ver logo acima).<div><br></div>",
+              "sanitized_complete": "CORRETA. A melhora dos sintomas após evacuação é característica dessa condição, tanto que entra nos critérios diagnósticos (como você pode ver logo acima).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:35:42.119809 +0000 UTC",
+              "updated_at": "2020-11-10 17:55:28.845207 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1021
+          },
+          {
+            "id": "a8aa334c-6453-494a-8032-c2e125682090",
+            "position": "1",
+            "body": "Sensação recorrente de empachamento.",
+            "sanitized_body": "Sensação recorrente de empachamento.",
+            "correct": false,
+            "created_at": "2020-09-24 21:21:58.674728 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:20.911894 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora a sensação contínua de empachamento possa ocorrer na Síndrome do Intestino Irritável, ela não é típica dessa condição e nem faz parte dos critérios diagnósticos da mesma.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora a sensação contínua de empachamento possa ocorrer na Síndrome do Intestino Irritável, ela não é típica dessa condição e nem faz parte dos critérios diagnósticos da mesma.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:35:42.121391 +0000 UTC",
+              "updated_at": "2020-11-10 17:55:28.849805 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 24
+          },
+          {
+            "id": "7bd52e05-9675-4487-a97b-50e6e0e0f5c4",
+            "position": "2",
+            "body": "Urgência fecal com muco e sangue.",
+            "sanitized_body": "Urgência fecal com muco e sangue.",
+            "correct": false,
+            "created_at": "2020-09-24 21:21:58.674728 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:20.962776 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A presença de SANGUE nas fezes fala CONTRA o diagnóstico de síndrome do intestino irritável, um distúrbio funcional.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A presença de SANGUE nas fezes fala CONTRA o diagnóstico de síndrome do intestino irritável, um distúrbio funcional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:35:42.108027 +0000 UTC",
+              "updated_at": "2020-11-10 17:55:28.85667 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 97
+          },
+          {
+            "id": "27720843-4ebe-4136-bfae-05cfaae82ddb",
+            "position": "3",
+            "body": "Presença de muco nas fezes.",
+            "sanitized_body": "Presença de muco nas fezes.",
+            "correct": false,
+            "created_at": "2020-09-24 21:21:58.674728 +0000 UTC",
+            "updated_at": "2020-11-23 10:03:21.411873 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. Embora possa haver muco nas fezes dos portadores de síndrome do intestino irritável, essa não é característica relevante para o diagnóstico.<div><br></div>",
+              "sanitized_complete": "CORRETA. Embora possa haver muco nas fezes dos portadores de síndrome do intestino irritável, essa não é característica relevante para o diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:35:42.105177 +0000 UTC",
+              "updated_at": "2020-11-10 17:55:28.847537 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 96
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 35 anos de idade, controlador de voo, retorna à consulta na unidade básica de saúde apresentando resultados negativos de exame protoparasitológico de   fezes e de teste de tolerância à lactose. Relata que desde a adolescência tem episódios de evacuações explosivas com fezes amolecidas. Atualmente, queixa-se de alteração de  hábito intestinal há seis meses, quando passou a apresentar desconforto abdominal em andar inferior do abdome, que dura em média dois a três dias por semana, alternando quadros de obstipação com diarreia e urgência fecal, com a presença de muco de cor  clara, quase transparente. O quadro de desconforto abdominal piora em situação de estresse e melhora quando evacua ou elimina flatos. Em relação ao quadro clínico apresentado, qual das alternativas abaixo representa critério para o diagnóstico?",
+        "statement_text": "Um paciente com 35 anos de idade, controlador de voo, retorna à consulta na unidade básica de saúde apresentando resultados negativos de exame protoparasitológico de   fezes e de teste de tolerância à lactose. Relata que desde a adolescência tem episódios de evacuações explosivas com fezes amolecidas. Atualmente, queixa-se de alteração de  hábito intestinal há seis meses, quando passou a apresentar desconforto abdominal em andar inferior do abdome, que dura em média dois a três dias por semana, alternando quadros de obstipação com diarreia e urgência fecal, com a presença de muco de cor  clara, quase transparente. O quadro de desconforto abdominal piora em situação de estresse e melhora quando evacua ou elimina flatos. Em relação ao quadro clínico apresentado, qual das alternativas abaixo representa critério para o diagnóstico?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "EASY",
+        "created_at": "2020-09-24 21:21:58.674728 +0000 UTC",
+        "solution": {
+          "_key": "94679dcb-9ad7-46df-b788-145153890ea3",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div><b>Estamos diante de paciente JOVEM com ALTERAÇÃO DO HÁBITO INTESTINAL com alternância entre CONSTIPAÇÃO e DIARREIA associado a DESCONFORTO ABDOMINAL. Ademais, DIARREIA CLARA e com MUCO. Há MELHORA DOS SINTOMAS COM A EVACUAÇÃO e PIORA COM O ESTRESSE. Qual o diagnóstico provável?! Síndrome do Intestino Irritável!</b></div><div><b><br></b></div><div><b>A síndrome do intestino irritável é distúrbio gastrointestinal funcional mais comum em mulheres jovens e cursa com quadro de dor abdominal que melhora com as evacuações associada a alterações no hábito intestinal, seja diarreia e/ou constipação. Caracteristicamente, não cursa com alterações no exame físico, nos exames laboratoriais ou de imagem.</b></div><div><b><br></b><div><div><br></div><div>Os critérios diagnósticos para a síndrome do intestino irritável estão descritos abaixo:</div><div><br></div></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/04429984-775D-0F30-81EE-B8FD2AD4F9B7/04429984-775D-0F30-81EE-B8FD2AD4F9B7-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Assim sendo, qual das características fornecidas na história são típicas da Síndrome do Intestino Irritável?</div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AEstamos diante de paciente JOVEM com ALTERAÇÃO DO HÁBITO INTESTINAL com alternância entre CONSTIPAÇÃO e DIARREIA associado a DESCONFORTO ABDOMINAL. Ademais, DIARREIA CLARA e com MUCO. Há MELHORA DOS SINTOMAS COM A EVACUAÇÃO e PIORA COM O ESTRESSE. Qual o diagnóstico provável?! Síndrome do Intestino Irritável!A síndrome do intestino irritável é distúrbio gastrointestinal funcional mais comum em mulheres jovens e cursa com quadro de dor abdominal que melhora com as evacuações associada a alterações no hábito intestinal, seja diarreia e/ou constipação. Caracteristicamente, não cursa com alterações no exame físico, nos exames laboratoriais ou de imagem.Os critérios diagnósticos para a síndrome do intestino irritável estão descritos abaixo:Assim sendo, qual das características fornecidas na história são típicas da Síndrome do Intestino Irritável?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 15:35:42.298632 +0000 UTC",
+          "updated_at": "2020-11-10 17:55:28.93756 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126727-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-35-anos132857e537e",
+        "public": true
+      },
+      {
+        "id": "4000127121",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a1270a7b597a43a6b9f3260c087106bd",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e279d5b1ce9c46f9a0a9509de476a019",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "ac947648-1074-4c6d-bb30-3321d0d84c0d",
+            "position": "0",
+            "body": "Tomografia computadorizada de abdome total.",
+            "sanitized_body": "Tomografia computadorizada de abdome total.",
+            "correct": false,
+            "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:04.285121 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>INCORRETA. A tomografia computadorizada de abdome total não é exame de relevância para diagnóstico de doença celíaca, não devendo ser solicitado para o caso. É interessante para casos de diarreia crônica em que se suspeita de pancreatite crônica, por exemplo.<br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "INCORRETA. A tomografia computadorizada de abdome total não é exame de relevância para diagnóstico de doença celíaca, não devendo ser solicitado para o caso. É interessante para casos de diarreia crônica em que se suspeita de pancreatite crônica, por exemplo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:10:48.839205 +0000 UTC",
+              "updated_at": "2020-10-16 14:10:49.562128 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 23
+          },
+          {
+            "id": "486415f8-c593-4dc9-9f7d-0f672db3c22c",
+            "position": "1",
+            "body": "Retossigmoidoscopia com biópsia de mucosa retal.",
+            "sanitized_body": "Retossigmoidoscopia com biópsia de mucosa retal.",
+            "correct": false,
+            "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:04.341728 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A retossigmoidoscopia com biópsia de mucosa retal é útil na avaliação de câncer retal ou de retocolite ulcerativa, mas não no contexto da doença celíaca.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A retossigmoidoscopia com biópsia de mucosa retal é útil na avaliação de câncer retal ou de retocolite ulcerativa, mas não no contexto da doença celíaca.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:10:48.847121 +0000 UTC",
+              "updated_at": "2020-10-16 14:10:49.575221 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 25
+          },
+          {
+            "id": "72ffcb7c-b544-45b6-84a8-2a38e4cc7093",
+            "position": "2",
+            "body": "Colonoscopia com biópsia de mucosa de sigmoide.",
+            "sanitized_body": "Colonoscopia com biópsia de mucosa de sigmoide.",
+            "correct": false,
+            "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:04.464948 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A colonoscopia com biópsia de sigmoide não é útil no contexto da doença celíaca uma vez que as alterações típicas dessa condição ocorrem a nível de intestino delgado.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A colonoscopia com biópsia de sigmoide não é útil no contexto da doença celíaca uma vez que as alterações típicas dessa condição ocorrem a nível de intestino delgado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:10:48.832773 +0000 UTC",
+              "updated_at": "2020-10-16 14:10:49.571617 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 267
+          },
+          {
+            "id": "85e5b659-7cef-4d83-b040-e63d3d2c6692",
+            "position": "3",
+            "body": "Estudo radiológico de trânsito do intestino delgado.",
+            "sanitized_body": "Estudo radiológico de trânsito do intestino delgado.",
+            "correct": false,
+            "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:04.518035 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. O trânsito do intestino delgado é útil para avaliar doença de Crohn com acometimento de delgado, por exemplo, mas não é o padrão-ouro para diagnóstico de doença celíaca.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. O trânsito do intestino delgado é útil para avaliar doença de Crohn com acometimento de delgado, por exemplo, mas não é o padrão-ouro para diagnóstico de doença celíaca. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:10:48.839328 +0000 UTC",
+              "updated_at": "2020-10-16 14:10:49.605417 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 20
+          },
+          {
+            "id": "9dc6e839-166c-474e-b30d-5dd8d1feebe5",
+            "position": "4",
+            "body": "Endoscopia digestiva alta com biópsia de duodeno.",
+            "sanitized_body": "Endoscopia digestiva alta com biópsia de duodeno.",
+            "correct": true,
+            "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:04.573191 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. Para confirmarmos o diagnóstico de doença celíaca, realizamos endoscopia digestiva alta com biópsia de duodeno, a qual revela atrofia das vilosidades e hiperplasia das criptas associados a infiltrado linfocítico, que é reversível após exclusão do glúten da dieta.",
+              "sanitized_complete": "CORRETA. Para confirmarmos o diagnóstico de doença celíaca, realizamos endoscopia digestiva alta com biópsia de duodeno, a qual revela atrofia das vilosidades e hiperplasia das criptas associados a infiltrado linfocítico, que é reversível após exclusão do glúten da dieta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:10:48.834069 +0000 UTC",
+              "updated_at": "2020-10-16 14:10:49.583444 +0000 UTC"
+            },
+            "answer_percentage": 74,
+            "answers": 957
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher com 22 anos de idade vem à consulta ambulatorial com diarreia há seis   meses. Apresenta cerca de seis evacuações ao dia, com fezes pastosas volumosas, de    odor fétido, amareladas e espumosas, sem muco ou sangue. Nega tenesmo ou febre.  Piora com a ingestão de leite. Tem cólicas eventuais e distensão abdominal gasosa. Teve perda ponderal de 5 kg desde o início do quadro. É solteira, sem atividade sexual. Nega uso de drogas ou álcool. Nega cirurgias prévias. Ao exame físico, apresenta-se com índice de massa corpórea de 22 kg/m². Mucosas hipocrômicas. Evidente perda de massa muscular. Abdome discretamente distendido por gases, sem ascite, visceromegalias ou tumorações. Presença de lesões de pele, de aspecto herpetiforme, em tronco. No   relatório, para justificar o encaminhamento da paciente para o especialista, deverá ser especificada a necessidade de que a paciente seja submetida a:",
+        "statement_text": "Mulher com 22 anos de idade vem à consulta ambulatorial com diarreia há seis   meses. Apresenta cerca de seis evacuações ao dia, com fezes pastosas volumosas, de    odor fétido, amareladas e espumosas, sem muco ou sangue. Nega tenesmo ou febre.  Piora com a ingestão de leite. Tem cólicas eventuais e distensão abdominal gasosa. Teve perda ponderal de 5 kg desde o início do quadro. É solteira, sem atividade sexual. Nega uso de drogas ou álcool. Nega cirurgias prévias. Ao exame físico, apresenta-se com índice de massa corpórea de 22 kg/m². Mucosas hipocrômicas. Evidente perda de massa muscular. Abdome discretamente distendido por gases, sem ascite, visceromegalias ou tumorações. Presença de lesões de pele, de aspecto herpetiforme, em tronco. No   relatório, para justificar o encaminhamento da paciente para o especialista, deverá ser especificada a necessidade de que a paciente seja submetida a:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:01:49.048361 +0000 UTC",
+        "forum_id": "e7323d8c-9980-4e8f-8ff3-512fdfc0065c",
+        "solution": {
+          "_key": "64a3091e-dfef-4a56-b78f-5378dfabd1f5",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><br></div><div>Estamos diante de paciente JOVEM com DIARREIA CRÔNICA (&gt; 4 semanas) DISABSORTIVA associada a PERDA DE PESO, ANEMIA e LESÕES HERPETIFORMES na PELE. Que doença provavelmente cursaria com todos esses achados?! A doença celíaca!</div><div><br><div>A doença celíaca é uma doença autoimune associada à ingestão de glúten que cursa com quadro de diarreia crônica disabsortiva&nbsp;caracterizado por distensão abdominal, déficit de absorção de nutrientes e diarreia com esteatorreia.</div><div><br></div><div>E qual o melhor exame para diagnosticá-la?!</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA EEstamos diante de paciente JOVEM com DIARREIA CRÔNICA (&gt; 4 semanas) DISABSORTIVA associada a PERDA DE PESO, ANEMIA e LESÕES HERPETIFORMES na PELE. Que doença provavelmente cursaria com todos esses achados?! A doença celíaca!A doença celíaca é uma doença autoimune associada à ingestão de glúten que cursa com quadro de diarreia crônica disabsortiva caracterizado por distensão abdominal, déficit de absorção de nutrientes e diarreia com esteatorreia.E qual o melhor exame para diagnosticá-la?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 14:10:49.023071 +0000 UTC",
+          "updated_at": "2020-10-16 14:10:49.692746 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127121-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-22-anos1482be8360f",
+        "public": true
+      },
+      {
+        "id": "4000129245",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "5607b8749067454890e02625a3939b7a",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "ed491a5df3d3414098079b6bb7f9f2df",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "264a30d7-649e-472a-8501-c84dc1ae29f6",
+            "position": "0",
+            "body": "cólica biliar.<div>&nbsp;</div>",
+            "sanitized_body": "cólica biliar. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+            "updated_at": "2020-12-01 18:35:39.279294 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora a cólica biliar possa gerar dor abdominal no quadrante superior associada a náuseas e vômitos, a presença do aumento expressivo de amilase e lipase fala a favor de outro diagnóstico.",
+              "sanitized_complete": "INCORRETA. Embora a cólica biliar possa gerar dor abdominal no quadrante superior associada a náuseas e vômitos, a presença do aumento expressivo de amilase e lipase fala a favor de outro diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-08-12 00:41:05.044667 +0000 UTC",
+              "updated_at": "2021-08-31 18:13:11.957655 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 18
+          },
+          {
+            "id": "67c1dadb-4f9d-4c07-b98d-0a7079594958",
+            "position": "1",
+            "body": "pancreatite biliar.<div>&nbsp;</div>",
+            "sanitized_body": "pancreatite biliar. ",
+            "correct": true,
+            "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+            "updated_at": "2020-12-01 18:35:39.524088 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. para diagnóstico de pancreatite aguda, o doente deverá preencher dois dos três seguintes critérios:<div><br></div><div>• Critério clínico: dor abdominal no quadrante superior associada a náuseas e vômitos.</div><div><br></div><div>• Critério laboratorial: aumento de amilase e/ou lipase acima de 3 vezes o limite superior da normalidade.</div><div><br></div><div>• Critério radiológico: alterações típicas de pancreatite aguda nos exames de imagem.</div><div><br></div><div>Como a paciente preenche critério clínico e laboratorial, ela já deve ser considerado portador de pancreatite aguda, sendo essa alternativa o gabarito da questão.</div>",
+              "sanitized_complete": "CORRETA. para diagnóstico de pancreatite aguda, o doente deverá preencher dois dos três seguintes critérios:• Critério clínico: dor abdominal no quadrante superior associada a náuseas e vômitos.• Critério laboratorial: aumento de amilase e/ou lipase acima de 3 vezes o limite superior da normalidade.• Critério radiológico: alterações típicas de pancreatite aguda nos exames de imagem.Como a paciente preenche critério clínico e laboratorial, ela já deve ser considerado portador de pancreatite aguda, sendo essa alternativa o gabarito da questão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-08-12 00:41:05.110385 +0000 UTC",
+              "updated_at": "2021-08-31 18:13:12.011152 +0000 UTC"
+            },
+            "answer_percentage": 98,
+            "answers": 1416
+          },
+          {
+            "id": "f3db973a-6a6b-46eb-9b2d-33119b873d9c",
+            "position": "2",
+            "body": "obstrução intestinal.<div>&nbsp;</div>",
+            "sanitized_body": "obstrução intestinal. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+            "updated_at": "2020-12-01 18:35:39.770377 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Obstrução intestinal costuma gerar quadro de dor abdominal associada a distensão abdominal pronunciada, presença de vômitos e parada de eliminação de fezes e flatos.",
+              "sanitized_complete": "INCORRETA. Obstrução intestinal costuma gerar quadro de dor abdominal associada a distensão abdominal pronunciada, presença de vômitos e parada de eliminação de fezes e flatos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-08-12 00:41:05.056804 +0000 UTC",
+              "updated_at": "2021-08-31 18:13:12.024134 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "227cf937-e029-44fb-be48-cbeb273af961",
+            "position": "3",
+            "body": "isquemia mesentérica.<div>&nbsp;</div>",
+            "sanitized_body": "isquemia mesentérica. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+            "updated_at": "2020-12-01 18:35:40.013279 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Pensamos em isquemia mesentérica naquele paciente que apresenta dor abdominal aguda importante na emergência, com dissociação entre a clínica e o exame físico. Ademais, as questões que abordam o tema costumam trazer paciente com múltiplas comorbidades que aumentam risco de doença ateroesclerótica. ",
+              "sanitized_complete": "INCORRETA. Pensamos em isquemia mesentérica naquele paciente que apresenta dor abdominal aguda importante na emergência, com dissociação entre a clínica e o exame físico. Ademais, as questões que abordam o tema costumam trazer paciente com múltiplas comorbidades que aumentam risco de doença ateroesclerótica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-08-12 00:41:05.059416 +0000 UTC",
+              "updated_at": "2021-08-31 18:13:12.011622 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          },
+          {
+            "id": "6f8a2d57-e14a-4fbc-97f6-c175e4a3ea43",
+            "position": "4",
+            "body": "úlcera gástrica perfurada.",
+            "sanitized_body": "úlcera gástrica perfurada.",
+            "correct": false,
+            "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+            "updated_at": "2020-12-01 18:35:40.289061 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora a úlcera gástrica perfurada possa gerar dor abdominal aguda no epigástrio, ela costuma ser bastante intensa e com tendência a generalizar-se para todo abdome, gerando um quadro de extrema gravidade.",
+              "sanitized_complete": "INCORRETA. Embora a úlcera gástrica perfurada possa gerar dor abdominal aguda no epigástrio, ela costuma ser bastante intensa e com tendência a generalizar-se para todo abdome, gerando um quadro de extrema gravidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-08-12 00:41:05.110166 +0000 UTC",
+              "updated_at": "2021-08-31 18:13:12.032814 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 40 anos de idade, branca, casada, procura o Serviço de Emergência queixando-se de dor abdominal epigástrica em todo o hemi-abdome superior, intensa, contínua, com irradiação para o dorso e acompanhada de náuseas e vômitos há 24 horas. Não refere história de doença pregressa, etilismo, tabagismo e uso de medicamentos. Informa ter 4 filhos. Ao exame físico apresenta-se desconfortável no leito. Encontra-se afebril, com FC = 110 bpm, PA = 100 x 60 mmHg, pele com discreta sudorese, mucosas coradas e escleróticas ictéricas 1+/4+. Ao exame do abdome observam-se ruídos hidroaéreos presentes; abdome flácido, com dor à palpação no hemi-abdome superior e ausência de visceromegalias. Os exames laboratoriais mostram:hemograma com 15 400 leucócitos/mm3 (valores de referência = 3 800 a 10 600/mm ) com neutrofilia; glicose = 130 mg/dL (valor de referência = 99 mg/dL); amilase = 1 240 U/L (valor de referência = 30 a 225 U/L); lipase = 600 U/L (valor de referência = 3 a 43 U/L), bilirrubinas totais = 5,2 mg/dL (valor de referência &lt; 1,3 mg/dL), com fração direta de 2,0 mg/dL (valor de referência &lt; 0,4 mg/dL); alanino-amino-transferase = 162 UI/L (valor de referência = &lt; 35 UI/L); aspartato-amino- transferase = 87 UI/L (valor de referência &lt; 30 UI/L). A radiografia simples de abdome mostra padrão inespecífico de distribuição de gases, sem evidência de pneumoperitônio.<div><br><div>Diante do quadro apresentado, a principal hipótese diagnóstica é</div><div><br></div></div>",
+        "statement_text": "Uma mulher de 40 anos de idade, branca, casada, procura o Serviço de Emergência queixando-se de dor abdominal epigástrica em todo o hemi-abdome superior, intensa, contínua, com irradiação para o dorso e acompanhada de náuseas e vômitos há 24 horas. Não refere história de doença pregressa, etilismo, tabagismo e uso de medicamentos. Informa ter 4 filhos. Ao exame físico apresenta-se desconfortável no leito. Encontra-se afebril, com FC = 110 bpm, PA = 100 x 60 mmHg, pele com discreta sudorese, mucosas coradas e escleróticas ictéricas 1+/4+. Ao exame do abdome observam-se ruídos hidroaéreos presentes; abdome flácido, com dor à palpação no hemi-abdome superior e ausência de visceromegalias. Os exames laboratoriais mostram:hemograma com 15 400 leucócitos/mm3 (valores de referência = 3 800 a 10 600/mm ) com neutrofilia; glicose = 130 mg/dL (valor de referência = 99 mg/dL); amilase = 1 240 U/L (valor de referência = 30 a 225 U/L); lipase = 600 U/L (valor de referência = 3 a 43 U/L), bilirrubinas totais = 5,2 mg/dL (valor de referência &lt; 1,3 mg/dL), com fração direta de 2,0 mg/dL (valor de referência &lt; 0,4 mg/dL); alanino-amino-transferase = 162 UI/L (valor de referência = &lt; 35 UI/L); aspartato-amino- transferase = 87 UI/L (valor de referência &lt; 30 UI/L). A radiografia simples de abdome mostra padrão inespecífico de distribuição de gases, sem evidência de pneumoperitônio.Diante do quadro apresentado, a principal hipótese diagnóstica é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 13:32:18.44629 +0000 UTC",
+        "solution": {
+          "_key": "0d9b6304-6167-47c0-8f2f-ca291dfa8808",
+          "complete": "Estamos diante de uma paciente do sexo feminino que apresenta dor abdominal aguda no andar superior do abdome associada a aumento de amilase e lipase acima de três vezes o limite superior da normalidade. O autor nos questiona qual diagnóstico mais provável. <div>E aí, vamos avaliar as alternativas juntos?!</div>",
+          "sanitized_complete": "Estamos diante de uma paciente do sexo feminino que apresenta dor abdominal aguda no andar superior do abdome associada a aumento de amilase e lipase acima de três vezes o limite superior da normalidade. O autor nos questiona qual diagnóstico mais provável. E aí, vamos avaliar as alternativas juntos?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-12 00:41:05.261398 +0000 UTC",
+          "updated_at": "2021-08-31 18:13:12.342945 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-40-anos-idade2317d73e178",
+        "public": true
+      },
+      {
+        "id": "4000127181",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ee8341154cd24a0ebda2b8a5a846b833",
+            "name": "Intolerância à Lactose",
+            "is_master": false,
+            "master_id": "0ea1aa8e3e25465392b6915ddf7cebc4",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Intolerância à Lactose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7007e104-3750-4f72-aa29-b71cc7076646",
+            "position": "0",
+            "body": "Diarreia infecciosa persistente.",
+            "sanitized_body": "Diarreia infecciosa persistente.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.16489 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora algumas diarreias infecciosas possam causar síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidrato.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora algumas diarreias infecciosas possam causar síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidrato.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.504002 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.121069 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 31
+          },
+          {
+            "id": "7c68e301-aca8-4e27-934e-befd101042d9",
+            "position": "1",
+            "body": "Diarreia aguda recorrente.",
+            "sanitized_body": "Diarreia aguda recorrente.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.312148 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Pensamos em diarreia aguda quando o episódio é autolimitado e dura menos de 2 semanas. O paciente apresenta episódios recorrentes, o que nos leva a pensar em diarreia crônica.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Pensamos em diarreia aguda quando o episódio é autolimitado e dura menos de 2 semanas. O paciente apresenta episódios recorrentes, o que nos leva a pensar em diarreia crônica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.495777 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.14171 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 40
+          },
+          {
+            "id": "20c84ca6-a37c-487d-99d6-631bbc45b057",
+            "position": "2",
+            "body": "Parasitose intestinal.",
+            "sanitized_body": "Parasitose intestinal.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.392645 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora algumas parasitoses intestinais possam cursar com síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidratos.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora algumas parasitoses intestinais possam cursar com síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidratos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.499824 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.133089 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 40
+          },
+          {
+            "id": "4d8281b9-b89c-4e86-84e6-e71bc21caf9e",
+            "position": "3",
+            "body": "Intolerância à lactose.",
+            "sanitized_body": "Intolerância à lactose.",
+            "correct": true,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.463991 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados. A presença de substâncias redutoras e o pH fecal reduzido (&lt;5,5-6) costumam estar presentes no contexto de má absorção de carboidratos.<div><br></div>",
+              "sanitized_complete": "CORRETA. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados. A presença de substâncias redutoras e o pH fecal reduzido (&lt;5,5-6) costumam estar presentes no contexto de má absorção de carboidratos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.511319 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.147547 +0000 UTC"
+            },
+            "answer_percentage": 90,
+            "answers": 1105
+          },
+          {
+            "id": "2989279b-a5d4-42aa-9132-30b09357d41c",
+            "position": "4",
+            "body": "Doença inflamatória pélvica.",
+            "sanitized_body": "Doença inflamatória pélvica.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.527282 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A doença inflamatória pélvia é infecção polimicrobiana do trato genital feminino, sendo sexualmente transmissível, o que fala contra o caso, já que estamos diante de pré-escolar. Ademais, os sintomas são dor abdominal baixa, corrimento vaginal, sangramento vaginal etc. Nada tem a ver com o caso apresentado.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A doença inflamatória pélvia é infecção polimicrobiana do trato genital feminino, sendo sexualmente transmissível, o que fala contra o caso, já que estamos diante de pré-escolar. Ademais, os sintomas são dor abdominal baixa, corrimento vaginal, sangramento vaginal etc. Nada tem a ver com o caso apresentado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.504155 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.140581 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas   logo após a ingestão de alimentos. No atendimento atual a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5. Qual a suspeita diagnóstica principal?",
+        "statement_text": "Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas   logo após a ingestão de alimentos. No atendimento atual a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5. Qual a suspeita diagnóstica principal?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+        "solution": {
+          "_key": "9a76af9e-a1b4-4a3e-9f94-270f9cbde25d",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Estamos diante de criança com DIARREIA EXPLOSIVA após INGESTÃO DE ALIMENTOS, evoluindo com ASSADURA PERIANAL e DISTENSÃO ABDOMINAL. Esse quadro clínico deve nos fazer pensar em DIARREIA por DISABSORÇÃO.</div><div><br><div>Ademais, apresenta SUBSTÂNCIAS REDUTORAS NAS FEZES e PH FECAL &lt; 5,5. Qual a principal hipótese diagnóstica para o caso?</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DEstamos diante de criança com DIARREIA EXPLOSIVA após INGESTÃO DE ALIMENTOS, evoluindo com ASSADURA PERIANAL e DISTENSÃO ABDOMINAL. Esse quadro clínico deve nos fazer pensar em DIARREIA por DISABSORÇÃO.Ademais, apresenta SUBSTÂNCIAS REDUTORAS NAS FEZES e PH FECAL &lt; 5,5. Qual a principal hipótese diagnóstica para o caso?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 14:12:47.677354 +0000 UTC",
+          "updated_at": "2020-10-16 14:12:48.243824 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127181-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-idade-pre67799dab47",
+        "public": true
+      },
+      {
+        "id": "4000127140",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ea8a58b57da94c198b7ccaac8ab5faa6",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "ed491a5df3d3414098079b6bb7f9f2df",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f7def8fd6b5443f3ade9321203683b88",
+            "name": "Critérios Diagnósticos",
+            "is_master": false,
+            "master_id": "5607b8749067454890e02625a3939b7a",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Pâncreas[$$]Pancreatites[$$]Pancreatite Aguda[$$]Diagnóstico[$$]Critérios Diagnósticos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "e83d936f-965c-479c-9625-1e9d0f31b16b",
+            "position": "0",
+            "body": "Pancreatite aguda.",
+            "sanitized_body": "Pancreatite aguda.",
+            "correct": true,
+            "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:43.332934 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. Aqui vai o macete: paciente está com soro leitoso na centrifugação. Você sabe o que isso significa?! Um soro lipêmico, ou seja, provavelmente a paciente apresenta HIPERTRIGLICERIDEMIA, a qual interfere no método laboratorial pelo qual a amilase é dosada, causando PANCREATITE AGUDA COM AMILASE NORMAL. Interessante, não é mesmo? A presença de equimoses nos flancos corrobora com a nossa hipótese, representando o sinal de GREY-TURNER, indicativo de pancreatite aguda grave.<div><br></div>",
+              "sanitized_complete": "CORRETA. Aqui vai o macete: paciente está com soro leitoso na centrifugação. Você sabe o que isso significa?! Um soro lipêmico, ou seja, provavelmente a paciente apresenta HIPERTRIGLICERIDEMIA, a qual interfere no método laboratorial pelo qual a amilase é dosada, causando PANCREATITE AGUDA COM AMILASE NORMAL. Interessante, não é mesmo? A presença de equimoses nos flancos corrobora com a nossa hipótese, representando o sinal de GREY-TURNER, indicativo de pancreatite aguda grave.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:20:13.656401 +0000 UTC",
+              "updated_at": "2020-10-18 10:20:14.529905 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 1252
+          },
+          {
+            "id": "a86148e2-bfc0-4d67-b109-8ac1e2af6c84",
+            "position": "1",
+            "body": "Dissecção de aorta.",
+            "sanitized_body": "Dissecção de aorta.",
+            "correct": false,
+            "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:43.392783 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A dor da dissecção da aorta é súbita, precordial ou interescapular dilacerante, podendo acompanha-se de síncope, hipotensão/hipertensão, taquicardia.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A dor da dissecção da aorta é súbita, precordial ou interescapular dilacerante, podendo acompanha-se de síncope, hipotensão/hipertensão, taquicardia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:20:13.656575 +0000 UTC",
+              "updated_at": "2020-10-18 10:20:14.535363 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 75
+          },
+          {
+            "id": "2f3176b5-20fe-4175-a96e-5336c212c349",
+            "position": "2",
+            "body": "Infarto do miocárdio.",
+            "sanitized_body": "Infarto do miocárdio.",
+            "correct": false,
+            "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:43.44638 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Quando o autor traz um ECG normal, já desconfiamos que ele não quer que pensemos em infarto. Entretanto, bem sabemos que nem todo infarto cursa com alterações importantes ao ECG. Mesmo assim, a dor do infarto costuma ser precordial ou epigástrica, em aperto, associada a diaforese, náuseas, vômitos, pico hipertensivo etc.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. Quando o autor traz um ECG normal, já desconfiamos que ele não quer que pensemos em infarto. Entretanto, bem sabemos que nem todo infarto cursa com alterações importantes ao ECG. Mesmo assim, a dor do infarto costuma ser precordial ou epigástrica, em aperto, associada a diaforese, náuseas, vômitos, pico hipertensivo etc. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:20:13.663594 +0000 UTC",
+              "updated_at": "2020-10-18 10:20:14.535361 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 22
+          },
+          {
+            "id": "c3c3003e-5127-475e-bd64-3731f6540c65",
+            "position": "3",
+            "body": "Colecistite aguda.",
+            "sanitized_body": "Colecistite aguda.",
+            "correct": false,
+            "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:43.496263 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A colecistite aguda é nome dado à inflamação aguda da vesícula biliar, provavelmente decorrente da obstrução por cálculo. Costuma cursar com dor em hipocôndrio direito, náuseas e vômitos. O sinal de Gray Turner não é clássico dessa condição.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A colecistite aguda é nome dado à inflamação aguda da vesícula biliar, provavelmente decorrente da obstrução por cálculo. Costuma cursar com dor em hipocôndrio direito, náuseas e vômitos. O sinal de Gray Turner não é clássico dessa condição.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:20:13.677733 +0000 UTC",
+              "updated_at": "2020-10-18 10:20:14.523363 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 19
+          },
+          {
+            "id": "2f4025bf-6257-4c9e-876b-9e95adfe9656",
+            "position": "4",
+            "body": "Infarto mesentérico.",
+            "sanitized_body": "Infarto mesentérico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+            "updated_at": "2020-11-23 10:10:43.550956 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. O infarto mesentérico costuma cursar com quadro agudo de dor abdominal difusa INTENSA inicialmente com dissociação clínica – exame físico. Ao final, cursa com peritonite e elevada morbimortalidade.<div><br></div>",
+              "sanitized_complete": "INCORRETA. O infarto mesentérico costuma cursar com quadro agudo de dor abdominal difusa INTENSA inicialmente com dissociação clínica – exame físico. Ao final, cursa com peritonite e elevada morbimortalidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 10:20:13.67143 +0000 UTC",
+              "updated_at": "2020-10-18 10:20:14.539067 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 124
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher, com 44 anos de idade, apresenta quadro de dor epigástrica, com irradiação em faixa para hipocôndrio direito e esquerdo, com vômitos e distensão abdominal, de início súbito sem relação com esforço, ocorrendo há seis horas. Relata dois episódios semelhantes anteriores, de menor intensidade, nos últimos três anos, dos quais se recuperou apenas com restrição de dieta. Relata ainda trombose de retina à esquerda após um desses episódios. Durante o exame físico, foram visualizadas mucosas descoradas, anictérica, pele com turgor e elasticidade reduzidos. Pressão arterial = 40x90 mmHg. Pulso radial = 120 bpm, rítmico e fino. Ausculta respiratória - expansibilidade reduzida em base de hemitórax esquerdo, com submacicez local. Ausculta cardíaca - bulhas taquicárdicas em dois tempos. Abdome distendido, com equimoses nos flancos. Ruídos hidroaéreos diminuídos e dor difusa à palpação. Extremidades: pulsos periféricos palpáveis e simétricos. Exame laboratoriais mostram Ht = 52%, Hb = 14 g/L. Amilase = 104 U/L (Valor normal = 27 a 131U/L). Glicemia na admissão = 230 mg/dL. Creatinina =  1,5 mg/ dL (Valor normal = 0,7 a 1,3 mg/dL). Troponina Sérica = 0,5 ng/mL (Valor normal &lt; 0,1 ng/mL). ECG sem alterações. O laboratório informa que o soro apresenta aspecto francamente leitoso na centrifugação. Ultrassonografia de abdome mostra vias biliares não dilatadas e vesícula biliar de paredes finas, sem cálculos. O retroperitôneo não foi visualizado. Qual o diagnóstico compatível com o quadro descrito?",
+        "statement_text": "Mulher, com 44 anos de idade, apresenta quadro de dor epigástrica, com irradiação em faixa para hipocôndrio direito e esquerdo, com vômitos e distensão abdominal, de início súbito sem relação com esforço, ocorrendo há seis horas. Relata dois episódios semelhantes anteriores, de menor intensidade, nos últimos três anos, dos quais se recuperou apenas com restrição de dieta. Relata ainda trombose de retina à esquerda após um desses episódios. Durante o exame físico, foram visualizadas mucosas descoradas, anictérica, pele com turgor e elasticidade reduzidos. Pressão arterial = 40x90 mmHg. Pulso radial = 120 bpm, rítmico e fino. Ausculta respiratória - expansibilidade reduzida em base de hemitórax esquerdo, com submacicez local. Ausculta cardíaca - bulhas taquicárdicas em dois tempos. Abdome distendido, com equimoses nos flancos. Ruídos hidroaéreos diminuídos e dor difusa à palpação. Extremidades: pulsos periféricos palpáveis e simétricos. Exame laboratoriais mostram Ht = 52%, Hb = 14 g/L. Amilase = 104 U/L (Valor normal = 27 a 131U/L). Glicemia na admissão = 230 mg/dL. Creatinina =  1,5 mg/ dL (Valor normal = 0,7 a 1,3 mg/dL). Troponina Sérica = 0,5 ng/mL (Valor normal &lt; 0,1 ng/mL). ECG sem alterações. O laboratório informa que o soro apresenta aspecto francamente leitoso na centrifugação. Ultrassonografia de abdome mostra vias biliares não dilatadas e vesícula biliar de paredes finas, sem cálculos. O retroperitôneo não foi visualizado. Qual o diagnóstico compatível com o quadro descrito?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:23:08.669062 +0000 UTC",
+        "solution": {
+          "_key": "9e78a094-5a5e-402a-80e6-2a2eb44f920b",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Questão muito interessante para que o aluno entenda um importante conceito. Vamos lá! Estamos diante de paciente com DOR EPIGÁSTRICA e irradiação EM FAIXA para hipocôndrio direito e esquerdo ASSOCIADA A NÁUSEAS e VÔMITOS. Essa apresentação clínica é CLÁSSICA da PANCREATITE AGUDA. Entretanto, ao checarmos os exames de laboratório, a AMILASE está NORMAL. E agora? Qual o melhor diagnóstico para o caso?<div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AQuestão muito interessante para que o aluno entenda um importante conceito. Vamos lá! Estamos diante de paciente com DOR EPIGÁSTRICA e irradiação EM FAIXA para hipocôndrio direito e esquerdo ASSOCIADA A NÁUSEAS e VÔMITOS. Essa apresentação clínica é CLÁSSICA da PANCREATITE AGUDA. Entretanto, ao checarmos os exames de laboratório, a AMILASE está NORMAL. E agora? Qual o melhor diagnóstico para o caso?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 10:20:13.860602 +0000 UTC",
+          "updated_at": "2020-10-18 10:20:14.600949 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127140-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-44-anos230cfe11bc4",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 35
+    }
+  }

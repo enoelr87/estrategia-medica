@@ -1,0 +1,325 @@
+{
+    "data": [
+      {
+        "id": "4000127150",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "66499e3baaef4b2182bea4ee0731a38d",
+            "name": "Biomarcadores",
+            "is_master": false,
+            "master_id": "be54e00a7d434a7f8cdcd83253f4ee59",
+            "path": "Clínica Médica[$$]Cardiologia [$$]Aterosclerose e Doença Arterial Coronariana[$$]Síndrome Coronariana Aguda sem Supradesnível do Segmento ST (SCASSST)[$$]Avaliação inicial[$$]Biomarcadores",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c2e544a0d676490ead8a9b747ddc5a69",
+            "name": "Eletrocardiograma",
+            "is_master": false,
+            "master_id": "be54e00a7d434a7f8cdcd83253f4ee59",
+            "path": "Clínica Médica[$$]Cardiologia [$$]Aterosclerose e Doença Arterial Coronariana[$$]Síndrome Coronariana Aguda sem Supradesnível do Segmento ST (SCASSST)[$$]Avaliação inicial[$$]Eletrocardiograma",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "ac7770b4-fbc0-4fed-a54f-2106a6415c43",
+            "position": "0",
+            "body": "Acompanhamento ambulatorial, se Troponina e CKMB massa colhidas na admissão estiverem normais.",
+            "sanitized_body": "Acompanhamento ambulatorial, se Troponina e CKMB massa colhidas na admissão estiverem normais.",
+            "correct": false,
+            "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+            "updated_at": "2020-11-30 19:28:35.452895 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a”: trata-se de um paciente com razoável chance de eventos e necessita de maior investigação.",
+              "sanitized_complete": "Incorreta a alternativa “a”: trata-se de um paciente com razoável chance de eventos e necessita de maior investigação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+              "author_email_id": "359a65542741af97a3f8ad05b970d816",
+              "author_profile": null,
+              "created_at": "2020-10-18 02:39:59.903705 +0000 UTC",
+              "updated_at": "2020-10-18 02:40:01.780584 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 101
+          },
+          {
+            "id": "f3cb1f7c-768f-4ccd-8762-af69213e9459",
+            "position": "1",
+            "body": "Internação hospitalar, monitorização cardíaca contínua, mesmo com troponina normal  à admissão.",
+            "sanitized_body": "Internação hospitalar, monitorização cardíaca contínua, mesmo com troponina normal  à admissão.",
+            "correct": true,
+            "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+            "updated_at": "2020-11-30 19:28:35.550123 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Correta a alternativa “b”: conforme justificado acima.</div>",
+              "sanitized_complete": "Correta a alternativa “b”: conforme justificado acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+              "author_email_id": "359a65542741af97a3f8ad05b970d816",
+              "author_profile": null,
+              "created_at": "2020-10-18 02:39:59.911151 +0000 UTC",
+              "updated_at": "2020-10-18 02:40:01.798471 +0000 UTC"
+            },
+            "answer_percentage": 64,
+            "answers": 632
+          },
+          {
+            "id": "fb558431-bf7d-430f-88eb-b8290d24ea7a",
+            "position": "2",
+            "body": "Acompanhamento ambulatorial especializado, com cardiologista, se Troponina colhida na admissão estiver normal.",
+            "sanitized_body": "Acompanhamento ambulatorial especializado, com cardiologista, se Troponina colhida na admissão estiver normal.",
+            "correct": false,
+            "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+            "updated_at": "2020-11-30 19:28:35.635196 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Incorreta a alternativa “c”: a troponina normal mantém este paciente com chance razoável de eventos.&nbsp;</div>",
+              "sanitized_complete": "Incorreta a alternativa “c”: a troponina normal mantém este paciente com chance razoável de eventos. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+              "author_email_id": "359a65542741af97a3f8ad05b970d816",
+              "author_profile": null,
+              "created_at": "2020-10-18 02:39:59.908053 +0000 UTC",
+              "updated_at": "2020-10-18 02:40:01.800362 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 82
+          },
+          {
+            "id": "fe68d7fc-171c-4c28-bd8c-c0fce4b55118",
+            "position": "3",
+            "body": "Internação hospitalar, monitorização cardíaca contínua, se Troponina colhida na admissão estiver elevada.",
+            "sanitized_body": "Internação hospitalar, monitorização cardíaca contínua, se Troponina colhida na admissão estiver elevada.",
+            "correct": false,
+            "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+            "updated_at": "2020-11-30 19:28:35.719247 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Incorreta a alternativa “d”: a internação e investigação não deve ser condicionada à presença de troponina elevada.</div>",
+              "sanitized_complete": "Incorreta a alternativa “d”: a internação e investigação não deve ser condicionada à presença de troponina elevada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+              "author_email_id": "359a65542741af97a3f8ad05b970d816",
+              "author_profile": null,
+              "created_at": "2020-10-18 02:39:59.915861 +0000 UTC",
+              "updated_at": "2020-10-18 02:40:01.785282 +0000 UTC"
+            },
+            "answer_percentage": 16,
+            "answers": 155
+          },
+          {
+            "id": "5b751e2c-c3e7-41a5-889c-c3479ede6d2a",
+            "position": "4",
+            "body": "Internação hospitalar, sem monitorização cardíaca contínua, se a Troponina e CKMB massa colhidas na admissão estiverem normais.",
+            "sanitized_body": "Internação hospitalar, sem monitorização cardíaca contínua, se a Troponina e CKMB massa colhidas na admissão estiverem normais.",
+            "correct": false,
+            "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+            "updated_at": "2020-11-30 19:28:35.80917 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Incorreta a alternativa “e”: a troponina de admissão normal não exclui a possibilidade de evento coronariano.</div>",
+              "sanitized_complete": "Incorreta a alternativa “e”: a troponina de admissão normal não exclui a possibilidade de evento coronariano.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+              "author_email_id": "359a65542741af97a3f8ad05b970d816",
+              "author_profile": null,
+              "created_at": "2020-10-18 02:39:59.928805 +0000 UTC",
+              "updated_at": "2020-10-18 02:40:01.799434 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 24
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher, com 58 anos de idade, diabética, é admitida no Pronto-Socorro com dor precordial opressiva, intensa, irradiada para membro superior esquerdo há 40 minutos, associada a sudorese fria e sensação de morte iminente. Durante o exame clínico, encontra-se em bom estado geral, eupneica, Pressão arterial = 100 x 70 mmHg,  Frequência cardíaca = 92 bpm, Frequência respiratória = 20 ipm. Pulmões limpos. Ritmo cardíaco regular, dois tempos, sem sopros. Abdome flácido, sem visceromegalias, ruídos hidroaéreos presentes. Sem edemas de membros inferiores, panturrilhas livres. Fez uso de dinitrato de isossorbida 5 mg sublingual, tendo cessado a dor. Eletrocardiograma   realizado na admissão está normal. Qual a recomendação para o acompanhamento desta paciente?",
+        "statement_text": "Mulher, com 58 anos de idade, diabética, é admitida no Pronto-Socorro com dor precordial opressiva, intensa, irradiada para membro superior esquerdo há 40 minutos, associada a sudorese fria e sensação de morte iminente. Durante o exame clínico, encontra-se em bom estado geral, eupneica, Pressão arterial = 100 x 70 mmHg,  Frequência cardíaca = 92 bpm, Frequência respiratória = 20 ipm. Pulmões limpos. Ritmo cardíaco regular, dois tempos, sem sopros. Abdome flácido, sem visceromegalias, ruídos hidroaéreos presentes. Sem edemas de membros inferiores, panturrilhas livres. Fez uso de dinitrato de isossorbida 5 mg sublingual, tendo cessado a dor. Eletrocardiograma   realizado na admissão está normal. Qual a recomendação para o acompanhamento desta paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:29:03.734285 +0000 UTC",
+        "solution": {
+          "_key": "0db93b44-a4af-44f0-8f2c-5e7b672b6e10",
+          "complete": "<b>Gabarito: B</b><div><br></div><div><b>COMENTÁRIO – BRUNO FERRAZ – CARDIOLOGIA / TEMA: SÍNDROME CORONARIANA AGUDA</b></div><div><b><br></b></div><div>A dor torácica é o principal sintoma que motiva a investigação diagnóstica de uma possível síndrome coronariana aguda. As características de uma dor torácica tipicamente anginosa são: dor retroesternal em aperto com irradiação para membro superior esquerdo ou mandíbula, precipitada por esforços e aliviada por repouso ou nitrato. Quanto maior o número de características, mais sugestivo é o quadro.&nbsp;</div><div><br></div><div>O próximo passo é a realização do eletrocardiograma em até 10 minutos visando a identificação de alterações eletrocardiográficas que podem demandar conduta imediata (presença de supradesnivelamento do segmento ST). Nos pacientes sem supradesnivelamento, a dosagem sérica dos marcadores de necrose miocárdica (preferencialmente troponina) irá determinar a presença de infarto agudo do miocárdio. Nos pacientes com sintomas típicos e marcadores normais, o diagnóstico é angina instável.&nbsp;</div><div><br></div><div>Existem diversas maneiras de estratificar o risco desses pacientes. A tabela abaixo é a proposta por Braunwald e a seguinte é o HEART Score que é uma ferramenta muito boa para definir a conduta na emergência: qual paciente você deve dar alta, qual deve internar e qual deve realizar cateterismo de urgência.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D4D805BC-72DD-1AEE-B936-BE4C4F3CCA85/D4D805BC-72DD-1AEE-B936-BE4C4F3CCA85-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/648377A6-3C1F-2C9D-8A02-68003364F760/648377A6-3C1F-2C9D-8A02-68003364F760-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Observe que a paciente da questão apresenta história altamente suspeita (2 pontos), ECG normal (0 ponto), 58 anos (1 ponto), diabetes (1 ponto) e troponina não informada. Apresenta, no mínimo, 4 pontos e uma chance razoável de eventos coronarianos. Esses pacientes precisam ser monitorados e realizar curva enzimática e ECG seriado para auxílio na decisão clínica.</div>",
+          "sanitized_complete": "Gabarito: BCOMENTÁRIO – BRUNO FERRAZ – CARDIOLOGIA / TEMA: SÍNDROME CORONARIANA AGUDAA dor torácica é o principal sintoma que motiva a investigação diagnóstica de uma possível síndrome coronariana aguda. As características de uma dor torácica tipicamente anginosa são: dor retroesternal em aperto com irradiação para membro superior esquerdo ou mandíbula, precipitada por esforços e aliviada por repouso ou nitrato. Quanto maior o número de características, mais sugestivo é o quadro. O próximo passo é a realização do eletrocardiograma em até 10 minutos visando a identificação de alterações eletrocardiográficas que podem demandar conduta imediata (presença de supradesnivelamento do segmento ST). Nos pacientes sem supradesnivelamento, a dosagem sérica dos marcadores de necrose miocárdica (preferencialmente troponina) irá determinar a presença de infarto agudo do miocárdio. Nos pacientes com sintomas típicos e marcadores normais, o diagnóstico é angina instável. Existem diversas maneiras de estratificar o risco desses pacientes. A tabela abaixo é a proposta por Braunwald e a seguinte é o HEART Score que é uma ferramenta muito boa para definir a conduta na emergência: qual paciente você deve dar alta, qual deve internar e qual deve realizar cateterismo de urgência.Observe que a paciente da questão apresenta história altamente suspeita (2 pontos), ECG normal (0 ponto), 58 anos (1 ponto), diabetes (1 ponto) e troponina não informada. Apresenta, no mínimo, 4 pontos e uma chance razoável de eventos coronarianos. Esses pacientes precisam ser monitorados e realizar curva enzimática e ECG seriado para auxílio na decisão clínica.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+          "author_email_id": "359a65542741af97a3f8ad05b970d816",
+          "author_profile": {
+            "id": "9c725a01-af55-4ce0-b3f7-92b9eed079d8",
+            "full_name": "Bruno Ferraz ",
+            "avatar_url": "https://static.accounts.estrategia.com/4206af534c6731db1c5feadb6250858b",
+            "about_me": "Graduação em Medicina UFRJ, Residência em Clínica Médica - HFAG, Residência em Cardiologia - HBD, Título de Especialista em Cardiologia, Ecocardiografia e Medicina Intensiva, Mestre em Engenharia Biomédica - COPPE UFRJ. Professor de Cardiologia do Estratégia MED 🦉",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/brunoferrazcardiologia",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbrunoferraz",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-ferraz-928042101",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 02:39:59.985122 +0000 UTC",
+          "updated_at": "2020-10-18 02:40:01.88434 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Mulher-com-58-anos113eef62bb4",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

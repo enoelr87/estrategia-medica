@@ -1,0 +1,331 @@
+{
+    "data": [
+      {
+        "id": "4000129282",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6563a841615c4b269bc1b546c5789722",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "17b5b5ba494c4230b5e1cc164a36d34c",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Vaginose bacteriana[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "910b668c5a6b45509ecca97df0592e78",
+            "name": "Quadro clínico",
+            "is_master": false,
+            "master_id": "17b5b5ba494c4230b5e1cc164a36d34c",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Vaginose bacteriana[$$]Quadro clínico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "992595eaf12b4088bf30799520d32a59",
+            "name": "Introdução ",
+            "is_master": false,
+            "master_id": "17b5b5ba494c4230b5e1cc164a36d34c",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Vaginose bacteriana[$$]Introdução ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "9f54cb65f5474a80813dd88ac4882792",
+            "name": "Abordagem da paciente com queixa de corrimento vaginal",
+            "is_master": false,
+            "master_id": "3f386a54f70649debd1cde9eb678f1e6",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Abordagem da paciente com queixa de corrimento vaginal",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "349b6663-c68e-419f-a8ba-128af89e57f5",
+            "position": "0",
+            "body": "Chlamydia; tratamento com tinidazol.<div>&nbsp;</div>",
+            "sanitized_body": "Chlamydia; tratamento com tinidazol. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+            "updated_at": "2021-07-28 18:51:36.377866 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a clamídia é responsável por cervicite e não por vulvovaginite.<div>Na maioria dos casos é assintomática, mas o colo uterino pode se apresentar edemaciado e friável.</div><div>O tratamento é feito com azitromicina ou doxiciclina.</div>",
+              "sanitized_complete": "a clamídia é responsável por cervicite e não por vulvovaginite.Na maioria dos casos é assintomática, mas o colo uterino pode se apresentar edemaciado e friável.O tratamento é feito com azitromicina ou doxiciclina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 19:04:50.660557 +0000 UTC",
+              "updated_at": "2021-07-28 19:04:53.219906 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 34
+          },
+          {
+            "id": "146793b7-3353-423c-9840-cf4c31f5612a",
+            "position": "1",
+            "body": "Candidíase; tratamento com cetoconazol.<div>&nbsp;</div>",
+            "sanitized_body": "Candidíase; tratamento com cetoconazol. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+            "updated_at": "2021-07-28 18:51:36.573204 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "como vimos acima, a candidíase é caracterizada por corrimento branco, grumoso, sem odor e o fluconazol é uma das principais opções de tratamento.",
+              "sanitized_complete": "como vimos acima, a candidíase é caracterizada por corrimento branco, grumoso, sem odor e o fluconazol é uma das principais opções de tratamento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 19:04:50.660943 +0000 UTC",
+              "updated_at": "2021-07-28 19:04:53.233715 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 62
+          },
+          {
+            "id": "3565db16-6211-4750-b8e0-62b60639d412",
+            "position": "2",
+            "body": "Gonococo; tratamento com metronidazol.<div>&nbsp;</div>",
+            "sanitized_body": "Gonococo; tratamento com metronidazol. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+            "updated_at": "2021-07-28 18:51:36.764907 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o gonococo é responsável por cervicite. Apresenta-se como corrimento cervical purulento, com sinais inflamatórios. O tratamento padrão é feito com ceftriaxona.",
+              "sanitized_complete": "o gonococo é responsável por cervicite. Apresenta-se como corrimento cervical purulento, com sinais inflamatórios. O tratamento padrão é feito com ceftriaxona.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 19:04:50.652169 +0000 UTC",
+              "updated_at": "2021-07-28 19:04:53.22445 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 135
+          },
+          {
+            "id": "305c8df8-b296-4c6b-901b-b9071da649ee",
+            "position": "3",
+            "body": "Trichomoníase; tratamento com ampicilina.<div>&nbsp;</div>",
+            "sanitized_body": "Trichomoníase; tratamento com ampicilina. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+            "updated_at": "2021-07-28 18:51:36.940883 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A tricomoníase se caracteriza por corrimento amarelo-esverdeado com odor fétido. O tratamento padrão é feito com metronidazol ou tinidazol via oral.",
+              "sanitized_complete": "A tricomoníase se caracteriza por corrimento amarelo-esverdeado com odor fétido. O tratamento padrão é feito com metronidazol ou tinidazol via oral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 19:04:50.675437 +0000 UTC",
+              "updated_at": "2021-07-28 19:04:53.230841 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 66
+          },
+          {
+            "id": "4d6b55ba-7c0b-4a75-aeca-0031dd0a15d7",
+            "position": "4",
+            "body": "Gardenerella; tratamento com secnidazol.",
+            "sanitized_body": "Gardenerella; tratamento com secnidazol.",
+            "correct": true,
+            "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+            "updated_at": "2021-07-28 18:51:37.467634 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Apesar dessa alternativa ter sido a correta, há uma observação há ser feita.&nbsp;<div>O quadro clínico é sugestivo de vaginose bacteriana. É uma síndrome polimicrobiana caracterizada pelo desbalanço da flora vaginal, com aumento maciço de anaeróbios, particularmente Gardnerella vaginalis e espécies de Mobiluncus e Bacterioides, e diminuição dos lactobacilos. Caracteriza-se por corrimento vaginal branco ou branco-acinzentado, homogêneo, com odor desagradável (“odor de peixe podre”), que piora após o coito e no período menstrual.</div><div>O tratamento pode ser feito por via oral ou vaginal. Seguem abaixo as recomendações do Ministério da Saúde (MS):</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/611488DC-F0FC-F309-1883-CC528523B8A6/611488DC-F0FC-F309-1883-CC528523B8A6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Observe que, apesar de bastante utilizado na prática clínica, o secnidazol não é uma opção-terapêutica padrão para a vaginose bacteriana.</div>",
+              "sanitized_complete": "Apesar dessa alternativa ter sido a correta, há uma observação há ser feita. O quadro clínico é sugestivo de vaginose bacteriana. É uma síndrome polimicrobiana caracterizada pelo desbalanço da flora vaginal, com aumento maciço de anaeróbios, particularmente Gardnerella vaginalis e espécies de Mobiluncus e Bacterioides, e diminuição dos lactobacilos. Caracteriza-se por corrimento vaginal branco ou branco-acinzentado, homogêneo, com odor desagradável (“odor de peixe podre”), que piora após o coito e no período menstrual.O tratamento pode ser feito por via oral ou vaginal. Seguem abaixo as recomendações do Ministério da Saúde (MS):Observe que, apesar de bastante utilizado na prática clínica, o secnidazol não é uma opção-terapêutica padrão para a vaginose bacteriana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 19:04:50.705762 +0000 UTC",
+              "updated_at": "2021-07-28 19:04:53.244651 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1377
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 21 anos, nuligesta, casada, em uso de método contraceptivo oral, procurou atendimento ginecológico com queixa de corrimento vaginal branco-acinzentado, de pequena intensidade e odor fétido, que se iniciou há 5 dias. A paciente relata ter feito uso de fluconazol oral sem melhora.<div><br><div>Nesse caso, qual o principal agente etiológico e a conduta terapêutica a ser adotada?</div><div>&nbsp;</div></div>",
+        "statement_text": "Uma mulher de 21 anos, nuligesta, casada, em uso de método contraceptivo oral, procurou atendimento ginecológico com queixa de corrimento vaginal branco-acinzentado, de pequena intensidade e odor fétido, que se iniciou há 5 dias. A paciente relata ter feito uso de fluconazol oral sem melhora.Nesse caso, qual o principal agente etiológico e a conduta terapêutica a ser adotada? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 14:23:11.364204 +0000 UTC",
+        "forum_id": "67cbb134-d34d-4100-ac58-d4eb75bb3b1a",
+        "solution": {
+          "_key": "55802325-ce80-41dd-9761-4d82c9b34863",
+          "complete": "Observe que a nossa paciente tem queixa de corrimento vaginal com odor fétido e realizou tratamento com Fluconazol. Esse medicamento é um antifúngico, utilizado para tratamento da candidíase, que é um a vulvovaginite caracterizada por corrimento branco e grumoso SEM odor. Logo, a paciente fez tratamento incorreto!<div>Pelas características do corrimento vaginal, estamos diante de um caso de vaginose bacteriana, uma vulvovaginite caracterizada pelo desbalanço de flora vaginal, com redução da população lactobacilar e aumento maciço de anaeróbios.</div><div>Vamos analisar as alternativas:</div><div><br></div>",
+          "sanitized_complete": "Observe que a nossa paciente tem queixa de corrimento vaginal com odor fétido e realizou tratamento com Fluconazol. Esse medicamento é um antifúngico, utilizado para tratamento da candidíase, que é um a vulvovaginite caracterizada por corrimento branco e grumoso SEM odor. Logo, a paciente fez tratamento incorreto!Pelas características do corrimento vaginal, estamos diante de um caso de vaginose bacteriana, uma vulvovaginite caracterizada pelo desbalanço de flora vaginal, com redução da população lactobacilar e aumento maciço de anaeróbios.Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-28 19:04:50.971884 +0000 UTC",
+          "updated_at": "2021-07-28 19:04:53.433963 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129282-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-21-anos583c11a439",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

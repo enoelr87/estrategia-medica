@@ -1,0 +1,337 @@
+{
+    "data": [
+      {
+        "id": "4000127142",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "321375f340504f81a96421f43d041575",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "ca1958e107b8498ea1a715be5aa5e20f",
+            "path": "Cirurgia[$$]Complicações Pós-Operatórias[$$]Complicações Locais[$$]Infecção de Ferida Operatória / Infecção de Sítio Cirúrgico (ISC)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "5d723a48484a4edd863d7a3554399b91",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "ca1958e107b8498ea1a715be5aa5e20f",
+            "path": "Cirurgia[$$]Complicações Pós-Operatórias[$$]Complicações Locais[$$]Infecção de Ferida Operatória / Infecção de Sítio Cirúrgico (ISC)[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d0f4e7c433d8496b977fe573a3955c53",
+            "name": "Tratamento ",
+            "is_master": false,
+            "master_id": "ca1958e107b8498ea1a715be5aa5e20f",
+            "path": "Cirurgia[$$]Complicações Pós-Operatórias[$$]Complicações Locais[$$]Infecção de Ferida Operatória / Infecção de Sítio Cirúrgico (ISC)[$$]Tratamento ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "bf498db8-695b-4c5e-8563-faeb58c9fd37",
+            "position": "0",
+            "body": "Infecção de sítio cirúrgico e iniciar antibioticoterapia.",
+            "sanitized_body": "Infecção de sítio cirúrgico e iniciar antibioticoterapia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:08.814817 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: O diagnóstico de infecção de ferida operatória está correta. Para o diagnóstico, é necessário a presença de sinais flogísticos, não sendo obrigatório a presença de secreção purulenta. Nas infecções superficiais, a primeira medida é a abertura da ferida. Nesses casos, podemos manejar a infecção sem a necessidade de antibioticoterapia.",
+              "sanitized_complete": "ERRADA: O diagnóstico de infecção de ferida operatória está correta. Para o diagnóstico, é necessário a presença de sinais flogísticos, não sendo obrigatório a presença de secreção purulenta. Nas infecções superficiais, a primeira medida é a abertura da ferida. Nesses casos, podemos manejar a infecção sem a necessidade de antibioticoterapia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:41:55.818547 +0000 UTC",
+              "updated_at": "2020-11-10 14:41:57.055109 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 42
+          },
+          {
+            "id": "9813f65b-cb16-4127-917b-f2dcf157271b",
+            "position": "1",
+            "body": "Seroma e colocar dreno laminar pela incisão, após retirada de um dos pontos.",
+            "sanitized_body": "Seroma e colocar dreno laminar pela incisão, após retirada de um dos pontos.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:08.887071 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: Os seromas geralmente se manifestam com um inchaço, pressão ou desconforto localizado e bem circunscrito na ferida operatória. Apresentam drenagem de líquido claro. Não apresentam sinais flogísticos na ferida operatória.",
+              "sanitized_complete": "ERRADA: Os seromas geralmente se manifestam com um inchaço, pressão ou desconforto localizado e bem circunscrito na ferida operatória. Apresentam drenagem de líquido claro. Não apresentam sinais flogísticos na ferida operatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:41:55.802311 +0000 UTC",
+              "updated_at": "2020-11-10 14:41:57.059404 +0000 UTC"
+            },
+            "answer_percentage": 20,
+            "answers": 329
+          },
+          {
+            "id": "b3b64abb-b556-4d0c-9c3e-a8123422f9e7",
+            "position": "2",
+            "body": "Infecção de sítio cirúrgico e abrir a incisão, seguida de lavagem com soro fisiológico.",
+            "sanitized_body": "Infecção de sítio cirúrgico e abrir a incisão, seguida de lavagem com soro fisiológico.",
+            "correct": true,
+            "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:08.954495 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA: O diagnóstico de infecção de ferida operatória está correto, visto que temos sinais flogísticos junto à incisão cirúrgica. O tratamento básico das infecções de ferida é a abertura dos pontos e lavagem da ferida com solução salina. As infecções de ferida operatória superficiais que foram abertas geralmente podem ser tratadas sem antibióticos.",
+              "sanitized_complete": "CORRETA: O diagnóstico de infecção de ferida operatória está correto, visto que temos sinais flogísticos junto à incisão cirúrgica. O tratamento básico das infecções de ferida é a abertura dos pontos e lavagem da ferida com solução salina. As infecções de ferida operatória superficiais que foram abertas geralmente podem ser tratadas sem antibióticos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:41:55.824109 +0000 UTC",
+              "updated_at": "2020-11-10 14:41:57.049869 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 1086
+          },
+          {
+            "id": "77c4adaa-69b9-4b45-b966-23806f90d15a",
+            "position": "3",
+            "body": "Seroma e orientar o paciente que o conteúdo será absorvido pelo organismo.",
+            "sanitized_body": "Seroma e orientar o paciente que o conteúdo será absorvido pelo organismo.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:09.031285 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: Seroma é uma coleção de gordura liquefeita, soro e linfa sob a incisão, no tecido subcutâneo. No seroma, a incisão não apresenta sinais flogísticos, como dor, hiperemia, edema e calor.",
+              "sanitized_complete": "ERRADA: Seroma é uma coleção de gordura liquefeita, soro e linfa sob a incisão, no tecido subcutâneo. No seroma, a incisão não apresenta sinais flogísticos, como dor, hiperemia, edema e calor.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:41:55.804677 +0000 UTC",
+              "updated_at": "2020-11-10 14:41:57.061542 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 148
+          },
+          {
+            "id": "8b6dc05f-e32f-48e1-b999-c4ee2b5529d3",
+            "position": "4",
+            "body": "Hérnia incisional e orientar o paciente a procurar imediatamente o cirurgião que o operou.",
+            "sanitized_body": "Hérnia incisional e orientar o paciente a procurar imediatamente o cirurgião que o operou.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:09.102052 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: A hérnia incisional é uma complicação tardia decorrente da falha na cicatrização da aponeurose, normalmente secundária à infecção da ferida operatória. O quadro clínico é de abaulamento da ferida operatória, redutível. Há, na história, relato de saída de líquido serossanguinolento pela ferida, o que corresponde à eventração prévia.",
+              "sanitized_complete": "ERRADA: A hérnia incisional é uma complicação tardia decorrente da falha na cicatrização da aponeurose, normalmente secundária à infecção da ferida operatória. O quadro clínico é de abaulamento da ferida operatória, redutível. Há, na história, relato de saída de líquido serossanguinolento pela ferida, o que corresponde à eventração prévia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:41:55.829336 +0000 UTC",
+              "updated_at": "2020-11-10 14:41:57.056282 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 23
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente do sexo masculino, com 22 anos de idade, submetido a tratamento cirúrgico de apendicite aguda há oito dias, procura a Unidade Básica de Saúde queixando-se de   dor intensa e “inflamação” no local da incisão cirúrgica que ainda encontra-se com  pontos. Relata que evoluiu bem após a cirurgia recebendo alta no segundo dia pós- operatório com prescrição de dipirona, se necessário. Desde então, retomava as   atividades habituais até que há um dia começou a notar aumento de volume no local da ferida operatória. Não informa febre e apresenta boa aceitação alimentar. Durante o  exame físico, nota-se ferida operatória de aproximadamente 7 cm, oblíqua em fossa ilíaca direita discretamente elevada, hiperemiada, com calor local e saída de pequena  quantidade de secreção amarelada, sem brilho, viscosa e que suja a roupa. Abdome flácido e indolor fora da área de incisão. Temperatura axilar normal. Frequência cardíaca = 72 bpm, Frequência respiratória = 16 irpm. Diante do quadro, qual o diagnóstico e a conduta para o caso nesse momento?",
+        "statement_text": "Paciente do sexo masculino, com 22 anos de idade, submetido a tratamento cirúrgico de apendicite aguda há oito dias, procura a Unidade Básica de Saúde queixando-se de   dor intensa e “inflamação” no local da incisão cirúrgica que ainda encontra-se com  pontos. Relata que evoluiu bem após a cirurgia recebendo alta no segundo dia pós- operatório com prescrição de dipirona, se necessário. Desde então, retomava as   atividades habituais até que há um dia começou a notar aumento de volume no local da ferida operatória. Não informa febre e apresenta boa aceitação alimentar. Durante o  exame físico, nota-se ferida operatória de aproximadamente 7 cm, oblíqua em fossa ilíaca direita discretamente elevada, hiperemiada, com calor local e saída de pequena  quantidade de secreção amarelada, sem brilho, viscosa e que suja a roupa. Abdome flácido e indolor fora da área de incisão. Temperatura axilar normal. Frequência cardíaca = 72 bpm, Frequência respiratória = 16 irpm. Diante do quadro, qual o diagnóstico e a conduta para o caso nesse momento?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:24:43.161557 +0000 UTC",
+        "forum_id": "c5c3c8ce-67e2-4cb7-9f42-07077535a131",
+        "solution": {
+          "_key": "f1d7d42c-27ec-4405-bd0c-c9f9d1bd5083",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Eu sei que enunciados grandes costumam assustar os candidatos. Por isso, vamos analisar com calma para identificarmos o diagnóstico correto e a conduta mais adequada.</div><div><br></div><div>Paciente foi submetido há oito dias atrás a apendicectomia. Refere que, no local da incisão, tem dor intensa e aumento do volume no local da ferida. Nega febre e outras queixas. Ao exame, temos uma ferida apresentando hiperemia, calor e saída de secreção amarelada. Com essas alterações, já podemos determinar o diagnóstico e conduta. Vamos às opções:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CEu sei que enunciados grandes costumam assustar os candidatos. Por isso, vamos analisar com calma para identificarmos o diagnóstico correto e a conduta mais adequada.Paciente foi submetido há oito dias atrás a apendicectomia. Refere que, no local da incisão, tem dor intensa e aumento do volume no local da ferida. Nega febre e outras queixas. Ao exame, temos uma ferida apresentando hiperemia, calor e saída de secreção amarelada. Com essas alterações, já podemos determinar o diagnóstico e conduta. Vamos às opções:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+          "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+          "author_profile": {
+            "id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+            "full_name": "Tomás Ramos Velloso Coelho",
+            "avatar_url": "https://static.accounts.estrategia.com/69136def6e8ce33ad05052b6ff065ac8",
+            "about_me": "Graduação em Medicina pela Universidade do Estado do Rio de Janeiro - UERJ (2010), residência em Cirurgia Geral pela Universidade do Estado do Rio de Janeiro - UERJ (2012 - 2014), residência em Cancerologia Cirúrgica pelo Hospital de Amor - BarretosSP (2014 - 2017). Cirurgião Oncológico do Instituto do Câncer de Três Lagoas de 2017 a 2019. Desde 2019 em São PauloSP e, desde 2020, professor do Estratégia Med.\n",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/tomas_coelho87",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/tomas-coelho-14562b178",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-10 14:41:55.917264 +0000 UTC",
+          "updated_at": "2020-11-10 14:41:57.135513 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127142-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-sexo172199ea4ea",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

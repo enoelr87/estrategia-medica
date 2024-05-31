@@ -1,0 +1,311 @@
+{
+    "data": [
+      {
+        "id": "4000127090",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "22fa55a562c04533ad4a907dc82351f3",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "b90653c037a846488c65f9aea51dee98",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento segunda metade da gestação [$$]Descolamento prematuro de placenta (DPP)[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7e5b061a-c924-4d4d-b876-c3f38ae369d9",
+            "position": "0",
+            "body": "reposição de volemia e resolução por cesárea.",
+            "sanitized_body": "reposição de volemia e resolução por cesárea.",
+            "correct": true,
+            "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+            "updated_at": "2020-11-20 00:45:15.83154 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “a” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e a conduta é realizar o parto. Uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, a via de parto mais adequada nesse caso é a via alta, ou seja, o parto cesáreo. Note ainda que no caso apresentado no enunciado há sinais de instabilidade hemodinâmica materna, uma vez que há descrição de hipotensão e taquicardia, sendo essencial iniciar a reposição volêmica imediatamente.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa “a” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e a conduta é realizar o parto. Uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, a via de parto mais adequada nesse caso é a via alta, ou seja, o parto cesáreo. Note ainda que no caso apresentado no enunciado há sinais de instabilidade hemodinâmica materna, uma vez que há descrição de hipotensão e taquicardia, sendo essencial iniciar a reposição volêmica imediatamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:17:03.351491 +0000 UTC",
+              "updated_at": "2020-10-20 10:17:03.868061 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 1030
+          },
+          {
+            "id": "aad70d4c-4faf-4a65-9fa0-7325ca793779",
+            "position": "1",
+            "body": "indução do parto com ocitocina.",
+            "sanitized_body": "indução do parto com ocitocina.",
+            "correct": false,
+            "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+            "updated_at": "2020-11-20 00:45:15.861987 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e a conduta é realizar o parto. Uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, a via de parto mais adequada nesse caso é a via alta, ou seja, o parto cesáreo, e não indução do parto com ocitocina, em que o parto levaria horas para ocorrer.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e a conduta é realizar o parto. Uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, a via de parto mais adequada nesse caso é a via alta, ou seja, o parto cesáreo, e não indução do parto com ocitocina, em que o parto levaria horas para ocorrer.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:17:03.34366 +0000 UTC",
+              "updated_at": "2020-10-20 10:17:03.887517 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          },
+          {
+            "id": "3d842aef-9dc6-47b3-b8a3-2961801899eb",
+            "position": "2",
+            "body": "reposição da volemia e aguardar a evolução do trabalho de parto.",
+            "sanitized_body": "reposição da volemia e aguardar a evolução do trabalho de parto.",
+            "correct": false,
+            "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+            "updated_at": "2020-11-20 00:45:15.895216 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “c” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e, apesar de estar correto que a conduta é realizar o parto e iniciar a reposição volêmica imediatamente, diante da hipotensão e taquicardia maternas que demonstram instabilidade hemodinâmica, a via de parto deve ser a via alta, ou seja, o parto cesáreo, uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, e não aguardar a evolução do trabalho de parto, em que o parto levaria horas para ocorrer.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “c” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e, apesar de estar correto que a conduta é realizar o parto e iniciar a reposição volêmica imediatamente, diante da hipotensão e taquicardia maternas que demonstram instabilidade hemodinâmica, a via de parto deve ser a via alta, ou seja, o parto cesáreo, uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, e não aguardar a evolução do trabalho de parto, em que o parto levaria horas para ocorrer.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:17:03.340726 +0000 UTC",
+              "updated_at": "2020-10-20 10:17:03.883334 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 96
+          },
+          {
+            "id": "0d8ec32f-ff69-4af3-a80e-adf875983b90",
+            "position": "3",
+            "body": "exame ultrassonográfico para confirmação diagnóstica.",
+            "sanitized_body": "exame ultrassonográfico para confirmação diagnóstica.",
+            "correct": false,
+            "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+            "updated_at": "2020-11-20 00:45:15.984451 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta (DPP) e a conduta é realizar o parto via alta, ou seja, o parto cesáreo, e iniciar a reposição volêmica imediatamente, diante da hipotensão e taquicardia maternas que demonstram instabilidade hemodinâmica. Vale ressaltar que o DPP é clínico e a conduta é realizar o parto, o que não deve ser retardado para realizar ultrassonografia ou outros exames complementares para confirmação diagnóstica.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “d” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta (DPP) e a conduta é realizar o parto via alta, ou seja, o parto cesáreo, e iniciar a reposição volêmica imediatamente, diante da hipotensão e taquicardia maternas que demonstram instabilidade hemodinâmica. Vale ressaltar que o DPP é clínico e a conduta é realizar o parto, o que não deve ser retardado para realizar ultrassonografia ou outros exames complementares para confirmação diagnóstica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:17:03.343058 +0000 UTC",
+              "updated_at": "2020-10-20 10:17:03.905275 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 11
+          },
+          {
+            "id": "ad369a1f-041c-4b58-a5ac-f902d18fafb6",
+            "position": "4",
+            "body": "realização de amniotomia e aguardar o parto vaginal.",
+            "sanitized_body": "realização de amniotomia e aguardar o parto vaginal.",
+            "correct": false,
+            "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+            "updated_at": "2020-11-20 00:45:16.021467 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “e” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e, apesar de estar correto a conduta de realizar amniotomia, ou seja, rotura artificial das membranas amnióticas, para reduzir a pressão intrauterina, confirmar a presença de hemoâmnio, reduzir a hipertonia uterina e o risco de CIVD, a via de parto deve ser a via alta, ou seja, o parto cesáreo, uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, e não aguardar a evolução do trabalho de parto, em que o parto vaginal levaria horas para ocorrer.<div><br><div>Gabarito: alternativa A.</div><div><br></div></div>",
+              "sanitized_complete": "Incorreta a alternativa “e” porque o quadro de sangramento vaginal associado a hipertonia uterina, instabilidade hemodinâmica materna e sofrimento fetal, caracterizado pela taquicardia fetal, associa-se ao diagnóstico de descolamento prematuro de placenta e, apesar de estar correto a conduta de realizar amniotomia, ou seja, rotura artificial das membranas amnióticas, para reduzir a pressão intrauterina, confirmar a presença de hemoâmnio, reduzir a hipertonia uterina e o risco de CIVD, a via de parto deve ser a via alta, ou seja, o parto cesáreo, uma vez que no caso apresentado o feto está vivo e o parto vaginal não é iminente, já que a dilatação cervical descrita é de apenas quatro centímetros e a dilatação total corresponde a 10 centímetros, e não aguardar a evolução do trabalho de parto, em que o parto vaginal levaria horas para ocorrer.Gabarito: alternativa A.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:17:03.347783 +0000 UTC",
+              "updated_at": "2020-10-20 10:17:03.904214 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 73
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Primigesta, tabagista, na 36a semana de gestação, procura a emergência da maternidade com sangramento vaginal de moderada quantidade, há 20 minutos, associado a dor abdominal, de forte intensidade. Ao exame: Pressão arterial = 80 x 50 mmHg, pulso = 120 bpm e mucosas descoradas. Frequência Cardíaca Fetal = 180 bpm. Útero hipertônico, colo com dilatação cervical de 4,0 cm. A conduta médica deve incluir",
+        "statement_text": "Primigesta, tabagista, na 36a semana de gestação, procura a emergência da maternidade com sangramento vaginal de moderada quantidade, há 20 minutos, associado a dor abdominal, de forte intensidade. Ao exame: Pressão arterial = 80 x 50 mmHg, pulso = 120 bpm e mucosas descoradas. Frequência Cardíaca Fetal = 180 bpm. Útero hipertônico, colo com dilatação cervical de 4,0 cm. A conduta médica deve incluir",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 10:20:54.122052 +0000 UTC",
+        "forum_id": "d3124b32-226e-4352-bbc1-1c8a32424da4",
+        "solution": {
+          "_key": "aea1c239-3814-4c5f-8636-b058a3bf7595",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você sabe identificar na história clínica e exame físico os sinais sugestivos do descolamento prematuro de placenta e qual a conduta assumir frente ao DPP.</div><div><br><div>Doc, o descolamento prematuro de placenta (DPP) caracteriza-se pela separação da placenta de inserção normal de seu local de implantação no útero antes da saída do feto após a 20ª semana. Duas situações devem sempre fazer você pensar nesse diagnóstico diante de um caso de sangramento da segunda metade da gestação: HIPERTONIA E HIPERTENSÃO. Lembre-se que o DPP é uma emergência obstétrica e a conduta diante desse diagnóstico deve ser sempre realizar o parto, porém a decisão da via de parto leva em consideração as condições fetais e condições maternas conforme demonstrado no fluxograma abaixo. Vale ressaltar que garantir acesso venoso adequado para reposição de volume e coleta de tipagem sanguínea, caso seja necessário realizar transfusão sanguínea, são cuidados importantes nesses casos.&nbsp;</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CCAF96ED-3FF3-32D0-54F5-194BE8FA57AC/CCAF96ED-3FF3-32D0-54F5-194BE8FA57AC-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador quer saber: Se você sabe identificar na história clínica e exame físico os sinais sugestivos do descolamento prematuro de placenta e qual a conduta assumir frente ao DPP.Doc, o descolamento prematuro de placenta (DPP) caracteriza-se pela separação da placenta de inserção normal de seu local de implantação no útero antes da saída do feto após a 20ª semana. Duas situações devem sempre fazer você pensar nesse diagnóstico diante de um caso de sangramento da segunda metade da gestação: HIPERTONIA E HIPERTENSÃO. Lembre-se que o DPP é uma emergência obstétrica e a conduta diante desse diagnóstico deve ser sempre realizar o parto, porém a decisão da via de parto leva em consideração as condições fetais e condições maternas conforme demonstrado no fluxograma abaixo. Vale ressaltar que garantir acesso venoso adequado para reposição de volume e coleta de tipagem sanguínea, caso seja necessário realizar transfusão sanguínea, são cuidados importantes nesses casos. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 10:17:03.48733 +0000 UTC",
+          "updated_at": "2020-10-20 10:17:04.070016 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127090-720.mp4",
+        "unlisted": false,
+        "slug": "Primigesta-tabagista641fa3c78d",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

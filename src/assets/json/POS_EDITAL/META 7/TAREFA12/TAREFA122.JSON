@@ -1,0 +1,3418 @@
+{
+    "data": [
+      {
+        "id": "4000153155",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "AB931441-8FCE-0010-64D2-2AE71DDE440E"
+              },
+              {
+                "type": "NOTICE",
+                "url": "9D903A58-4A2E-9D5C-8C4E-1A12F12D7E95"
+              },
+              {
+                "type": "ANSWER",
+                "url": "B52BD576-866F-3757-A671-F29775669139"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 105,
+            "created_at": "2021-09-08T12:47:08Z",
+            "updated_at": "2021-12-10T00:02:36Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "69d6654bfb114f7ebedebe54d358a773",
+            "name": "Tuberculose",
+            "is_master": false,
+            "master_id": "061176ba25e541efa5c80238604512dd",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Tuberculose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6643fcb4-e802-493f-a925-44ca199043b5",
+            "position": "0",
+            "body": "avaliar eventual resistência do HIV aos antirretrovirais em uso para depois desse resultado iniciar o tratamento da tuberculose. ",
+            "sanitized_body": "avaliar eventual resistência do HIV aos antirretrovirais em uso para depois desse resultado iniciar o tratamento da tuberculose. ",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:27.902935 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Jamais o tratamento da tuberculose deve ser atrasado aguardando genotipagem do HIV.",
+              "sanitized_complete": "Jamais o tratamento da tuberculose deve ser atrasado aguardando genotipagem do HIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.403425 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.626284 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 110
+          },
+          {
+            "id": "b69ebfec-a7cd-42c7-8178-0640e50f6da1",
+            "position": "1",
+            "body": "avaliar eventual resistência do HIV aos antirretrovirais em uso, sem atrasar início do tratamento da tuberculose.",
+            "sanitized_body": "avaliar eventual resistência do HIV aos antirretrovirais em uso, sem atrasar início do tratamento da tuberculose.",
+            "correct": true,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.062928 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O tratamento da tuberculose deve ser uma prioridade e iniciado imediatamente.",
+              "sanitized_complete": "O tratamento da tuberculose deve ser uma prioridade e iniciado imediatamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.400812 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.617906 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 3348
+          },
+          {
+            "id": "a80a163f-1db6-4524-a09e-be83b6c35eeb",
+            "position": "2",
+            "body": "avaliar eventual resistência aos antirretrovirais não é necessário, pois a carga viral está abaixo de 100 000 cópias.",
+            "sanitized_body": "avaliar eventual resistência aos antirretrovirais não é necessário, pois a carga viral está abaixo de 100 000 cópias.",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.22623 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Falhas virológicas devem ser reconhecidas precocemente, quando não se observa supressão viral sob tratamento, com cargas virais do HIV acima de 500 cópias/mL.",
+              "sanitized_complete": "Falhas virológicas devem ser reconhecidas precocemente, quando não se observa supressão viral sob tratamento, com cargas virais do HIV acima de 500 cópias/mL.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.410152 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.634461 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 195
+          },
+          {
+            "id": "06f76649-a4da-4d4b-95ed-7accdff2d386",
+            "position": "3",
+            "body": "avaliar eventual resistência do HIV através da quantificação de linfócitos CD4.",
+            "sanitized_body": "avaliar eventual resistência do HIV através da quantificação de linfócitos CD4.",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.374254 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Para a avaliação de resistência do HIV, indica-se o teste de genotipagem. CD4 nada tem a ver com resistência.",
+              "sanitized_complete": "Para a avaliação de resistência do HIV, indica-se o teste de genotipagem. CD4 nada tem a ver com resistência.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.44484 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.655417 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 172
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem, de 37 anos de idade, com AIDS/HIV diagnosticada há 3 anos, compareceu à consulta com o médico da UBS próxima de sua casa, trazendo resultados de exames solicitados na consulta anterior. O teste rápido molecular para tuberculose feito no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina. A carga viral para HIV apresentou resultado de 98 000 cópias por mililitro. Nessa situação, o médico deverá",
+        "statement_text": "Um homem, de 37 anos de idade, com AIDS/HIV diagnosticada há 3 anos, compareceu à consulta com o médico da UBS próxima de sua casa, trazendo resultados de exames solicitados na consulta anterior. O teste rápido molecular para tuberculose feito no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina. A carga viral para HIV apresentou resultado de 98 000 cópias por mililitro. Nessa situação, o médico deverá",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+        "solution": {
+          "_key": "e5974fcd-7378-46b5-95ed-9b1df9b812c6",
+          "complete": "Caro(a) Estrategista, tuberculose despenca nas provas do Revalida! <div><br><div>Paciente com HIV/aids, com teste rápido molecular para tuberculose no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina, apresenta carga viral para HIV de 98.000 cópias/mL. Ou seja, existe alguma falha (Falha de adesão? Resistência do HIV aos antirretrovirais?).</div><div><br></div><div>O tratamento para tuberculose deve ser uma prioridade e iniciada sem atrasos, considerando as recomendações de coinfecção com o HIV, isto é, usando um esquema compatível com a rifampicina.</div><div><br></div><div>Para a avaliação de eventual resistência do HIV, está indicada a genotipagem e efetuar uma possível troca medicamentosa futura, se necessário. Vale lembrar que se recomenda a realização de genotipagem pré-tratamento em que vivem com HIV para Indivíduos coinfectados TB-HIV, de forma a orientar o esquema terapêutico inicial, para avaliação de resistência primária transmitida aos ARV do esquema inicial.</div></div>",
+          "sanitized_complete": "Caro(a) Estrategista, tuberculose despenca nas provas do Revalida! Paciente com HIV/aids, com teste rápido molecular para tuberculose no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina, apresenta carga viral para HIV de 98.000 cópias/mL. Ou seja, existe alguma falha (Falha de adesão? Resistência do HIV aos antirretrovirais?).O tratamento para tuberculose deve ser uma prioridade e iniciada sem atrasos, considerando as recomendações de coinfecção com o HIV, isto é, usando um esquema compatível com a rifampicina.Para a avaliação de eventual resistência do HIV, está indicada a genotipagem e efetuar uma possível troca medicamentosa futura, se necessário. Vale lembrar que se recomenda a realização de genotipagem pré-tratamento em que vivem com HIV para Indivíduos coinfectados TB-HIV, de forma a orientar o esquema terapêutico inicial, para avaliação de resistência primária transmitida aos ARV do esquema inicial.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-09-21 23:35:14.54337 +0000 UTC",
+          "updated_at": "2021-09-21 23:38:13.69119 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153155-720.mp4",
+        "unlisted": false,
+        "slug": "homem-37-anos-idade70184ae338",
+        "public": true
+      },
+      {
+        "id": "4000152577",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "e4558f97-6063-4e05-90a7-d79e6b3c59e3",
+                "name": "5° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 5,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "91D10A6D-A548-B4EC-828C-C7161BBB6736"
+              },
+              {
+                "type": "ANSWER",
+                "url": "EC97C0DE-F918-DDC0-4D39-1957D1C8C3A5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9FA30077-8A19-1E62-D6D1-7C82F47F2FD4"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-07-27T20:48:20Z",
+            "updated_at": "2022-02-10T16:14:14Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "1dbb993b97ac4cc38931d02db812024a",
+            "name": "Neurotoxoplasmose",
+            "is_master": false,
+            "master_id": "4a8f6eaf0aec4d38adb0b97129cf4079",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções do sistema nervoso central[$$]Neurotoxoplasmose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8ec3152a-0d71-4438-8e1e-b905f25c2de2",
+            "position": "0",
+            "body": "Criptococose",
+            "sanitized_body": "Criptococose",
+            "correct": false,
+            "created_at": "2021-07-28 13:47:37.580927 +0000 UTC",
+            "updated_at": "2021-09-08 06:25:58.742731 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A. A criptococose manifesta-se principalmente como uma síndrome meníngea e os exames de imagem geralmente  não demonstram alterações específicas. Exceção é feita nos raros casos de criptococoma, quando são observadas lesões hipodensas com  captação de contraste nodular ou anular e efeito de massa variável.",
+              "sanitized_complete": "Incorreta a alternativa A. A criptococose manifesta-se principalmente como uma síndrome meníngea e os exames de imagem geralmente  não demonstram alterações específicas. Exceção é feita nos raros casos de criptococoma, quando são observadas lesões hipodensas com  captação de contraste nodular ou anular e efeito de massa variável.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-29 16:10:43.943672 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 154
+          },
+          {
+            "id": "b67b6ef1-e84e-497e-be1f-780f19921838",
+            "position": "1",
+            "body": "Neurotoxoplasmose",
+            "sanitized_body": "Neurotoxoplasmose",
+            "correct": true,
+            "created_at": "2021-07-28 13:47:37.580927 +0000 UTC",
+            "updated_at": "2021-09-08 06:25:58.807513 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B Neurotoxoplasmose é a principal doença com lesão focal expansiva cerebral em pacientes com HIV/aids. Diante do quadro clínico, imagem característica e contagem de linfócitos T CD4+ abaixo de 100/mm3 , está autorizado o início do tratamento empírico  com 1) sulfadiazina, pirimetamina e ácido folínico ou 2) trimetoprim/sulfadiazina, durante 6 semanas. Pode ser usado corticoide, caso haja  efeito de massa importante ou edema cerebral difuso na TC de crânio. Não está indicado o uso profilático de anticonvulsivantes.",
+              "sanitized_complete": "Correta a alternativa B Neurotoxoplasmose é a principal doença com lesão focal expansiva cerebral em pacientes com HIV/aids. Diante do quadro clínico, imagem característica e contagem de linfócitos T CD4+ abaixo de 100/mm3 , está autorizado o início do tratamento empírico  com 1) sulfadiazina, pirimetamina e ácido folínico ou 2) trimetoprim/sulfadiazina, durante 6 semanas. Pode ser usado corticoide, caso haja  efeito de massa importante ou edema cerebral difuso na TC de crânio. Não está indicado o uso profilático de anticonvulsivantes.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-29 16:10:43.892294 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1379
+          },
+          {
+            "id": "4d2adc3e-791d-4573-bd97-8dca01323423",
+            "position": "2",
+            "body": "Meningoencefalite herpética",
+            "sanitized_body": "Meningoencefalite herpética",
+            "correct": false,
+            "created_at": "2021-07-28 13:47:37.580927 +0000 UTC",
+            "updated_at": "2021-09-08 06:25:58.878291 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. A meningoencefalite herpética manifesta-se com lesões hipodensas envolvendo o lobo temporal e pode ter efeito  de massa associado. Caracteriza-se frequentemente por febre baixa, letargia, confusão, alteração comportamental, convulsões e défices  motores",
+              "sanitized_complete": "Incorreta a alternativa C. A meningoencefalite herpética manifesta-se com lesões hipodensas envolvendo o lobo temporal e pode ter efeito  de massa associado. Caracteriza-se frequentemente por febre baixa, letargia, confusão, alteração comportamental, convulsões e défices  motores",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-29 16:10:43.940773 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 62
+          },
+          {
+            "id": "33281779-6dc7-4364-a664-b5eee30cea12",
+            "position": "3",
+            "body": "Linfoma de sistema nervoso central.",
+            "sanitized_body": "Linfoma de sistema nervoso central.",
+            "correct": false,
+            "created_at": "2021-07-28 13:47:37.580927 +0000 UTC",
+            "updated_at": "2021-09-08 06:25:58.943073 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D. Os linfomas primários de sistema nervoso central, embora também sejam responsáveis por lesões com efeito de  massa em pacientes com HIV/aids, aparecem em uma frequência mais baixa que a neurotoxoplasmose. É o principal diagnóstico diferencial.",
+              "sanitized_complete": "Incorreta a alternativa D. Os linfomas primários de sistema nervoso central, embora também sejam responsáveis por lesões com efeito de  massa em pacientes com HIV/aids, aparecem em uma frequência mais baixa que a neurotoxoplasmose. É o principal diagnóstico diferencial.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-29 16:10:43.943714 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 82
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher, 25 anos,  com diagnóstico recente de infecção pelo HIV, procura o pronto-socorro relatando febre, cefaleia e  crise convulsiva. A contagem de leucócitos no sangue é de 3.200/mm³ e a contagem de linfócitos  T CD4+, 56/mm3 . Ela não está em uso de terapia antirretroviral. Tomografia computadorizada de  crânio:&nbsp;<div><br><div>A PRINCIPAL HIPÓTESE DIAGNÓSTICA É:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/708687E8-B5AB-10A6-C2DE-B181B690F4FC/708687E8-B5AB-10A6-C2DE-B181B690F4FC-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Fonte: Shutterstock&nbsp;</div><div><br></div></div>",
+        "statement_text": "Mulher, 25 anos,  com diagnóstico recente de infecção pelo HIV, procura o pronto-socorro relatando febre, cefaleia e  crise convulsiva. A contagem de leucócitos no sangue é de 3.200/mm³ e a contagem de linfócitos  T CD4+, 56/mm3 . Ela não está em uso de terapia antirretroviral. Tomografia computadorizada de  crânio: A PRINCIPAL HIPÓTESE DIAGNÓSTICA É:Fonte: Shutterstock ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-28 13:47:37.580927 +0000 UTC",
+        "solution": {
+          "_key": "ad93f0ee-b425-45fe-b40f-8e109ff3b47d",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Estamos diante de uma paciente com aids (HIV positivo e contagem de linfócitos T CD4+ de 56/mm3 ), sem terapia antirretroviral,  apresentando febre, cefaleia e crise convulsiva. Através da tomografia computadorizada de crânio, verifica-se lesão expansiva com realce anelar  e edema perilesional.&nbsp;</div><div><br></div><div>Fique esperto(a), porque as bancas adoram pedir esse tema!<b> Para todo paciente com HIV/aids que apresente sinais focais e/ou lesões  intracranianas expansivas, deve-se pensar sempre em NEUROTOXOPLASMOSE (ou TOXOPLASMOSE CEREBRAL) como principal suspeita  diagnóstica.</b></div><div><b><br></b></div><div>A toxoplasmose é uma infecção causada pelo protozoário intracelular Toxoplasma gondii. Pacientes imunocompetentes, quando se  infectam, geralmente não desenvolvem a doença. Porém, como o protozoário fica latente, em casos de imunossupressão, como a aids, ele pode  reativar-se. A possibilidade de reativação pode chegar a até 30% naqueles com sorologia positiva, sem profilaxia adequada e com linfócitos T  CD4+ abaixo de 100 células/mm³ .</div><div><br></div><div>É a doença neurológica associada a lesões expansivas cerebrais mais comum em pacientes com infecção pelo HIV/aids. A doença tem  um curso subagudo e o paciente pode apresentar febre e alterações neurológicas, como convulsões, alteração do estado mental e sinais focais  (hemiparesia, hemiplegia, disfasia).&nbsp;</div><div><br></div><div>A ressonância magnética (RM) é mais sensível que a tomografia computadorizada (TC), principalmente nas lesões pequenas e/ou de fossa  posterior. Contudo, a TC permite identificar lesões na maioria dos casos, sendo que 70% dos pacientes apresentam lesões múltiplas e 30% dos  pacientes apresentam lesão única. Tipicamente, observam-se lesões que captam contraste e apresentam edema perilesional. São encontradas  em qualquer topografia, sendo mais comum nos gânglios da base.&nbsp;</div><div><br></div><div>O diagnóstico é presuntivo e é feito com a associação do quadro clínico ao exame de imagem. Para diagnóstico definitivo, precisaríamos  realizar uma biópsia da lesão cerebral, o que não está indicado de rotina.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3EF472E2-B156-83BD-AA2D-FBDDD8056F8D/3EF472E2-B156-83BD-AA2D-FBDDD8056F8D-400.png\"><br></div><div><br></div><div>Para você não esquecer, segue um esquema com as principais informações sobre a neurotoxoplasmose em pacientes com aids.</div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BEstamos diante de uma paciente com aids (HIV positivo e contagem de linfócitos T CD4+ de 56/mm3 ), sem terapia antirretroviral,  apresentando febre, cefaleia e crise convulsiva. Através da tomografia computadorizada de crânio, verifica-se lesão expansiva com realce anelar  e edema perilesional. Fique esperto(a), porque as bancas adoram pedir esse tema! Para todo paciente com HIV/aids que apresente sinais focais e/ou lesões  intracranianas expansivas, deve-se pensar sempre em NEUROTOXOPLASMOSE (ou TOXOPLASMOSE CEREBRAL) como principal suspeita  diagnóstica.A toxoplasmose é uma infecção causada pelo protozoário intracelular Toxoplasma gondii. Pacientes imunocompetentes, quando se  infectam, geralmente não desenvolvem a doença. Porém, como o protozoário fica latente, em casos de imunossupressão, como a aids, ele pode  reativar-se. A possibilidade de reativação pode chegar a até 30% naqueles com sorologia positiva, sem profilaxia adequada e com linfócitos T  CD4+ abaixo de 100 células/mm³ .É a doença neurológica associada a lesões expansivas cerebrais mais comum em pacientes com infecção pelo HIV/aids. A doença tem  um curso subagudo e o paciente pode apresentar febre e alterações neurológicas, como convulsões, alteração do estado mental e sinais focais  (hemiparesia, hemiplegia, disfasia). A ressonância magnética (RM) é mais sensível que a tomografia computadorizada (TC), principalmente nas lesões pequenas e/ou de fossa  posterior. Contudo, a TC permite identificar lesões na maioria dos casos, sendo que 70% dos pacientes apresentam lesões múltiplas e 30% dos  pacientes apresentam lesão única. Tipicamente, observam-se lesões que captam contraste e apresentam edema perilesional. São encontradas  em qualquer topografia, sendo mais comum nos gânglios da base. O diagnóstico é presuntivo e é feito com a associação do quadro clínico ao exame de imagem. Para diagnóstico definitivo, precisaríamos  realizar uma biópsia da lesão cerebral, o que não está indicado de rotina.Para você não esquecer, segue um esquema com as principais informações sobre a neurotoxoplasmose em pacientes com aids.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-29 16:10:44.082981 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Mulher-25-anos-com582eef8a02",
+        "public": true
+      },
+      {
+        "id": "4000151919",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "1d2d3153-8023-4908-8121-dd46fdaa4462",
+                "name": "Simulado EMED - Residência Médica e Revalida"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F69CF06D-F4DC-0269-AB0C-8275520A1BC2"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-07-05T20:24:22Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "463ce71fe7c246c1b54dfe52f95d1cfc",
+            "name": "COVID 19",
+            "is_master": false,
+            "master_id": "491c00747b9d4a7babede86d5683efc7",
+            "path": "Clínica Médica[$$]Infectologia [$$]COVID 19",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a8483016-bc29-4142-8f6e-2f9a68623d0f",
+            "position": "0",
+            "body": "estudos demonstraram benefício para o uso de pulsoterapia nos casos críticos",
+            "sanitized_body": "estudos demonstraram benefício para o uso de pulsoterapia nos casos críticos",
+            "correct": false,
+            "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+            "updated_at": "2021-08-18 13:29:15.185125 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A.</b> Não há evidência de benefício na pulsoterapia com dexametasona em pacientes com COVID-19. Da mesma forma,  os efeitos da imunossupressão na evolução da doença são desconhecidos e podem elevar o risco de infecções associadas.",
+              "sanitized_complete": "Incorreta a alternativa A. Não há evidência de benefício na pulsoterapia com dexametasona em pacientes com COVID-19. Da mesma forma,  os efeitos da imunossupressão na evolução da doença são desconhecidos e podem elevar o risco de infecções associadas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 16:05:28.91144 +0000 UTC",
+              "updated_at": "2021-07-07 16:05:29.877659 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 81
+          },
+          {
+            "id": "144dc177-f340-44bf-a59a-ad6cefc1ee93",
+            "position": "1",
+            "body": "não deve ser utilizada em pacientes sem indicação de oxigênio suplementar",
+            "sanitized_body": "não deve ser utilizada em pacientes sem indicação de oxigênio suplementar",
+            "correct": true,
+            "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+            "updated_at": "2021-08-18 13:29:15.270358 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa B</b> Estudos demonstraram redução de mortalidade com dexametasona somente em pacientes graves e críticos,  que necessitaram de oxigênio suplementar ou ventilação mecânica",
+              "sanitized_complete": "Correta a alternativa B Estudos demonstraram redução de mortalidade com dexametasona somente em pacientes graves e críticos,  que necessitaram de oxigênio suplementar ou ventilação mecânica",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 16:05:28.887199 +0000 UTC",
+              "updated_at": "2021-07-07 16:05:29.894809 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 556
+          },
+          {
+            "id": "017e167f-03b7-4fca-ae5d-c0426d413d53",
+            "position": "2",
+            "body": "seu uso não pode ser interrompido abruptamente, devendo ser retirada gradualmente.",
+            "sanitized_body": "seu uso não pode ser interrompido abruptamente, devendo ser retirada gradualmente.",
+            "correct": false,
+            "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+            "updated_at": "2021-08-18 13:29:15.349248 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C. </b>Nesse caso, a dexametasona pode ser interrompida abruptamente, sem necessidade de retirada gradual, se prescrita  na dose preconizada (6 mg/dia, limitada a 10 dias",
+              "sanitized_complete": "Incorreta a alternativa C. Nesse caso, a dexametasona pode ser interrompida abruptamente, sem necessidade de retirada gradual, se prescrita  na dose preconizada (6 mg/dia, limitada a 10 dias",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 16:05:28.795245 +0000 UTC",
+              "updated_at": "2021-07-07 16:05:29.878172 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 78
+          },
+          {
+            "id": "813bd8f8-553f-452e-b4b6-2e5e6e8e982c",
+            "position": "3",
+            "body": "quando iniciada na fase aguda da doença, observa-se maior redução na mortalidade.",
+            "sanitized_body": "quando iniciada na fase aguda da doença, observa-se maior redução na mortalidade.",
+            "correct": false,
+            "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+            "updated_at": "2021-08-18 13:29:15.571531 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa D.</b> Não há evidência de benefícios para o uso de dexametasona em pacientes na fase inicial, com sintomas leves.",
+              "sanitized_complete": "Incorreta a alternativa D. Não há evidência de benefícios para o uso de dexametasona em pacientes na fase inicial, com sintomas leves.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 16:05:28.906201 +0000 UTC",
+              "updated_at": "2021-07-07 16:05:29.895324 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 117
+          },
+          {
+            "id": "029a68e3-a0fa-4b07-93e3-e98d21c8c5d4",
+            "position": "4",
+            "body": "a administração por via intravenosa é obrigatória, pela melhor absorção do medicamento.",
+            "sanitized_body": "a administração por via intravenosa é obrigatória, pela melhor absorção do medicamento.",
+            "correct": false,
+            "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+            "updated_at": "2021-08-18 13:29:15.655632 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa E. </b>A dexametasona é bem absorvida por via oral e pode ser administrada dessa forma em pacientes com via enteral  pérvia, junto à alimentação. Na impossibilidade, preferir a via intravenosa",
+              "sanitized_complete": "Incorreta a alternativa E. A dexametasona é bem absorvida por via oral e pode ser administrada dessa forma em pacientes com via enteral  pérvia, junto à alimentação. Na impossibilidade, preferir a via intravenosa",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 16:05:28.91365 +0000 UTC",
+              "updated_at": "2021-07-07 16:05:29.889636 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 4
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação à dexametasona na COVID-19, é correto afirmar que:",
+        "statement_text": "Em relação à dexametasona na COVID-19, é correto afirmar que:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-05 20:44:30.723143 +0000 UTC",
+        "forum_id": "0d1c9f30-5ac1-4141-a6f5-910416a92db2",
+        "solution": {
+          "_key": "6293ff9a-25d9-43d4-9ab2-6a8485a1023c",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Na COVID-19, a única conduta terapêutica que demonstrou redução de mortalidade pela doença, até o momento, foi o uso de  corticosteroides, especialmente dexametasona (6 mg/dia, por via oral ou intravenosa, por até 10 dias), em pacientes hospitalizados e com  necessidade de oxigênio suplementar.</div><div><br></div><div>Tendo em vista que os casos graves da doença estão relacionados com a liberação maciça de citocinas pró-inflamatórias e quimiocinas, a  ação anti-inflamatória dos corticosteroides mostrou-se útil. É preciso cautela com o uso indiscriminado de corticosteroides, devido ao risco de efeitos colaterais, como hiperglicemia, psicose, necrose  avascular, infecções secundárias, etc</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BNa COVID-19, a única conduta terapêutica que demonstrou redução de mortalidade pela doença, até o momento, foi o uso de  corticosteroides, especialmente dexametasona (6 mg/dia, por via oral ou intravenosa, por até 10 dias), em pacientes hospitalizados e com  necessidade de oxigênio suplementar.Tendo em vista que os casos graves da doença estão relacionados com a liberação maciça de citocinas pró-inflamatórias e quimiocinas, a  ação anti-inflamatória dos corticosteroides mostrou-se útil. É preciso cautela com o uso indiscriminado de corticosteroides, devido ao risco de efeitos colaterais, como hiperglicemia, psicose, necrose  avascular, infecções secundárias, etc",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 16:05:29.07889 +0000 UTC",
+          "updated_at": "2021-07-07 16:05:30.093108 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "a-dexametasona-COVID10536e27a4",
+        "public": true
+      },
+      {
+        "id": "4000146607",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "43d9a11db7c3487983ac7f09d270310d",
+            "name": "Infecções oportunistas",
+            "is_master": false,
+            "master_id": "71418c85978540778bd9ee9e8551369a",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7aed2393ed894ddeb052af73b6296732",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "4502e7daa1594653b60a5a8284f78bc4",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5b9a668d-f15d-438d-8be2-6444684397f4",
+            "position": "0",
+            "body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:50.951036 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "sanitized_complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.131507 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.448679 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 138
+          },
+          {
+            "id": "2f6c4c6a-63e8-45e5-abbe-f6c69aa63efd",
+            "position": "1",
+            "body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.032484 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV).&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV). ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.13341 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.475992 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 415
+          },
+          {
+            "id": "d76d4d40-c6a9-4176-a23a-6514744c67b0",
+            "position": "2",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "correct": true,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.106891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "sanitized_complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.135793 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.443054 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 6589
+          },
+          {
+            "id": "6dd28b38-cb57-40b9-912e-5036eba2e07d",
+            "position": "3",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.189333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "sanitized_complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.144615 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.435424 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 305
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "statement_text": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+        "forum_id": "afe2dd32-5886-4694-b0bc-a93de95d7e44",
+        "solution": {
+          "_key": "937b37e8-099d-4ae1-ad1a-aaa077578364",
+          "complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.<div><br></div><div>Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:</div><div><br></div><div>- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/35FBAD55-039F-2DBF-6904-0A923693897D/35FBAD55-039F-2DBF-6904-0A923693897D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>- Pneumocistose (pneumonia por <i>Pneumocystis jiroveci</i>): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.</div><div><br></div><div>- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7D114EE7-2D1E-1A37-5388-C04BB68F293F/7D114EE7-2D1E-1A37-5388-C04BB68F293F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020</div>",
+          "sanitized_complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.- Pneumocistose (pneumonia por Pneumocystis jiroveci): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-20 08:35:27.215901 +0000 UTC",
+          "updated_at": "2021-06-20 09:26:05.558775 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146607-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-24-anos8511effdb3",
+        "public": true
+      },
+      {
+        "id": "4000126589",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "69d6654bfb114f7ebedebe54d358a773",
+            "name": "Tuberculose",
+            "is_master": false,
+            "master_id": "061176ba25e541efa5c80238604512dd",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Tuberculose",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "df560d65e05042d7b0efaafefe2c0016",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "4502e7daa1594653b60a5a8284f78bc4",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "35854f78-ee26-46f7-98c8-d675dfda3340",
+            "position": "0",
+            "body": "Iniciar o tratamento com antirretroviral (lamivudina + efavirenz + tenofovir) e, após 2 semanas, RIPE (rifampicina + isoniazida + pirazinamida + etambutol) por 6 meses.",
+            "sanitized_body": "Iniciar o tratamento com antirretroviral (lamivudina + efavirenz + tenofovir) e, após 2 semanas, RIPE (rifampicina + isoniazida + pirazinamida + etambutol) por 6 meses.",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.376056 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. A TARV deve ser iniciada após o tratamento da tuberculose.",
+              "sanitized_complete": "Alternativa A incorreta. A TARV deve ser iniciada após o tratamento da tuberculose.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.085087 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.885622 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 342
+          },
+          {
+            "id": "14e95ea6-c844-4f79-8500-f169a0026e67",
+            "position": "1",
+            "body": "Iniciar o tratamento com antirretroviral (lamivudina + zidovudina + efvirenz), simultaneamente com o esquema antituberculose estruturado, com rifabutina, por 6 meses.",
+            "sanitized_body": "Iniciar o tratamento com antirretroviral (lamivudina + zidovudina + efvirenz), simultaneamente com o esquema antituberculose estruturado, com rifabutina, por 6 meses.",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.47658 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta. O tratamento do HIV e da TB não deve ser iniciado de forma simultânea. Primeiro começamos com o tratamento da tuberculose e em seguida do HIV.",
+              "sanitized_complete": "Alternativa B incorreta. O tratamento do HIV e da TB não deve ser iniciado de forma simultânea. Primeiro começamos com o tratamento da tuberculose e em seguida do HIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.190879 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.885092 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 200
+          },
+          {
+            "id": "94152528-f6d5-4ea7-9eac-937b2f5ef777",
+            "position": "2",
+            "body": "Iniciar tratamento com RIPE (rifampicina + isoniazida + pirazinamida + etambutol) com durção de 6 meses e, após 4 semanas, introduzir tratamento com antirretrovirais (lamivundina + tenofovir + efavirenz).",
+            "sanitized_body": "Iniciar tratamento com RIPE (rifampicina + isoniazida + pirazinamida + etambutol) com durção de 6 meses e, após 4 semanas, introduzir tratamento com antirretrovirais (lamivundina + tenofovir + efavirenz).",
+            "correct": true,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.574706 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C correta. Posso dizer que essa é a alternativa menos errada. Ela refere que o RIPE deve ser feito por 6 meses, sendo que na verdade é por 2 meses, seguidos de mais 4 meses de RI. De qualquer forma, a ordem do tratamento está certa, começando com as drogas para tuberculose e, após algumas semanas, com o tratamento do HIV. As antirretrovirais também estão adequadas, como já discutimos acima.",
+              "sanitized_complete": "Alternativa C correta. Posso dizer que essa é a alternativa menos errada. Ela refere que o RIPE deve ser feito por 6 meses, sendo que na verdade é por 2 meses, seguidos de mais 4 meses de RI. De qualquer forma, a ordem do tratamento está certa, começando com as drogas para tuberculose e, após algumas semanas, com o tratamento do HIV. As antirretrovirais também estão adequadas, como já discutimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.087225 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.672844 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 2068
+          },
+          {
+            "id": "150d8f4b-384c-46d5-8c47-530bb4eb0953",
+            "position": "3",
+            "body": "Iniciar o tratamento com o RIPE (rifampicina + isoniazida + pirazinamida + etambutol) recomendado por 6 meses e, após 1 semana, introduzir o tramento antirretroviral ( lamivudina + zidovudina + lopinavir com ritonavir).",
+            "sanitized_body": "Iniciar o tratamento com o RIPE (rifampicina + isoniazida + pirazinamida + etambutol) recomendado por 6 meses e, após 1 semana, introduzir o tramento antirretroviral ( lamivudina + zidovudina + lopinavir com ritonavir).",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.673698 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta. Não devemos fazer uso de inibidor de protease (lopinavir/ritonavir) com rifampicina.",
+              "sanitized_complete": "Alternativa D incorreta. Não devemos fazer uso de inibidor de protease (lopinavir/ritonavir) com rifampicina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.128871 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.673065 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 279
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre a final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8ºC), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costa direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hemotócrito = 24% (normal 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. (VER IMAGEM) A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FED72852-A442-63EA-E116-A5BCFCB39AA0/FED72852-A442-63EA-E116-A5BCFCB39AA0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre a final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8ºC), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costa direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hemotócrito = 24% (normal 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. (VER IMAGEM) A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+        "forum_id": "f20bfc24-918e-4bd2-9632-1dd23719e86e",
+        "solution": {
+          "_key": "7cd62c2b-c327-4a16-8bf7-923e4e838edb",
+          "complete": "Temos aqui um paciente com diagnóstico simultâneo de HIV e tuberculose (TB). E aí, como devemos proceder em casos assim? Devemos iniciar primeiramente o tratamento para a TB e em seguida, a terapia antirretroviral (TARV). O momento em que ele deverá ser iniciado vai depender da contagem de linfócitos T CD4 do paciente:<div>- CD4 < 50 céls/mm3: iniciar tratamento para o HIV em até 2 semanas, já que é um imunodeprimido mais grave.</div><div>- CD4 ≥ 50 céls/mm3: o início da TARV deve ocorrer dentro de 2 a 8 semanas após o início da TARV.</div><div> A TARV de 1ª escolha é o tenofovir, lamivudina e efavirenz, porém caso seja documentada alguma mutação que confira resistência ao efavirenz ou o resultado da genotipagem demore mais do que 2 semanas, devemos usar o dolutegravir com dose dobrada no seu lugar.</div><div> Essa questão não nos conta a contagem de linfócitos do paciente, porém a gente consegue respondê-la mesmo assim:</div>",
+          "sanitized_complete": "Temos aqui um paciente com diagnóstico simultâneo de HIV e tuberculose (TB). E aí, como devemos proceder em casos assim? Devemos iniciar primeiramente o tratamento para a TB e em seguida, a terapia antirretroviral (TARV). O momento em que ele deverá ser iniciado vai depender da contagem de linfócitos T CD4 do paciente:- CD4 &lt; 50 céls/mm3: iniciar tratamento para o HIV em até 2 semanas, já que é um imunodeprimido mais grave.- CD4 ≥ 50 céls/mm3: o início da TARV deve ocorrer dentro de 2 a 8 semanas após o início da TARV. A TARV de 1ª escolha é o tenofovir, lamivudina e efavirenz, porém caso seja documentada alguma mutação que confira resistência ao efavirenz ou o resultado da genotipagem demore mais do que 2 semanas, devemos usar o dolutegravir com dose dobrada no seu lugar. Essa questão não nos conta a contagem de linfócitos do paciente, porém a gente consegue respondê-la mesmo assim:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-04-27 12:25:35.474001 +0000 UTC",
+          "updated_at": "2022-04-27 12:25:38.889238 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-42-anos-idade220631ed63f",
+        "public": true
+      },
+      {
+        "id": "4000126984",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c2ef2d9010b5439e807bb270e18c87fc",
+            "name": "Profilaxia pós-exposição (PEP)",
+            "is_master": false,
+            "master_id": "36fbfc5db6c2459dacf8e58df1b1fac6",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Profilaxia [$$]Profilaxia pós-exposição (PEP)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1a9a8163-e0af-4eaf-b983-06893d93275d",
+            "position": "0",
+            "body": "realizada com a neviparina ou o efavirenz.",
+            "sanitized_body": "realizada com a neviparina ou o efavirenz.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.841869 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)&nbsp; + 1 comprimido de dolutegravir (DTG).<div><br></div><div>Os esquemas alternativos estão descritos na figura abaixo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D0877921-2F91-24D6-22A3-6DE866954C1B/D0877921-2F91-24D6-22A3-6DE866954C1B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)</div>",
+              "sanitized_complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)  + 1 comprimido de dolutegravir (DTG).Os esquemas alternativos estão descritos na figura abaixo.FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.787166 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.901034 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 155
+          },
+          {
+            "id": "83580ce2-ba90-4a68-a39a-1f76d64a5abb",
+            "position": "1",
+            "body": "iniciada em até 96 horas da violência sexual.",
+            "sanitized_body": "iniciada em até 96 horas da violência sexual.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.949862 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras <b>72 horas</b> após a violência, inclusive se o status sorológico do agressor for desconhecido.&nbsp;&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras 72 horas após a violência, inclusive se o status sorológico do agressor for desconhecido.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.762988 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.891351 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 216
+          },
+          {
+            "id": "8c441f02-da52-4fb4-a071-01bda746d182",
+            "position": "2",
+            "body": "mantida sem interrupção por quatro semanas.",
+            "sanitized_body": "mantida sem interrupção por quatro semanas.",
+            "correct": true,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.049034 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "sanitized_complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.77212 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.91548 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 2856
+          },
+          {
+            "id": "5e897cf8-a00d-4ea7-a98f-000d7e56cf60",
+            "position": "3",
+            "body": "é contraindicada pelo tempo já decorrido.",
+            "sanitized_body": "é contraindicada pelo tempo já decorrido.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.150855 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "sanitized_complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.781004 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.897575 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 29
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "statement_text": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+        "solution": {
+          "_key": "18c8fd3a-741b-46e5-a587-a243d2275b29",
+          "complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.<div><br></div><div>O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:</div><div>- os tipos de exposição sexual (anal, vaginal, oral);<br></div><div>- o número de agressores;</div><div>- a susceptibilidade da mulher;</div><div>- a rotura himenal;</div><div>- a exposição a secreções sexuais e/ou sangue;</div><div>- a presença de DST ou úlcera genital;</div><div>- a carga viral do agressor;</div><div>- o início precoce da profilaxia ARV, quando indicada.</div>",
+          "sanitized_complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:- os tipos de exposição sexual (anal, vaginal, oral);- o número de agressores;- a susceptibilidade da mulher;- a rotura himenal;- a exposição a secreções sexuais e/ou sangue;- a presença de DST ou úlcera genital;- a carga viral do agressor;- o início precoce da profilaxia ARV, quando indicada.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-15 05:35:47.816699 +0000 UTC",
+          "updated_at": "2021-07-15 05:50:14.96401 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126984-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-19588b815261",
+        "public": true
+      },
+      {
+        "id": "4000127236",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a4c7e1134a5e4d32b5e96b1430de3f4a",
+            "name": "Úlceras por Citomegalovírus (CMV)",
+            "is_master": false,
+            "master_id": "126bea85cb264fb1b511bb1bf1585fa0",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções do trato gastrointestinal[$$]Úlceras por Citomegalovírus (CMV)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b149495b958042109a940bd27daf3605",
+            "name": "Retinite por CMV",
+            "is_master": false,
+            "master_id": "666e064866c64788b455ce42b125afbc",
+            "path": "Outros [$$]Oftalmologia[$$]Prova de Título CBO[$$]Uveítes[$$]Síndrome da Imunodeficiência Adquirida (AIDS) [$$]Retinite por CMV",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "70befdf8-2223-4f18-9546-84cd0ef194e1",
+            "position": "0",
+            "body": "Fluconazol.",
+            "sanitized_body": "Fluconazol.",
+            "correct": false,
+            "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+            "updated_at": "2021-08-27 22:27:09.517503 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O fluconazol é usado para tratamento de candidíase esofágica, doença que o paciente não tem. Poderia até ser usado para a candidíase oral, porém a doença pelo CMV é mais importante e mais grave, logo, seu tratamento é o mais adequado nesse momento.",
+              "sanitized_complete": "O fluconazol é usado para tratamento de candidíase esofágica, doença que o paciente não tem. Poderia até ser usado para a candidíase oral, porém a doença pelo CMV é mais importante e mais grave, logo, seu tratamento é o mais adequado nesse momento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-08-08 18:58:33.217874 +0000 UTC"
+            },
+            "answer_percentage": 24,
+            "answers": 255
+          },
+          {
+            "id": "5ee28182-e90f-4809-9fbf-7c1c761a6a2e",
+            "position": "1",
+            "body": "Ganciclovir.",
+            "sanitized_body": "Ganciclovir.",
+            "correct": true,
+            "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+            "updated_at": "2021-08-27 22:27:09.587539 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Como vimos, o ganciclovir é a droga mais adequada para tratamento de doença pelo CMV.",
+              "sanitized_complete": "Como vimos, o ganciclovir é a droga mais adequada para tratamento de doença pelo CMV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-08-08 18:58:33.218371 +0000 UTC"
+            },
+            "answer_percentage": 55,
+            "answers": 583
+          },
+          {
+            "id": "9f077252-01d0-426f-9a4a-55de7be3635f",
+            "position": "2",
+            "body": "Pantoprazol.",
+            "sanitized_body": "Pantoprazol.",
+            "correct": false,
+            "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+            "updated_at": "2021-08-27 22:27:09.66777 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O pantoprazol não tem nenhuma ação antiviral. Ele é um inibidor da bomba de prótons e tem ação no pH gástrico.",
+              "sanitized_complete": "O pantoprazol não tem nenhuma ação antiviral. Ele é um inibidor da bomba de prótons e tem ação no pH gástrico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-08-08 18:58:33.215844 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 93
+          },
+          {
+            "id": "c7c67247-22cf-4f7c-8e52-27f19eb54192",
+            "position": "3",
+            "body": "Sulfametoxazol + trimetoprima.",
+            "sanitized_body": "Sulfametoxazol + trimetoprima.",
+            "correct": false,
+            "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+            "updated_at": "2021-08-27 22:27:09.733521 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O sulfametoxazol-trimetoprim é um antibiótico usado para tratamento de pneumocistose e neurotoxoplasmose. Não tem nenhum benefício no tratamento de úlceras esofágicas.",
+              "sanitized_complete": "O sulfametoxazol-trimetoprim é um antibiótico usado para tratamento de pneumocistose e neurotoxoplasmose. Não tem nenhum benefício no tratamento de úlceras esofágicas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-08-08 18:58:33.215762 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 124
+          },
+          {
+            "id": "fea28801-ba77-43a9-8b07-68f1d6437fdb",
+            "position": "4",
+            "body": "Sulfametoxazol + trimetoprima.",
+            "sanitized_body": "Sulfametoxazol + trimetoprima.",
+            "correct": false,
+            "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+            "updated_at": "2021-08-27 22:27:09.810938 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa igual à letra D.",
+              "sanitized_complete": "Alternativa igual à letra D.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-08-08 18:58:33.2149 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher de 33 anos de idade, desempregada, refere dor à deglutição há 2,5 semanas, com piora acentuada há três dias. Tem tido um pico de febre diária há uma semana, que coincidiu com uma discreta irritação e embaçamento visual no olho esquerdo. Refere ser portadora do vírus HIV há onze anos. Tem histórico de tratamento prévio para  pneumonia por Pneumocystis jirovecii. Apresentava placas esbranquiçadas na mucosa jugal, sem outros achados significativos. O hemograma inicial mostrava uma  pancitopenia, e a endoscopia digestiva alta mostrou o esôfago com erosões lineares, confluentes, recobertas por fibrina, ocupando toda a circunferência do órgão e gastrite enantematosa. Qual a medicação mais adequada para esta paciente?",
+        "statement_text": "Mulher de 33 anos de idade, desempregada, refere dor à deglutição há 2,5 semanas, com piora acentuada há três dias. Tem tido um pico de febre diária há uma semana, que coincidiu com uma discreta irritação e embaçamento visual no olho esquerdo. Refere ser portadora do vírus HIV há onze anos. Tem histórico de tratamento prévio para  pneumonia por Pneumocystis jirovecii. Apresentava placas esbranquiçadas na mucosa jugal, sem outros achados significativos. O hemograma inicial mostrava uma  pancitopenia, e a endoscopia digestiva alta mostrou o esôfago com erosões lineares, confluentes, recobertas por fibrina, ocupando toda a circunferência do órgão e gastrite enantematosa. Qual a medicação mais adequada para esta paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:32:12.079807 +0000 UTC",
+        "forum_id": "59ec348e-a4df-47dd-9753-eb4363d24fe0",
+        "solution": {
+          "_key": "5b11853e-3314-44de-9d6a-473eeecce309",
+          "complete": "Temos aqui uma paciente com HIV há bastante tempo e que já teve uma doença oportunista definidora de aids (pneumocistose). Isso demonstra que já teve uma contagem de linfócitos T CD4+ muito baixa e nos faz questionar a sua adesão ao tratamento. Com esse histórico de imunossupressão, ela atualmente tem úlceras esofágicas lineares e confluentes, acometimento ocular (embaçamento visual) e da medula óssea (pancitopenia). No exame físico é relatado uma candidíase oral, porém, como ela já fez endoscopia e não foi relatado candidíase no esôfago, não devemos pensar que a candida é o agente etiológico desse quadro. <div><br><div> Quando uma questão refere úlceras esofágicas em um paciente infectado pelo HIV, você deve lembrar desses dois agentes etiológicos: o HSV (Herpes Simplex Virus) e CMV (Citomegalovirus). O CMV é o vírus mais comum. Ele causa úlceras confluentes e lineares ou longitudinais. Além disso, pode acometer a retina levando ao aparecimento de uma lesão bem característica no exame de fundo olho descrita como ”queijo com catchup”. Também pode acometer a medula óssea e levar a um quadro de pancitopenia. </div><div><br></div><div> Como você pode perceber, o CMV justifica todo o quadro clínico da paciente e seu tratamento de escolha deve ser feito com ganciclovir.</div></div>",
+          "sanitized_complete": "Temos aqui uma paciente com HIV há bastante tempo e que já teve uma doença oportunista definidora de aids (pneumocistose). Isso demonstra que já teve uma contagem de linfócitos T CD4+ muito baixa e nos faz questionar a sua adesão ao tratamento. Com esse histórico de imunossupressão, ela atualmente tem úlceras esofágicas lineares e confluentes, acometimento ocular (embaçamento visual) e da medula óssea (pancitopenia). No exame físico é relatado uma candidíase oral, porém, como ela já fez endoscopia e não foi relatado candidíase no esôfago, não devemos pensar que a candida é o agente etiológico desse quadro.  Quando uma questão refere úlceras esofágicas em um paciente infectado pelo HIV, você deve lembrar desses dois agentes etiológicos: o HSV (Herpes Simplex Virus) e CMV (Citomegalovirus). O CMV é o vírus mais comum. Ele causa úlceras confluentes e lineares ou longitudinais. Além disso, pode acometer a retina levando ao aparecimento de uma lesão bem característica no exame de fundo olho descrita como ”queijo com catchup”. Também pode acometer a medula óssea e levar a um quadro de pancitopenia.  Como você pode perceber, o CMV justifica todo o quadro clínico da paciente e seu tratamento de escolha deve ser feito com ganciclovir.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-02 00:19:58.950146 +0000 UTC",
+          "updated_at": "2022-08-08 18:58:33.519405 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127236-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-33-anos-idade1111487340b",
+        "public": true
+      },
+      {
+        "id": "4000127033",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F38DC711-F3BE-A057-4DBE-6A6E29AFCFD8"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-03T18:53:43Z",
+            "updated_at": "2020-11-25T18:18:11Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "c35de11922854784b4b54880f93ccaf2",
+            "name": "Tratamento e profilaxia",
+            "is_master": false,
+            "master_id": "bb591a7a04b04ff88c43845b423c3abb",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Pneumocistose[$$]Tratamento e profilaxia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d16bb6bf-a37b-450e-89ed-47f877522703",
+            "position": "0",
+            "body": "Clamídia tracomatis.",
+            "sanitized_body": "Clamídia tracomatis.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.158451 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. Não há indicação de profilaxia para clamídia em pacientes com HIV/aids.",
+              "sanitized_complete": "Alternativa A incorreta. Não há indicação de profilaxia para clamídia em pacientes com HIV/aids.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:42.985535 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.577327 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 28
+          },
+          {
+            "id": "e9bb2038-3a14-4045-9b0b-c6d9500a1371",
+            "position": "1",
+            "body": "Toxoplasma gondii.",
+            "sanitized_body": "Toxoplasma gondii.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.264479 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta. A profilaxia para toxoplasmose deve ser instituída caso a contagem de linfócitos TCD4 + estejam abaixo de 100 células/mm3.",
+              "sanitized_complete": "Alternativa B incorreta. A profilaxia para toxoplasmose deve ser instituída caso a contagem de linfócitos TCD4 + estejam abaixo de 100 células/mm3.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:43.213935 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.526226 +0000 UTC"
+            },
+            "answer_percentage": 23,
+            "answers": 145
+          },
+          {
+            "id": "502baf47-5d2a-4905-8487-38f663fac6e5",
+            "position": "2",
+            "body": "Pneumocistis jiroveci.",
+            "sanitized_body": "Pneumocistis jiroveci.",
+            "correct": true,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.510479 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C correta. Como você pode perceber, devemos iniciar a profilaxia pra pneumocistose naqueles com CD4 abaixo de 200 células/mm3.",
+              "sanitized_complete": "Alternativa C correta. Como você pode perceber, devemos iniciar a profilaxia pra pneumocistose naqueles com CD4 abaixo de 200 células/mm3.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:42.985123 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.527419 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 445
+          },
+          {
+            "id": "3dbc0624-0a77-4901-9cfe-acf7e9988357",
+            "position": "3",
+            "body": "Herpes vírus hominis.",
+            "sanitized_body": "Herpes vírus hominis.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.560589 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta. Não há indicação de profilaxia primária para herpes vírus em pacientes com HIV/aids.",
+              "sanitized_complete": "Alternativa D incorreta. Não há indicação de profilaxia primária para herpes vírus em pacientes com HIV/aids.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:43.099176 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.576556 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em gestante de 16 semanas, com infecção por HIV, a dosagem de linfócitos CD4 resultou menor que 200 cel/mm3. Nesse caso, a prescrição de sulfametoxazol + trimetropim visa à profilaxia de infecção por:",
+        "statement_text": "Em gestante de 16 semanas, com infecção por HIV, a dosagem de linfócitos CD4 resultou menor que 200 cel/mm3. Nesse caso, a prescrição de sulfametoxazol + trimetropim visa à profilaxia de infecção por:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+        "forum_id": "62858a83-5e10-4910-9118-ba75353a89ea",
+        "solution": {
+          "_key": "aea26430-2713-4d67-a33a-a4690e2548c9",
+          "complete": "Quando os LTCD4+ do paciente caem bastante, devemos iniciar de forma preventiva algumas medicações para evitar doenças oportunistas. Olhe aqui essa tabela e memorize:  <div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/08F77DAD-7B37-2CEB-AE4E-55C0D1D95261/08F77DAD-7B37-2CEB-AE4E-55C0D1D95261-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "Quando os LTCD4+ do paciente caem bastante, devemos iniciar de forma preventiva algumas medicações para evitar doenças oportunistas. Olhe aqui essa tabela e memorize:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-04-27 13:43:43.311938 +0000 UTC",
+          "updated_at": "2022-04-27 13:43:44.701027 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "gestante-16-semanas33d538714d",
+        "public": true
+      },
+      {
+        "id": "4000153850",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4238DFC9-B03C-8BAC-1C76-1899E78C8C36"
+              },
+              {
+                "type": "ANSWER",
+                "url": "50DC4203-E773-803A-3BD8-CC1E7DD33312"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:48:08Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "5fdcc9cc396840d29fa04dbbc40a86ee",
+            "name": "Insuficiência adrenal primária",
+            "is_master": false,
+            "master_id": "569f4ab444bb4feba593b19fead90021",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Adrenal[$$]Distúrbios relacionados aos esteroides corticais[$$]Hipocortisolismo[$$]Etiologia[$$]Insuficiência adrenal primária",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "90a6a515955e47f9b1e7fa3d3ed79d79",
+            "name": "Eritrodermia, micose fungoide e síndrome de Sezary",
+            "is_master": false,
+            "master_id": "623365fad6504ba49a2c9d3cede215c0",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Miscelânea[$$]Eritrodermia, micose fungoide e síndrome de Sezary",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "9988830aee064f6facf7b7269fa7da61",
+            "name": "Metástases",
+            "is_master": false,
+            "master_id": "d78dcf04604b4353a871438cf2130036",
+            "path": "Clínica Médica[$$]Pneumologia [$$]Câncer de Pulmão[$$]Neoplasia pulmonar [$$]Metástases",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ab9031c2e4ed4de1a3cd42a6af5fd622",
+            "name": "Manifestações clínicas",
+            "is_master": false,
+            "master_id": "15a6ea900df64ecb915a2abc985314e3",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções do Sistema Nervoso Central[$$]Meningites[$$]Meningites bacterianas[$$]Manifestações clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b0787bc64f10457487ecffb25326210a",
+            "name": "Formas clínicas",
+            "is_master": false,
+            "master_id": "bcaf723e14764f318593d80da2eb3645",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas[$$]Paracoccidioidomicose[$$]Formas clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "bee6f4c789c5439e971ca8e526de3976",
+            "name": "Tuberculose extrapulmonar",
+            "is_master": false,
+            "master_id": "9459945e2d684740b33068d14a9b36b2",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Quadro clínico[$$]Tuberculose extrapulmonar",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "96bc725a-88ab-4273-a8f9-ea8f59ba2b8d",
+            "position": "0",
+            "body": "Neoplasia maligna broncogênica",
+            "sanitized_body": "Neoplasia maligna broncogênica",
+            "correct": false,
+            "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+            "updated_at": "2022-07-21 15:58:25.142092 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “a”: </b>As neoplasias pulmonares podem evoluir com metástases adrenais e, consequentemente, insuficiência adrenal.",
+              "sanitized_complete": "Incorreta a alternativa “a”: As neoplasias pulmonares podem evoluir com metástases adrenais e, consequentemente, insuficiência adrenal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2022-07-21 15:59:21.258349 +0000 UTC",
+              "updated_at": "2022-07-21 16:02:47.910625 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 83
+          },
+          {
+            "id": "6fb7ebff-2b60-4754-a922-5bf8dfca0373",
+            "position": "1",
+            "body": "Paracoccidioidomicose",
+            "sanitized_body": "Paracoccidioidomicose",
+            "correct": false,
+            "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+            "updated_at": "2022-07-21 15:58:25.507992 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “b”: </b>A paracoccidioidomicose (PCM) é uma micose sistêmica causada pelos fungos Paracoccidoides brasiliensis e Paracoccidioides lutzii. O principal fator de risco para a infecção são as atividades relacionadas ao manejo do solo contaminado com o fungo (por exemplo: agricultura, terraplanagem e jardinagem). A apresentação clínica dependerá do órgão afetado e as glândulas adrenais podem ser acometidas pela doença. ",
+              "sanitized_complete": "Incorreta a alternativa “b”: A paracoccidioidomicose (PCM) é uma micose sistêmica causada pelos fungos Paracoccidoides brasiliensis e Paracoccidioides lutzii. O principal fator de risco para a infecção são as atividades relacionadas ao manejo do solo contaminado com o fungo (por exemplo: agricultura, terraplanagem e jardinagem). A apresentação clínica dependerá do órgão afetado e as glândulas adrenais podem ser acometidas pela doença.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2022-07-21 15:59:21.260773 +0000 UTC",
+              "updated_at": "2022-07-21 16:02:47.910124 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 81
+          },
+          {
+            "id": "6b1c3f2d-3b9b-4f6e-8831-ae9fcd3852b2",
+            "position": "2",
+            "body": "Tuberculose",
+            "sanitized_body": "Tuberculose",
+            "correct": false,
+            "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+            "updated_at": "2022-07-21 15:58:25.863559 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “c”:</b> A adrenalite tuberculosa pode ocorrer em decorrência da disseminação hematogênica do bacilo de Koch.",
+              "sanitized_complete": "Incorreta a alternativa “c”: A adrenalite tuberculosa pode ocorrer em decorrência da disseminação hematogênica do bacilo de Koch.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2022-07-21 15:59:21.260621 +0000 UTC",
+              "updated_at": "2022-07-21 16:02:47.908893 +0000 UTC"
+            },
+            "answer_percentage": 24,
+            "answers": 138
+          },
+          {
+            "id": "55afecb2-d621-4dd2-b60e-e493037fa685",
+            "position": "3",
+            "body": "Micose fungoide",
+            "sanitized_body": "Micose fungoide",
+            "correct": true,
+            "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+            "updated_at": "2022-07-21 15:58:26.223737 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa “d”: </b>A micose fungoide é o tipo mais comum de linfoma cutâneo de células T. Apresenta-se com placas cutâneas e, portanto, o acometimento de adrenais não faz parte do espectro clínico clássico da doença (muito embora, em fases posteriores, possa ocorrer o acometimento de linfonodos e outros órgãos).",
+              "sanitized_complete": "Correta a alternativa “d”: A micose fungoide é o tipo mais comum de linfoma cutâneo de células T. Apresenta-se com placas cutâneas e, portanto, o acometimento de adrenais não faz parte do espectro clínico clássico da doença (muito embora, em fases posteriores, possa ocorrer o acometimento de linfonodos e outros órgãos).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2022-07-21 15:59:21.260189 +0000 UTC",
+              "updated_at": "2022-07-21 16:02:47.911629 +0000 UTC"
+            },
+            "answer_percentage": 34,
+            "answers": 197
+          },
+          {
+            "id": "bc92e6d9-511d-4d2d-b6ca-3f1298d49bff",
+            "position": "4",
+            "body": "Infecção meningocócica\n",
+            "sanitized_body": "Infecção meningocócica\n",
+            "correct": false,
+            "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+            "updated_at": "2022-07-21 15:58:26.579898 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “e”: </b>A síndrome de Waterhouse-Friderichsen é um epônimo que designa o estado de insuficiência adrenal causado por infartos adrenais em quadros de meningococemia.",
+              "sanitized_complete": "Incorreta a alternativa “e”: A síndrome de Waterhouse-Friderichsen é um epônimo que designa o estado de insuficiência adrenal causado por infartos adrenais em quadros de meningococemia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2022-07-21 15:59:21.25944 +0000 UTC",
+              "updated_at": "2022-07-21 16:02:47.913248 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 77
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "NÃO é observada em quaisquer das formas de apresentação clínica da ______________a falência das suprarrenais. Assinale a alternativa que apresenta a patologia que preenche corretamente a lacuna.",
+        "statement_text": "NÃO é observada em quaisquer das formas de apresentação clínica da ______________a falência das suprarrenais. Assinale a alternativa que apresenta a patologia que preenche corretamente a lacuna.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 19:12:59.833774 +0000 UTC",
+        "solution": {
+          "_key": "9452460e-7b6b-4c0d-9ab9-f7ae0ab91ae1",
+          "complete": "<b>Gabarito: alternativa D.</b><div><b><br></b><div>A insuficiência adrenal (IA) pode ser causada por doenças da glândula adrenal (IA primária), por interferências na secreção hipofisária de ACTH (IA secundária) ou por anormalidades na secreção hipotalâmica de CRH (IA terciária). </div><div><br></div><div> <img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F9CA0E33-BE7B-8B10-BDFA-AAC3028C15BF/F9CA0E33-BE7B-8B10-BDFA-AAC3028C15BF-400.png\"></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><div>Figura 01: Eixo hipotálamo-hipófise-adrenal.</div><div><br></div><div>Por definição, IA primária refere-se a um estado de inabilidade do CÓRTEX adrenal em produzir quantidades suficientes de cortisol e/ou mineralocorticoides (aldosterona). No paciente com IA secundária ou terciária, não observamos deficiência de mineralocorticoides, uma vez que a zona glomerulosa produz aldosterona (principalmente) por estímulo da angiotensina II e dos níveis séricos de potássio. </div><div><br></div><div>A IA primária (Doença de Addison) pode ser secundária aos seguintes mecanismos: autoimunidade (70-90% dos casos), infecção, metástases, hemorragias e infartos adrenais, medicamentos e causas genéticas. </div></div>",
+          "sanitized_complete": "Gabarito: alternativa D.A insuficiência adrenal (IA) pode ser causada por doenças da glândula adrenal (IA primária), por interferências na secreção hipofisária de ACTH (IA secundária) ou por anormalidades na secreção hipotalâmica de CRH (IA terciária).  Figura 01: Eixo hipotálamo-hipófise-adrenal.Por definição, IA primária refere-se a um estado de inabilidade do CÓRTEX adrenal em produzir quantidades suficientes de cortisol e/ou mineralocorticoides (aldosterona). No paciente com IA secundária ou terciária, não observamos deficiência de mineralocorticoides, uma vez que a zona glomerulosa produz aldosterona (principalmente) por estímulo da angiotensina II e dos níveis séricos de potássio. A IA primária (Doença de Addison) pode ser secundária aos seguintes mecanismos: autoimunidade (70-90% dos casos), infecção, metástases, hemorragias e infartos adrenais, medicamentos e causas genéticas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-07-21 15:59:21.641485 +0000 UTC",
+          "updated_at": "2022-07-21 16:02:48.088741 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "NA-e-observada271cabd666",
+        "public": true
+      },
+      {
+        "id": "4000129252",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "386c16f530394dae99ab38514c05a73e",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "71418c85978540778bd9ee9e8551369a",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fcc76d9b-fce0-4470-9526-4c49ccbad557",
+            "position": "0",
+            "body": "Solicitar contagem de linfócitos T-CD4+.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar contagem de linfócitos T-CD4+. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:43.856603 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A contagem de linfócitos T-CD4+ faz parte dos exames que devem ser solicitados na primeira consulta.",
+              "sanitized_complete": "A contagem de linfócitos T-CD4+ faz parte dos exames que devem ser solicitados na primeira consulta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.94525 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.081562 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          },
+          {
+            "id": "788b7dfa-4211-4eba-b134-8207cc760d70",
+            "position": "1",
+            "body": "Solicitar contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:43.972872 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV fazem parte dos exames complementares para abordagem inicial.",
+              "sanitized_complete": "A contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV fazem parte dos exames complementares para abordagem inicial.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.940082 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.111897 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 244
+          },
+          {
+            "id": "a72afc69-ed40-498a-b90d-4bc55f602b5e",
+            "position": "2",
+            "body": "Encaminhar a paciente para o Serviço de Assistência Especializada em DST/AIDS.&nbsp;<div>&nbsp;</div>",
+            "sanitized_body": "Encaminhar a paciente para o Serviço de Assistência Especializada em DST/AIDS.  ",
+            "correct": true,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.067899 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Isso mesmo! Esse é o primeiro passo. Diante do resultado, a paciente deve ser encaminhada a um serviço especializado (SAE), com atendimento multidisciplinar e grupos comunitários de apoio, para as primeiras consultas e exames o mais brevemente possível.",
+              "sanitized_complete": "Isso mesmo! Esse é o primeiro passo. Diante do resultado, a paciente deve ser encaminhada a um serviço especializado (SAE), com atendimento multidisciplinar e grupos comunitários de apoio, para as primeiras consultas e exames o mais brevemente possível.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.924894 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.079635 +0000 UTC"
+            },
+            "answer_percentage": 74,
+            "answers": 812
+          },
+          {
+            "id": "2170c952-68ef-4a25-b117-c410d85a518c",
+            "position": "3",
+            "body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Western Blot.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Western Blot. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.174366 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "sanitized_complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.918225 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.056695 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 24
+          },
+          {
+            "id": "213ee090-fee8-48bb-8422-1d98328d304e",
+            "position": "4",
+            "body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Imunofluorescência indireta.",
+            "sanitized_body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Imunofluorescência indireta.",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.268183 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "sanitized_complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.971912 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.116597 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjuguais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/822931C2-E82A-0F38-8287-A336A2701170/822931C2-E82A-0F38-8287-A336A2701170-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Nessa situação, que conduta deve ser adotada para a paciente?</div><div><br></div>",
+        "statement_text": "Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjuguais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir.Nessa situação, que conduta deve ser adotada para a paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+        "forum_id": "ebe2400c-efe4-43e0-9122-84970dc9a066",
+        "solution": {
+          "_key": "5f7937b3-debe-44d0-a81a-3b2cccc12f11",
+          "complete": "A paciente possui dois testes anti-HIV reagentes: um ensaio imunoenzimático de triagem (ELISA), seguido pelo Western Blot, como teste confirmatório. A partir do diagnóstico, a paciente deve ser incluída na “Cascata de cuidado contínuo do HIV”, composta pelas seguintes etapas, desde a infecção até o objetivo final do<div>cuidado, a supressão viral:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/20BCA592-6735-1E0D-EE6B-8819B6AE962F/20BCA592-6735-1E0D-EE6B-8819B6AE962F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "A paciente possui dois testes anti-HIV reagentes: um ensaio imunoenzimático de triagem (ELISA), seguido pelo Western Blot, como teste confirmatório. A partir do diagnóstico, a paciente deve ser incluída na “Cascata de cuidado contínuo do HIV”, composta pelas seguintes etapas, desde a infecção até o objetivo final docuidado, a supressão viral:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-10-11 05:00:30.023028 +0000 UTC",
+          "updated_at": "2021-10-11 05:20:08.106053 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-23-anos-idade124b399bb71",
+        "public": true
+      },
+      {
+        "id": "4000127161",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "dab53aecbd164765be6f1b5f2ceeb779",
+            "name": "Hanseníase tuberculoide",
+            "is_master": false,
+            "master_id": "6afa30125e174f629249dc8cfc1c937b",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Apresentação clínica[$$]Hanseníase tuberculoide",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8b576fd6-85c4-404d-be7a-29a17f444683",
+            "position": "0",
+            "body": "Psoríase e diagnóstico clínico.",
+            "sanitized_body": "Psoríase e diagnóstico clínico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.276823 +0000 UTC",
+            "topics": [
+              {
+                "id": "9739c387a4574fbabe697ef4afe5e8fd",
+                "name": "Apresentação clínica",
+                "is_master": false,
+                "master_id": "2a612f5a83a14718b3b5a41d1f2b017e",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Dermatoses papuloescamosas[$$]Psoríase[$$]Apresentação clínica",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa A) Incorreta. Na psoríase, as lesões são placas eritematosas com escamas brancas (ou pratedas) bastante aderidas. As lesões distribuem-se pelo couro cabeludo, cotovelos, joelhos e tronco. Não é esperado que um paciente com psoríase apresente apenas uma lesão.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa A) Incorreta. Na psoríase, as lesões são placas eritematosas com escamas brancas (ou pratedas) bastante aderidas. As lesões distribuem-se pelo couro cabeludo, cotovelos, joelhos e tronco. Não é esperado que um paciente com psoríase apresente apenas uma lesão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.360472 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.162123 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 98
+          },
+          {
+            "id": "eb8ddc40-a653-4344-8af2-0e8d4800c31a",
+            "position": "1",
+            "body": "Paracoccidioidomicose e raspado da lesão.",
+            "sanitized_body": "Paracoccidioidomicose e raspado da lesão.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.331127 +0000 UTC",
+            "topics": [
+              {
+                "id": "b0787bc64f10457487ecffb25326210a",
+                "name": "Formas clínicas",
+                "is_master": false,
+                "master_id": "bcaf723e14764f318593d80da2eb3645",
+                "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas[$$]Paracoccidioidomicose[$$]Formas clínicas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa B) Incorreta. A paracoccidioidomicose no adulto leva a lesões verrucosas geralmente na face (nariz e mucosa oral). Associado ao quadro cutâneo, há um quadro pulmonar de tosse, dispneia e infiltrado perihilar visto à radiografia de tórax.<div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa B) Incorreta. A paracoccidioidomicose no adulto leva a lesões verrucosas geralmente na face (nariz e mucosa oral). Associado ao quadro cutâneo, há um quadro pulmonar de tosse, dispneia e infiltrado perihilar visto à radiografia de tórax.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.358718 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.162383 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 97
+          },
+          {
+            "id": "81720688-b3d6-456c-ac89-e1d6eecd0df6",
+            "position": "2",
+            "body": "Cromomicose e biópsia.",
+            "sanitized_body": "Cromomicose e biópsia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.403825 +0000 UTC",
+            "topics": [
+              {
+                "id": "34e23a200ea54f8aa653cc265c545ea8",
+                "name": "Infecções fúngicas",
+                "is_master": false,
+                "master_id": "491c00747b9d4a7babede86d5683efc7",
+                "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa C) Incorreta. A cromomicose é uma micose profunda, assim como a paracoccidioidomicose, apresenta-se como uma lesão verrucosa na maior parte das vezes. Como o fungo é inoculado secundário a um trauma, na maioria das vezes, as lesões localizam-se nas mãos ou nos pés.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa C) Incorreta. A cromomicose é uma micose profunda, assim como a paracoccidioidomicose, apresenta-se como uma lesão verrucosa na maior parte das vezes. Como o fungo é inoculado secundário a um trauma, na maioria das vezes, as lesões localizam-se nas mãos ou nos pés.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.363781 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.169005 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 21
+          },
+          {
+            "id": "b44f4f63-f8cf-4891-9652-89a27a5baa17",
+            "position": "3",
+            "body": "Hanseníase e Intradermorreação de Mitsuda.",
+            "sanitized_body": "Hanseníase e Intradermorreação de Mitsuda.",
+            "correct": true,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.472212 +0000 UTC",
+            "topics": [
+              {
+                "id": "509d0fbca10b4d3dbfa3f32d0d1e019b",
+                "name": "Teste de Mitsuda",
+                "is_master": false,
+                "master_id": "c5305fc7e62c4ceda5bcb00086f86b4f",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Teste de Mitsuda",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "17c10744696f4a2981239612db0a7018",
+                "name": "Diagnóstico",
+                "is_master": false,
+                "master_id": "c5305fc7e62c4ceda5bcb00086f86b4f",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Diagnóstico",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "dab53aecbd164765be6f1b5f2ceeb779",
+                "name": "Hanseníase tuberculoide",
+                "is_master": false,
+                "master_id": "6afa30125e174f629249dc8cfc1c937b",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Apresentação clínica[$$]Hanseníase tuberculoide",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa D) Correta. De fato, a hanseníase é nossa hipótese diagnóstica mais forte. A conduta mais acertada nesse momento é realizar teste de sensibilidade na lesão. Se houver alteração de sensibilidade, o diagnóstico de hanseníase estará feito. O teste de Mitsuda avalia o grau de imunidade celular de um indivíduo contra o <i>M. leprae</i>. Como esse paciente apresenta um quadro de hanseníase tuberculoide, esperamos um teste de Mitsuda positivo. Mas, lembre-se de que um teste de Mitsuda positivo isoladamente não faz diagnóstico de hanseníase.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa D) Correta. De fato, a hanseníase é nossa hipótese diagnóstica mais forte. A conduta mais acertada nesse momento é realizar teste de sensibilidade na lesão. Se houver alteração de sensibilidade, o diagnóstico de hanseníase estará feito. O teste de Mitsuda avalia o grau de imunidade celular de um indivíduo contra o M. leprae. Como esse paciente apresenta um quadro de hanseníase tuberculoide, esperamos um teste de Mitsuda positivo. Mas, lembre-se de que um teste de Mitsuda positivo isoladamente não faz diagnóstico de hanseníase.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.358614 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.153998 +0000 UTC"
+            },
+            "answer_percentage": 81,
+            "answers": 1142
+          },
+          {
+            "id": "e6c52acf-f5b4-4d35-a0e2-c85860b41dfb",
+            "position": "4",
+            "body": "Liquen plano e biópsia.",
+            "sanitized_body": "Liquen plano e biópsia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.533194 +0000 UTC",
+            "topics": [
+              {
+                "id": "995151ce5fe948a09461f4ccdd838d1d",
+                "name": "Apresentação clínica",
+                "is_master": false,
+                "master_id": "3074be4dc1594e978818fd6d9b313dfb",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Dermatoses papuloescamosas[$$]Líquen plano[$$]Apresentação clínica",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa E) Incorreta. O líquen plano apresenta-se como várias pápulas poligonais, planas, pruriginosas, violáceas e que se localizam, preferencialmente, nos punhos. Pode haver ainda lesões ungueais e de mucosa oral. Lembre-se da associação de líquen plano e hepatite C.",
+              "sanitized_complete": "Alternativa E) Incorreta. O líquen plano apresenta-se como várias pápulas poligonais, planas, pruriginosas, violáceas e que se localizam, preferencialmente, nos punhos. Pode haver ainda lesões ungueais e de mucosa oral. Lembre-se da associação de líquen plano e hepatite C.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.360696 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.16122 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 44
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente, com 57 anos de idade, vai à Unidade Básica de Saúde com queixa de aparecimento, há um mês, de lesão avermelhada em braço direito. Procurou atendimento médico, quando foi prescrita nistastina creme durante 14 dias e fluconazol 150 mg em dose única, sem melhora do quadro. Relata que posteriormente apresentou dor no cotovelo direito, sendo feito diagnóstico de tendinite e prescrito anti-inflamatório.  Informa não ter outra doença e não faz uso de medicamentos. O exame físico mostra mácula eritematosa com bordas eritematosas elevadas e centro atrófico. Qual a hipótese diagnóstica e a propedêutica a ser realizada?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/924DD093-9377-0D68-1107-09A7A31918E2/924DD093-9377-0D68-1107-09A7A31918E2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+        "statement_text": "Paciente, com 57 anos de idade, vai à Unidade Básica de Saúde com queixa de aparecimento, há um mês, de lesão avermelhada em braço direito. Procurou atendimento médico, quando foi prescrita nistastina creme durante 14 dias e fluconazol 150 mg em dose única, sem melhora do quadro. Relata que posteriormente apresentou dor no cotovelo direito, sendo feito diagnóstico de tendinite e prescrito anti-inflamatório.  Informa não ter outra doença e não faz uso de medicamentos. O exame físico mostra mácula eritematosa com bordas eritematosas elevadas e centro atrófico. Qual a hipótese diagnóstica e a propedêutica a ser realizada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+        "solution": {
+          "_key": "2cbdd0b4-2411-4203-bcac-6706b16967a2",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Nosso paciente apresenta uma placa eritematosa, com bordas eritematosas e clareamento central. Provavelmente, a primeira hipótese diagnóstica foi de tinea corporis e o paciente foi tratado com antifúngicos, porém não houve melhora. Diante de uma lesão como essa, em nosso meio, precisamos imediatamente pensar em hanseníase tuberculoide. E essa dor no cotovelo que o paciente apresentou? Provavelmente, é um quadro de neurite secundário à hanseníase!&nbsp;<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DNosso paciente apresenta uma placa eritematosa, com bordas eritematosas e clareamento central. Provavelmente, a primeira hipótese diagnóstica foi de tinea corporis e o paciente foi tratado com antifúngicos, porém não houve melhora. Diante de uma lesão como essa, em nosso meio, precisamos imediatamente pensar em hanseníase tuberculoide. E essa dor no cotovelo que o paciente apresentou? Provavelmente, é um quadro de neurite secundário à hanseníase! ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+          "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+          "author_profile": {
+            "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+            "full_name": "Bruno de Castro e Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+            "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-06 13:02:07.568433 +0000 UTC",
+          "updated_at": "2020-11-04 21:42:29.242934 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127161-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-com-57-anos9806683371",
+        "public": true
+      },
+      {
+        "id": "4000152066",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 1,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "6e365026-3ffe-40c6-b382-385976de2006",
+                "name": "1° Simulado Inédito Revalida INEP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "C550E8E0-D8CD-5C83-A719-D354BF58EEA3"
+              },
+              {
+                "type": "ANSWER",
+                "url": "619775B1-A6CF-B112-14C6-34E91C2DE799"
+              },
+              {
+                "type": "ANSWER",
+                "url": "57616606-D7E0-8F78-196C-0ADBA92CA350"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-07-05T21:04:26Z",
+            "updated_at": "2022-01-31T19:12:08Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "463ce71fe7c246c1b54dfe52f95d1cfc",
+            "name": "COVID 19",
+            "is_master": false,
+            "master_id": "491c00747b9d4a7babede86d5683efc7",
+            "path": "Clínica Médica[$$]Infectologia [$$]COVID 19",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "9b758d0e-e6e7-400f-a833-f30ba93e415d",
+            "position": "0",
+            "body": "Anticoagulantes em dose terapêutica para tromboembolismo venoso.",
+            "sanitized_body": "Anticoagulantes em dose terapêutica para tromboembolismo venoso.",
+            "correct": false,
+            "created_at": "2021-07-06 17:11:26.591459 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A</b>. Está recomendado o uso de anticoagulantes em doses de profilaxia para tromboembolismo venoso, não doses  terapêuticas. Não há evidência de benefício da anticoagulação terapêutica ou do uso de doses intermediárias de anticoagulantes na COVID-19  sem tromboembolismo, já que essas doses aumentam o risco de sangramento.",
+              "sanitized_complete": "Incorreta a alternativa A. Está recomendado o uso de anticoagulantes em doses de profilaxia para tromboembolismo venoso, não doses  terapêuticas. Não há evidência de benefício da anticoagulação terapêutica ou do uso de doses intermediárias de anticoagulantes na COVID-19  sem tromboembolismo, já que essas doses aumentam o risco de sangramento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:06:06.858408 +0000 UTC",
+              "updated_at": "2021-07-07 17:06:09.268801 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 281
+          },
+          {
+            "id": "7a094b1c-92a3-46b2-8986-41e1c0fe6518",
+            "position": "1",
+            "body": "Corticosteroides em baixas doses, limitado a 10 dias.",
+            "sanitized_body": "Corticosteroides em baixas doses, limitado a 10 dias.",
+            "correct": true,
+            "created_at": "2021-07-06 17:11:26.591459 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa B</b> Recomenda-se o uso de corticosteroides em baixas doses, limitado a 10 dias, sem necessidade de continuar  após a alta hospitalar (caso aconteça antes dos 10 dias). Não devem ser prescritos em pacientes sem necessidade de oxigênio suplementar.",
+              "sanitized_complete": "Correta a alternativa B Recomenda-se o uso de corticosteroides em baixas doses, limitado a 10 dias, sem necessidade de continuar  após a alta hospitalar (caso aconteça antes dos 10 dias). Não devem ser prescritos em pacientes sem necessidade de oxigênio suplementar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:06:06.872637 +0000 UTC",
+              "updated_at": "2021-07-07 17:06:09.262847 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 908
+          },
+          {
+            "id": "2faf2b59-d763-4a6f-8aab-17c09ad8494b",
+            "position": "2",
+            "body": "Hidroxicloroquina associada à azitromicina.",
+            "sanitized_body": "Hidroxicloroquina associada à azitromicina.",
+            "correct": false,
+            "created_at": "2021-07-06 17:11:26.591459 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C</b>. A combinação de hidroxicloroquina com azitromicina não está recomendada, pois não há evidência de benefício.",
+              "sanitized_complete": "Incorreta a alternativa C. A combinação de hidroxicloroquina com azitromicina não está recomendada, pois não há evidência de benefício.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:06:06.829588 +0000 UTC",
+              "updated_at": "2021-07-07 17:06:09.260639 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 51
+          },
+          {
+            "id": "bcb53307-9f3c-4a75-9c35-34014b44ee70",
+            "position": "3",
+            "body": "Plasma convalescente.",
+            "sanitized_body": "Plasma convalescente.",
+            "correct": false,
+            "created_at": "2021-07-06 17:11:26.591459 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa D.</b> Os estudos clínicos demonstraram ausência de benefício com o plasma convalescente em pacientes hospitalizados  com COVID-19<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8B2EBB86-C5F4-746F-58A6-AEE381DEE904/8B2EBB86-C5F4-746F-58A6-AEE381DEE904-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5EB40E16-754B-CBA0-93E1-FCBE0898548E/5EB40E16-754B-CBA0-93E1-FCBE0898548E-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>FONTE: “Orientações sobre o tratamento farmacológico do paciente adulto hospitalizado com Covid-19” - Ministério da Saúde (atualizado em maio/2021)</div>",
+              "sanitized_complete": "Incorreta a alternativa D. Os estudos clínicos demonstraram ausência de benefício com o plasma convalescente em pacientes hospitalizados  com COVID-19FONTE: “Orientações sobre o tratamento farmacológico do paciente adulto hospitalizado com Covid-19” - Ministério da Saúde (atualizado em maio/2021)",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:06:06.825126 +0000 UTC",
+              "updated_at": "2021-07-07 17:06:09.262567 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 17
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 61 anos de idade, portador de hipertensão  arterial sistêmica e diabetes, é atendido em uma Unidade de Pronto Atendimento com febre, tosse seca, mal-estar e dificuldade para respirar.  O quadro iniciou-se há uma semana e piorou progressivamente. Ao exame físico, apresenta-se consciente, orientado, com pulso = 120 bpm,  temperatura axilar = 38,3°C, FR = 24 ipm. Auscultas pulmonar e cardíaca normais. Abdome: nada digno de nota. Extremidades bem perfundidas,  sem edemas, sem empastamento muscular. Oximetria de pulso de 88% (em ar ambiente). O médico plantonista fez a hipótese diagnóstica de  COVID-19, internou o paciente em um leito de isolamento e prescreveu oxigênio suplementar.<div><br></div><div>Segundo recomendações do Ministério da Saúde, qual das seguintes terapias está indicada para esse paciente, pela evidência de benefício?</div>",
+        "statement_text": "Um homem com 61 anos de idade, portador de hipertensão  arterial sistêmica e diabetes, é atendido em uma Unidade de Pronto Atendimento com febre, tosse seca, mal-estar e dificuldade para respirar.  O quadro iniciou-se há uma semana e piorou progressivamente. Ao exame físico, apresenta-se consciente, orientado, com pulso = 120 bpm,  temperatura axilar = 38,3°C, FR = 24 ipm. Auscultas pulmonar e cardíaca normais. Abdome: nada digno de nota. Extremidades bem perfundidas,  sem edemas, sem empastamento muscular. Oximetria de pulso de 88% (em ar ambiente). O médico plantonista fez a hipótese diagnóstica de  COVID-19, internou o paciente em um leito de isolamento e prescreveu oxigênio suplementar.Segundo recomendações do Ministério da Saúde, qual das seguintes terapias está indicada para esse paciente, pela evidência de benefício?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-06 17:11:26.591459 +0000 UTC",
+        "forum_id": "3854668d-81a3-4144-b3db-0a53ff3abcf1",
+        "solution": {
+          "_key": "d3da6a50-53bf-4dd0-8b72-80972040e023",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>De acordo com a publicação “Orientações sobre o tratamento farmacológico do paciente adulto hospitalizado com Covid-19”, do Ministério  da Saúde, atualizada em maio/2021, as seguintes terapias estão recomendadas para pacientes internados:</div><div><br></div><div>• Anticoagulantes em dose de profilaxia para tromboembolismo venoso, preferencialmente heparina não fracionada, enquanto o  paciente estiver hospitalizado, com dose ajustada para peso e função renal;</div><div><br></div><div>• Corticosteroides nos pacientes com uso de O2  suplementar, preferencialmente dexametasona, intravenoso ou via oral, na dose de  6mg/dia, por 10 dias</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BDe acordo com a publicação “Orientações sobre o tratamento farmacológico do paciente adulto hospitalizado com Covid-19”, do Ministério  da Saúde, atualizada em maio/2021, as seguintes terapias estão recomendadas para pacientes internados:• Anticoagulantes em dose de profilaxia para tromboembolismo venoso, preferencialmente heparina não fracionada, enquanto o  paciente estiver hospitalizado, com dose ajustada para peso e função renal;• Corticosteroides nos pacientes com uso de O2  suplementar, preferencialmente dexametasona, intravenoso ou via oral, na dose de  6mg/dia, por 10 dias",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 17:06:07.248029 +0000 UTC",
+          "updated_at": "2021-07-07 17:06:09.668774 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-com-61-anos1296f5ea646",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 37
+    }
+  }

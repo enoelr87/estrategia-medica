@@ -1,0 +1,562 @@
+{
+    "data": [
+      {
+        "id": "4000127124",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "484bb052230e4956a2698e468b37ce4e",
+            "name": "Tratamento no paciente adulto",
+            "is_master": false,
+            "master_id": "99d6791f64a7481e822e74cd51a24d21",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Complicações agudas[$$]Cetoacidose diabética[$$]Tratamento[$$]Tratamento no paciente adulto",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8e9539d3-eaf4-4cb9-9d75-40c33232ea9a",
+            "position": "0",
+            "body": "aguardar os exames, antes de outras etapas do tratamento.",
+            "sanitized_body": "aguardar os exames, antes de outras etapas do tratamento.",
+            "correct": false,
+            "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+            "updated_at": "2020-11-25 21:19:34.450691 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:37:20.368282 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 23
+          },
+          {
+            "id": "faab86ce-7e7b-40b5-90ff-9e65dafba9c1",
+            "position": "1",
+            "body": "iniciar insulinoterapia, em bolus endovenoso, a ser mantida por infusão contínua.",
+            "sanitized_body": "iniciar insulinoterapia, em bolus endovenoso, a ser mantida por infusão contínua.",
+            "correct": false,
+            "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+            "updated_at": "2020-11-25 21:19:34.632379 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:37:20.369853 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 51
+          },
+          {
+            "id": "8d954f66-809f-4bc1-a588-2fb6f884b6c7",
+            "position": "2",
+            "body": "aguardar resultado da dosagem de eletrólitos (K+) e iniciar expansão com soro fisiológico.",
+            "sanitized_body": "aguardar resultado da dosagem de eletrólitos (K+) e iniciar expansão com soro fisiológico.",
+            "correct": true,
+            "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+            "updated_at": "2020-11-25 21:19:34.822268 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:37:20.378993 +0000 UTC"
+            },
+            "answer_percentage": 71,
+            "answers": 770
+          },
+          {
+            "id": "bfcfd0b4-df50-496f-86b8-fb1e90cdaaa7",
+            "position": "3",
+            "body": "preparar expansão com soro fisiológico e reposição de potássio.",
+            "sanitized_body": "preparar expansão com soro fisiológico e reposição de potássio.",
+            "correct": false,
+            "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+            "updated_at": "2020-11-25 21:19:35.034651 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:37:20.355587 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 84
+          },
+          {
+            "id": "6c13c479-485a-4e02-9fec-ab80c54da3c4",
+            "position": "4",
+            "body": "introduzir expansão com soro fisiológico, reposição de potássio e insulinoterapia.",
+            "sanitized_body": "introduzir expansão com soro fisiológico, reposição de potássio e insulinoterapia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+            "updated_at": "2020-11-25 21:19:35.251723 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:37:20.356763 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 159
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher, com 19 anos de idade, procura o pronto-socorro de um hospital secundário com queixa de dor abdominal e vômitos há dois dias. Há cerca de quinze dias, apresenta tosse e coriza amarelada e, há dez dias, poliúria e polidipsia. Comenta ter emagrecido 12 kg (18% do peso) nas últimas duas semanas. Informa não ter tido febre. Não relata antecedentes mórbidos pessoais ou familiares relevantes. Ao exame clínico, aparece vigil, consciente, orientada. Pontuação na escala de coma de Glasgow = 15. Corada,  desidratada 2+/4+, taquipneica. Pressão arterial = 106 x 62 mmHg, pulso = 104 bpm, frequência respiratória = 28 irpm. Abdome doloroso à palpação profunda de epigástrio, sem dor à descompressão brusca. Semiologia cardíaca, pulmonar, e de membros,  normais. Saturação de oxigênio em ar ambiente: 99 %. Glicemia capilar à entrada = 364 mg/dL. Foram solicitadas dosagens séricas de eletrólitos, exame sumário de urina e gasometria venosa. Além de se considerar o início de antibioticoterapia para o quadro respiratório alto, a conduta terapêutica imediata adequada é:",
+        "statement_text": "Mulher, com 19 anos de idade, procura o pronto-socorro de um hospital secundário com queixa de dor abdominal e vômitos há dois dias. Há cerca de quinze dias, apresenta tosse e coriza amarelada e, há dez dias, poliúria e polidipsia. Comenta ter emagrecido 12 kg (18% do peso) nas últimas duas semanas. Informa não ter tido febre. Não relata antecedentes mórbidos pessoais ou familiares relevantes. Ao exame clínico, aparece vigil, consciente, orientada. Pontuação na escala de coma de Glasgow = 15. Corada,  desidratada 2+/4+, taquipneica. Pressão arterial = 106 x 62 mmHg, pulso = 104 bpm, frequência respiratória = 28 irpm. Abdome doloroso à palpação profunda de epigástrio, sem dor à descompressão brusca. Semiologia cardíaca, pulmonar, e de membros,  normais. Saturação de oxigênio em ar ambiente: 99 %. Glicemia capilar à entrada = 364 mg/dL. Foram solicitadas dosagens séricas de eletrólitos, exame sumário de urina e gasometria venosa. Além de se considerar o início de antibioticoterapia para o quadro respiratório alto, a conduta terapêutica imediata adequada é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:03:28.791459 +0000 UTC",
+        "solution": {
+          "_key": "15806539-a237-412a-95dc-251174978b82",
+          "complete": "<b>GABARITO: ALTERNATIVA \"C\"</b><div><br></div><div>Clinicamente, a Cetoacidose Diabética (CAD) se manifesta com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso), desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, progressiva diminuição do nível de consciência e, eventualmente, perda de consciência (coma).</div><div><br></div><div>Os critérios diagnósticos de CAD para o paciente adulto, propostos pela American Diabetes Association (ADA), desde 2009 são:  glicemia &gt; 250 mg/dL, acidose metabólica (pH arterial &lt; 7.3 e bicarbonato sérico &lt; 18 mEq/L) e aumento dos níveis séricos de cetonas. Os critérios são bastante intuitivos, pois estão “embutidos” no nome da doença:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4645D409-87A3-0B62-8200-562628534441/4645D409-87A3-0B62-8200-562628534441-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Idealmente, a cetonemia elevada deve ser quantificada através da dosagem sérica de beta-hidroxibutirato (já que é o cetoácido predominante na abertura do quadro), entretanto, se essa metodologia não estiver disponível, pode-se realizar a pesquisa de cetonúria com fitas reagentes (metodologia baseada da reação do nitroprussiato).</div><div><br></div><div>O tratamento da CAD no paciente adulto se assenta em 5 pilares (recomendações da ADA e do UpToDate):</div><div><br></div><div>1)\tEstabilização e reposição de volume</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0E49EABF-1BE7-93FD-084C-8A3189A77D63/0E49EABF-1BE7-93FD-084C-8A3189A77D63-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Após 2 – 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir que solução será a mais adequada. Se o paciente evoluir com hiponatremia, devemos manter a solução salina a 0.9%. Caso o paciente se apresente com sódio normal ou elevado, devemos trocar a salina a 0.9% por solução salina a 0.45%.</div><div><br></div><div>2)\tAvaliação da calemia</div><div><br></div><div>A glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD se apresenta com níveis de potássio normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso, a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:</div><div><br></div><div>•\tA insulina estimula o transporte de K+ para o espaço intracelular;</div><div><br></div><div>•\tCom a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.</div><div><br></div><div>Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos hidratação venosa criteriosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional:</div><div><br></div><div>•\tPotássio &lt; 3.3 mEq/L</div><div><br></div><div><ul><li>Iniciar cloreto de potássio (20 – 40 mEq/hora) até alcançar a concentração de 3.3 mEq/L.</li><li>Não ofertar insulina até o potássio chegar a 3.3 mEq/L.</li></ul></div><div><br></div><div>•\tPotássio 3.3 – 5.3 mEq/L</div><div><br></div><div><ul><li>Iniciar insulina e repor potássio concomitantemente (20 – 30 mEq/hora).</li></ul></div><div><br></div><div>•\tPotássio &gt; 5.3 mEq/L</div><div><br></div><div><ul><li>Não repor potássio.</li><li>Iniciar Insulina.</li><li>Avaliar a calemia a cada 2 horas. Caso a calemia atinja níveis inferiores a 5.4 mEq/L, devemos iniciar a reposição de potássio (20 a 30 mEq/hora).</li></ul></div><div><br></div><div>Fazendo uma analogia: a insulina e o potássio querem atravessar a rua para encontrar o paciente que tanto necessita dos seus serviços, mas é o “semáforo da calemia de admissão” que vai decidir quem passa:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/83A15755-1E74-CE86-EB35-60D0F2E72002/83A15755-1E74-CE86-EB35-60D0F2E72002-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>3)\tInsulinização</div><div><br></div><div>•\tA abordagem da hiperglicemia na CAD deve ser feita com INSULINA REGULAR ENDOVENOSA.</div><div><br></div><div>•\tEm casos de CAD leve, ou quando a terapia intravenosa for impraticável, pode-se fazer uso de INSULINA REGULAR INTRAMUSCULAR (aplicada a cada hora) ou ANÁLOGOS ULTRARRÁPIDOS SUBCUTÂNEOS (aplicados a cada 1 – 2 horas).</div><div><br></div><div>•\tA glicemia é aferida a cada hora. Se a redução for &gt; 70mg/dL, deve-se reduzir taxa de infusão pela metade (caso nosso paciente ainda não tenha alcançado o patamar de 250 mg/dl, essa redução não poderá resultar em uma taxa de infusão inferior a 0.1 UI/Kg/hora), se a redução for &lt; 50mg/dL, deve-se duplicar a taxa de infusão.</div><div><br></div><div>•\tNa maioria dos pacientes com CAD, a hiperglicemia se resolve antes da cetoacidose, portanto, quando a glicemia alcançar o patamar de 200 mg/dL, deve-se acrescentar dextrose (soro glicosado) à reposição volêmica, para que a manutenção da infusão de insulina não cause hipoglicemia.</div><div><br></div><div>4)\tAvaliar oferta de Bicarbonato venoso se pH &lt; 7</div><div><br></div><div>•\tA infusão venosa de Bicarbonato pode ser considerada no paciente adulto com CAD se pH &lt; 7, entretanto, na faixa etária pediátrica, essa terapia deve ser evitada ao máximo, pois além de não trazer benefícios clínicos comprovados, pode acarretar efeitos adversos graves (redução da hiperventilação compensatória, hipocalemia e edema cerebral).</div><div><br></div><div>5)\tTratar fatores precipitantes</div><div><br></div><div>•\tOs principais fatores precipitantes da CAD são as infecções (principalmente pneumonia e infecção urinária) e uso inadequado ou insuficiente de insulina.</div><div><br></div><div><b>Correta a alternativa “c” e Incorretas as demais alternativas:</b> Após as medidas gerais de suporte de vida, a hidratação venosa sempre será o primeiríssimo passo no tratamento da CAD, antes mesmo da coleta dos exames. Tenha em mente que o paciente com CAD é extremamente espoliado e que nenhuma terapêutica corretiva será eficaz enquanto o déficit de água não for, ao menos, minimizado.</div><div><br></div><div>Por si só, a hidratação venosa já pode reduzir a glicemia em 35 – 70 mg/dL a cada hora, devido aos seguintes efeitos:</div><div><br></div><div>•\tExpansão do espaço extracelular.</div><div><br></div><div>•\tAumento da glicosúria resultante da melhoria na perfusão renal e na filtração glomerular.</div><div><br></div><div>•\tRedução dos níveis de hormônios contrarreguladores.</div><div><br></div><div>A reposição de potássio deve ser iniciada caso a calemia admissional seja igual ou inferior a 5.3 mEq/L e a infusão de insulina só poderá ser iniciada se os níveis de potássio forem iguais ou superiores a 3.3 mEq/L.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA &#34;C&#34;Clinicamente, a Cetoacidose Diabética (CAD) se manifesta com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso), desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, progressiva diminuição do nível de consciência e, eventualmente, perda de consciência (coma).Os critérios diagnósticos de CAD para o paciente adulto, propostos pela American Diabetes Association (ADA), desde 2009 são:  glicemia &gt; 250 mg/dL, acidose metabólica (pH arterial &lt; 7.3 e bicarbonato sérico &lt; 18 mEq/L) e aumento dos níveis séricos de cetonas. Os critérios são bastante intuitivos, pois estão “embutidos” no nome da doença:Idealmente, a cetonemia elevada deve ser quantificada através da dosagem sérica de beta-hidroxibutirato (já que é o cetoácido predominante na abertura do quadro), entretanto, se essa metodologia não estiver disponível, pode-se realizar a pesquisa de cetonúria com fitas reagentes (metodologia baseada da reação do nitroprussiato).O tratamento da CAD no paciente adulto se assenta em 5 pilares (recomendações da ADA e do UpToDate):1)\tEstabilização e reposição de volumeApós 2 – 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir que solução será a mais adequada. Se o paciente evoluir com hiponatremia, devemos manter a solução salina a 0.9%. Caso o paciente se apresente com sódio normal ou elevado, devemos trocar a salina a 0.9% por solução salina a 0.45%.2)\tAvaliação da calemiaA glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD se apresenta com níveis de potássio normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso, a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:•\tA insulina estimula o transporte de K+ para o espaço intracelular;•\tCom a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos hidratação venosa criteriosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional:•\tPotássio &lt; 3.3 mEq/LIniciar cloreto de potássio (20 – 40 mEq/hora) até alcançar a concentração de 3.3 mEq/L.Não ofertar insulina até o potássio chegar a 3.3 mEq/L.•\tPotássio 3.3 – 5.3 mEq/LIniciar insulina e repor potássio concomitantemente (20 – 30 mEq/hora).•\tPotássio &gt; 5.3 mEq/LNão repor potássio.Iniciar Insulina.Avaliar a calemia a cada 2 horas. Caso a calemia atinja níveis inferiores a 5.4 mEq/L, devemos iniciar a reposição de potássio (20 a 30 mEq/hora).Fazendo uma analogia: a insulina e o potássio querem atravessar a rua para encontrar o paciente que tanto necessita dos seus serviços, mas é o “semáforo da calemia de admissão” que vai decidir quem passa:3)\tInsulinização•\tA abordagem da hiperglicemia na CAD deve ser feita com INSULINA REGULAR ENDOVENOSA.•\tEm casos de CAD leve, ou quando a terapia intravenosa for impraticável, pode-se fazer uso de INSULINA REGULAR INTRAMUSCULAR (aplicada a cada hora) ou ANÁLOGOS ULTRARRÁPIDOS SUBCUTÂNEOS (aplicados a cada 1 – 2 horas).•\tA glicemia é aferida a cada hora. Se a redução for &gt; 70mg/dL, deve-se reduzir taxa de infusão pela metade (caso nosso paciente ainda não tenha alcançado o patamar de 250 mg/dl, essa redução não poderá resultar em uma taxa de infusão inferior a 0.1 UI/Kg/hora), se a redução for &lt; 50mg/dL, deve-se duplicar a taxa de infusão.•\tNa maioria dos pacientes com CAD, a hiperglicemia se resolve antes da cetoacidose, portanto, quando a glicemia alcançar o patamar de 200 mg/dL, deve-se acrescentar dextrose (soro glicosado) à reposição volêmica, para que a manutenção da infusão de insulina não cause hipoglicemia.4)\tAvaliar oferta de Bicarbonato venoso se pH &lt; 7•\tA infusão venosa de Bicarbonato pode ser considerada no paciente adulto com CAD se pH &lt; 7, entretanto, na faixa etária pediátrica, essa terapia deve ser evitada ao máximo, pois além de não trazer benefícios clínicos comprovados, pode acarretar efeitos adversos graves (redução da hiperventilação compensatória, hipocalemia e edema cerebral).5)\tTratar fatores precipitantes•\tOs principais fatores precipitantes da CAD são as infecções (principalmente pneumonia e infecção urinária) e uso inadequado ou insuficiente de insulina.Correta a alternativa “c” e Incorretas as demais alternativas: Após as medidas gerais de suporte de vida, a hidratação venosa sempre será o primeiríssimo passo no tratamento da CAD, antes mesmo da coleta dos exames. Tenha em mente que o paciente com CAD é extremamente espoliado e que nenhuma terapêutica corretiva será eficaz enquanto o déficit de água não for, ao menos, minimizado.Por si só, a hidratação venosa já pode reduzir a glicemia em 35 – 70 mg/dL a cada hora, devido aos seguintes efeitos:•\tExpansão do espaço extracelular.•\tAumento da glicosúria resultante da melhoria na perfusão renal e na filtração glomerular.•\tRedução dos níveis de hormônios contrarreguladores.A reposição de potássio deve ser iniciada caso a calemia admissional seja igual ou inferior a 5.3 mEq/L e a infusão de insulina só poderá ser iniciada se os níveis de potássio forem iguais ou superiores a 3.3 mEq/L.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-19 17:37:20.458932 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127124-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-19-anos169453cc9c8",
+        "public": true
+      },
+      {
+        "id": "4000152070",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 1,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "6e365026-3ffe-40c6-b382-385976de2006",
+                "name": "1° Simulado Inédito Revalida INEP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "C550E8E0-D8CD-5C83-A719-D354BF58EEA3"
+              },
+              {
+                "type": "ANSWER",
+                "url": "619775B1-A6CF-B112-14C6-34E91C2DE799"
+              },
+              {
+                "type": "ANSWER",
+                "url": "57616606-D7E0-8F78-196C-0ADBA92CA350"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-07-05T21:04:26Z",
+            "updated_at": "2022-01-31T19:12:08Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+            "name": "Clínica Médica",
+            "is_master": true,
+            "path": "Clínica Médica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "484bb052230e4956a2698e468b37ce4e",
+            "name": "Tratamento no paciente adulto",
+            "is_master": false,
+            "master_id": "99d6791f64a7481e822e74cd51a24d21",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Complicações agudas[$$]Cetoacidose diabética[$$]Tratamento[$$]Tratamento no paciente adulto",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "59315c15-5910-4498-bce5-5b3700d9b378",
+            "position": "0",
+            "body": "Hidratação com cloreto de sódio a 0,9% + insulina regular em bomba de infusão contínua.",
+            "sanitized_body": "Hidratação com cloreto de sódio a 0,9% + insulina regular em bomba de infusão contínua.",
+            "correct": false,
+            "created_at": "2021-07-06 17:18:25.563216 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A: </b>A calemia de 4,0 mEq/L torna a reposição de potássio mandatória.",
+              "sanitized_complete": "Incorreta a alternativa A: A calemia de 4,0 mEq/L torna a reposição de potássio mandatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:25:56.987448 +0000 UTC",
+              "updated_at": "2021-07-07 17:26:00.566324 +0000 UTC"
+            },
+            "answer_percentage": 20,
+            "answers": 406
+          },
+          {
+            "id": "07c1cd4d-af00-4be6-a916-e6223a45d516",
+            "position": "1",
+            "body": "Hidratação com cloreto de sódio a 0,9% + cloreto de potássio + insulina regular em bomba de infusão contínua.",
+            "sanitized_body": "Hidratação com cloreto de sódio a 0,9% + cloreto de potássio + insulina regular em bomba de infusão contínua.",
+            "correct": true,
+            "created_at": "2021-07-06 17:18:25.563216 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa B</b> Essa alternativa traz o pacote terapêutico mais adequado para a paciente em questão:<div><br></div><div>• Hidratação venosa inicial com soro fisiológico a 0,9%;</div><div><br></div><div>• Reposição de potássio (já que a calemia admissional se encontra entre 3,3 – 5,3 mEq/L); e</div><div><br></div><div>• Insulinoterapia venosa</div>",
+              "sanitized_complete": "Correta a alternativa B Essa alternativa traz o pacote terapêutico mais adequado para a paciente em questão:• Hidratação venosa inicial com soro fisiológico a 0,9%;• Reposição de potássio (já que a calemia admissional se encontra entre 3,3 – 5,3 mEq/L); e• Insulinoterapia venosa",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:25:57.033982 +0000 UTC",
+              "updated_at": "2021-07-07 17:26:00.564715 +0000 UTC"
+            },
+            "answer_percentage": 63,
+            "answers": 1283
+          },
+          {
+            "id": "cc20a0d3-9ca8-4035-9373-4b98b950854c",
+            "position": "2",
+            "body": "Hidratação com cloreto de sódio a 0,45% + cloreto de potássio + insulina regular em bomba de infusão contínua.",
+            "sanitized_body": "Hidratação com cloreto de sódio a 0,45% + cloreto de potássio + insulina regular em bomba de infusão contínua.",
+            "correct": false,
+            "created_at": "2021-07-06 17:18:25.563216 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C:</b> A hidratação venosa inicial deve ser feita sempre com salina isotônica a 0,9%.",
+              "sanitized_complete": "Incorreta a alternativa C: A hidratação venosa inicial deve ser feita sempre com salina isotônica a 0,9%.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:25:56.996495 +0000 UTC",
+              "updated_at": "2021-07-07 17:26:00.57792 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 241
+          },
+          {
+            "id": "07dff2e3-9462-4737-97cc-0146e290ce78",
+            "position": "3",
+            "body": "Hidratação com cloreto de sódio a 0,45% + insulina regular em bomba de infusão contínua + bicarbonato",
+            "sanitized_body": "Hidratação com cloreto de sódio a 0,45% + insulina regular em bomba de infusão contínua + bicarbonato",
+            "correct": false,
+            "created_at": "2021-07-06 17:18:25.563216 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa D</b>: A hidratação venosa inicial deve ser feita sempre com salina isotônica a 0,9%. A reposição de bicarbonato não está  indicada, visto que o pH é superior a 7,0.",
+              "sanitized_complete": "Incorreta a alternativa D: A hidratação venosa inicial deve ser feita sempre com salina isotônica a 0,9%. A reposição de bicarbonato não está  indicada, visto que o pH é superior a 7,0.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-07 17:25:57.030216 +0000 UTC",
+              "updated_at": "2021-07-07 17:26:00.552621 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 105
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 19 anos dá entrada em serviço de pronto  atendimento com queixas de mal estar geral, dor abdominal, náuseas, vômitos e diarreia. Refere ainda que há uma semana nota que está  urinando em maior volume e com maior frequência<div><br></div><div>Ao exame, encontra-se em estado geral regular, orientada, desidratada (1+/4+), eupneica, PA 90x60 mmHg, FC 102 bpm, abdômen difusamente  doloroso à palpação e auscultas cardíaca e pulmonar sem alterações.</div><div><br></div><div>Os exames admissionais são mostrados na tabela a seguir:&nbsp;</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6592178E-CA58-77FE-7207-063B7BB8A5F8/6592178E-CA58-77FE-7207-063B7BB8A5F8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Considerando a principal suspeita diagnóstica, que alternativa traz o conjunto de condutas mais adequado?</div>",
+        "statement_text": "Uma paciente de 19 anos dá entrada em serviço de pronto  atendimento com queixas de mal estar geral, dor abdominal, náuseas, vômitos e diarreia. Refere ainda que há uma semana nota que está  urinando em maior volume e com maior frequênciaAo exame, encontra-se em estado geral regular, orientada, desidratada (1+/4+), eupneica, PA 90x60 mmHg, FC 102 bpm, abdômen difusamente  doloroso à palpação e auscultas cardíaca e pulmonar sem alterações.Os exames admissionais são mostrados na tabela a seguir: Considerando a principal suspeita diagnóstica, que alternativa traz o conjunto de condutas mais adequado?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-06 17:18:25.563216 +0000 UTC",
+        "forum_id": "f0a02b9c-bc56-4b74-bc7e-20036d928438",
+        "solution": {
+          "_key": "bba411bc-b9d5-409f-b03e-d3ec76626e03",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Os critérios diagnósticos de cetoacidose diabética (CAD) para o paciente adulto, propostos pela American Diabetes Association (ADA)  desde 2009, são:</div><div><br></div><div>• Glicemia &gt; 250 mg/dL;</div><div><br></div><div>• Acidose metabólica (pH arterial &lt; 7.3 E bicarbonato sérico &lt; 18 mEq/L); e</div><div><br></div><div>• Aumento dos níveis séricos de cetonas.&nbsp;</div><div><br></div><div>Os critérios são bastante intuitivos, pois estão incluídos no nome da complicação:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C15BFAD6-848A-44E5-A4AB-0F6FF78ACC94/C15BFAD6-848A-44E5-A4AB-0F6FF78ACC94-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Idealmente, a cetonemia elevada deve ser quantificada através da dosagem sérica de beta-hidroxibutirato (já que é o cetoácido  predominante na abertura do quadro), entretanto, se essa opção não estiver disponível, pode-se realizar a pesquisa de cetonúria com fitas  reagentes (metodologia baseada na reação do nitroprussiato).</div><div><br></div><div>Clinicamente, a CAD manifesta-se com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso),  desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, progressiva  diminuição do nível de consciência e, eventualmente, perda de consciência (coma).</div><div><br></div><div>Frente a essa complicação, devemos ofertar um “pacote terapêutico” baseado em 5 pilares:</div><div><br></div><div>1. Estabilização clínica e reposição de volume;</div><div><br></div><div>2. Avaliação e correção da calemia;&nbsp;</div><div><br></div><div>3. Insulinização;</div><div><br></div><div>4. Avaliação da necessidade de bicarbonato venoso;</div><div><br></div><div>5. Abordagem dos fatores precipitantes.&nbsp;</div><div><br></div><div>Vamos abordar os principais tópicos de cada um desses pilares para, em seguida, analisarmos as alternativas:</div><div><br></div><div><b>1. Estabilização e reposição de volume</b></div><div><b><br></b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/69C5BBC8-00FD-5E08-3759-FFEBE8F7B602/69C5BBC8-00FD-5E08-3759-FFEBE8F7B602-400.png\"><!-- END:IMAGE_TO_REPLACE --><b><br></b></div><div><br></div><div>Após 2 – 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir que solução será a mais adequada. Se  o paciente evoluir com hiponatremia, devemos manter a solução salina a 0.9%. Caso o paciente se apresente com sódio normal ou elevado,  devemos trocar a salina a 0.9% por solução salina a 0.45%.</div><div><br></div><div><b>2. Avaliação da calemia</b></div><div><b><br></b></div><div>A glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD apresenta-se com níveis de potássio  normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso,  a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:</div><div><br></div><div>• A insulina estimula o transporte de K+ para o espaço intracelular;</div><div>• Com a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.</div><div><br></div><div>Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos  hidratação venosa criteriosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional</div><div><br></div><div>&nbsp;Potássio &lt; 3.3 mEq/L</div><div><br></div><div>• Iniciar cloreto de potássio (20 – 40 mEq/hora) até alcançar a concentração de 3.3 mEq/L.</div><div><br></div><div>• Não ofertar insulina até que o potássio chegue a 3.3 mEq/L</div><div><br></div><div>&nbsp;Potássio 3.3 – 5.3 mEq/L</div><div><br></div><div>• Iniciar insulina e repor potássio concomitantemente (20 – 30 mEq/hora).</div><div><br></div><div>• Potássio &gt; 5.3 mEq/L</div><div><br></div><div>• Não repor potássio.</div><div><br></div><div>• Iniciar Insulina.</div><div><br></div><div>• Avaliar a calemia a cada 2 horas. Caso a calemia atinja níveis ≤ 5.3 mEq/L, devemos iniciar a reposição de potássio (20 a 30&nbsp;</div><div>mEq/hora).&nbsp;</div><div><br></div><div><b>3. Insulinização</b></div><div><b><br></b></div><div>• A abordagem da hiperglicemia na CAD deve ser feita preferencialmente com INSULINA REGULAR INTRAVENOSA EM BOMBA DE  INFUSÃO CONTÍNUA (BIC). Em casos de CAD leve, ou quando a terapia intravenosa for impraticável, podemos fazer uso de ANÁLOGOS  ULTRARRÁPIDOS SUBCUTÂNEOS (aplicados a cada 1 a 2 horas).&nbsp;</div><div><br></div><div>• Quanto à insulina regular venosa, o esquema mais clássico é o bolus inicial (0,1 UI/kg) seguido de infusão contínua (0,1 UI/kg/h).&nbsp;</div><div><br></div><div>• A glicemia deve ser aferida a cada hora e a taxa de redução da glicemia, idealmente, deve ser de 50 a 70 mg/dL/h. Se a taxa de redução  da glicemia for &lt; 50 mg/dL/h, devemos duplicar a taxa de infusão. Se a taxa de redução da glicemia for &gt; 70 mg/dL, devemos reduzir  a taxa de infusão pela metade.</div><div><br></div><div><b>4. Avaliar oferta de Bicarbonato venoso</b></div><div><b><br></b></div><div>A terapia com bicarbonato venoso no tratamento da CAD permanece controversa, sobretudo na faixa etária pediátrica. Entretanto, essa&nbsp;</div><div>conduta pode ser considerada de maneira parcimoniosa quando houver instabilidade hemodinâmica relacionada a uma destas duas situações:</div><div><br></div><div>• Pacientes com pH arterial &lt; 7,0;</div><div>• Pacientes com hipercalemia potencialmente fatal.&nbsp;</div><div><br></div><div><b>5. Tratar fatores precipitantes&nbsp;</b></div><div><br></div><div>De nada valerá que as etapas anteriormente citadas sejam executadas com primor se os possíveis fatores precipitantes não forem  neutralizados. Especial atenção deverá ser dispensada à pesquisa de sinais e de sintomas sugestivos de infecção e doenças agudas (síndromes  isquêmicas e pancreatite, por exemplo).</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BOs critérios diagnósticos de cetoacidose diabética (CAD) para o paciente adulto, propostos pela American Diabetes Association (ADA)  desde 2009, são:• Glicemia &gt; 250 mg/dL;• Acidose metabólica (pH arterial &lt; 7.3 E bicarbonato sérico &lt; 18 mEq/L); e• Aumento dos níveis séricos de cetonas. Os critérios são bastante intuitivos, pois estão incluídos no nome da complicação:Idealmente, a cetonemia elevada deve ser quantificada através da dosagem sérica de beta-hidroxibutirato (já que é o cetoácido  predominante na abertura do quadro), entretanto, se essa opção não estiver disponível, pode-se realizar a pesquisa de cetonúria com fitas  reagentes (metodologia baseada na reação do nitroprussiato).Clinicamente, a CAD manifesta-se com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso),  desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, progressiva  diminuição do nível de consciência e, eventualmente, perda de consciência (coma).Frente a essa complicação, devemos ofertar um “pacote terapêutico” baseado em 5 pilares:1. Estabilização clínica e reposição de volume;2. Avaliação e correção da calemia; 3. Insulinização;4. Avaliação da necessidade de bicarbonato venoso;5. Abordagem dos fatores precipitantes. Vamos abordar os principais tópicos de cada um desses pilares para, em seguida, analisarmos as alternativas:1. Estabilização e reposição de volumeApós 2 – 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir que solução será a mais adequada. Se  o paciente evoluir com hiponatremia, devemos manter a solução salina a 0.9%. Caso o paciente se apresente com sódio normal ou elevado,  devemos trocar a salina a 0.9% por solução salina a 0.45%.2. Avaliação da calemiaA glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD apresenta-se com níveis de potássio  normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso,  a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:• A insulina estimula o transporte de K+ para o espaço intracelular;• Com a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos  hidratação venosa criteriosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional Potássio &lt; 3.3 mEq/L• Iniciar cloreto de potássio (20 – 40 mEq/hora) até alcançar a concentração de 3.3 mEq/L.• Não ofertar insulina até que o potássio chegue a 3.3 mEq/L Potássio 3.3 – 5.3 mEq/L• Iniciar insulina e repor potássio concomitantemente (20 – 30 mEq/hora).• Potássio &gt; 5.3 mEq/L• Não repor potássio.• Iniciar Insulina.• Avaliar a calemia a cada 2 horas. Caso a calemia atinja níveis ≤ 5.3 mEq/L, devemos iniciar a reposição de potássio (20 a 30 mEq/hora). 3. Insulinização• A abordagem da hiperglicemia na CAD deve ser feita preferencialmente com INSULINA REGULAR INTRAVENOSA EM BOMBA DE  INFUSÃO CONTÍNUA (BIC). Em casos de CAD leve, ou quando a terapia intravenosa for impraticável, podemos fazer uso de ANÁLOGOS  ULTRARRÁPIDOS SUBCUTÂNEOS (aplicados a cada 1 a 2 horas). • Quanto à insulina regular venosa, o esquema mais clássico é o bolus inicial (0,1 UI/kg) seguido de infusão contínua (0,1 UI/kg/h). • A glicemia deve ser aferida a cada hora e a taxa de redução da glicemia, idealmente, deve ser de 50 a 70 mg/dL/h. Se a taxa de redução  da glicemia for &lt; 50 mg/dL/h, devemos duplicar a taxa de infusão. Se a taxa de redução da glicemia for &gt; 70 mg/dL, devemos reduzir  a taxa de infusão pela metade.4. Avaliar oferta de Bicarbonato venosoA terapia com bicarbonato venoso no tratamento da CAD permanece controversa, sobretudo na faixa etária pediátrica. Entretanto, essa conduta pode ser considerada de maneira parcimoniosa quando houver instabilidade hemodinâmica relacionada a uma destas duas situações:• Pacientes com pH arterial &lt; 7,0;• Pacientes com hipercalemia potencialmente fatal. 5. Tratar fatores precipitantes De nada valerá que as etapas anteriormente citadas sejam executadas com primor se os possíveis fatores precipitantes não forem  neutralizados. Especial atenção deverá ser dispensada à pesquisa de sinais e de sintomas sugestivos de infecção e doenças agudas (síndromes  isquêmicas e pancreatite, por exemplo).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 17:25:57.28991 +0000 UTC",
+          "updated_at": "2021-07-07 17:26:00.777458 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "paciente-19-anos-da93069f5ee7",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 27
+    }
+  }

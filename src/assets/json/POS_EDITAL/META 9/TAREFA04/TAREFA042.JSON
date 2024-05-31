@@ -1,0 +1,2688 @@
+{
+    "data": [
+      {
+        "id": "4000153155",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "AB931441-8FCE-0010-64D2-2AE71DDE440E"
+              },
+              {
+                "type": "NOTICE",
+                "url": "9D903A58-4A2E-9D5C-8C4E-1A12F12D7E95"
+              },
+              {
+                "type": "ANSWER",
+                "url": "B52BD576-866F-3757-A671-F29775669139"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 105,
+            "created_at": "2021-09-08T12:47:08Z",
+            "updated_at": "2021-12-10T00:02:36Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "69d6654bfb114f7ebedebe54d358a773",
+            "name": "Tuberculose",
+            "is_master": false,
+            "master_id": "061176ba25e541efa5c80238604512dd",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Tuberculose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6643fcb4-e802-493f-a925-44ca199043b5",
+            "position": "0",
+            "body": "avaliar eventual resistência do HIV aos antirretrovirais em uso para depois desse resultado iniciar o tratamento da tuberculose. ",
+            "sanitized_body": "avaliar eventual resistência do HIV aos antirretrovirais em uso para depois desse resultado iniciar o tratamento da tuberculose. ",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:27.902935 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Jamais o tratamento da tuberculose deve ser atrasado aguardando genotipagem do HIV.",
+              "sanitized_complete": "Jamais o tratamento da tuberculose deve ser atrasado aguardando genotipagem do HIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.403425 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.626284 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 110
+          },
+          {
+            "id": "b69ebfec-a7cd-42c7-8178-0640e50f6da1",
+            "position": "1",
+            "body": "avaliar eventual resistência do HIV aos antirretrovirais em uso, sem atrasar início do tratamento da tuberculose.",
+            "sanitized_body": "avaliar eventual resistência do HIV aos antirretrovirais em uso, sem atrasar início do tratamento da tuberculose.",
+            "correct": true,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.062928 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O tratamento da tuberculose deve ser uma prioridade e iniciado imediatamente.",
+              "sanitized_complete": "O tratamento da tuberculose deve ser uma prioridade e iniciado imediatamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.400812 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.617906 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 3348
+          },
+          {
+            "id": "a80a163f-1db6-4524-a09e-be83b6c35eeb",
+            "position": "2",
+            "body": "avaliar eventual resistência aos antirretrovirais não é necessário, pois a carga viral está abaixo de 100 000 cópias.",
+            "sanitized_body": "avaliar eventual resistência aos antirretrovirais não é necessário, pois a carga viral está abaixo de 100 000 cópias.",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.22623 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Falhas virológicas devem ser reconhecidas precocemente, quando não se observa supressão viral sob tratamento, com cargas virais do HIV acima de 500 cópias/mL.",
+              "sanitized_complete": "Falhas virológicas devem ser reconhecidas precocemente, quando não se observa supressão viral sob tratamento, com cargas virais do HIV acima de 500 cópias/mL.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.410152 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.634461 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 195
+          },
+          {
+            "id": "06f76649-a4da-4d4b-95ed-7accdff2d386",
+            "position": "3",
+            "body": "avaliar eventual resistência do HIV através da quantificação de linfócitos CD4.",
+            "sanitized_body": "avaliar eventual resistência do HIV através da quantificação de linfócitos CD4.",
+            "correct": false,
+            "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+            "updated_at": "2021-11-19 05:49:28.374254 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Para a avaliação de resistência do HIV, indica-se o teste de genotipagem. CD4 nada tem a ver com resistência.",
+              "sanitized_complete": "Para a avaliação de resistência do HIV, indica-se o teste de genotipagem. CD4 nada tem a ver com resistência.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-09-21 23:35:14.44484 +0000 UTC",
+              "updated_at": "2021-09-21 23:38:13.655417 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 172
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem, de 37 anos de idade, com AIDS/HIV diagnosticada há 3 anos, compareceu à consulta com o médico da UBS próxima de sua casa, trazendo resultados de exames solicitados na consulta anterior. O teste rápido molecular para tuberculose feito no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina. A carga viral para HIV apresentou resultado de 98 000 cópias por mililitro. Nessa situação, o médico deverá",
+        "statement_text": "Um homem, de 37 anos de idade, com AIDS/HIV diagnosticada há 3 anos, compareceu à consulta com o médico da UBS próxima de sua casa, trazendo resultados de exames solicitados na consulta anterior. O teste rápido molecular para tuberculose feito no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina. A carga viral para HIV apresentou resultado de 98 000 cópias por mililitro. Nessa situação, o médico deverá",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-09-08 13:24:01.269331 +0000 UTC",
+        "solution": {
+          "_key": "e5974fcd-7378-46b5-95ed-9b1df9b812c6",
+          "complete": "Caro(a) Estrategista, tuberculose despenca nas provas do Revalida! <div><br><div>Paciente com HIV/aids, com teste rápido molecular para tuberculose no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina, apresenta carga viral para HIV de 98.000 cópias/mL. Ou seja, existe alguma falha (Falha de adesão? Resistência do HIV aos antirretrovirais?).</div><div><br></div><div>O tratamento para tuberculose deve ser uma prioridade e iniciada sem atrasos, considerando as recomendações de coinfecção com o HIV, isto é, usando um esquema compatível com a rifampicina.</div><div><br></div><div>Para a avaliação de eventual resistência do HIV, está indicada a genotipagem e efetuar uma possível troca medicamentosa futura, se necessário. Vale lembrar que se recomenda a realização de genotipagem pré-tratamento em que vivem com HIV para Indivíduos coinfectados TB-HIV, de forma a orientar o esquema terapêutico inicial, para avaliação de resistência primária transmitida aos ARV do esquema inicial.</div></div>",
+          "sanitized_complete": "Caro(a) Estrategista, tuberculose despenca nas provas do Revalida! Paciente com HIV/aids, com teste rápido molecular para tuberculose no escarro confirmou o diagnóstico de tuberculose pulmonar e sensibilidade à rifampicina, apresenta carga viral para HIV de 98.000 cópias/mL. Ou seja, existe alguma falha (Falha de adesão? Resistência do HIV aos antirretrovirais?).O tratamento para tuberculose deve ser uma prioridade e iniciada sem atrasos, considerando as recomendações de coinfecção com o HIV, isto é, usando um esquema compatível com a rifampicina.Para a avaliação de eventual resistência do HIV, está indicada a genotipagem e efetuar uma possível troca medicamentosa futura, se necessário. Vale lembrar que se recomenda a realização de genotipagem pré-tratamento em que vivem com HIV para Indivíduos coinfectados TB-HIV, de forma a orientar o esquema terapêutico inicial, para avaliação de resistência primária transmitida aos ARV do esquema inicial.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-09-21 23:35:14.54337 +0000 UTC",
+          "updated_at": "2021-09-21 23:38:13.69119 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153155-720.mp4",
+        "unlisted": false,
+        "slug": "homem-37-anos-idade70184ae338",
+        "public": true
+      },
+      {
+        "id": "4000142337",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "7E0667DD-325C-9EC8-9993-5431574A2481"
+              },
+              {
+                "type": "ANSWER",
+                "url": "569E93EE-49CF-139A-2238-16FD4D0E316F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-03-11T21:31:30Z",
+            "updated_at": "2021-10-01T21:32:48Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3f4e1a0850484f7295d9af7548021978",
+            "name": "Leishmaniose visceral (LV)",
+            "is_master": false,
+            "master_id": "971ea61f8f4645d496ea8de787766d38",
+            "path": "Clínica Médica[$$]Infectologia [$$]Hepatoesplenomegalias crônicas[$$]Leishmaniose visceral (LV)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "19fcada3-b7a5-4ba5-9cb1-26a914a12ef6",
+            "position": "0",
+            "body": "Leishmaniose visceral",
+            "sanitized_body": "Leishmaniose visceral",
+            "correct": true,
+            "created_at": "2021-03-12 01:31:04.746213 +0000 UTC",
+            "updated_at": "2022-01-05 23:57:58.590961 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Certo!  A criança apresenta febre de longa duração, perda de peso, astenia, palidez, <span>hepatoesplenomegalia, pancitopenia e inversão da relação albumina/globulina, que são todos achados compatíveis com leishmaniose visceral.</span>",
+              "sanitized_complete": "Certo!  A criança apresenta febre de longa duração, perda de peso, astenia, palidez, hepatoesplenomegalia, pancitopenia e inversão da relação albumina/globulina, que são todos achados compatíveis com leishmaniose visceral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-01-05 23:22:30.520925 +0000 UTC",
+              "updated_at": "2022-01-06 00:28:39.852707 +0000 UTC"
+            },
+            "answer_percentage": 77,
+            "answers": 680
+          },
+          {
+            "id": "d8414bb9-9a89-466e-9301-35bc2e56ae9e",
+            "position": "1",
+            "body": "Linfoma de Hodgkin",
+            "sanitized_body": "Linfoma de Hodgkin",
+            "correct": false,
+            "created_at": "2021-03-12 01:31:04.746213 +0000 UTC",
+            "updated_at": "2022-01-05 23:57:58.651636 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "No linfoma de Hodgkin, geralmente ocorre aumento dos linfonodos, e a criança em questão, tem gânglios não palpáveis.",
+              "sanitized_complete": "No linfoma de Hodgkin, geralmente ocorre aumento dos linfonodos, e a criança em questão, tem gânglios não palpáveis.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-01-05 23:22:30.444512 +0000 UTC",
+              "updated_at": "2022-01-06 00:28:39.810921 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 35
+          },
+          {
+            "id": "3c550207-6652-45c4-99ab-360e1318cb2f",
+            "position": "2",
+            "body": "Malária por P. falciparum",
+            "sanitized_body": "Malária por P. falciparum",
+            "correct": false,
+            "created_at": "2021-03-12 01:31:04.746213 +0000 UTC",
+            "updated_at": "2022-01-05 23:57:58.729034 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A criança é natural e procedente de uma área de baixo risco de transmissão de malária. Além disso, o <i>P. falciparum</i> é sabidamente <span>responsável pela forma grave e letal da doença, e tem apresentado </span><span>redução importante nos últimos anos.</span>",
+              "sanitized_complete": "A criança é natural e procedente de uma área de baixo risco de transmissão de malária. Além disso, o P. falciparum é sabidamente responsável pela forma grave e letal da doença, e tem apresentado redução importante nos últimos anos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-01-05 23:22:30.482123 +0000 UTC",
+              "updated_at": "2022-01-06 00:28:39.822004 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 100
+          },
+          {
+            "id": "d6663ed9-bf86-41c5-802f-ff10950dcf36",
+            "position": "3",
+            "body": "Esquistossomose",
+            "sanitized_body": "Esquistossomose",
+            "correct": false,
+            "created_at": "2021-03-12 01:31:04.746213 +0000 UTC",
+            "updated_at": "2022-01-05 23:57:58.787843 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O enunciado fala nada sobre focos de transmissão da esquistossomose, ou seja, coleções de água estagnada ou de baixa correnteza localizadas em áreas<div>peridomiciliares de comunidades urbanas ou rurais que não dispõem de água encanada <span>e/ou saneamento básico. Também não faz qualquer referência a uma dermatite pela penetração ativa da cercária na pele. </span><span>Além disso, verifica-se l</span><span>eucocitose com acentuada eosinofilia ao hemograma na fase aguda.</span></div>",
+              "sanitized_complete": "O enunciado fala nada sobre focos de transmissão da esquistossomose, ou seja, coleções de água estagnada ou de baixa correnteza localizadas em áreasperidomiciliares de comunidades urbanas ou rurais que não dispõem de água encanada e/ou saneamento básico. Também não faz qualquer referência a uma dermatite pela penetração ativa da cercária na pele. Além disso, verifica-se leucocitose com acentuada eosinofilia ao hemograma na fase aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2022-01-05 23:22:30.450394 +0000 UTC",
+              "updated_at": "2022-01-06 00:28:39.852921 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 67
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Pré-escolar, 4 anos de idade, sexo feminino, natural e procedente de Várzea Grande-MT, residente na área rural, deu entrada na UPA com quadro de febre de 39°C, intermitente e irregular com 2 ou 3 picos por dia há 3 semanas, astenia, perda de peso. Ao exame: Sinais Vitais: Fr: 28 irpm, Fc: 130 bpm, Tax: 39,3ºC. REG, prostrada, palidez cutaneomucosa, hidratada. A ausculta cardíaca e pulmonar eram normais. Abdome globoso, ruídos hidroaéreos positivos, à palpação, fígado a 3 cm RCD e baço a 5 cm do RCE, sem sinal de irritação peritoneal. Linfonodos não palpáveis. Demais sem alteração.<div><br><div>Hemograma: Hemácias: 3,6 milhões, Hb: 9,0 g/dL, Ht: 27%; Leucócitos: 3.900 mm³; Plaquetas 60.000 mm³; Ureia: 17 mg/dL; Creatinina: 0,6 mg/dL; VHS: 55mm; Bilirrubina total: 0,3 mg/dL; Bilirrubina indireta: 0,2 mg/dL; Bilirrubina direta: 0,1 mg/dL; Amilase: 153 mg/dL; AST:27 U/mL; ALT: 15 U/mL; Proteínas totais: 5,15; Albumina: 3,0 mg/dL; Globulina: 2,15mg/dL.</div><div><br></div><div>Qual é a principal hipótese diagnóstica?</div></div>",
+        "statement_text": "Pré-escolar, 4 anos de idade, sexo feminino, natural e procedente de Várzea Grande-MT, residente na área rural, deu entrada na UPA com quadro de febre de 39°C, intermitente e irregular com 2 ou 3 picos por dia há 3 semanas, astenia, perda de peso. Ao exame: Sinais Vitais: Fr: 28 irpm, Fc: 130 bpm, Tax: 39,3ºC. REG, prostrada, palidez cutaneomucosa, hidratada. A ausculta cardíaca e pulmonar eram normais. Abdome globoso, ruídos hidroaéreos positivos, à palpação, fígado a 3 cm RCD e baço a 5 cm do RCE, sem sinal de irritação peritoneal. Linfonodos não palpáveis. Demais sem alteração.Hemograma: Hemácias: 3,6 milhões, Hb: 9,0 g/dL, Ht: 27%; Leucócitos: 3.900 mm³; Plaquetas 60.000 mm³; Ureia: 17 mg/dL; Creatinina: 0,6 mg/dL; VHS: 55mm; Bilirrubina total: 0,3 mg/dL; Bilirrubina indireta: 0,2 mg/dL; Bilirrubina direta: 0,1 mg/dL; Amilase: 153 mg/dL; AST:27 U/mL; ALT: 15 U/mL; Proteínas totais: 5,15; Albumina: 3,0 mg/dL; Globulina: 2,15mg/dL.Qual é a principal hipótese diagnóstica?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-03-12 01:31:04.746213 +0000 UTC",
+        "solution": {
+          "_key": "d1d95ac1-642c-4142-8d6b-5d57a8248f91",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Trata-se de uma criança de 4 anos de idade, natural e procedente da zona rural de Várzea Grande-MT, com febre de 39°C, intermitente e irregular com 2 ou 3 picos por dia há 3 semanas, astenia, perda de peso. Ao exame: Sinais Vitais: Fr: 28 irpm, Fc: 130 bpm, Tax: 39,3ºC. REG, prostrada, palidez cutaneomucosa, hidratada. A ausculta cardíaca e pulmonar eram normais. Abdome globoso, ruídos hidroaéreos positivos, à palpação, fígado a 3 cm RCD e baço a 5 cm do RCE, sem sinal de irritação peritoneal. Linfonodos não palpáveis. Demais sem alteração. Exames laboratoriais: <span>pancitopenia; VHS: 55mm; hipoalbuminemia; hiperglobulinemia.</span></div><div><span><br></span></div><div><span>A questão pede a principal suspeita diagnóstica.</span></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ATrata-se de uma criança de 4 anos de idade, natural e procedente da zona rural de Várzea Grande-MT, com febre de 39°C, intermitente e irregular com 2 ou 3 picos por dia há 3 semanas, astenia, perda de peso. Ao exame: Sinais Vitais: Fr: 28 irpm, Fc: 130 bpm, Tax: 39,3ºC. REG, prostrada, palidez cutaneomucosa, hidratada. A ausculta cardíaca e pulmonar eram normais. Abdome globoso, ruídos hidroaéreos positivos, à palpação, fígado a 3 cm RCD e baço a 5 cm do RCE, sem sinal de irritação peritoneal. Linfonodos não palpáveis. Demais sem alteração. Exames laboratoriais: pancitopenia; VHS: 55mm; hipoalbuminemia; hiperglobulinemia.A questão pede a principal suspeita diagnóstica.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-05 23:22:30.63875 +0000 UTC",
+          "updated_at": "2022-01-06 00:28:39.866199 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Pre-escolar-4-anos15326c1af2e",
+        "public": true
+      },
+      {
+        "id": "4000146607",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "43d9a11db7c3487983ac7f09d270310d",
+            "name": "Infecções oportunistas",
+            "is_master": false,
+            "master_id": "71418c85978540778bd9ee9e8551369a",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7aed2393ed894ddeb052af73b6296732",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "4502e7daa1594653b60a5a8284f78bc4",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5b9a668d-f15d-438d-8be2-6444684397f4",
+            "position": "0",
+            "body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:50.951036 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "sanitized_complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.131507 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.448679 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 138
+          },
+          {
+            "id": "2f6c4c6a-63e8-45e5-abbe-f6c69aa63efd",
+            "position": "1",
+            "body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.032484 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV).&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV). ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.13341 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.475992 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 415
+          },
+          {
+            "id": "d76d4d40-c6a9-4176-a23a-6514744c67b0",
+            "position": "2",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "correct": true,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.106891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "sanitized_complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.135793 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.443054 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 6589
+          },
+          {
+            "id": "6dd28b38-cb57-40b9-912e-5036eba2e07d",
+            "position": "3",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.189333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "sanitized_complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.144615 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.435424 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 305
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "statement_text": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+        "forum_id": "afe2dd32-5886-4694-b0bc-a93de95d7e44",
+        "solution": {
+          "_key": "937b37e8-099d-4ae1-ad1a-aaa077578364",
+          "complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.<div><br></div><div>Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:</div><div><br></div><div>- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/35FBAD55-039F-2DBF-6904-0A923693897D/35FBAD55-039F-2DBF-6904-0A923693897D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>- Pneumocistose (pneumonia por <i>Pneumocystis jiroveci</i>): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.</div><div><br></div><div>- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7D114EE7-2D1E-1A37-5388-C04BB68F293F/7D114EE7-2D1E-1A37-5388-C04BB68F293F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020</div>",
+          "sanitized_complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.- Pneumocistose (pneumonia por Pneumocystis jiroveci): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-20 08:35:27.215901 +0000 UTC",
+          "updated_at": "2021-06-20 09:26:05.558775 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146607-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-24-anos8511effdb3",
+        "public": true
+      },
+      {
+        "id": "4000146592",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "15a6ea900df64ecb915a2abc985314e3",
+            "name": "Meningites bacterianas",
+            "is_master": false,
+            "master_id": "df65db50381d48aaa8e1f95bf4a2615f",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções do Sistema Nervoso Central[$$]Meningites[$$]Meningites bacterianas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fd159391-d1f1-4275-aa95-83ddb1b06509",
+            "position": "0",
+            "body": "Suspeitar de infecção bacteriana e iniciar antibioticoterapia, dado o quadro de infecção de foco e de etiologia desconhecidos. Liberar a criança para casa com hidratação oral, antitérmico, antiemético, antibiótico, com retorno em 72 horas para reavaliação clínica.",
+            "sanitized_body": "Suspeitar de infecção bacteriana e iniciar antibioticoterapia, dado o quadro de infecção de foco e de etiologia desconhecidos. Liberar a criança para casa com hidratação oral, antitérmico, antiemético, antibiótico, com retorno em 72 horas para reavaliação clínica.",
+            "correct": false,
+            "created_at": "2021-04-26 18:44:40.486123 +0000 UTC",
+            "updated_at": "2021-06-15 23:45:03.86581 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois não há como liberar a criança para casa com esse quadro.",
+              "sanitized_complete": "A alternativa A está incorreta, pois não há como liberar a criança para casa com esse quadro.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-27 22:08:24.533213 +0000 UTC",
+              "updated_at": "2021-06-27 22:37:33.4904 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 69
+          },
+          {
+            "id": "1406234f-a2cf-4c8f-ba06-54e58e6925b3",
+            "position": "1",
+            "body": "Solicitar hemograma para diferenciar etiologia viral ou bacteriana. Descartar meningite por Haemophilus do grupo B, pois a vacinação está atualizada. Liberar a criança para casa com hidratação oral, sintomáticos e retorno em 24 horas com resultado de exame.",
+            "sanitized_body": "Solicitar hemograma para diferenciar etiologia viral ou bacteriana. Descartar meningite por Haemophilus do grupo B, pois a vacinação está atualizada. Liberar a criança para casa com hidratação oral, sintomáticos e retorno em 24 horas com resultado de exame.",
+            "correct": false,
+            "created_at": "2021-04-26 18:44:40.486123 +0000 UTC",
+            "updated_at": "2021-06-15 23:45:03.975852 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois não há como liberar a criança para casa com esse quadro, além das demais incoerências.",
+              "sanitized_complete": "A alternativa B está incorreta, pois não há como liberar a criança para casa com esse quadro, além das demais incoerências.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-27 22:08:24.526169 +0000 UTC",
+              "updated_at": "2021-06-27 22:37:33.481248 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 138
+          },
+          {
+            "id": "2bb5bfcc-b441-452e-befc-b07761e40b88",
+            "position": "2",
+            "body": "Acionar o Serviço de Atendimento Móvel de Urgência (SAMU com encaminhamento à emergência, instituir hidratação venosa e isolamento, pois trata-se de um caso suspeito de COVID-19 com provável infecção bacteriana secundária. Notificar o caso e isolar contactantes.",
+            "sanitized_body": "Acionar o Serviço de Atendimento Móvel de Urgência (SAMU com encaminhamento à emergência, instituir hidratação venosa e isolamento, pois trata-se de um caso suspeito de COVID-19 com provável infecção bacteriana secundária. Notificar o caso e isolar contactantes.",
+            "correct": false,
+            "created_at": "2021-04-26 18:44:40.486123 +0000 UTC",
+            "updated_at": "2021-06-15 23:45:04.182963 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está incorreta, pois não se trata de um caso de COVID-19.",
+              "sanitized_complete": "A alternativa C está incorreta, pois não se trata de um caso de COVID-19.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-27 22:08:24.56252 +0000 UTC",
+              "updated_at": "2021-06-27 22:37:33.483753 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 70
+          },
+          {
+            "id": "25bd68b0-0dda-4eda-b341-c23c7550168f",
+            "position": "3",
+            "body": "Acionar o Serviço de Atendimento Móvel de Urgência (SAMU com encaminhamento à emergência, com hidratação venosa, isolamento, antibioticoterapia e sintomáticos por tratar-se de caso suspeito de meningite meningocócica. Notificar o caso e instituir tratamento profilático aos comunicantes.",
+            "sanitized_body": "Acionar o Serviço de Atendimento Móvel de Urgência (SAMU com encaminhamento à emergência, com hidratação venosa, isolamento, antibioticoterapia e sintomáticos por tratar-se de caso suspeito de meningite meningocócica. Notificar o caso e instituir tratamento profilático aos comunicantes.",
+            "correct": true,
+            "created_at": "2021-04-26 18:44:40.486123 +0000 UTC",
+            "updated_at": "2021-06-15 23:45:04.356083 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está correta, pois a Unidade Básica de Saúde não é o local mais adequado para tratar esse paciente, devendo ser encaminhado à emergência, obter um acesso intravenoso e iniciar expansão volêmica e antibioticoterapia com uma cefalosporina de terceira geração (ceftriaxona ou cefotaxima). Nas primeiras 24 horas do tratamento com o antibiótico adequado, o paciente deve permanecer em isolamento respiratório para gotículas. O caso deve ser notificado e os comunicantes devem receber tratamento profilático.<div><div><br></div><div>A quimioprofilaxia é considerada uma medida eficaz na profilaxia primária, ou seja, para a prevenção da ocorrência de casos secundários de infecções com cepas invasivas de <i>H. influenzae</i> tipo b e <i>N. meningitidis</i>.&nbsp;</div><div><br></div><div>Na doença meningocócica, a quimioprofilaxia está recomendada para os comunicantes próximos do paciente, que tiveram contato com o caso até 10 dias antes do início dos sintomas. São contatos próximos:</div><div>- Moradores do mesmo domicílio;</div><div>- Indivíduos que compartilham o mesmo dormitório (em alojamentos, quartéis, entre outros);</div><div>- Comunicantes de creches e escolas;</div><div>- Pessoas diretamente expostas às secreções do paciente antes de 24 horas de antibioticoterapia específica, sem uso de equipamentos de proteção individual (óculos e máscara cirúrgica).<br><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/707864E1-7291-8CB0-9770-F3CBF859A029/707864E1-7291-8CB0-9770-F3CBF859A029-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div></div></div>",
+              "sanitized_complete": "A alternativa D está correta, pois a Unidade Básica de Saúde não é o local mais adequado para tratar esse paciente, devendo ser encaminhado à emergência, obter um acesso intravenoso e iniciar expansão volêmica e antibioticoterapia com uma cefalosporina de terceira geração (ceftriaxona ou cefotaxima). Nas primeiras 24 horas do tratamento com o antibiótico adequado, o paciente deve permanecer em isolamento respiratório para gotículas. O caso deve ser notificado e os comunicantes devem receber tratamento profilático.A quimioprofilaxia é considerada uma medida eficaz na profilaxia primária, ou seja, para a prevenção da ocorrência de casos secundários de infecções com cepas invasivas de H. influenzae tipo b e N. meningitidis. Na doença meningocócica, a quimioprofilaxia está recomendada para os comunicantes próximos do paciente, que tiveram contato com o caso até 10 dias antes do início dos sintomas. São contatos próximos:- Moradores do mesmo domicílio;- Indivíduos que compartilham o mesmo dormitório (em alojamentos, quartéis, entre outros);- Comunicantes de creches e escolas;- Pessoas diretamente expostas às secreções do paciente antes de 24 horas de antibioticoterapia específica, sem uso de equipamentos de proteção individual (óculos e máscara cirúrgica).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-27 22:08:24.5415 +0000 UTC",
+              "updated_at": "2021-06-27 22:37:33.503604 +0000 UTC"
+            },
+            "answer_percentage": 92,
+            "answers": 3405
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mãe leva seu filho de 5 anos de idade para atendimento, na Unidade Básica de Saúde, relatando febre persistente há 24 horas, diminuição do apetite, náuseas e vômitos. A criança amanheceu febril, com cefaleia e sede. A mãe relata que a criança frequentou uma festa de aniversário há cerca de 5 dias. Ela tem vacinação em dia. No exame físico, os resultados de sua avaliação foram os seguintes: pouco reativa; FC = 130 bpm; FR = 30 irpm; temperatura axilar = 38,8 °C; Sat. O₂ = 96 %; mucosas desidratadas 3+/4+; petéquias puntiformes em membros inferiores, tórax e abdome. Ele possui dor à flexão da coluna cervical. Nesse caso, qual é a conduta médica adequada?",
+        "statement_text": "Uma mãe leva seu filho de 5 anos de idade para atendimento, na Unidade Básica de Saúde, relatando febre persistente há 24 horas, diminuição do apetite, náuseas e vômitos. A criança amanheceu febril, com cefaleia e sede. A mãe relata que a criança frequentou uma festa de aniversário há cerca de 5 dias. Ela tem vacinação em dia. No exame físico, os resultados de sua avaliação foram os seguintes: pouco reativa; FC = 130 bpm; FR = 30 irpm; temperatura axilar = 38,8 °C; Sat. O₂ = 96 %; mucosas desidratadas 3+/4+; petéquias puntiformes em membros inferiores, tórax e abdome. Ele possui dor à flexão da coluna cervical. Nesse caso, qual é a conduta médica adequada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:44:40.486123 +0000 UTC",
+        "forum_id": "ec35745a-7315-4787-b4c3-5796cf9b9987",
+        "solution": {
+          "_key": "5816c3ae-b284-4efc-bf85-d21fb1066282",
+          "complete": "Caro(a) Estrategista, estamos diante de uma criança com um quadro agudo (24 horas) de febre, cefaleia, náuseas e vômitos. Ao exame físico, encontra-se desidratada, pouco reativa, tem dor à flexão da coluna cervical (rigidez de nuca) e petéquias puntiformes em membros inferiores.<div><br></div><div>Rigidez de nuca é um sinal de irritação meníngea, sugerindo meningite.</div><div><br></div><div>A presença das petéquias nesse caso fala a favor de doença meningocócica, mas especificamente, meningococcemia (disseminação hematogênica da <i>Neisseria meningitidis</i>).</div><div><br></div><div>Portanto, a criança tem uma provável meningite meningocócica com meningococcemia.</div>",
+          "sanitized_complete": "Caro(a) Estrategista, estamos diante de uma criança com um quadro agudo (24 horas) de febre, cefaleia, náuseas e vômitos. Ao exame físico, encontra-se desidratada, pouco reativa, tem dor à flexão da coluna cervical (rigidez de nuca) e petéquias puntiformes em membros inferiores.Rigidez de nuca é um sinal de irritação meníngea, sugerindo meningite.A presença das petéquias nesse caso fala a favor de doença meningocócica, mas especificamente, meningococcemia (disseminação hematogênica da Neisseria meningitidis).Portanto, a criança tem uma provável meningite meningocócica com meningococcemia.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-27 22:08:24.658983 +0000 UTC",
+          "updated_at": "2021-06-27 22:37:33.550649 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "ma-leva-seu-filho-5116343c2b89",
+        "public": true
+      },
+      {
+        "id": "4000146582",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "570ecb0da0864df882d647c562db414d",
+            "name": "Esporotricose",
+            "is_master": false,
+            "master_id": "34e23a200ea54f8aa653cc265c545ea8",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas[$$]Esporotricose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "52b635c7-10f7-468e-885c-89aba26e2604",
+            "position": "0",
+            "body": "Nocardia asteroídes e chocolate.",
+            "sanitized_body": "Nocardia asteroídes e chocolate.",
+            "correct": false,
+            "created_at": "2021-04-26 18:36:23.419437 +0000 UTC",
+            "updated_at": "2021-05-27 14:47:46.462268 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois os pulmões são o principal local de infecção nocárdica em mais de dois terços dos casos. Pode também acometer o sistema nervoso central (SNC) e a pele.&nbsp;<div><br></div><div>A nocardiose é causada por um actinomiceto aeróbio do gênero <i>Nocardia</i>&nbsp;, uma bactéria Gram-positiva incomum. A infecção nocárdica ocorre com mais frequência em pacientes imunocomprometidos.</div>",
+              "sanitized_complete": "A alternativa A está incorreta, pois os pulmões são o principal local de infecção nocárdica em mais de dois terços dos casos. Pode também acometer o sistema nervoso central (SNC) e a pele. A nocardiose é causada por um actinomiceto aeróbio do gênero Nocardia , uma bactéria Gram-positiva incomum. A infecção nocárdica ocorre com mais frequência em pacientes imunocomprometidos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-03 14:27:56.029241 +0000 UTC",
+              "updated_at": "2021-06-05 04:46:42.428395 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 81
+          },
+          {
+            "id": "3cb3ff6f-7276-4cb1-ab32-d3971981f818",
+            "position": "1",
+            "body": "Sporothrix schenckii e Sabouraud.",
+            "sanitized_body": "Sporothrix schenckii e Sabouraud.",
+            "correct": true,
+            "created_at": "2021-04-26 18:36:23.419437 +0000 UTC",
+            "updated_at": "2021-05-27 14:47:46.505775 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está correta, pois o quadro de pápulas ulceradas na pele distribuídas de forma linear seguindo trajeto dos vasos linfáticos, em indivíduo que realizou atividades de jardinagem, é sugestivo de esporotricose.<div><br></div><div>A  cultura é o padrão-ouro para estabelecer o diagnóstico de esporotricose e também é o método mais sensível. O material aspirado de uma lesão, amostra de uma biópsia de tecido, escarro ou fluidos corporais deve ser inoculado em ágar Sabouraud e incubado em temperatura ambiente.</div>",
+              "sanitized_complete": "A alternativa B está correta, pois o quadro de pápulas ulceradas na pele distribuídas de forma linear seguindo trajeto dos vasos linfáticos, em indivíduo que realizou atividades de jardinagem, é sugestivo de esporotricose.A  cultura é o padrão-ouro para estabelecer o diagnóstico de esporotricose e também é o método mais sensível. O material aspirado de uma lesão, amostra de uma biópsia de tecido, escarro ou fluidos corporais deve ser inoculado em ágar Sabouraud e incubado em temperatura ambiente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-03 14:27:56.041617 +0000 UTC",
+              "updated_at": "2021-06-05 04:46:42.442956 +0000 UTC"
+            },
+            "answer_percentage": 78,
+            "answers": 1509
+          },
+          {
+            "id": "d776dc5d-f541-49dd-a785-65887625be80",
+            "position": "2",
+            "body": "Staphylococcus aureus e Sabouraud.",
+            "sanitized_body": "Staphylococcus aureus e Sabouraud.",
+            "correct": false,
+            "created_at": "2021-04-26 18:36:23.419437 +0000 UTC",
+            "updated_at": "2021-05-27 14:47:46.548416 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está incorreta, pois infecções cutâneas estafilocócicas não têm essas características e o Sabouraud serve para o cultivo e crescimento de fungos.<br>",
+              "sanitized_complete": "A alternativa C está incorreta, pois infecções cutâneas estafilocócicas não têm essas características e o Sabouraud serve para o cultivo e crescimento de fungos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-03 14:27:56.069878 +0000 UTC",
+              "updated_at": "2021-06-05 04:46:42.41915 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 256
+          },
+          {
+            "id": "c4f767e8-d432-4aeb-8df2-aff92c62e9a9",
+            "position": "3",
+            "body": "Mycobacterium kansasii e chocolate.",
+            "sanitized_body": "Mycobacterium kansasii e chocolate.",
+            "correct": false,
+            "created_at": "2021-04-26 18:36:23.419437 +0000 UTC",
+            "updated_at": "2021-05-27 14:47:46.595811 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois lesões cutâneas podem ocorrer por essa micobactéria, mas especialmente em indivíduos imunodeprimidos. O órgão mais frequentemente acometido é o pulmão.<div><br></div><div>No diagnóstico diferencial, deve ser considerada a esporotricose, pela semelhança na distribuição das pápulas.<br><div><br></div><div>O <i>M. kansasii</i> é encontrado na água, mas já foi recu\u0002perado de bovinos e suínos, penetrando na pele por traumas.&nbsp;</div><div><br></div><div>O ágar chocolate não é utilizado para cultura de micobactérias. O meio mais utilizado para o isolamento de micobactérias é o Lowenstein-Jensen.</div></div>",
+              "sanitized_complete": "A alternativa D está incorreta, pois lesões cutâneas podem ocorrer por essa micobactéria, mas especialmente em indivíduos imunodeprimidos. O órgão mais frequentemente acometido é o pulmão.No diagnóstico diferencial, deve ser considerada a esporotricose, pela semelhança na distribuição das pápulas.O M. kansasii é encontrado na água, mas já foi recu\u0002perado de bovinos e suínos, penetrando na pele por traumas. O ágar chocolate não é utilizado para cultura de micobactérias. O meio mais utilizado para o isolamento de micobactérias é o Lowenstein-Jensen.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-03 14:27:56.033894 +0000 UTC",
+              "updated_at": "2021-06-05 04:46:42.418743 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 84
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 36 anos de idade comparece à Unidade Básica de Saúde queixando-se de lesão cutânea localizada no membro superior direito. Ele informa que, cerca de 10 dias após realizar atividades de jardinagem em seu sítio, utilizando a enxertia de algumas de suas laranjeiras, observou o aparecimento de uma pápula dolorosa no 1.º quirodáctilo direito. Nos dias subsequentes, essa lesão evoluiu com ulceração local, surgindo, posteriormente, lesões similares no mesmo antebraço. Durante o exame, são observadas pápulas ulceradas na região assinalada, havendo aspecto sugestivo de disseminação linfangítica do processo. O médico suspeita de uma determinada dermatose de etiologia infecciosa. Com base na apresentação clínica e considerando a história epidemiológica relatada, o agente etiológico e o meio de cultura em agar adequado para sua detecção são, respectivamente,",
+        "statement_text": "Um homem com 36 anos de idade comparece à Unidade Básica de Saúde queixando-se de lesão cutânea localizada no membro superior direito. Ele informa que, cerca de 10 dias após realizar atividades de jardinagem em seu sítio, utilizando a enxertia de algumas de suas laranjeiras, observou o aparecimento de uma pápula dolorosa no 1.º quirodáctilo direito. Nos dias subsequentes, essa lesão evoluiu com ulceração local, surgindo, posteriormente, lesões similares no mesmo antebraço. Durante o exame, são observadas pápulas ulceradas na região assinalada, havendo aspecto sugestivo de disseminação linfangítica do processo. O médico suspeita de uma determinada dermatose de etiologia infecciosa. Com base na apresentação clínica e considerando a história epidemiológica relatada, o agente etiológico e o meio de cultura em agar adequado para sua detecção são, respectivamente,",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:36:23.419437 +0000 UTC",
+        "solution": {
+          "_key": "b2ba62bb-0c71-48c3-acb1-862ae1800991",
+          "complete": "Paciente com histórico de jardinagem, apresentando pápulas evoluindo para úlceras, que seguem um trajeto linear que se estendem da mão, passando pelo antebraço, com distribuição seguindo um trajeto linfático é muito característica da esporotricose.&nbsp;<div><br></div><div>A esporotricose é uma infecção de tecidos cutâneos e subcutâneos causada pelo fungo dimórfico <i>Sporothrix schenckii</i>, mas pode ocorrer ocasionalmente em outros locais, principalmente em pacientes imunocomprometidos.</div><div><br></div><div>As atividades associadas ao desenvolvimento da esporotricose incluem paisagismo, jardinagem de rosas e outras atividades que envolvem a inoculação de solo através da pele. Daí, o nome “micose dos jardineiros”. Também pode ocorrer transmissão de animais para humanos, sendo que a maioria dos casos é associada a gatos.</div><div><br></div><div>Foi relatada em diversos países, mas a maioria dos casos provém das regiões tropicais e subtropicais das Américas.</div>",
+          "sanitized_complete": "Paciente com histórico de jardinagem, apresentando pápulas evoluindo para úlceras, que seguem um trajeto linear que se estendem da mão, passando pelo antebraço, com distribuição seguindo um trajeto linfático é muito característica da esporotricose. A esporotricose é uma infecção de tecidos cutâneos e subcutâneos causada pelo fungo dimórfico Sporothrix schenckii, mas pode ocorrer ocasionalmente em outros locais, principalmente em pacientes imunocomprometidos.As atividades associadas ao desenvolvimento da esporotricose incluem paisagismo, jardinagem de rosas e outras atividades que envolvem a inoculação de solo através da pele. Daí, o nome “micose dos jardineiros”. Também pode ocorrer transmissão de animais para humanos, sendo que a maioria dos casos é associada a gatos.Foi relatada em diversos países, mas a maioria dos casos provém das regiões tropicais e subtropicais das Américas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-03 14:27:56.121403 +0000 UTC",
+          "updated_at": "2021-06-05 04:46:42.554776 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-com-36-anos127f2a5e5d9",
+        "public": true
+      },
+      {
+        "id": "4000146565",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "1d9ab898f5bc42d584094ca03f1b3c64",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "34e938835d6f4679989ada6f4e7098fd",
+            "path": "Clínica Médica[$$]Infectologia [$$]Arboviroses[$$]Dengue[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "24c943cb8be14ae681d6598b582745b2",
+            "name": "Complicações",
+            "is_master": false,
+            "master_id": "34e938835d6f4679989ada6f4e7098fd",
+            "path": "Clínica Médica[$$]Infectologia [$$]Arboviroses[$$]Dengue[$$]Complicações",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "3932f5479930415486c1db53f2ae83a2",
+            "name": "Classificação de risco",
+            "is_master": false,
+            "master_id": "e75298027ffb406cb3e8b7cb5b2bd98d",
+            "path": "Clínica Médica[$$]Infectologia [$$]Arboviroses[$$]Dengue[$$]Quadro clínico[$$]Classificação de risco",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d0c4f5a756194d819aeaf429635ca131",
+            "name": "Sinais de alarme",
+            "is_master": false,
+            "master_id": "3932f5479930415486c1db53f2ae83a2",
+            "path": "Clínica Médica[$$]Infectologia [$$]Arboviroses[$$]Dengue[$$]Quadro clínico[$$]Classificação de risco[$$]Sinais de alarme",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "dcf7f383-3bc0-42f4-aa52-5cd9d204ec1a",
+            "position": "0",
+            "body": "Chikungunya; observação e a hidratação parenteral com soro fisiológico 0,9 %.",
+            "sanitized_body": "Chikungunya; observação e a hidratação parenteral com soro fisiológico 0,9 %.",
+            "correct": false,
+            "created_at": "2021-04-26 18:21:16.866373 +0000 UTC",
+            "updated_at": "2022-02-14 14:57:12.023554 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Chikungunya não costuma cursar com plaquetopenia e hemoconcentração, a ausência de artralgia, presente em mais de 90% dos casos, fala contra esse diagnóstico.   ",
+              "sanitized_complete": "INCORRETO. Chikungunya não costuma cursar com plaquetopenia e hemoconcentração, a ausência de artralgia, presente em mais de 90% dos casos, fala contra esse diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-02-14 15:17:36.103414 +0000 UTC",
+              "updated_at": "2022-02-14 15:46:22.886157 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 73
+          },
+          {
+            "id": "888ef98d-01fb-466a-bcd6-51f49d22b774",
+            "position": "1",
+            "body": "Zika; internação hospitalar e hidratação parenteral com soro fisiológico 0,9 %.",
+            "sanitized_body": "Zika; internação hospitalar e hidratação parenteral com soro fisiológico 0,9 %.",
+            "correct": false,
+            "created_at": "2021-04-26 18:21:16.866373 +0000 UTC",
+            "updated_at": "2022-02-14 14:57:12.18595 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. A infecção por Zika não costuma cursar com febre alta, e a febre dificilmente passa do 2ºdia. Além disso, a ausência de conjuntivite, presente em até 90% dos casos, fala contra esse diagnóstico.",
+              "sanitized_complete": "INCORRETO. A infecção por Zika não costuma cursar com febre alta, e a febre dificilmente passa do 2ºdia. Além disso, a ausência de conjuntivite, presente em até 90% dos casos, fala contra esse diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-02-14 15:17:36.08541 +0000 UTC",
+              "updated_at": "2022-02-14 15:46:22.867675 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 63
+          },
+          {
+            "id": "92b7aab6-0b34-442f-8bdd-f6c07a5c9079",
+            "position": "2",
+            "body": "Dengue grupo B; observação e hidratação oral com a reavaliação clínico-laboratorial.",
+            "sanitized_body": "Dengue grupo B; observação e hidratação oral com a reavaliação clínico-laboratorial.",
+            "correct": false,
+            "created_at": "2021-04-26 18:21:16.866373 +0000 UTC",
+            "updated_at": "2022-02-14 14:57:12.341663 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. A paciente apresenta dor abdominal intensa e contínua, que consiste em sinal de alarme na dengue, e que a classifica automaticamente como grupo C.",
+              "sanitized_complete": "INCORRETO. A paciente apresenta dor abdominal intensa e contínua, que consiste em sinal de alarme na dengue, e que a classifica automaticamente como grupo C.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-02-14 15:17:36.100661 +0000 UTC",
+              "updated_at": "2022-02-14 15:46:22.895967 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 429
+          },
+          {
+            "id": "7df66f5b-788c-48e5-aa22-8ab8b89ec9de",
+            "position": "3",
+            "body": "Dengue grupo C; internação hospitalar e hidratação parenteral com soro fisiológico 0,9 %.",
+            "sanitized_body": "Dengue grupo C; internação hospitalar e hidratação parenteral com soro fisiológico 0,9 %.",
+            "correct": true,
+            "created_at": "2021-04-26 18:21:16.866373 +0000 UTC",
+            "updated_at": "2022-02-14 14:57:12.540915 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETO E RESPOSTA DA QUESTÃO. Por apresentar dor abdominal intensa e contínua, essa criança é classificada como grupo C. Deve receber imediatamente expansão volêmica 20ml/kg com soro fisiológico, ter coletados os exames laboratoriais e ser internada. ",
+              "sanitized_complete": "CORRETO E RESPOSTA DA QUESTÃO. Por apresentar dor abdominal intensa e contínua, essa criança é classificada como grupo C. Deve receber imediatamente expansão volêmica 20ml/kg com soro fisiológico, ter coletados os exames laboratoriais e ser internada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-02-14 15:17:36.077164 +0000 UTC",
+              "updated_at": "2022-02-14 15:46:22.872288 +0000 UTC"
+            },
+            "answer_percentage": 87,
+            "answers": 3730
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma pré-escolar com 4 anos de idade é atendida no pronto-socorro com história de febre alta (40 °C) há 3 dias, indisposição e dores no corpo, vômitos e diarréia. No momento, queixa-se de dor abdominal intensa e contínua. Em seu exame físico, os resultados foram os seguintes: FC = 120 bpm, FR = 25 irpm, temperatura axilar = 37,5 °C, mucosas úmidas, coradas, anictéricas; ausculta cardíaca e respiratória normais, abdome levemente distendido, doloroso difusamente à palpação, sem sinais de irritação peritoneal, fígado palpável a 3 cm do rebordo costal direito. Há petéquias esparsas e exantema máculo-papular em face, tronco, membros superiores e inferiores, incluindo palmas das mãos. Suas extremidades estão aquecidas e bem perfundidas. Foi realizado hemograma que apresentou os seguintes valores: Ht = 45 % (valor de referência: 37 a 40 %); Hb = 15,2 g/dL (valor de referência: 12,6 ± 1,5 g/dL), leucócitos totais = 3 500/mm³ (valor de referência: 5 000 a 12 000/mm³, bastões = 2 %, segmentados = 50 %, linfócitos = 30 %, monócitos = 10 %, eosinófilos = 8 %, plaquetas = 50 000/mm³ (valor de referência: 150 000 a 450 000/mm³). Quais são, respectivamente, o diagnóstico e a conduta médica inicial adequados?",
+        "statement_text": "Uma pré-escolar com 4 anos de idade é atendida no pronto-socorro com história de febre alta (40 °C) há 3 dias, indisposição e dores no corpo, vômitos e diarréia. No momento, queixa-se de dor abdominal intensa e contínua. Em seu exame físico, os resultados foram os seguintes: FC = 120 bpm, FR = 25 irpm, temperatura axilar = 37,5 °C, mucosas úmidas, coradas, anictéricas; ausculta cardíaca e respiratória normais, abdome levemente distendido, doloroso difusamente à palpação, sem sinais de irritação peritoneal, fígado palpável a 3 cm do rebordo costal direito. Há petéquias esparsas e exantema máculo-papular em face, tronco, membros superiores e inferiores, incluindo palmas das mãos. Suas extremidades estão aquecidas e bem perfundidas. Foi realizado hemograma que apresentou os seguintes valores: Ht = 45 % (valor de referência: 37 a 40 %); Hb = 15,2 g/dL (valor de referência: 12,6 ± 1,5 g/dL), leucócitos totais = 3 500/mm³ (valor de referência: 5 000 a 12 000/mm³, bastões = 2 %, segmentados = 50 %, linfócitos = 30 %, monócitos = 10 %, eosinófilos = 8 %, plaquetas = 50 000/mm³ (valor de referência: 150 000 a 450 000/mm³). Quais são, respectivamente, o diagnóstico e a conduta médica inicial adequados?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:21:16.866373 +0000 UTC",
+        "forum_id": "b6440633-fa14-4660-b3de-25e4ef194480",
+        "solution": {
+          "_key": "2483081b-a55b-4c2a-9951-6485c2792c83",
+          "complete": "Questão difícil, com um caso clínico extenso e que exige que o candidato identifique pontos fundamentais para o diagnóstico. Veja só, caro aluno: <b>febre alta, dor no corpo, petéquias, exantema máculo-papular que acomete palmas e plantas, hemoconcentração (hematócrito de 45%) e plaquetopenia</b>. Estamos diante de um caso de <b>dengue!</b><div><b><br></b><div>As arboviroses urbanas dengue, chikungunya e zika compartilham sinais clínicos muito semelhantes, o que dificulta o diagnóstico inicial. Veja na tabela abaixo alguns critérios que auxiliam nesse diagnóstico diferencial:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D1A4A2C2-C767-7244-522C-5B11F3ECBE0A/D1A4A2C2-C767-7244-522C-5B11F3ECBE0A-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>A dengue é a arbovirose mais prevalente no Brasil, e a transmissão do vírus ocorre pela picada de fêmeas do mosquito Aedes aegypti infectadas. </div><div>Diante de um paciente com febre e pelo menos dois dos sintomas: cefaleia, dor retro-orbitária, exantema, mialgia, artralgia e prostração, deve-se notificar o caso e classificá-lo de acordo com a gravidade nos grupos A-D:</div><div><br></div><div><b>GRUPO A: prova do laço negativa, sem sinais de alarme, risco social ou comorbidades.</b></div><div>   •\t<b>Conduta:</b> Hidratação oral abundante, repouso e sintomáticos.</div><div><br></div><div><b>GRUPO B: Petéquias espontâneas ou prova do laço positiva, ou paciente do grupo de risco</b> (lactentes <2 anos, gestantes, diabéticos, anemia falciforme, nefropata crônico e doenças autoimunes).</div><div><b>   •\tConduta: </b>Hemograma</div><div>      •\tSe <b>Hematócrito (Ht) > 38% em crianças</b>: hidratação oral ou EV 50-100ml/kg em 4 horas</div><div>            <b>\tConduta:</b> Repetir hematócrito após hidratação. </div><div>                    <b>•\tSem aumento de Ht: </b>conduta = grupo A. </div><div>                    •<b>\tAumento de Ht:</b> conduta = grupo C.</div><div><br></div><div><b>GRUPO C:</b> <b>Presença de algum sinal de alarme:</b> dor abdominal intensa e contínua, vômitos persistentes, hipotensão postural, hepatomegalia dolorosa, sangramento mucoso, hematêmese ou melena, oligúria, hipotermia, desconforto respiratório, aumento repentino de hematócrito, queda abrupta de plaquetas, sonolência e/ou irritabilidade.</div><div><b>    •\tConduta:</b> <b>internação hospitalar,</b> coletar hemograma, albumina, tipagem sanguínea e exame específico para dengue (sorologia ou isolamento viral). <b>Hidratação EV imediata 20ml/kg SF</b>, podendo repetir até 3x, se necessário.</div><div>             <b>•\t Conduta:</b> Repetir Ht a cada 2 horas</div><div>                   <b>\t    Queda de Ht, diurese normal: </b>Hidratação de manutenção.</div><div>                   \t    <b>Sem melhora de Ht, ou piora clínica:</b> conduta = grupo D.</div><div><br></div><div><b>GRUPO D: SINAIS DE CHOQUE</b> - hipotensão, PA convergente (diferença entre PAS e PAD <20 mmHg), pulso rápido e fino, enchimento capilar > 2 segundos, disfunção grave de órgãos, hemorragia grave.</div><div>    •<b>\tConduta:</b> <b>internação em UTI,</b> <b>hidratação EV 20ml/kg até 3x</b>, considerar transfusão, vitamina K.</div><div><br></div><div>Depois de tudo isso, vamos retornar ao nosso caso clínico, Coruja? Leia novamente...essa criança apresenta algum sinal de alarme? </div><div>SIM!! <b>Dor abdominal intensa e contínua!</b> Logo, essa criança é classificada como <b>grupo C</b>, deve receber imediatamente expansão volêmica 20ml/kg com soro fisiológico, ter coletados os exames laboratoriais e ser internada. Portanto, <b>resposta da questão: LETRA E.</b></div><div><b><br></b></div><div>Vamos analisar as demais alternativas.</div><div><br></div><div><br></div></div>",
+          "sanitized_complete": "Questão difícil, com um caso clínico extenso e que exige que o candidato identifique pontos fundamentais para o diagnóstico. Veja só, caro aluno: febre alta, dor no corpo, petéquias, exantema máculo-papular que acomete palmas e plantas, hemoconcentração (hematócrito de 45%) e plaquetopenia. Estamos diante de um caso de dengue!As arboviroses urbanas dengue, chikungunya e zika compartilham sinais clínicos muito semelhantes, o que dificulta o diagnóstico inicial. Veja na tabela abaixo alguns critérios que auxiliam nesse diagnóstico diferencial:A dengue é a arbovirose mais prevalente no Brasil, e a transmissão do vírus ocorre pela picada de fêmeas do mosquito Aedes aegypti infectadas. Diante de um paciente com febre e pelo menos dois dos sintomas: cefaleia, dor retro-orbitária, exantema, mialgia, artralgia e prostração, deve-se notificar o caso e classificá-lo de acordo com a gravidade nos grupos A-D:GRUPO A: prova do laço negativa, sem sinais de alarme, risco social ou comorbidades.   •\tConduta: Hidratação oral abundante, repouso e sintomáticos.GRUPO B: Petéquias espontâneas ou prova do laço positiva, ou paciente do grupo de risco (lactentes &lt;2 anos, gestantes, diabéticos, anemia falciforme, nefropata crônico e doenças autoimunes).   •\tConduta: Hemograma      •\tSe Hematócrito (Ht) &gt; 38% em crianças: hidratação oral ou EV 50-100ml/kg em 4 horas            \tConduta: Repetir hematócrito após hidratação.                     •\tSem aumento de Ht: conduta = grupo A.                     •\tAumento de Ht: conduta = grupo C.GRUPO C: Presença de algum sinal de alarme: dor abdominal intensa e contínua, vômitos persistentes, hipotensão postural, hepatomegalia dolorosa, sangramento mucoso, hematêmese ou melena, oligúria, hipotermia, desconforto respiratório, aumento repentino de hematócrito, queda abrupta de plaquetas, sonolência e/ou irritabilidade.    •\tConduta: internação hospitalar, coletar hemograma, albumina, tipagem sanguínea e exame específico para dengue (sorologia ou isolamento viral). Hidratação EV imediata 20ml/kg SF, podendo repetir até 3x, se necessário.             •\t Conduta: Repetir Ht a cada 2 horas                   \t    Queda de Ht, diurese normal: Hidratação de manutenção.                   \t    Sem melhora de Ht, ou piora clínica: conduta = grupo D.GRUPO D: SINAIS DE CHOQUE - hipotensão, PA convergente (diferença entre PAS e PAD &lt;20 mmHg), pulso rápido e fino, enchimento capilar &gt; 2 segundos, disfunção grave de órgãos, hemorragia grave.    •\tConduta: internação em UTI, hidratação EV 20ml/kg até 3x, considerar transfusão, vitamina K.Depois de tudo isso, vamos retornar ao nosso caso clínico, Coruja? Leia novamente...essa criança apresenta algum sinal de alarme? SIM!! Dor abdominal intensa e contínua! Logo, essa criança é classificada como grupo C, deve receber imediatamente expansão volêmica 20ml/kg com soro fisiológico, ter coletados os exames laboratoriais e ser internada. Portanto, resposta da questão: LETRA E.Vamos analisar as demais alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-14 15:17:36.167633 +0000 UTC",
+          "updated_at": "2022-02-14 15:46:24.46448 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146565-720.mp4",
+        "unlisted": false,
+        "slug": "pre-escolar-com-4-anos2003a3c103b",
+        "public": true
+      },
+      {
+        "id": "4000146554",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0a15a0f7e4de41aa940ac6303ce00dd1",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "971f07ed733f42bf96766915c870abdd",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções sexualmente transmissíveis[$$]Sífilis[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "971f07ed733f42bf96766915c870abdd",
+            "name": "Sífilis",
+            "is_master": false,
+            "master_id": "694e89ab83fe4af1b9b37a3d240b20c6",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções sexualmente transmissíveis[$$]Sífilis",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b660bf2e-abee-4493-98e7-5b2fd57f644d",
+            "position": "0",
+            "body": "Prescrever doxiciclina 100 mg, por via oral, de 12 em 12 horas por 15 dias e, após 3 meses, realizar VDRL.",
+            "sanitized_body": "Prescrever doxiciclina 100 mg, por via oral, de 12 em 12 horas por 15 dias e, após 3 meses, realizar VDRL.",
+            "correct": false,
+            "created_at": "2021-04-26 18:09:00.428821 +0000 UTC",
+            "updated_at": "2021-05-27 14:48:57.809833 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o tratamento recomendado é com benzilpenicilina benzatina 2,4 milhões UI, IM, dose única. Doxiciclina é um tratamento alternativo.&nbsp;<div><br></div><div>Além disso, a titulação do teste não treponêmico deve ser estabelecida nessa consulta, porque servirá como base para o acompanhamento. Para o monitoramento, deve ser trimestral, até o 12° mês do seguimento.<div><br></div></div>",
+              "sanitized_complete": "A alternativa A está incorreta, pois o tratamento recomendado é com benzilpenicilina benzatina 2,4 milhões UI, IM, dose única. Doxiciclina é um tratamento alternativo. Além disso, a titulação do teste não treponêmico deve ser estabelecida nessa consulta, porque servirá como base para o acompanhamento. Para o monitoramento, deve ser trimestral, até o 12° mês do seguimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-05-30 05:11:37.122277 +0000 UTC",
+              "updated_at": "2021-05-30 05:36:17.93044 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 55
+          },
+          {
+            "id": "743d7f09-5adb-4d5b-9c16-e2f6e8751240",
+            "position": "1",
+            "body": "Solicitar FTA-Abs e, se teste for positivo, prescrever doxiciclina 100 mg, por via oral, de 12 em 12 horas por 30 dias.",
+            "sanitized_body": "Solicitar FTA-Abs e, se teste for positivo, prescrever doxiciclina 100 mg, por via oral, de 12 em 12 horas por 30 dias.",
+            "correct": false,
+            "created_at": "2021-04-26 18:09:00.428821 +0000 UTC",
+            "updated_at": "2021-05-27 14:48:57.847705 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois o tratamento é recomendado com o teste rápido reagente e deve ser feito com benzilpenicilina benzatina 2,4 milhões UI, IM, dose única.<div><br></div><div>O&nbsp; FTA-Abs é um teste treponêmico, assim como o teste rápido. Recomenda-se nesse momento um teste não treponêmico (exemplos, VDRL, RPR).</div>",
+              "sanitized_complete": "A alternativa B está incorreta, pois o tratamento é recomendado com o teste rápido reagente e deve ser feito com benzilpenicilina benzatina 2,4 milhões UI, IM, dose única.O  FTA-Abs é um teste treponêmico, assim como o teste rápido. Recomenda-se nesse momento um teste não treponêmico (exemplos, VDRL, RPR).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-05-30 05:11:37.107019 +0000 UTC",
+              "updated_at": "2021-05-30 05:36:17.920648 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          },
+          {
+            "id": "30b4d247-8d46-430d-8266-38cd78437777",
+            "position": "2",
+            "body": "Aplicar penicilina benzatina 2,4 milhões UI em dose única, por via intramuscular, e solicitar VDRL nessa consulta.",
+            "sanitized_body": "Aplicar penicilina benzatina 2,4 milhões UI em dose única, por via intramuscular, e solicitar VDRL nessa consulta.",
+            "correct": true,
+            "created_at": "2021-04-26 18:09:00.428821 +0000 UTC",
+            "updated_at": "2021-05-27 14:48:57.887026 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois o tratamento deve ser iniciado com o teste rápido reagente, utilizando benzilpenicilina benzatina 2,4 milhões UI, IM, dose única.<div><br></div><div>VDRL deve ser realizado para que se estabeleça a titulação do teste no início do tratamento, já que servirá como base para o acompanhamento. O monitoramento deve ser trimestral, até o 12° mês do seguimento.</div>",
+              "sanitized_complete": "A alternativa C está correta, pois o tratamento deve ser iniciado com o teste rápido reagente, utilizando benzilpenicilina benzatina 2,4 milhões UI, IM, dose única.VDRL deve ser realizado para que se estabeleça a titulação do teste no início do tratamento, já que servirá como base para o acompanhamento. O monitoramento deve ser trimestral, até o 12° mês do seguimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-05-30 05:11:37.11806 +0000 UTC",
+              "updated_at": "2021-05-30 05:36:17.923468 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 2241
+          },
+          {
+            "id": "c1fed3c6-c7e3-4bcd-aac3-2a4a10150b77",
+            "position": "3",
+            "body": "Solicitar VDRL e, se teste for positivo, prescrever penicilina benzatina 2,4 milhões UI por via intramuscular, 3 doses, com intervalos de 7 dias.",
+            "sanitized_body": "Solicitar VDRL e, se teste for positivo, prescrever penicilina benzatina 2,4 milhões UI por via intramuscular, 3 doses, com intervalos de 7 dias.",
+            "correct": false,
+            "created_at": "2021-04-26 18:09:00.428821 +0000 UTC",
+            "updated_at": "2021-05-27 14:48:57.926141 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois o tratamento deve ser iniciado com o teste rápido reagente, utilizando benzilpenicilina benzatina 2,4 milhões UI, IM, dose única. O esquema terapêutico por 3 semanas é recomendado nos casos de sífilis latente tardia (&gt; 1 ano de evolução) ou latente com duração ignorada e sífilis terciária.<div><br></div><div>VDRL deve ser realizado para que se estabeleça a titulação do teste no início do tratamento, já que servirá como base para o acompanhamento.</div>",
+              "sanitized_complete": "A alternativa D está incorreta, pois o tratamento deve ser iniciado com o teste rápido reagente, utilizando benzilpenicilina benzatina 2,4 milhões UI, IM, dose única. O esquema terapêutico por 3 semanas é recomendado nos casos de sífilis latente tardia (&gt; 1 ano de evolução) ou latente com duração ignorada e sífilis terciária.VDRL deve ser realizado para que se estabeleça a titulação do teste no início do tratamento, já que servirá como base para o acompanhamento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-05-30 05:11:37.105183 +0000 UTC",
+              "updated_at": "2021-05-30 05:36:17.922629 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 369
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 39 anos de idade, previamente hígido, é atendido em centro de saúde com lesão peniana, mal-estar e febre baixa há 5 dias. O paciente nega descarga uretral e nega lesões penianas prévias. Não tem parceira sexual estável, tendo relações sexuais desprotegidas com diferentes mulheres esporadicamente. Em seu exame físico, apresenta temperatura axilar = 37,8 °C e está corado, hidratado e anictérico. Há linfonodos axilares, epitrocleares e inguinais palpáveis, pequenos, fibroelásticos. Verifica-se lesão ulcerada e úmida em corpo peniano. O teste rápido para sífilis realizado no momento da consulta foi positivo. Não há relato de tratamento com antimicrobianos no último ano. Relata que, há cerca de 10 anos, ao tomar penicilina benzatina intramuscular para tratar faringite, teve dor no local da aplicação, sem lesões e com remissão espontânea. Nesse momento, qual é a conduta correta para esse paciente?",
+        "statement_text": "Um homem com 39 anos de idade, previamente hígido, é atendido em centro de saúde com lesão peniana, mal-estar e febre baixa há 5 dias. O paciente nega descarga uretral e nega lesões penianas prévias. Não tem parceira sexual estável, tendo relações sexuais desprotegidas com diferentes mulheres esporadicamente. Em seu exame físico, apresenta temperatura axilar = 37,8 °C e está corado, hidratado e anictérico. Há linfonodos axilares, epitrocleares e inguinais palpáveis, pequenos, fibroelásticos. Verifica-se lesão ulcerada e úmida em corpo peniano. O teste rápido para sífilis realizado no momento da consulta foi positivo. Não há relato de tratamento com antimicrobianos no último ano. Relata que, há cerca de 10 anos, ao tomar penicilina benzatina intramuscular para tratar faringite, teve dor no local da aplicação, sem lesões e com remissão espontânea. Nesse momento, qual é a conduta correta para esse paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:09:00.428821 +0000 UTC",
+        "solution": {
+          "_key": "852d7648-a943-46fb-b1fc-dfbe0508014d",
+          "complete": "Os testes rápidos para sífilis são considerados treponêmicos, ou seja, detectam anticorpos contra antígenos do <i>Treponema pallidum</i>. São qualitativos e definem a presença ou ausência de anticorpos na amostra. Tem a vantagem de serem realizados no momento da consulta, possibilitando tratamento imediato.&nbsp;<div><br></div><div>O paciente em questão tem antecedente de relações sexuais desprotegidas, além úlcera peniana, linfadenopatia inguinal e teste rápido para sífilis reagente. Pelo descrito, estamos diante de um caso de sífilis primária (cancro duro). Deve ser tratado imediatamente e solicitado um teste não treponêmico (exemplos, VDRL, RPR) para a confirmação diagnóstica e estabelecer a titulação, que servirá como base para o acompanhamento.</div><div><br></div><div>Vamos avaliar as alternativas.</div>",
+          "sanitized_complete": "Os testes rápidos para sífilis são considerados treponêmicos, ou seja, detectam anticorpos contra antígenos do Treponema pallidum. São qualitativos e definem a presença ou ausência de anticorpos na amostra. Tem a vantagem de serem realizados no momento da consulta, possibilitando tratamento imediato. O paciente em questão tem antecedente de relações sexuais desprotegidas, além úlcera peniana, linfadenopatia inguinal e teste rápido para sífilis reagente. Pelo descrito, estamos diante de um caso de sífilis primária (cancro duro). Deve ser tratado imediatamente e solicitado um teste não treponêmico (exemplos, VDRL, RPR) para a confirmação diagnóstica e estabelecer a titulação, que servirá como base para o acompanhamento.Vamos avaliar as alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-30 05:11:37.161976 +0000 UTC",
+          "updated_at": "2021-05-30 05:36:17.96909 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146554-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-39-anos140405681e4",
+        "public": true
+      },
+      {
+        "id": "4000146545",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "7c939678b34a486bbdefe45a8000b78d",
+            "name": "Definição",
+            "is_master": false,
+            "master_id": "b81e66b3bbf04cb8acf3372650957355",
+            "path": "Clínica Médica[$$]Infectologia [$$]Sepse[$$]Definição",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5583abaa-023b-44be-bb37-560a08ca8165",
+            "position": "0",
+            "body": "Sepse.",
+            "sanitized_body": "Sepse.",
+            "correct": true,
+            "created_at": "2021-04-26 17:58:50.554092 +0000 UTC",
+            "updated_at": "2021-05-27 14:49:54.0438 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está correta, pois o paciente apresenta infecção e disfunção orgânica.",
+              "sanitized_complete": "A alternativa A está correta, pois o paciente apresenta infecção e disfunção orgânica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 00:08:11.596378 +0000 UTC",
+              "updated_at": "2021-06-05 02:52:24.89991 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 1689
+          },
+          {
+            "id": "15fd14e7-f4ca-4f64-9bc8-b2829c9ffd3b",
+            "position": "1",
+            "body": "Sepse Grave.",
+            "sanitized_body": "Sepse Grave.",
+            "correct": false,
+            "created_at": "2021-04-26 17:58:50.554092 +0000 UTC",
+            "updated_at": "2021-05-27 14:49:54.083446 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois o termo sepse grave foi abandonado pelo Sepsis-3, já que na definição toda sepse é grave e tem disfunção orgânica.",
+              "sanitized_complete": "A alternativa B está incorreta, pois o termo sepse grave foi abandonado pelo Sepsis-3, já que na definição toda sepse é grave e tem disfunção orgânica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 00:08:11.596243 +0000 UTC",
+              "updated_at": "2021-06-05 02:52:24.884735 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 231
+          },
+          {
+            "id": "63c12fa3-ccc9-458a-9927-ad07fa7bb3db",
+            "position": "2",
+            "body": "Choque Séptico.",
+            "sanitized_body": "Choque Séptico.",
+            "correct": false,
+            "created_at": "2021-04-26 17:58:50.554092 +0000 UTC",
+            "updated_at": "2021-05-27 14:49:54.136552 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está incorreta, pois apresentou apresentou melhora do quadro hemodinâmico após ressuscitação volêmica.<div><br></div><div>ATENÇÃO: Para a definição de choque séptico, é preciso o uso de vasopressor para manter PAM ≥ 65 mmHg <b>E</b> lactato &gt; 2 mmol/L (&gt; 18 mg/dL)&nbsp;<u>após ressuscitação volêmica adequada</u>.</div>",
+              "sanitized_complete": "A alternativa C está incorreta, pois apresentou apresentou melhora do quadro hemodinâmico após ressuscitação volêmica.ATENÇÃO: Para a definição de choque séptico, é preciso o uso de vasopressor para manter PAM ≥ 65 mmHg E lactato &gt; 2 mmol/L (&gt; 18 mg/dL) após ressuscitação volêmica adequada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 00:08:11.585034 +0000 UTC",
+              "updated_at": "2021-06-05 02:52:24.9022 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 355
+          },
+          {
+            "id": "1709635d-93fb-4519-afe0-45463b907e1d",
+            "position": "3",
+            "body": "Síndrome da Resposta Inflamatória Sistêmica.",
+            "sanitized_body": "Síndrome da Resposta Inflamatória Sistêmica.",
+            "correct": false,
+            "created_at": "2021-04-26 17:58:50.554092 +0000 UTC",
+            "updated_at": "2021-05-27 14:49:54.182893 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois o paciente apresenta síndrome da resposta inflamatória sistêmica (SRIS) relacionada à infecção. Essa era a definição de sepse anterior ao Sepsis-3.<div><br></div><div>A SRIS não é mais utilizada como requisito para a definição de sepse. Entretanto, ela continua tendo relevante papel como instrumento de triagem para a identificação de pacientes com infecção e, potencialmente, sob risco de apresentar sepse ou choque séptico. Define-se SRIS pela presença de no mínimo dois dos seguintes sinais:</div><div>- Temperatura &gt; 38°C ou &lt; 36°C;</div><div>- Frequência cardíaca &gt; 90 bpm;</div><div>- Frequência respiratória &gt; 20 ipm, ou PaCO2 &lt; 32 mmHg;</div><div>- Leucócitos totais &gt; 12.000/mm³; ou &lt; 4.000/mm³ ou presença de &gt; 10% de formas jovens (desvio à esquerda).</div>",
+              "sanitized_complete": "A alternativa D está incorreta, pois o paciente apresenta síndrome da resposta inflamatória sistêmica (SRIS) relacionada à infecção. Essa era a definição de sepse anterior ao Sepsis-3.A SRIS não é mais utilizada como requisito para a definição de sepse. Entretanto, ela continua tendo relevante papel como instrumento de triagem para a identificação de pacientes com infecção e, potencialmente, sob risco de apresentar sepse ou choque séptico. Define-se SRIS pela presença de no mínimo dois dos seguintes sinais:- Temperatura &gt; 38°C ou &lt; 36°C;- Frequência cardíaca &gt; 90 bpm;- Frequência respiratória &gt; 20 ipm, ou PaCO2 &lt; 32 mmHg;- Leucócitos totais &gt; 12.000/mm³; ou &lt; 4.000/mm³ ou presença de &gt; 10% de formas jovens (desvio à esquerda).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 00:08:11.612708 +0000 UTC",
+              "updated_at": "2021-06-05 02:52:24.935992 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 236
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 30 anos de idade, internado na Unidade de Terapia Intensiva com diagnóstico de abscesso renal, intubado e em ventilação mecânica, apresentou, na admissão, os seguintes sinais vitais: PA = 90 x 40 mmHg, febre de 39 °C, FC = 114 bpm, FR = 23 irpm, Escala de Ramsay de 5, PaO₂/FiO₂ de 350. Após ressuscitação volêmica com cristaloides, apresentou melhora do quadro hemodinâmico (PA = 110 x 70 mmHg). Exames laboratoriais mostraram os seguintes resultados: bílirrubina total = 1,1 mg/dL (valor de referência: 0,8 a 1,2 mg/dL), creatinina = 1,9 mg/dL (valor de referência: 0,8 a 1,2 mg/dL) e lactato = 2,2 mmol/L (valor de referência: &lt; 2 mmol/L). A definição atual do quadro clínico desse paciente é",
+        "statement_text": "Um paciente com 30 anos de idade, internado na Unidade de Terapia Intensiva com diagnóstico de abscesso renal, intubado e em ventilação mecânica, apresentou, na admissão, os seguintes sinais vitais: PA = 90 x 40 mmHg, febre de 39 °C, FC = 114 bpm, FR = 23 irpm, Escala de Ramsay de 5, PaO₂/FiO₂ de 350. Após ressuscitação volêmica com cristaloides, apresentou melhora do quadro hemodinâmico (PA = 110 x 70 mmHg). Exames laboratoriais mostraram os seguintes resultados: bílirrubina total = 1,1 mg/dL (valor de referência: 0,8 a 1,2 mg/dL), creatinina = 1,9 mg/dL (valor de referência: 0,8 a 1,2 mg/dL) e lactato = 2,2 mmol/L (valor de referência: &lt; 2 mmol/L). A definição atual do quadro clínico desse paciente é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 17:58:50.554092 +0000 UTC",
+        "forum_id": "66d04148-a2c9-480d-b711-a6fd7c5f3372",
+        "solution": {
+          "_key": "d199809b-10a1-4c32-b0e5-dd113483f16f",
+          "complete": "Sepse é a presença de <b style=\"\">disfunção orgânica</b> ameaçadora à vida, causada por uma <b style=\"\">resposta desregulada</b> do organismo à infecção. Disfunção orgânica é definida como um aumento <u style=\"\">&gt;</u> 2 pontos na pontuação do escore SOFA.<div><br></div><div>A figura a seguir relaciona os parâmetros avaliados pelo SOFA.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AA8AD509-7543-0417-75DC-4D5AD737FBF2/AA8AD509-7543-0417-75DC-4D5AD737FBF2-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Pode estar relacionada a qualquer foco infeccioso, tanto de origem comunitária como aquelas associadas à assistência à saúde.&nbsp;<br></div><div><div><br></div><div>No Brasil, os bacilos Gram-negativos representaram a maior parte dos casos em que o agente foi identificado, seguidos dos cocos Gram-positivos,&nbsp; especificamente <i>Staphylococcus aureus</i>, e dos fungos.</div></div><div><br></div><div>Choque séptico é definido como um subgrupo de pacientes sepse que apresenta anormalidades circulatórias, celulares e metabólicas associadas a um risco maior de mortalidade. Clinicamente, inclui pacientes que preenchem os critérios para sepse que, <b>após ressuscitação volêmica adequada, requerem</b> <b>vasopressores para manter uma pressão arterial média (PAM) ≥ 65 mmHg e têm lactato &gt; 2 mmol/L (&gt; 18 mg/dL)</b>.</div>",
+          "sanitized_complete": "Sepse é a presença de disfunção orgânica ameaçadora à vida, causada por uma resposta desregulada do organismo à infecção. Disfunção orgânica é definida como um aumento &gt; 2 pontos na pontuação do escore SOFA.A figura a seguir relaciona os parâmetros avaliados pelo SOFA.Pode estar relacionada a qualquer foco infeccioso, tanto de origem comunitária como aquelas associadas à assistência à saúde. No Brasil, os bacilos Gram-negativos representaram a maior parte dos casos em que o agente foi identificado, seguidos dos cocos Gram-positivos,  especificamente Staphylococcus aureus, e dos fungos.Choque séptico é definido como um subgrupo de pacientes sepse que apresenta anormalidades circulatórias, celulares e metabólicas associadas a um risco maior de mortalidade. Clinicamente, inclui pacientes que preenchem os critérios para sepse que, após ressuscitação volêmica adequada, requerem vasopressores para manter uma pressão arterial média (PAM) ≥ 65 mmHg e têm lactato &gt; 2 mmol/L (&gt; 18 mg/dL).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-05 00:08:11.660742 +0000 UTC",
+          "updated_at": "2021-06-05 02:52:24.968823 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146545-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-30-anos12127d20c44",
+        "public": true
+      },
+      {
+        "id": "4000146536",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a4a322fdbe9a4e0dbcc0bcd30650ba73",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "12ee573bf1024eb4a7240ef26130c677",
+            "path": "Clínica Médica[$$]Infectologia [$$]Pneumonia[$$]Pneumonia adquirida na comunidade (PAC)[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e6fbfdad11ea456cb6873de6d04dd181",
+            "name": "Transplantados de órgão sólido",
+            "is_master": false,
+            "master_id": "e5837d9432c442878032b9e92201df76",
+            "path": "Clínica Médica[$$]Infectologia [$$]Imunossuprimidos não-HIV[$$]Transplantados de órgão sólido",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "59011829-8c9d-4de0-9854-a8226849d795",
+            "position": "0",
+            "body": "Sulfametoxazol-trimetoprim.",
+            "sanitized_body": "Sulfametoxazol-trimetoprim.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:08.733555 +0000 UTC",
+            "updated_at": "2021-08-12 21:00:16.039903 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o sulfametoxazol-trimetoprim não é uma boa opção terapêutica para a pneumonia por <i>Legionella pneumophila</i>.",
+              "sanitized_complete": "A alternativa A está incorreta, pois o sulfametoxazol-trimetoprim não é uma boa opção terapêutica para a pneumonia por Legionella pneumophila.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-08-12 21:00:10.851244 +0000 UTC",
+              "updated_at": "2021-08-12 21:56:47.856064 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 456
+          },
+          {
+            "id": "e0877a90-fa0a-403c-842f-e51596e9af4c",
+            "position": "1",
+            "body": "Levofloxacino.",
+            "sanitized_body": "Levofloxacino.",
+            "correct": true,
+            "created_at": "2021-04-26 17:50:08.733555 +0000 UTC",
+            "updated_at": "2021-08-12 21:00:16.102504 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está correta, pois o levofloxacino é um antibiótico de primeira linha para o tratamento da pneumonia por <i>Legionella pneumophila</i>, porém deve ser usada com cautela em associação com tacrolimo, já que pode aumentar o efeito de prolongamento do intervalo QT.",
+              "sanitized_complete": "A alternativa B está correta, pois o levofloxacino é um antibiótico de primeira linha para o tratamento da pneumonia por Legionella pneumophila, porém deve ser usada com cautela em associação com tacrolimo, já que pode aumentar o efeito de prolongamento do intervalo QT.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-08-12 21:00:10.850499 +0000 UTC",
+              "updated_at": "2021-08-12 21:56:47.844002 +0000 UTC"
+            },
+            "answer_percentage": 59,
+            "answers": 1989
+          },
+          {
+            "id": "65683129-5391-4212-a7f7-04f5960b9df1",
+            "position": "2",
+            "body": "Azitromicina.",
+            "sanitized_body": "Azitromicina.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:08.733555 +0000 UTC",
+            "updated_at": "2021-08-12 21:00:16.169439 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está incorreta, pois os macrolídeos aumentam os níveis sanguíneos do tacrolimo e o risco de toxicidade.",
+              "sanitized_complete": "A alternativa C está incorreta, pois os macrolídeos aumentam os níveis sanguíneos do tacrolimo e o risco de toxicidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-08-12 21:00:10.853402 +0000 UTC",
+              "updated_at": "2021-08-12 21:56:47.854846 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 733
+          },
+          {
+            "id": "6bbc9895-e298-4b9c-b086-e274ac4f99a0",
+            "position": "3",
+            "body": "Doxiciclina.",
+            "sanitized_body": "Doxiciclina.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:08.733555 +0000 UTC",
+            "updated_at": "2021-08-12 21:00:16.227311 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois a doxiciclina não é uma boa opção terapêutica para a pneumonia por <i>Legionella pneumophila</i>.",
+              "sanitized_complete": "A alternativa D está incorreta, pois a doxiciclina não é uma boa opção terapêutica para a pneumonia por Legionella pneumophila.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-08-12 21:00:10.864431 +0000 UTC",
+              "updated_at": "2021-08-12 21:56:47.86349 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 215
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 54 anos de idade, transplantado renal há 3 meses, apresenta, há cerca de 7 dias, febre elevada (&gt; 40 °C), tosse pouco produtiva (escarro pouco purulento) e dor torácica à esquerda. Ele procurou o serviço onde realizou o transplante de órgão, sendo observada a presença de febre elevada e ausculta pulmonar com estertores crepitantes difusos, além de semiologia compatível com derrame pleural à esquerda. O Gram de escarro não mostrou patógenos, mas apenas alguns polimorfonucleares. A Tomografia Computadorizada de Tórax (TCT), realizada no mesmo dia, revelou opacidades alveolares arredondadas e derrame pleural leve à esquerda. Como o paciente respondeu bem à administração de antitérmico, mantendo bom estado hemodinâmico e padrão respiratório satisfatório, foi liberado para casa com prescrição de amoxicilina-clavulanato. No entanto, após 4 dias de tratamento, mantinha-se febril, sem melhora do quadro clínico. Nova TCT revelou que algumas das opacidades parenquimatosas haviam evoluído com escavação central. Foi formulada a hipótese de pneumonia por Legionella pneumophila. Em função de o paciente estar em tratamento imunossupressor com ciclosporina e tacrolimus, qual é o tratamento antimicrobiano adequado a ser prescrito?",
+        "statement_text": "Um homem com 54 anos de idade, transplantado renal há 3 meses, apresenta, há cerca de 7 dias, febre elevada (&gt; 40 °C), tosse pouco produtiva (escarro pouco purulento) e dor torácica à esquerda. Ele procurou o serviço onde realizou o transplante de órgão, sendo observada a presença de febre elevada e ausculta pulmonar com estertores crepitantes difusos, além de semiologia compatível com derrame pleural à esquerda. O Gram de escarro não mostrou patógenos, mas apenas alguns polimorfonucleares. A Tomografia Computadorizada de Tórax (TCT), realizada no mesmo dia, revelou opacidades alveolares arredondadas e derrame pleural leve à esquerda. Como o paciente respondeu bem à administração de antitérmico, mantendo bom estado hemodinâmico e padrão respiratório satisfatório, foi liberado para casa com prescrição de amoxicilina-clavulanato. No entanto, após 4 dias de tratamento, mantinha-se febril, sem melhora do quadro clínico. Nova TCT revelou que algumas das opacidades parenquimatosas haviam evoluído com escavação central. Foi formulada a hipótese de pneumonia por Legionella pneumophila. Em função de o paciente estar em tratamento imunossupressor com ciclosporina e tacrolimus, qual é o tratamento antimicrobiano adequado a ser prescrito?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 17:50:08.733555 +0000 UTC",
+        "forum_id": "9b43ed9a-0262-467f-a1e1-4a06c65b0683",
+        "solution": {
+          "_key": "0961db71-7687-4ad2-9b87-75a0cfc68971",
+          "complete": "Estamos diante de um paciente transplantado renal, em tratamento imunossupressor com ciclosporina e tacrolimus, apresenta, há cerca de 7 dias, um quadro agudo sugestivo de pneumonia. <div><br></div><div>Após 4 dias de tratamento com amoxicilina-clavulanato. mantinha-se febril, sem melhora do quadro clínico. Nova TCT revelou que algumas das opacidades parenquimatosas haviam evoluído com escavação central. Foi formulada a hipótese de pneumonia por <i>Legionella pneumophila</i>.</div><div><br></div><div>O tratamento de primeira linha para pneumonia por <i>Legionella pneumophila</i> é feito com uma fluoroquinolona ou um macrolídeo.</div>",
+          "sanitized_complete": "Estamos diante de um paciente transplantado renal, em tratamento imunossupressor com ciclosporina e tacrolimus, apresenta, há cerca de 7 dias, um quadro agudo sugestivo de pneumonia. Após 4 dias de tratamento com amoxicilina-clavulanato. mantinha-se febril, sem melhora do quadro clínico. Nova TCT revelou que algumas das opacidades parenquimatosas haviam evoluído com escavação central. Foi formulada a hipótese de pneumonia por Legionella pneumophila.O tratamento de primeira linha para pneumonia por Legionella pneumophila é feito com uma fluoroquinolona ou um macrolídeo.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-12 21:00:10.916348 +0000 UTC",
+          "updated_at": "2021-08-12 21:56:47.910344 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-com-54-anos18124ec9cfb",
+        "public": true
+      },
+      {
+        "id": "4000146531",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "549f7728f09e4a4799e928cbad5b3be7",
+            "name": "Escorpionismo",
+            "is_master": false,
+            "master_id": "4bafdd9ef2154691a61419603033e6f2",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Escorpionismo",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c804e7a0-2b47-40ec-ba22-7b1dc7d40bf0",
+            "position": "0",
+            "body": "observação domiciliar por 6 a 12 horas.",
+            "sanitized_body": "observação domiciliar por 6 a 12 horas.",
+            "correct": false,
+            "created_at": "2021-04-26 17:47:17.187321 +0000 UTC",
+            "updated_at": "2021-05-27 14:50:54.723129 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois trata-se de um acidente moderado e está indicado o soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) 2 a 3 ampolas IV.",
+              "sanitized_complete": "A alternativa A está incorreta, pois trata-se de um acidente moderado e está indicado o soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) 2 a 3 ampolas IV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 05:18:24.90348 +0000 UTC",
+              "updated_at": "2021-06-05 06:33:55.506664 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 40
+          },
+          {
+            "id": "3afebcb8-4429-450d-be3d-61388f64c5b5",
+            "position": "1",
+            "body": "observação hospitalar por 6 a 12 horas.",
+            "sanitized_body": "observação hospitalar por 6 a 12 horas.",
+            "correct": false,
+            "created_at": "2021-04-26 17:47:17.187321 +0000 UTC",
+            "updated_at": "2021-05-27 14:50:54.786783 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois trata-se de um acidente moderado e está indicado o soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) 2 a 3 ampolas IV.",
+              "sanitized_complete": "A alternativa B está incorreta, pois trata-se de um acidente moderado e está indicado o soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) 2 a 3 ampolas IV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 05:18:24.926364 +0000 UTC",
+              "updated_at": "2021-06-05 06:33:55.50607 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 212
+          },
+          {
+            "id": "bd09bb06-4c99-4790-af28-9616822fc12a",
+            "position": "2",
+            "body": "soro anti-escorpiônico (2 a 3 ampolas.",
+            "sanitized_body": "soro anti-escorpiônico (2 a 3 ampolas.",
+            "correct": true,
+            "created_at": "2021-04-26 17:47:17.187321 +0000 UTC",
+            "updated_at": "2021-05-27 14:50:54.828468 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois trata-se de um acidente moderado.",
+              "sanitized_complete": "A alternativa C está correta, pois trata-se de um acidente moderado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 05:18:24.9128 +0000 UTC",
+              "updated_at": "2021-06-05 06:33:55.521117 +0000 UTC"
+            },
+            "answer_percentage": 73,
+            "answers": 2171
+          },
+          {
+            "id": "7fa7714e-e21b-4f19-a808-79b32361a63a",
+            "position": "3",
+            "body": "soro anti-escorpiônico (4 a 6 ampolas.",
+            "sanitized_body": "soro anti-escorpiônico (4 a 6 ampolas.",
+            "correct": false,
+            "created_at": "2021-04-26 17:47:17.187321 +0000 UTC",
+            "updated_at": "2021-05-27 14:50:54.919268 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois trata-se de um acidente moderado e a soroterapia deve ser feita com 2 a 3 ampolas IV.",
+              "sanitized_complete": "A alternativa D está incorreta, pois trata-se de um acidente moderado e a soroterapia deve ser feita com 2 a 3 ampolas IV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-05 05:18:24.901165 +0000 UTC",
+              "updated_at": "2021-06-05 06:33:55.500284 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 561
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um adolescente com 13 anos de idade é atendido no pronto-socorro devido à picada de escorpião no dedo indicador esquerdo. Em exame físico, apresenta sinais vitais estáveis, dor intensa, hiperemia e formigamento no local da picada, associados a náuseas, vômitos, sudorese e sialorreia discretos. Além do alívio da dor, a conduta recomendada é",
+        "statement_text": "Um adolescente com 13 anos de idade é atendido no pronto-socorro devido à picada de escorpião no dedo indicador esquerdo. Em exame físico, apresenta sinais vitais estáveis, dor intensa, hiperemia e formigamento no local da picada, associados a náuseas, vômitos, sudorese e sialorreia discretos. Além do alívio da dor, a conduta recomendada é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 17:47:17.187321 +0000 UTC",
+        "forum_id": "be11a107-3a03-4a16-a9ff-f182d112b0f7",
+        "solution": {
+          "_key": "f4f0d0f3-9ec0-49c3-9f19-1b11e23a2fed",
+          "complete": "Caro(a) Estrategista, estamos diante de um caso de escorpionismo. Muita atenção, pois as bancas adoram esse tema!<div><br></div><div>Escorpiões são artrópodes (insetos que têm “patas articuladas”) e fazem parte da mesma classe das aranhas, ou seja, são aracnídeos. O <i>Tityus serrulatus</i> é o responsável pela maioria e pela maior gravidade dos casos. Eles vivem em áreas urbanas, têm hábitos noturnos e, durante o dia, escondem-se em entulhos, tijolos, telhas e abaixo de troncos ou pedras.&nbsp;</div><div><br></div><div>Seu veneno tem ação neurotóxica. Age nos canais de sódio, despolarizando as terminações nervosas pós-ganglionares, levando a uma liberação de catecolaminas e acetilcolina; por isso, podem aparecer manifestações decorrentes de efeitos simpáticos ou parassimpáticos.</div><div><br></div><div>As picadas atingem predominantemente os membros superiores. Causam dor intensa e, às vezes, parestesias. Pode acometer diversos órgãos como o coração, pulmão, trato gastrointestinal e sistema nervoso central.&nbsp;</div><div><div><br></div><div>As crianças e os adolescentes são as faixas etárias mais atingidas.<br></div><div><br></div><div>O tratamento específico consiste na administração de soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) nas formas moderadas e graves. Não tem indicação na forma leve e as crianças picadas devem permanecer em observação no período de 6 a 12 horas.&nbsp;</div><div><br></div><div>A classificação dos acidentes quanto à gravidade, manifestações clínicas e tratamento específico estão no quadro a seguir.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D70E71AA-2DA9-02E1-12AD-C32A457FE0BE/D70E71AA-2DA9-02E1-12AD-C32A457FE0BE-400.jpeg\"></div></div>",
+          "sanitized_complete": "Caro(a) Estrategista, estamos diante de um caso de escorpionismo. Muita atenção, pois as bancas adoram esse tema!Escorpiões são artrópodes (insetos que têm “patas articuladas”) e fazem parte da mesma classe das aranhas, ou seja, são aracnídeos. O Tityus serrulatus é o responsável pela maioria e pela maior gravidade dos casos. Eles vivem em áreas urbanas, têm hábitos noturnos e, durante o dia, escondem-se em entulhos, tijolos, telhas e abaixo de troncos ou pedras. Seu veneno tem ação neurotóxica. Age nos canais de sódio, despolarizando as terminações nervosas pós-ganglionares, levando a uma liberação de catecolaminas e acetilcolina; por isso, podem aparecer manifestações decorrentes de efeitos simpáticos ou parassimpáticos.As picadas atingem predominantemente os membros superiores. Causam dor intensa e, às vezes, parestesias. Pode acometer diversos órgãos como o coração, pulmão, trato gastrointestinal e sistema nervoso central. As crianças e os adolescentes são as faixas etárias mais atingidas.O tratamento específico consiste na administração de soro antiescorpiônico (SAEEs) ou antiaracnídico (SAAr) nas formas moderadas e graves. Não tem indicação na forma leve e as crianças picadas devem permanecer em observação no período de 6 a 12 horas. A classificação dos acidentes quanto à gravidade, manifestações clínicas e tratamento específico estão no quadro a seguir.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-05 05:18:24.977638 +0000 UTC",
+          "updated_at": "2021-06-05 06:33:55.597323 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146531-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-1353d444c171",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 35
+    }
+  }

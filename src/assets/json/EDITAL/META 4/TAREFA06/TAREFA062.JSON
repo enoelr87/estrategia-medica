@@ -1,0 +1,130 @@
+{
+    "data": [
+      {
+        "id": "4000153139",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 1,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "8ddbbf2d-753f-4eb8-841b-525d3215e7fb",
+                "name": "2° Simulado Inédito Revalida INEP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "84D86635-3046-9F73-40FE-75B1564BE31B"
+              },
+              {
+                "type": "ANSWER",
+                "url": "30E58FD3-F52F-2304-985E-27C745793FB9"
+              },
+              {
+                "type": "ANSWER",
+                "url": "165E3B5D-C2FD-3E99-152D-C454A231B066"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 56,
+            "created_at": "2021-09-01T12:49:35Z",
+            "updated_at": "2022-02-10T16:39:13Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Sua paciente de 18 anos foi escondida dos pais para uma balada e lá foi vítima de abuso sexual por um desconhecido. Relata que acha que algo foi colocado na sua bebida e acordou em um motel. Chega ao serviço de urgência 12 horas após o ocorrido. Nega uso de medicação contraceptiva. Não porta cartão vacinal. Elabore um roteiro do seu atendimento constando principalmente os detalhes de notificação e profilaxias.",
+        "statement_text": "Sua paciente de 18 anos foi escondida dos pais para uma balada e lá foi vítima de abuso sexual por um desconhecido. Relata que acha que algo foi colocado na sua bebida e acordou em um motel. Chega ao serviço de urgência 12 horas após o ocorrido. Nega uso de medicação contraceptiva. Não porta cartão vacinal. Elabore um roteiro do seu atendimento constando principalmente os detalhes de notificação e profilaxias.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-09-01 18:20:52.358694 +0000 UTC",
+        "forum_id": "f6540ede-238b-4d0b-84d0-0f15acd6aaff",
+        "solution": {
+          "_key": "3d932aa3-5ce6-45a0-84aa-e0c231a40e8d",
+          "complete": "Na paciente vítima de violência sexual, todos os detalhes abaixo devem ser avaliados durante o atendimento:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7B891FF9-599A-C0D1-3D9F-0368C4A3708A/7B891FF9-599A-C0D1-3D9F-0368C4A3708A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A banca pede exatamente esse roteiro de atendimento. Então vamos lá:</div><div><br></div><div>1. O serviço de saúde precisa conter uma equipe multidisciplinar e treinada para o atendimento. Este deve ser feito INDEPENDENTEMENTE da realização do boletim de ocorrência, mas a equipe deve reforçar a importância da sua realização.</div><div><br></div><div>2. Notificação: a equipe tem até 24 horas para notificação tanto para fins epidemiológicos quanto para a autoridade policial.</div><div><br></div><div>3. Anamnese completa com todos os detalhes registrados em prontuário e exame físico geral, ginecológico e guiado também pela </div><div>história clínica. O enunciado não menciona se há alguma urgência a ser tratada, mas, caso exista, deve ser dada prioridade a ela.</div><div><br></div><div>4. Quimioprofilaxias:</div><div><br></div><div>Para infecções sexualmente transmissíveis: metronidazol 2g (tricomoníase) + azitromicina 1g (clamídia) + ceftriaxona 500 mg IM (infecção por gonococo + penicilina benzatina (sífilis).</div><div><br></div><div>Para hepatite B: como a paciente não porta o cartão vacinal, devemos fazer vacina e imunoglobulina anti-hepatite B.</div><div><br></div><div>Para HIV: como a violência ocorreu há menos de 72 horas do atendimento, a profilaxia está indicada, por 28 dias.</div><div><br></div><div>5. Como a paciente está no menacme, não faz uso de medicação contraceptiva efetiva e a violência ocorreu há menos de 120 horas do </div><div>atendimento, está indicado levonorgestrel 1,5 mg.</div><div><br></div><div>6. O serviço de saúde deve ter atendimento psicológico e condições de seguimento da paciente.</div>",
+          "sanitized_complete": "Na paciente vítima de violência sexual, todos os detalhes abaixo devem ser avaliados durante o atendimento:A banca pede exatamente esse roteiro de atendimento. Então vamos lá:1. O serviço de saúde precisa conter uma equipe multidisciplinar e treinada para o atendimento. Este deve ser feito INDEPENDENTEMENTE da realização do boletim de ocorrência, mas a equipe deve reforçar a importância da sua realização.2. Notificação: a equipe tem até 24 horas para notificação tanto para fins epidemiológicos quanto para a autoridade policial.3. Anamnese completa com todos os detalhes registrados em prontuário e exame físico geral, ginecológico e guiado também pela história clínica. O enunciado não menciona se há alguma urgência a ser tratada, mas, caso exista, deve ser dada prioridade a ela.4. Quimioprofilaxias:Para infecções sexualmente transmissíveis: metronidazol 2g (tricomoníase) + azitromicina 1g (clamídia) + ceftriaxona 500 mg IM (infecção por gonococo + penicilina benzatina (sífilis).Para hepatite B: como a paciente não porta o cartão vacinal, devemos fazer vacina e imunoglobulina anti-hepatite B.Para HIV: como a violência ocorreu há menos de 72 horas do atendimento, a profilaxia está indicada, por 28 dias.5. Como a paciente está no menacme, não faz uso de medicação contraceptiva efetiva e a violência ocorreu há menos de 120 horas do atendimento, está indicado levonorgestrel 1,5 mg.6. O serviço de saúde deve ter atendimento psicológico e condições de seguimento da paciente.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-09-01 21:43:10.956343 +0000 UTC",
+          "updated_at": "2021-09-01 21:43:24.710216 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Sua-paciente-18-anos703ea50c38",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

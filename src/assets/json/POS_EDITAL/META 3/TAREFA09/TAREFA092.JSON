@@ -1,0 +1,318 @@
+{
+    "data": [
+      {
+        "id": "4000127061",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fc1ba30f94b24567920829287f98e2cb",
+            "name": "Tratamento Cirúrgico ",
+            "is_master": false,
+            "master_id": "691b698a97164335b20d6c8acbca2e0f",
+            "path": "Cirurgia[$$]Vesícula e Vias Biliares[$$]Colelitíase[$$]Tratamento Cirúrgico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d360ed84-9852-4651-900d-318a152999e2",
+            "position": "0",
+            "body": "é crônico e o tratamento cirúrgico pode ser adiado.",
+            "sanitized_body": "é crônico e o tratamento cirúrgico pode ser adiado.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.731385 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADO: Pacientes diabéticos estão sob maior risco de complicações graves da colecistite. Além disso, pacientes com sintomas mais graves ou recorrentes apresentam maior taxa de complicações da doença (7% ao ano), estando recomendada a cirurgia antes da viagem.",
+              "sanitized_complete": "ERRADO: Pacientes diabéticos estão sob maior risco de complicações graves da colecistite. Além disso, pacientes com sintomas mais graves ou recorrentes apresentam maior taxa de complicações da doença (7% ao ano), estando recomendada a cirurgia antes da viagem.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.82349 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.379603 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 142
+          },
+          {
+            "id": "af66052d-d7ca-403a-a4c2-2374075d5edc",
+            "position": "1",
+            "body": "requer tratamento cirúrgico antes da viagem.",
+            "sanitized_body": "requer tratamento cirúrgico antes da viagem.",
+            "correct": true,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.807084 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA: A paciente tem indicação cirúrgica, já que apresenta colelitíase sintomática. Como apresenta piora dos sintomas nos últimos seis meses, está sob maior risco de complicações da doença (7% ao ano). Além disso, pacientes diabéticos têm maior risco de desenvolver colecistite aguda gangrenosa, uma forma mais grave de colecistite aguda.",
+              "sanitized_complete": "CORRETA: A paciente tem indicação cirúrgica, já que apresenta colelitíase sintomática. Como apresenta piora dos sintomas nos últimos seis meses, está sob maior risco de complicações da doença (7% ao ano). Além disso, pacientes diabéticos têm maior risco de desenvolver colecistite aguda gangrenosa, uma forma mais grave de colecistite aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.838977 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.401869 +0000 UTC"
+            },
+            "answer_percentage": 78,
+            "answers": 1721
+          },
+          {
+            "id": "95c6ff63-9ecf-477a-8f7d-5e98bb5916b5",
+            "position": "2",
+            "body": "requer tratamento cirúrgico imediato.",
+            "sanitized_body": "requer tratamento cirúrgico imediato.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.898459 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: A colecistite CRÔNICA litiásica não exige tratamento cirúrgico de imediato, diferentemente da colecistite AGUDA litiásica.",
+              "sanitized_complete": "ERRADA: A colecistite CRÔNICA litiásica não exige tratamento cirúrgico de imediato, diferentemente da colecistite AGUDA litiásica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.840225 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.372365 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 258
+          },
+          {
+            "id": "88f0c099-230c-4322-9bb2-ce581a00c4fd",
+            "position": "3",
+            "body": "requer acompanhamento imediato quando aparecerem indícios de complicações.",
+            "sanitized_body": "requer acompanhamento imediato quando aparecerem indícios de complicações.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.979617 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: Óbvio que, na presença de complicações, está indicado o acompanhamento imediato. No entanto, a melhor conduta, para o caso exposto, não é aguardar o surgimento de complicações para indicarmos o tratamento cirúrgico.&nbsp;",
+              "sanitized_complete": "ERRADA: Óbvio que, na presença de complicações, está indicado o acompanhamento imediato. No entanto, a melhor conduta, para o caso exposto, não é aguardar o surgimento de complicações para indicarmos o tratamento cirúrgico. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.844337 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.381984 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 85
+          },
+          {
+            "id": "1b9044fb-05e6-4198-8b72-1c9c4be61900",
+            "position": "4",
+            "body": "requer antibioticoterapia imediata e uso de antiespasmódicos.",
+            "sanitized_body": "requer antibioticoterapia imediata e uso de antiespasmódicos.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:53.063216 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: A colecistite crônica litiásica é secundária às diversas crises de cólica biliar. O tratamento é a cirurgia (colecistectomia) eletiva. Importante não confundir com a colecistite AGUDA, que é uma urgência médica, indicado antibioticoterapia e tratamento cirúrgico imediato.",
+              "sanitized_complete": "ERRADA: A colecistite crônica litiásica é secundária às diversas crises de cólica biliar. O tratamento é a cirurgia (colecistectomia) eletiva. Importante não confundir com a colecistite AGUDA, que é uma urgência médica, indicado antibioticoterapia e tratamento cirúrgico imediato.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.827749 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.376147 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 14
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher com 54 anos de idade, Índice de Massa Corpórea (IMC) = 32,6, portadora de diabetes tipo 2, controlado com medidas dietéticas e uso de glibenclamida, comparece à Unidade Básica de Saúde com queixa de dor, do tipo cólica, em hipocôndrio direito, que se irradia para o ombro direito e piora após ingestão de alimentos, especialmente gordurosos. Relata episódios de vômitos durante algumas crises. Disse, ainda, que o quadro iniciou-se há mais ou menos seis meses, agravando-se no último mês. Após a realização do exame físico, o médico solicitou ultrassonografia de abdome que  evidenciou “colecistopatia calculosa crônica”. Ao explicar o diagnóstico para a paciente, ela informou que gostaria de passar seis meses visitando a filha que mora em Portugal. Baseado nessa situação, você diria à paciente que seu quadro clínico:",
+        "statement_text": "Mulher com 54 anos de idade, Índice de Massa Corpórea (IMC) = 32,6, portadora de diabetes tipo 2, controlado com medidas dietéticas e uso de glibenclamida, comparece à Unidade Básica de Saúde com queixa de dor, do tipo cólica, em hipocôndrio direito, que se irradia para o ombro direito e piora após ingestão de alimentos, especialmente gordurosos. Relata episódios de vômitos durante algumas crises. Disse, ainda, que o quadro iniciou-se há mais ou menos seis meses, agravando-se no último mês. Após a realização do exame físico, o médico solicitou ultrassonografia de abdome que  evidenciou “colecistopatia calculosa crônica”. Ao explicar o diagnóstico para a paciente, ela informou que gostaria de passar seis meses visitando a filha que mora em Portugal. Baseado nessa situação, você diria à paciente que seu quadro clínico:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+        "solution": {
+          "_key": "166c27ae-db1c-4d7d-b53f-f22afdbdc749",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>No enunciado, temos um paciente do sexo feminino, obesidade grau I, diabética, com queixa de dor tipo cólica, em hipocôndrio direito, que piora com alimentação, principalmente gordurosa. Essa dor é típica de cólica biliar, a dor causada pela presença de colelitíase. Ultrassonografia confirma o diagnóstico (colecistopatia crônica calculosa). A paciente quer viajar para outro país, por seis meses. Podemos entender que, neste período, ela não terá assistência médica. Portanto, qual é a melhor conduta?</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BNo enunciado, temos um paciente do sexo feminino, obesidade grau I, diabética, com queixa de dor tipo cólica, em hipocôndrio direito, que piora com alimentação, principalmente gordurosa. Essa dor é típica de cólica biliar, a dor causada pela presença de colelitíase. Ultrassonografia confirma o diagnóstico (colecistopatia crônica calculosa). A paciente quer viajar para outro país, por seis meses. Podemos entender que, neste período, ela não terá assistência médica. Portanto, qual é a melhor conduta?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+          "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+          "author_profile": {
+            "id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+            "full_name": "Tomás Ramos Velloso Coelho",
+            "avatar_url": "https://static.accounts.estrategia.com/69136def6e8ce33ad05052b6ff065ac8",
+            "about_me": "Graduação em Medicina pela Universidade do Estado do Rio de Janeiro - UERJ (2010), residência em Cirurgia Geral pela Universidade do Estado do Rio de Janeiro - UERJ (2012 - 2014), residência em Cancerologia Cirúrgica pelo Hospital de Amor - BarretosSP (2014 - 2017). Cirurgião Oncológico do Instituto do Câncer de Três Lagoas de 2017 a 2019. Desde 2019 em São PauloSP e, desde 2020, professor do Estratégia Med.\n",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/tomas_coelho87",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/tomas-coelho-14562b178",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-10 14:20:07.974497 +0000 UTC",
+          "updated_at": "2020-11-10 14:20:08.459688 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127061-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-54-anos1315ae0e40c",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

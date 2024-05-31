@@ -1,0 +1,320 @@
+{
+    "data": [
+      {
+        "id": "4000127143",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "824977f57a6545ada2d06ab8c4a97a6a",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "0eefff25ba8e40d0b72ce9ebbe55efc4",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Infecções congênitas [$$]Toxoplasmose na gestação[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91d78c83f7a04630a3217b201febab64",
+            "name": "Diagnóstico ",
+            "is_master": false,
+            "master_id": "0eefff25ba8e40d0b72ce9ebbe55efc4",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Infecções congênitas [$$]Toxoplasmose na gestação[$$]Diagnóstico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "11be0cac-a01c-4219-85bf-d84ab4b2d7a9",
+            "position": "0",
+            "body": "repetir sorologia para toxoplasmose no 3.º trimestre de gestação.",
+            "sanitized_body": "repetir sorologia para toxoplasmose no 3.º trimestre de gestação.",
+            "correct": false,
+            "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+            "updated_at": "2020-11-29 14:12:20.8657 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “A”: não há necessidade de repetir a sorologia, mas sim de iniciar o uso da espiramicina e a investigação de infecção fetal o mais rápido possível, a fim de diminuir os riscos da transmissão vertical.",
+              "sanitized_complete": "Incorreta a alternativa “A”: não há necessidade de repetir a sorologia, mas sim de iniciar o uso da espiramicina e a investigação de infecção fetal o mais rápido possível, a fim de diminuir os riscos da transmissão vertical.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:06:11.157703 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 5
+          },
+          {
+            "id": "fc5df2fb-06c8-440b-9289-34d569fe0038",
+            "position": "1",
+            "body": "realizar ultrassonografia obstétrica para avaliação fetal.",
+            "sanitized_body": "realizar ultrassonografia obstétrica para avaliação fetal.",
+            "correct": false,
+            "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+            "updated_at": "2020-11-29 14:12:20.932799 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “B”: a ultrassonografia avalia a presença de alterações fetais que podem aparecer em decorrência da infecção congênita, mas essas alterações geralmente são tardias, por isso para o diagnóstico precoce da infecção fetal deve-se pesquisar DNA do Toxoplasma gondii por PCR no líquido amniótico.",
+              "sanitized_complete": "Incorreta a alternativa “B”: a ultrassonografia avalia a presença de alterações fetais que podem aparecer em decorrência da infecção congênita, mas essas alterações geralmente são tardias, por isso para o diagnóstico precoce da infecção fetal deve-se pesquisar DNA do Toxoplasma gondii por PCR no líquido amniótico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:06:11.161418 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 7
+          },
+          {
+            "id": "c8ad36ac-9973-4575-a16e-6317c307a7fb",
+            "position": "2",
+            "body": "solicitar exame de PCR no líquido amniótico.",
+            "sanitized_body": "solicitar exame de PCR no líquido amniótico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+            "updated_at": "2020-11-29 14:12:21.007454 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “C”: como a gestante já está com 18 semanas, não é possível confirmar pelo teste de avidez se a infecção é recente ou antiga, por isso deve-se fazer a investigação da infecção fetal pelo PCR no líquido amniótico.",
+              "sanitized_complete": "Correta a alternativa “C”: como a gestante já está com 18 semanas, não é possível confirmar pelo teste de avidez se a infecção é recente ou antiga, por isso deve-se fazer a investigação da infecção fetal pelo PCR no líquido amniótico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:06:11.177864 +0000 UTC"
+            },
+            "answer_percentage": 16,
+            "answers": 173
+          },
+          {
+            "id": "073c7fa0-1b4e-45c1-a9ed-96cee2a6fa68",
+            "position": "3",
+            "body": "iniciar tratamento com espiramicina.",
+            "sanitized_body": "iniciar tratamento com espiramicina.",
+            "correct": false,
+            "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+            "updated_at": "2020-11-29 14:12:21.089094 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “D”: uma vez que não há como afastar que a infecção tenha ocorrido durante a gestação, devido a sorologia ter sido feita após 16 semanas, deve-se considerar que a infecção é indeterminada, mantendo-se o uso da espiramicina até o parto.",
+              "sanitized_complete": "Correta a alternativa “D”: uma vez que não há como afastar que a infecção tenha ocorrido durante a gestação, devido a sorologia ter sido feita após 16 semanas, deve-se considerar que a infecção é indeterminada, mantendo-se o uso da espiramicina até o parto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:06:11.180272 +0000 UTC"
+            },
+            "answer_percentage": 48,
+            "answers": 526
+          },
+          {
+            "id": "5950c8d4-63a8-42f7-92a1-ae5af7f12367",
+            "position": "4",
+            "body": "solicitar teste de avidez da IgG.",
+            "sanitized_body": "solicitar teste de avidez da IgG.",
+            "correct": true,
+            "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+            "updated_at": "2020-11-29 14:12:21.168387 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “E”: apesar do examinador ter considerado essa alternativa correta, essa alternativa está incorreta, pois como a gestante já se encontra com 18 semanas o teste de avidez não é mais fidedigno, nesses casos deve considerar a gestante com infecção recente, tratar com espiramicina e realizar investigação de infecção fetal.",
+              "sanitized_complete": "Incorreta a alternativa “E”: apesar do examinador ter considerado essa alternativa correta, essa alternativa está incorreta, pois como a gestante já se encontra com 18 semanas o teste de avidez não é mais fidedigno, nesses casos deve considerar a gestante com infecção recente, tratar com espiramicina e realizar investigação de infecção fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:06:11.218521 +0000 UTC"
+            },
+            "answer_percentage": 36,
+            "answers": 393
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Primigesta com 20 anos de idade, 18 semanas de gestação, assintomática, vem para mais uma consulta de pré-natal na Unidade Básica de Saúde trazendo resultado de sorologia para toxoplasmose = IgG reagente e IgM reagente. Desconhece história prévia de toxoplasmose. A conduta imediata indicada nesta situação é:",
+        "statement_text": "Primigesta com 20 anos de idade, 18 semanas de gestação, assintomática, vem para mais uma consulta de pré-natal na Unidade Básica de Saúde trazendo resultado de sorologia para toxoplasmose = IgG reagente e IgM reagente. Desconhece história prévia de toxoplasmose. A conduta imediata indicada nesta situação é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:25:25.54348 +0000 UTC",
+        "forum_id": "4805ab00-ed8e-4809-a345-4f496ccf0e3b",
+        "solution": {
+          "_key": "687850b3-ce5c-469b-8ea0-8923effdcc79",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><b><br></b></div><div><b>O que o examinador quer saber</b>: sobre o diagnóstico e tratamento de toxoplasmose na gestação.&nbsp;&nbsp;</div><div><br></div><div>Durante a gestação o rastreamento de toxoplasmose é feito pela sorologia materna, que segue o organograma abaixo quando a sorologia é feita após 16 semanas.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D952315B-E160-DC5A-FEFB-2DFD643F77D6/D952315B-E160-DC5A-FEFB-2DFD643F77D6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A toxoplasmose materna aguda/recente pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, a conduta frente a um caso de infecção recente é a <b>profilaxia para toxoplasmose congênita</b> com a administração materna de espiramicina na dose de 3g/dia via oral e a <b>pesquisa de infecção fetal</b>. O uso da espiramicina tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal.</div><div><br></div><div>Quando a sorologia  é realizada após 16 semanas, o teste de avidez já não é mais fidedigno, nesses casos deve-se considerar a gestante com infecção recente, tratar com espiramicina e investigar infecção fetal.</div><div><br></div><div>O diagnóstico de toxoplasmose congênita é feito pela pesquisa do DNA do Toxoplasma gondii por PCR em amostra de líquido amniótico, colhido pela aminiocentese. Se a pesquisa de infecção fetal vier negativa, manter espiramicina até o parto. Se a infecção fetal for confirmada, iniciar o tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestação</div><div><br></div><div>Comentários:</div><div><br></div><div>Atenção aluno,  examinador considerou correta a alternativa “E”, mas estão corretas apenas as alternativas “C” e “D”, por isso essa questão deve ser anulada.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA EO que o examinador quer saber: sobre o diagnóstico e tratamento de toxoplasmose na gestação.  Durante a gestação o rastreamento de toxoplasmose é feito pela sorologia materna, que segue o organograma abaixo quando a sorologia é feita após 16 semanas.A toxoplasmose materna aguda/recente pode levar à transmissão vertical, causando toxoplasmose congênita. Por isso, a conduta frente a um caso de infecção recente é a profilaxia para toxoplasmose congênita com a administração materna de espiramicina na dose de 3g/dia via oral e a pesquisa de infecção fetal. O uso da espiramicina tem como objetivo reduzir o risco de passagem transplacentária do parasita, impedindo a infecção fetal.Quando a sorologia  é realizada após 16 semanas, o teste de avidez já não é mais fidedigno, nesses casos deve-se considerar a gestante com infecção recente, tratar com espiramicina e investigar infecção fetal.O diagnóstico de toxoplasmose congênita é feito pela pesquisa do DNA do Toxoplasma gondii por PCR em amostra de líquido amniótico, colhido pela aminiocentese. Se a pesquisa de infecção fetal vier negativa, manter espiramicina até o parto. Se a infecção fetal for confirmada, iniciar o tratamento com sulfadiazina, pirimetamina e ácido folínico até o fim da gestaçãoComentários:Atenção aluno,  examinador considerou correta a alternativa “E”, mas estão corretas apenas as alternativas “C” e “D”, por isso essa questão deve ser anulada.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-24 21:06:11.402906 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127143-720.mp4",
+        "unlisted": false,
+        "slug": "Primigesta-com-20-anos478a72ccbc",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

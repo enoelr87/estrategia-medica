@@ -1,0 +1,3299 @@
+{
+    "data": [
+      {
+        "id": "4000181641",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "53ead9c7-f214-4f8a-bca1-6468dc6e0a2a",
+                "name": "Exame Nacional de Residência Médica EBSERH (ENARE)"
+              },
+              "jury_id": {
+                "id": "d1f0bf84-207d-426c-8a10-14c54e088fbd",
+                "name": "Instituto AOCP - Assessoria em Organização de Concursos Públicos"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "75CC8D80-8AED-7C60-9934-541AD738E6C7"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-07T19:28:02Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "17b5b5ba494c4230b5e1cc164a36d34c",
+            "name": "Vaginose bacteriana",
+            "is_master": false,
+            "master_id": "3f386a54f70649debd1cde9eb678f1e6",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Vaginose bacteriana",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b58eb19e-4ea0-4530-b25b-ff75970df6fa",
+            "position": "0",
+            "body": "V – V – V – F.",
+            "sanitized_body": "V – V – V – F.",
+            "correct": false,
+            "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+            "updated_at": "2022-12-15 20:56:39.715081 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-13 16:04:24.157617 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 269
+          },
+          {
+            "id": "155ceeef-8bfa-4e3e-b5e2-61ff5cdc8c88",
+            "position": "1",
+            "body": "V – F – V – F.",
+            "sanitized_body": "V – F – V – F.",
+            "correct": true,
+            "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+            "updated_at": "2022-12-15 20:56:39.985205 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-13 16:04:24.180722 +0000 UTC"
+            },
+            "answer_percentage": 76,
+            "answers": 1235
+          },
+          {
+            "id": "0ca19323-cd42-430b-8b39-a9e5933ec628",
+            "position": "2",
+            "body": "V – V – F – F.",
+            "sanitized_body": "V – V – F – F.",
+            "correct": false,
+            "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+            "updated_at": "2022-12-15 20:56:40.254723 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-13 16:04:24.16302 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 89
+          },
+          {
+            "id": "a42ccb5e-3b93-4595-afe5-dadda6a24da2",
+            "position": "3",
+            "body": "F – F – F – V.",
+            "sanitized_body": "F – F – F – V.",
+            "correct": false,
+            "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+            "updated_at": "2022-12-15 20:56:40.565779 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-13 16:04:24.188618 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 11
+          },
+          {
+            "id": "afbdfd43-5645-4d4d-9e68-194779c7cf46",
+            "position": "4",
+            "body": "F – F – V – F.",
+            "sanitized_body": "F – F – V – F.",
+            "correct": false,
+            "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+            "updated_at": "2022-12-15 20:56:40.841699 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-13 16:04:24.180799 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 16
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 40 anos apresenta leucorreia de odor fétido. Na citologia oncótica cervical, foi demonstrada a presença de clue-cells. Sobre esse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.<div><br></div><div>(  ) O teste de aminas possivelmente será positivo.</div><div><br></div><div>(  ) O PH vaginal, nesse caso, será menor que 4,5.</div><div><br></div><div>(  ) <i>Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus</i> fazem parte da flora normal, desde que em pequenas quantidades.</div><div><br></div><div>(  ) Nesse caso, é necessário o tratamento do parceiro.</div>",
+        "statement_text": "Uma paciente de 40 anos apresenta leucorreia de odor fétido. Na citologia oncótica cervical, foi demonstrada a presença de clue-cells. Sobre esse assunto, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.(  ) O teste de aminas possivelmente será positivo.(  ) O PH vaginal, nesse caso, será menor que 4,5.(  ) Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus fazem parte da flora normal, desde que em pequenas quantidades.(  ) Nesse caso, é necessário o tratamento do parceiro.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-08 12:03:57.643223 +0000 UTC",
+        "solution": {
+          "_key": "9f40ce8e-a51e-432e-b268-5e898e32ad6a",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>A vaginose bacteriana (VB) é a principal causa de corrimento vaginal de origem infecciosa, sendo responsável por aproximadamente 40% - 50% de todos os casos. O termo “vaginose” descreve a presença de leucorreia sem sinais clínicos de inflamação e nem leucócitos no esfregaço (o que o diferencia de “vaginite”).</div><div><br></div><div>Na VB, ocorre diminuição dos lactobacilos produtores de ácido lático e peróxido de hidrogênio. Consequentemente, há aumento de pH e aumento da concentração de anaeróbios, tais como: Gardnerella vaginalis, Peptostreptococcus, Bacteroides sp., Mobiluncus sp., Fusobacterium, Atopobium vaginae e Mycoplasma hominis. </div><div>A proliferação de anaeróbios é acompanhada de produção de enzimas proteolíticas que liberam aminas (putrescina, cadaverina e trimetilamina). Essas, por sua vez, atuam aumentando a transudação de fluidos vaginais e esfoliação de células epiteliais, resultando no corrimento característico da patologia. As células epiteliais, quando descamam, são chamadas de clue cells ou “células-guia” e são vistas no exame a fresco ou na bacterioscopia corada pelo Gram como células epiteliais de contorno pouco nítido, rodeadas por anaeróbios.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/489FC1EA-9011-E08E-2CFB-07764D09113A/489FC1EA-9011-E08E-2CFB-07764D09113A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><b>( V ) O teste de aminas possivelmente será positivo.</b></div><div>Verdadeiro, pois as bactéria envolvidas com a vaginose liberam aminas voláteis em contato com o KOH.</div><div><br></div><div><b>( F ) O PH vaginal, nesse caso, será menor que 4,5.</b></div><div>Falsa, pois o pH vaginal na vaginose é superior a 4,5</div><div><br></div><div><b>( V ) Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus fazem parte da flora normal, desde que em pequenas quantidades.</b></div><div>Verdadeiro, pois todos esses são agentes anaeróbios envolvidos com a vaginose bacteriana.</div><div><br></div><div><b>(F  ) Nesse caso, é necessário o tratamento do parceiro.</b></div><div>Falsa, pois a vaginose bacteriana não é uma IST.</div><div><br></div><div>Diante do exposto, a alternativa correta é a letra “b”.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BA vaginose bacteriana (VB) é a principal causa de corrimento vaginal de origem infecciosa, sendo responsável por aproximadamente 40% - 50% de todos os casos. O termo “vaginose” descreve a presença de leucorreia sem sinais clínicos de inflamação e nem leucócitos no esfregaço (o que o diferencia de “vaginite”).Na VB, ocorre diminuição dos lactobacilos produtores de ácido lático e peróxido de hidrogênio. Consequentemente, há aumento de pH e aumento da concentração de anaeróbios, tais como: Gardnerella vaginalis, Peptostreptococcus, Bacteroides sp., Mobiluncus sp., Fusobacterium, Atopobium vaginae e Mycoplasma hominis. A proliferação de anaeróbios é acompanhada de produção de enzimas proteolíticas que liberam aminas (putrescina, cadaverina e trimetilamina). Essas, por sua vez, atuam aumentando a transudação de fluidos vaginais e esfoliação de células epiteliais, resultando no corrimento característico da patologia. As células epiteliais, quando descamam, são chamadas de clue cells ou “células-guia” e são vistas no exame a fresco ou na bacterioscopia corada pelo Gram como células epiteliais de contorno pouco nítido, rodeadas por anaeróbios.( V ) O teste de aminas possivelmente será positivo.Verdadeiro, pois as bactéria envolvidas com a vaginose liberam aminas voláteis em contato com o KOH.( F ) O PH vaginal, nesse caso, será menor que 4,5.Falsa, pois o pH vaginal na vaginose é superior a 4,5( V ) Gardnerella vaginalis, Bacterioides, Mobiluncus e Peptococcus fazem parte da flora normal, desde que em pequenas quantidades.Verdadeiro, pois todos esses são agentes anaeróbios envolvidos com a vaginose bacteriana.(F  ) Nesse caso, é necessário o tratamento do parceiro.Falsa, pois a vaginose bacteriana não é uma IST.Diante do exposto, a alternativa correta é a letra “b”.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-13 16:04:24.476953 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181641-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-40-anos8954f08b10",
+        "public": true
+      },
+      {
+        "id": "4000181513",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "15ec4c6b-8ce4-4c9f-a382-638b86d5e002",
+                "name": "PR - Associação Médica do Paraná - AMP"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3DE9560B-7115-66F9-55EA-B5736C28BD7F"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AED27AF6-5B24-0508-5C90-16A0E002C93F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-07T10:22:38Z",
+            "updated_at": "2023-01-17T14:27:46Z",
+            "location": {
+              "id": "19"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "17b5b5ba494c4230b5e1cc164a36d34c",
+            "name": "Vaginose bacteriana",
+            "is_master": false,
+            "master_id": "3f386a54f70649debd1cde9eb678f1e6",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Vaginose bacteriana",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2608f972-77b0-44f1-94d3-b93726da7ee2",
+            "position": "0",
+            "body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "sanitized_body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+            "updated_at": "2022-12-20 19:32:18.603255 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:36:19.805777 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          },
+          {
+            "id": "6e423141-5bc2-4790-8473-57ece749c6d6",
+            "position": "1",
+            "body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "sanitized_body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+            "updated_at": "2022-12-20 19:32:19.17823 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:36:19.816393 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 34
+          },
+          {
+            "id": "032bf861-d374-4842-ab6e-08ae7cefcf0b",
+            "position": "2",
+            "body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "sanitized_body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "correct": true,
+            "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+            "updated_at": "2022-12-20 19:32:19.924573 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:36:19.806395 +0000 UTC"
+            },
+            "answer_percentage": 89,
+            "answers": 768
+          },
+          {
+            "id": "5099cd3b-d896-4c08-a8d6-a3e1b5a2abc3",
+            "position": "3",
+            "body": "As afirmativas I, II e III são verdadeiras.",
+            "sanitized_body": "As afirmativas I, II e III são verdadeiras.",
+            "correct": false,
+            "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+            "updated_at": "2022-12-20 19:32:20.650108 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:36:19.803516 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 39
+          },
+          {
+            "id": "b58b5b35-df3d-43a5-ac02-f60f9c65cd0b",
+            "position": "4",
+            "body": "As afirmativas I, II e III são falsas.",
+            "sanitized_body": "As afirmativas I, II e III são falsas.",
+            "correct": false,
+            "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+            "updated_at": "2022-12-20 19:32:21.034128 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:36:19.805253 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 17
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A vaginose bacteriana ou vaginite por Gardnerella, trata-se de uma alteração da flora bacteriana vaginal normal que resulta na perda de lactobacilos produtores de peróxido de hidrogênio e em supercrescimento de bactérias predominantemente anaeróbicas. Sobre o diagnóstico da vaginose bacteriana, analise as alternativas abaixo.<div><br></div><div>I - O pH das secreções vaginais é menor que 4,5 (em geral 2,7 a 3,7).</div><div><br></div><div>II - As secreções vaginais são cinza e revestem finamente as paredes vaginais.</div><div><br></div><div>III - A adição de KOH às secreções vaginais libera um odor de peixe semelhante ao de amina. </div><div><br></div><div>Sobre esta situação selecione a opção correta.</div>",
+        "statement_text": "A vaginose bacteriana ou vaginite por Gardnerella, trata-se de uma alteração da flora bacteriana vaginal normal que resulta na perda de lactobacilos produtores de peróxido de hidrogênio e em supercrescimento de bactérias predominantemente anaeróbicas. Sobre o diagnóstico da vaginose bacteriana, analise as alternativas abaixo.I - O pH das secreções vaginais é menor que 4,5 (em geral 2,7 a 3,7).II - As secreções vaginais são cinza e revestem finamente as paredes vaginais.III - A adição de KOH às secreções vaginais libera um odor de peixe semelhante ao de amina. Sobre esta situação selecione a opção correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-07 13:35:38.162076 +0000 UTC",
+        "solution": {
+          "_key": "cd4a34ad-c1d5-4cde-a57b-f7c69f0ae167",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>A vaginose bacteriana (VB) é a principal causa de corrimento vaginal de origem infecciosa, sendo responsável por aproximadamente 40% - 50% de todos os casos. O termo “vaginose” descreve a presença de leucorréia sem sinais clínicos de inflamação e nem leucócitos no esfregaço (o que o diferencia de “vaginite”).</div><div><br></div><div>Na VB, ocorre diminuição dos lactobacilos produtores de ácido lático e peróxido de hidrogênio. Consequentemente, há aumento de pH e aumento da concentração de anaeróbios, tais como: Gardnerella vaginalis, Peptostreptococcus, Bacteroides sp., Mobiluncus sp., Fusobacterium, Atopobium vaginae e Mycoplasma hominis. </div><div>A proliferação de anaeróbios é acompanhada de produção de enzimas proteolíticas que liberam aminas (putrescina, cadaverina e trimetilamina). Essas, por sua vez, atuam aumentando a transudação de fluidos vaginais e esfoliação de células epiteliais, resultando no corrimento característico da patologia. As células epiteliais, quando descamam, são chamadas de clue cells ou “células-guia” e são vistas no exame a fresco ou na bacterioscopia corada pelo Gram como células epiteliais de contorno pouco nítido, rodeadas por anaeróbios.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/06FEFF9C-30C5-94EA-FBBB-CB90DD73ECD0/06FEFF9C-30C5-94EA-FBBB-CB90DD73ECD0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>I - O pH das secreções vaginais é menor que 4,5 (em geral 2,7 a 3,7).</div><div>Incorreta, pois o pH costuma ser superior a 4,5.</div><div><br></div><div>II - As secreções vaginais são cinza e revestem finamente as paredes vaginais.</div><div>Correta, pois o corrimento da vaginose é branco ou branco acinzentado, homogêneo e fluido.</div><div><br></div><div>III - A adição de KOH às secreções vaginais libera um odor de peixe semelhante ao de amina. </div><div>Correta, pois o teste das aminas é positivo na vaginose bacteriana.</div><div><br></div><div><b>A alternativa correta é a letra “c”.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CA vaginose bacteriana (VB) é a principal causa de corrimento vaginal de origem infecciosa, sendo responsável por aproximadamente 40% - 50% de todos os casos. O termo “vaginose” descreve a presença de leucorréia sem sinais clínicos de inflamação e nem leucócitos no esfregaço (o que o diferencia de “vaginite”).Na VB, ocorre diminuição dos lactobacilos produtores de ácido lático e peróxido de hidrogênio. Consequentemente, há aumento de pH e aumento da concentração de anaeróbios, tais como: Gardnerella vaginalis, Peptostreptococcus, Bacteroides sp., Mobiluncus sp., Fusobacterium, Atopobium vaginae e Mycoplasma hominis. A proliferação de anaeróbios é acompanhada de produção de enzimas proteolíticas que liberam aminas (putrescina, cadaverina e trimetilamina). Essas, por sua vez, atuam aumentando a transudação de fluidos vaginais e esfoliação de células epiteliais, resultando no corrimento característico da patologia. As células epiteliais, quando descamam, são chamadas de clue cells ou “células-guia” e são vistas no exame a fresco ou na bacterioscopia corada pelo Gram como células epiteliais de contorno pouco nítido, rodeadas por anaeróbios.I - O pH das secreções vaginais é menor que 4,5 (em geral 2,7 a 3,7).Incorreta, pois o pH costuma ser superior a 4,5.II - As secreções vaginais são cinza e revestem finamente as paredes vaginais.Correta, pois o corrimento da vaginose é branco ou branco acinzentado, homogêneo e fluido.III - A adição de KOH às secreções vaginais libera um odor de peixe semelhante ao de amina. Correta, pois o teste das aminas é positivo na vaginose bacteriana.A alternativa correta é a letra “c”.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 12:36:20.148198 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181513-720.mp4",
+        "unlisted": false,
+        "slug": "vaginose-bacteriana-ou9493c1f717",
+        "public": true
+      },
+      {
+        "id": "4000181512",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "15ec4c6b-8ce4-4c9f-a382-638b86d5e002",
+                "name": "PR - Associação Médica do Paraná - AMP"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3DE9560B-7115-66F9-55EA-B5736C28BD7F"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AED27AF6-5B24-0508-5C90-16A0E002C93F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-07T10:22:38Z",
+            "updated_at": "2023-01-17T14:27:46Z",
+            "location": {
+              "id": "19"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3e2fa56d3b674b83a770702981c98799",
+            "name": "Falência ovariana prematura",
+            "is_master": false,
+            "master_id": "dd328a0e1ead4cc8a84a8a850329ade3",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Amenorreias[$$]Amenorreia secundária[$$]Amenorreia secundária de causa ovariana[$$]Falência ovariana prematura",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "70cc96789abc46ed99a3525dc9e8c6cc",
+            "name": "Climatério",
+            "is_master": false,
+            "master_id": "3d6917dc03884555af95c98723dd77e1",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Climatério",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6d257e19-8170-4018-8300-a8e4bbe2e41e",
+            "position": "0",
+            "body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "sanitized_body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "correct": true,
+            "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+            "updated_at": "2022-12-20 19:33:09.390782 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:37:29.10742 +0000 UTC"
+            },
+            "answer_percentage": 71,
+            "answers": 632
+          },
+          {
+            "id": "dddf3e4b-7caf-4537-b402-74617bb3eb8d",
+            "position": "1",
+            "body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "sanitized_body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+            "updated_at": "2022-12-20 19:33:10.128922 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:37:29.108276 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 27
+          },
+          {
+            "id": "05594350-3eb7-46ed-befd-16ad38de2c18",
+            "position": "2",
+            "body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "sanitized_body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+            "updated_at": "2022-12-20 19:33:10.582916 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:37:29.095574 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 56
+          },
+          {
+            "id": "502681f3-c5b8-45d3-8861-8df4cba7bc4a",
+            "position": "3",
+            "body": "As afirmativas I, II e III são verdadeiras.",
+            "sanitized_body": "As afirmativas I, II e III são verdadeiras.",
+            "correct": false,
+            "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+            "updated_at": "2022-12-20 19:33:11.17921 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:37:29.102329 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 163
+          },
+          {
+            "id": "e2db2e54-d79f-47ab-8917-a302596673c2",
+            "position": "4",
+            "body": "As afirmativas I, II e III são falsas.",
+            "sanitized_body": "As afirmativas I, II e III são falsas.",
+            "correct": false,
+            "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+            "updated_at": "2022-12-20 19:33:11.546174 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:37:29.116714 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A idade da menopausa parece ser determinada geneticamente. Sobre a menopausa, analise as afirmativas abaixo.<div><br></div><div>I - Fatores tóxicos para o ovário costumam resultar em menopausa precoce.</div><div><br></div><div>II - A insuficiência ovariana prematura é definida como menopausa antes dos 40 anos de idade.</div><div><br></div><div>III - Por estar associada a alterações dos hormônios hipotalâmicos e hipofisários, é considerada um evento central. </div><div><br></div><div>Sobre esta situação selecione a opção correta.</div>",
+        "statement_text": "A idade da menopausa parece ser determinada geneticamente. Sobre a menopausa, analise as afirmativas abaixo.I - Fatores tóxicos para o ovário costumam resultar em menopausa precoce.II - A insuficiência ovariana prematura é definida como menopausa antes dos 40 anos de idade.III - Por estar associada a alterações dos hormônios hipotalâmicos e hipofisários, é considerada um evento central. Sobre esta situação selecione a opção correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-07 13:34:49.26109 +0000 UTC",
+        "solution": {
+          "_key": "461b2ca3-f7f5-48d9-8005-3ef200fd0184",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Define-se insuficiência ovariana prematura (IOP) como perda de oócitos antes dos 40 anos de idade. Essa definição é justamente para distinguir a IOP da perda fisiológica da função ovariana, que ocorre na menopausa normal. Antigamente, esse processo também era conhecido como menopausa precoce, mas é um termo que não deve ser mais utilizado, já que IOP reflete melhor a fisiopatologia da condição.</div><div><br></div><div>O diagnóstico é feito por duas dosagens de FSH acima de 25 mUI/mL, obtidas com o intervalo mínimo de um mês.</div><div><br></div><div>I - Fatores tóxicos para o ovário costumam resultar em menopausa precoce.</div><div>Correta, pois tratamentos tóxicos, como quimioterapia e radioterapia podem levar à menopausa precoce.</div><div><br></div><div>II - A insuficiência ovariana prematura é definida como menopausa antes dos 40 anos de idade.</div><div>Correta, pois essa é a definição como foi explicado na introdução.</div><div><br></div><div>III - Por estar associada a alterações dos hormônios hipotalâmicos e hipofisários, é considerada um evento central. </div><div>Incorreta, pois o ponto-chave para a menopausa é a perda dos folículos ovarianos que leva à diminuição de produção de hormônios ovarianos, que causa as alterações em nível central.</div><div><br></div><div><b>Alternativa correta: letra “a”.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ADefine-se insuficiência ovariana prematura (IOP) como perda de oócitos antes dos 40 anos de idade. Essa definição é justamente para distinguir a IOP da perda fisiológica da função ovariana, que ocorre na menopausa normal. Antigamente, esse processo também era conhecido como menopausa precoce, mas é um termo que não deve ser mais utilizado, já que IOP reflete melhor a fisiopatologia da condição.O diagnóstico é feito por duas dosagens de FSH acima de 25 mUI/mL, obtidas com o intervalo mínimo de um mês.I - Fatores tóxicos para o ovário costumam resultar em menopausa precoce.Correta, pois tratamentos tóxicos, como quimioterapia e radioterapia podem levar à menopausa precoce.II - A insuficiência ovariana prematura é definida como menopausa antes dos 40 anos de idade.Correta, pois essa é a definição como foi explicado na introdução.III - Por estar associada a alterações dos hormônios hipotalâmicos e hipofisários, é considerada um evento central. Incorreta, pois o ponto-chave para a menopausa é a perda dos folículos ovarianos que leva à diminuição de produção de hormônios ovarianos, que causa as alterações em nível central.Alternativa correta: letra “a”.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 12:37:29.437786 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181512-720.mp4",
+        "unlisted": false,
+        "slug": "idade-menopausa-parece634f93e6f2",
+        "public": true
+      },
+      {
+        "id": "4000181501",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "15ec4c6b-8ce4-4c9f-a382-638b86d5e002",
+                "name": "PR - Associação Médica do Paraná - AMP"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3DE9560B-7115-66F9-55EA-B5736C28BD7F"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AED27AF6-5B24-0508-5C90-16A0E002C93F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-07T10:22:38Z",
+            "updated_at": "2023-01-17T14:27:46Z",
+            "location": {
+              "id": "19"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3f386a54f70649debd1cde9eb678f1e6",
+            "name": "Vulvovaginites",
+            "is_master": false,
+            "master_id": "1f93919e125c4b9cae086f0269f3d938",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f41a13ee76c342348539b964c90de1f1",
+            "name": "Cervicites",
+            "is_master": false,
+            "master_id": "1f93919e125c4b9cae086f0269f3d938",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Cervicites",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c97829d5-380d-4dfb-ac4b-1b378b469b22",
+            "position": "0",
+            "body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "sanitized_body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+            "updated_at": "2023-01-19 01:02:07.186603 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:55:05.850206 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 10
+          },
+          {
+            "id": "69f75bca-7151-4ce5-b1d4-0d2b036815c2",
+            "position": "1",
+            "body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "sanitized_body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "correct": true,
+            "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+            "updated_at": "2023-01-19 01:02:07.516491 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:55:05.852378 +0000 UTC"
+            },
+            "answer_percentage": 77,
+            "answers": 668
+          },
+          {
+            "id": "40b72238-856c-4e07-bb03-4353b522d954",
+            "position": "2",
+            "body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "sanitized_body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+            "updated_at": "2023-01-19 01:02:07.859964 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:55:05.858497 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 57
+          },
+          {
+            "id": "39430715-d0ce-4df1-85b7-b03e627c0be7",
+            "position": "3",
+            "body": "As afirmativas I, II e III são verdadeiras.",
+            "sanitized_body": "As afirmativas I, II e III são verdadeiras.",
+            "correct": false,
+            "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+            "updated_at": "2023-01-19 01:02:08.22865 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:55:05.843863 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 62
+          },
+          {
+            "id": "6e5ced58-0329-4551-8c83-143e9d2bde17",
+            "position": "4",
+            "body": "As afirmativas I, II e III são falsas.",
+            "sanitized_body": "As afirmativas I, II e III são falsas.",
+            "correct": false,
+            "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+            "updated_at": "2023-01-19 01:02:08.664192 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:55:05.862797 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 69
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente relata que um homem com quem teve intercurso sexual há 5 semanas disse-lhe que 4 dias após apresentou pus em uretra. Ele procurou atendimento médico e foi dado o diagnóstico e tratado de gonorreia. Também teve relação sexual há 15 dias com outro homem, na mesma situação. Nega qualquer sintoma no momento e utiliza acetato de medroxiprogesterona 150 mg como método contraceptivo há 2 anos.<div><br></div><div>Ao toque simples e combinado nenhuma alteração foi observada. No exame especular vizualizado conteúdo vaginal esbranquiçado, homogêneo e teste de Whiff positivo. Após limpeza da cavidade vaginal com ácido acético 2% não se observou nenhuma secreção provinda de canal cervical. Sobre o presente caso analise as alternativas abaixo.</div><div><br></div><div>I – Prescrever já no atendimento ceftriaxona 250 mg IM e azitromicina 1 grama via oral em dose única.</div><div><br></div><div>II. – Tratar a vaginose bacteriana com acidificação vaginal com comprimidos vaginais de vitamina C.</div><div><br></div><div>III. – Sugerir a realização de exames laboratoriais como, VDRL, teste ELISA para HIV, sorologia para hepatite B e C. </div><div><br></div><div>Sobre esta situação selecione a opção correta.</div>",
+        "statement_text": "Paciente relata que um homem com quem teve intercurso sexual há 5 semanas disse-lhe que 4 dias após apresentou pus em uretra. Ele procurou atendimento médico e foi dado o diagnóstico e tratado de gonorreia. Também teve relação sexual há 15 dias com outro homem, na mesma situação. Nega qualquer sintoma no momento e utiliza acetato de medroxiprogesterona 150 mg como método contraceptivo há 2 anos.Ao toque simples e combinado nenhuma alteração foi observada. No exame especular vizualizado conteúdo vaginal esbranquiçado, homogêneo e teste de Whiff positivo. Após limpeza da cavidade vaginal com ácido acético 2% não se observou nenhuma secreção provinda de canal cervical. Sobre o presente caso analise as alternativas abaixo.I – Prescrever já no atendimento ceftriaxona 250 mg IM e azitromicina 1 grama via oral em dose única.II. – Tratar a vaginose bacteriana com acidificação vaginal com comprimidos vaginais de vitamina C.III. – Sugerir a realização de exames laboratoriais como, VDRL, teste ELISA para HIV, sorologia para hepatite B e C. Sobre esta situação selecione a opção correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-07 13:19:41.324415 +0000 UTC",
+        "forum_id": "444d41b8-c61b-4f21-97d4-578c8aed83e9",
+        "solution": {
+          "_key": "8a06ad92-f9ec-41dc-bb69-df510a75b8e6",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>I - Prescrever já no atendimento ceftriaxona 250mg IM e azitromicina 1 grama via oral em dose única.</div><div><span>Trata-se de uma incorreta, pois apesar de haver indicação de tratamento empírico para a cervicite da paciente, a dosagem adequada é de ceftriaxone 500mg IM.</span><br></div><div><br></div><div>II. – Tratar a vaginose bacteriana com acidificação vaginal com comprimidos vaginais de vitamina C.</div><div><span>Trata-se de uma afirmativa incorreta, pois o tratamento preconizado para vaginose é com metronidazol.</span><br></div><div><br></div><div>III. – Sugerir a realização de exames laboratoriais como, VDRL, teste ELISA para HIV, sorologia para hepatite B e C. </div><div><span>Trata-se de uma afirmativa correta, pois a paciente tem uma provável IST e deve ser rastreada para outras.</span><br></div><div><br></div><div><b>Discordamos do gabarito oficial que traz a alternativa “d” como resposta e consideramos que apenas a afirmativa III é verdadeira.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DI - Prescrever já no atendimento ceftriaxona 250mg IM e azitromicina 1 grama via oral em dose única.Trata-se de uma incorreta, pois apesar de haver indicação de tratamento empírico para a cervicite da paciente, a dosagem adequada é de ceftriaxone 500mg IM.II. – Tratar a vaginose bacteriana com acidificação vaginal com comprimidos vaginais de vitamina C.Trata-se de uma afirmativa incorreta, pois o tratamento preconizado para vaginose é com metronidazol.III. – Sugerir a realização de exames laboratoriais como, VDRL, teste ELISA para HIV, sorologia para hepatite B e C. Trata-se de uma afirmativa correta, pois a paciente tem uma provável IST e deve ser rastreada para outras.Discordamos do gabarito oficial que traz a alternativa “d” como resposta e consideramos que apenas a afirmativa III é verdadeira.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 12:55:06.198773 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181501-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-relata-que1704d568846",
+        "public": true
+      },
+      {
+        "id": "4000181500",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "15ec4c6b-8ce4-4c9f-a382-638b86d5e002",
+                "name": "PR - Associação Médica do Paraná - AMP"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3DE9560B-7115-66F9-55EA-B5736C28BD7F"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AED27AF6-5B24-0508-5C90-16A0E002C93F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-07T10:22:38Z",
+            "updated_at": "2023-01-17T14:27:46Z",
+            "location": {
+              "id": "19"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "92c322799ad4429480563ce403b617fc",
+            "name": "Amenorreias",
+            "is_master": false,
+            "master_id": "3d6917dc03884555af95c98723dd77e1",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Amenorreias",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "97069a0a-dd07-4252-8309-b22cc4d696b9",
+            "position": "0",
+            "body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "sanitized_body": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+            "updated_at": "2022-11-25 22:25:04.873862 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:56:01.765483 +0000 UTC"
+            },
+            "answer_percentage": 43,
+            "answers": 257
+          },
+          {
+            "id": "ed2ebb9d-c297-44c4-8a22-f48e55081acb",
+            "position": "1",
+            "body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "sanitized_body": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+            "correct": true,
+            "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+            "updated_at": "2022-11-25 22:25:05.176463 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:56:01.767722 +0000 UTC"
+            },
+            "answer_percentage": 35,
+            "answers": 211
+          },
+          {
+            "id": "5a125b35-c967-4c41-9740-3969ad0a3629",
+            "position": "2",
+            "body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "sanitized_body": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+            "correct": false,
+            "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+            "updated_at": "2022-11-25 22:25:05.474233 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:56:01.777413 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 35
+          },
+          {
+            "id": "78a65d33-bf6f-4f57-87e7-058d821d5b15",
+            "position": "3",
+            "body": "As afirmativas I, II e III são verdadeiras.",
+            "sanitized_body": "As afirmativas I, II e III são verdadeiras.",
+            "correct": false,
+            "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+            "updated_at": "2022-11-25 22:25:05.776299 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:56:01.76562 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 46
+          },
+          {
+            "id": "3c690408-78cb-454d-a6a0-b29b49628e60",
+            "position": "4",
+            "body": "As afirmativas I, II e III são falsas.",
+            "sanitized_body": "As afirmativas I, II e III são falsas.",
+            "correct": false,
+            "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+            "updated_at": "2022-11-25 22:25:06.074256 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:56:01.76759 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 51
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Sobre os testes de Progesterona e Estrogênio na investigação da amenorreia, analise as alternativas abaixo.<div><br></div><div>I - O teste de progesterona só é positivo se o endométrio foi previamente proliferado pelo estrogênio</div><div><br></div><div>II - No septo vaginal longitudinal o teste de progesterona é negativo</div><div><br></div><div>III - Na disgenesia gonadal total XO o teste de progesterona poderá ser positivo</div><div><br></div><div>Sobre esta situação selecione a opção correta.</div>",
+        "statement_text": "Sobre os testes de Progesterona e Estrogênio na investigação da amenorreia, analise as alternativas abaixo.I - O teste de progesterona só é positivo se o endométrio foi previamente proliferado pelo estrogênioII - No septo vaginal longitudinal o teste de progesterona é negativoIII - Na disgenesia gonadal total XO o teste de progesterona poderá ser positivoSobre esta situação selecione a opção correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-07 13:17:44.45763 +0000 UTC",
+        "forum_id": "0c1916b4-0400-4cef-8f52-1bc335071569",
+        "solution": {
+          "_key": "66683ac7-c417-4ac1-a9fe-32f3426782c6",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>I - O teste de progesterona só é positivo se o endométrio foi previamente proliferado pelo estrogênio</div><div><span>Trata-se de uma afirmativa correta, pois para o teste da progesterona ser positivo é necessário que haja produção estrogênica para proliferar o endométrio.</span><br></div><div><br></div><div>II - No septo vaginal longitudinal o teste de progesterona é negativo</div><div>Trata-se de uma afirmativa incorreta, pois no septo vaginal longitudinal não há um bloqueio completo a passagem do sangue como nos septos transversos e, portanto, o teste da progesterona é positivo.</div><div><br></div><div>III - Na disgenesia gonadal total XO o teste de progesterona poderá ser positivo</div><div>Trata-se de uma afirmativa correta, pois uma disgenesia gonadal 45,X é uma síndrome de Turner. Em 90% dos casos em que há perda de material genético do cromossomo X, seja completa ou parcial, não ocorre menstruação. Nos 10% restantes há folículos remanescentes para menstruar.</div><div><br></div><div><b>Diante do exposto, a alternativa “b” está correta.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BI - O teste de progesterona só é positivo se o endométrio foi previamente proliferado pelo estrogênioTrata-se de uma afirmativa correta, pois para o teste da progesterona ser positivo é necessário que haja produção estrogênica para proliferar o endométrio.II - No septo vaginal longitudinal o teste de progesterona é negativoTrata-se de uma afirmativa incorreta, pois no septo vaginal longitudinal não há um bloqueio completo a passagem do sangue como nos septos transversos e, portanto, o teste da progesterona é positivo.III - Na disgenesia gonadal total XO o teste de progesterona poderá ser positivoTrata-se de uma afirmativa correta, pois uma disgenesia gonadal 45,X é uma síndrome de Turner. Em 90% dos casos em que há perda de material genético do cromossomo X, seja completa ou parcial, não ocorre menstruação. Nos 10% restantes há folículos remanescentes para menstruar.Diante do exposto, a alternativa “b” está correta.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 12:56:02.11215 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181500-720.mp4",
+        "unlisted": false,
+        "slug": "testes-Progesterona61ea95ee46",
+        "public": true
+      },
+      {
+        "id": "4000181422",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "AA2F1507-1A89-4C78-0873-F2F8950E09AC"
+              },
+              {
+                "type": "ANSWER",
+                "url": "2CDA79F6-44D6-DEE5-7EA3-F73745113C5B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-11-03T13:22:12Z",
+            "updated_at": "2022-11-16T13:46:57Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+            "name": "Planejamento familiar",
+            "is_master": false,
+            "master_id": "3d6917dc03884555af95c98723dd77e1",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "79df24f4-4c0a-4424-9d77-0eaaa063ed97",
+            "position": "0",
+            "body": "Anel vaginal.",
+            "sanitized_body": "Anel vaginal.",
+            "correct": false,
+            "created_at": "2022-11-03 19:27:28.712796 +0000 UTC",
+            "updated_at": "2022-12-23 10:58:06.615478 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A, porque o anel vaginal é um anticoncepcional combinado (etonogestrel + etinilestradiol), sendo contraindicado para esta paciente.",
+              "sanitized_complete": "Incorreta a alternativa A, porque o anel vaginal é um anticoncepcional combinado (etonogestrel + etinilestradiol), sendo contraindicado para esta paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-23 11:00:22.56412 +0000 UTC",
+              "updated_at": "2022-12-23 11:03:58.927542 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 66
+          },
+          {
+            "id": "158edaf0-fd5e-4163-b37a-4d893acd8b5d",
+            "position": "1",
+            "body": "Injetável mensal.",
+            "sanitized_body": "Injetável mensal.",
+            "correct": false,
+            "created_at": "2022-11-03 19:27:28.712796 +0000 UTC",
+            "updated_at": "2022-12-23 10:58:06.911309 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque o injetável mensal também é um anticoncepcional hormonal combinado, sendo contraindicado para esta paciente.",
+              "sanitized_complete": "Incorreta a alternativa B, porque o injetável mensal também é um anticoncepcional hormonal combinado, sendo contraindicado para esta paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-23 11:00:22.532002 +0000 UTC",
+              "updated_at": "2022-12-23 11:03:58.927585 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 83
+          },
+          {
+            "id": "cc9dd2b5-8537-44c4-94a7-64bb8a06aecd",
+            "position": "2",
+            "body": "Injetável trimestral.",
+            "sanitized_body": "Injetável trimestral.",
+            "correct": true,
+            "created_at": "2022-11-03 19:27:28.712796 +0000 UTC",
+            "updated_at": "2022-12-23 10:58:07.261935 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa C: esta paciente pode receber o injetável trimestral (acetato de medroxiprogesterona), já que o histórico de TVP prévio não é uma contraindicação para os progestágenos exclusivos e a paciente refere que não consegue lembrar de usar uma medicação diariamente.",
+              "sanitized_complete": "Correta a alternativa C: esta paciente pode receber o injetável trimestral (acetato de medroxiprogesterona), já que o histórico de TVP prévio não é uma contraindicação para os progestágenos exclusivos e a paciente refere que não consegue lembrar de usar uma medicação diariamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-23 11:00:22.549918 +0000 UTC",
+              "updated_at": "2022-12-23 11:03:58.929021 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 889
+          },
+          {
+            "id": "13a59fb8-2790-45b1-ba3a-d5538e76f930",
+            "position": "3",
+            "body": "Desogestrel 75 mcg.",
+            "sanitized_body": "Desogestrel 75 mcg.",
+            "correct": false,
+            "created_at": "2022-11-03 19:27:28.712796 +0000 UTC",
+            "updated_at": "2022-12-23 10:58:07.580929 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque apesar de não haver contraindicação para o desogestrel (progestágeno exclusivo), a paciente refere que não consegue lembrar de usar medicação diariamente.",
+              "sanitized_complete": "Incorreta a alternativa D, porque apesar de não haver contraindicação para o desogestrel (progestágeno exclusivo), a paciente refere que não consegue lembrar de usar medicação diariamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-23 11:00:22.515542 +0000 UTC",
+              "updated_at": "2022-12-23 11:03:58.929827 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 146
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mônica, 37 anos, G1P1(vaginal há 1 ano), IMC 35, com episódio de TVP na gestação. Comparece a UBS para orientação contraceptiva. Relata que não consegue lembrar de usar medicação diariamente. Qual método mais indicado?",
+        "statement_text": "Mônica, 37 anos, G1P1(vaginal há 1 ano), IMC 35, com episódio de TVP na gestação. Comparece a UBS para orientação contraceptiva. Relata que não consegue lembrar de usar medicação diariamente. Qual método mais indicado?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-11-03 19:27:28.712796 +0000 UTC",
+        "solution": {
+          "_key": "8aa02470-9b42-4b38-ae0e-3b2fb231832d",
+          "complete": "Estrategista, esta é uma paciente com história de TVP prévia, e por isto, tem uma contraindicação para o uso de anticoncepcional hormonal combinado. Veja a tabela abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/74166D41-3985-2005-08F2-2C0546E5A74F/74166D41-3985-2005-08F2-2C0546E5A74F-400.png\"><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AA5848F0-CC71-9D5F-09B3-6A1ED76D2186/AA5848F0-CC71-9D5F-09B3-6A1ED76D2186-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, esta é uma paciente com história de TVP prévia, e por isto, tem uma contraindicação para o uso de anticoncepcional hormonal combinado. Veja a tabela abaixo:Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-23 11:00:22.813285 +0000 UTC",
+          "updated_at": "2022-12-23 11:03:59.084044 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181422-720.mp4",
+        "unlisted": false,
+        "slug": "Monica-37-anos-G1P134438f16fe",
+        "public": true
+      },
+      {
+        "id": "4000181277",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "5d212410-93d4-4d82-bb58-3c20232ece32",
+                "name": "SP - Hospital Oftalmológico de Sorocaba - HOS"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "37EF7409-658E-BA70-6B32-4D8A59FDEC20"
+              },
+              {
+                "type": "ANSWER",
+                "url": "801B40C4-BDDD-0BDD-4867-8DB56C2501BF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:59:46Z",
+            "location": {
+              "id": "5317"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "25b376f58f9f4264b5bc21a1634779b2",
+            "name": "Tricomoníase",
+            "is_master": false,
+            "master_id": "3f386a54f70649debd1cde9eb678f1e6",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Vulvovaginites[$$]Tricomoníase",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "10f0fb05-a53f-4425-b9b7-c4f4b7434b13",
+            "position": "0",
+            "body": "Vaginose bacteriana; Metronidazol.",
+            "sanitized_body": "Vaginose bacteriana; Metronidazol.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+            "updated_at": "2022-12-15 22:02:16.256755 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta, pois a vaginose bacteriana não acomete o colo uterino.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa “a” incorreta, pois a vaginose bacteriana não acomete o colo uterino.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:28:06.595487 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 17
+          },
+          {
+            "id": "acd35582-5e02-4994-9485-75893f9efabe",
+            "position": "1",
+            "body": "Infecção por clamídia; Azitromicina.",
+            "sanitized_body": "Infecção por clamídia; Azitromicina.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+            "updated_at": "2022-12-15 22:02:16.519993 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta, pois a infecção por Clamídia costuma ser oligossintomática, apenas com colo friável e com conteúdo mucóide.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa “b” incorreta, pois a infecção por Clamídia costuma ser oligossintomática, apenas com colo friável e com conteúdo mucóide.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:28:06.604971 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 15
+          },
+          {
+            "id": "ed5ca6ab-7b25-4af7-ba8e-e630fc0859fe",
+            "position": "2",
+            "body": "Infecção por gonococo; Ciprofloxacino.",
+            "sanitized_body": "Infecção por gonococo; Ciprofloxacino.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+            "updated_at": "2022-12-15 22:02:16.790314 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta, pois a infecção por gonococo apresenta um quadro de cervicite mucopurulenta, com sangramento e colo friável, porém sem petéquias no colo. Além disso, a ciprofloxacina não é mais empregada no tratamento devido à resistência bacteriana.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa “c” incorreta, pois a infecção por gonococo apresenta um quadro de cervicite mucopurulenta, com sangramento e colo friável, porém sem petéquias no colo. Além disso, a ciprofloxacina não é mais empregada no tratamento devido à resistência bacteriana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:28:06.597527 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 9
+          },
+          {
+            "id": "b37c0a16-9c87-4200-bbe2-ddd939d746a5",
+            "position": "3",
+            "body": "Tricomoníase; Metronidazol.",
+            "sanitized_body": "Tricomoníase; Metronidazol.",
+            "correct": true,
+            "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+            "updated_at": "2022-12-15 22:02:17.05722 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” correta, pois conforme explicado na introdução, o quadro é sugestivo de tricomoníase e o tratamento com metronidazol por via oral é a primeira escolha.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa “d” correta, pois conforme explicado na introdução, o quadro é sugestivo de tricomoníase e o tratamento com metronidazol por via oral é a primeira escolha.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:28:06.602449 +0000 UTC"
+            },
+            "answer_percentage": 95,
+            "answers": 852
+          },
+          {
+            "id": "a155b045-43ff-4789-9d84-3f9f7e78d642",
+            "position": "4",
+            "body": "Candidíase; Nistatina.",
+            "sanitized_body": "Candidíase; Nistatina.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+            "updated_at": "2022-12-15 22:02:17.323316 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” incorreta, pois a candidíase não leva ao acometimento do colo uterino.",
+              "sanitized_complete": "Alternativa “e” incorreta, pois a candidíase não leva ao acometimento do colo uterino.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:28:06.603169 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "R.B.M., 23 anos, vem à consulta ginecológica com queixa de secreção vaginal de odor forte. Ao exame especular: conteúdo abundante, amarelo esverdeado e bolhoso. Colo uterino em aspecto de “morango”. Assinale o diagnóstico mais provável e o tratamento adequado.",
+        "statement_text": "R.B.M., 23 anos, vem à consulta ginecológica com queixa de secreção vaginal de odor forte. Ao exame especular: conteúdo abundante, amarelo esverdeado e bolhoso. Colo uterino em aspecto de “morango”. Assinale o diagnóstico mais provável e o tratamento adequado.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-30 01:06:13.743144 +0000 UTC",
+        "solution": {
+          "_key": "35b725b1-6026-4550-b618-dbadc3fa0a09",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>A tricomoníase é a infecção sexualmente transmissível (IST) de etiologia não viral mais comum no mundo e é a terceira maior causa de vulvovaginite em mulheres no menacme. Seu agente etiológico é o protozoário flagelado anaeróbio Trichomonas vaginalis. Os seres humanos são o único hospedeiro natural desse microrganismo.</div><div><br></div><div>Cerca de 50% - 85% das mulheres são assintomáticas. Quando sintomáticas, a queixa mais comum é de corrimento amarelo-esverdeado, fluido, abundante, bolhoso, podendo ter odor desagradável (quando ocorre coinfecção com vaginose bacteriana, pois os tricomonas fagocitam os lactobacilos, alcalinizando o meio vaginal e aumentando os anaeróbios). Devido à intensa reação inflamatória, ocorre ardor, prurido, dispareunia e disúria. Esses sintomas são cíclicos e acentuam-se durante o período menstrual.</div><div><br></div><div>Ao exame físico, podem ser observados eritema e edema de vulva, com ou sem escoriações. Ao exame especular podem ser visíveis hemorragias pontuais no colo uterino e na vagina em 2% dos casos, o famoso “colo em framboesa/em morango”, que, após a aplicação da solução de lugol, traduz-se como Schiller malhado ou “colo tigróide\".</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/47EBEDAC-6E37-6EB3-4EAB-981288040C99/47EBEDAC-6E37-6EB3-4EAB-981288040C99-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DA tricomoníase é a infecção sexualmente transmissível (IST) de etiologia não viral mais comum no mundo e é a terceira maior causa de vulvovaginite em mulheres no menacme. Seu agente etiológico é o protozoário flagelado anaeróbio Trichomonas vaginalis. Os seres humanos são o único hospedeiro natural desse microrganismo.Cerca de 50% - 85% das mulheres são assintomáticas. Quando sintomáticas, a queixa mais comum é de corrimento amarelo-esverdeado, fluido, abundante, bolhoso, podendo ter odor desagradável (quando ocorre coinfecção com vaginose bacteriana, pois os tricomonas fagocitam os lactobacilos, alcalinizando o meio vaginal e aumentando os anaeróbios). Devido à intensa reação inflamatória, ocorre ardor, prurido, dispareunia e disúria. Esses sintomas são cíclicos e acentuam-se durante o período menstrual.Ao exame físico, podem ser observados eritema e edema de vulva, com ou sem escoriações. Ao exame especular podem ser visíveis hemorragias pontuais no colo uterino e na vagina em 2% dos casos, o famoso “colo em framboesa/em morango”, que, após a aplicação da solução de lugol, traduz-se como Schiller malhado ou “colo tigróide&#34;.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 11:28:06.943189 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181277-720.mp4",
+        "unlisted": false,
+        "slug": "R-B-M-23-anos-vem-a39e71032b2",
+        "public": true
+      },
+      {
+        "id": "4000181271",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "5d212410-93d4-4d82-bb58-3c20232ece32",
+                "name": "SP - Hospital Oftalmológico de Sorocaba - HOS"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "37EF7409-658E-BA70-6B32-4D8A59FDEC20"
+              },
+              {
+                "type": "ANSWER",
+                "url": "801B40C4-BDDD-0BDD-4867-8DB56C2501BF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:59:46Z",
+            "location": {
+              "id": "5317"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "babe5ce79f4c425c889bab5e48f56022",
+            "name": "Anticoncepção hormonal apenas com progesterona",
+            "is_master": false,
+            "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Anticoncepção hormonal apenas com progesterona",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f5a6200a93574dbe8ffbd8883bd235b8",
+            "name": "Dispositivos intrauterinos",
+            "is_master": false,
+            "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6996c31e-fc52-4039-a82a-3c241053b0f1",
+            "position": "0",
+            "body": "DIU e pílulas de uso contínuo.",
+            "sanitized_body": "DIU e pílulas de uso contínuo.",
+            "correct": false,
+            "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+            "updated_at": "2022-12-30 14:13:44.052451 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A, porque as pílulas de uso contínuo não são LARC's.",
+              "sanitized_complete": "Incorreta a alternativa A, porque as pílulas de uso contínuo não são LARC&#39;s.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 14:19:07.180784 +0000 UTC",
+              "updated_at": "2022-12-30 14:22:57.98682 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 16
+          },
+          {
+            "id": "a99d9d4b-d682-4aa5-961f-1b3479252891",
+            "position": "1",
+            "body": "Injetável trimestral e anel vaginal mensal.",
+            "sanitized_body": "Injetável trimestral e anel vaginal mensal.",
+            "correct": false,
+            "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+            "updated_at": "2022-12-30 14:13:44.330546 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque o Injetável trimestral e anel vaginal mensal não são considerados LARC's.",
+              "sanitized_complete": "Incorreta a alternativa B, porque o Injetável trimestral e anel vaginal mensal não são considerados LARC&#39;s.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 14:19:07.185932 +0000 UTC",
+              "updated_at": "2022-12-30 14:22:57.983649 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 4
+          },
+          {
+            "id": "1c496d39-619c-4893-9a44-540fc2937d64",
+            "position": "2",
+            "body": "DIU e implante contraceptivo de etonogestrel.",
+            "sanitized_body": "DIU e implante contraceptivo de etonogestrel.",
+            "correct": true,
+            "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+            "updated_at": "2022-12-30 14:13:44.790554 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa C: o LARC's são o DIU de cobre, o DIU de levonogestrel e o Implante de etonogestrel.",
+              "sanitized_complete": "Correta a alternativa C: o LARC&#39;s são o DIU de cobre, o DIU de levonogestrel e o Implante de etonogestrel.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 14:19:07.180821 +0000 UTC",
+              "updated_at": "2022-12-30 14:22:58.007304 +0000 UTC"
+            },
+            "answer_percentage": 93,
+            "answers": 846
+          },
+          {
+            "id": "34d3787b-3a5c-40fd-b21a-858d2fa81a69",
+            "position": "3",
+            "body": "Injetável trimestral e implante contraceptivo de etonogestrel.",
+            "sanitized_body": "Injetável trimestral e implante contraceptivo de etonogestrel.",
+            "correct": false,
+            "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+            "updated_at": "2022-12-30 14:13:45.071792 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque o injetável trimestral não é um LARC.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa D, porque o injetável trimestral não é um LARC.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 14:19:07.171887 +0000 UTC",
+              "updated_at": "2022-12-30 14:22:57.992143 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 41
+          },
+          {
+            "id": "d0cae579-5a9c-4b33-933c-94dcb859267c",
+            "position": "4",
+            "body": "Adesivo anticoncepcional e pílulas de uso contínuo.",
+            "sanitized_body": "Adesivo anticoncepcional e pílulas de uso contínuo.",
+            "correct": false,
+            "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+            "updated_at": "2022-12-30 14:13:45.35554 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E, porque o adesivo anticoncepcional e as pílulas de uso contínuo não são considerados LARC's.",
+              "sanitized_complete": "Incorreta a alternativa E, porque o adesivo anticoncepcional e as pílulas de uso contínuo não são considerados LARC&#39;s.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 14:19:07.192586 +0000 UTC",
+              "updated_at": "2022-12-30 14:22:57.982976 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Recomenda-se métodos contraceptivos de longa duração a todas as mulheres que desejam contracepção eficaz, incluindo adolescentes, nuligestas, em pós-parto ou pós-aborto. Desse modo, assinale a alternativa que relata os métodos contraceptivos de longa ação.",
+        "statement_text": "Recomenda-se métodos contraceptivos de longa duração a todas as mulheres que desejam contracepção eficaz, incluindo adolescentes, nuligestas, em pós-parto ou pós-aborto. Desse modo, assinale a alternativa que relata os métodos contraceptivos de longa ação.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-29 20:48:08.16463 +0000 UTC",
+        "solution": {
+          "_key": "b0cb0584-8327-4614-85d4-51874b35cc01",
+          "complete": "Estrategista, os métodos anticoncepcionais reversíveis de longa duração (long action reversible contraception - LARC's) são ó implante de etonogestrel, o DIU de cobre e o SIU de levonogestrel.<div>O implante subdérmico é um dispositivo plástico radiopaco <span>de 4 cm de comprimento, que contém 68 mg de etonogestrel </span><span>. Tem duração de 3 anos (evidências sugerem que pode durar até </span><span>5 anos) e faz parte dos métodos anticoncepcionais reversíveis de </span><span>longa duração - LARCs. </span></div><div><span>Seu mecanismo de ação é semelhante a </span><span>todos os métodos que contêm apenas progestágenos, inibindo a ovulação e produzindo espessamento do muco cervical. De todos os </span><span>métodos contraceptivos, o implante é o mais efetivo, com índice</span><div>de Pearl de 0,05, inferior inclusive ao índice de Pearl esterilização <span>cirúrgica.</span></div></div><div><span>O DIU de cobre é um dispositivo de plástico (polietileno) radiopaco que contém uma superfície de cobre. Existem diversos modelos de DIU de cobre </span><span>no mercado brasileiro, com diferentes durações, tamanhos e quantidade de cobre. O modelo liberado no Sistema Único de Saúde </span><span>(SUS) é o T380A, em formato de T, com área de 380 mm² de cobre e duração de 10 anos (evidências sugerem tempo de ação de </span><span>até 12 anos).</span></div><div><span>O DIU de levonogestrel, também chamado de Sistema Intrauterino (SIU), possui um reservatório contendo o progestágeno levonorgestrel.</span></div><div><span>Existem dois modelos no mercado brasileiro, um contendo 52 mg de levonorgestrel (libera 20 mcg desse hormônio diariamente) e o outro </span><span>contendo 19,5 mg desse hormônio (liberação diária de 12 mcg), ambos com duração de 5 anos. Há evidências sugerindo que o SIU </span><span>de 52 mg tenha duração de até 7 anos. </span></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, os métodos anticoncepcionais reversíveis de longa duração (long action reversible contraception - LARC&#39;s) são ó implante de etonogestrel, o DIU de cobre e o SIU de levonogestrel.O implante subdérmico é um dispositivo plástico radiopaco de 4 cm de comprimento, que contém 68 mg de etonogestrel . Tem duração de 3 anos (evidências sugerem que pode durar até 5 anos) e faz parte dos métodos anticoncepcionais reversíveis de longa duração - LARCs. Seu mecanismo de ação é semelhante a todos os métodos que contêm apenas progestágenos, inibindo a ovulação e produzindo espessamento do muco cervical. De todos os métodos contraceptivos, o implante é o mais efetivo, com índicede Pearl de 0,05, inferior inclusive ao índice de Pearl esterilização cirúrgica.O DIU de cobre é um dispositivo de plástico (polietileno) radiopaco que contém uma superfície de cobre. Existem diversos modelos de DIU de cobre no mercado brasileiro, com diferentes durações, tamanhos e quantidade de cobre. O modelo liberado no Sistema Único de Saúde (SUS) é o T380A, em formato de T, com área de 380 mm² de cobre e duração de 10 anos (evidências sugerem tempo de ação de até 12 anos).O DIU de levonogestrel, também chamado de Sistema Intrauterino (SIU), possui um reservatório contendo o progestágeno levonorgestrel.Existem dois modelos no mercado brasileiro, um contendo 52 mg de levonorgestrel (libera 20 mcg desse hormônio diariamente) e o outro contendo 19,5 mg desse hormônio (liberação diária de 12 mcg), ambos com duração de 5 anos. Há evidências sugerindo que o SIU de 52 mg tenha duração de até 7 anos. Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-30 14:19:07.489512 +0000 UTC",
+          "updated_at": "2022-12-30 14:22:58.28936 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181271-720.mp4",
+        "unlisted": false,
+        "slug": "Recomenda-metodos3471bbc698",
+        "public": true
+      },
+      {
+        "id": "4000181154",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "738c6049-96f0-40c1-9133-5e246bf63e11",
+                "name": "PR - Universidade Estadual de Londrina - UEL (Hospital Universitário da UEL)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41188B8E-2AAF-2620-5D63-B906F2A05E04"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:50:05Z",
+            "location": {
+              "id": "3004"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3e2fa56d3b674b83a770702981c98799",
+            "name": "Falência ovariana prematura",
+            "is_master": false,
+            "master_id": "dd328a0e1ead4cc8a84a8a850329ade3",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Amenorreias[$$]Amenorreia secundária[$$]Amenorreia secundária de causa ovariana[$$]Falência ovariana prematura",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "21b9e0e8-8f4d-406c-87a3-ad23bb90be24",
+            "position": "0",
+            "body": "Somente os itens I e II são corretos.",
+            "sanitized_body": "Somente os itens I e II são corretos.",
+            "correct": false,
+            "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+            "updated_at": "2022-12-15 22:54:25.859376 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:57:51.99131 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 42
+          },
+          {
+            "id": "222073a6-ebce-49ab-b39a-84fbe9c021da",
+            "position": "1",
+            "body": "Somente os itens I e IV são corretos.",
+            "sanitized_body": "Somente os itens I e IV são corretos.",
+            "correct": true,
+            "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+            "updated_at": "2022-12-15 22:54:26.136245 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:57:51.985563 +0000 UTC"
+            },
+            "answer_percentage": 62,
+            "answers": 328
+          },
+          {
+            "id": "4f682968-74d8-4683-913c-a7829674e1b3",
+            "position": "2",
+            "body": "Somente os itens III e IV são corretos.",
+            "sanitized_body": "Somente os itens III e IV são corretos.",
+            "correct": false,
+            "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+            "updated_at": "2022-12-15 22:54:26.416436 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:57:51.985577 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 12
+          },
+          {
+            "id": "da06bd03-785c-4181-b011-d412d6bdb523",
+            "position": "3",
+            "body": "Somente os itens I, II e III são corretos.",
+            "sanitized_body": "Somente os itens I, II e III são corretos.",
+            "correct": false,
+            "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+            "updated_at": "2022-12-15 22:54:26.693927 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:57:51.987653 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 109
+          },
+          {
+            "id": "5c1f17b6-4302-4dd1-91df-b1d917203f0b",
+            "position": "4",
+            "body": "Somente os itens II, III e IV são corretos.",
+            "sanitized_body": "Somente os itens II, III e IV são corretos.",
+            "correct": false,
+            "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+            "updated_at": "2022-12-15 22:54:26.970877 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:57:51.989066 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 40
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação às opções de maternidade para uma mulher com insuficiência ovariana primária (IOP), considere os itens a seguir.<div><br></div><div>I. Adoção.</div><div><br></div><div>II. Criopreservação de oócitos.</div><div><br></div><div>III. Estimulação ovariana hormonal controlada.</div><div><br></div><div>IV. Óvulo de doadora jovem.</div><div><br></div><div>Assinale a alternativa correta.</div>",
+        "statement_text": "Em relação às opções de maternidade para uma mulher com insuficiência ovariana primária (IOP), considere os itens a seguir.I. Adoção.II. Criopreservação de oócitos.III. Estimulação ovariana hormonal controlada.IV. Óvulo de doadora jovem.Assinale a alternativa correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-29 17:18:48.167638 +0000 UTC",
+        "solution": {
+          "_key": "459f72d1-2539-4ed2-94d1-0dfeaa33231e",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Define-se insuficiência ovariana prematura (IOP) como perda de oócitos antes dos 40 anos de idade. Essa definição é justamente para distinguir a IOP da perda fisiológica da função ovariana, que ocorre na menopausa normal. Antigamente, esse processo também era conhecido como menopausa precoce, mas é um termo que não deve ser mais utilizado, já que IOP reflete melhor a fisiopatologia da condição.</div><div><br></div><div>O diagnóstico é feito por duas dosagens de FSH acima de 25 mUI/mL, obtidas com o intervalo mínimo de um mês. O tratamento é a realização de terapia hormonal (se não houver contraindicações ao uso). A gravidez espontânea em pacientes com IOP é difícil, ocorrendo em 5-10% dos casos.</div><div><br></div><div><b>I. Adoção.</b></div><div>Verdadeira, pois trata-se de uma opção para qualquer mulher com impossibilidade de gestação.</div><div><br></div><div><b>II. Criopreservação de oócitos.</b></div><div>Incorreta, pois a chance de sucesso com um estímulo ovariano nessas pacientes é baixíssima.</div><div><br></div><div><b>III. Estimulação ovariana hormonal controlada.</b></div><div>Incorreta, pois o estímulo ovariano tem uma chance remota de sucesso nessas pacientes.</div><div><br></div><div><b>IV. Óvulo de doadora jovem.</b></div><div>Correta, pois essa é a melhor opção caso a paciente deseje gestar e é autorizada pela lei brasileira.</div><div><br></div><div>Diante do exposto acima, a alternativa correta é a letra “b”</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BDefine-se insuficiência ovariana prematura (IOP) como perda de oócitos antes dos 40 anos de idade. Essa definição é justamente para distinguir a IOP da perda fisiológica da função ovariana, que ocorre na menopausa normal. Antigamente, esse processo também era conhecido como menopausa precoce, mas é um termo que não deve ser mais utilizado, já que IOP reflete melhor a fisiopatologia da condição.O diagnóstico é feito por duas dosagens de FSH acima de 25 mUI/mL, obtidas com o intervalo mínimo de um mês. O tratamento é a realização de terapia hormonal (se não houver contraindicações ao uso). A gravidez espontânea em pacientes com IOP é difícil, ocorrendo em 5-10% dos casos.I. Adoção.Verdadeira, pois trata-se de uma opção para qualquer mulher com impossibilidade de gestação.II. Criopreservação de oócitos.Incorreta, pois a chance de sucesso com um estímulo ovariano nessas pacientes é baixíssima.III. Estimulação ovariana hormonal controlada.Incorreta, pois o estímulo ovariano tem uma chance remota de sucesso nessas pacientes.IV. Óvulo de doadora jovem.Correta, pois essa é a melhor opção caso a paciente deseje gestar e é autorizada pela lei brasileira.Diante do exposto acima, a alternativa correta é a letra “b”",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 11:57:52.320338 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181154-720.mp4",
+        "unlisted": false,
+        "slug": "as-maternidade-para34ac1aef82",
+        "public": true
+      },
+      {
+        "id": "4000181152",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "738c6049-96f0-40c1-9133-5e246bf63e11",
+                "name": "PR - Universidade Estadual de Londrina - UEL (Hospital Universitário da UEL)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41188B8E-2AAF-2620-5D63-B906F2A05E04"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:50:05Z",
+            "location": {
+              "id": "3004"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "f5a6200a93574dbe8ffbd8883bd235b8",
+            "name": "Dispositivos intrauterinos",
+            "is_master": false,
+            "master_id": "d9b4d15bd6fb470bae99f7dbfbfa29e3",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Planejamento familiar[$$]Dispositivos intrauterinos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b34abf9e-a7cd-42b5-aa56-1d8d08690d4c",
+            "position": "0",
+            "body": "Somente as afirmativas I e II são corretas.",
+            "sanitized_body": "Somente as afirmativas I e II são corretas.",
+            "correct": false,
+            "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+            "updated_at": "2022-12-30 13:47:59.348111 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 13:55:36.712033 +0000 UTC",
+              "updated_at": "2022-12-30 13:55:58.72983 +0000 UTC"
+            },
+            "answer_percentage": 27,
+            "answers": 164
+          },
+          {
+            "id": "1eb6ac99-d6a5-4be7-9b90-ae26e944902e",
+            "position": "1",
+            "body": "Somente as afirmativas I e IV são corretas.",
+            "sanitized_body": "Somente as afirmativas I e IV são corretas.",
+            "correct": false,
+            "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+            "updated_at": "2022-12-30 13:47:59.618725 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 13:55:36.690922 +0000 UTC",
+              "updated_at": "2022-12-30 13:55:58.729066 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 37
+          },
+          {
+            "id": "dc5864ee-7c7a-4fb1-98d1-407cd6bd1579",
+            "position": "2",
+            "body": "Somente as afirmativas III e IV são corretas.",
+            "sanitized_body": "Somente as afirmativas III e IV são corretas.",
+            "correct": false,
+            "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+            "updated_at": "2022-12-30 13:47:59.890173 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 13:55:36.708675 +0000 UTC",
+              "updated_at": "2022-12-30 13:55:58.729367 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 40
+          },
+          {
+            "id": "22870c21-fd8b-4331-aeb7-dbb0a42678f8",
+            "position": "3",
+            "body": "Somente as afirmativas I, II e III são corretas.",
+            "sanitized_body": "Somente as afirmativas I, II e III são corretas.",
+            "correct": true,
+            "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+            "updated_at": "2022-12-30 13:48:00.169332 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa D: estão corretas as assertiva I, II e III.",
+              "sanitized_complete": "Correta a alternativa D: estão corretas as assertiva I, II e III.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 13:55:36.690538 +0000 UTC",
+              "updated_at": "2022-12-30 13:55:58.72945 +0000 UTC"
+            },
+            "answer_percentage": 50,
+            "answers": 308
+          },
+          {
+            "id": "a0b77afc-a05a-4f86-b4c0-0c0fab29ec2e",
+            "position": "4",
+            "body": "Somente as afirmativas II, III e IV são corretas.",
+            "sanitized_body": "Somente as afirmativas II, III e IV são corretas.",
+            "correct": false,
+            "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+            "updated_at": "2022-12-30 13:48:00.444354 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-12-30 13:55:36.690182 +0000 UTC",
+              "updated_at": "2022-12-30 13:55:58.730876 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 63
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação à inserção pós-parto do dispositivo intrauterino, considere as afirmativas a seguir.<div><br></div><div>I. Não é recomendada após ruptura prolongada das membranas amnióticas devido ao risco de corioamnionite.</div><div><br></div><div>II. Pode ser inserido dentro de 10 minutos após a expulsão da placenta pela via vaginal.</div><div><br></div><div>III. Verificou-se uma taxa de expulsão semelhante ao DIU inserido fora do período puerperal quando inserido dentro de 48 horas após o nascimento, usando-se a pinça de Kelly para colocação no fundo uterino.</div><div><br></div><div>IV. Uma consulta de acompanhamento após duas semanas é necessária para cortar os fios do DIU.</div><div><br></div><div>Assinale a alternativa correta.</div>",
+        "statement_text": "Em relação à inserção pós-parto do dispositivo intrauterino, considere as afirmativas a seguir.I. Não é recomendada após ruptura prolongada das membranas amnióticas devido ao risco de corioamnionite.II. Pode ser inserido dentro de 10 minutos após a expulsão da placenta pela via vaginal.III. Verificou-se uma taxa de expulsão semelhante ao DIU inserido fora do período puerperal quando inserido dentro de 48 horas após o nascimento, usando-se a pinça de Kelly para colocação no fundo uterino.IV. Uma consulta de acompanhamento após duas semanas é necessária para cortar os fios do DIU.Assinale a alternativa correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-29 17:17:44.232281 +0000 UTC",
+        "forum_id": "28a70f13-3fc8-4fae-ac96-3d0f76f2c985",
+        "solution": {
+          "_key": "90b77a04-2f84-48af-bd08-81600df8edb7",
+          "complete": "Estrategista, vamos analisar as assertivas:<div><br></div><div>I. Não é recomendada após ruptura prolongada das membranas amnióticas devido ao risco de corioamnionite. (correta)</div><div>A inserção de dispositivo intrauterino não é recomendada após o parto se houve tempo prolongado de ruptura das membranas amnióticas devido ao aumento do risco de corioamnionite.</div><div><br></div><div>II. Pode ser inserido dentro de 10 minutos após a expulsão da placenta pela via vaginal. (correta)</div><div>O DIU pode ser inserido até 48 horas depois da expulsão da placenta sem aumento do risco de expulsão. Depois disso, no período de 48 horas a 4 semanas pós parto, não é recomendada a inserção do DIU devido ao aumento do risco de expulsão.</div><div><br></div><div>III. Verificou-se uma taxa de expulsão semelhante ao DIU inserido fora do período puerperal quando inserido dentro de 48 horas após o nascimento, usando-se a pinça de Kelly para colocação no fundo uterino. (correta)</div><div>Os estudos mostram que o DIU pode ser inserido no período de até 48 horas pós parto sem aumento do risco de expulsão.</div><div><br></div><div>IV. Uma consulta de acompanhamento após duas semanas é necessária para cortar os fios do DIU. (incorreta)</div><div>Os fios do DIU devem ser cortados, com um comprimento de aproximadamente 2 cm, logo após a sua inserção, no mesmo tempo de procedimento.</div>",
+          "sanitized_complete": "Estrategista, vamos analisar as assertivas:I. Não é recomendada após ruptura prolongada das membranas amnióticas devido ao risco de corioamnionite. (correta)A inserção de dispositivo intrauterino não é recomendada após o parto se houve tempo prolongado de ruptura das membranas amnióticas devido ao aumento do risco de corioamnionite.II. Pode ser inserido dentro de 10 minutos após a expulsão da placenta pela via vaginal. (correta)O DIU pode ser inserido até 48 horas depois da expulsão da placenta sem aumento do risco de expulsão. Depois disso, no período de 48 horas a 4 semanas pós parto, não é recomendada a inserção do DIU devido ao aumento do risco de expulsão.III. Verificou-se uma taxa de expulsão semelhante ao DIU inserido fora do período puerperal quando inserido dentro de 48 horas após o nascimento, usando-se a pinça de Kelly para colocação no fundo uterino. (correta)Os estudos mostram que o DIU pode ser inserido no período de até 48 horas pós parto sem aumento do risco de expulsão.IV. Uma consulta de acompanhamento após duas semanas é necessária para cortar os fios do DIU. (incorreta)Os fios do DIU devem ser cortados, com um comprimento de aproximadamente 2 cm, logo após a sua inserção, no mesmo tempo de procedimento.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-30 13:55:37.006751 +0000 UTC",
+          "updated_at": "2022-12-30 13:55:58.884506 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181152-720.mp4",
+        "unlisted": false,
+        "slug": "a-inserca-pos-parto920e243fa0",
+        "public": true
+      },
+      {
+        "id": "4000181150",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "738c6049-96f0-40c1-9133-5e246bf63e11",
+                "name": "PR - Universidade Estadual de Londrina - UEL (Hospital Universitário da UEL)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41188B8E-2AAF-2620-5D63-B906F2A05E04"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:50:05Z",
+            "location": {
+              "id": "3004"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "862c282714944ac4a6f127e2797c05c9",
+            "name": "Síndrome de Rokitansky",
+            "is_master": false,
+            "master_id": "0ebcf9ba845542bb94a18c502dab06ed",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Amenorreias[$$]Amenorreia primária[$$]Amenorreia primária de causa uterina/vaginal[$$]Síndrome de Rokitansky",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8d8a5a8c-04a8-4ada-8946-b352d3638187",
+            "position": "0",
+            "body": "45 XO",
+            "sanitized_body": "45 XO",
+            "correct": false,
+            "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+            "updated_at": "2022-12-15 23:00:10.004281 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:01:20.490015 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 12
+          },
+          {
+            "id": "d031e491-cc88-4eec-a75e-2fab680de923",
+            "position": "1",
+            "body": "46 XY",
+            "sanitized_body": "46 XY",
+            "correct": false,
+            "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+            "updated_at": "2022-12-15 23:00:10.307145 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:01:20.510496 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 52
+          },
+          {
+            "id": "254027a0-e82b-4331-9e0c-a2d112bc4176",
+            "position": "2",
+            "body": "46 XX",
+            "sanitized_body": "46 XX",
+            "correct": true,
+            "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+            "updated_at": "2022-12-15 23:00:10.651643 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:01:20.501805 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 490
+          },
+          {
+            "id": "911ac1ea-3124-4b61-820b-f264e5b9612e",
+            "position": "3",
+            "body": "47 XXX",
+            "sanitized_body": "47 XXX",
+            "correct": false,
+            "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+            "updated_at": "2022-12-15 23:00:10.953636 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:01:20.524844 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 9
+          },
+          {
+            "id": "2135af12-dbc6-4390-928a-b327fd6671cf",
+            "position": "4",
+            "body": "47 XXY",
+            "sanitized_body": "47 XXY",
+            "correct": false,
+            "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+            "updated_at": "2022-12-15 23:00:11.255864 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 12:01:20.507938 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 11
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Assinale a alternativa que apresenta, corretamente, o cariótipo de uma mulher com amenorreia primária e síndrome de Mayer-Rokitansky-Kuster-Hauser.",
+        "statement_text": "Assinale a alternativa que apresenta, corretamente, o cariótipo de uma mulher com amenorreia primária e síndrome de Mayer-Rokitansky-Kuster-Hauser.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-29 17:13:30.175928 +0000 UTC",
+        "solution": {
+          "_key": "1962ff1c-738d-45eb-92b4-1628192ab80c",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>A síndrome de Mayer-Rokitansky-Küster-Hauser ou agenesia mülleriana é uma malformação congênita com incidência estimada de um para cada quatro ou cinco mil nascimentos. É a segunda principal causa de amenorreia primária, ficando atrás apenas da disgenesia gonadal.</div><div><br></div><div>Ocorre defeito no desenvolvimento dos ductos de Müller (ductos paramesonéfricos). Na prova, é mais comum o aparecimento da forma clássica, em que ocorre agenesia total dos ductos. Dessa forma, não ocorre formação do útero, das trompas e dos 2/3 superiores da vagina. Em 7-10% das mulheres, há útero obstruído ou rudimentar. Como o defeito é apenas nos ductos, o cariótipo é 46XX e os ovários estão presentes e funcionantes, ou seja, os caracteres sexuais secundários estão normais (lembre-se: o ovário não se origina nos ductos de Müller). A paciente apresenta vagina curta e a genitália externa é feminina (lembre-se: o terço inferior da vagina e a genitália externa têm origem no seio urogenital, que é normal nesses casos). </div><div><br></div><div>Ocorrem malformações renais em 1/3 dos casos e malformações esqueléticas também podem estar presentes, especialmente na coluna lombar. Por isso, tão logo seja feito o diagnóstico dessa doença, devem ser rastreadas essas malformações.</div><div><br></div><div><b>Diante do exposto acima, a alternativa correta é a letra “c”.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CA síndrome de Mayer-Rokitansky-Küster-Hauser ou agenesia mülleriana é uma malformação congênita com incidência estimada de um para cada quatro ou cinco mil nascimentos. É a segunda principal causa de amenorreia primária, ficando atrás apenas da disgenesia gonadal.Ocorre defeito no desenvolvimento dos ductos de Müller (ductos paramesonéfricos). Na prova, é mais comum o aparecimento da forma clássica, em que ocorre agenesia total dos ductos. Dessa forma, não ocorre formação do útero, das trompas e dos 2/3 superiores da vagina. Em 7-10% das mulheres, há útero obstruído ou rudimentar. Como o defeito é apenas nos ductos, o cariótipo é 46XX e os ovários estão presentes e funcionantes, ou seja, os caracteres sexuais secundários estão normais (lembre-se: o ovário não se origina nos ductos de Müller). A paciente apresenta vagina curta e a genitália externa é feminina (lembre-se: o terço inferior da vagina e a genitália externa têm origem no seio urogenital, que é normal nesses casos). Ocorrem malformações renais em 1/3 dos casos e malformações esqueléticas também podem estar presentes, especialmente na coluna lombar. Por isso, tão logo seja feito o diagnóstico dessa doença, devem ser rastreadas essas malformações.Diante do exposto acima, a alternativa correta é a letra “c”.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 12:01:20.84721 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181150-720.mp4",
+        "unlisted": false,
+        "slug": "alternativa-que181adf78e5",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

@@ -1,0 +1,291 @@
+{
+    "data": [
+      {
+        "id": "4000127918",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3caf3c68b6f94d1284bfda9be0849967",
+            "name": "Câncer Metastático",
+            "is_master": false,
+            "master_id": "41b8d066f7a348fe9e25c27c1046a38f",
+            "path": "Cirurgia[$$]Urologia[$$]Câncer de Próstata[$$]Tratamento da Doença Localizada[$$]Câncer Metastático",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "89ac61ad-80e9-46ea-b590-353cbee0fe26",
+            "position": "0",
+            "body": "Castração química ou cirúrgica.",
+            "sanitized_body": "Castração química ou cirúrgica.",
+            "correct": true,
+            "created_at": "2020-10-03 13:10:46.492814 +0000 UTC",
+            "updated_at": "2022-07-14 20:01:33.603442 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+              "author_email_id": "b859a54c08c9ce35db0e7f440c2f7c59",
+              "author_profile": null,
+              "created_at": "2020-11-11 19:32:14.556622 +0000 UTC",
+              "updated_at": "2022-07-14 20:03:20.165892 +0000 UTC"
+            },
+            "answer_percentage": 53,
+            "answers": 1023
+          },
+          {
+            "id": "5846f002-04b2-4ca3-a905-cf0e1d344065",
+            "position": "1",
+            "body": "Prostatectomia radical, seguida de quimioterapia adjuvante.",
+            "sanitized_body": "Prostatectomia radical, seguida de quimioterapia adjuvante.",
+            "correct": false,
+            "created_at": "2020-10-03 13:10:46.492814 +0000 UTC",
+            "updated_at": "2022-07-14 20:01:33.920482 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+              "author_email_id": "b859a54c08c9ce35db0e7f440c2f7c59",
+              "author_profile": null,
+              "created_at": "2020-11-11 19:32:14.561724 +0000 UTC",
+              "updated_at": "2022-07-14 20:03:20.162915 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 273
+          },
+          {
+            "id": "000bf702-c1e6-4473-8eda-3b456b67b8c5",
+            "position": "2",
+            "body": "Cirurgia minimamente invasiva, com ressecção transuretral da próstata.",
+            "sanitized_body": "Cirurgia minimamente invasiva, com ressecção transuretral da próstata.",
+            "correct": false,
+            "created_at": "2020-10-03 13:10:46.492814 +0000 UTC",
+            "updated_at": "2022-07-14 20:01:34.239317 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+              "author_email_id": "b859a54c08c9ce35db0e7f440c2f7c59",
+              "author_profile": null,
+              "created_at": "2020-11-11 19:32:14.555524 +0000 UTC",
+              "updated_at": "2022-07-14 20:03:20.166758 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 47
+          },
+          {
+            "id": "6f8c6abc-1e4b-423c-994a-d725adfede79",
+            "position": "3",
+            "body": "Radioterapia e quimioterapia neoadjuvantes, seguidas de prostatectomia radical.",
+            "sanitized_body": "Radioterapia e quimioterapia neoadjuvantes, seguidas de prostatectomia radical.",
+            "correct": false,
+            "created_at": "2020-10-03 13:10:46.492814 +0000 UTC",
+            "updated_at": "2022-07-14 20:01:34.552779 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+              "author_email_id": "b859a54c08c9ce35db0e7f440c2f7c59",
+              "author_profile": null,
+              "created_at": "2020-11-11 19:32:14.564408 +0000 UTC",
+              "updated_at": "2022-07-14 20:03:20.274152 +0000 UTC"
+            },
+            "answer_percentage": 31,
+            "answers": 604
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 58 anos de idade, em seguimento ambulatorial, apresenta radiografia da bacia mostrando lesões osteolíticas e um exame de antígeno prostático específico (PSA) = 35 ng/mL (valor de referência: &lt; 4 ng/mL). Na ocasião, o médico solicitou a realização de biópsia transretal da próstata e cintilografia, cujos resultados revelaram a presença de um adenocarcinoma e de múltiplas lesões hipercaptantes em bacia e coluna vertebral. Nesse caso, qual deve ser o tratamento proposto ao paciente?",
+        "statement_text": "Um homem com 58 anos de idade, em seguimento ambulatorial, apresenta radiografia da bacia mostrando lesões osteolíticas e um exame de antígeno prostático específico (PSA) = 35 ng/mL (valor de referência: &lt; 4 ng/mL). Na ocasião, o médico solicitou a realização de biópsia transretal da próstata e cintilografia, cujos resultados revelaram a presença de um adenocarcinoma e de múltiplas lesões hipercaptantes em bacia e coluna vertebral. Nesse caso, qual deve ser o tratamento proposto ao paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-10-03 13:10:46.492814 +0000 UTC",
+        "forum_id": "cd9c3105-eb30-42ec-b8f0-b5638f247d2b",
+        "solution": {
+          "_key": "e362091d-af31-4073-b87d-02eb29a43cff",
+          "complete": "Inicialmente, devemos perceber que estamos diante de um câncer de próstata metastático!<div><br><div>Chegamos a essa conclusão pois temos uma biópsia de próstata confirmado o diagnóstico de adenocarcinoma e, associado a isso, dois exames de imagem que mostram lesões ósseas sugestivas de sítios metastáticos. </div><div><br></div><div>Ou seja, lesões osteolíticas à radiografia e hipercaptantes de contraste à cintilografia.</div><div><br></div></div><div>Vale a pena lembrar que os ossos são o principal sítio de metástases dos adenocarcinomas de próstata e, nesse contexto, a dor óssea é a manifestação clínica mais comum dos casos metastáticos. </div><div><br></div><div>Nos cânceres de próstata em que há metástase à distância, o tratamento de primeira linha é a chamada terapia de deprivação androgênica (TDA).</div><div><br></div><div>A deprivação androgênica pode ser obtida através de cirurgia (orquiectomia bilateral) ou através do uso de medicações análogas de LHRH, como a goserelina.</div><div><br></div><div>A absoluta maioria dos pacientes com doença metastática respondem bem ao tratamento antiandrogênico por 3 a 4 anos, em média. </div><div><br></div><div>Após esse período, a doença tende a se manifestar novamente. Nesses casos, são necessárias outras modalidades de terapia hormonal ou a administração de quimioterapia citotóxica, com drogas como a mitoxantrona e o docetaxel. </div><div><br></div><div>Caso queira relembrar, o fluxograma a seguir resume o tratamento proposto para o câncer de próstata com base no seu estadiamento:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5FE5BCF1-821D-A612-8915-12938466CBD5/5FE5BCF1-821D-A612-8915-12938466CBD5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><b>GABARITO: ALTERNATIVA A</b></div>",
+          "sanitized_complete": "Inicialmente, devemos perceber que estamos diante de um câncer de próstata metastático!Chegamos a essa conclusão pois temos uma biópsia de próstata confirmado o diagnóstico de adenocarcinoma e, associado a isso, dois exames de imagem que mostram lesões ósseas sugestivas de sítios metastáticos. Ou seja, lesões osteolíticas à radiografia e hipercaptantes de contraste à cintilografia.Vale a pena lembrar que os ossos são o principal sítio de metástases dos adenocarcinomas de próstata e, nesse contexto, a dor óssea é a manifestação clínica mais comum dos casos metastáticos. Nos cânceres de próstata em que há metástase à distância, o tratamento de primeira linha é a chamada terapia de deprivação androgênica (TDA).A deprivação androgênica pode ser obtida através de cirurgia (orquiectomia bilateral) ou através do uso de medicações análogas de LHRH, como a goserelina.A absoluta maioria dos pacientes com doença metastática respondem bem ao tratamento antiandrogênico por 3 a 4 anos, em média. Após esse período, a doença tende a se manifestar novamente. Nesses casos, são necessárias outras modalidades de terapia hormonal ou a administração de quimioterapia citotóxica, com drogas como a mitoxantrona e o docetaxel. Caso queira relembrar, o fluxograma a seguir resume o tratamento proposto para o câncer de próstata com base no seu estadiamento:GABARITO: ALTERNATIVA A",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+          "author_email_id": "b859a54c08c9ce35db0e7f440c2f7c59",
+          "author_profile": {
+            "id": "fa4e50f5-5755-4ccd-bc4a-cc024b9b717e",
+            "full_name": "Antonio Rivas",
+            "avatar_url": "https://static.accounts.estrategia.com/b6da2a27c00e4f41801d0553a6081326",
+            "about_me": "Cirurgião Plástico e Cirurgião Geral formado pela Faculdade de Medicina da USP. Membro da Sociedade Brasileira de Cirurgia Plástica e instrutor do ATLS do núcleo do HCFMUSP. Auferiu as condecorações de: Melhor Aluno do Curso de Medicina (UFSC), Formando que obteve o Melhor desempenho no Curso de Medicina (ACM), Melhor Residente de Cirurgia Plástica (Faculdade de medicina da USP), Primeiro colocado na prova nacional de título de especialista em cirurgia plástica (SBCP). ",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/drantoniorivas",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.antoniorivas",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/antonio-rivas-b98433184",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-11 19:32:14.72364 +0000 UTC",
+          "updated_at": "2022-07-14 20:03:20.521713 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127918-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-58-anos76bfc3e05d",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

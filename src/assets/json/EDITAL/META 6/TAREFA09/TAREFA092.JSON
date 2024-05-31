@@ -1,0 +1,1789 @@
+{
+    "data": [
+      {
+        "id": "4000063744",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "2aaf7717-1bc9-40ba-9786-939af3ddfad4",
+                "name": "RJ - Universidade Federal Fluminense - UFF (Hospital Universitário Antônio Pedro - HUAP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "07e709e5-56ba-4ae8-8b0b-881fb01eafa4",
+                "name": "Público - Municipal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "93201131-554A-16FE-47C9-3A96FC25C9BF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 80,
+            "created_at": "2020-09-05T13:37:25Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a1270a7b597a43a6b9f3260c087106bd",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "dad2d15001574c8c9aff517e375aef48",
+            "name": "Condições Associadas",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Condições Associadas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e279d5b1ce9c46f9a0a9509de476a019",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "87b13f38-528c-4ccc-84e4-c123b8e0b7d1",
+            "position": "0",
+            "body": "Ácidos biliares conjugados.",
+            "sanitized_body": "Ácidos biliares conjugados.",
+            "correct": false,
+            "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+            "updated_at": "2021-03-31 01:41:42.48577 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. De fato, as bactérias colônicas também desconjuram os sais biliares, no entanto isso não gera anemia macrocítica.",
+              "sanitized_complete": "INCORRETA. De fato, as bactérias colônicas também desconjuram os sais biliares, no entanto isso não gera anemia macrocítica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-03-31 01:34:25.586894 +0000 UTC",
+              "updated_at": "2021-03-31 01:41:44.832199 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "1de02f28-dd82-4f5c-a9f1-a09adfe33e1e",
+            "position": "1",
+            "body": "Ferro.",
+            "sanitized_body": "Ferro.",
+            "correct": false,
+            "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+            "updated_at": "2021-03-31 01:41:42.564132 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A carência de ferro que pode ocorrer nas síndromes disabsortivas gera anemia microcítica e não macrocítica.",
+              "sanitized_complete": "INCORRETA. A carência de ferro que pode ocorrer nas síndromes disabsortivas gera anemia microcítica e não macrocítica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-03-31 01:34:25.572709 +0000 UTC",
+              "updated_at": "2021-03-31 01:41:44.823029 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 1
+          },
+          {
+            "id": "3542b821-c751-4611-947e-212f67e91af1",
+            "position": "2",
+            "body": "Ácido fólico.",
+            "sanitized_body": "Ácido fólico.",
+            "correct": false,
+            "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+            "updated_at": "2021-03-31 01:41:42.679755 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora a deficiência de ácido fólico possa gerar anemia macrocítica, no supercrescimento bacterianos os níveis de ácido fólico costumam estar normais ou até aumentados uma vez que as bactérias colônicas são produtoras de ácido fólico.",
+              "sanitized_complete": "INCORRETA. Embora a deficiência de ácido fólico possa gerar anemia macrocítica, no supercrescimento bacterianos os níveis de ácido fólico costumam estar normais ou até aumentados uma vez que as bactérias colônicas são produtoras de ácido fólico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-03-31 01:34:25.58765 +0000 UTC",
+              "updated_at": "2021-03-31 01:41:44.828386 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 5
+          },
+          {
+            "id": "5e660d34-2971-439c-8c8e-572da2e6a7ef",
+            "position": "3",
+            "body": "Tiamina.",
+            "sanitized_body": "Tiamina.",
+            "correct": false,
+            "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+            "updated_at": "2021-03-31 01:41:42.742847 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A deficiência de tiamina - ou vitamina B1 - não causa anemia macrocítica.",
+              "sanitized_complete": "INCORRETA. A deficiência de tiamina - ou vitamina B1 - não causa anemia macrocítica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-03-31 01:34:25.573455 +0000 UTC",
+              "updated_at": "2021-03-31 01:41:44.817267 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 1
+          },
+          {
+            "id": "22186968-b52e-4f7f-a385-2ee784c9144e",
+            "position": "4",
+            "body": "Vitamina B12.",
+            "sanitized_body": "Vitamina B12.",
+            "correct": true,
+            "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+            "updated_at": "2021-03-31 01:41:42.861503 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. O consumo da vitamina B12 pelas bactérias colônicas no intestino delgado &nbsp;gera carência dessa vitamina, a qual causa anemia macrocínica.<div><br></div><div>Importante revisar esse conceito: as principais causas gerais de anemia macrocítica são carência de vitamina B12 e de ácido fólico!</div>",
+              "sanitized_complete": "CORRETA. O consumo da vitamina B12 pelas bactérias colônicas no intestino delgado  gera carência dessa vitamina, a qual causa anemia macrocínica.Importante revisar esse conceito: as principais causas gerais de anemia macrocítica são carência de vitamina B12 e de ácido fólico!",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2021-03-31 01:34:25.597319 +0000 UTC",
+              "updated_at": "2021-03-31 01:41:44.817117 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 36
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A síndrome de proliferação bacteriana compreende um grupo de desordens que cursam com diarreia e esteatorreia com níveis elevados de ácido fólico. Nessa síndrome, a anemia macrocítica está relacionada principalmente à deficiência de:<div><br></div>",
+        "statement_text": "A síndrome de proliferação bacteriana compreende um grupo de desordens que cursam com diarreia e esteatorreia com níveis elevados de ácido fólico. Nessa síndrome, a anemia macrocítica está relacionada principalmente à deficiência de:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-13 14:11:50.264269 +0000 UTC",
+        "solution": {
+          "_key": "e849b01b-2f9a-4ab8-8561-eeb87d790f0e",
+          "complete": "Na síndrome de supercrescimento bacteriano temos um crescimento acelerado de bactérias colônicas a nível de intestino delgado, seja por estase funcional, anatômica ou comunicação entre os intestinos delgado e grosso.<div>Essas bactérias colônicas se utilizam da vitamina B12 produzida na dieta para crescer e, com isso, há um consumo excessivo dessa vitamina.</div>",
+          "sanitized_complete": "Na síndrome de supercrescimento bacteriano temos um crescimento acelerado de bactérias colônicas a nível de intestino delgado, seja por estase funcional, anatômica ou comunicação entre os intestinos delgado e grosso.Essas bactérias colônicas se utilizam da vitamina B12 produzida na dieta para crescer e, com isso, há um consumo excessivo dessa vitamina.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-03-31 01:34:25.720945 +0000 UTC",
+          "updated_at": "2021-03-31 01:41:44.912739 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000063744-720.mp4",
+        "unlisted": false,
+        "slug": "sindrome-proliferaca3396a4e431",
+        "public": true
+      },
+      {
+        "id": "4000033487",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "46A75639-B649-112C-746F-FB6D040C8144"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 125,
+            "created_at": "2020-09-02T22:20:16Z",
+            "updated_at": "2020-09-03T13:44:41Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "74890fad7a084c538283fdac71fe3cfc",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7dbd93af-4a97-47ad-851f-edb12dc332d9",
+            "position": "0",
+            "body": "Intestino irritável.",
+            "sanitized_body": "Intestino irritável.",
+            "correct": true,
+            "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+            "updated_at": "2020-11-10 17:21:40.12405 +0000 UTC",
+            "topics": [
+              {
+                "id": "74890fad7a084c538283fdac71fe3cfc",
+                "name": "Manifestações Clínicas",
+                "is_master": false,
+                "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Manifestações Clínicas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA. A síndrome do intestino irritável é distúrbio funcional que envolve o trato gastrointestinal e se manifesta com dor abdominal intermitente que melhora com evacuação com alteração na consistência das fezes. O fato de a paciente ter se aposentado recentemente pode demonstrar possibilidade de distúrbio psicológico associado, o que contribui com o diagnóstico. A ausência de alterações nos exames aponta para a possibilidade de distúrbio funcional.<div><br></div>",
+              "sanitized_complete": "CORRETA. A síndrome do intestino irritável é distúrbio funcional que envolve o trato gastrointestinal e se manifesta com dor abdominal intermitente que melhora com evacuação com alteração na consistência das fezes. O fato de a paciente ter se aposentado recentemente pode demonstrar possibilidade de distúrbio psicológico associado, o que contribui com o diagnóstico. A ausência de alterações nos exames aponta para a possibilidade de distúrbio funcional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:27:07.807282 +0000 UTC",
+              "updated_at": "2020-10-18 15:27:08.612547 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 518
+          },
+          {
+            "id": "de2565b7-cd26-442e-afcf-595d6601d412",
+            "position": "1",
+            "body": "Colopatia diabética.",
+            "sanitized_body": "Colopatia diabética.",
+            "correct": false,
+            "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+            "updated_at": "2020-11-10 17:21:40.200303 +0000 UTC",
+            "topics": [
+              {
+                "id": "9ac86f9958c04864b0338a1d9b95a060",
+                "name": "Manifestações e características clínicas",
+                "is_master": false,
+                "master_id": "e7750157ebd549b78392eee4b4b3154d",
+                "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Diabetes Mellitus tipo 2 (DM 2)[$$]Manifestações e características clínicas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Apesar da colopatia diabética ser um distúrbio funcional que afeta o trato gastrointestinal, paciente não tem diabetes, o que refuta essa hipótese.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Apesar da colopatia diabética ser um distúrbio funcional que afeta o trato gastrointestinal, paciente não tem diabetes, o que refuta essa hipótese.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:27:07.804381 +0000 UTC",
+              "updated_at": "2020-10-18 15:27:08.623235 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 12
+          },
+          {
+            "id": "6b9fa078-f16e-4d15-a623-f1e38aeb1209",
+            "position": "2",
+            "body": "Dispepsia funcional.&nbsp;",
+            "sanitized_body": "Dispepsia funcional. ",
+            "correct": false,
+            "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+            "updated_at": "2020-11-10 17:21:40.27164 +0000 UTC",
+            "topics": [
+              {
+                "id": "550320eec093414380ef769bdbd84a09",
+                "name": "Definição e Sintomas",
+                "is_master": false,
+                "master_id": "f748821d9c714762ba61ac69466c62c5",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Síndrome Dispéptica[$$]Definição e Sintomas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Paciente apresenta um quadro muito mais compatível com síndrome do intestino irritável do que com dispepsia funcional. A dispepsia funcional se caracteriza por desconforto gástrico crônico, com azia, pirose, empachamento etc.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Paciente apresenta um quadro muito mais compatível com síndrome do intestino irritável do que com dispepsia funcional. A dispepsia funcional se caracteriza por desconforto gástrico crônico, com azia, pirose, empachamento etc.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:27:07.781051 +0000 UTC",
+              "updated_at": "2020-10-18 15:27:08.699674 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 56
+          },
+          {
+            "id": "7e9f5050-b051-46bb-b2a5-00d01354eeb7",
+            "position": "3",
+            "body": "Intolerância à lactose.",
+            "sanitized_body": "Intolerância à lactose.",
+            "correct": false,
+            "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+            "updated_at": "2020-11-10 17:21:40.327517 +0000 UTC",
+            "topics": [
+              {
+                "id": "ee8341154cd24a0ebda2b8a5a846b833",
+                "name": "Intolerância à Lactose",
+                "is_master": false,
+                "master_id": "0ea1aa8e3e25465392b6915ddf7cebc4",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Intolerância à Lactose",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Para que esse fosse o diagnóstico mais provável, deveria ser pontuado a correlação entre os sintomas gastrointestinais e o consumo de leite. e derivados.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Para que esse fosse o diagnóstico mais provável, deveria ser pontuado a correlação entre os sintomas gastrointestinais e o consumo de leite. e derivados.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:27:07.793296 +0000 UTC",
+              "updated_at": "2020-10-18 15:27:08.688484 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 6
+          },
+          {
+            "id": "3be6bd3f-62a6-403f-8ed8-364af3a3cf1c",
+            "position": "4",
+            "body": "Síndrome mal absortiva.",
+            "sanitized_body": "Síndrome mal absortiva.",
+            "correct": false,
+            "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+            "updated_at": "2020-11-10 17:21:40.420221 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Síndrome disabsortiva ou mal absortiva é termo usado para designar várias condições que cursam com disabsorção, caracterizada por distensão abdominal, flatulência e diarreia com esteatorreia.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Síndrome disabsortiva ou mal absortiva é termo usado para designar várias condições que cursam com disabsorção, caracterizada por distensão abdominal, flatulência e diarreia com esteatorreia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:27:07.783922 +0000 UTC",
+              "updated_at": "2020-10-18 15:27:08.69299 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 37
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente de 61 anos, sexo feminino, comparece à Unidade Básica de Saúde com queixa de diarreia recorrente iniciada há 2 anos. Refere 3 a 4 evacuações ao dia, sem sangue, pós-prandial, alternando com períodos de evacuações normais. Nega perda de peso. Refere cólicas abdominais difusas que aliviam com a evacuação. A diarreia não se associa com a ingestão de leite ou derivados. Refere antecedente de constipação crônica na infância. Aposentou-se recentemente. Exame físico normal. O médico de família solicitou exames que revelaram hematócrito 42%, hemoglobina 14 g/dl, VHS 15 mm/h, PCR 0,05 mg/dl, TSH 2,3 µU/ml, albumina 4,0 g/dl, hemoglobina glicada 5%, parasitológico de fezes negativo para protozoários e helmintos, pesquisa de leucócitos nas fezes negativa. Ileocolonoscopia normal. US de abdome normal. Qual o melhor diagnóstico?",
+        "statement_text": "Paciente de 61 anos, sexo feminino, comparece à Unidade Básica de Saúde com queixa de diarreia recorrente iniciada há 2 anos. Refere 3 a 4 evacuações ao dia, sem sangue, pós-prandial, alternando com períodos de evacuações normais. Nega perda de peso. Refere cólicas abdominais difusas que aliviam com a evacuação. A diarreia não se associa com a ingestão de leite ou derivados. Refere antecedente de constipação crônica na infância. Aposentou-se recentemente. Exame físico normal. O médico de família solicitou exames que revelaram hematócrito 42%, hemoglobina 14 g/dl, VHS 15 mm/h, PCR 0,05 mg/dl, TSH 2,3 µU/ml, albumina 4,0 g/dl, hemoglobina glicada 5%, parasitológico de fezes negativo para protozoários e helmintos, pesquisa de leucócitos nas fezes negativa. Ileocolonoscopia normal. US de abdome normal. Qual o melhor diagnóstico?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ffec26daa210b17ef0e613ffc385d270",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-11 14:26:42.871819 +0000 UTC",
+        "solution": {
+          "_key": "13ef04d1-f942-49c9-b528-f3e16d0ccf02",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Estamos diante de paciente idosa com diarreia crônica sem sangue alternando com evacuações normais e associada a dor abdominal que melhora com evacuação. Não apresentou perda ponderal, sem anemia, sem alterações nos marcadores inflamatórios, albumina normal, sem alterações tireoidenas, sem diabetes, sem evidência de parasitoses intestinais ou leucócitos fecais e, por fim, ultrassom e ileocolonoscopia normal.<div>Ou seja, a paciente foi extensamente investigada e não se diagnosticou nenhuma alteração nos seus exames. Qual a principal hipótese para o caso?!</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AEstamos diante de paciente idosa com diarreia crônica sem sangue alternando com evacuações normais e associada a dor abdominal que melhora com evacuação. Não apresentou perda ponderal, sem anemia, sem alterações nos marcadores inflamatórios, albumina normal, sem alterações tireoidenas, sem diabetes, sem evidência de parasitoses intestinais ou leucócitos fecais e, por fim, ultrassom e ileocolonoscopia normal.Ou seja, a paciente foi extensamente investigada e não se diagnosticou nenhuma alteração nos seus exames. Qual a principal hipótese para o caso?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 15:27:07.935144 +0000 UTC",
+          "updated_at": "2020-10-18 15:27:08.864729 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000033487-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-61-anos-sexo126b552b69f",
+        "public": true
+      },
+      {
+        "id": "4000022946",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F104A321-C2A2-1EB6-64DC-90A971F27755"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 200,
+            "created_at": "2020-09-02T22:19:00Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "74890fad7a084c538283fdac71fe3cfc",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fc58b4e8-09a2-4836-a1f4-594329851c4a",
+            "position": "0",
+            "body": "Implante endometrial no sigmoide.&nbsp;",
+            "sanitized_body": "Implante endometrial no sigmoide. ",
+            "correct": false,
+            "created_at": "2020-09-10 19:21:54.432672 +0000 UTC",
+            "updated_at": "2020-11-09 14:05:03.818102 +0000 UTC",
+            "topics": [
+              {
+                "id": "39821c5d50c04838bb4b1f5728b9d246",
+                "name": "Quadro clínico",
+                "is_master": false,
+                "master_id": "17c84258703b43df827a33c6da972222",
+                "path": "Ginecologia[$$]Ginecologia geral[$$]Endometriose[$$]Quadro clínico",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Em pacientes com endometriose, quando há implante em topografia de cólon, a paciente pode realmente cursar com dor abdominal e diarreia ou constipação, entretanto alguns pontos nos chamam atenção e nos levam a pensar em outras hipóteses: a melhora após evacuação, o fato de a paciente estar desempregada. Tais achados nos fazem pensar em distúrbios funcionais.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Em pacientes com endometriose, quando há implante em topografia de cólon, a paciente pode realmente cursar com dor abdominal e diarreia ou constipação, entretanto alguns pontos nos chamam atenção e nos levam a pensar em outras hipóteses: a melhora após evacuação, o fato de a paciente estar desempregada. Tais achados nos fazem pensar em distúrbios funcionais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:26:25.954009 +0000 UTC",
+              "updated_at": "2020-10-18 15:26:26.627439 +0000 UTC"
+            },
+            "answer_percentage": 27,
+            "answers": 112
+          },
+          {
+            "id": "980eb562-05c9-4d61-945e-c0c5eecba0c6",
+            "position": "1",
+            "body": "Distúrbio da modulação central da dor.",
+            "sanitized_body": "Distúrbio da modulação central da dor.",
+            "correct": true,
+            "created_at": "2020-09-10 19:21:54.432672 +0000 UTC",
+            "updated_at": "2020-11-09 14:05:03.882741 +0000 UTC",
+            "topics": [
+              {
+                "id": "978f6f7b4a814fff9f0ee1a818f50586",
+                "name": "Fisiopatologia",
+                "is_master": false,
+                "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Fisiopatologia",
+                "has_children": true,
+                "nodes": null
+              },
+              {
+                "id": "74890fad7a084c538283fdac71fe3cfc",
+                "name": "Manifestações Clínicas",
+                "is_master": false,
+                "master_id": "9f27efbfcb6a4edd9bd176e5d247897e",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Síndrome do Intestino Irritável[$$]Manifestações Clínicas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA. É provável que a paciente seja portadora de Síndrome do Intestino Irritável (SII), uma vez que a paciente é mulher, jovem, desempregada (contribuindo com os fatores psicológicos) e cursa com dor abdominal periódica com alteração na consistência das fezes e melhora após evacuação. Os exames normais corroboram com essa hipótese, uma vez que a SII é um distúrbio funcional. Na sua fisiopatologia, a SII envolve uma desregulação neural central com provável disfunção cerebral passível de determinar percepção exarcebada da dor visceral.<div><br></div>",
+              "sanitized_complete": "CORRETA. É provável que a paciente seja portadora de Síndrome do Intestino Irritável (SII), uma vez que a paciente é mulher, jovem, desempregada (contribuindo com os fatores psicológicos) e cursa com dor abdominal periódica com alteração na consistência das fezes e melhora após evacuação. Os exames normais corroboram com essa hipótese, uma vez que a SII é um distúrbio funcional. Na sua fisiopatologia, a SII envolve uma desregulação neural central com provável disfunção cerebral passível de determinar percepção exarcebada da dor visceral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:26:25.963343 +0000 UTC",
+              "updated_at": "2020-10-18 15:26:26.617783 +0000 UTC"
+            },
+            "answer_percentage": 60,
+            "answers": 253
+          },
+          {
+            "id": "d4e362de-2d7f-41a6-b832-f6090f206cad",
+            "position": "2",
+            "body": "Disabsorção de carboidratos por giardíase.",
+            "sanitized_body": "Disabsorção de carboidratos por giardíase.",
+            "correct": false,
+            "created_at": "2020-09-10 19:21:54.432672 +0000 UTC",
+            "updated_at": "2020-11-09 14:05:03.964775 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A maioria dos portadores de giardíase serão assintomáticos. Entretanto, alguns contaminados evoluirão com diarreia aguda e outros com quadro de diarreia crônica associada a esteatorreia, flatulência, distensão abdominal, perda de peso e anemia. Não é a principal hipótese para o caso.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A maioria dos portadores de giardíase serão assintomáticos. Entretanto, alguns contaminados evoluirão com diarreia aguda e outros com quadro de diarreia crônica associada a esteatorreia, flatulência, distensão abdominal, perda de peso e anemia. Não é a principal hipótese para o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:26:25.95405 +0000 UTC",
+              "updated_at": "2020-10-18 15:26:26.617814 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 18
+          },
+          {
+            "id": "01a86d6d-a5b5-403d-9529-94b68343ea09",
+            "position": "3",
+            "body": "Colite pseudomembranosa por Clostridium difficile.&nbsp;",
+            "sanitized_body": "Colite pseudomembranosa por Clostridium difficile. ",
+            "correct": false,
+            "created_at": "2020-09-10 19:21:54.432672 +0000 UTC",
+            "updated_at": "2020-11-09 14:05:04.021415 +0000 UTC",
+            "topics": [
+              {
+                "id": "e28daf67090e46f484f2bc19c29cb7a1",
+                "name": "Infecção por C. difficile",
+                "is_master": false,
+                "master_id": "46aa83c607684cb9aac982087517a261",
+                "path": "Clínica Médica[$$]Infectologia [$$]Infecções relacionadas à assistência à saúde (IRAS)[$$]Infecção por C. difficile",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA. Apesar da paciente ter usado antibiótico e a colite pseudomembranosa ser motivada por alteração na flora intestinal consequente ao uso de antibióticos, o quadro é ANTERIOR ao tratamento e já dura cerca de 4 meses, tornando improvável a hipótese de colite pseudomembranosa.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Apesar da paciente ter usado antibiótico e a colite pseudomembranosa ser motivada por alteração na flora intestinal consequente ao uso de antibióticos, o quadro é ANTERIOR ao tratamento e já dura cerca de 4 meses, tornando improvável a hipótese de colite pseudomembranosa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-18 15:26:25.963425 +0000 UTC",
+              "updated_at": "2020-10-18 15:26:26.633578 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 38
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher de 32 anos queixa-se de dor no quadrante inferior esquerdo do abdome, uma vez por semana, há 4 meses, associada a fezes liquefeitas, sem sangue. Melhora com a evacuação e piora no período menstrual. Usou amoxicilina há duas semanas para faringite. Está desempregada há 8 meses. Exames: Hematócrito 37%, hemoglobina 12 g/dl, VHS 5 mm, leucócitos 7.000/mm³, hormônios tireoidianos normais, glicemia de jejum 86 mg/dl. Retossigmoidoscopia sem lesões. Dentre as alternativas abaixo, qual o mecanismo fisiopatológico que melhor e mais frequentemente explica esta condição clínica?",
+        "statement_text": "Mulher de 32 anos queixa-se de dor no quadrante inferior esquerdo do abdome, uma vez por semana, há 4 meses, associada a fezes liquefeitas, sem sangue. Melhora com a evacuação e piora no período menstrual. Usou amoxicilina há duas semanas para faringite. Está desempregada há 8 meses. Exames: Hematócrito 37%, hemoglobina 12 g/dl, VHS 5 mm, leucócitos 7.000/mm³, hormônios tireoidianos normais, glicemia de jejum 86 mg/dl. Retossigmoidoscopia sem lesões. Dentre as alternativas abaixo, qual o mecanismo fisiopatológico que melhor e mais frequentemente explica esta condição clínica?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ffec26daa210b17ef0e613ffc385d270",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 19:21:54.432672 +0000 UTC",
+        "solution": {
+          "_key": "a674785a-a83c-4aa3-8182-2260ca73bf1c",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Estamos diante de paciente do sexo feminino com história de dor abdominal inferior crônica e periódica associada a alteração na consistência das fezes, sem sangue. Refere melhora com a evacuação e piora menstrual. Exames laboratoriais e retossigmoidoscopia são normais. Em que diagnóstico pensaremos nesse contexto?<div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BEstamos diante de paciente do sexo feminino com história de dor abdominal inferior crônica e periódica associada a alteração na consistência das fezes, sem sangue. Refere melhora com a evacuação e piora menstrual. Exames laboratoriais e retossigmoidoscopia são normais. Em que diagnóstico pensaremos nesse contexto?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-18 15:26:26.133996 +0000 UTC",
+          "updated_at": "2020-10-18 15:26:27.058731 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000022946-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-32-anos-queixa8670dbff10",
+        "public": true
+      },
+      {
+        "id": "4000016921",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F104A321-C2A2-1EB6-64DC-90A971F27755"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 200,
+            "created_at": "2020-09-02T22:19:00Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ee8341154cd24a0ebda2b8a5a846b833",
+            "name": "Intolerância à Lactose",
+            "is_master": false,
+            "master_id": "0ea1aa8e3e25465392b6915ddf7cebc4",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Intolerância à Lactose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "799b8ec5-f2f3-41b9-879b-613e90a0bfdc",
+            "position": "0",
+            "body": "Amilase pancreática e salivar.",
+            "sanitized_body": "Amilase pancreática e salivar.",
+            "correct": false,
+            "created_at": "2020-09-10 14:27:04.734808 +0000 UTC",
+            "updated_at": "2020-11-19 14:02:02.55237 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Apesar de a insuficiência pancreática exócrina ser causa de diarreia crônica com esteatorreia, ela não promoveria os achados histopatológicos citados.<div><br></div>",
+              "sanitized_complete": "INCORRETO. Apesar de a insuficiência pancreática exócrina ser causa de diarreia crônica com esteatorreia, ela não promoveria os achados histopatológicos citados.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 13:00:37.356263 +0000 UTC",
+              "updated_at": "2020-10-16 13:00:37.990717 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 23
+          },
+          {
+            "id": "b0b8548c-3fc0-446e-8a87-f42fc78ec9e5",
+            "position": "1",
+            "body": "Imunoglobulina A tecidual.",
+            "sanitized_body": "Imunoglobulina A tecidual.",
+            "correct": false,
+            "created_at": "2020-09-10 14:27:04.734808 +0000 UTC",
+            "updated_at": "2020-11-19 14:02:02.803814 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Item carece de maiores detalhes. Provavelmente, o autor quis remeter à dosagem de autoanticorpos da classe IgA que podem estar presentes na doença celíaca. A presença de vilosidades e criptas preservadas refuta essa hipótese.<div><br></div>",
+              "sanitized_complete": "INCORRETO. Item carece de maiores detalhes. Provavelmente, o autor quis remeter à dosagem de autoanticorpos da classe IgA que podem estar presentes na doença celíaca. A presença de vilosidades e criptas preservadas refuta essa hipótese.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 13:00:37.366567 +0000 UTC",
+              "updated_at": "2020-10-16 13:00:37.99841 +0000 UTC"
+            },
+            "answer_percentage": 30,
+            "answers": 96
+          },
+          {
+            "id": "61f76e05-3179-4a3c-b189-56da7d2e1715",
+            "position": "2",
+            "body": "Dissacaridase na borda em escova intestinal.",
+            "sanitized_body": "Dissacaridase na borda em escova intestinal.",
+            "correct": true,
+            "created_at": "2020-09-10 14:27:04.734808 +0000 UTC",
+            "updated_at": "2020-11-19 14:02:02.867187 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETO. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados.&nbsp;<div><br></div>",
+              "sanitized_complete": "CORRETO. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 13:00:37.353668 +0000 UTC",
+              "updated_at": "2020-10-16 13:00:37.970254 +0000 UTC"
+            },
+            "answer_percentage": 52,
+            "answers": 168
+          },
+          {
+            "id": "86fd4fd6-2cd3-45dd-a083-18b89a4f503c",
+            "position": "3",
+            "body": "Transportador de membrana GLUT-5 da frutose.",
+            "sanitized_body": "Transportador de membrana GLUT-5 da frutose.",
+            "correct": false,
+            "created_at": "2020-09-10 14:27:04.734808 +0000 UTC",
+            "updated_at": "2020-11-19 14:02:02.978696 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. O GLUT 5 é usado no transporte da frutose, propiciando a sua absorção. Defeitos nesse transportador levará a diarreia e outros sintomas de má absorção. É distúrbio mais raro e mais comum em crianças mais novas após introdução das frutas na dieta. O indivíduo passa a apresentar náuseas, vômitos, dor abdominal aguda após ingestão de alimentos que contenham frutose, desenvolvendo repulsa a eles.<div><br></div>",
+              "sanitized_complete": "INCORRETO. O GLUT 5 é usado no transporte da frutose, propiciando a sua absorção. Defeitos nesse transportador levará a diarreia e outros sintomas de má absorção. É distúrbio mais raro e mais comum em crianças mais novas após introdução das frutas na dieta. O indivíduo passa a apresentar náuseas, vômitos, dor abdominal aguda após ingestão de alimentos que contenham frutose, desenvolvendo repulsa a eles.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 13:00:37.37928 +0000 UTC",
+              "updated_at": "2020-10-16 13:00:37.98696 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 38
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem de 55 anos, com flatulência e diarreia intermitente há 20 anos, relata piora há 5 anos. Nega perda de peso. Antitransglutaminase tecidual normal, biópsia do duodeno distal: infiltrado linfomononuclear, com vilosidades e criptas preservadas. Hematócrito 45%, glicemia 92 mg/dl. Colonoscopia normal. Parasitológicos e sorologia para Giardia negativos. Glicemia 86 mg/dl. Tem dieta rica em leguminosas, frutas, lacticínios e cereais ricos em fibras. Que deficiência melhor explica este quadro?",
+        "statement_text": "Homem de 55 anos, com flatulência e diarreia intermitente há 20 anos, relata piora há 5 anos. Nega perda de peso. Antitransglutaminase tecidual normal, biópsia do duodeno distal: infiltrado linfomononuclear, com vilosidades e criptas preservadas. Hematócrito 45%, glicemia 92 mg/dl. Colonoscopia normal. Parasitológicos e sorologia para Giardia negativos. Glicemia 86 mg/dl. Tem dieta rica em leguminosas, frutas, lacticínios e cereais ricos em fibras. Que deficiência melhor explica este quadro?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ffec26daa210b17ef0e613ffc385d270",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 14:27:04.734808 +0000 UTC",
+        "solution": {
+          "_key": "d07fcfa4-e9b0-4616-be6e-d3e9e0bcebf7",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Estamos diante de paciente masculino com diarreia crônica intermitente sem perda de peso cuja biópsia revela infiltrado linfomononuclear associado a ausência de anormalidades em criptas. Demais exames são normais.</div><div><br><div>O autor quer saber qual a deficiência que melhor explicaria esse quadro. Vamos lá avaliar as alternativas?!</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CEstamos diante de paciente masculino com diarreia crônica intermitente sem perda de peso cuja biópsia revela infiltrado linfomononuclear associado a ausência de anormalidades em criptas. Demais exames são normais.O autor quer saber qual a deficiência que melhor explicaria esse quadro. Vamos lá avaliar as alternativas?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 13:00:37.502502 +0000 UTC",
+          "updated_at": "2020-10-16 13:00:38.060047 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000016921-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-55-anos-com69d93ca70e",
+        "public": true
+      },
+      {
+        "id": "4000127181",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ee8341154cd24a0ebda2b8a5a846b833",
+            "name": "Intolerância à Lactose",
+            "is_master": false,
+            "master_id": "0ea1aa8e3e25465392b6915ddf7cebc4",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Intolerância à Lactose",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7007e104-3750-4f72-aa29-b71cc7076646",
+            "position": "0",
+            "body": "Diarreia infecciosa persistente.",
+            "sanitized_body": "Diarreia infecciosa persistente.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.16489 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora algumas diarreias infecciosas possam causar síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidrato.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora algumas diarreias infecciosas possam causar síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidrato.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.504002 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.121069 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 31
+          },
+          {
+            "id": "7c68e301-aca8-4e27-934e-befd101042d9",
+            "position": "1",
+            "body": "Diarreia aguda recorrente.",
+            "sanitized_body": "Diarreia aguda recorrente.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.312148 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Pensamos em diarreia aguda quando o episódio é autolimitado e dura menos de 2 semanas. O paciente apresenta episódios recorrentes, o que nos leva a pensar em diarreia crônica.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Pensamos em diarreia aguda quando o episódio é autolimitado e dura menos de 2 semanas. O paciente apresenta episódios recorrentes, o que nos leva a pensar em diarreia crônica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.495777 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.14171 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 40
+          },
+          {
+            "id": "20c84ca6-a37c-487d-99d6-631bbc45b057",
+            "position": "2",
+            "body": "Parasitose intestinal.",
+            "sanitized_body": "Parasitose intestinal.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.392645 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Embora algumas parasitoses intestinais possam cursar com síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidratos.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Embora algumas parasitoses intestinais possam cursar com síndrome disabsortiva, os achados laboratoriais falam a favor de má absorção de carboidratos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.499824 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.133089 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 40
+          },
+          {
+            "id": "4d8281b9-b89c-4e86-84e6-e71bc21caf9e",
+            "position": "3",
+            "body": "Intolerância à lactose.",
+            "sanitized_body": "Intolerância à lactose.",
+            "correct": true,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.463991 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados. A presença de substâncias redutoras e o pH fecal reduzido (&lt;5,5-6) costumam estar presentes no contexto de má absorção de carboidratos.<div><br></div>",
+              "sanitized_complete": "CORRETA. A intolerância à lactose cursa com deficiência de dissacaridase contida na borda em escova intestinal, levando a quadro de diarreia e outros sintomas disabsortivos associados ao consumo de leites e derivados. A presença de substâncias redutoras e o pH fecal reduzido (&lt;5,5-6) costumam estar presentes no contexto de má absorção de carboidratos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.511319 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.147547 +0000 UTC"
+            },
+            "answer_percentage": 90,
+            "answers": 1104
+          },
+          {
+            "id": "2989279b-a5d4-42aa-9132-30b09357d41c",
+            "position": "4",
+            "body": "Doença inflamatória pélvica.",
+            "sanitized_body": "Doença inflamatória pélvica.",
+            "correct": false,
+            "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+            "updated_at": "2021-03-29 03:22:54.527282 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A doença inflamatória pélvia é infecção polimicrobiana do trato genital feminino, sendo sexualmente transmissível, o que fala contra o caso, já que estamos diante de pré-escolar. Ademais, os sintomas são dor abdominal baixa, corrimento vaginal, sangramento vaginal etc. Nada tem a ver com o caso apresentado.<div><br></div>",
+              "sanitized_complete": "INCORRETA. A doença inflamatória pélvia é infecção polimicrobiana do trato genital feminino, sendo sexualmente transmissível, o que fala contra o caso, já que estamos diante de pré-escolar. Ademais, os sintomas são dor abdominal baixa, corrimento vaginal, sangramento vaginal etc. Nada tem a ver com o caso apresentado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-16 14:12:47.504155 +0000 UTC",
+              "updated_at": "2020-10-16 14:12:48.140581 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas   logo após a ingestão de alimentos. No atendimento atual a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5. Qual a suspeita diagnóstica principal?",
+        "statement_text": "Criança em idade pré-escolar foi atendida na Unidade Básica de Saúde, por diversas vezes, com quadro diarreico semelhante: diarreia importante e evacuações explosivas   logo após a ingestão de alimentos. No atendimento atual a criança encontra-se desidratada, apresenta assadura perianal e distensão abdominal. Os exames laboratoriais evidenciaram a presença de substâncias redutoras nas fezes e pH fecal menor do que 5,5. Qual a suspeita diagnóstica principal?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:51:21.241693 +0000 UTC",
+        "solution": {
+          "_key": "9a76af9e-a1b4-4a3e-9f94-270f9cbde25d",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Estamos diante de criança com DIARREIA EXPLOSIVA após INGESTÃO DE ALIMENTOS, evoluindo com ASSADURA PERIANAL e DISTENSÃO ABDOMINAL. Esse quadro clínico deve nos fazer pensar em DIARREIA por DISABSORÇÃO.</div><div><br><div>Ademais, apresenta SUBSTÂNCIAS REDUTORAS NAS FEZES e PH FECAL &lt; 5,5. Qual a principal hipótese diagnóstica para o caso?</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DEstamos diante de criança com DIARREIA EXPLOSIVA após INGESTÃO DE ALIMENTOS, evoluindo com ASSADURA PERIANAL e DISTENSÃO ABDOMINAL. Esse quadro clínico deve nos fazer pensar em DIARREIA por DISABSORÇÃO.Ademais, apresenta SUBSTÂNCIAS REDUTORAS NAS FEZES e PH FECAL &lt; 5,5. Qual a principal hipótese diagnóstica para o caso?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-16 14:12:47.677354 +0000 UTC",
+          "updated_at": "2020-10-16 14:12:48.243824 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127181-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-idade-pre67799dab47",
+        "public": true
+      },
+      {
+        "id": "4000079122",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "af651dfc-56df-4f08-b73d-3f9eb02e1f69",
+                "name": "RJ - Universidade Federal do Rio de Janeiro - UFRJ (Hospital Universitário Clementino Fraga Filho -- HUCFF)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5482181C-431A-683F-C644-6EFB14E4B424"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-08T10:16:07Z",
+            "updated_at": "2020-11-26T03:10:59Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2fe45d7bbe2f4fa4a210b2140f691b43",
+            "name": "Doença Celíaca",
+            "is_master": false,
+            "master_id": "0ea1aa8e3e25465392b6915ddf7cebc4",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Distúrbios Disabsortivos[$$]Doença Celíaca",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "cb52d8f12d1a4866a06c199506a35fa7",
+            "name": "Refratariedade ao tratamento da anemia ferropriva",
+            "is_master": false,
+            "master_id": "f982258f06244ace9941b734332753f9",
+            "path": "Clínica Médica[$$]Hematologia [$$]Anemias microcíticas[$$]Anemia ferropriva[$$]Tratamento da anemia ferropriva[$$]Refratariedade ao tratamento da anemia ferropriva",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d8a41894-531e-463f-a327-1738cba1edbd",
+            "position": "0",
+            "body": "Doença celíaca.",
+            "sanitized_body": "Doença celíaca.",
+            "correct": true,
+            "created_at": "2020-09-14 15:13:10.609713 +0000 UTC",
+            "updated_at": "2020-11-26 03:07:45.191208 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A correta: como vimos acima, a doença celíaca é uma clássica causa de absorção diminuída de ferro e, portanto, de refratariedade à reposição oral desse nutriente.&nbsp;",
+              "sanitized_complete": "Alternativa A correta: como vimos acima, a doença celíaca é uma clássica causa de absorção diminuída de ferro e, portanto, de refratariedade à reposição oral desse nutriente. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+              "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:08:09.846747 +0000 UTC",
+              "updated_at": "2020-11-26 03:09:09.758278 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 156
+          },
+          {
+            "id": "15fa4286-3d04-4296-b09f-8a62ba169675",
+            "position": "1",
+            "body": "Hemocromatose primária.",
+            "sanitized_body": "Hemocromatose primária.",
+            "correct": false,
+            "created_at": "2020-09-14 15:13:10.609713 +0000 UTC",
+            "updated_at": "2020-11-26 03:07:45.314708 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta:  hemocromatose se refere a um estado de sobrecarga de ferro no organismo, levando à sua deposição nos tecidos, principalmente fígado, coração, pâncreas e gônadas. A maioria dos casos é secundária a um regime de transfusões crônicas: cada concentrado de hemácias traz consigo 250mg de ferro na forma de hemoglobina. Já causas primárias de hemocromatose envolvem defeitos genéticos em reguladores de absorção de ferro, fazendo que não haja controle da entrada desse mineral no organismo.&nbsp;<div><br></div><div>Portanto, na hemocromatose primária esperamos absorção aumentada de ferro, sendo incompatível com a presença concomitante de anemia ferropriva.&nbsp;</div>",
+              "sanitized_complete": "Alternativa B incorreta:  hemocromatose se refere a um estado de sobrecarga de ferro no organismo, levando à sua deposição nos tecidos, principalmente fígado, coração, pâncreas e gônadas. A maioria dos casos é secundária a um regime de transfusões crônicas: cada concentrado de hemácias traz consigo 250mg de ferro na forma de hemoglobina. Já causas primárias de hemocromatose envolvem defeitos genéticos em reguladores de absorção de ferro, fazendo que não haja controle da entrada desse mineral no organismo. Portanto, na hemocromatose primária esperamos absorção aumentada de ferro, sendo incompatível com a presença concomitante de anemia ferropriva. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+              "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:08:09.834754 +0000 UTC",
+              "updated_at": "2020-11-26 03:09:09.752974 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 5
+          },
+          {
+            "id": "b496325e-edf7-4e01-8430-6d6aeeeafcef",
+            "position": "2",
+            "body": "Talassemia alfa.",
+            "sanitized_body": "Talassemia alfa.",
+            "correct": false,
+            "created_at": "2020-09-14 15:13:10.609713 +0000 UTC",
+            "updated_at": "2020-11-26 03:07:45.444378 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C incorreta: talassemias são hemoglobinopatias quantitativas congênitas, isto é, defeitos hereditários da produção de hemoglobina. Decorrem de mutações nos genes das cadeias de globina, como as cadeias beta no caso da beta-talassemia. Como a hemoglobina é formada por 2 pares de cadeias de globina ligados cada um a um grupo heme, o déficit de síntese de globinas leva à menor produção de hemoglobina e, consequentemente, anemia microcítica e hipocrômica.&nbsp;<div><br></div><div>Desse modo, talassemias são um importante diagnóstico diferencial da anemia ferropriva. Entretanto, diferem quanto ao perfil de ferro: por mecanismos não totalmente esclarecidos, os pacientes talassêmicos possuem uma maior absorção desse nutriente, como se o organismo “tentasse” corrigir o defeito na síntese de hemoglobina com maior aporte de ferro.</div><div><br></div><div>No caso de nosso paciente, em que o examinador afirma haver anemia ferropriva, é pouco provável a concomitância de talassemia e, mesmo que houvesse, ela ajudaria na absorção da reposição oral de ferro, não a prejudicaria.&nbsp;</div>",
+              "sanitized_complete": "Alternativa C incorreta: talassemias são hemoglobinopatias quantitativas congênitas, isto é, defeitos hereditários da produção de hemoglobina. Decorrem de mutações nos genes das cadeias de globina, como as cadeias beta no caso da beta-talassemia. Como a hemoglobina é formada por 2 pares de cadeias de globina ligados cada um a um grupo heme, o déficit de síntese de globinas leva à menor produção de hemoglobina e, consequentemente, anemia microcítica e hipocrômica. Desse modo, talassemias são um importante diagnóstico diferencial da anemia ferropriva. Entretanto, diferem quanto ao perfil de ferro: por mecanismos não totalmente esclarecidos, os pacientes talassêmicos possuem uma maior absorção desse nutriente, como se o organismo “tentasse” corrigir o defeito na síntese de hemoglobina com maior aporte de ferro.No caso de nosso paciente, em que o examinador afirma haver anemia ferropriva, é pouco provável a concomitância de talassemia e, mesmo que houvesse, ela ajudaria na absorção da reposição oral de ferro, não a prejudicaria. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+              "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:08:09.841033 +0000 UTC",
+              "updated_at": "2020-11-26 03:09:09.764006 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 13
+          },
+          {
+            "id": "3424533a-7772-4ed6-9059-6e164289f847",
+            "position": "3",
+            "body": "Anemia falciforme.",
+            "sanitized_body": "Anemia falciforme.",
+            "correct": false,
+            "created_at": "2020-09-14 15:13:10.609713 +0000 UTC",
+            "updated_at": "2020-11-26 03:07:45.562667 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta: a anemia falciforme é uma hemoglobinopatia qualitativa congênita, ou seja, uma alteração estrutural hereditária da hemoglobina. Nessa situação, uma mutação pontual altera a cadeia de beta globina e cria uma hemoglobina anômala chamada HbS, cuja solubilidade diminuída em situações de desoxigenação leva a formação de longos polímeros.&nbsp;<div><br></div><div>Essa polimerização da HbS leva à falcização das hemácias, um fenômeno de alteração da forma bicôncava habitual dessas células para um formato de foice. Por serem menos deformáveis que o normal, as hemácias em foice ou drepanócitos sofrem hemólise e obstruem a microcirculação dos órgãos, levando ao quadro típico de anemia hemolítica crônica com eventos vaso-oclusivos que caracteriza a anemia falciforme.&nbsp;</div><div><br></div><div>A anemia falciforme não cursa tipicamente com ferropenia e seu mecanismo fisiopatológico não interfere na absorção de ferro, sendo que a reposição do mineral raramente é necessária nesses pacientes. Pelo contrário, eles muitas vezes sofrem com sobrecarga de ferro, já que recebem inúmeras transfusões ao longo da vida.&nbsp;</div>",
+              "sanitized_complete": "Alternativa D incorreta: a anemia falciforme é uma hemoglobinopatia qualitativa congênita, ou seja, uma alteração estrutural hereditária da hemoglobina. Nessa situação, uma mutação pontual altera a cadeia de beta globina e cria uma hemoglobina anômala chamada HbS, cuja solubilidade diminuída em situações de desoxigenação leva a formação de longos polímeros. Essa polimerização da HbS leva à falcização das hemácias, um fenômeno de alteração da forma bicôncava habitual dessas células para um formato de foice. Por serem menos deformáveis que o normal, as hemácias em foice ou drepanócitos sofrem hemólise e obstruem a microcirculação dos órgãos, levando ao quadro típico de anemia hemolítica crônica com eventos vaso-oclusivos que caracteriza a anemia falciforme. A anemia falciforme não cursa tipicamente com ferropenia e seu mecanismo fisiopatológico não interfere na absorção de ferro, sendo que a reposição do mineral raramente é necessária nesses pacientes. Pelo contrário, eles muitas vezes sofrem com sobrecarga de ferro, já que recebem inúmeras transfusões ao longo da vida. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+              "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:08:09.845224 +0000 UTC",
+              "updated_at": "2020-11-26 03:09:09.773041 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Jovem com anemia ferropriva, sem evidência de perda sanguínea após exaustiva investigação e refratária à reposição oral com sulfato ferroso. O diagnóstico provável é:",
+        "statement_text": "Jovem com anemia ferropriva, sem evidência de perda sanguínea após exaustiva investigação e refratária à reposição oral com sulfato ferroso. O diagnóstico provável é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "5b7fab9cdccf6dabc6bfc1a30018f8b2",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-14 15:13:10.609713 +0000 UTC",
+        "forum_id": "81b6d898-9258-47bd-b40e-7f5171da611e",
+        "solution": {
+          "_key": "ddc8fc0f-195a-4606-bfe0-75b3440d0b44",
+          "complete": "<b>GABARITO: ALTERNATIVA A.</b><div><b><br></b></div><div>Questão clássica! Guarde essa informação:<b> anemia ferropriva refratária ao tratamento com reposição oral de ferro tem que nos fazer pensar principalmente em doença celíaca!&nbsp;</b></div><div><br></div><div>A<b> anemia ferropriva</b> é uma condição decorrente da redução do ferro corporal total, decorrente de<b> carência nutricional</b> (rara em adultos) ou, mais frequentemente, <b>sangramento crônico</b>, seja via gastrointestinal ou ginecológica, levando a perda de hemoglobina e consequentemente de ferro.&nbsp;</div><div><br></div><div>O<b> ferro </b>é um componente essencial da hemoglobina e a hemoglobina um componente essencial das hemácias, assim a deficiência de ferro acaba por impactar o crescimento normal dessas células. Daí a apresentação típica da anemia ferropriva: uma <b>anemia microcítica e hipocrômica</b>, isto é, com hemácias de tamanho e teor de hemoglobina menores que o habitual.&nbsp;</div><div><br></div><div>O diagnóstico dessa condição é firmado pela verificação de redução dos níveis de <b>ferritina</b>, já que essa proteína é a principal representante dos estoques intracelulares de ferro: <b>ferritina reduzida indica reservas de ferro consumidas</b>, a primeira alteração esperada em situações de ferropenia.&nbsp;</div><div><br></div><div>O tratamento da anemia ferropriva é feito com a <b>reposição oral de ferro</b>, associada à investigação etiológica da causa da ferropenia. <b>A via oral é preferencial à via endovenosa </b>por possuir efetividade comparável, mas com menor custo e incidência de efeitos adversos. Assim, a via parenteral é reservada para pacientes refratários ou intolerantes ao uso de sais ferrosos orais.&nbsp;</div><div><br></div><div>Quando um paciente é refratário à reposição oral de ferro, devemos pensar se seu diagnóstico foi feito corretamente.<b> É comum que pacientes com formas menores de talassemias sejam confundidos e tratados inadvertidamente como ferropênicos.</b> Caso realmente o paciente possua anemia ferropriva e esteja tomando corretamente as medicações, devemos cogitar situações de absorção reduzida de ferro, especialmente a <b>doença celíaca</b> e <b>estados de hipocloridria</b> (como o caso da infecção pelo H. pylori).&nbsp;</div><div><br></div><div><b>Na prova de residência, quase sempre a causa da refratariedade aos sais ferrosos será a doença celíaca</b>, uma enteropatia crônica de caráter autoimune, desencadeada pela exposição ao glúten. O quadro inflamatório intestinal atrapalha a absorção de ferro pelo duodeno, podendo ser causa de anemia ferropriva e de sua falta de resposta ao tratamento oral.&nbsp;</div><div><br></div><div>Já <b>estados de hipocloridria </b>dificultam a absorção de ferro porque o ácido clorídrico do estômago tem papel importante na absorção desse mineral, ao converter sua forma férrica (Fe3+) da dieta para a forma ferrosa (Fe2+), melhor absorvida pelos enterócitos duodenais.&nbsp;</div><div><br></div><div>Com essas informações em mente, vejamos as alternativas:&nbsp;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA A.Questão clássica! Guarde essa informação: anemia ferropriva refratária ao tratamento com reposição oral de ferro tem que nos fazer pensar principalmente em doença celíaca! A anemia ferropriva é uma condição decorrente da redução do ferro corporal total, decorrente de carência nutricional (rara em adultos) ou, mais frequentemente, sangramento crônico, seja via gastrointestinal ou ginecológica, levando a perda de hemoglobina e consequentemente de ferro. O ferro é um componente essencial da hemoglobina e a hemoglobina um componente essencial das hemácias, assim a deficiência de ferro acaba por impactar o crescimento normal dessas células. Daí a apresentação típica da anemia ferropriva: uma anemia microcítica e hipocrômica, isto é, com hemácias de tamanho e teor de hemoglobina menores que o habitual. O diagnóstico dessa condição é firmado pela verificação de redução dos níveis de ferritina, já que essa proteína é a principal representante dos estoques intracelulares de ferro: ferritina reduzida indica reservas de ferro consumidas, a primeira alteração esperada em situações de ferropenia. O tratamento da anemia ferropriva é feito com a reposição oral de ferro, associada à investigação etiológica da causa da ferropenia. A via oral é preferencial à via endovenosa por possuir efetividade comparável, mas com menor custo e incidência de efeitos adversos. Assim, a via parenteral é reservada para pacientes refratários ou intolerantes ao uso de sais ferrosos orais. Quando um paciente é refratário à reposição oral de ferro, devemos pensar se seu diagnóstico foi feito corretamente. É comum que pacientes com formas menores de talassemias sejam confundidos e tratados inadvertidamente como ferropênicos. Caso realmente o paciente possua anemia ferropriva e esteja tomando corretamente as medicações, devemos cogitar situações de absorção reduzida de ferro, especialmente a doença celíaca e estados de hipocloridria (como o caso da infecção pelo H. pylori). Na prova de residência, quase sempre a causa da refratariedade aos sais ferrosos será a doença celíaca, uma enteropatia crônica de caráter autoimune, desencadeada pela exposição ao glúten. O quadro inflamatório intestinal atrapalha a absorção de ferro pelo duodeno, podendo ser causa de anemia ferropriva e de sua falta de resposta ao tratamento oral. Já estados de hipocloridria dificultam a absorção de ferro porque o ácido clorídrico do estômago tem papel importante na absorção desse mineral, ao converter sua forma férrica (Fe3+) da dieta para a forma ferrosa (Fe2+), melhor absorvida pelos enterócitos duodenais. Com essas informações em mente, vejamos as alternativas: ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+          "author_email_id": "3b8a2fe0d195476c580bf516a157d2a5",
+          "author_profile": {
+            "id": "39d2b5ca-e0e6-4492-9026-f213b2903874",
+            "full_name": "Hugo Brisolla",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Formado em Medicina pela Universidade Estadual de Londrina - UEL, residência em Clínica Médica pela Universidade Estadual de Londrina - UEL, residência em Hematologia e Hemoterapia pelo Hospital Israelita Albert Einstein. Atualmente, médico hematologista do Hospital do Câncer de Londrina e professor do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/hugobrisolla",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-10 14:08:10.033183 +0000 UTC",
+          "updated_at": "2020-11-26 03:09:09.968091 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000079122-720.mp4",
+        "unlisted": false,
+        "slug": "Jovem-com-anemia249799dea8",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 31
+    }
+  }

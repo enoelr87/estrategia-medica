@@ -4,8 +4,6 @@ import { QuestionsCourseComponent } from './questions-course.component';
 import { QuestionsCourseRoutingModule } from './questions-course-routing.module';
 import { ContentListComponent } from './components/content-list/content-list.component';
 
-
-
 @NgModule({
   declarations: [
     QuestionsCourseComponent,

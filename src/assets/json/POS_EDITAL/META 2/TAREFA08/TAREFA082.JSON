@@ -1,0 +1,3231 @@
+{
+    "data": [
+      {
+        "id": "4000168928",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "06a40386-1ed7-4afc-a6b9-fe8ec9509d90",
+                "name": "ES - Universidade Federal do Espírito Santo - UFES (Hospital Universitário Cassiano Antônio de Moraes - HUCAM)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "1FAF20B5-A2B6-CDB8-0F08-F2405A8A8DDC"
+              },
+              {
+                "type": "ANSWER",
+                "url": "E71A5F5A-39FF-4582-6A36-1A2ABA9C0F69"
+              },
+              {
+                "type": "EXAM",
+                "url": "6339CD94-1630-19F4-EF38-1C4FB3ECED5C"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2022-01-04T15:53:57Z",
+            "updated_at": "2022-01-04T17:51:39Z",
+            "location": {
+              "id": "9"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "b01e59d01d0543299a3ea1554c2986bb",
+            "name": "Método Clínico Centrado na Pessoa",
+            "is_master": false,
+            "master_id": "e713cef0f17a4c4cbc34644d4910f3b7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Método Clínico Centrado na Pessoa",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d3da3986-7c3a-4476-9530-98178dd54899",
+            "position": "0",
+            "body": "Explorando a saúde, a doença e a experiência da doença.\n",
+            "sanitized_body": "Explorando a saúde, a doença e a experiência da doença.\n",
+            "correct": false,
+            "created_at": "2022-01-04 20:31:56.245861 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois a dificuldade do profissional é dificuldade \"em estabelecer uma relação mais horizontal com as pessoas\". A exploração da saúde e experiência é algo subjetivo e próprio do paciente.",
+              "sanitized_complete": "Incorreto, pois a dificuldade do profissional é dificuldade &#34;em estabelecer uma relação mais horizontal com as pessoas&#34;. A exploração da saúde e experiência é algo subjetivo e próprio do paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-30 22:41:29.391179 +0000 UTC",
+              "updated_at": "2022-01-30 22:43:50.971049 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 32
+          },
+          {
+            "id": "cb5360f2-b119-4a8a-9b62-09de0fc60f66",
+            "position": "1",
+            "body": "Entendendo a pessoa como um todo (individuo, família e contexto).",
+            "sanitized_body": "Entendendo a pessoa como um todo (individuo, família e contexto).",
+            "correct": false,
+            "created_at": "2022-01-04 20:31:56.245861 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos acima.",
+              "sanitized_complete": "Incorreto, como vimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-30 22:41:29.385329 +0000 UTC",
+              "updated_at": "2022-01-30 22:43:50.959642 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 52
+          },
+          {
+            "id": "64f2e3d0-6010-41b8-ad73-47691cef4561",
+            "position": "2",
+            "body": "Elaborando um plano conjunto de manejo dos problemas.\n",
+            "sanitized_body": "Elaborando um plano conjunto de manejo dos problemas.\n",
+            "correct": false,
+            "created_at": "2022-01-04 20:31:56.245861 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois a principal dificuldade do profissional é de criar uma relação adequada com seu paciente, em que haja confiança bilateral.<div><br></div>",
+              "sanitized_complete": "Incorreto, pois a principal dificuldade do profissional é de criar uma relação adequada com seu paciente, em que haja confiança bilateral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-30 22:41:29.390899 +0000 UTC",
+              "updated_at": "2022-01-30 22:43:50.962721 +0000 UTC"
+            },
+            "answer_percentage": 58,
+            "answers": 436
+          },
+          {
+            "id": "68ddc3b1-bde7-4f5a-9ff9-795f830e3e6d",
+            "position": "3",
+            "body": "Fortalecendo a relação entre a pessoa e o médico.",
+            "sanitized_body": "Fortalecendo a relação entre a pessoa e o médico.",
+            "correct": true,
+            "created_at": "2022-01-04 20:31:56.245861 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Há falha no estabelecimento de uma relação médico-paciente, o que prejudica o cuidado prestado pelo profissional.",
+              "sanitized_complete": "Correto. Há falha no estabelecimento de uma relação médico-paciente, o que prejudica o cuidado prestado pelo profissional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-30 22:41:29.368425 +0000 UTC",
+              "updated_at": "2022-01-30 22:43:50.971836 +0000 UTC"
+            },
+            "answer_percentage": 31,
+            "answers": 233
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um medico que atua na Atenção Primaria à Saúde percebeu, após conversar com <span>alguns colegas, que tinha grande dificuldade de compartilhar algumas decisões </span><span>terapêuticas com seus pacientes. Na visão dele, determinação da conduta a ser adotada </span><span>nas consultas era uma ação exclusiva do médico. Ao perceber que essa sua dificuldade </span><span>em estabelecer uma relação mais horizontal com as pessoas prejudicava o cuidado </span><span>prestado a certos tipos de pacientes resolveu procurar ajuda profissional para lidar de </span><span>outra forma com suas emoções. Em qual componente de Método Clinico Centrado na </span><span>Pessoa a atitude do médico melhor se enquadra?</span>",
+        "statement_text": "Um medico que atua na Atenção Primaria à Saúde percebeu, após conversar com alguns colegas, que tinha grande dificuldade de compartilhar algumas decisões terapêuticas com seus pacientes. Na visão dele, determinação da conduta a ser adotada nas consultas era uma ação exclusiva do médico. Ao perceber que essa sua dificuldade em estabelecer uma relação mais horizontal com as pessoas prejudicava o cuidado prestado a certos tipos de pacientes resolveu procurar ajuda profissional para lidar de outra forma com suas emoções. Em qual componente de Método Clinico Centrado na Pessoa a atitude do médico melhor se enquadra?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-01-04 20:31:56.245861 +0000 UTC",
+        "forum_id": "876bddc1-5a14-4ffc-953e-0f958cbea891",
+        "solution": {
+          "_key": "b11c4c7b-c072-4817-b3b1-e003e9a0d013",
+          "complete": "Estrategista, <div><br></div><div>O Método Clínico Centrado na Pessoa (MCCP) é um tipo de abordagem individual aplicada durante a consulta médica e que tem por objetivo “compartilhar o poder da relação” médico e paciente, onde o médico cede “poder” para o paciente, para que ele opine sobre seu processo de adoecimento e seu plano terapêutico (1).</div><div><br></div><div>O MCCP conta com quatro componentes básicos: </div><div><br></div><div>Passo 1: Explorando a Saúde, a Doença e a Experiência da Doença – Esse é o componente que tenta entender a percepção do paciente sobre o seu adoecimento. Por exemplo, segundo William Osler, a doença (do inglês, “disease”) “é o que todos com essa patologia em comum têm”, mas a experiencia sobre a doença (em inglês, “illness”) “é única para cada pessoa”, sendo assim uma experiência subjetiva (1).</div><div><br></div><div> Por isso, segundo o Tratado de Medicina de Família, quatro aspectos podem ser observados no sentido de entender essa experiência do indivíduo em relação à doença. Em outras palavras, observe que a experiência da doença por parte do indivíduo (illness) pode ser acessado pelo médico pelo acrônimo SIFE (2). </div><div><br></div><div> Sentimento: os sentimentos da pessoa, incluindo o medo de estar doente. </div><div> Ideia: o que ela pensa que está errado com ela (chamado também de modelo teórico que explica a doença). </div><div> Funcionamento: o efeito da doença sobre o funcionamento da sua vida – o que modificou? Quais são os aspectos que sofrem interferência dessa doença? </div><div> Expectativa: o que o indivíduo espera do seu médico (quais são suas expectativas?)</div><div><br></div><div>Passo 2: Entendendo a pessoa como um todo – o indivíduo, a família e o contexto – Esse é o componente que auxilia o médico a entender o contexto de vida daquele paciente. Geralmente, esse é um componente que não se constrói no momento da consulta, mas é construído a partir de todas as outras vezes que o médico já atendeu aquele paciente ou a sua família (abordagem familiar). Por exemplo, por conhecer aquele paciente, o médico sabe onde ele onde mora, qual a sua atividade ocupacional, quais são as doenças existentes na família, qual é a própria história patológica pregressa do paciente, entre outras informações. Logo, é uma reunião de informações sobre diversos aspectos da vida daquela pessoa, e que ajudam o médico a entender os ciclos de vida e como eles interferem no processo atual de adoecimento, bem como ajuda a identificar outros aspectos que estão interferindo nesse problema, ajudando-o a propor medidas multidisciplinares e maior resolutividade. P</div><div><br></div><div>Passo 3: Elaborando um plano conjunto de manejo dos problemas – O terceiro ponto do MCCP é a elaboração do plano terapêutico tendo o paciente como protagonista desse processo. A partir do momento em que o médico cede poder de decisão para o paciente, esse indivíduo melhora a sua compreensão sobre o processo de adoecimento e apresenta maior nível de adesão.</div><div><br></div><div>Passo 4: Intensificando a relação entre a pessoa e o médico. Por último, o quarto componente do MCCP tem por objetivo intensificar a relação médico-paciente. </div><div><br></div><div>Agora vamos às alternativas!</div>",
+          "sanitized_complete": "Estrategista, O Método Clínico Centrado na Pessoa (MCCP) é um tipo de abordagem individual aplicada durante a consulta médica e que tem por objetivo “compartilhar o poder da relação” médico e paciente, onde o médico cede “poder” para o paciente, para que ele opine sobre seu processo de adoecimento e seu plano terapêutico (1).O MCCP conta com quatro componentes básicos: Passo 1: Explorando a Saúde, a Doença e a Experiência da Doença – Esse é o componente que tenta entender a percepção do paciente sobre o seu adoecimento. Por exemplo, segundo William Osler, a doença (do inglês, “disease”) “é o que todos com essa patologia em comum têm”, mas a experiencia sobre a doença (em inglês, “illness”) “é única para cada pessoa”, sendo assim uma experiência subjetiva (1). Por isso, segundo o Tratado de Medicina de Família, quatro aspectos podem ser observados no sentido de entender essa experiência do indivíduo em relação à doença. Em outras palavras, observe que a experiência da doença por parte do indivíduo (illness) pode ser acessado pelo médico pelo acrônimo SIFE (2).  Sentimento: os sentimentos da pessoa, incluindo o medo de estar doente.  Ideia: o que ela pensa que está errado com ela (chamado também de modelo teórico que explica a doença).  Funcionamento: o efeito da doença sobre o funcionamento da sua vida – o que modificou? Quais são os aspectos que sofrem interferência dessa doença?  Expectativa: o que o indivíduo espera do seu médico (quais são suas expectativas?)Passo 2: Entendendo a pessoa como um todo – o indivíduo, a família e o contexto – Esse é o componente que auxilia o médico a entender o contexto de vida daquele paciente. Geralmente, esse é um componente que não se constrói no momento da consulta, mas é construído a partir de todas as outras vezes que o médico já atendeu aquele paciente ou a sua família (abordagem familiar). Por exemplo, por conhecer aquele paciente, o médico sabe onde ele onde mora, qual a sua atividade ocupacional, quais são as doenças existentes na família, qual é a própria história patológica pregressa do paciente, entre outras informações. Logo, é uma reunião de informações sobre diversos aspectos da vida daquela pessoa, e que ajudam o médico a entender os ciclos de vida e como eles interferem no processo atual de adoecimento, bem como ajuda a identificar outros aspectos que estão interferindo nesse problema, ajudando-o a propor medidas multidisciplinares e maior resolutividade. PPasso 3: Elaborando um plano conjunto de manejo dos problemas – O terceiro ponto do MCCP é a elaboração do plano terapêutico tendo o paciente como protagonista desse processo. A partir do momento em que o médico cede poder de decisão para o paciente, esse indivíduo melhora a sua compreensão sobre o processo de adoecimento e apresenta maior nível de adesão.Passo 4: Intensificando a relação entre a pessoa e o médico. Por último, o quarto componente do MCCP tem por objetivo intensificar a relação médico-paciente. Agora vamos às alternativas!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-30 22:41:29.521052 +0000 UTC",
+          "updated_at": "2022-01-30 22:43:51.013081 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "medico-que-atua-Atenca896c8c5ba2",
+        "public": true
+      },
+      {
+        "id": "4000168724",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "0a315fc2-21c5-4185-806d-a9a6ab041b19",
+                "name": "MG - Processo Seletivo Unificado - PSU MG"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "810AB805-4D87-F4AF-EDB7-80874A272252"
+              },
+              {
+                "type": "EXAM",
+                "url": "A7D7E762-6A40-6E9B-2751-F62D133262AA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "0E3E5578-D122-27D5-ABF5-E867B95022C1"
+              },
+              {
+                "type": "ANSWER",
+                "url": "58A96A54-4A65-831F-CFC9-8AA4A1B333D0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 75,
+            "created_at": "2022-01-03T19:28:11Z",
+            "location": {
+              "id": "12"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "name": "Psiquiatria Infantil",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6fddbafbf318448d90bfa739e52cad53",
+            "name": "Violência ",
+            "is_master": false,
+            "master_id": "e713cef0f17a4c4cbc34644d4910f3b7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Violência ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5ad4c16b-f9b9-4a03-b64f-a06aeea663e5",
+            "position": "0",
+            "body": "Somente as afirmativas I e III são verdadeiras \n",
+            "sanitized_body": "Somente as afirmativas I e III são verdadeiras \n",
+            "correct": false,
+            "created_at": "2022-01-03 21:59:47.943636 +0000 UTC",
+            "updated_at": "2022-02-07 11:16:35.182391 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-06 18:32:26.065812 +0000 UTC",
+              "updated_at": "2022-02-06 18:35:56.3162 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 61
+          },
+          {
+            "id": "420f0b2a-84ae-4b1f-a373-470b0846474c",
+            "position": "1",
+            "body": "As afirmativas I, II e IV são verdadeiras",
+            "sanitized_body": "As afirmativas I, II e IV são verdadeiras",
+            "correct": false,
+            "created_at": "2022-01-03 21:59:47.943636 +0000 UTC",
+            "updated_at": "2022-02-07 11:16:35.230348 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-06 18:32:25.910075 +0000 UTC",
+              "updated_at": "2022-02-06 18:35:56.31645 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 23
+          },
+          {
+            "id": "f91d5be7-4fc6-4cb4-9891-e6b0ddb98584",
+            "position": "2",
+            "body": "Apenas a afirmativa IV é falsa \n",
+            "sanitized_body": "Apenas a afirmativa IV é falsa \n",
+            "correct": true,
+            "created_at": "2022-01-03 21:59:47.943636 +0000 UTC",
+            "updated_at": "2022-02-07 11:16:35.286136 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-06 18:32:25.909819 +0000 UTC",
+              "updated_at": "2022-02-06 18:35:56.372851 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 1037
+          },
+          {
+            "id": "8ec0de6e-7547-450a-a04c-44ca37e90027",
+            "position": "3",
+            "body": "Todas as afirmativas são verdadeiras\n",
+            "sanitized_body": "Todas as afirmativas são verdadeiras\n",
+            "correct": false,
+            "created_at": "2022-01-03 21:59:47.943636 +0000 UTC",
+            "updated_at": "2022-02-07 11:16:35.328682 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-06 18:32:25.912688 +0000 UTC",
+              "updated_at": "2022-02-06 18:35:56.316582 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 93
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A Lei n 13.185, de 6 de novembro de 2015, instituiu o Programa de Combate à Intimidação Sistemática <span>(Bullying) no Brasil. Na referida lei, o Bullying é definido como &#34;todo ato de violência física ou psicológica, </span><span>intencional e repetitivo que ocorre sem motivação evidente, praticado por individuo ou grupo, contra </span><span>uma ou mais pessoas, com o objetivo de intimidá-la ou agredi-la, causando dor e angustia à vitima, em </span><span>uma relação de desequilíbrio de poder entre as partes envolvidas (Artigo 1&#34;, inciso 1) Espaços como o </span><span>ambiente i escolar são mais propícios para esse tipo de violência entre crianças e adolescentes e que </span><span>podem desencadear problemas de aprendizagem e traumas psíquicos entre as vitimas e os envolvidos. </span><span>Analise as afirmativas abaixo e marque a alternativa CORRETA:</span><div><span><br></span></div><div><span>I. As vitimas de bullying têm dificuldade de </span><span>reconhecer emoções sentem mais modo a mais estresse, o que gera dificuldade no aprendizado e </span><span>vulnerabilidade aos transtornos de ansiedade e humor. </span></div><div><span><br></span></div><div><span>II. Dependendo do grau de sofrimento vivido pela </span><span>criança, ela poderá sentir-se ancorada a construções inconscientes de pensamentos de vingança e de </span><span>suicídio, ou manifestar determinados tipos de comportamentos agressivos ou violentos, prejudicais a si </span><span>mesmo e à sociedade; </span></div><div><span><br></span></div><div><span>III. As vitimas de bullying apresentam resultados escolares piores, maiores chances </span><span>de abandonar os estudos após o ensino médio, além de, durante o período escolar comum, tenderem </span><span>duas vezes mais a faltar a três vezes mais a se sentirem estranhas; </span></div><div><span><br></span></div><div><span>IV. Não é considerado como bullying </span><span>atos praticados contra alunos por professores e outros profissionais integrantes da escola e da </span><span>comunidade escolar.</span></div>",
+        "statement_text": "A Lei n 13.185, de 6 de novembro de 2015, instituiu o Programa de Combate à Intimidação Sistemática (Bullying) no Brasil. Na referida lei, o Bullying é definido como &#34;todo ato de violência física ou psicológica, intencional e repetitivo que ocorre sem motivação evidente, praticado por individuo ou grupo, contra uma ou mais pessoas, com o objetivo de intimidá-la ou agredi-la, causando dor e angustia à vitima, em uma relação de desequilíbrio de poder entre as partes envolvidas (Artigo 1&#34;, inciso 1) Espaços como o ambiente i escolar são mais propícios para esse tipo de violência entre crianças e adolescentes e que podem desencadear problemas de aprendizagem e traumas psíquicos entre as vitimas e os envolvidos. Analise as afirmativas abaixo e marque a alternativa CORRETA:I. As vitimas de bullying têm dificuldade de reconhecer emoções sentem mais modo a mais estresse, o que gera dificuldade no aprendizado e vulnerabilidade aos transtornos de ansiedade e humor. II. Dependendo do grau de sofrimento vivido pela criança, ela poderá sentir-se ancorada a construções inconscientes de pensamentos de vingança e de suicídio, ou manifestar determinados tipos de comportamentos agressivos ou violentos, prejudicais a si mesmo e à sociedade; III. As vitimas de bullying apresentam resultados escolares piores, maiores chances de abandonar os estudos após o ensino médio, além de, durante o período escolar comum, tenderem duas vezes mais a faltar a três vezes mais a se sentirem estranhas; IV. Não é considerado como bullying atos praticados contra alunos por professores e outros profissionais integrantes da escola e da comunidade escolar.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-01-03 21:59:47.943636 +0000 UTC",
+        "solution": {
+          "_key": "ca0147c4-be35-46cb-93be-9ca9454b5cba",
+          "complete": "Estrategista, de acordo com a lei em questão, observe a definição de bullying:<div><br><div>Art. 2º Caracteriza-se a intimidação sistemática ( bullying ) quando há violência física ou psicológica em atos de intimidação, humilhação ou discriminação e, ainda:</div><div><span>I - ataques físicos;</span><br></div><div><span>II - insultos pessoais;</span><br></div><div><span>III - comentários sistemáticos e apelidos pejorativos;</span><br></div><div><span>IV - ameaças por quaisquer meios;</span><br></div><div><span>V - grafites depreciativos;</span><br></div><div><span>VI - expressões preconceituosas;</span><br></div><div><span>VII - isolamento social consciente e premeditado;</span><br></div><div><span>VIII - pilhérias.</span><br></div><div><div><span><br></span></div><div><span>Vamos às assertivas!</span><br></div><div><div><br></div><div>I. As vitimas de bullying têm dificuldade de reconhecer emoções, sentem mais medo e mais estresse, o que gera dificuldade no aprendizado e vulnerabilidade aos transtornos de ansiedade e humor. </div><div><b>Correto</b>. As vítimas muitas vezes têm dificuldades de compreender seus sentimentos, sofrem com vergonha, culpa e medo. Tudo isso eleva o risco de doenças psiquiátricas.</div><div><br></div><div>II. Dependendo do grau de sofrimento vivido pela criança, ela poderá sentir-se ancorada a construções inconscientes de pensamentos de vingança e de suicídio, ou manifestar determinados tipos de comportamentos agressivos ou violentos, prejudicais a si mesmo e à sociedade; </div><div><b>Correto</b><span>. Este tipo de violência pode gerar um processo psicopatológico nas vítimas, inclusive, tendências homicidas e suicidas.</span></div><div><br></div><div>III. As vitimas de bullying apresentam resultados escolares piores, maiores chances de abandonar os estudos após o ensino médio, além de, durante o período escolar comum, tenderem duas vezes mais a faltar a três vezes mais a se sentirem estranhas; </div><div><b>Correto </b>e autoexplicativo.</div><div><br></div><div>IV. Não é considerado como bullying atos praticados contra alunos por professores e outros profissionais integrantes da escola e da comunidade escolar.</div></div></div></div><div><b>Incorreto</b>. Não há na <b>lei em questão</b> esta definição. Portanto, considera-se bullying quando há \"intimidação sistemática\".</div><div><br></div><div><b>Resposta C.</b></div>",
+          "sanitized_complete": "Estrategista, de acordo com a lei em questão, observe a definição de bullying:Art. 2º Caracteriza-se a intimidação sistemática ( bullying ) quando há violência física ou psicológica em atos de intimidação, humilhação ou discriminação e, ainda:I - ataques físicos;II - insultos pessoais;III - comentários sistemáticos e apelidos pejorativos;IV - ameaças por quaisquer meios;V - grafites depreciativos;VI - expressões preconceituosas;VII - isolamento social consciente e premeditado;VIII - pilhérias.Vamos às assertivas!I. As vitimas de bullying têm dificuldade de reconhecer emoções, sentem mais medo e mais estresse, o que gera dificuldade no aprendizado e vulnerabilidade aos transtornos de ansiedade e humor. Correto. As vítimas muitas vezes têm dificuldades de compreender seus sentimentos, sofrem com vergonha, culpa e medo. Tudo isso eleva o risco de doenças psiquiátricas.II. Dependendo do grau de sofrimento vivido pela criança, ela poderá sentir-se ancorada a construções inconscientes de pensamentos de vingança e de suicídio, ou manifestar determinados tipos de comportamentos agressivos ou violentos, prejudicais a si mesmo e à sociedade; Correto. Este tipo de violência pode gerar um processo psicopatológico nas vítimas, inclusive, tendências homicidas e suicidas.III. As vitimas de bullying apresentam resultados escolares piores, maiores chances de abandonar os estudos após o ensino médio, além de, durante o período escolar comum, tenderem duas vezes mais a faltar a três vezes mais a se sentirem estranhas; Correto e autoexplicativo.IV. Não é considerado como bullying atos praticados contra alunos por professores e outros profissionais integrantes da escola e da comunidade escolar.Incorreto. Não há na lei em questão esta definição. Portanto, considera-se bullying quando há &#34;intimidação sistemática&#34;.Resposta C.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-06 18:32:26.153598 +0000 UTC",
+          "updated_at": "2022-02-06 18:35:56.424908 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Lei-n-13-185-62369ea35be3",
+        "public": true
+      },
+      {
+        "id": "4000168682",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "c344792f-f4c7-4684-8386-e99686caa75b",
+                "name": "RJ - Instituto Nacional de Traumatologia e Ortopedia - INTO"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                "name": "Ortopedia e Traumatologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 11,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "9F042A2F-DD11-85FD-8187-D6BAEE25B570"
+              },
+              {
+                "type": "EXAM",
+                "url": "616210EA-1535-8A5F-2F11-62FF7DE789E6"
+              },
+              {
+                "type": "ANSWER",
+                "url": "D885CF39-A239-6CEE-1D5C-C753D94A35F9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-12-31T13:12:32Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "52212aa44ed84514903711d99bf5fa76",
+            "name": "Atenção Primária à Saúde (APS) no Brasil",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e50957ae07474ab795ebc96604b1e11a",
+            "name": "Política Nacional de Atenção Básica (PNAB)",
+            "is_master": false,
+            "master_id": "52212aa44ed84514903711d99bf5fa76",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil[$$]Política Nacional de Atenção Básica (PNAB)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "18440888-eca3-48a1-980e-370b9e7a97c5",
+            "position": "0",
+            "body": "&#34;Brasil Sorridente&#34;;\n",
+            "sanitized_body": "&#34;Brasil Sorridente&#34;;\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+            "updated_at": "2022-01-17 13:33:09.452844 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: o Programa Brasil Sorridente foi criado em 2004 e instituiu a Saúde Bucal dentro do contexto de APS no SUS, com tratamento de forma integral. ",
+              "sanitized_complete": "Incorreta a alternativa A: o Programa Brasil Sorridente foi criado em 2004 e instituiu a Saúde Bucal dentro do contexto de APS no SUS, com tratamento de forma integral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 14:28:02.312851 +0000 UTC",
+              "updated_at": "2022-01-21 14:28:10.23912 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 21
+          },
+          {
+            "id": "e0420c02-0b05-4e2f-998d-147e8c737b8c",
+            "position": "1",
+            "body": "&#34;Saúde na Hora”;\n",
+            "sanitized_body": "&#34;Saúde na Hora”;\n",
+            "correct": true,
+            "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+            "updated_at": "2022-01-17 13:33:09.483173 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B: o Programa Saúde na Hora foi criado por esta portaria e permite ampliar o horário de funcionamento das UBS, melhorando, assim, a acessibilidade de pacientes (afinal, muitos trabalham em horário comercial). ",
+              "sanitized_complete": "Correta a alternativa B: o Programa Saúde na Hora foi criado por esta portaria e permite ampliar o horário de funcionamento das UBS, melhorando, assim, a acessibilidade de pacientes (afinal, muitos trabalham em horário comercial).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 14:28:02.315422 +0000 UTC",
+              "updated_at": "2022-01-21 14:28:10.211774 +0000 UTC"
+            },
+            "answer_percentage": 83,
+            "answers": 901
+          },
+          {
+            "id": "9c247ef4-5680-450c-a458-4d293344fc69",
+            "position": "2",
+            "body": "&#34;Melhor em Casa&#34;;\n",
+            "sanitized_body": "&#34;Melhor em Casa&#34;;\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+            "updated_at": "2022-01-17 13:33:09.564541 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C: o Programa Melhor em Casa foi criado em 2011 e permite o atendimento domiciliar de pacientes com doenças agudas e crônicas que necessitem de cuidados domiciliares. ",
+              "sanitized_complete": "Incorreta a alternativa C: o Programa Melhor em Casa foi criado em 2011 e permite o atendimento domiciliar de pacientes com doenças agudas e crônicas que necessitem de cuidados domiciliares.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 14:28:02.319682 +0000 UTC",
+              "updated_at": "2022-01-21 14:28:10.221968 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 28
+          },
+          {
+            "id": "df71eaa0-494c-4a51-b221-a19dc28f748f",
+            "position": "3",
+            "body": "&#34;Requalifica UBS”;\n",
+            "sanitized_body": "&#34;Requalifica UBS”;\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+            "updated_at": "2022-01-17 13:33:09.601571 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: criado em 2011, o programa Requalifica UBS dá incentivo financeiro para reforma, ampliação e construção de UBS. ",
+              "sanitized_complete": "Incorreta a alternativa D: criado em 2011, o programa Requalifica UBS dá incentivo financeiro para reforma, ampliação e construção de UBS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 14:28:02.298434 +0000 UTC",
+              "updated_at": "2022-01-21 14:28:10.216627 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 40
+          },
+          {
+            "id": "c9c58a8e-04c5-4baa-abf2-d04c7d553425",
+            "position": "4",
+            "body": "&#34;Consultório na Rua&#34;.\n",
+            "sanitized_body": "&#34;Consultório na Rua&#34;.\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+            "updated_at": "2022-01-17 13:33:09.659245 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: o programa Consultório na Rua foi instituído em 2011 pela PNAB e atende os pacientes em situação de rua. ",
+              "sanitized_complete": "Incorreta a alternativa E: o programa Consultório na Rua foi instituído em 2011 pela PNAB e atende os pacientes em situação de rua.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 14:28:02.31285 +0000 UTC",
+              "updated_at": "2022-01-21 14:28:10.207978 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 93
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A portaria № 930, de 15 de maio de 2019, instituiu um programa com objetivo de ampliar o <span>funcionamento das Unidades de Saúde da Família e melhorar o acesso à atenção primária. </span><span>Esse programa é conhecido como:</span>",
+        "statement_text": "A portaria № 930, de 15 de maio de 2019, instituiu um programa com objetivo de ampliar o funcionamento das Unidades de Saúde da Família e melhorar o acesso à atenção primária. Esse programa é conhecido como:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-01-03 18:18:54.070542 +0000 UTC",
+        "solution": {
+          "_key": "5f689285-382c-4752-a9dd-2b77ce3335e1",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div><i>O que o examinador quer saber com esta questão?</i></div><div><br></div><div>Questão sobre programas da Atenção Primária em Saúde (APS). Você não precisa conhecer a portaria, se conhecer o intuito dos programas para poder responder. Vamos fala de cada um deles nas alternativas. </div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber com esta questão?Questão sobre programas da Atenção Primária em Saúde (APS). Você não precisa conhecer a portaria, se conhecer o intuito dos programas para poder responder. Vamos fala de cada um deles nas alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 14:28:02.466864 +0000 UTC",
+          "updated_at": "2022-01-21 14:28:10.373749 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000168682-720.mp4",
+        "unlisted": false,
+        "slug": "portaria-930-15-maio35137ed99f",
+        "public": true
+      },
+      {
+        "id": "4000168680",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "c344792f-f4c7-4684-8386-e99686caa75b",
+                "name": "RJ - Instituto Nacional de Traumatologia e Ortopedia - INTO"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                "name": "Ortopedia e Traumatologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 11,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "9F042A2F-DD11-85FD-8187-D6BAEE25B570"
+              },
+              {
+                "type": "EXAM",
+                "url": "616210EA-1535-8A5F-2F11-62FF7DE789E6"
+              },
+              {
+                "type": "ANSWER",
+                "url": "D885CF39-A239-6CEE-1D5C-C753D94A35F9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-12-31T13:12:32Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "26fbf0feb9f24e968995496f72b60248",
+            "name": "Medicina Preventiva",
+            "is_master": true,
+            "path": "Medicina Preventiva",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "4fd5928a38ec40c7baa9c50a80c7030f",
+            "name": "Ética Médica",
+            "is_master": false,
+            "master_id": "26fbf0feb9f24e968995496f72b60248",
+            "path": "Medicina Preventiva[$$]Ética Médica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "13892962-e0c4-4327-b505-21128e31a5ad",
+            "position": "0",
+            "body": "Ortotanásia;\n",
+            "sanitized_body": "Ortotanásia;\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+            "updated_at": "2022-02-18 13:01:41.328177 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A. A ortotanásia é o nome que se dá ao processo de morte que acontece de forma natural, sendo que o óbito acontece na data em que deveria ocorrer, sem ser \"adiantado\" (eutanásia) ou postergado por medidas heróicas (distanásia). ",
+              "sanitized_complete": "Incorreta a alternativa A. A ortotanásia é o nome que se dá ao processo de morte que acontece de forma natural, sendo que o óbito acontece na data em que deveria ocorrer, sem ser &#34;adiantado&#34; (eutanásia) ou postergado por medidas heróicas (distanásia).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+              "author_email_id": "d2613709608ea4e24806426c0949aa88",
+              "author_profile": null,
+              "created_at": "2022-09-02 23:46:29.581448 +0000 UTC",
+              "updated_at": "2022-09-02 23:46:32.863744 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          },
+          {
+            "id": "7c4aefeb-83b5-4e76-a51c-a0285581ff3b",
+            "position": "1",
+            "body": "Imperícia;",
+            "sanitized_body": "Imperícia;",
+            "correct": false,
+            "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+            "updated_at": "2022-02-18 13:01:41.486119 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B. A imperícia ocorre quando o médico não tem capacitação ou expertise para realizar determinado procedimento (ou tomar determinada conduta), mas o faz mesmo assim. Por exemplo, suponha um médico sem residência médica em dermatologia ou cirurgia plástica, e sem qualquer formação na área, que decide realizar um procedimento estético em uma paciente. Porém, o procedimento não ocorre do jeito que deveria, trazendo malefício para a paciente. Sem dúvidas, esse foi um ato de imperícia daquele médico. ",
+              "sanitized_complete": "Incorreta a alternativa B. A imperícia ocorre quando o médico não tem capacitação ou expertise para realizar determinado procedimento (ou tomar determinada conduta), mas o faz mesmo assim. Por exemplo, suponha um médico sem residência médica em dermatologia ou cirurgia plástica, e sem qualquer formação na área, que decide realizar um procedimento estético em uma paciente. Porém, o procedimento não ocorre do jeito que deveria, trazendo malefício para a paciente. Sem dúvidas, esse foi um ato de imperícia daquele médico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+              "author_email_id": "d2613709608ea4e24806426c0949aa88",
+              "author_profile": null,
+              "created_at": "2022-09-02 23:46:29.578294 +0000 UTC",
+              "updated_at": "2022-09-02 23:46:32.881718 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 11
+          },
+          {
+            "id": "bd5ea25f-3ea7-4a67-9e9d-620b40d6ca8a",
+            "position": "2",
+            "body": "Imprudência;\n",
+            "sanitized_body": "Imprudência;\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+            "updated_at": "2022-02-18 13:01:41.643335 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. A imprudência ocorre quando o médico até tem a formação necessária para tomar determinada conduta ou realizar determinado procedimento, mas por um impulso ou por uma avaliação incorreta da situação, toma uma conduta que não deveria tomar. Por exemplo, mastologista que supõe que a paciente tem um câncer de mama e resolve operá-la antes dos resultados definitivos. ",
+              "sanitized_complete": "Incorreta a alternativa C. A imprudência ocorre quando o médico até tem a formação necessária para tomar determinada conduta ou realizar determinado procedimento, mas por um impulso ou por uma avaliação incorreta da situação, toma uma conduta que não deveria tomar. Por exemplo, mastologista que supõe que a paciente tem um câncer de mama e resolve operá-la antes dos resultados definitivos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+              "author_email_id": "d2613709608ea4e24806426c0949aa88",
+              "author_profile": null,
+              "created_at": "2022-09-02 23:46:29.578648 +0000 UTC",
+              "updated_at": "2022-09-02 23:46:32.863965 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 24
+          },
+          {
+            "id": "bf542ad5-84be-46e0-a245-29c1c8c82a1c",
+            "position": "3",
+            "body": "Negligência;",
+            "sanitized_body": "Negligência;",
+            "correct": true,
+            "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+            "updated_at": "2022-02-18 13:01:41.827993 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa D, sem ressalvas. ",
+              "sanitized_complete": "Correta a alternativa D, sem ressalvas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+              "author_email_id": "d2613709608ea4e24806426c0949aa88",
+              "author_profile": null,
+              "created_at": "2022-09-02 23:46:29.573266 +0000 UTC",
+              "updated_at": "2022-09-02 23:46:32.862908 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 312
+          },
+          {
+            "id": "aadcdc68-3501-4de1-adf8-7c8d70488e5c",
+            "position": "4",
+            "body": "Distanásia:\n",
+            "sanitized_body": "Distanásia:\n",
+            "correct": false,
+            "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+            "updated_at": "2022-02-18 13:01:41.991081 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E. Conforme dito na alternativa A, a distanásia é o nome que se dá quando o processo de morte ocorre de forma a postergar a evolução natural do óbito por meio de medidas heróicas. Por exemplo, paciente em estado terminal e sem possibilidade curativa que sofre parada cardiorrespiratória mas, mesmo assim, é reanimado e intubado. ",
+              "sanitized_complete": "Incorreta a alternativa E. Conforme dito na alternativa A, a distanásia é o nome que se dá quando o processo de morte ocorre de forma a postergar a evolução natural do óbito por meio de medidas heróicas. Por exemplo, paciente em estado terminal e sem possibilidade curativa que sofre parada cardiorrespiratória mas, mesmo assim, é reanimado e intubado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+              "author_email_id": "d2613709608ea4e24806426c0949aa88",
+              "author_profile": null,
+              "created_at": "2022-09-02 23:46:29.605158 +0000 UTC",
+              "updated_at": "2022-09-02 23:46:32.886473 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um médico socorrista estava de plantão quando um paciente da unidade COVID-19 entra <span>em parada cardiorrespiratória (PCR). A enfermagem solicita a presença do médico para </span><span>socorrer, mas o profissional se recusa a prestar ajuda por “medo de se contaminar”. Qual o </span><span>tipo de erro médico descrito no texto acima?</span>",
+        "statement_text": "Um médico socorrista estava de plantão quando um paciente da unidade COVID-19 entra em parada cardiorrespiratória (PCR). A enfermagem solicita a presença do médico para socorrer, mas o profissional se recusa a prestar ajuda por “medo de se contaminar”. Qual o tipo de erro médico descrito no texto acima?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-01-03 18:15:27.466022 +0000 UTC",
+        "solution": {
+          "_key": "c5628ee2-3267-4825-b675-00f7522634d2",
+          "complete": "GABARITO: ALTERNATIVA D. <div><br></div><div>Estrategista, </div><div><br></div><div>Se um médico está diante de um paciente que necessita de socorro e, mesmo assim, o médico se recusa a socorrê-lo (por qualquer motivo), sendo que não há outro médico no mesmo local que possa prestar o atendimento, sem dúvidas, trata-se de negligência médica. Portanto: <br><div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA D. Estrategista, Se um médico está diante de um paciente que necessita de socorro e, mesmo assim, o médico se recusa a socorrê-lo (por qualquer motivo), sendo que não há outro médico no mesmo local que possa prestar o atendimento, sem dúvidas, trata-se de negligência médica. Portanto:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+          "author_email_id": "d2613709608ea4e24806426c0949aa88",
+          "author_profile": {
+            "id": "e00eefcf-69df-4bbb-bfb0-ba2254b12fd0",
+            "full_name": "Bárbara D'Alegria",
+            "avatar_url": "https://static.accounts.estrategia.com/9bf22828b20ebd5ca4b714b1542266cc",
+            "about_me": "Graduada em Medicina pela Universidade do Estado do Rio de Janeiro (UERJ) e em Nutrição pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Especialista em Medicina de Família pelo Programa de Residência Médica em Medicina de Família e Comunidade da Secretaria Municipal de Saúde do Rio de Janeiro (RQE 32341), Mestre em Biologia Celular e Molecular, com ênfase em Imunologia e Farmacologia, pela Fundação Oswaldo Cruz (FIOCRUZ), Pós-graduada em Preceptoria Médica pela Universidade Federal de Ciências da Saúde de Porto Alegre (UFCSPA). Professora de Medicina Preventiva do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.barbaradalegria",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-09-02 23:46:29.938087 +0000 UTC",
+          "updated_at": "2022-09-02 23:46:33.034049 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "medico-socorrista46fdd40940",
+        "public": true
+      },
+      {
+        "id": "4000168411",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "89866878-1f61-416d-bc4c-4c94f0c43eb8",
+                "name": "RJ - Hospital Naval Marcílio Dias - HNMD"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "CE0AEF85-7209-82D4-720A-660B9B2AAFFA"
+              },
+              {
+                "type": "EXAM",
+                "url": "A022D0F2-6DDE-BE95-26AF-8046FDA595D3"
+              },
+              {
+                "type": "ANSWER",
+                "url": "01412167-BAE9-25C5-C1CC-4276D8A3F5A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-12-30T12:50:43Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "8e719269cc7c465fb34fce8d81b6d7f7",
+            "name": "Cuidados paliativos ",
+            "is_master": false,
+            "master_id": "02f11a48461b4c79a12a48845d739224",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Saúde do Idoso (geriatria)[$$]Cuidados paliativos ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "e006a81b-728c-4662-a500-156d9ca2e7a9",
+            "position": "0",
+            "body": "é fundamental para esse tipo de assistência a abordagem por parte de uma equipe <span>interdisciplinar, incluindo geralmente o tratamento sintomático e o controle da dor, a </span><span>assistência espiritual e psicológica do paciente, bem como o apoio aos familiares </span><span>cuidadores durante a doença do paciente e no período de luto.</span>",
+            "sanitized_body": "é fundamental para esse tipo de assistência a abordagem por parte de uma equipe interdisciplinar, incluindo geralmente o tratamento sintomático e o controle da dor, a assistência espiritual e psicológica do paciente, bem como o apoio aos familiares cuidadores durante a doença do paciente e no período de luto.",
+            "correct": true,
+            "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+            "updated_at": "2022-01-17 13:16:36.371586 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa A. Sem ressalvas. ",
+              "sanitized_complete": "Correta a alternativa A. Sem ressalvas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:10:46.04999 +0000 UTC",
+              "updated_at": "2022-01-21 18:10:48.357697 +0000 UTC"
+            },
+            "answer_percentage": 98,
+            "answers": 757
+          },
+          {
+            "id": "5e2dd9eb-8d54-4448-96f7-6f95d4f3172d",
+            "position": "1",
+            "body": "o médico de maneira individual é capaz de conduzir todos os cuidados paliativos, <span>desde que tenha formação adequada e boa relação com paciente e sua família. Os </span><span>cuidados paliativos versam exclusivamente sobre controle de sintomas clínicos e </span><span>estratégias de comunicação.</span>",
+            "sanitized_body": "o médico de maneira individual é capaz de conduzir todos os cuidados paliativos, desde que tenha formação adequada e boa relação com paciente e sua família. Os cuidados paliativos versam exclusivamente sobre controle de sintomas clínicos e estratégias de comunicação.",
+            "correct": false,
+            "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+            "updated_at": "2022-01-17 13:16:36.671057 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B: de forma alguma é uma exclusividade médica. A alternativa A é o melhor argumento contra esta alternativa. ",
+              "sanitized_complete": "Incorreta a alternativa B: de forma alguma é uma exclusividade médica. A alternativa A é o melhor argumento contra esta alternativa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:10:46.040752 +0000 UTC",
+              "updated_at": "2022-01-21 18:10:48.358804 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "f1ee110f-451a-4a34-b4e7-53655fe99fc7",
+            "position": "2",
+            "body": "os cuidados paliativos devem ser instituídos no fim da vida de pacientes oncológicos, <span>próximo dos últimos meses de vida, o início precoce pode trazer muitas angústias para o </span><span>paciente e seus familiares, tornando o processo do luto mais complicado.</span>",
+            "sanitized_body": "os cuidados paliativos devem ser instituídos no fim da vida de pacientes oncológicos, próximo dos últimos meses de vida, o início precoce pode trazer muitas angústias para o paciente e seus familiares, tornando o processo do luto mais complicado.",
+            "correct": false,
+            "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+            "updated_at": "2022-01-17 13:16:36.769602 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. Observe a figura a seguir:<span>. </span><div><span><br></span></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D7A1B425-D3A6-F326-BF6D-03A79B57E4D1/D7A1B425-D3A6-F326-BF6D-03A79B57E4D1-400.png\"><!-- END:IMAGE_TO_REPLACE --><span><br></span></div><div><br></div><div>Os cuidados paliativos podem ser iniciados tão logo se faz o diagnóstico de uma doença. Entretanto, os focos e as intervenções vão mudando ao longo do tempo e do processo de adoecimento. </div>",
+              "sanitized_complete": "Incorreta a alternativa C. Observe a figura a seguir:. Os cuidados paliativos podem ser iniciados tão logo se faz o diagnóstico de uma doença. Entretanto, os focos e as intervenções vão mudando ao longo do tempo e do processo de adoecimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:10:46.028045 +0000 UTC",
+              "updated_at": "2022-01-21 18:10:48.359172 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "dfe60fb9-4338-40b7-8334-16428616761e",
+            "position": "3",
+            "body": "para garantir a qualidade dos cuidados paliativos e de final de vida, é fundamental <span>manter controle dos sintomas físicos; estar atento aos sintomas psicológicos e as </span><span>necessidades existenciais ou espirituais. Já as necessidades sociais são </span><span>responsabilidade do paciente e de seus familiares.</span>",
+            "sanitized_body": "para garantir a qualidade dos cuidados paliativos e de final de vida, é fundamental manter controle dos sintomas físicos; estar atento aos sintomas psicológicos e as necessidades existenciais ou espirituais. Já as necessidades sociais são responsabilidade do paciente e de seus familiares.",
+            "correct": false,
+            "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+            "updated_at": "2022-01-17 13:16:36.933029 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: lembre que temos uma visão humanista da medicina, em que vemos o paciente de forma integral. Não podemos excluir as necessidades sociais da nossa avaliação, e a equipe multiprofissional conta com a assistente social, que pode auxiliar neste aspecto. A responsabilidade em relação a isso não pode ser exclusiva da família.",
+              "sanitized_complete": "Incorreta a alternativa D: lembre que temos uma visão humanista da medicina, em que vemos o paciente de forma integral. Não podemos excluir as necessidades sociais da nossa avaliação, e a equipe multiprofissional conta com a assistente social, que pode auxiliar neste aspecto. A responsabilidade em relação a isso não pode ser exclusiva da família.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:10:46.041001 +0000 UTC",
+              "updated_at": "2022-01-21 18:10:48.369823 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          },
+          {
+            "id": "ff09a568-c8f5-43a8-92a7-2f45ae835fbc",
+            "position": "4",
+            "body": "tendo em vista o fato de cuidados paliativos serem pautados na individualidade de <span>cada paciente e família, não existem avaliações padronizadas, bem como instrumentos </span><span>validados para auxiliar na avaliação e planejamento da assistência.</span>",
+            "sanitized_body": "tendo em vista o fato de cuidados paliativos serem pautados na individualidade de cada paciente e família, não existem avaliações padronizadas, bem como instrumentos validados para auxiliar na avaliação e planejamento da assistência.",
+            "correct": false,
+            "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+            "updated_at": "2022-01-17 13:16:37.149036 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: o fato de ser pautado nesta individualidade não exclui o uso de instrumentos validados que auxiliem na avaliação e planejamento da assistência; de fato, estes instrumentos permitem que a avaliação seja mais profissional do que subjetiva. ",
+              "sanitized_complete": "Incorreta a alternativa E: o fato de ser pautado nesta individualidade não exclui o uso de instrumentos validados que auxiliem na avaliação e planejamento da assistência; de fato, estes instrumentos permitem que a avaliação seja mais profissional do que subjetiva.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:10:46.023283 +0000 UTC",
+              "updated_at": "2022-01-21 18:10:48.381732 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 6
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Os cuidados Paliativos são uma área de atuação médica, cada vez mais presente na <span>prática diária. Dentro dos fundamentos dos cuidados paliativos, podemos afirmar que:</span>",
+        "statement_text": "Os cuidados Paliativos são uma área de atuação médica, cada vez mais presente na prática diária. Dentro dos fundamentos dos cuidados paliativos, podemos afirmar que:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-31 16:50:43.125096 +0000 UTC",
+        "solution": {
+          "_key": "7a28c554-285b-4ae8-b166-02d32e3f9076",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><i><br></i></div><div><i>O que o examinador quer saber com esta questão?</i></div><div><i><br></i></div><div>Conhecimentos sobre Cuidados Paliativos. </div><div><br></div><div>Vamos discutir diretamente nas questões. </div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador quer saber com esta questão?Conhecimentos sobre Cuidados Paliativos. Vamos discutir diretamente nas questões.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 18:10:46.15094 +0000 UTC",
+          "updated_at": "2022-01-21 18:10:48.610309 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000168411-720.mp4",
+        "unlisted": false,
+        "slug": "cuidados-Paliativos-sa24ab86354f",
+        "public": true
+      },
+      {
+        "id": "4000168386",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "a0541757-3028-43e5-a616-42119ff7b312",
+                "name": "RS - Universidade Federal do Rio Grande do Sul - UFRGS (Hospital de Clínicas de Porto Alegre - HCPA)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "072EDDAB-A783-96A9-072B-5F36F8D87A53"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AAC7FE5D-6520-EF2E-D2BE-7BF95C9299B4"
+              },
+              {
+                "type": "EXAM",
+                "url": "EC98BCF8-DCF9-9BAF-3FAE-03CBEE0DB910"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-12-30T19:36:01Z",
+            "location": {
+              "id": "24"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ad4b2ef6c51b4a8b9dbf77f014c8ea14",
+            "name": "Morte Encefálica",
+            "is_master": false,
+            "master_id": "8d854fe143d54c9d85eb7debf1712766",
+            "path": "Clínica Médica[$$]Neurologia [$$]Coma e Alterações da Consciência[$$]Morte Encefálica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e1d23ed877d143c7a8d2e3c5bd19dc75",
+            "name": "Código de Ética Médica (CEM)",
+            "is_master": false,
+            "master_id": "4fd5928a38ec40c7baa9c50a80c7030f",
+            "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fb000d0b-6bd0-4cc4-af52-908f3109adb0",
+            "position": "0",
+            "body": "A decisão compartilhada com a família de que não serão mais adotadas <span>medidas de suporte vital ao paciente que esteja em estado terminal de </span><span>doença incurável, para o qual se tenham esgotado os recursos de tratamento </span><span>curativo, é eticamente aceitável, mesmo que isso possa apressar a morte.</span>",
+            "sanitized_body": "A decisão compartilhada com a família de que não serão mais adotadas medidas de suporte vital ao paciente que esteja em estado terminal de doença incurável, para o qual se tenham esgotado os recursos de tratamento curativo, é eticamente aceitável, mesmo que isso possa apressar a morte.",
+            "correct": false,
+            "created_at": "2021-12-31 14:30:44.936296 +0000 UTC",
+            "updated_at": "2022-01-17 13:04:17.286455 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa A: no capítulo V do Código de Ética Médica, no artigo 41, está escrito que é vedado ao médico:<div><br><div>Art. 41. Abreviar a vida do paciente, ainda que a pedido deste ou de seu representante legal. </div><div><br></div><div>Parágrafo único. Nos casos de doença incurável e terminal, deve o médico oferecer todos os cuidados paliativos disponíveis sem empreender ações diagnósticas ou terapêuticas inúteis ou obstinadas, levando sempre em consideração a vontade expressa do paciente ou, na sua impossibilidade, a de seu representante legal.</div></div>",
+              "sanitized_complete": "Correta a alternativa A: no capítulo V do Código de Ética Médica, no artigo 41, está escrito que é vedado ao médico:Art. 41. Abreviar a vida do paciente, ainda que a pedido deste ou de seu representante legal. Parágrafo único. Nos casos de doença incurável e terminal, deve o médico oferecer todos os cuidados paliativos disponíveis sem empreender ações diagnósticas ou terapêuticas inúteis ou obstinadas, levando sempre em consideração a vontade expressa do paciente ou, na sua impossibilidade, a de seu representante legal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:05:10.297677 +0000 UTC",
+              "updated_at": "2022-01-21 18:05:12.821177 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 315
+          },
+          {
+            "id": "d8005e2e-45fe-4899-b26d-eb0dbb94f728",
+            "position": "1",
+            "body": "O não fornecimento de atestado de óbito a idoso que tenha falecido no <span>Centro de Tratamento Intensivo (CTI) por complicações infecciosas após </span><span>vários dias de internação em decorrência de fraturas múltiplas não </span><span>esclarecidas tem amparo no Código de Ética Médica.</span>",
+            "sanitized_body": "O não fornecimento de atestado de óbito a idoso que tenha falecido no Centro de Tratamento Intensivo (CTI) por complicações infecciosas após vários dias de internação em decorrência de fraturas múltiplas não esclarecidas tem amparo no Código de Ética Médica.",
+            "correct": false,
+            "created_at": "2021-12-31 14:30:44.936296 +0000 UTC",
+            "updated_at": "2022-01-17 13:04:17.317179 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B. O capítulo X do Código de Ética Médica traz que é vedado ao médico:<div><br><div>Art. 84. Deixar de atestar óbito de paciente ao qual vinha prestando assistência, exceto quando houver indícios de morte violenta.</div><div>Como sabemos, quando há suspeita de que a causa básica de morte tenha causa externa, independentemente do tempo transcorrido entre a causa básica e a causa terminal, o paciente deve ter sua declaração de óbito emitida pelo perito do Instituto Médico Legal (IML).</div></div>",
+              "sanitized_complete": "Correta a alternativa B. O capítulo X do Código de Ética Médica traz que é vedado ao médico:Art. 84. Deixar de atestar óbito de paciente ao qual vinha prestando assistência, exceto quando houver indícios de morte violenta.Como sabemos, quando há suspeita de que a causa básica de morte tenha causa externa, independentemente do tempo transcorrido entre a causa básica e a causa terminal, o paciente deve ter sua declaração de óbito emitida pelo perito do Instituto Médico Legal (IML).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:05:10.297454 +0000 UTC",
+              "updated_at": "2022-01-21 18:05:12.808741 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 380
+          },
+          {
+            "id": "a8974db6-0f3e-4265-81e0-e2e9f3911df7",
+            "position": "2",
+            "body": "A não abertura de protocolo de morte encefálica em paciente admitido no CTI <span>com quadro clínico sugestivo e compatível com morte encefálica está </span><span>justificada se o paciente for sabidamente portador de covid-19, não podendo, </span><span>portanto, ser potencial doador de órgãos para transplante.</span>",
+            "sanitized_body": "A não abertura de protocolo de morte encefálica em paciente admitido no CTI com quadro clínico sugestivo e compatível com morte encefálica está justificada se o paciente for sabidamente portador de covid-19, não podendo, portanto, ser potencial doador de órgãos para transplante.",
+            "correct": true,
+            "created_at": "2021-12-31 14:30:44.936296 +0000 UTC",
+            "updated_at": "2022-01-17 13:04:17.344479 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. Note: há uma diferença entre doação de órgãos e abertura do protocolo de morte encefálica. A princípio, temos apenas algumas situações específicas que vão contraindicar a doação de órgãos – mas não a abertura do processo de morte encefálica. Covid não é uma delas:<div><br><div>- Soropositividade para HIV ou HTLV I ou II; </div><div>- Tuberculose ativa;</div><div>- Neoplasia (exceto tumores primários do SNC, carcinoma in situ de útero e pele);</div><div>- Sepse refratária; </div><div>- Infecções virais e fúngicas <b>graves</b> ou potencialmente graves na<b> presença de imunossupressão</b>, exceto as hepatites B e C. </div></div>",
+              "sanitized_complete": "Incorreta a alternativa C. Note: há uma diferença entre doação de órgãos e abertura do protocolo de morte encefálica. A princípio, temos apenas algumas situações específicas que vão contraindicar a doação de órgãos – mas não a abertura do processo de morte encefálica. Covid não é uma delas:- Soropositividade para HIV ou HTLV I ou II; - Tuberculose ativa;- Neoplasia (exceto tumores primários do SNC, carcinoma in situ de útero e pele);- Sepse refratária; - Infecções virais e fúngicas graves ou potencialmente graves na presença de imunossupressão, exceto as hepatites B e C.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:05:10.180092 +0000 UTC",
+              "updated_at": "2022-01-21 18:05:12.809559 +0000 UTC"
+            },
+            "answer_percentage": 48,
+            "answers": 858
+          },
+          {
+            "id": "142387bd-5b15-42ce-9a2c-adf4c4d25de4",
+            "position": "3",
+            "body": "A revelação de gravidez aos pais de adolescente incapaz não fere o sigilo <span>médico e o direito à privacidade da mesma, pelo risco de envolver potencial </span><span>dano ao feto.</span>",
+            "sanitized_body": "A revelação de gravidez aos pais de adolescente incapaz não fere o sigilo médico e o direito à privacidade da mesma, pelo risco de envolver potencial dano ao feto.",
+            "correct": false,
+            "created_at": "2021-12-31 14:30:44.936296 +0000 UTC",
+            "updated_at": "2022-01-17 13:04:17.379115 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa D. Conforme o artigo 74, do Capítulo IX, é vedado ao médico:<div><br><div>Art. 74. Revelar sigilo profissional relacionado a paciente menor de idade, inclusive a seus pais ou representantes legais, desde que o menor tenha capacidade de discernimento, salvo quando a não revelação possa acarretar dano ao paciente.</div><div><br></div><div>Entretanto, neste caso, estamos falando de uma adolescente incapaz. Desta forma, não fere o sigilo médico. </div></div>",
+              "sanitized_complete": "Correta a alternativa D. Conforme o artigo 74, do Capítulo IX, é vedado ao médico:Art. 74. Revelar sigilo profissional relacionado a paciente menor de idade, inclusive a seus pais ou representantes legais, desde que o menor tenha capacidade de discernimento, salvo quando a não revelação possa acarretar dano ao paciente.Entretanto, neste caso, estamos falando de uma adolescente incapaz. Desta forma, não fere o sigilo médico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:05:10.193234 +0000 UTC",
+              "updated_at": "2022-01-21 18:05:12.822027 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 231
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Assinale a assertiva incorreta relativa a condutas médicas segundo o Código <span>de Ética Médica.</span>",
+        "statement_text": "Assinale a assertiva incorreta relativa a condutas médicas segundo o Código de Ética Médica.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-31 14:30:44.936296 +0000 UTC",
+        "forum_id": "1f474904-3b12-47c8-beed-af63e8a8d8b9",
+        "solution": {
+          "_key": "a2e0cf65-71a1-4f73-855f-c872d8760567",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div><i>O que o examinador quer saber com esta questão?</i></div><div><br></div><div>Conhecimentos múltiplos sobre ética médica. Vamos ver cada um deles nas alternativas. </div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber com esta questão?Conhecimentos múltiplos sobre ética médica. Vamos ver cada um deles nas alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 18:05:10.396879 +0000 UTC",
+          "updated_at": "2022-01-21 18:05:12.993549 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000168386-720.mp4",
+        "unlisted": false,
+        "slug": "assertiva-relativa13fdfa1fbf",
+        "public": true
+      },
+      {
+        "id": "4000167571",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "eadb5740-fb39-4d05-a48b-88fedae3e230",
+                "name": "PA - Universidade Federal do Pará - UFPA (Hospital Universitário João Barros Barreto - HUJBB) (Hospital Universitário Bettina Ferro de Souza - HUBFS)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "19CAC35C-EDD9-27C1-EC22-193A520BA023"
+              },
+              {
+                "type": "EXAM",
+                "url": "E3F0BD51-70AA-D5EE-C2F5-CCCBFB6A0025"
+              },
+              {
+                "type": "ANSWER",
+                "url": "3F165C97-42EE-6BCE-9851-ABF72CA21CC0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-12-27T02:38:47Z",
+            "location": {
+              "id": "15"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "52212aa44ed84514903711d99bf5fa76",
+            "name": "Atenção Primária à Saúde (APS) no Brasil",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "de47aad2-cc4f-4d08-8a82-64775a122fc5",
+            "position": "0",
+            "body": "território-microárea.\n",
+            "sanitized_body": "território-microárea.\n",
+            "correct": false,
+            "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+            "updated_at": "2021-12-27 21:21:16.579255 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não corresponde ao território solicitado.",
+              "sanitized_complete": "Não corresponde ao território solicitado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:08:38.271012 +0000 UTC",
+              "updated_at": "2022-01-07 03:08:39.227946 +0000 UTC"
+            },
+            "answer_percentage": 36,
+            "answers": 429
+          },
+          {
+            "id": "2ae27210-802c-454a-b4f5-be4220ccca4c",
+            "position": "1",
+            "body": "<ul><li>território-área.</li></ul>",
+            "sanitized_body": "território-área.",
+            "correct": true,
+            "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+            "updated_at": "2021-12-27 21:21:16.799495 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta! O território-área consiste no local de atuação de uma Unidade de Saúde.",
+              "sanitized_complete": "Correta! O território-área consiste no local de atuação de uma Unidade de Saúde.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:08:38.277002 +0000 UTC",
+              "updated_at": "2022-01-07 03:08:39.240493 +0000 UTC"
+            },
+            "answer_percentage": 54,
+            "answers": 643
+          },
+          {
+            "id": "51204ab8-0ec6-4884-bad7-74a279bf6f32",
+            "position": "2",
+            "body": "território-moradia.\n",
+            "sanitized_body": "território-moradia.\n",
+            "correct": false,
+            "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+            "updated_at": "2021-12-27 21:21:17.169247 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não corresponde ao território solicitado.",
+              "sanitized_complete": "Não corresponde ao território solicitado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:08:38.260909 +0000 UTC",
+              "updated_at": "2022-01-07 03:08:39.241213 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 23
+          },
+          {
+            "id": "c7f27b46-3d51-49bd-88c6-9eef3ffe8f60",
+            "position": "3",
+            "body": "território-distrito.\n",
+            "sanitized_body": "território-distrito.\n",
+            "correct": false,
+            "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+            "updated_at": "2021-12-27 21:21:17.399455 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não corresponde ao território solicitado.",
+              "sanitized_complete": "Não corresponde ao território solicitado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:08:38.206163 +0000 UTC",
+              "updated_at": "2022-01-07 03:08:39.227925 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 56
+          },
+          {
+            "id": "bbb1adb9-f1b6-41ab-8865-ded195829e38",
+            "position": "4",
+            "body": "distrito sanitário.\n",
+            "sanitized_body": "distrito sanitário.\n",
+            "correct": false,
+            "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+            "updated_at": "2021-12-27 21:21:17.979267 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não corresponde ao território solicitado.",
+              "sanitized_complete": "Não corresponde ao território solicitado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:08:38.216223 +0000 UTC",
+              "updated_at": "2022-01-07 03:08:39.243564 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 37
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Na APS, a territorialização é a base para a operacionalização da vigilância em saúde. No território, <span>pode-se verificar situações de risco, planejar, propor e implementar ações para a resolução dos </span><span>problemas. A unidade operacional de abrangência de uma UBS (população versus serviço) é o</span>",
+        "statement_text": "Na APS, a territorialização é a base para a operacionalização da vigilância em saúde. No território, pode-se verificar situações de risco, planejar, propor e implementar ações para a resolução dos problemas. A unidade operacional de abrangência de uma UBS (população versus serviço) é o",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-27 21:12:24.645704 +0000 UTC",
+        "forum_id": "1af52be8-4294-418b-a622-269071728d79",
+        "solution": {
+          "_key": "16f5739c-df9c-409b-a95b-ed5f0b833aee",
+          "complete": "<!-- BEGIN:IMAGE_TO_REPLACE -->Estrategista, <div><br><div>O território é o local onde ocorrem as ações e serviços de saúde, sendo ele um protagonista na descentralização do Sistema Único de Saúde (SUS). Em seu livro “Tratado de Medicina da Família e Comunidade”, Gusso e Ceratti (2019) descrevem assim o território: </div><div><br></div><div>”O território é um espaço limitado político-administrativamente ou por ação de um grupo social, em que se edificam e exercitam os poderes do Estado e dos cidadãos, de grande importância para a definição de políticas públicas.”</div><div><br></div><div>Perceba que o território é muito além de um espaço geográfico (uma rua, um bairro, uma cidade etc.), ele é uma área “viva”, formado pela interação das pessoas entre si, com o meio e com o espaço – o que torna cada território único em suas características históricas, culturais, políticas, epidemiológicas, ambientais etc.</div><div><br></div><div>O território pode ser “dividido”, ou classificado. Veja: </div><div><br><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/11A9BF4B-D8E9-5733-9BE6-913D320DA256/11A9BF4B-D8E9-5733-9BE6-913D320DA256-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --></div></div><div><br></div><div><br></div><div>•\tTerritório-distrito: área de delimitação administrativa, pode ser uma cidade ou parte dela.</div><div>•\tTerritório-área: local de atuação de uma unidade de saúde da atenção básica.</div><div>•\tTerritório-microárea: área de trabalho de um Agente Comunitário de Saúde (ACS).</div><div>•\tTerritório-moradia: residência de uma família.</div><div><br></div><div>Analisemos as opções:</div><div><br></div>",
+          "sanitized_complete": "Estrategista, O território é o local onde ocorrem as ações e serviços de saúde, sendo ele um protagonista na descentralização do Sistema Único de Saúde (SUS). Em seu livro “Tratado de Medicina da Família e Comunidade”, Gusso e Ceratti (2019) descrevem assim o território: ”O território é um espaço limitado político-administrativamente ou por ação de um grupo social, em que se edificam e exercitam os poderes do Estado e dos cidadãos, de grande importância para a definição de políticas públicas.”Perceba que o território é muito além de um espaço geográfico (uma rua, um bairro, uma cidade etc.), ele é uma área “viva”, formado pela interação das pessoas entre si, com o meio e com o espaço – o que torna cada território único em suas características históricas, culturais, políticas, epidemiológicas, ambientais etc.O território pode ser “dividido”, ou classificado. Veja: •\tTerritório-distrito: área de delimitação administrativa, pode ser uma cidade ou parte dela.•\tTerritório-área: local de atuação de uma unidade de saúde da atenção básica.•\tTerritório-microárea: área de trabalho de um Agente Comunitário de Saúde (ACS).•\tTerritório-moradia: residência de uma família.Analisemos as opções:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-07 03:08:38.450525 +0000 UTC",
+          "updated_at": "2022-01-07 03:08:39.385343 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000167571-720.mp4",
+        "unlisted": false,
+        "slug": "APS-territorializaca-e42fcf54c22",
+        "public": true
+      },
+      {
+        "id": "4000167560",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "eadb5740-fb39-4d05-a48b-88fedae3e230",
+                "name": "PA - Universidade Federal do Pará - UFPA (Hospital Universitário João Barros Barreto - HUJBB) (Hospital Universitário Bettina Ferro de Souza - HUBFS)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "19CAC35C-EDD9-27C1-EC22-193A520BA023"
+              },
+              {
+                "type": "EXAM",
+                "url": "E3F0BD51-70AA-D5EE-C2F5-CCCBFB6A0025"
+              },
+              {
+                "type": "ANSWER",
+                "url": "3F165C97-42EE-6BCE-9851-ABF72CA21CC0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-12-27T02:38:47Z",
+            "location": {
+              "id": "15"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0a9c3400c2aa4abf865698d38ace8cb7",
+            "name": "Genograma",
+            "is_master": false,
+            "master_id": "502b602b55cd4b8490ecd6905b2dfce7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Abordagem Familiar[$$]Ferramentas de abordagem familiar[$$]Genograma",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "df9fac59-50e0-482e-9cb8-d7f9b2a67136",
+            "position": "0",
+            "body": "Estuda a dinâmica familiar.\n",
+            "sanitized_body": "Estuda a dinâmica familiar.\n",
+            "correct": true,
+            "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+            "updated_at": "2021-12-27 21:28:37.184397 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta! No genograma identificamos, por exemplo, relacionamentos entre os familiares (proximidade, conflito e distanciamento) e quem mora junto.",
+              "sanitized_complete": "Correta! No genograma identificamos, por exemplo, relacionamentos entre os familiares (proximidade, conflito e distanciamento) e quem mora junto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:12:06.718975 +0000 UTC",
+              "updated_at": "2022-01-07 03:12:07.6115 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 433
+          },
+          {
+            "id": "247436cd-dd36-4d82-9883-cd274b2c21fa",
+            "position": "1",
+            "body": "Requer conhecimento profundo de genética.\n",
+            "sanitized_body": "Requer conhecimento profundo de genética.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+            "updated_at": "2021-12-27 21:28:37.431911 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Podemos identificar padrões genéticos de transmissão de doenças, mas não precisamos conhecer genética a fundo na elaboração do genograma.",
+              "sanitized_complete": "Incorreta. Podemos identificar padrões genéticos de transmissão de doenças, mas não precisamos conhecer genética a fundo na elaboração do genograma.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:12:06.765232 +0000 UTC",
+              "updated_at": "2022-01-07 03:12:07.594966 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          },
+          {
+            "id": "26da239c-599e-433e-8126-e3ebf0c1081f",
+            "position": "2",
+            "body": "Contempla estressores horizontais, como os antecedentes familiares.\n",
+            "sanitized_body": "Contempla estressores horizontais, como os antecedentes familiares.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+            "updated_at": "2021-12-27 21:28:37.811221 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Os estressores familiares observamos de modo vertical, nas relações entre as gerações. Na análise horizontal, observamos principalmente o ciclo vital (exemplo: casamentos, doenças).",
+              "sanitized_complete": "Incorreta. Os estressores familiares observamos de modo vertical, nas relações entre as gerações. Na análise horizontal, observamos principalmente o ciclo vital (exemplo: casamentos, doenças).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:12:06.759069 +0000 UTC",
+              "updated_at": "2022-01-07 03:12:07.608352 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 75
+          },
+          {
+            "id": "faaae082-a36a-472e-8a14-6206601f9aed",
+            "position": "3",
+            "body": "É composto por uma geração para a sua interpretação.\n",
+            "sanitized_body": "É composto por uma geração para a sua interpretação.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+            "updated_at": "2021-12-27 21:28:38.045361 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Deve haver no mínimo 3 gerações.",
+              "sanitized_complete": "Incorreta. Deve haver no mínimo 3 gerações.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:12:06.725538 +0000 UTC",
+              "updated_at": "2022-01-07 03:12:07.611254 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 17
+          },
+          {
+            "id": "844f6347-0a8a-401d-b7a1-cfada4488148",
+            "position": "4",
+            "body": "É de natureza diagnóstica, sem caráter intervencionista.\n",
+            "sanitized_body": "É de natureza diagnóstica, sem caráter intervencionista.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+            "updated_at": "2021-12-27 21:28:38.510738 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. O diagnóstico da família permite ao médico uma abordagem direcionada, portanto, não se pode afirmar que não tem caráter intervencionista (é a finalidade dele!).",
+              "sanitized_complete": "Incorreta. O diagnóstico da família permite ao médico uma abordagem direcionada, portanto, não se pode afirmar que não tem caráter intervencionista (é a finalidade dele!).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:12:06.76832 +0000 UTC",
+              "updated_at": "2022-01-07 03:12:07.596254 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 15
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação ao genograma familiar, uma das ferramentas que podem auxiliar o médico atuante na <span>atenção primária em saúde, é correto afirmar:</span>",
+        "statement_text": "Em relação ao genograma familiar, uma das ferramentas que podem auxiliar o médico atuante na atenção primária em saúde, é correto afirmar:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-27 20:55:35.015434 +0000 UTC",
+        "solution": {
+          "_key": "f6d60b1b-b423-455e-8052-dddeb498ceb7",
+          "complete": "Estrategista,<div><br></div><div>O genograma é uma ferramenta importantíssima de abordagem familiar, e utiliza símbolos para fornecer uma visão ampla do contexto da família, incluindo aspectos hereditários, de doenças, relacionamentos e hábitos de vida. Afinal, conhecer as relações familiares ajuda o médico a entender as melhores formas de abordagem dos problemas das pessoas.</div><div><br></div><div>Não é obrigatório que o genograma seja construído no primeiro contato com a família, porém é indispensável que sejam incluídas no mínimo 3 gerações.</div><div><br></div><div>Vamos analisar as opções:</div><div><br></div>",
+          "sanitized_complete": "Estrategista,O genograma é uma ferramenta importantíssima de abordagem familiar, e utiliza símbolos para fornecer uma visão ampla do contexto da família, incluindo aspectos hereditários, de doenças, relacionamentos e hábitos de vida. Afinal, conhecer as relações familiares ajuda o médico a entender as melhores formas de abordagem dos problemas das pessoas.Não é obrigatório que o genograma seja construído no primeiro contato com a família, porém é indispensável que sejam incluídas no mínimo 3 gerações.Vamos analisar as opções:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-07 03:12:06.942729 +0000 UTC",
+          "updated_at": "2022-01-07 03:12:07.718333 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "genograma-familiar211da983d6",
+        "public": true
+      },
+      {
+        "id": "4000167559",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "eadb5740-fb39-4d05-a48b-88fedae3e230",
+                "name": "PA - Universidade Federal do Pará - UFPA (Hospital Universitário João Barros Barreto - HUJBB) (Hospital Universitário Bettina Ferro de Souza - HUBFS)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "19CAC35C-EDD9-27C1-EC22-193A520BA023"
+              },
+              {
+                "type": "EXAM",
+                "url": "E3F0BD51-70AA-D5EE-C2F5-CCCBFB6A0025"
+              },
+              {
+                "type": "ANSWER",
+                "url": "3F165C97-42EE-6BCE-9851-ABF72CA21CC0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-12-27T02:38:47Z",
+            "location": {
+              "id": "15"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "b01e59d01d0543299a3ea1554c2986bb",
+            "name": "Método Clínico Centrado na Pessoa",
+            "is_master": false,
+            "master_id": "e713cef0f17a4c4cbc34644d4910f3b7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Método Clínico Centrado na Pessoa",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f59d2d5b-2000-4afe-9346-6c46a5a99bcc",
+            "position": "0",
+            "body": "experiência da doença&#34;.\n",
+            "sanitized_body": "experiência da doença&#34;.\n",
+            "correct": true,
+            "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+            "updated_at": "2021-12-27 21:29:23.144656 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta! O primeiro componente é Explorando a saúde, a doença e a experiência da doença",
+              "sanitized_complete": "Correta! O primeiro componente é Explorando a saúde, a doença e a experiência da doença",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:10:57.761209 +0000 UTC",
+              "updated_at": "2022-01-07 03:10:58.868338 +0000 UTC"
+            },
+            "answer_percentage": 87,
+            "answers": 622
+          },
+          {
+            "id": "e565a645-bd8b-429f-8d0c-d485f035bcac",
+            "position": "1",
+            "body": "conhecimento da pessoa como um todo&#34;.\n",
+            "sanitized_body": "conhecimento da pessoa como um todo&#34;.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+            "updated_at": "2021-12-27 21:29:23.419984 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não faz menção ao primeiro componente.",
+              "sanitized_complete": "Incorreta, não faz menção ao primeiro componente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:10:57.832542 +0000 UTC",
+              "updated_at": "2022-01-07 03:10:58.868519 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 72
+          },
+          {
+            "id": "9f53415c-ccfa-4c38-9dbd-69f61f174a02",
+            "position": "2",
+            "body": "estreitamento da relação médico-paciente&#34;.\n",
+            "sanitized_body": "estreitamento da relação médico-paciente&#34;.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+            "updated_at": "2021-12-27 21:29:23.606627 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não faz menção ao primeiro componente.",
+              "sanitized_complete": "Incorreta, não faz menção ao primeiro componente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:10:57.779804 +0000 UTC",
+              "updated_at": "2022-01-07 03:10:58.880465 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 15
+          },
+          {
+            "id": "4fedeb05-4901-4d45-90a0-188c648e29cc",
+            "position": "3",
+            "body": "compartilhamento do poder&#34;.\n",
+            "sanitized_body": "compartilhamento do poder&#34;.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+            "updated_at": "2021-12-27 21:29:23.839476 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não faz menção ao primeiro componente.",
+              "sanitized_complete": "Incorreta, não faz menção ao primeiro componente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:10:57.781412 +0000 UTC",
+              "updated_at": "2022-01-07 03:10:58.880296 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "716b96b6-2e89-4ce1-a9e7-7b97d10f642e",
+            "position": "4",
+            "body": "ser realista&#34;.\n",
+            "sanitized_body": "ser realista&#34;.\n",
+            "correct": false,
+            "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+            "updated_at": "2021-12-27 21:29:24.042644 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não faz menção ao primeiro componente.",
+              "sanitized_complete": "Incorreta, não faz menção ao primeiro componente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2022-01-07 03:10:57.769621 +0000 UTC",
+              "updated_at": "2022-01-07 03:10:58.867847 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O método clínico centrado na pessoa (MCCP) é uma das ferramentas bastante utilizadas na medicina <span>de família e comunidade no cenário da atenção básica. É constituído por 4 componentes que se </span><span>interligam. O 1º componente corresponde ao “Explorando a saúde, a doença (objetivo) e a/o</span>",
+        "statement_text": "O método clínico centrado na pessoa (MCCP) é uma das ferramentas bastante utilizadas na medicina de família e comunidade no cenário da atenção básica. É constituído por 4 componentes que se interligam. O 1º componente corresponde ao “Explorando a saúde, a doença (objetivo) e a/o",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-27 20:54:36.870453 +0000 UTC",
+        "solution": {
+          "_key": "a2edcadd-4c6a-46ff-b9b3-c040e9d11246",
+          "complete": "<!-- BEGIN:IMAGE_TO_REPLACE -->Estrategista,<div><br></div><div>O “Método Clínico Centrado na Pessoa” (MCCP) se configura em um modelo de abordagem relativo ao modo de atuação do médico de família. O MCCP propõe a integração entre os aspectos relacionados à doença com a perspectiva da pessoa doente, com o objetivo de garantir “que as características particulares e as preferências de cada pessoa sejam levadas em consideração e de que se chegue a um plano de tratamento elaborado de acordo com esses fatores” (Stewart, 2017).</div><div><br></div><div>Os componentes do MCCP são quatro, com uma característica que os une: promover a autonomia da pessoa no seu cuidado, onde o médico renuncia ao poder de decisão sobre todos os aspectos do cuidado e compartilha esse poder decisório com a pessoa.</div><div><br><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/53685882-4562-D8D2-2687-7D1D34C49D5A/53685882-4562-D8D2-2687-7D1D34C49D5A-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div>Analisemos as alternativas:</div>",
+          "sanitized_complete": "Estrategista,O “Método Clínico Centrado na Pessoa” (MCCP) se configura em um modelo de abordagem relativo ao modo de atuação do médico de família. O MCCP propõe a integração entre os aspectos relacionados à doença com a perspectiva da pessoa doente, com o objetivo de garantir “que as características particulares e as preferências de cada pessoa sejam levadas em consideração e de que se chegue a um plano de tratamento elaborado de acordo com esses fatores” (Stewart, 2017).Os componentes do MCCP são quatro, com uma característica que os une: promover a autonomia da pessoa no seu cuidado, onde o médico renuncia ao poder de decisão sobre todos os aspectos do cuidado e compartilha esse poder decisório com a pessoa.Analisemos as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-07 03:10:58.011013 +0000 UTC",
+          "updated_at": "2022-01-07 03:10:59.026665 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "metodo-clinico43d179452e",
+        "public": true
+      },
+      {
+        "id": "4000167413",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "9886D643-E3DB-0D0C-F783-44486F7974B8"
+              },
+              {
+                "type": "EXAM",
+                "url": "62DD35F8-52FC-1291-813C-97FE37257EB2"
+              },
+              {
+                "type": "ANSWER",
+                "url": "909014DE-D5EC-8936-751C-8F2607964B7F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 80,
+            "created_at": "2021-12-27T02:19:53Z",
+            "updated_at": "2022-02-15T14:38:07Z",
+            "location": {
+              "id": "4842"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "247ea6bc2f86404982ebf62b0ad23e11",
+            "name": "Direitos dos médicos",
+            "is_master": false,
+            "master_id": "e1d23ed877d143c7a8d2e3c5bd19dc75",
+            "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)[$$]Direitos dos médicos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "854ede6f-8ad8-4188-a14f-b21950bb5653",
+            "position": "0",
+            "body": "O   princípio   ético   da   autonomia   deve   orientar   as   prescrições   médicas, priorizando a comunicação e o esclarecimento entre riscos e benefícios.",
+            "sanitized_body": "O   princípio   ético   da   autonomia   deve   orientar   as   prescrições   médicas, priorizando a comunicação e o esclarecimento entre riscos e benefícios.",
+            "correct": false,
+            "created_at": "2021-12-27 16:52:38.519652 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:42.27891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A. O médico tem, de fato, a autonomia de prescrever o tratamento mais indicado para o paciente. Entretanto, isto deve ser pautado pela ciência, e são estes dados que devem ser priorizados. Logicamente, deve-se comunicar a respeito de riscos e benefícios. ",
+              "sanitized_complete": "Incorreta a alternativa A. O médico tem, de fato, a autonomia de prescrever o tratamento mais indicado para o paciente. Entretanto, isto deve ser pautado pela ciência, e são estes dados que devem ser priorizados. Logicamente, deve-se comunicar a respeito de riscos e benefícios.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:02:34.764344 +0000 UTC",
+              "updated_at": "2022-03-16 17:45:40.013027 +0000 UTC"
+            },
+            "answer_percentage": 46,
+            "answers": 915
+          },
+          {
+            "id": "24c6f266-3cc4-422b-8010-1d7a256d7e27",
+            "position": "1",
+            "body": "As  orientações  acerca das  intervenções  médicas  podem resultar em danos <span>para  os  pacientes,  demandando  reavaliações  num  contexto  dinâmico  de  riscos e benefícios.</span>",
+            "sanitized_body": "As  orientações  acerca das  intervenções  médicas  podem resultar em danos para  os  pacientes,  demandando  reavaliações  num  contexto  dinâmico  de  riscos e benefícios.",
+            "correct": true,
+            "created_at": "2021-12-27 16:52:38.519652 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:42.59273 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B. Esta é a ciência. A ciência não é um dogma imutável; ela é feita de paradigmas que são constantemente mudados. Os conhecimentos são constantemente revisados e atualizados, e assim deve ser. ",
+              "sanitized_complete": "Correta a alternativa B. Esta é a ciência. A ciência não é um dogma imutável; ela é feita de paradigmas que são constantemente mudados. Os conhecimentos são constantemente revisados e atualizados, e assim deve ser.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:02:34.761016 +0000 UTC",
+              "updated_at": "2022-03-16 17:45:40.014681 +0000 UTC"
+            },
+            "answer_percentage": 45,
+            "answers": 913
+          },
+          {
+            "id": "481a33c4-fc37-42fd-847b-35c6f28ba386",
+            "position": "2",
+            "body": "Cabe aos  gestores  públicos  garantirem respaldo institucional para que a <span>autonomia   médica   seja   exercida,   visando   a   valorização   da   relação   médico- paciente.</span>",
+            "sanitized_body": "Cabe aos  gestores  públicos  garantirem respaldo institucional para que a autonomia   médica   seja   exercida,   visando   a   valorização   da   relação   médico- paciente.",
+            "correct": false,
+            "created_at": "2021-12-27 16:52:38.519652 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:42.930701 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. Esta responsabilidade não é dos gestores públicos, especialmente porque sua ação seria limitada sobre hospitais privados, da saúde suplementar, que respondem à ANS, e não ao SUS. Note: o próprio Código de Ética Médica, do Conselho Federal de Medicina, dá o respaldo à autonomia. Desta forma, quem deve lutar pela autonomia é o próprio órgão – tanto que, nas vezes em que os direitos fundamentais dos médicos são feridos, eles devem denunciar ao CFM ou CRM.",
+              "sanitized_complete": "Incorreta a alternativa C. Esta responsabilidade não é dos gestores públicos, especialmente porque sua ação seria limitada sobre hospitais privados, da saúde suplementar, que respondem à ANS, e não ao SUS. Note: o próprio Código de Ética Médica, do Conselho Federal de Medicina, dá o respaldo à autonomia. Desta forma, quem deve lutar pela autonomia é o próprio órgão – tanto que, nas vezes em que os direitos fundamentais dos médicos são feridos, eles devem denunciar ao CFM ou CRM.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:02:34.746739 +0000 UTC",
+              "updated_at": "2022-03-16 17:45:40.014691 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 130
+          },
+          {
+            "id": "3af44cd7-6689-4252-b38d-e572189871a8",
+            "position": "3",
+            "body": "É recomendada a administração de um medicamento que não tem efeito <span>comprovado,  como  alternativa  para  o  tratamento,  assumindo  que  o  benefício será maior.</span>",
+            "sanitized_body": "É recomendada a administração de um medicamento que não tem efeito comprovado,  como  alternativa  para  o  tratamento,  assumindo  que  o  benefício será maior.",
+            "correct": false,
+            "created_at": "2021-12-27 16:52:38.519652 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:43.152986 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D. Da mesma forma que se pode assumir um benefício maior, pode-se assumir um risco maior. A prescrição não deve ser feita, se o medicamento não tem efeito comprovado. A autonomia do médico tem limites. Lembre-se de Hipócrates: “Primum non nocere”. ",
+              "sanitized_complete": "Incorreta a alternativa D. Da mesma forma que se pode assumir um benefício maior, pode-se assumir um risco maior. A prescrição não deve ser feita, se o medicamento não tem efeito comprovado. A autonomia do médico tem limites. Lembre-se de Hipócrates: “Primum non nocere”.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2022-01-21 18:02:34.77349 +0000 UTC",
+              "updated_at": "2022-03-16 17:45:40.013028 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 52
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Devido  à  falta  de  outros  tratamentos  médicos  eficazes,  pressão  pública  e política,    autoridades    sanitárias    de    diversos    países, incluindo    o    Brasil, autorizaram o uso de cloroquina e hidroxicloroquina para covid-19, em março <span>de 2020. A comunidade médica adotou a hidroxicloroquina para o tratamento </span><span>de covid-19, apesar da falta de evidências  convincentes  de benefício. Um </span><span>manuscrito publicado pela <i>The Lancet</i>, em maio de 2020, relatou que o uso de </span><span>hidroxicloroquina ou cloroquina em pacientes  hospitalizados  com covid-19 foi </span><span>associado a uma diminuição de sobrevida hospitalar e a um aumento da </span><span>frequência  de  arritmias  ventriculares,  imediatamente colocando  em  questão  a adoção generalizada destes medicamentos. É CORRETO AFIRMAR:</span>",
+        "statement_text": "Devido  à  falta  de  outros  tratamentos  médicos  eficazes,  pressão  pública  e política,    autoridades    sanitárias    de    diversos    países, incluindo    o    Brasil, autorizaram o uso de cloroquina e hidroxicloroquina para covid-19, em março de 2020. A comunidade médica adotou a hidroxicloroquina para o tratamento de covid-19, apesar da falta de evidências  convincentes  de benefício. Um manuscrito publicado pela The Lancet, em maio de 2020, relatou que o uso de hidroxicloroquina ou cloroquina em pacientes  hospitalizados  com covid-19 foi associado a uma diminuição de sobrevida hospitalar e a um aumento da frequência  de  arritmias  ventriculares,  imediatamente colocando  em  questão  a adoção generalizada destes medicamentos. É CORRETO AFIRMAR:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-27 16:52:38.519652 +0000 UTC",
+        "forum_id": "d21f2c2e-ce16-4186-8024-df2d32ee8041",
+        "solution": {
+          "_key": "ad385578-f0ad-4853-bae8-5d32d5f42c1f",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div><i>O que o examinador quer saber com esta questão?</i></div><div><br></div><div>Questão de ética médica trabalhando uma pauta muito importante e bastante presente durante a pandemia: a prescrição médica. </div><div><br></div><div><i>O que você precisa saber para responder a esta pergunta?</i></div><div><i><br></i></div><div><u>Autonomia e prescrição médica:</u></div><div><br></div><div>Vamos revisar algumas coisas importantes que estão no código de ética médica a respeito da autonomia, em especial em relação à prescrição, do médico (Fonte: Código de Ética Médica, 2019, Conselho Federal de Medicina).</div><div><br></div><div>Capítulo I:</div><div><br></div><div><span>VII - O médico exercerá sua profissão com autonomia, não sendo obrigado a prestar serviços que contrariem os ditames de sua consciência ou a quem não deseje, excetuadas as situações de ausência de outro médico, em caso de urgência ou emergência, ou quando sua recusa possa trazer danos à saúde do paciente. </span></div><div><span><br></span></div><div>VIII - O médico não pode, em nenhuma circunstância ou sob nenhum pretexto, renunciar à sua liberdade profissional, nem permitir quaisquer restrições ou imposições que possam prejudicar a eficiência e a correção de seu trabalho.</div><div><br></div><div>XVI - Nenhuma disposição estatutária ou regimental de hospital ou de instituição, pública ou privada, limitará a escolha, pelo médico, dos meios cientificamente reconhecidos a serem praticados para estabelecer o diagnóstico e executar o tratamento, salvo quando em benefício do paciente.</div><div><br></div><div>Capítulo II. É direito do médico:</div><div><br></div><div>II - Indicar o procedimento adequado ao paciente, observadas as práticas cientificamente reconhecidas e respeitada a legislação vigente. </div><div>III - Apontar falhas em normas, contratos e práticas internas das instituições em que trabalhe quando as julgar indignas do exercício da profissão ou prejudiciais a si mesmo, ao paciente ou a terceiros, devendo comunicá-las ao Conselho Regional de Medicina de sua jurisdição e à Comissão de Ética da instituição, quando houver.</div><div><br></div><div>Capítulo III. É vedado ao médico:</div><div><br></div><div>Art. 20. Permitir que interesses pecuniários, políticos, religiosos ou de quaisquer outras ordens, do seu empregador ou superior hierárquico ou do financiador público ou privado da assistência à saúde, interfiram na escolha dos melhores meios de prevenção, diagnóstico ou tratamento disponíveis e cientificamente reconhecidos no interesse da saúde do paciente ou da sociedade.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber com esta questão?Questão de ética médica trabalhando uma pauta muito importante e bastante presente durante a pandemia: a prescrição médica. O que você precisa saber para responder a esta pergunta?Autonomia e prescrição médica:Vamos revisar algumas coisas importantes que estão no código de ética médica a respeito da autonomia, em especial em relação à prescrição, do médico (Fonte: Código de Ética Médica, 2019, Conselho Federal de Medicina).Capítulo I:VII - O médico exercerá sua profissão com autonomia, não sendo obrigado a prestar serviços que contrariem os ditames de sua consciência ou a quem não deseje, excetuadas as situações de ausência de outro médico, em caso de urgência ou emergência, ou quando sua recusa possa trazer danos à saúde do paciente. VIII - O médico não pode, em nenhuma circunstância ou sob nenhum pretexto, renunciar à sua liberdade profissional, nem permitir quaisquer restrições ou imposições que possam prejudicar a eficiência e a correção de seu trabalho.XVI - Nenhuma disposição estatutária ou regimental de hospital ou de instituição, pública ou privada, limitará a escolha, pelo médico, dos meios cientificamente reconhecidos a serem praticados para estabelecer o diagnóstico e executar o tratamento, salvo quando em benefício do paciente.Capítulo II. É direito do médico:II - Indicar o procedimento adequado ao paciente, observadas as práticas cientificamente reconhecidas e respeitada a legislação vigente. III - Apontar falhas em normas, contratos e práticas internas das instituições em que trabalhe quando as julgar indignas do exercício da profissão ou prejudiciais a si mesmo, ao paciente ou a terceiros, devendo comunicá-las ao Conselho Regional de Medicina de sua jurisdição e à Comissão de Ética da instituição, quando houver.Capítulo III. É vedado ao médico:Art. 20. Permitir que interesses pecuniários, políticos, religiosos ou de quaisquer outras ordens, do seu empregador ou superior hierárquico ou do financiador público ou privado da assistência à saúde, interfiram na escolha dos melhores meios de prevenção, diagnóstico ou tratamento disponíveis e cientificamente reconhecidos no interesse da saúde do paciente ou da sociedade.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 18:02:34.892647 +0000 UTC",
+          "updated_at": "2022-03-16 17:45:40.352328 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Devido-a-falta-outros1400c3d74ae",
+        "public": true
+      },
+      {
+        "id": "4000167410",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "9886D643-E3DB-0D0C-F783-44486F7974B8"
+              },
+              {
+                "type": "EXAM",
+                "url": "62DD35F8-52FC-1291-813C-97FE37257EB2"
+              },
+              {
+                "type": "ANSWER",
+                "url": "909014DE-D5EC-8936-751C-8F2607964B7F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 80,
+            "created_at": "2021-12-27T02:19:53Z",
+            "updated_at": "2022-02-15T14:38:07Z",
+            "location": {
+              "id": "4842"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "b01e59d01d0543299a3ea1554c2986bb",
+            "name": "Método Clínico Centrado na Pessoa",
+            "is_master": false,
+            "master_id": "e713cef0f17a4c4cbc34644d4910f3b7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Método Clínico Centrado na Pessoa",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b4baff2e-1212-4a60-8619-dfde034cdf59",
+            "position": "0",
+            "body": "São desenvolvidos pela Atenção Primária para qualificar o trabalho médico.",
+            "sanitized_body": "São desenvolvidos pela Atenção Primária para qualificar o trabalho médico.",
+            "correct": false,
+            "created_at": "2021-12-27 16:44:27.059427 +0000 UTC",
+            "updated_at": "2022-02-15 14:31:59.691028 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois podem ser desenvolvidos em qualquer nível de atenção, para melhorar a abordagem ao paciente.",
+              "sanitized_complete": "Incorreto, pois podem ser desenvolvidos em qualquer nível de atenção, para melhorar a abordagem ao paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-14 09:38:46.602743 +0000 UTC",
+              "updated_at": "2022-02-14 09:40:59.475347 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 81
+          },
+          {
+            "id": "2bf914af-a868-4101-a4e6-be6a6406c462",
+            "position": "1",
+            "body": "Valorizam a autonomia e autoconhecimento dos pacientes.",
+            "sanitized_body": "Valorizam a autonomia e autoconhecimento dos pacientes.",
+            "correct": true,
+            "created_at": "2021-12-27 16:44:27.059427 +0000 UTC",
+            "updated_at": "2022-02-15 14:31:59.844831 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Esta abordagem biopsicossocial traz o protagonismo ao paciente, valorizando seu conhecimento, autonomia, cultura e saberes.",
+              "sanitized_complete": "Correto. Esta abordagem biopsicossocial traz o protagonismo ao paciente, valorizando seu conhecimento, autonomia, cultura e saberes.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-14 09:38:46.545523 +0000 UTC",
+              "updated_at": "2022-02-14 09:40:59.476063 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1232
+          },
+          {
+            "id": "d38031c6-02f2-43a8-b50e-a349034a8e18",
+            "position": "2",
+            "body": "Restringem-se ao trabalho da equipe de saúde da família.",
+            "sanitized_body": "Restringem-se ao trabalho da equipe de saúde da família.",
+            "correct": false,
+            "created_at": "2021-12-27 16:44:27.059427 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:00.019902 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos acima.",
+              "sanitized_complete": "Incorreto, como vimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-14 09:38:46.54223 +0000 UTC",
+              "updated_at": "2022-02-14 09:40:59.475352 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          },
+          {
+            "id": "1c5f3b32-439c-4ba3-a75c-e22a0598eecc",
+            "position": "3",
+            "body": "Cada um deles é uma etapa do Projeto Terapêutico Singular.",
+            "sanitized_body": "Cada um deles é uma etapa do Projeto Terapêutico Singular.",
+            "correct": false,
+            "created_at": "2021-12-27 16:44:27.059427 +0000 UTC",
+            "updated_at": "2022-02-15 14:32:00.173016 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. Estrategista, o Ministério da Saúde define o Projeto Terapêutico Singular (PTS) como uma ferramenta da atenção básica caracterizada por ser uma discussão coletiva entre os diversos membros da equipe, resultando em condutas terapêuticas articuladas para um caso específico (singular) de um indivíduo ou família. É fundamental que a equipe de saúde crie vínculo também com a família do(s) usuário(s) a quem se dirige o PTS.",
+              "sanitized_complete": "Incorreto. Estrategista, o Ministério da Saúde define o Projeto Terapêutico Singular (PTS) como uma ferramenta da atenção básica caracterizada por ser uma discussão coletiva entre os diversos membros da equipe, resultando em condutas terapêuticas articuladas para um caso específico (singular) de um indivíduo ou família. É fundamental que a equipe de saúde crie vínculo também com a família do(s) usuário(s) a quem se dirige o PTS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-14 09:38:46.562369 +0000 UTC",
+              "updated_at": "2022-02-14 09:40:59.518913 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 180
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "ASSINALE A ALTERNATIVA CORRETA EM RELAÇÃO AOS PRINCÍPIOS DA CLÍNICA AMPLIADA E COMPARTILHADA, DA MEDICINA CENTRADA NA PESSOA E DA MEDICINA DAS NARRATIVAS:",
+        "statement_text": "ASSINALE A ALTERNATIVA CORRETA EM RELAÇÃO AOS PRINCÍPIOS DA CLÍNICA AMPLIADA E COMPARTILHADA, DA MEDICINA CENTRADA NA PESSOA E DA MEDICINA DAS NARRATIVAS:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-12-27 16:44:27.059427 +0000 UTC",
+        "forum_id": "3f48ac74-008d-4c09-be29-3e993f2c9b20",
+        "solution": {
+          "_key": "4c76ea9e-d633-49af-a1d8-b31472c1c77e",
+          "complete": "Estrategista, o Método Clínico Centrado na Pessoa (MCCP) se opõe ao modelo biomédico centrado na doença, e propõe a integração entre os aspectos relacionados à doença com a perspectiva da pessoa doente, com o objetivo de garantir “que as características particulares e as preferências de cada pessoa sejam levadas em consideração e de que se chegue a um plano de tratamento elaborado de acordo com esses fatores” (Moira Stewart, 2017).",
+          "sanitized_complete": "Estrategista, o Método Clínico Centrado na Pessoa (MCCP) se opõe ao modelo biomédico centrado na doença, e propõe a integração entre os aspectos relacionados à doença com a perspectiva da pessoa doente, com o objetivo de garantir “que as características particulares e as preferências de cada pessoa sejam levadas em consideração e de que se chegue a um plano de tratamento elaborado de acordo com esses fatores” (Moira Stewart, 2017).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-14 09:38:46.647344 +0000 UTC",
+          "updated_at": "2022-02-14 09:40:59.525123 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "ALTERNATIVA-AOS23ef8f765b",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

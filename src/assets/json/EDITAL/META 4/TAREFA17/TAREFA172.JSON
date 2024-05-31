@@ -1,0 +1,378 @@
+{
+    "data": [
+      {
+        "id": "4000127161",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "dab53aecbd164765be6f1b5f2ceeb779",
+            "name": "Hanseníase tuberculoide",
+            "is_master": false,
+            "master_id": "6afa30125e174f629249dc8cfc1c937b",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Apresentação clínica[$$]Hanseníase tuberculoide",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8b576fd6-85c4-404d-be7a-29a17f444683",
+            "position": "0",
+            "body": "Psoríase e diagnóstico clínico.",
+            "sanitized_body": "Psoríase e diagnóstico clínico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.276823 +0000 UTC",
+            "topics": [
+              {
+                "id": "9739c387a4574fbabe697ef4afe5e8fd",
+                "name": "Apresentação clínica",
+                "is_master": false,
+                "master_id": "2a612f5a83a14718b3b5a41d1f2b017e",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Dermatoses papuloescamosas[$$]Psoríase[$$]Apresentação clínica",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa A) Incorreta. Na psoríase, as lesões são placas eritematosas com escamas brancas (ou pratedas) bastante aderidas. As lesões distribuem-se pelo couro cabeludo, cotovelos, joelhos e tronco. Não é esperado que um paciente com psoríase apresente apenas uma lesão.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa A) Incorreta. Na psoríase, as lesões são placas eritematosas com escamas brancas (ou pratedas) bastante aderidas. As lesões distribuem-se pelo couro cabeludo, cotovelos, joelhos e tronco. Não é esperado que um paciente com psoríase apresente apenas uma lesão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.360472 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.162123 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 98
+          },
+          {
+            "id": "eb8ddc40-a653-4344-8af2-0e8d4800c31a",
+            "position": "1",
+            "body": "Paracoccidioidomicose e raspado da lesão.",
+            "sanitized_body": "Paracoccidioidomicose e raspado da lesão.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.331127 +0000 UTC",
+            "topics": [
+              {
+                "id": "b0787bc64f10457487ecffb25326210a",
+                "name": "Formas clínicas",
+                "is_master": false,
+                "master_id": "bcaf723e14764f318593d80da2eb3645",
+                "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas[$$]Paracoccidioidomicose[$$]Formas clínicas",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa B) Incorreta. A paracoccidioidomicose no adulto leva a lesões verrucosas geralmente na face (nariz e mucosa oral). Associado ao quadro cutâneo, há um quadro pulmonar de tosse, dispneia e infiltrado perihilar visto à radiografia de tórax.<div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa B) Incorreta. A paracoccidioidomicose no adulto leva a lesões verrucosas geralmente na face (nariz e mucosa oral). Associado ao quadro cutâneo, há um quadro pulmonar de tosse, dispneia e infiltrado perihilar visto à radiografia de tórax.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.358718 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.162383 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 97
+          },
+          {
+            "id": "81720688-b3d6-456c-ac89-e1d6eecd0df6",
+            "position": "2",
+            "body": "Cromomicose e biópsia.",
+            "sanitized_body": "Cromomicose e biópsia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.403825 +0000 UTC",
+            "topics": [
+              {
+                "id": "34e23a200ea54f8aa653cc265c545ea8",
+                "name": "Infecções fúngicas",
+                "is_master": false,
+                "master_id": "491c00747b9d4a7babede86d5683efc7",
+                "path": "Clínica Médica[$$]Infectologia [$$]Infecções fúngicas",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa C) Incorreta. A cromomicose é uma micose profunda, assim como a paracoccidioidomicose, apresenta-se como uma lesão verrucosa na maior parte das vezes. Como o fungo é inoculado secundário a um trauma, na maioria das vezes, as lesões localizam-se nas mãos ou nos pés.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa C) Incorreta. A cromomicose é uma micose profunda, assim como a paracoccidioidomicose, apresenta-se como uma lesão verrucosa na maior parte das vezes. Como o fungo é inoculado secundário a um trauma, na maioria das vezes, as lesões localizam-se nas mãos ou nos pés.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.363781 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.169005 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 21
+          },
+          {
+            "id": "b44f4f63-f8cf-4891-9652-89a27a5baa17",
+            "position": "3",
+            "body": "Hanseníase e Intradermorreação de Mitsuda.",
+            "sanitized_body": "Hanseníase e Intradermorreação de Mitsuda.",
+            "correct": true,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.472212 +0000 UTC",
+            "topics": [
+              {
+                "id": "509d0fbca10b4d3dbfa3f32d0d1e019b",
+                "name": "Teste de Mitsuda",
+                "is_master": false,
+                "master_id": "c5305fc7e62c4ceda5bcb00086f86b4f",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Teste de Mitsuda",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "17c10744696f4a2981239612db0a7018",
+                "name": "Diagnóstico",
+                "is_master": false,
+                "master_id": "c5305fc7e62c4ceda5bcb00086f86b4f",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Diagnóstico",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "dab53aecbd164765be6f1b5f2ceeb779",
+                "name": "Hanseníase tuberculoide",
+                "is_master": false,
+                "master_id": "6afa30125e174f629249dc8cfc1c937b",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Hanseníase[$$]Apresentação clínica[$$]Hanseníase tuberculoide",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa D) Correta. De fato, a hanseníase é nossa hipótese diagnóstica mais forte. A conduta mais acertada nesse momento é realizar teste de sensibilidade na lesão. Se houver alteração de sensibilidade, o diagnóstico de hanseníase estará feito. O teste de Mitsuda avalia o grau de imunidade celular de um indivíduo contra o <i>M. leprae</i>. Como esse paciente apresenta um quadro de hanseníase tuberculoide, esperamos um teste de Mitsuda positivo. Mas, lembre-se de que um teste de Mitsuda positivo isoladamente não faz diagnóstico de hanseníase.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa D) Correta. De fato, a hanseníase é nossa hipótese diagnóstica mais forte. A conduta mais acertada nesse momento é realizar teste de sensibilidade na lesão. Se houver alteração de sensibilidade, o diagnóstico de hanseníase estará feito. O teste de Mitsuda avalia o grau de imunidade celular de um indivíduo contra o M. leprae. Como esse paciente apresenta um quadro de hanseníase tuberculoide, esperamos um teste de Mitsuda positivo. Mas, lembre-se de que um teste de Mitsuda positivo isoladamente não faz diagnóstico de hanseníase.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.358614 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.153998 +0000 UTC"
+            },
+            "answer_percentage": 81,
+            "answers": 1140
+          },
+          {
+            "id": "e6c52acf-f5b4-4d35-a0e2-c85860b41dfb",
+            "position": "4",
+            "body": "Liquen plano e biópsia.",
+            "sanitized_body": "Liquen plano e biópsia.",
+            "correct": false,
+            "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+            "updated_at": "2020-10-31 17:01:57.533194 +0000 UTC",
+            "topics": [
+              {
+                "id": "995151ce5fe948a09461f4ccdd838d1d",
+                "name": "Apresentação clínica",
+                "is_master": false,
+                "master_id": "3074be4dc1594e978818fd6d9b313dfb",
+                "path": "Clínica Médica[$$]Dermatologia [$$]Dermatoses papuloescamosas[$$]Líquen plano[$$]Apresentação clínica",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Alternativa E) Incorreta. O líquen plano apresenta-se como várias pápulas poligonais, planas, pruriginosas, violáceas e que se localizam, preferencialmente, nos punhos. Pode haver ainda lesões ungueais e de mucosa oral. Lembre-se da associação de líquen plano e hepatite C.",
+              "sanitized_complete": "Alternativa E) Incorreta. O líquen plano apresenta-se como várias pápulas poligonais, planas, pruriginosas, violáceas e que se localizam, preferencialmente, nos punhos. Pode haver ainda lesões ungueais e de mucosa oral. Lembre-se da associação de líquen plano e hepatite C.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:02:07.360696 +0000 UTC",
+              "updated_at": "2020-11-04 21:42:29.16122 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 44
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente, com 57 anos de idade, vai à Unidade Básica de Saúde com queixa de aparecimento, há um mês, de lesão avermelhada em braço direito. Procurou atendimento médico, quando foi prescrita nistastina creme durante 14 dias e fluconazol 150 mg em dose única, sem melhora do quadro. Relata que posteriormente apresentou dor no cotovelo direito, sendo feito diagnóstico de tendinite e prescrito anti-inflamatório.  Informa não ter outra doença e não faz uso de medicamentos. O exame físico mostra mácula eritematosa com bordas eritematosas elevadas e centro atrófico. Qual a hipótese diagnóstica e a propedêutica a ser realizada?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/924DD093-9377-0D68-1107-09A7A31918E2/924DD093-9377-0D68-1107-09A7A31918E2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+        "statement_text": "Paciente, com 57 anos de idade, vai à Unidade Básica de Saúde com queixa de aparecimento, há um mês, de lesão avermelhada em braço direito. Procurou atendimento médico, quando foi prescrita nistastina creme durante 14 dias e fluconazol 150 mg em dose única, sem melhora do quadro. Relata que posteriormente apresentou dor no cotovelo direito, sendo feito diagnóstico de tendinite e prescrito anti-inflamatório.  Informa não ter outra doença e não faz uso de medicamentos. O exame físico mostra mácula eritematosa com bordas eritematosas elevadas e centro atrófico. Qual a hipótese diagnóstica e a propedêutica a ser realizada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:36:28.064283 +0000 UTC",
+        "solution": {
+          "_key": "2cbdd0b4-2411-4203-bcac-6706b16967a2",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Nosso paciente apresenta uma placa eritematosa, com bordas eritematosas e clareamento central. Provavelmente, a primeira hipótese diagnóstica foi de tinea corporis e o paciente foi tratado com antifúngicos, porém não houve melhora. Diante de uma lesão como essa, em nosso meio, precisamos imediatamente pensar em hanseníase tuberculoide. E essa dor no cotovelo que o paciente apresentou? Provavelmente, é um quadro de neurite secundário à hanseníase!&nbsp;<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DNosso paciente apresenta uma placa eritematosa, com bordas eritematosas e clareamento central. Provavelmente, a primeira hipótese diagnóstica foi de tinea corporis e o paciente foi tratado com antifúngicos, porém não houve melhora. Diante de uma lesão como essa, em nosso meio, precisamos imediatamente pensar em hanseníase tuberculoide. E essa dor no cotovelo que o paciente apresentou? Provavelmente, é um quadro de neurite secundário à hanseníase! ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+          "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+          "author_profile": {
+            "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+            "full_name": "Bruno de Castro e Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+            "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-06 13:02:07.568433 +0000 UTC",
+          "updated_at": "2020-11-04 21:42:29.242934 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127161-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-com-57-anos9806683371",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

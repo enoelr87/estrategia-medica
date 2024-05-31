@@ -1,0 +1,1300 @@
+{
+    "data": [
+      {
+        "id": "4000126806",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4c900184cac24d1a9da36cfb515cdbcf",
+            "name": "Latent Autoimmune Diabetes of the Adult (LADA)",
+            "is_master": false,
+            "master_id": "aee24de7b92840a9b884909b4099eead",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Diabetes Mellitus tipo 1 (DM 1)[$$]Latent Autoimmune Diabetes of the Adult (LADA)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b7b1f3cdcdfb4648ae92e529d89238a0",
+            "name": "Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "is_master": false,
+            "master_id": "45916935e36f423babbbeb7f263c569b",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Insulinoterapia[$$]Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "35768a9b-2058-4059-8dcc-0bff24f32b39",
+            "position": "0",
+            "body": "Aumentar as doses de glibenclamida e de metformina, adicionar insulina NPH antes de dormir.",
+            "sanitized_body": "Aumentar as doses de glibenclamida e de metformina, adicionar insulina NPH antes de dormir.",
+            "correct": false,
+            "created_at": "2020-09-25 00:17:44.795811 +0000 UTC",
+            "updated_at": "2020-11-25 21:15:23.418182 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:14:05.865462 +0000 UTC",
+              "updated_at": "2020-10-19 17:14:45.162908 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 171
+          },
+          {
+            "id": "bee42ebd-f565-47ce-999c-64fdf0af23d9",
+            "position": "1",
+            "body": "Manter as doses de glibenclamida e metformina, adicionar insulina NPH antes do café da manhã e antes do jantar.",
+            "sanitized_body": "Manter as doses de glibenclamida e metformina, adicionar insulina NPH antes do café da manhã e antes do jantar.",
+            "correct": false,
+            "created_at": "2020-09-25 00:17:44.795811 +0000 UTC",
+            "updated_at": "2020-11-25 21:15:23.623036 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:14:05.866176 +0000 UTC",
+              "updated_at": "2020-10-19 17:14:45.171594 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 255
+          },
+          {
+            "id": "c72e5b53-4692-4ccc-b98b-620171148347",
+            "position": "2",
+            "body": "Suspender glibenclamida e metformina, adicionar insulina NPH antes do café da manhã e antes de dormir, bem como insulina regular antes das refeições.",
+            "sanitized_body": "Suspender glibenclamida e metformina, adicionar insulina NPH antes do café da manhã e antes de dormir, bem como insulina regular antes das refeições.",
+            "correct": true,
+            "created_at": "2020-09-25 00:17:44.795811 +0000 UTC",
+            "updated_at": "2020-11-25 21:15:23.884521 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:14:05.855815 +0000 UTC",
+              "updated_at": "2020-10-19 17:14:45.171626 +0000 UTC"
+            },
+            "answer_percentage": 62,
+            "answers": 1262
+          },
+          {
+            "id": "add306bd-c9dd-43e7-93cc-9b0cc19a8756",
+            "position": "3",
+            "body": "Suspender glibenclamida, manter metformina, adicionar insulina NPH antes do café da manhã e antes do jantar, bem como insulina regular antes do café da manhã.",
+            "sanitized_body": "Suspender glibenclamida, manter metformina, adicionar insulina NPH antes do café da manhã e antes do jantar, bem como insulina regular antes do café da manhã.",
+            "correct": false,
+            "created_at": "2020-09-25 00:17:44.795811 +0000 UTC",
+            "updated_at": "2020-11-25 21:15:24.108676 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:14:05.853351 +0000 UTC",
+              "updated_at": "2020-10-19 17:14:45.182214 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 354
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 34 anos de idade, sem antecedentes patológicos prévios, procurou ontem uma unidade básica de saúde porque vem evoluindo nos últimos quatro meses com queixas de poliúria, polidipsia e perda ponderal de cerca de 7 kg nesse período. Há dois meses realizou exames complementares que evidenciaram glicemia de jejum 348 mg/dl (valor de referência = 75-99 mg/dl). Nega história de diabetes na família. Desde então, faz uso de doses crescentes de metformina e glibenclamida, atualmente com 1.700 mg/dia e 10 mg/dia, respectivamente. As auscultas cardíaca e pulmonar são normais. Refere persistência dos sintomas e os exames complementares colhidos hoje revelaram: glicemia de jejum = 296 mg/dl; glicemia 2h após o café da manhã = 412 mg/dl; hemoglobina glicada = 10,1% (valor de referência = 3,8%-6,4%). Ao exame físico,  paciente mostra-se desidratado, corado; pressão arterial = 110 x 75 mmHg;  circunferência abdominal = 92 cm; Índice de Massa Corporal (IMC) = 23,3 kg/m²; peso = 60 kg. Além de referenciar para o especialista, a conduta adequada para esse paciente é:",
+        "statement_text": "Um homem com 34 anos de idade, sem antecedentes patológicos prévios, procurou ontem uma unidade básica de saúde porque vem evoluindo nos últimos quatro meses com queixas de poliúria, polidipsia e perda ponderal de cerca de 7 kg nesse período. Há dois meses realizou exames complementares que evidenciaram glicemia de jejum 348 mg/dl (valor de referência = 75-99 mg/dl). Nega história de diabetes na família. Desde então, faz uso de doses crescentes de metformina e glibenclamida, atualmente com 1.700 mg/dia e 10 mg/dia, respectivamente. As auscultas cardíaca e pulmonar são normais. Refere persistência dos sintomas e os exames complementares colhidos hoje revelaram: glicemia de jejum = 296 mg/dl; glicemia 2h após o café da manhã = 412 mg/dl; hemoglobina glicada = 10,1% (valor de referência = 3,8%-6,4%). Ao exame físico,  paciente mostra-se desidratado, corado; pressão arterial = 110 x 75 mmHg;  circunferência abdominal = 92 cm; Índice de Massa Corporal (IMC) = 23,3 kg/m²; peso = 60 kg. Além de referenciar para o especialista, a conduta adequada para esse paciente é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 00:17:44.795811 +0000 UTC",
+        "forum_id": "f69145c2-0b07-4c06-9f7b-d45d8e912e86",
+        "solution": {
+          "_key": "0177f9d7-6ed5-41c2-bd6e-0d501921c2c3",
+          "complete": "<b>GABARITO: ALTERNATIVA \"C\"</b><div><br></div><div>Essa questão é uma boa oportunidade para revisarmos os tipos clínicos de Diabetes Mellitus (DM). Vamos fazer uma breve introdução sobre definição e etiologia, seguida de um quadro comparativo, para, depois, tentarmos encaixar o paciente no tipo mais provável.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7FF2EFFF-63A6-DF9D-10EE-A9D6D172F824/7FF2EFFF-63A6-DF9D-10EE-A9D6D172F824-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Em determinados casos, pode ser difícil diferenciar entre DM1, DM2 e MODY. Na tabela abaixo vamos pontuar as principais diferenças na apresentação clínica desses três diagnósticos:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DF4B0E85-5919-6A6D-18ED-9F9565156264/DF4B0E85-5919-6A6D-18ED-9F9565156264-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A ausência de história familiar e sobrepeso tornam a possibilidade de DM2 menos provável. Além disso, para suspeitarmos de MODY precisaríamos observar um padrão de transmissão compatível com uma doença autossômica dominante. Portanto, o mais provável é que se trate de um caso de LADA, já que o paciente tem 34 anos e evoluiu com um esgotamento acelerado da função pancreática.</div><div>O examinador deseja saber como vamos conduzir esse caso, portanto, vamos analisar cada uma das alternativas.</div><div><br></div><div><b>Correta a alternativa “c” e incorretas as demais alternativas</b>: O LADA se trata de um tipo de DM autoimune que acomete pacientes adultos e que, inexoravelmente, evolui para a necessidade de terapia insulínica (é como se fosse um DM1 tardio e de evolução mais arrastada). Portanto, nas fases iniciais, alguns desses pacientes até alcançam bom controle glicêmico com antidiabéticos orais ou doses baixas de insulina, mas a evolução para a insuficiência pancreática endócrina absoluta é inevitável e, cedo ou tarde, esses pacientes acabarão por serem introduzidos no Esquema Basal-Bolus.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C86A376D-AE9F-FA28-531F-EE2E80D8B008/C86A376D-AE9F-FA28-531F-EE2E80D8B008-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA &#34;C&#34;Essa questão é uma boa oportunidade para revisarmos os tipos clínicos de Diabetes Mellitus (DM). Vamos fazer uma breve introdução sobre definição e etiologia, seguida de um quadro comparativo, para, depois, tentarmos encaixar o paciente no tipo mais provável.Em determinados casos, pode ser difícil diferenciar entre DM1, DM2 e MODY. Na tabela abaixo vamos pontuar as principais diferenças na apresentação clínica desses três diagnósticos:A ausência de história familiar e sobrepeso tornam a possibilidade de DM2 menos provável. Além disso, para suspeitarmos de MODY precisaríamos observar um padrão de transmissão compatível com uma doença autossômica dominante. Portanto, o mais provável é que se trate de um caso de LADA, já que o paciente tem 34 anos e evoluiu com um esgotamento acelerado da função pancreática.O examinador deseja saber como vamos conduzir esse caso, portanto, vamos analisar cada uma das alternativas.Correta a alternativa “c” e incorretas as demais alternativas: O LADA se trata de um tipo de DM autoimune que acomete pacientes adultos e que, inexoravelmente, evolui para a necessidade de terapia insulínica (é como se fosse um DM1 tardio e de evolução mais arrastada). Portanto, nas fases iniciais, alguns desses pacientes até alcançam bom controle glicêmico com antidiabéticos orais ou doses baixas de insulina, mas a evolução para a insuficiência pancreática endócrina absoluta é inevitável e, cedo ou tarde, esses pacientes acabarão por serem introduzidos no Esquema Basal-Bolus.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-19 17:14:05.942587 +0000 UTC",
+          "updated_at": "2020-10-19 17:14:45.277674 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126806-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-34-anos1735b08ad66",
+        "public": true
+      },
+      {
+        "id": "4000126783",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "66cc4de604a14187b51f58339d594a7b",
+            "name": "Critérios diagnósticos",
+            "is_master": false,
+            "master_id": "c1e5cccdeee04387bf7aeec467746729",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Introdução ao Diabetes Mellitus[$$]Critérios diagnósticos",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "778ea293dac8426ab5447d56646b3e72",
+            "name": "Tratamento medicamentoso",
+            "is_master": false,
+            "master_id": "e39487f7326345f982716782efb6d872",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Diabetes Mellitus tipo 2 (DM 2)[$$]Tratamento[$$]Tratamento medicamentoso",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "af27f975a4ec4121b8443d0946e5d287",
+            "name": "Insulinoterapia no tratamento do diabetes mellitus tipo 2",
+            "is_master": false,
+            "master_id": "45916935e36f423babbbeb7f263c569b",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Insulinoterapia[$$]Insulinoterapia no tratamento do diabetes mellitus tipo 2",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2a98a77c-a3fe-47bc-93d2-b1e7e9acc087",
+            "position": "0",
+            "body": "Tratamento sem medicamentos por enquanto.",
+            "sanitized_body": "Tratamento sem medicamentos por enquanto.",
+            "correct": false,
+            "created_at": "2020-09-24 23:23:45.24495 +0000 UTC",
+            "updated_at": "2020-11-16 13:12:42.653469 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa (A) é incorreta.</b> O paciente apresenta sintomas graves de descompensação metabólica e deve ser prontamente tratado com insulinoterapia.",
+              "sanitized_complete": "Alternativa (A) é incorreta. O paciente apresenta sintomas graves de descompensação metabólica e deve ser prontamente tratado com insulinoterapia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+              "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+              "author_profile": null,
+              "created_at": "2020-10-22 19:46:05.513628 +0000 UTC",
+              "updated_at": "2021-06-08 01:44:44.759682 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 17
+          },
+          {
+            "id": "64ddbf3f-42bf-4d88-b3a1-c60b39a0e997",
+            "position": "1",
+            "body": "Metformina – 500 mg 2 vezes ao  dia.",
+            "sanitized_body": "Metformina – 500 mg 2 vezes ao  dia.",
+            "correct": false,
+            "created_at": "2020-09-24 23:23:45.24495 +0000 UTC",
+            "updated_at": "2020-11-16 13:12:42.761373 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa (B) é incorreta.</b> A metformina é a droga de primeira escolha no tratamento do diabetes mellitus tipo 2, <u>exceto </u>em situações de descompensação, nas quais é necessário o uso de insulina para redução mais rápida da glicotoxicidade.<div><br></div><div>A metformina é um sensibilizador de insulina, com ação predominante no fígado, diminuindo a produção de glicose.</div>",
+              "sanitized_complete": "Alternativa (B) é incorreta. A metformina é a droga de primeira escolha no tratamento do diabetes mellitus tipo 2, exceto em situações de descompensação, nas quais é necessário o uso de insulina para redução mais rápida da glicotoxicidade.A metformina é um sensibilizador de insulina, com ação predominante no fígado, diminuindo a produção de glicose.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+              "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+              "author_profile": null,
+              "created_at": "2020-10-22 19:46:05.52738 +0000 UTC",
+              "updated_at": "2021-06-08 01:44:44.780199 +0000 UTC"
+            },
+            "answer_percentage": 30,
+            "answers": 770
+          },
+          {
+            "id": "5b8bd1fe-c551-4a4d-872e-7d2120720190",
+            "position": "2",
+            "body": "Glibenclamida – 5 mg 2 vezes ao  dia.",
+            "sanitized_body": "Glibenclamida – 5 mg 2 vezes ao  dia.",
+            "correct": false,
+            "created_at": "2020-09-24 23:23:45.24495 +0000 UTC",
+            "updated_at": "2020-11-16 13:12:42.88076 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa (C) é incorreta. </b>Devido aos elevados níveis glicêmicos, há disfunção das células beta pancreáticas, que apresentam dificuldade em produzir insulina, gerando uma situação de hipoinsulinismo. Assim, por conta da glicotoxicidade nas células beta, as sulfonilureias (como a glibenclamida) seriam de pouca valia neste momento, uma vez que são drogas que estimulam a secreção de insulina.",
+              "sanitized_complete": "Alternativa (C) é incorreta. Devido aos elevados níveis glicêmicos, há disfunção das células beta pancreáticas, que apresentam dificuldade em produzir insulina, gerando uma situação de hipoinsulinismo. Assim, por conta da glicotoxicidade nas células beta, as sulfonilureias (como a glibenclamida) seriam de pouca valia neste momento, uma vez que são drogas que estimulam a secreção de insulina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+              "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+              "author_profile": null,
+              "created_at": "2020-10-22 19:46:05.543091 +0000 UTC",
+              "updated_at": "2021-06-08 01:44:44.782611 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 14
+          },
+          {
+            "id": "f5123bfb-d865-4d53-88c1-06399a920fbd",
+            "position": "3",
+            "body": "Insulina NPH – 10 U ao deitar.",
+            "sanitized_body": "Insulina NPH – 10 U ao deitar.",
+            "correct": true,
+            "created_at": "2020-09-24 23:23:45.24495 +0000 UTC",
+            "updated_at": "2020-11-16 13:12:42.985815 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa (D) é correta. </b>Por conta da disfunção das células beta, ocorre redução da insulina circulante, diminuindo a captação de glicose pelos tecidos e aumentando a secreção de glucagon; este, por sua vez, ocasiona maior resistência periférica à insulina, além de aumento na produção hepática de glicose, acentuando a hiperglicemia.&nbsp;<div><br></div><div>Por esse motivo, o melhor tratamento em pacientes muito descompensados é a insulinoterapia. Quanto à dose, podemos iniciar com 0,1-0,2 UI de insulina basal/kg de peso na hora de dormir (NPH ou insulinas ultra lentas, como a glargina), sendo feita a reavaliação posológica dentro de alguns dias. A ideia é melhorar a insulinopenia, bloqueando a produção hepática de glicose durante a madrugada e, consequentemente, a glicemia em jejum, permitindo a associação com outros agentes anti-hiperglicemiantes.&nbsp;</div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa (D) é correta. Por conta da disfunção das células beta, ocorre redução da insulina circulante, diminuindo a captação de glicose pelos tecidos e aumentando a secreção de glucagon; este, por sua vez, ocasiona maior resistência periférica à insulina, além de aumento na produção hepática de glicose, acentuando a hiperglicemia. Por esse motivo, o melhor tratamento em pacientes muito descompensados é a insulinoterapia. Quanto à dose, podemos iniciar com 0,1-0,2 UI de insulina basal/kg de peso na hora de dormir (NPH ou insulinas ultra lentas, como a glargina), sendo feita a reavaliação posológica dentro de alguns dias. A ideia é melhorar a insulinopenia, bloqueando a produção hepática de glicose durante a madrugada e, consequentemente, a glicemia em jejum, permitindo a associação com outros agentes anti-hiperglicemiantes. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+              "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+              "author_profile": null,
+              "created_at": "2020-10-22 19:46:05.546076 +0000 UTC",
+              "updated_at": "2021-06-08 01:44:44.771627 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 1798
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 56 anos de idade, com antecedentes de obesidade desde a adolescência e hipertensão arterial sistêmica há cerca de 15 anos, em uso de enalapril –   10 mg duas vezes ao dia, procurou ambulatório de clínica médica com queixas de    poliúria e polidipsia iniciadas há cerca de três meses. Ele refere que perdeu cerca de 9 kg nesse período, sem alterações na dieta habitual. Nega também doenças cardíacas, renais ou hepáticas. O paciente é sedentário e trouxe exame da semana anterior que mostra glicemia de jejum de 346 mg/dL (valor de referência = 75-99 mg/dL) e uma outra glicemia de jejum, do dia anterior à consulta, de 334 mg/dL. A glicemia capilar no momento da consulta foi de 441 mg/dL. Ao exame físico, paciente encontra-se em estado geral regular, eupneico, desidratado (+/4+) e corado. Observa-se acantose nigricans cervical, Índice de Massa Corporal (IMC) = 28,7 kg/m², circunferência abdominal = 105 cm, pressão arterial 130 x 70 mmHg sentado e de pé. Auscultas cardíaca e pulmonar normais. Além da orientação dietética e da prática de atividade física, a conduta a ser adotada, neste momento, com posterior reavaliação, deve ser:",
+        "statement_text": "Um paciente com 56 anos de idade, com antecedentes de obesidade desde a adolescência e hipertensão arterial sistêmica há cerca de 15 anos, em uso de enalapril –   10 mg duas vezes ao dia, procurou ambulatório de clínica médica com queixas de    poliúria e polidipsia iniciadas há cerca de três meses. Ele refere que perdeu cerca de 9 kg nesse período, sem alterações na dieta habitual. Nega também doenças cardíacas, renais ou hepáticas. O paciente é sedentário e trouxe exame da semana anterior que mostra glicemia de jejum de 346 mg/dL (valor de referência = 75-99 mg/dL) e uma outra glicemia de jejum, do dia anterior à consulta, de 334 mg/dL. A glicemia capilar no momento da consulta foi de 441 mg/dL. Ao exame físico, paciente encontra-se em estado geral regular, eupneico, desidratado (+/4+) e corado. Observa-se acantose nigricans cervical, Índice de Massa Corporal (IMC) = 28,7 kg/m², circunferência abdominal = 105 cm, pressão arterial 130 x 70 mmHg sentado e de pé. Auscultas cardíaca e pulmonar normais. Além da orientação dietética e da prática de atividade física, a conduta a ser adotada, neste momento, com posterior reavaliação, deve ser:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 23:23:45.24495 +0000 UTC",
+        "forum_id": "bb05d218-8848-4357-a614-3152db1749c0",
+        "solution": {
+          "_key": "192f0889-7cdc-4181-ad48-e5706d5f24f1",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Caro aluno, estamos diante de um paciente com fatores de risco para diabetes mellitus tipo 2 (obesidade, hipertensão arterial, idade &gt; 45 anos, acantose nigricans cervical), que se apresenta com quadro de descompensação, manifestado através de poliúria, polidipsia e perda ponderal; nesta situação, podemos firmar o diagnóstico de diabetes mellitus devido à presença de sintomas clássicos de hiperglicemia associados a glicemias ≥ 200 mg/dL. Vamos relembrar os critérios diagnósticos:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/249161F4-A1EA-2268-E374-8755A40DC3BA/249161F4-A1EA-2268-E374-8755A40DC3BA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Na presença de sintomas graves de descompensação (veja que o paciente perdeu 9 kg de peso) e glicemias ≥ 300 mg/dL, devemos iniciar prontamente insulinoterapia, devido ao alto risco de evolução para estado hiperglicêmico hiperosmolar, condição que tem alta mortalidade.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/42673DCB-AAB7-DF52-E266-529259402BAA/42673DCB-AAB7-DF52-E266-529259402BAA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DCaro aluno, estamos diante de um paciente com fatores de risco para diabetes mellitus tipo 2 (obesidade, hipertensão arterial, idade &gt; 45 anos, acantose nigricans cervical), que se apresenta com quadro de descompensação, manifestado através de poliúria, polidipsia e perda ponderal; nesta situação, podemos firmar o diagnóstico de diabetes mellitus devido à presença de sintomas clássicos de hiperglicemia associados a glicemias ≥ 200 mg/dL. Vamos relembrar os critérios diagnósticos:Na presença de sintomas graves de descompensação (veja que o paciente perdeu 9 kg de peso) e glicemias ≥ 300 mg/dL, devemos iniciar prontamente insulinoterapia, devido ao alto risco de evolução para estado hiperglicêmico hiperosmolar, condição que tem alta mortalidade.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+          "author_email_id": "af84f6a6f3c4a62a8835ef613ac4d592",
+          "author_profile": {
+            "id": "0c6f57bb-669d-4b82-aa45-baaed91e6f6c",
+            "full_name": "Camila Moma",
+            "avatar_url": "https://static.accounts.estrategia.com/e7e0e9ce5efce8a2216f079d45d7381c",
+            "about_me": "Graduação, residência em Clínica Médica, residência em Endocrinologia e mestrado pela UNICAMP.\nDoutoranda pela UNICAMP.\nEndocrinologista (consultório privado).\nProfessora do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.camilamoma",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/camila-moma-44720b9b",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-22 19:46:05.696801 +0000 UTC",
+          "updated_at": "2021-06-08 01:44:44.888163 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126783-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-56-anos1958b259fa5",
+        "public": true
+      },
+      {
+        "id": "4000176200",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4EAA9F8A-07AE-84E4-0FA0-5C0F5C1C60DA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 23,
+            "created_at": "2020-09-03T18:15:00Z",
+            "updated_at": "2020-09-24T15:39:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "484bb052230e4956a2698e468b37ce4e",
+            "name": "Tratamento no paciente adulto",
+            "is_master": false,
+            "master_id": "99d6791f64a7481e822e74cd51a24d21",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Complicações agudas[$$]Cetoacidose diabética[$$]Tratamento[$$]Tratamento no paciente adulto",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b7b1f3cdcdfb4648ae92e529d89238a0",
+            "name": "Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "is_master": false,
+            "master_id": "45916935e36f423babbbeb7f263c569b",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Insulinoterapia[$$]Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Paciente com 20 anos de idade, antecedentes de diabetes mellitus tipo 1 desde os 8 anos de idade, foi trazido ao <span>Serviço de Emergência pela ocorrência de náuseas e vômitos há cerca de 24 horas, e dor abdominal nas últimas 12h, </span><span>além de rebaixamento progressivo do nível de consciência nas últimas horas. Ao exame se encontrava com estado geral </span><span>comprometido, descorado (+/4+), desidratado (3+/4+), taquipneico em repouso (respiração de grande amplitude), </span><span>acianótico e afebril. Ao exame neurológico estava torporoso, escala de coma de Glasgow = 9 (abertura ocular = 2, </span><span>resposta motora = 5, resposta verbal = 2), com pupilas simétricas e fotorreagentes, sem rigidez nucal, temperatura </span><span>axilar = 36,4 ºC, pressão arterial = 90 x 50 mmHg, frequência cardíaca = 116 bpm, frequência respiratória = 24 irpm e </span><span>glicemia capilar = HI (High, elevada). Aparelhos cardiovascular e respiratório sem anormalidades ao exame físico. Havia </span><span>dor à palpação difusa do abdome, sem massas, visceromegalias ou sinais de irritação peritoneal. Ruídos hidroaéreos </span><span>presentes. Foi prescrita solução salina a 0,9% - 1.000 ml e, após 1 hora de atendimento, verificou-se:</span><div><span><br></span></div><div><span>glicemia capilar = 584 mg/dL</span></div><div><span>pressão arterial = 110 x 65 mmHg</span></div><div><span>glicemia = 566 mg/dL (VR = 70 - 99)</span></div><div><span>gasometria venosa: pH = 6,9</span></div><div><span>HCO3- = 8 mEq/L (Vr = 22-25)</span></div><div><span>K+</span><span> = 2,9 mEq/L (VR = 3,5-5,0)</span></div><div><span>Cl- = 115 mEq/L</span></div><div><span>ânion gap = 27</span></div><div><span>Na+ </span><span>= 150 mEq/L (VR = 135-145mEq/L )</span></div><div><span>ureia = 35 mg/dL (Vr &lt; 35)</span></div><div><span>creatinina = 1,3 mg/dL (VR = 0,7-1,3)</span></div><div><span>Urina I (EAS): glicosúria 3+ e cetonúria 2+.</span></div><div><span>Eletrocardiograma = normal. </span></div><div><span><br></span></div><div><span>Diante desse quadro, responda: </span></div><div><span><br></span></div><div><span>a) Como deve ser feita a hidratação venosa do paciente? Justifique a resposta.</span></div><div><span> </span></div><div><span>b) Como deve ser feita a administração de insulina? Justifique a resposta.</span></div><div><span><br></span></div><div><span>c) Como deve ser tratado o distúrbio metabólico apresentado pelo paciente? Justifique a resposta. </span></div><div><span><br></span></div><div><span>d) Cite três critérios a serem utilizados para indicar o retorno da insulinoterapia por via subcutânea. </span></div><div><span><br></span></div><div><span>e) Descreva um regime de insulinoterapia subcutânea, incluindo nome(s) da(s) insulina(s) e número de aplicação(ões) </span><span>ao dia, para ser utilizada pelo paciente após a alta hospitalar com o objetivo de manter o controle glicêmico </span><span>adequado.</span></div>",
+        "statement_text": "Paciente com 20 anos de idade, antecedentes de diabetes mellitus tipo 1 desde os 8 anos de idade, foi trazido ao Serviço de Emergência pela ocorrência de náuseas e vômitos há cerca de 24 horas, e dor abdominal nas últimas 12h, além de rebaixamento progressivo do nível de consciência nas últimas horas. Ao exame se encontrava com estado geral comprometido, descorado (+/4+), desidratado (3+/4+), taquipneico em repouso (respiração de grande amplitude), acianótico e afebril. Ao exame neurológico estava torporoso, escala de coma de Glasgow = 9 (abertura ocular = 2, resposta motora = 5, resposta verbal = 2), com pupilas simétricas e fotorreagentes, sem rigidez nucal, temperatura axilar = 36,4 ºC, pressão arterial = 90 x 50 mmHg, frequência cardíaca = 116 bpm, frequência respiratória = 24 irpm e glicemia capilar = HI (High, elevada). Aparelhos cardiovascular e respiratório sem anormalidades ao exame físico. Havia dor à palpação difusa do abdome, sem massas, visceromegalias ou sinais de irritação peritoneal. Ruídos hidroaéreos presentes. Foi prescrita solução salina a 0,9% - 1.000 ml e, após 1 hora de atendimento, verificou-se:glicemia capilar = 584 mg/dLpressão arterial = 110 x 65 mmHgglicemia = 566 mg/dL (VR = 70 - 99)gasometria venosa: pH = 6,9HCO3- = 8 mEq/L (Vr = 22-25)K+ = 2,9 mEq/L (VR = 3,5-5,0)Cl- = 115 mEq/Lânion gap = 27Na+ = 150 mEq/L (VR = 135-145mEq/L )ureia = 35 mg/dL (Vr &lt; 35)creatinina = 1,3 mg/dL (VR = 0,7-1,3)Urina I (EAS): glicosúria 3+ e cetonúria 2+.Eletrocardiograma = normal. Diante desse quadro, responda: a) Como deve ser feita a hidratação venosa do paciente? Justifique a resposta. b) Como deve ser feita a administração de insulina? Justifique a resposta.c) Como deve ser tratado o distúrbio metabólico apresentado pelo paciente? Justifique a resposta. d) Cite três critérios a serem utilizados para indicar o retorno da insulinoterapia por via subcutânea. e) Descreva um regime de insulinoterapia subcutânea, incluindo nome(s) da(s) insulina(s) e número de aplicação(ões) ao dia, para ser utilizada pelo paciente após a alta hospitalar com o objetivo de manter o controle glicêmico adequado.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "a5aa6f51ab6095e07c673865b3e8fa8e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-02-26 20:11:44.075782 +0000 UTC",
+        "forum_id": "1e0440b5-b5c1-4fa3-8f80-c7e7444bd6dc",
+        "solution": {
+          "_key": "4c86bf44-4645-4c5c-a6e9-32d6dcfd7c5a",
+          "complete": "Clinicamente, a cetoacidose diabética (CAD) manifesta-se com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso), desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, diminuição do nível de consciência e, eventualmente, coma.  <div><br><div>Os critérios diagnósticos de CAD mais utilizados nos pacientes adultos foram propostos pela <i>American Diabetes Association</i> (ADA) no ano de 2009:</div><div>•\tGlicemia > 250 mg/dL;</div><div>•\tAcidose metabólica (pH arterial ≤ 7,3 e bicarbonato sérico ≤ 18 mEq/L);</div><div>•\tAumento da concentração corporal total de corpos cetônicos.</div><div><br></div><div>O aumento da concentração corporal total de corpos cetônicos pode ser documentado pela aferição da cetonemia (β-hidroxibutirato ≥ 3 mmol/L) ou da cetonúria (positividade da fita reagente).</div><div><br></div><div>Os critérios são bastante intuitivos, visto que estão “incluídos” no nome da doença:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4F3D03A4-B53B-AC5D-02E5-CD9A32FB9D24/4F3D03A4-B53B-AC5D-02E5-CD9A32FB9D24-400.jpeg\"></div><div> </div><div> </div><div>O manejo terapêutico da CAD inclui um “pacote terapêutico” baseado em 5 pilares:</div><div>1.\tEstabilização clínica e reposição de volume;</div><div>2.\tAvaliação e correção da calemia;</div><div>3.\tInsulinização;</div><div>4.\tAvaliação da necessidade de bicarbonato;</div><div>5.\tAbordagem dos fatores precipitantes.</div><div><br></div><div>Vamos abordar os principais tópicos de cada um desses pilares para, em seguida, respondermos às questões trazidas pelo enunciado:</div><div><b><br></b></div><div><b><br></b></div><div><b>1) ESTABILIZAÇÃO E REPOSIÇÃO DE VOLUME</b><br></div><div>Após as medidas gerais de suporte de vida, a hidratação venosa sempre será o primeiríssimo passo no tratamento da CAD. A hidratação venosa inicial deve ser feita de acordo com o grau de desidratação encontrado (sempre com salina isotônica a 0,9%): </div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CB949535-BD17-B332-7219-F4449B2FF2BA/CB949535-BD17-B332-7219-F4449B2FF2BA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Após 2 a 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir qual será a solução mais adequada. Se o paciente apresentar hiponatremia, devemos manter a solução salina a 0,9%. Caso o paciente apresente sódio corrigido normal ou elevado, devemos trocar a salina a 0,9% por solução salina a 0,45%.</div><div>•\tNa < 135 mEq/L --> A solução salina isotônica a 0,9% deve ser continuada a uma taxa de 250-500 mL/h.</div><div>•\tNa ≥ 135 mEq/L --> Trocar a solução salina a 0,9% por solução salina a 0,45% a uma taxa de infusão de 250-500 mL/h. </div><div><br></div><div>Expusemos as recomendações do<i> UpToDate</i> porque consideramos mais acertado ensinar recomendações terapêuticas mais recentes; entretanto, saiba que a diretriz da ADA de 2009 sugere condutas sutilmente diferentes em relação à hidratação venosa inicial:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4F7A2FE6-C319-0D5F-1792-B5764CA13FA3/4F7A2FE6-C319-0D5F-1792-B5764CA13FA3-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><b><br></b></div><div><b><br></b></div><div><b>2) AVALIAÇÃO E CORREÇÃO DA CALEMIA</b><br></div><div>A glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD se apresenta com níveis de potássio normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso, a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:</div><div>•\tA insulina estimula o transporte de K+ para o espaço intracelular;</div><div>•\tCom a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.</div><div><br></div><div>Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos a hidratação venosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional:</div><div><b>Potássio < 3,3 mEq/L:</b></div><div>•\tIniciar infusão de cloreto de potássio (KCl) e mantê-la em 20-40 mEq/h até que a calemia alcance o patamar de 3,3 mEq/L (nesse ponto, a taxa de reposição poderá ser reduzida para 20-30 mEq/litro de salina).</div><div>•\tSó ofertar insulina quando a calemia alcançar o patamar de 3,3 mEq/L.</div><div><b>Potássio 3,3 - 5,2 mEq/L:</b><br></div><div>•\tIniciar insulina e repor potássio concomitantemente (20-30 mEq em cada litro de solução salina) com o objetivo de manter a calemia entre 4 e 5 mEq/L.</div><div><b>Potássio > 5,2 mEq/L:</b></div><div>•\tIniciar insulinoterapia.</div><div>•\tAvaliar a calemia a cada 2 horas.</div><div>•\tA reposição de potássio deve ser iniciada caso a calemia caia para patamares inferiores a esse nível.</div><div><b><br></b></div><div><b><br></b></div><div><b>3) INSULINIZAÇÃO</b><br></div><div>A abordagem da hiperglicemia na CAD deve ser feita com<b> insulina regular intravenosa em bomba de infusão contínua</b> (BIC). Vamos ressaltar os conceitos mais relevantes sobre essa etapa nos tópicos a seguir:</div><div>- Em casos de CAD leve, ou quando a terapia intravenosa for impraticável, podemos fazer uso de análogos ultrarrápidos subcutâneos (aplicados a cada 1 a 2 horas).</div><div>- O esquema mais clássico é o bólus inicial (0,1 UI/kg) seguido de infusão contínua (0,1 UI/kg/h). </div><div>- Outra opção é não realizar o bólus inicial e já começar a infusão contínua em uma taxa maior (0,14 UI/kg/h). </div><div>- A glicemia deve ser aferida a cada hora e sua taxa de redução, idealmente, deve ser de 50 a 70 mg/dL/h. Se a taxa de redução for < 50 mg/dL/h, devemos duplicar a taxa de infusão. Se a taxa de redução for > 70 mg/dL/h, devemos reduzir a taxa de infusão pela metade (caso o paciente ainda não tenha alcançado a glicemia de 250 mg/dL, essa redução não poderá resultar em uma taxa de infusão inferior a 0,1 UI/kg/h).</div><div>- Na maioria dos pacientes com CAD, a hiperglicemia resolve-se antes da cetoacidose, portanto, quando a glicemia alcançar o patamar de 200 mg/dL, deve-se tomar duas condutas:</div><div><ul><li>•\tAcrescentar dextrose (soro glicosado) à reposição volêmica</li><li>•\tPonderar a redução da taxa de infusão de insulina para níveis entre 0,02 e 0,05 UI/kg/h, no intuito de mantermos a glicemia entre 150 e 200 mg/dL até a resolução da CAD.</li></ul></div><div>- A infusão venosa contínua de insulina só poderá ser suspensa mediante o preenchimento de todos os três critérios a seguir:</div><div>•\tResolução da CAD.</div><div>•\tPaciente apto a alimentar-se.</div><div>•\tPrimeira dose de insulina prandial já ter sido aplicada 1 a 2 horas antes do desligamento da BIC.</div><div>- Mas, quais seriam os critérios de resolução da CAD no paciente adulto? Segundo as orientações da ADA, podemos dizer que a CAD está resolvida quando o paciente apresenta <b>glicemia < 200 mg/dL</b> e, pelo menos, dois dos seguintes critérios:</div><div><b>•\tpH venoso > 7,3.</b></div><div><b>•\tBicarbonato ≥ 15 mEq/L.</b></div><div><b>•\tÂnion gap ≤ 12 mEq/L.</b></div><div><b><br></b></div><div><b><br></b></div><div><b>4) AVALIAÇÃO DA NECESSIDADE DE BICARBONATO</b><br></div><div>O uso de bicarbonato no tratamento da CAD permanece controverso, entretanto, pode ser considerado quando houver instabilidade hemodinâmica relacionada a uma das seguintes situações:</div><div>•\tPacientes com <b>pH arterial < 6,9</b>.</div><div>•\tPacientes com hipercalemia potencialmente fatal.</div><div><b><br></b></div><div><b><br></b></div><div><b>5) TRATAR FATORES PRECIPITANTES </b><br></div><div>De nada valerá que as etapas anteriormente citadas sejam executadas com primor se os possíveis fatores precipitantes não forem neutralizados. Especial atenção deverá ser dispensada à pesquisa de sinais e de sintomas sugestivos de infecção e doenças agudas (síndromes isquêmicas e pancreatite, por exemplo).</div><div><span><br></span></div><div><span><br></span></div><div><b><span>Agora, vamos responder aos questionamentos do enunciado:</span><br></b></div><div><b><br></b></div><div><b>a) Como deve ser feita a hidratação venosa do paciente? Justifique a resposta. (valor: 2,0 pontos) </b></div><div><b>Gabarito oficial: Modificar para Solução salina a 0,45% devido à hipernatremia.</b></div><div><b>Comentário EMED:</b><span> Repare que o paciente chega à emergência em estado de choque hipovolêmico e, após uma hora de hidratação, observamos que se encontra com natremia de 150 mEq/L (hipernatremia).</span><br></div><div>Podemos trocar o soro fisiológico a 0,9% para a solução salina a 0,45%? No entendimento do UpTodate, ainda não. Apenas uma hora de hidratação dificilmente seria suficiente para corrigir os défices hídrico e eletrolítico de um paciente como o descrito pelo enunciado. Idealmente, devemos ponderar essa conduta após 2 a 3 horas de hidratação venosa com soro fisiológico a 0,9%.</div><div>Aparentemente, a banca seguiu a diretriz da ADA, o que é perfeitamente cabível, já que se trata de uma questão de 2013. Segundo a ADA, após a 1ª hora de hidratação com salina a 0,9%, deve-se avaliar o estado hemodinâmico, o grau de hidratação, os níveis séricos dos eletrólitos e o débito urinário para ponderar que tipo de solução seria a mais adequada para as próximas horas.</div><div>O enunciado não fornece informações sobre o estado clínico após a 1ª hora de hidratação, mas sabemos que existe hipernatremia. Pelo entendimento da banca, a alteração eletrolítica por si só justificaria a transição de NaCl 0,9% para NaCl 0,45%.</div><div><br></div><div><b>b) Como deve ser feita a administração de insulina? Justifique a resposta. (valor: 2,5 pontos) </b></div><div><b>Gabarito oficial: QUESITO ANULADO. </b></div><div><b>Comentário EMED: </b><span>Uma calemia de 2,9 mEq/L contraindica a infusão de insulina, entretanto a banca fez o seguinte questionamento: \"como deve ser feita a administração de insulina?\". Certamente, o questionamento foi feito com o intuito de que a relação calemia/insulina fosse abordada na resposta, mas o comando da questão induziu os candidatos ao erro ao sugestionar que a insulina deve ser prontamente prescrita.</span></div><div><br></div><div><b>c) Como deve ser tratado o distúrbio metabólico apresentado pelo paciente? Justifique a resposta. (valor: 2,0 pontos) </b></div><div><b>Gabarito oficial: Está indicada a reposição de bicarbonato. Na maioria dos casos de cetoacidose diabética, não é necessária a reposição de bicarbonato, mas como se trata de um caso de cetoacidose grave, com níveis de bicarbonato < 7,0, é recomendada a administração de NaHCO3. </b></div><div><b>Comentário EMED:</b><span> O paciente possui pH de 6,9 e, de acordo com a ADA, a infusão de bicarbonato só se faz necessária quando o pH < 6,9. Ocorre que, como todo parâmetro que evolve os sinais de “<”, “>”, “≤” e “≥”, há uma certa confusão na literatura a respeito desse conceito. Ou seja, muitas referencias bibliográficas indicam a reposição de bicarbonato quando o pH é ≤ 6.9 (ou seja, pH < 7.0).</span></div><div>Particularmente, creio que o ideal seria que a bancas evitassem números limítrofes para não penalizar os candidatos, mas, infelizmente, não foi o que ocorreu.</div><div><br></div><div><b>d) Cite três critérios a serem utilizados para indicar o retorno da insulinoterapia por via subcutânea. (valor: 1,5 pontos). </b></div><div><b>Gabarito oficial: Os critérios para se suspender o tratamento venoso, liberar o paciente da unidade de tratamento intensivo e iniciar tratamento com insulina subcutânea são os mesmos critérios de resolução da cetoacidose. (0,5 ponto para cada um):</b></div><div><b>•\tGlicemia < 250 mg/dL; e</b></div><div><b>•\tpH sérico > 7,3; e</b></div><div><b>•\tBicarbonato > 18 mEq/L e/ou correção da acidose.</b></div><div><b>Comentário EMED:</b><span> </span><span>A banca confundiu “critérios diagnósticos de CAD” com “critérios de resolução da CAD”. Portanto, discordamos do gabarito oficial.</span></div><div><b><br></b></div><div><b>e) Descreva um regime de insulinoterapia subcutânea, incluindo nome(s) da(s) insulina(s) e número de aplicação(ões) ao dia, para ser utilizada pelo paciente após a alta hospitalar com o objetivo de manter o controle glicêmico adequado. (valor: 2,0 pontos)</b><br></div><div><b>Gabarito oficial: Existem várias possibilidades de respostas para essa questão, embora todas preencham as seguintes características: d</b><b>ois tipos de insulina: uma basal (isto é, insulina NPH OU Glargina OU Detemir), associada a uma insulina rápida (insulina Regular) ou ultrarrápida (lispro, aspart ou glulisina). </b></div><div><b>Exemplos de respostas aceitáveis (uma combinação da coluna \"Insulina basal\" + \"Insulina Rápida ou Ultrarrápida\"):</b></div><div><b><br></b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/117E07F4-4CAE-D671-9E25-3C02DB67A32A/117E07F4-4CAE-D671-9E25-3C02DB67A32A-400.png\"><!-- END:IMAGE_TO_REPLACE --><b><br></b></div><div> </div><div><span><b>Comentário EMED:</b> Quero apenas reforçar que pacientes com diabetes mellitus tipo 1 possuem insuficiência insulínica absoluta, logo devemos ofertar insulina basal suficiente para cobrir as 24 horas do dia e insulina prandial antes das três refeições principais. Portanto, discordamos que a insulina prandial possa ser aplicada apenas duas vezes ao dia, como sugestiona o gabarito oficial.</span><br></div><div><br></div></div>",
+          "sanitized_complete": "Clinicamente, a cetoacidose diabética (CAD) manifesta-se com: sinais e sintomas sugestivos de hiperglicemia (poliúria, polidipsia, polifagia, perda de peso), desidratação, taquicardia, taquipneia, hálito cetônico, náusea e/ou vômitos, dor abdominal, visão embaçada, confusão, sonolência, diminuição do nível de consciência e, eventualmente, coma.  Os critérios diagnósticos de CAD mais utilizados nos pacientes adultos foram propostos pela American Diabetes Association (ADA) no ano de 2009:•\tGlicemia &gt; 250 mg/dL;•\tAcidose metabólica (pH arterial ≤ 7,3 e bicarbonato sérico ≤ 18 mEq/L);•\tAumento da concentração corporal total de corpos cetônicos.O aumento da concentração corporal total de corpos cetônicos pode ser documentado pela aferição da cetonemia (β-hidroxibutirato ≥ 3 mmol/L) ou da cetonúria (positividade da fita reagente).Os critérios são bastante intuitivos, visto que estão “incluídos” no nome da doença:  O manejo terapêutico da CAD inclui um “pacote terapêutico” baseado em 5 pilares:1.\tEstabilização clínica e reposição de volume;2.\tAvaliação e correção da calemia;3.\tInsulinização;4.\tAvaliação da necessidade de bicarbonato;5.\tAbordagem dos fatores precipitantes.Vamos abordar os principais tópicos de cada um desses pilares para, em seguida, respondermos às questões trazidas pelo enunciado:1) ESTABILIZAÇÃO E REPOSIÇÃO DE VOLUMEApós as medidas gerais de suporte de vida, a hidratação venosa sempre será o primeiríssimo passo no tratamento da CAD. A hidratação venosa inicial deve ser feita de acordo com o grau de desidratação encontrado (sempre com salina isotônica a 0,9%): Após 2 a 3 horas de hidratação inicial, devemos avaliar o sódio corrigido do paciente para definir qual será a solução mais adequada. Se o paciente apresentar hiponatremia, devemos manter a solução salina a 0,9%. Caso o paciente apresente sódio corrigido normal ou elevado, devemos trocar a salina a 0,9% por solução salina a 0,45%.•\tNa &lt; 135 mEq/L --&gt; A solução salina isotônica a 0,9% deve ser continuada a uma taxa de 250-500 mL/h.•\tNa ≥ 135 mEq/L --&gt; Trocar a solução salina a 0,9% por solução salina a 0,45% a uma taxa de infusão de 250-500 mL/h. Expusemos as recomendações do UpToDate porque consideramos mais acertado ensinar recomendações terapêuticas mais recentes; entretanto, saiba que a diretriz da ADA de 2009 sugere condutas sutilmente diferentes em relação à hidratação venosa inicial:2) AVALIAÇÃO E CORREÇÃO DA CALEMIAA glicose “puxa” o potássio para fora da célula e, como resultado, a maioria dos pacientes com CAD se apresenta com níveis de potássio normal ou elevado, mas o “pool” corporal total desse íon está reduzido, devido à espoliação que ocorre através da diurese osmótica. Além disso, a calemia frequentemente diminui durante o tratamento da CAD, por duas razões específicas:•\tA insulina estimula o transporte de K+ para o espaço intracelular;•\tCom a correção da acidose, o H+ intracelular sai da célula à custa da internalização de potássio.Sendo assim, devemos avaliar a calemia de todo paciente com CAD antes de iniciar a insulinoterapia, ao mesmo tempo em que iniciamos a hidratação venosa. O início ou não da terapia insulínica dependerá diretamente da calemia admissional:Potássio &lt; 3,3 mEq/L:•\tIniciar infusão de cloreto de potássio (KCl) e mantê-la em 20-40 mEq/h até que a calemia alcance o patamar de 3,3 mEq/L (nesse ponto, a taxa de reposição poderá ser reduzida para 20-30 mEq/litro de salina).•\tSó ofertar insulina quando a calemia alcançar o patamar de 3,3 mEq/L.Potássio 3,3 - 5,2 mEq/L:•\tIniciar insulina e repor potássio concomitantemente (20-30 mEq em cada litro de solução salina) com o objetivo de manter a calemia entre 4 e 5 mEq/L.Potássio &gt; 5,2 mEq/L:•\tIniciar insulinoterapia.•\tAvaliar a calemia a cada 2 horas.•\tA reposição de potássio deve ser iniciada caso a calemia caia para patamares inferiores a esse nível.3) INSULINIZAÇÃOA abordagem da hiperglicemia na CAD deve ser feita com insulina regular intravenosa em bomba de infusão contínua (BIC). Vamos ressaltar os conceitos mais relevantes sobre essa etapa nos tópicos a seguir:- Em casos de CAD leve, ou quando a terapia intravenosa for impraticável, podemos fazer uso de análogos ultrarrápidos subcutâneos (aplicados a cada 1 a 2 horas).- O esquema mais clássico é o bólus inicial (0,1 UI/kg) seguido de infusão contínua (0,1 UI/kg/h). - Outra opção é não realizar o bólus inicial e já começar a infusão contínua em uma taxa maior (0,14 UI/kg/h). - A glicemia deve ser aferida a cada hora e sua taxa de redução, idealmente, deve ser de 50 a 70 mg/dL/h. Se a taxa de redução for &lt; 50 mg/dL/h, devemos duplicar a taxa de infusão. Se a taxa de redução for &gt; 70 mg/dL/h, devemos reduzir a taxa de infusão pela metade (caso o paciente ainda não tenha alcançado a glicemia de 250 mg/dL, essa redução não poderá resultar em uma taxa de infusão inferior a 0,1 UI/kg/h).- Na maioria dos pacientes com CAD, a hiperglicemia resolve-se antes da cetoacidose, portanto, quando a glicemia alcançar o patamar de 200 mg/dL, deve-se tomar duas condutas:•\tAcrescentar dextrose (soro glicosado) à reposição volêmica•\tPonderar a redução da taxa de infusão de insulina para níveis entre 0,02 e 0,05 UI/kg/h, no intuito de mantermos a glicemia entre 150 e 200 mg/dL até a resolução da CAD.- A infusão venosa contínua de insulina só poderá ser suspensa mediante o preenchimento de todos os três critérios a seguir:•\tResolução da CAD.•\tPaciente apto a alimentar-se.•\tPrimeira dose de insulina prandial já ter sido aplicada 1 a 2 horas antes do desligamento da BIC.- Mas, quais seriam os critérios de resolução da CAD no paciente adulto? Segundo as orientações da ADA, podemos dizer que a CAD está resolvida quando o paciente apresenta glicemia &lt; 200 mg/dL e, pelo menos, dois dos seguintes critérios:•\tpH venoso &gt; 7,3.•\tBicarbonato ≥ 15 mEq/L.•\tÂnion gap ≤ 12 mEq/L.4) AVALIAÇÃO DA NECESSIDADE DE BICARBONATOO uso de bicarbonato no tratamento da CAD permanece controverso, entretanto, pode ser considerado quando houver instabilidade hemodinâmica relacionada a uma das seguintes situações:•\tPacientes com pH arterial &lt; 6,9.•\tPacientes com hipercalemia potencialmente fatal.5) TRATAR FATORES PRECIPITANTES De nada valerá que as etapas anteriormente citadas sejam executadas com primor se os possíveis fatores precipitantes não forem neutralizados. Especial atenção deverá ser dispensada à pesquisa de sinais e de sintomas sugestivos de infecção e doenças agudas (síndromes isquêmicas e pancreatite, por exemplo).Agora, vamos responder aos questionamentos do enunciado:a) Como deve ser feita a hidratação venosa do paciente? Justifique a resposta. (valor: 2,0 pontos) Gabarito oficial: Modificar para Solução salina a 0,45% devido à hipernatremia.Comentário EMED: Repare que o paciente chega à emergência em estado de choque hipovolêmico e, após uma hora de hidratação, observamos que se encontra com natremia de 150 mEq/L (hipernatremia).Podemos trocar o soro fisiológico a 0,9% para a solução salina a 0,45%? No entendimento do UpTodate, ainda não. Apenas uma hora de hidratação dificilmente seria suficiente para corrigir os défices hídrico e eletrolítico de um paciente como o descrito pelo enunciado. Idealmente, devemos ponderar essa conduta após 2 a 3 horas de hidratação venosa com soro fisiológico a 0,9%.Aparentemente, a banca seguiu a diretriz da ADA, o que é perfeitamente cabível, já que se trata de uma questão de 2013. Segundo a ADA, após a 1ª hora de hidratação com salina a 0,9%, deve-se avaliar o estado hemodinâmico, o grau de hidratação, os níveis séricos dos eletrólitos e o débito urinário para ponderar que tipo de solução seria a mais adequada para as próximas horas.O enunciado não fornece informações sobre o estado clínico após a 1ª hora de hidratação, mas sabemos que existe hipernatremia. Pelo entendimento da banca, a alteração eletrolítica por si só justificaria a transição de NaCl 0,9% para NaCl 0,45%.b) Como deve ser feita a administração de insulina? Justifique a resposta. (valor: 2,5 pontos) Gabarito oficial: QUESITO ANULADO. Comentário EMED: Uma calemia de 2,9 mEq/L contraindica a infusão de insulina, entretanto a banca fez o seguinte questionamento: &#34;como deve ser feita a administração de insulina?&#34;. Certamente, o questionamento foi feito com o intuito de que a relação calemia/insulina fosse abordada na resposta, mas o comando da questão induziu os candidatos ao erro ao sugestionar que a insulina deve ser prontamente prescrita.c) Como deve ser tratado o distúrbio metabólico apresentado pelo paciente? Justifique a resposta. (valor: 2,0 pontos) Gabarito oficial: Está indicada a reposição de bicarbonato. Na maioria dos casos de cetoacidose diabética, não é necessária a reposição de bicarbonato, mas como se trata de um caso de cetoacidose grave, com níveis de bicarbonato &lt; 7,0, é recomendada a administração de NaHCO3. Comentário EMED: O paciente possui pH de 6,9 e, de acordo com a ADA, a infusão de bicarbonato só se faz necessária quando o pH &lt; 6,9. Ocorre que, como todo parâmetro que evolve os sinais de “&lt;”, “&gt;”, “≤” e “≥”, há uma certa confusão na literatura a respeito desse conceito. Ou seja, muitas referencias bibliográficas indicam a reposição de bicarbonato quando o pH é ≤ 6.9 (ou seja, pH &lt; 7.0).Particularmente, creio que o ideal seria que a bancas evitassem números limítrofes para não penalizar os candidatos, mas, infelizmente, não foi o que ocorreu.d) Cite três critérios a serem utilizados para indicar o retorno da insulinoterapia por via subcutânea. (valor: 1,5 pontos). Gabarito oficial: Os critérios para se suspender o tratamento venoso, liberar o paciente da unidade de tratamento intensivo e iniciar tratamento com insulina subcutânea são os mesmos critérios de resolução da cetoacidose. (0,5 ponto para cada um):•\tGlicemia &lt; 250 mg/dL; e•\tpH sérico &gt; 7,3; e•\tBicarbonato &gt; 18 mEq/L e/ou correção da acidose.Comentário EMED: A banca confundiu “critérios diagnósticos de CAD” com “critérios de resolução da CAD”. Portanto, discordamos do gabarito oficial.e) Descreva um regime de insulinoterapia subcutânea, incluindo nome(s) da(s) insulina(s) e número de aplicação(ões) ao dia, para ser utilizada pelo paciente após a alta hospitalar com o objetivo de manter o controle glicêmico adequado. (valor: 2,0 pontos)Gabarito oficial: Existem várias possibilidades de respostas para essa questão, embora todas preencham as seguintes características: dois tipos de insulina: uma basal (isto é, insulina NPH OU Glargina OU Detemir), associada a uma insulina rápida (insulina Regular) ou ultrarrápida (lispro, aspart ou glulisina). Exemplos de respostas aceitáveis (uma combinação da coluna &#34;Insulina basal&#34; + &#34;Insulina Rápida ou Ultrarrápida&#34;): Comentário EMED: Quero apenas reforçar que pacientes com diabetes mellitus tipo 1 possuem insuficiência insulínica absoluta, logo devemos ofertar insulina basal suficiente para cobrir as 24 horas do dia e insulina prandial antes das três refeições principais. Portanto, discordamos que a insulina prandial possa ser aplicada apenas duas vezes ao dia, como sugestiona o gabarito oficial.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-26 21:44:32.221405 +0000 UTC",
+          "updated_at": "2022-03-21 04:12:11.881052 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Paciente-com-20-anos32196a6ccc2",
+        "public": true
+      },
+      {
+        "id": "4000127231",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "b7b1f3cdcdfb4648ae92e529d89238a0",
+            "name": "Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "is_master": false,
+            "master_id": "45916935e36f423babbbeb7f263c569b",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Insulinoterapia[$$]Insulinoterapia no tratamento do diabetes mellitus tipo 1",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1a9572e0-4996-45df-a92f-335e86d17d96",
+            "position": "0",
+            "body": "aumentar 2 U da insulina NPH antes do café caso a medida da glicemia antes de deitar tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "sanitized_body": "aumentar 2 U da insulina NPH antes do café caso a medida da glicemia antes de deitar tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "correct": false,
+            "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+            "updated_at": "2020-11-25 21:23:32.686677 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “a”: </b>A NPH matinal não perdura até o horário em que o paciente vai deitar-se. Nesse caso, deveríamos aumentar a NPH do jantar.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “a”: A NPH matinal não perdura até o horário em que o paciente vai deitar-se. Nesse caso, deveríamos aumentar a NPH do jantar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:26:40.812098 +0000 UTC",
+              "updated_at": "2021-12-30 22:38:11.93298 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 55
+          },
+          {
+            "id": "cc311f06-2d35-48e9-8902-f08abf5e491d",
+            "position": "1",
+            "body": "aumentar 4 U da insulina regular antes de jantar caso a medida da glicemia antes do almoço tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "sanitized_body": "aumentar 4 U da insulina regular antes de jantar caso a medida da glicemia antes do almoço tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "correct": false,
+            "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+            "updated_at": "2020-11-25 21:23:32.880791 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div><b>Incorreta a alternativa “b”: </b><span>A glicemia pré-almoço não se presta à titulação da insulina prandial do jantar. Nesse caso, deveríamos aumentar a NPH matinal.</span><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b”: A glicemia pré-almoço não se presta à titulação da insulina prandial do jantar. Nesse caso, deveríamos aumentar a NPH matinal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:26:40.807262 +0000 UTC",
+              "updated_at": "2021-12-30 22:38:11.942746 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 53
+          },
+          {
+            "id": "fd1cf63a-46f4-4077-97ee-dc7ce2af98f8",
+            "position": "2",
+            "body": "acrescentar 8 U de insulina NPH antes do almoço caso a medida da glicemia antes do almoço tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "sanitized_body": "acrescentar 8 U de insulina NPH antes do almoço caso a medida da glicemia antes do almoço tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "correct": false,
+            "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+            "updated_at": "2020-11-25 21:23:33.07883 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “c”: </b>Se houver hiperglicemia persistente antes do almoço, deve-se aumentar a insulina NPH da manhã. A NPH começa a agir após 2 – 4 horas de aplicação, portanto, aplicar NPH no almoço seria uma conduta inefetiva para controlar a hiperglicemia desse horário.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “c”: Se houver hiperglicemia persistente antes do almoço, deve-se aumentar a insulina NPH da manhã. A NPH começa a agir após 2 – 4 horas de aplicação, portanto, aplicar NPH no almoço seria uma conduta inefetiva para controlar a hiperglicemia desse horário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:26:40.807795 +0000 UTC",
+              "updated_at": "2021-12-30 22:38:11.920733 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 41
+          },
+          {
+            "id": "03861549-edfd-4ae8-ad81-9640b864a501",
+            "position": "3",
+            "body": "aumentar em 2 U a dose da insulina NPH noturna caso a medida da glicemia matinal em jejum tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "sanitized_body": "aumentar em 2 U a dose da insulina NPH noturna caso a medida da glicemia matinal em jejum tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "correct": true,
+            "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+            "updated_at": "2020-11-25 21:23:33.276826 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa “d”: </b>A glicemia de jejum está sob influência da NPH noturna, portanto, a hiperglicemia matinal pede aumento da NPH noturna.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa “d”: A glicemia de jejum está sob influência da NPH noturna, portanto, a hiperglicemia matinal pede aumento da NPH noturna.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:26:40.822 +0000 UTC",
+              "updated_at": "2021-12-30 22:38:11.931813 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 1042
+          },
+          {
+            "id": "b1340f3e-6efb-4505-97ad-cd5f54cda06d",
+            "position": "4",
+            "body": "associar 4 U de insulina regular antes do almoço e ao deitar caso a medida da glicemia matinal em jejum tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "sanitized_body": "associar 4 U de insulina regular antes do almoço e ao deitar caso a medida da glicemia matinal em jejum tenha sido superior a 120 mg/dl na maioria dos dias.",
+            "correct": false,
+            "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+            "updated_at": "2020-11-25 21:23:33.492631 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa “e”: </b>A glicemia de jejum está sob influência da NPH noturna, portanto, a hiperglicemia matinal pede aumento da NPH noturna.",
+              "sanitized_complete": "Incorreta a alternativa “e”: A glicemia de jejum está sob influência da NPH noturna, portanto, a hiperglicemia matinal pede aumento da NPH noturna.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2020-10-19 17:26:40.837945 +0000 UTC",
+              "updated_at": "2021-12-30 22:38:11.943695 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 111
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem com 18 anos de idade, apresenta diagnóstico recente de diabetes mellitus  tipo I e encontra-se em acompanhamento na Unidade Básica de Saúde. Foram prescritas insulina NPH 16 U + insulina regular 6 U antes do café e insulina NPH 8 U + insulina regular 4 U antes do jantar. O paciente foi orientado a verificar a glicemia capilar antes   das refeições e ao deitar, fazendo aplicação de insulina regular adicional conforme resultado da glicemia, devendo preencher registro com resultado da glicemia e dose adicional de insulina regular utilizada. O paciente retorna à Unidade Básica de Saúde 30 dias depois. Com base nestas informações, e de posse do registro das glicemias, a melhor recomendação em relação ao ajuste das doses de insulina NPH ou regular prescritas é:",
+        "statement_text": "Homem com 18 anos de idade, apresenta diagnóstico recente de diabetes mellitus  tipo I e encontra-se em acompanhamento na Unidade Básica de Saúde. Foram prescritas insulina NPH 16 U + insulina regular 6 U antes do café e insulina NPH 8 U + insulina regular 4 U antes do jantar. O paciente foi orientado a verificar a glicemia capilar antes   das refeições e ao deitar, fazendo aplicação de insulina regular adicional conforme resultado da glicemia, devendo preencher registro com resultado da glicemia e dose adicional de insulina regular utilizada. O paciente retorna à Unidade Básica de Saúde 30 dias depois. Com base nestas informações, e de posse do registro das glicemias, a melhor recomendação em relação ao ajuste das doses de insulina NPH ou regular prescritas é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:29:30.690483 +0000 UTC",
+        "solution": {
+          "_key": "cba9f153-2296-42a6-bf92-a2c236cb0842",
+          "complete": "<b>GABARITO: ALTERNATIVA \"D\"</b><div><br></div><div>A insulinoterapia deve imitar e corrigir as deficiências na secreção pancreática de Insulina. Portanto, quanto maior o grau de disfunção pancreática, maior será a necessidade de Insulina exógena.</div><div><br></div><div>Os pacientes com Diabetes Mellitus tipo 1 (DM1) possuem uma deficiência absoluta de Insulina, logo, invariavelmente, necessitarão de Insulina em doses plenas, ou seja, Insulinas basal e prandial em doses suficientes para substituir a secreção pancreática em sua totalidade.</div><div><br></div><div>Sabemos que a secreção de Insulina acontece de forma constante (secreção basal) e evolui com picos após as principais refeições (secreção prandial), como evidencia o gráfico abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/36D65377-5AFC-A6E7-84A8-54835C15451D/36D65377-5AFC-A6E7-84A8-54835C15451D-400.jpeg\"></div><div><br></div><div>Entretanto, nosso paciente faz uso de um esquema insulínico como o ilustrado no gráfico abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8C53FC94-46EB-2D46-CBFE-B8641E0EB957/8C53FC94-46EB-2D46-CBFE-B8641E0EB957-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Reparou que não foi prescrita a insulina prandial do almoço? Muito provavelmente, porque o paciente se encontra em um estágio conhecido como “lua de mel”. O “Período de lua de mel” acontece na fase inicial do diagnóstico de DM1 e se caracteriza por uma redução no requerimento de Insulina para o alcance das metas terapêuticas. Essa fase, também chamada de remissão parcial, acontece devido à uma produção residual de Insulina pelo pâncreas, entretanto, dura poucos meses e ocorrerá evolução inexorável para o estado de insuficiência insulínica absoluta. Portanto, esses pacientes, frequentemente necessitam de doses baixas de insulina e chegam até a não ter a indicação de aplicá-la em determinados horários. </div><div><br></div><div>As questões sobre manejo da insulinoterapia costumam fornecer as glicemias no enunciado para expor as possíveis condutas nas alternativas, mas essa questão inovou fazendo de cada alternativa uma exposição diferente de controle glicêmico. Dessa forma, teremos que analisar cada alternativa em busca do gabarito. Antes disso, vamos apenas relembrar as metas de glicemia para entendermos cada cenário apresentado:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/34C41F7B-5882-10FE-0018-B6CF232A3C8E/34C41F7B-5882-10FE-0018-B6CF232A3C8E-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Alvos glicêmicos mais ou menos rigorosos podem ser considerados a depender do paciente em questão. As metas devem ser individualizadas com base na duração do Diabetes Mellitus (DM), idade, expectativa de vida, comorbidades, presença de complicações crônicas e risco de hipoglicemia oculta. Ou seja, em um paciente jovem como o do enunciado, metas mais exigentes podem ser preferíveis (perceba que o examinador considerou 120 mg/dL como uma espécie de meta glicêmica generalista).</div><div><br></div><div><br></div><div><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA &#34;D&#34;A insulinoterapia deve imitar e corrigir as deficiências na secreção pancreática de Insulina. Portanto, quanto maior o grau de disfunção pancreática, maior será a necessidade de Insulina exógena.Os pacientes com Diabetes Mellitus tipo 1 (DM1) possuem uma deficiência absoluta de Insulina, logo, invariavelmente, necessitarão de Insulina em doses plenas, ou seja, Insulinas basal e prandial em doses suficientes para substituir a secreção pancreática em sua totalidade.Sabemos que a secreção de Insulina acontece de forma constante (secreção basal) e evolui com picos após as principais refeições (secreção prandial), como evidencia o gráfico abaixo:Entretanto, nosso paciente faz uso de um esquema insulínico como o ilustrado no gráfico abaixo:Reparou que não foi prescrita a insulina prandial do almoço? Muito provavelmente, porque o paciente se encontra em um estágio conhecido como “lua de mel”. O “Período de lua de mel” acontece na fase inicial do diagnóstico de DM1 e se caracteriza por uma redução no requerimento de Insulina para o alcance das metas terapêuticas. Essa fase, também chamada de remissão parcial, acontece devido à uma produção residual de Insulina pelo pâncreas, entretanto, dura poucos meses e ocorrerá evolução inexorável para o estado de insuficiência insulínica absoluta. Portanto, esses pacientes, frequentemente necessitam de doses baixas de insulina e chegam até a não ter a indicação de aplicá-la em determinados horários. As questões sobre manejo da insulinoterapia costumam fornecer as glicemias no enunciado para expor as possíveis condutas nas alternativas, mas essa questão inovou fazendo de cada alternativa uma exposição diferente de controle glicêmico. Dessa forma, teremos que analisar cada alternativa em busca do gabarito. Antes disso, vamos apenas relembrar as metas de glicemia para entendermos cada cenário apresentado:Alvos glicêmicos mais ou menos rigorosos podem ser considerados a depender do paciente em questão. As metas devem ser individualizadas com base na duração do Diabetes Mellitus (DM), idade, expectativa de vida, comorbidades, presença de complicações crônicas e risco de hipoglicemia oculta. Ou seja, em um paciente jovem como o do enunciado, metas mais exigentes podem ser preferíveis (perceba que o examinador considerou 120 mg/dL como uma espécie de meta glicêmica generalista).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-19 17:26:40.915438 +0000 UTC",
+          "updated_at": "2021-12-30 22:38:12.562938 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127231-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-com-18-anos13077a951ee",
+        "public": true
+      },
+      {
+        "id": "4000129315",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "af27f975a4ec4121b8443d0946e5d287",
+            "name": "Insulinoterapia no tratamento do diabetes mellitus tipo 2",
+            "is_master": false,
+            "master_id": "45916935e36f423babbbeb7f263c569b",
+            "path": "Clínica Médica[$$]Endocrinologia [$$]Diabetes [$$]Insulinoterapia[$$]Insulinoterapia no tratamento do diabetes mellitus tipo 2",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d27d91df-df8e-403a-b66c-98495774f5c6",
+            "position": "0",
+            "body": "Trocar a insulina NPH por insulina lispro antes do café da manhã.<div>&nbsp;</div>",
+            "sanitized_body": "Trocar a insulina NPH por insulina lispro antes do café da manhã. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+            "updated_at": "2021-07-21 05:44:51.156038 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div><b>Incorreta a alternativa A: </b>não devemos ofertar insulina prandial antes de compensarmos as glicemias pré-prandiais por meio do ajuste nas doses de NPH. Além disso, quando o paciente diabético recebe a indicação de insulina prandial, esta deverá somar-se ao esquema basal, e não o substituir. </div><div><br></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div><div><b><br></b></div>",
+              "sanitized_complete": "Incorreta a alternativa A: não devemos ofertar insulina prandial antes de compensarmos as glicemias pré-prandiais por meio do ajuste nas doses de NPH. Além disso, quando o paciente diabético recebe a indicação de insulina prandial, esta deverá somar-se ao esquema basal, e não o substituir.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-21 05:53:03.127669 +0000 UTC",
+              "updated_at": "2022-01-27 01:25:37.589713 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          },
+          {
+            "id": "26b88c0c-d17d-4084-ad6c-b4881263bf3a",
+            "position": "1",
+            "body": "Trocar a insulina NPH por insulina glargina antes do café da manhã.<div>&nbsp;</div>",
+            "sanitized_body": "Trocar a insulina NPH por insulina glargina antes do café da manhã. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+            "updated_at": "2021-07-21 05:44:51.336603 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div><b>Incorreta a alternativa B: </b>estamos diante de uma necessidade de incremento de dose da insulina basal. Ou seja, não adianta trocarmos a insulina sem aumentar a sua oferta em termos quantitativos.</div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa B: estamos diante de uma necessidade de incremento de dose da insulina basal. Ou seja, não adianta trocarmos a insulina sem aumentar a sua oferta em termos quantitativos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-21 05:53:03.095897 +0000 UTC",
+              "updated_at": "2022-01-27 01:25:37.542036 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 28
+          },
+          {
+            "id": "6dcc3682-dcac-46f7-9b71-36cb96309830",
+            "position": "2",
+            "body": "Acrescentar insulina regular antes das refeições e meia dose às 22h.<div>&nbsp;&nbsp;</div>",
+            "sanitized_body": "Acrescentar insulina regular antes das refeições e meia dose às 22h.  ",
+            "correct": false,
+            "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+            "updated_at": "2021-07-21 05:44:51.543679 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C: </b>não devemos ofertar insulina prandial antes de compensarmos as glicemias pré-prandiais por meio do ajuste nas doses de NPH. Além disso, a insulina prandial somente deve ser aplicada antes das três refeições principais. <div><br></div><div><div><br></div></div>",
+              "sanitized_complete": "Incorreta a alternativa C: não devemos ofertar insulina prandial antes de compensarmos as glicemias pré-prandiais por meio do ajuste nas doses de NPH. Além disso, a insulina prandial somente deve ser aplicada antes das três refeições principais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-21 05:53:03.105475 +0000 UTC",
+              "updated_at": "2022-01-27 01:25:37.561827 +0000 UTC"
+            },
+            "answer_percentage": 40,
+            "answers": 505
+          },
+          {
+            "id": "a55baa01-4860-43ea-bd34-517e2f02682e",
+            "position": "3",
+            "body": "Aumentar a dose da insulina NPH da manhã e acrescentar dose extra às 22h.<div>&nbsp;</div>",
+            "sanitized_body": "Aumentar a dose da insulina NPH da manhã e acrescentar dose extra às 22h. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+            "updated_at": "2021-07-21 05:44:51.782203 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div><b>Incorreta a alternativa D:</b> Em doses plenas, a insulina NPH costuma ser aplicada através de dois esquemas distintos:</div><div><span>- esquema de 2 doses (antes do café da manhã e ao deitar-se).</span><br><span>- esquema de 3 doses (antes do café da manhã, antes do almoço e ao deitar-se).</span><br></div><div>Ou seja, pode ser uma opção ofertar a dose noturna ao deitar-se (em vez de aplicá-la ao jantar), mas jamais ofertamos duas aplicações noturnas de NPH. </div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa D: Em doses plenas, a insulina NPH costuma ser aplicada através de dois esquemas distintos:- esquema de 2 doses (antes do café da manhã e ao deitar-se).- esquema de 3 doses (antes do café da manhã, antes do almoço e ao deitar-se).Ou seja, pode ser uma opção ofertar a dose noturna ao deitar-se (em vez de aplicá-la ao jantar), mas jamais ofertamos duas aplicações noturnas de NPH.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-21 05:53:03.112747 +0000 UTC",
+              "updated_at": "2022-01-27 01:25:37.570315 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 157
+          },
+          {
+            "id": "a668ee5d-c0d2-497e-9b35-df8e3141b13c",
+            "position": "4",
+            "body": "Aumentar as doses da insulina NPH antes do café da manhã e antes do jantar.",
+            "sanitized_body": "Aumentar as doses da insulina NPH antes do café da manhã e antes do jantar.",
+            "correct": true,
+            "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+            "updated_at": "2021-07-21 05:44:51.983457 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa E: </b>uma vez que as glicemias prandiais estão elevadas ao longo das 24 horas do dia, devemos aumentar a oferta de insulina basal nos dois horários em que ela é aplicada.",
+              "sanitized_complete": "Correta a alternativa E: uma vez que as glicemias prandiais estão elevadas ao longo das 24 horas do dia, devemos aumentar a oferta de insulina basal nos dois horários em que ela é aplicada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+              "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+              "author_profile": null,
+              "created_at": "2021-07-21 05:53:03.100996 +0000 UTC",
+              "updated_at": "2022-01-27 01:25:37.57468 +0000 UTC"
+            },
+            "answer_percentage": 44,
+            "answers": 560
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 64 anos de idade, obesa, diabética do tipo II há 10 anos, faz uso de metformina em dose alta (2 g/dia), sem obter controle glicêmico adequado. Em consulta ambulatorial de controle, realizada há dez dias, apresentava: peso = 70 kg; glicemia de jejum = 197 mg/dL (valor de referência: 99 mg/dL); hemoglobina glicada = 7,9% (valor de referência: 4 a 6,4% Hb); microalbuminúria. Naquela ocasião, foi negociada com a paciente a suspensão da metformina e o início de insulina NPH - 14 UI antes do café da manhã e 7 UI antes do jantar. Retornando à consulta hoje, a paciente traz controles de glicemias capilares &gt; 200 mg/dL em cada três de quatro dosagens diárias, realizadas durante uma semana.<div><br></div><div>Qual a conduta mais adequada em relação às doses de insulina?</div><div>&nbsp;</div>",
+        "statement_text": "Uma mulher de 64 anos de idade, obesa, diabética do tipo II há 10 anos, faz uso de metformina em dose alta (2 g/dia), sem obter controle glicêmico adequado. Em consulta ambulatorial de controle, realizada há dez dias, apresentava: peso = 70 kg; glicemia de jejum = 197 mg/dL (valor de referência: 99 mg/dL); hemoglobina glicada = 7,9% (valor de referência: 4 a 6,4% Hb); microalbuminúria. Naquela ocasião, foi negociada com a paciente a suspensão da metformina e o início de insulina NPH - 14 UI antes do café da manhã e 7 UI antes do jantar. Retornando à consulta hoje, a paciente traz controles de glicemias capilares &gt; 200 mg/dL em cada três de quatro dosagens diárias, realizadas durante uma semana.Qual a conduta mais adequada em relação às doses de insulina? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 15:23:19.175979 +0000 UTC",
+        "forum_id": "40328a56-6851-4cbe-8172-e6974ec2bf45",
+        "solution": {
+          "_key": "991e7f18-41ea-49a9-a3cb-78b7ea5bc160",
+          "complete": "<b>Gabarito: E</b><div><br></div><div>A secreção basal de Insulina corresponde a 40 – 60% da produção diária total do hormônio e tem como objetivos suprimir a produção hepática de glicose, a glicogenólise e a cetogênese (o que mantem a euglicemia no estado de jejum e, em menor grau, nos períodos pós-alimentares). </div><div><br><div>Já os picos pós-prandiais de secreção de Insulina se destinam a cobrir a incursão glicêmica decorrente da ingestão alimentar, através da promoção da captação e armazenamento periféricos de glicose. É justamente esse padrão de secreção bifásica que a insulinoterapia deve ter como modelo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/80F22AF4-D86B-0E22-2BEC-82DE6334083F/80F22AF4-D86B-0E22-2BEC-82DE6334083F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div> </div><div><br></div><div>Logo, a primeira divisão que você deve ter em mente é a que divide as Insulinas em Basais (NPH – Neutral Protamine Hagedorn, Detemir, Glargina e Degludeca) e Prandiais (Regular, Lispro, Asparte e Glulisina): </div><div><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FC87C688-0571-6000-7927-208680D966C6/FC87C688-0571-6000-7927-208680D966C6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><br></div><div>De maneira geral, temos as seguintes metas terapêuticas no tratamento do DM:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DE108C43-3529-0ADE-7377-B85CE4096860/DE108C43-3529-0ADE-7377-B85CE4096860-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><span>\t</span></div><div><br></div><div>Portanto, p<span>erceba que as glicemias trazidas pela paciente encontram-se fora das metas terapêuticas em 75% das dosagens. Apesar de o examinador não deixar claro em que horários essas hiperglicemias aconteceram, devemos supor que ocorreram antes das refeições, uma vez que a aferição das glicemias pós-prandiais só costuma ser realizada em pacientes que utilizam insulina prandial.</span></div></div>",
+          "sanitized_complete": "Gabarito: EA secreção basal de Insulina corresponde a 40 – 60% da produção diária total do hormônio e tem como objetivos suprimir a produção hepática de glicose, a glicogenólise e a cetogênese (o que mantem a euglicemia no estado de jejum e, em menor grau, nos períodos pós-alimentares). Já os picos pós-prandiais de secreção de Insulina se destinam a cobrir a incursão glicêmica decorrente da ingestão alimentar, através da promoção da captação e armazenamento periféricos de glicose. É justamente esse padrão de secreção bifásica que a insulinoterapia deve ter como modelo. Logo, a primeira divisão que você deve ter em mente é a que divide as Insulinas em Basais (NPH – Neutral Protamine Hagedorn, Detemir, Glargina e Degludeca) e Prandiais (Regular, Lispro, Asparte e Glulisina): De maneira geral, temos as seguintes metas terapêuticas no tratamento do DM:\tPortanto, perceba que as glicemias trazidas pela paciente encontram-se fora das metas terapêuticas em 75% das dosagens. Apesar de o examinador não deixar claro em que horários essas hiperglicemias aconteceram, devemos supor que ocorreram antes das refeições, uma vez que a aferição das glicemias pós-prandiais só costuma ser realizada em pacientes que utilizam insulina prandial.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+          "author_email_id": "caa555340d4741520cd7fc1017f3dcf0",
+          "author_profile": {
+            "id": "52736c7a-b73f-429e-a5c2-678cb9bd4640",
+            "full_name": "Maria Tereza Guerra ",
+            "avatar_url": "https://static.accounts.estrategia.com/51d393cd732817b4ead7e3035a688c7e",
+            "about_me": "Graduada em Medicina pela Universidade Estadual do Piauí em 2010 (diploma reconhecido em Portugal pela Universidade Nova de Lisboa). Residência de Clínica Médica concluída em 2015 no Real Hospital Português de Beneficência em Pernambuco (RHP) - RQE nº 4287 - e Residência de Endocrinologia e Metabologia concluída em 2017 no Instituto de Medicina Integral Professor Fernando Figueira (IMIP) - RQE nº 4288.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dramariaterezaguerra",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-21 05:53:03.371466 +0000 UTC",
+          "updated_at": "2022-01-26 21:45:45.126128 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129315-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-64-anos-idade13206213ad2",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 30
+    }
+  }

@@ -1,0 +1,295 @@
+{
+    "data": [
+      {
+        "id": "4000129257",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e66ecf06c537478eb27997d779e8d614",
+            "name": "Influenza Em Gestantes",
+            "is_master": false,
+            "master_id": "f73cf5fbc3ec44d48a107163dfcd52d7",
+            "path": "Clínica Médica[$$]Infectologia [$$]Influenza[$$]Influenza Em Gestantes",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "27343894-8b39-46e5-a131-35d778e229be",
+            "position": "0",
+            "body": "Encaminhar a paciente para internação hospitalar.<div>&nbsp;&nbsp;</div>",
+            "sanitized_body": "Encaminhar a paciente para internação hospitalar.  ",
+            "correct": true,
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "updated_at": "2021-07-18 15:17:30.264569 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está correta, pois trata-se de uma síndrome respiratória aguda grave e a paciente deve ser internada, com cobertura para influenza (oseltamivir) e infecção bacteriana (combinação de cefalosporina de 3ª geração e macrolídeo) simultaneamente, pela dificuldade de se diferenciar esses agentes etiológicos na avaliação inicial e pela possibilidade de coinfecção.<div><div><br></div><div>No Brasil, recomenda-se a notificação de todo caso de síndrome respiratória aguda grave.</div></div>",
+              "sanitized_complete": "A alternativa A está correta, pois trata-se de uma síndrome respiratória aguda grave e a paciente deve ser internada, com cobertura para influenza (oseltamivir) e infecção bacteriana (combinação de cefalosporina de 3ª geração e macrolídeo) simultaneamente, pela dificuldade de se diferenciar esses agentes etiológicos na avaliação inicial e pela possibilidade de coinfecção.No Brasil, recomenda-se a notificação de todo caso de síndrome respiratória aguda grave.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-25 06:52:02.609092 +0000 UTC",
+              "updated_at": "2021-07-25 07:08:20.022759 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 642
+          },
+          {
+            "id": "b86f09c1-a89e-451d-b7b0-eeaddbb05e2b",
+            "position": "1",
+            "body": "Solicitar hemograma completo e radiografia de tórax com urgência.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar hemograma completo e radiografia de tórax com urgência. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "updated_at": "2021-07-18 15:17:30.322861 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois o hemograma não define conduta nesse caso.<div><br></div><div>Radiografia de tórax deve ser realizada, com proteção abdominal.</div>",
+              "sanitized_complete": "A alternativa B está incorreta, pois o hemograma não define conduta nesse caso.Radiografia de tórax deve ser realizada, com proteção abdominal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-25 06:52:02.593003 +0000 UTC",
+              "updated_at": "2021-07-25 07:08:19.967369 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 53
+          },
+          {
+            "id": "8009f4df-7a94-428b-bf0b-3232ef8fa844",
+            "position": "2",
+            "body": "Orientar hidratação, prescrever paracetamol e solicitar retorno se piorar.<div>&nbsp;</div>",
+            "sanitized_body": "Orientar hidratação, prescrever paracetamol e solicitar retorno se piorar. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "updated_at": "2021-07-18 15:17:30.389818 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está incorreta, pois a paciente deve permanecer internada.",
+              "sanitized_complete": "A alternativa C está incorreta, pois a paciente deve permanecer internada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-25 06:52:02.606411 +0000 UTC",
+              "updated_at": "2021-07-25 07:08:20.057931 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 50
+          },
+          {
+            "id": "4d6cd4da-5a34-4eb4-82c5-9abe58cd82e7",
+            "position": "3",
+            "body": "Solicitar hemograma completo, prescrever vitamina C, dipirona e nebulização.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar hemograma completo, prescrever vitamina C, dipirona e nebulização. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "updated_at": "2021-07-18 15:17:30.451238 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois indica-se internação hospitalar com antiviral e antibioticoterapia na síndrome respiratória aguda grave.",
+              "sanitized_complete": "A alternativa D está incorreta, pois indica-se internação hospitalar com antiviral e antibioticoterapia na síndrome respiratória aguda grave.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-25 06:52:02.595379 +0000 UTC",
+              "updated_at": "2021-07-25 07:08:19.976521 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "0fc7018d-e648-4bfb-92ea-cbc1a3eaf466",
+            "position": "4",
+            "body": "Prescrever dipirona, nebulização sem uso de broncodilatador e reavaliar a paciente em 48 horas.",
+            "sanitized_body": "Prescrever dipirona, nebulização sem uso de broncodilatador e reavaliar a paciente em 48 horas.",
+            "correct": false,
+            "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+            "updated_at": "2021-07-18 15:17:30.518403 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa E está incorreta, pois está indicado internação hospitalar em uma síndrome respiratória aguda grave.",
+              "sanitized_complete": "A alternativa E está incorreta, pois está indicado internação hospitalar em uma síndrome respiratória aguda grave.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-25 06:52:02.587591 +0000 UTC",
+              "updated_at": "2021-07-25 07:08:19.958187 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 17
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 25 anos de idade, com história obstétrica gesta = 1, para = 0, aborto = 0, com 28 semanas de idade gestacional, foi atendida na Unidade Básica de Saúde (UBS) referindo que há 2 dias está gripada e fez uso de medicação sintomática. Resolveu vir ao posto de saúde porque está tossindo muito. Ao ser realizado o exame físico, constatou-se: temperatura axilar = 38,1oC, frequência respiratória = 30 irpm, pressão arterial = 80 x 60 mmHg, normohidratada.<div><br></div><div>Qual é a abordagem adequada para o caso?</div><div>&nbsp;</div>",
+        "statement_text": "Uma paciente de 25 anos de idade, com história obstétrica gesta = 1, para = 0, aborto = 0, com 28 semanas de idade gestacional, foi atendida na Unidade Básica de Saúde (UBS) referindo que há 2 dias está gripada e fez uso de medicação sintomática. Resolveu vir ao posto de saúde porque está tossindo muito. Ao ser realizado o exame físico, constatou-se: temperatura axilar = 38,1oC, frequência respiratória = 30 irpm, pressão arterial = 80 x 60 mmHg, normohidratada.Qual é a abordagem adequada para o caso? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 13:50:33.816195 +0000 UTC",
+        "solution": {
+          "_key": "10513572-f20e-435f-a035-ca75229dcd57",
+          "complete": "Caro(a) Estrategista, trata-se de uma gestante relatando que \"há 2 dias está gripada e fez uso de medicação sintomática\". No momento, tem tosse, febre (T = 38,1°C), taquipneia (FR = 30 ipm) e hipotensão arterial (80x60 mmHg). Diante do exposto, trata-se uma síndrome gripal, com sinais de gravidade. Portanto, uma síndrome respiratória aguda grave.<div><br></div><div>Vale destacar que a frequência respiratória da gestante é geralmente semelhante à da mulher não gestante e, sendo assim, deve-se considerar como sinal de gravidade a taquipneia apresentada pela paciente do caso clínico.</div><div><br></div><div>São considerados sinais de alarme em gestantes valores de frequência respiratória &gt; 20 ipm ou frequência cardíaca &gt; 100 bpm.&nbsp;</div>",
+          "sanitized_complete": "Caro(a) Estrategista, trata-se de uma gestante relatando que &#34;há 2 dias está gripada e fez uso de medicação sintomática&#34;. No momento, tem tosse, febre (T = 38,1°C), taquipneia (FR = 30 ipm) e hipotensão arterial (80x60 mmHg). Diante do exposto, trata-se uma síndrome gripal, com sinais de gravidade. Portanto, uma síndrome respiratória aguda grave.Vale destacar que a frequência respiratória da gestante é geralmente semelhante à da mulher não gestante e, sendo assim, deve-se considerar como sinal de gravidade a taquipneia apresentada pela paciente do caso clínico.São considerados sinais de alarme em gestantes valores de frequência respiratória &gt; 20 ipm ou frequência cardíaca &gt; 100 bpm. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-25 06:52:02.674153 +0000 UTC",
+          "updated_at": "2021-07-25 07:08:20.131068 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "paciente-25-anos-idade87898cd76b",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

@@ -1,0 +1,930 @@
+{
+    "data": [
+      {
+        "id": "4000129330",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2e97355150d543b6887676934ce103f6",
+            "name": "Teste do coraçãozinho",
+            "is_master": false,
+            "master_id": "bf3e46246dcc4671ad96a09ad46363cc",
+            "path": "Pediatria[$$]Neonatologia[$$]Cuidados neonatais[$$]Testes de triagem neonatal[$$]Teste do coraçãozinho",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "67325503-794d-4c98-8297-f8fe545e952b",
+            "position": "0",
+            "body": "Teste de hiperventilação.<div>&nbsp;</div>",
+            "sanitized_body": "Teste de hiperventilação. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+            "updated_at": "2020-11-30 23:48:53.195342 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Não existe um teste de hiperventilação usado para investigar cardiopatias.&nbsp;",
+              "sanitized_complete": "INCORRETO. Não existe um teste de hiperventilação usado para investigar cardiopatias. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 22:46:07.378292 +0000 UTC",
+              "updated_at": "2021-07-31 22:47:27.676701 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 46
+          },
+          {
+            "id": "19dd9515-8c10-41c7-977d-9fe9f7c6cd81",
+            "position": "1",
+            "body": "Teste de hipoventilação.<div>&nbsp;</div>",
+            "sanitized_body": "Teste de hipoventilação. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+            "updated_at": "2020-11-30 23:48:53.304855 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Não existe um teste de hipoventilação usado para investigar cardiopatias.&nbsp;",
+              "sanitized_complete": "INCORRETO. Não existe um teste de hipoventilação usado para investigar cardiopatias. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 22:46:07.371061 +0000 UTC",
+              "updated_at": "2021-07-31 22:47:27.663488 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 22
+          },
+          {
+            "id": "7ce7c021-24c9-427b-812a-9dae20c2f1db",
+            "position": "2",
+            "body": "Gasometria venosa.<div>&nbsp;</div>",
+            "sanitized_body": "Gasometria venosa. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+            "updated_at": "2020-11-30 23:48:53.402926 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. A gasometria por si só não consiste em um teste de investigação, mas sim o resultado da paO2 após a oferta de O2 a 100% para o paciente.",
+              "sanitized_complete": "INCORRETO. A gasometria por si só não consiste em um teste de investigação, mas sim o resultado da paO2 após a oferta de O2 a 100% para o paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 22:46:07.361993 +0000 UTC",
+              "updated_at": "2021-07-31 22:47:27.664197 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 66
+          },
+          {
+            "id": "3eedafde-c162-4c47-8111-7ed459a134ca",
+            "position": "3",
+            "body": "Oximetria de pulso.<div>&nbsp;</div>",
+            "sanitized_body": "Oximetria de pulso. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+            "updated_at": "2020-11-30 23:48:53.481552 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Tanto o paciente pneumopata quanto o cardiopata podem apresentar cianose e, portanto, insaturação na oximetria de pulso. Não sendo possível diferenciar as duas condições somente pelo valor de insaturação.",
+              "sanitized_complete": "INCORRETO. Tanto o paciente pneumopata quanto o cardiopata podem apresentar cianose e, portanto, insaturação na oximetria de pulso. Não sendo possível diferenciar as duas condições somente pelo valor de insaturação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 22:46:07.358662 +0000 UTC",
+              "updated_at": "2021-07-31 22:47:27.681441 +0000 UTC"
+            },
+            "answer_percentage": 55,
+            "answers": 691
+          },
+          {
+            "id": "0b2bd912-2620-4b38-8c24-4fcf4ffcefe1",
+            "position": "4",
+            "body": "Teste da hiperoxia.",
+            "sanitized_body": "Teste da hiperoxia.",
+            "correct": true,
+            "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+            "updated_at": "2020-11-30 23:48:53.572983 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETO. Se após a oferta de O2 a 100% a paO2 do paciente se mantiver &lt; 100 mmHg na gasometria arterial, corrobora-se a hipótese de cardiopatia congênita.",
+              "sanitized_complete": "CORRETO. Se após a oferta de O2 a 100% a paO2 do paciente se mantiver &lt; 100 mmHg na gasometria arterial, corrobora-se a hipótese de cardiopatia congênita.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 22:46:07.359677 +0000 UTC",
+              "updated_at": "2021-07-31 22:47:27.672027 +0000 UTC"
+            },
+            "answer_percentage": 34,
+            "answers": 428
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um recém-nascido do sexo feminino, com 2 dias de vida, nascido a termo, com 2 300 g, apresenta sopro sistólico e cianose de extremidades ao choro.<div><br></div><div>Qual a medida propedêutica que afasta a maior parte das doenças cardíacas cianóticas?</div><div>&nbsp;</div>",
+        "statement_text": "Um recém-nascido do sexo feminino, com 2 dias de vida, nascido a termo, com 2 300 g, apresenta sopro sistólico e cianose de extremidades ao choro.Qual a medida propedêutica que afasta a maior parte das doenças cardíacas cianóticas? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 15:39:33.122853 +0000 UTC",
+        "forum_id": "ec13d504-a9b0-4fa5-84bb-4fec53dbb562",
+        "solution": {
+          "_key": "349ca0dd-48bb-41d1-9b6d-f0ab0ff75c7e",
+          "complete": "O teste da hiperóxia é usado para a diferenciação entre as causas cardíacas e as respiratórias de cianose. Nele, oferecemos oxigênio a 100% e verificamos o aumento da paO2 na gasometria arterial.&nbsp;<div><b>•\tpO2 &gt; 250 mmHg:</b> pneumopatia <i>(ao ofertarmos FiO2 a 100% a troca gasosa melhora - \"o pulmão responde\")</i></div><div><b>•\tpO2 &gt; 100 e &lt; 250 mmHg: </b><i>cardiopatias com shunt misto ou pneumopatias</i></div><div><u><b>•\tpO2 &lt; 100 mmHg: </b>cardiopatia congênita</u> <i>(não importa o quanto eu ofereça de FiO2 para esse pulmão, o problema não é a troca gasosa, e sim a mistura de sangue rico em CO2 com sangue oxigenado ocorrendo no cardiopata)</i></div><div><i><br></i></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C7EC9322-D489-D7F2-E91F-9B0CB6A19595/C7EC9322-D489-D7F2-E91F-9B0CB6A19595-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><i><br></i></div><div>Por isso, gabarito da questão: letra E.</div><div><br></div>",
+          "sanitized_complete": "O teste da hiperóxia é usado para a diferenciação entre as causas cardíacas e as respiratórias de cianose. Nele, oferecemos oxigênio a 100% e verificamos o aumento da paO2 na gasometria arterial. •\tpO2 &gt; 250 mmHg: pneumopatia (ao ofertarmos FiO2 a 100% a troca gasosa melhora - &#34;o pulmão responde&#34;)•\tpO2 &gt; 100 e &lt; 250 mmHg: cardiopatias com shunt misto ou pneumopatias•\tpO2 &lt; 100 mmHg: cardiopatia congênita (não importa o quanto eu ofereça de FiO2 para esse pulmão, o problema não é a troca gasosa, e sim a mistura de sangue rico em CO2 com sangue oxigenado ocorrendo no cardiopata)Por isso, gabarito da questão: letra E.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+          "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+          "author_profile": {
+            "id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+            "full_name": "Ariadne Becker",
+            "avatar_url": "https://static.accounts.estrategia.com/56e981a07b51b09fcde7acf62c49b472",
+            "about_me": "Graduação em Medicina pela Universidade Federal do Paraná (UFPR). Residência em Pediatria pelo Hospital de Clínicas da Universidade Federal do Paraná (HC-UFPR). Instrutora do curso Suporte Avançado de Vida em Pediatria (PALS) do Centro de Simulação Clínica da Pontifícia Universidade Católica do Paraná (CSC PUC-PR). Pediatra atuante no Hospital Oncopediátrico Erastinho - Curitiba PR, e Hospital Infantil Jeser Amarante Faria - Joinville SC.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.aribecker",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-31 22:46:07.435259 +0000 UTC",
+          "updated_at": "2021-07-31 22:47:27.727402 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "recem-nascido-sexo3829de6435",
+        "public": true
+      },
+      {
+        "id": "4000129298",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "5205390d150d47528e3c781a14937682",
+            "name": "Atresia de vias biliares",
+            "is_master": false,
+            "master_id": "ab1ee8092ee3474b9476b3126b63afad",
+            "path": "Pediatria[$$]Neonatologia[$$]Icterícia nenonatal e distúrbios hematológicos no RN[$$]Icterícia neonatal[$$]Outras causas de hiperbilirrubinemia neonatal[$$]Hiperbilirrubinemia direta neonatal[$$]Atresia de vias biliares",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "56416b15c266465c8204fbfd07996f79",
+            "name": "Icterícia neonatal",
+            "is_master": false,
+            "master_id": "f7166ab87f094c13a6c694f58437a85b",
+            "path": "Pediatria[$$]Neonatologia[$$]Icterícia nenonatal e distúrbios hematológicos no RN[$$]Icterícia neonatal",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "dc425b9057d6416cbfc25952f79b84cd",
+            "name": "Hiperbilirrubinemia não fisiológica",
+            "is_master": false,
+            "master_id": "56416b15c266465c8204fbfd07996f79",
+            "path": "Pediatria[$$]Neonatologia[$$]Icterícia nenonatal e distúrbios hematológicos no RN[$$]Icterícia neonatal[$$]Hiperbilirrubinemia não fisiológica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f7166ab87f094c13a6c694f58437a85b",
+            "name": "Icterícia nenonatal e distúrbios hematológicos no RN",
+            "is_master": false,
+            "master_id": "95dcb1563f20406d8845650009a1e1ce",
+            "path": "Pediatria[$$]Neonatologia[$$]Icterícia nenonatal e distúrbios hematológicos no RN",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "252d9040-d571-488e-8752-efb5b5897287",
+            "position": "0",
+            "body": "doença de Gilbert.<div>&nbsp;</div>",
+            "sanitized_body": "doença de Gilbert. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+            "updated_at": "2020-12-02 00:15:40.844931 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. A Síndrome de Gilbert é uma doença hereditária que cursa com deficiência da enzima UDP-glucuronosil-transferase hepática, responsável pela conjugação da bilirrubina indireta em direta. Ela cursa, portanto, com icterícia às custas de bilirrubina indireta, sem apresentar colúria ou acolia. Além disso, se manifesta em crianças maiores, com icterícia leve após exercícios físicos, infecções e jejum prolongado.",
+              "sanitized_complete": "INCORRETO. A Síndrome de Gilbert é uma doença hereditária que cursa com deficiência da enzima UDP-glucuronosil-transferase hepática, responsável pela conjugação da bilirrubina indireta em direta. Ela cursa, portanto, com icterícia às custas de bilirrubina indireta, sem apresentar colúria ou acolia. Além disso, se manifesta em crianças maiores, com icterícia leve após exercícios físicos, infecções e jejum prolongado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 23:20:12.349883 +0000 UTC",
+              "updated_at": "2021-07-31 23:20:13.07989 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 40
+          },
+          {
+            "id": "1d4f7538-dafa-4ef0-94d5-91061b2bc9f0",
+            "position": "1",
+            "body": "anemia hemolítica.<div>&nbsp;</div>",
+            "sanitized_body": "anemia hemolítica. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+            "updated_at": "2020-12-02 00:15:41.042866 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. A hemólise eleva a bilirrubina indireta a partir da destruição das hemácias, e não cursa, portanto, com colestase.",
+              "sanitized_complete": "INCORRETO. A hemólise eleva a bilirrubina indireta a partir da destruição das hemácias, e não cursa, portanto, com colestase.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 23:20:12.354252 +0000 UTC",
+              "updated_at": "2021-07-31 23:20:13.078077 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 96
+          },
+          {
+            "id": "c46de6ae-545e-4b1a-b5d8-5f7b9e54e0c3",
+            "position": "2",
+            "body": "atresia de vias biliares.<div>&nbsp;</div>",
+            "sanitized_body": "atresia de vias biliares. ",
+            "correct": true,
+            "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+            "updated_at": "2020-12-02 00:15:41.499876 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETO. A presença de colestase, sem outros sinais de infecção congênita, corrobora essa hipótese diagnóstica.",
+              "sanitized_complete": "CORRETO. A presença de colestase, sem outros sinais de infecção congênita, corrobora essa hipótese diagnóstica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 23:20:12.350397 +0000 UTC",
+              "updated_at": "2021-07-31 23:20:13.06863 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 1601
+          },
+          {
+            "id": "ea38a81b-a259-4d35-9890-e365013b4aa8",
+            "position": "3",
+            "body": "cisto congênito de colédoco.<div>&nbsp;</div>",
+            "sanitized_body": "cisto congênito de colédoco. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+            "updated_at": "2020-12-02 00:15:41.621689 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETO. Apesar de também poder cursar com colestase, o cisto de colédoco é uma doença rara, muito menos incidente do que a atresia de vias biliares, e, por esse motivo, não é a hipótese diagnóstica inicial mais provável. O cisto costuma se manifestar clinicamente com dor em quadrante superior direito do abdome, icterícia e massa abdominal palpável, na maioria das vezes dentro dos primeiros 10 anos de idade.",
+              "sanitized_complete": "INCORRETO. Apesar de também poder cursar com colestase, o cisto de colédoco é uma doença rara, muito menos incidente do que a atresia de vias biliares, e, por esse motivo, não é a hipótese diagnóstica inicial mais provável. O cisto costuma se manifestar clinicamente com dor em quadrante superior direito do abdome, icterícia e massa abdominal palpável, na maioria das vezes dentro dos primeiros 10 anos de idade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 23:20:12.338791 +0000 UTC",
+              "updated_at": "2021-07-31 23:20:13.072346 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 17
+          },
+          {
+            "id": "9d27a4a0-1f2a-4d3f-bc5a-a22f0c9c9542",
+            "position": "4",
+            "body": "hepatite neonatal provavelmente por citomegalovírus.",
+            "sanitized_body": "hepatite neonatal provavelmente por citomegalovírus.",
+            "correct": false,
+            "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+            "updated_at": "2020-12-02 00:15:41.735644 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Para pensarmos nessa hipótese diagnóstica como a mais provável, a icterícia teria surgido de forma mais precoce, nos primeiros dias de vida, e o enunciado precisaria ter nos fornecido outros achados como microcefalia, petéquias, restrição de crescimento intraútero, o que não foi o caso.",
+              "sanitized_complete": "INCORRETA. Para pensarmos nessa hipótese diagnóstica como a mais provável, a icterícia teria surgido de forma mais precoce, nos primeiros dias de vida, e o enunciado precisaria ter nos fornecido outros achados como microcefalia, petéquias, restrição de crescimento intraútero, o que não foi o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+              "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+              "author_profile": null,
+              "created_at": "2021-07-31 23:20:12.339936 +0000 UTC",
+              "updated_at": "2021-07-31 23:20:13.070874 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 69
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mãe de lactente do sexo masculino, de cor parda, com 45 dias de vida, em aleitamento materno exclusivo, relata que o filho começou a ficar \"<i>amarelo</i>\" (sic) com cerca de três semanas de vida e que, agora, ela está muito assustada, pois a criança \"<i>está mais amarela, a urina está escura e as fezes estão&nbsp;</i><i>esbranquiçadas</i>\" (sic). Ao exame físico, o fígado é palpável a 3 cm do rebordo costal direito. Exame solicitado por outro médico mostra bilirrubina direta muito aumentada: 21 mg/dL (valor de referência: inferior a 12 mg/dL) .<div><br></div><div>O quadro clínico descrito é fortemente sugestivo de</div><div>&nbsp;</div>",
+        "statement_text": "Uma mãe de lactente do sexo masculino, de cor parda, com 45 dias de vida, em aleitamento materno exclusivo, relata que o filho começou a ficar &#34;amarelo&#34; (sic) com cerca de três semanas de vida e que, agora, ela está muito assustada, pois a criança &#34;está mais amarela, a urina está escura e as fezes estão esbranquiçadas&#34; (sic). Ao exame físico, o fígado é palpável a 3 cm do rebordo costal direito. Exame solicitado por outro médico mostra bilirrubina direta muito aumentada: 21 mg/dL (valor de referência: inferior a 12 mg/dL) .O quadro clínico descrito é fortemente sugestivo de ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 15:02:03.302158 +0000 UTC",
+        "solution": {
+          "_key": "9b7bdd6d-c5f2-4c11-9ffc-105a38d24b5c",
+          "complete": "Caro aluno, vamos identificar os pontos-chave desse enunciado?<div><ul><li>&nbsp;Icterícia de início tardio, após 14 dias de vida;</li><li>Sinais de colestase (colúria e acolia)</li><li>Hepatomegalia</li><li>Hiperbilirrubinemia direta</li></ul></div><div>Estamos diante de um lactente com sinais de COLESTASE:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C613EC86-4221-14EF-C092-E4D38863FFBF/C613EC86-4221-14EF-C092-E4D38863FFBF-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>A principal causa de colestase no neonato e lactente jovem (até 2-3 meses de idade) são sim as infecções congênitas, o que poderia gerar dúvida com a letra E. No entanto, se a causa da colestase fosse a infecção pelo CMV a icterícia teria surgido antes, ainda na primeira semana de vida, afinal a infecção foi intraútero. Além disso, para pensarmos nessa hipótese diagnóstica como a mais provável, o enunciado precisaria ter nos fornecido outros achados como microcefalia, petéquias, restrição de crescimento intraútero, o que não foi o caso.</div><div><br></div><div>Por esse motivo, o mais provável é que esse bebê apresente a 2ª causa mais comum de colestase nessa faixa etária: ATRESIA DE VIAS BILIARES. Vamos falar um pouco mais sobre ela?</div><div><br></div><div>A atresia de vias biliares (AVB) é a causa mais frequente de insuficiência hepática na infância, sendo a principal causa de transplante hepático nessa faixa etária. Sem tratamento, a sobrevivência média dos pacientes é de 19 meses. No entanto, se diagnosticada e tratada antes de 2 meses de vida, a possibilidade de cura é possível em mais de 40% dos casos.</div><div><br></div><div>O quadro clínico é composto por icterícia persistente após o 15° dia de vida, num RN previamente hígido que evolui com colúria, acolia, hepatomegalia e esplenomegalia.</div><div><br></div><div>A confirmação da hiperbilirrubinemia direta (BD), com valores de BD &gt; 2mg indica a realização da ecografia abdominal. A presença do SINAL DA CORDA TRIANGULAR na ecografia praticamente confirma o diagnóstico (95% de valor preditivo positivo), e indica a cirurgia de Kasai.</div><div><br></div><div>A Portoenterostomia de Kasai consiste no restabelecimento do fluxo da bile para o tubo digestivo através de uma anastomose do intestino delgado com a porta hepatis, sendo tanto melhor sucedida quanto mais precocemente for realizada. Idealmente, a cirurgia deve ser feita nos primeiros 2 meses de vida.</div><div><br></div><div><br></div><div><br></div>",
+          "sanitized_complete": "Caro aluno, vamos identificar os pontos-chave desse enunciado? Icterícia de início tardio, após 14 dias de vida;Sinais de colestase (colúria e acolia)HepatomegaliaHiperbilirrubinemia diretaEstamos diante de um lactente com sinais de COLESTASE:A principal causa de colestase no neonato e lactente jovem (até 2-3 meses de idade) são sim as infecções congênitas, o que poderia gerar dúvida com a letra E. No entanto, se a causa da colestase fosse a infecção pelo CMV a icterícia teria surgido antes, ainda na primeira semana de vida, afinal a infecção foi intraútero. Além disso, para pensarmos nessa hipótese diagnóstica como a mais provável, o enunciado precisaria ter nos fornecido outros achados como microcefalia, petéquias, restrição de crescimento intraútero, o que não foi o caso.Por esse motivo, o mais provável é que esse bebê apresente a 2ª causa mais comum de colestase nessa faixa etária: ATRESIA DE VIAS BILIARES. Vamos falar um pouco mais sobre ela?A atresia de vias biliares (AVB) é a causa mais frequente de insuficiência hepática na infância, sendo a principal causa de transplante hepático nessa faixa etária. Sem tratamento, a sobrevivência média dos pacientes é de 19 meses. No entanto, se diagnosticada e tratada antes de 2 meses de vida, a possibilidade de cura é possível em mais de 40% dos casos.O quadro clínico é composto por icterícia persistente após o 15° dia de vida, num RN previamente hígido que evolui com colúria, acolia, hepatomegalia e esplenomegalia.A confirmação da hiperbilirrubinemia direta (BD), com valores de BD &gt; 2mg indica a realização da ecografia abdominal. A presença do SINAL DA CORDA TRIANGULAR na ecografia praticamente confirma o diagnóstico (95% de valor preditivo positivo), e indica a cirurgia de Kasai.A Portoenterostomia de Kasai consiste no restabelecimento do fluxo da bile para o tubo digestivo através de uma anastomose do intestino delgado com a porta hepatis, sendo tanto melhor sucedida quanto mais precocemente for realizada. Idealmente, a cirurgia deve ser feita nos primeiros 2 meses de vida.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+          "author_email_id": "689264a7aa2b5bd1914fb5ab0c71c603",
+          "author_profile": {
+            "id": "c2c5eaa9-1f94-4d95-b900-cb4f87abe780",
+            "full_name": "Ariadne Becker",
+            "avatar_url": "https://static.accounts.estrategia.com/56e981a07b51b09fcde7acf62c49b472",
+            "about_me": "Graduação em Medicina pela Universidade Federal do Paraná (UFPR). Residência em Pediatria pelo Hospital de Clínicas da Universidade Federal do Paraná (HC-UFPR). Instrutora do curso Suporte Avançado de Vida em Pediatria (PALS) do Centro de Simulação Clínica da Pontifícia Universidade Católica do Paraná (CSC PUC-PR). Pediatra atuante no Hospital Oncopediátrico Erastinho - Curitiba PR, e Hospital Infantil Jeser Amarante Faria - Joinville SC.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.aribecker",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-31 23:20:12.446654 +0000 UTC",
+          "updated_at": "2021-07-31 23:20:13.15943 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129298-720.mp4",
+        "unlisted": false,
+        "slug": "ma-lactente-sexo98430d6d4e",
+        "public": true
+      },
+      {
+        "id": "4000127077",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "60998eb6b53b4f0786a6126d2bf32dad",
+            "name": "Icterícia Fisiológica",
+            "is_master": false,
+            "master_id": "56416b15c266465c8204fbfd07996f79",
+            "path": "Pediatria[$$]Neonatologia[$$]Icterícia nenonatal e distúrbios hematológicos no RN[$$]Icterícia neonatal[$$]Icterícia Fisiológica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3bf390d1-81cd-45b4-adfc-70b6149604bd",
+            "position": "0",
+            "body": "Desaparece após três semanas do início da manifestação em neonatos nascidos a termo.",
+            "sanitized_body": "Desaparece após três semanas do início da manifestação em neonatos nascidos a termo.",
+            "correct": false,
+            "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+            "updated_at": "2020-10-27 00:03:25.917722 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “a”:Errado, a icterícia fisiológica deve desaparecer até o final da primeira semana de vida nos recém-nascidos termo e até o final da segunda semana de vida nos recém-nascidos pré-termos.",
+              "sanitized_complete": "Incorreta alternativa “a”:Errado, a icterícia fisiológica deve desaparecer até o final da primeira semana de vida nos recém-nascidos termo e até o final da segunda semana de vida nos recém-nascidos pré-termos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:10:08.460799 +0000 UTC",
+              "updated_at": "2020-10-27 00:10:09.640847 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 258
+          },
+          {
+            "id": "d4b09f37-d1c8-4bd3-9dbf-5148610983ea",
+            "position": "1",
+            "body": "Desaparece após a primeira semana de vida em neonatos nascidos a termo.",
+            "sanitized_body": "Desaparece após a primeira semana de vida em neonatos nascidos a termo.",
+            "correct": true,
+            "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+            "updated_at": "2020-10-27 00:03:26.120761 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta alternativa “b”:Correto! Tem pico concentração de bilirrubina no sangue entre 3 a 5 dias de vida nos recém-nascidos termos, desaparecendo nesses bebê até o final da primeira semana de vida. Caso persista além da primeira semana de vida deve ser investigada alguma causa patológica dessa icterícia neonatal.",
+              "sanitized_complete": "Correta alternativa “b”:Correto! Tem pico concentração de bilirrubina no sangue entre 3 a 5 dias de vida nos recém-nascidos termos, desaparecendo nesses bebê até o final da primeira semana de vida. Caso persista além da primeira semana de vida deve ser investigada alguma causa patológica dessa icterícia neonatal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:10:08.449882 +0000 UTC",
+              "updated_at": "2020-10-27 00:10:09.643166 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 1581
+          },
+          {
+            "id": "b4156276-78ce-4027-9f99-425e45aecee9",
+            "position": "2",
+            "body": "Atinge níveis de bilirrubinemia bastante elevados, superiores a 14 mg%.",
+            "sanitized_body": "Atinge níveis de bilirrubinemia bastante elevados, superiores a 14 mg%.",
+            "correct": false,
+            "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+            "updated_at": "2020-10-27 00:03:26.29292 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “c”:Bilirrubinemia até cerca 12mg/dL (que corresponde zona III de Kramer), podem ser consideradas fisiológica, acima disso há necessidade de investigação de causas patológicas.",
+              "sanitized_complete": "Incorreta alternativa “c”:Bilirrubinemia até cerca 12mg/dL (que corresponde zona III de Kramer), podem ser consideradas fisiológica, acima disso há necessidade de investigação de causas patológicas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:10:08.522152 +0000 UTC",
+              "updated_at": "2020-10-27 00:10:09.671634 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          },
+          {
+            "id": "df6c050f-c4bf-4cb2-9814-31501c7d7cbf",
+            "position": "3",
+            "body": "Deve-se a anemia hemolítica por incompatibilidade RH.",
+            "sanitized_body": "Deve-se a anemia hemolítica por incompatibilidade RH.",
+            "correct": false,
+            "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+            "updated_at": "2020-10-27 00:03:26.465733 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “d”:Errado, a icterícia neonatal por doença hemolítica por incompatibilidade Rh é umas das causas patológicas de icterícia neonatal. As causas da icterícia fisiológica foram descritas acima.",
+              "sanitized_complete": "Incorreta alternativa “d”:Errado, a icterícia neonatal por doença hemolítica por incompatibilidade Rh é umas das causas patológicas de icterícia neonatal. As causas da icterícia fisiológica foram descritas acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:10:08.512021 +0000 UTC",
+              "updated_at": "2020-10-27 00:10:09.656756 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 8
+          },
+          {
+            "id": "585d7573-056b-44ee-bb39-d2d60eb1d417",
+            "position": "4",
+            "body": "Está presente desde o nascimento na hipermaturidade fetal.",
+            "sanitized_body": "Está presente desde o nascimento na hipermaturidade fetal.",
+            "correct": false,
+            "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+            "updated_at": "2020-10-27 00:03:26.639724 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “e”:Icterícias fisiológicas tem seu início após 24 horas de vida. As icterícias que se iniciam antes de 24 horas de vida devem ser consideradas patológicas e merecem investigação clínica.",
+              "sanitized_complete": "Incorreta alternativa “e”:Icterícias fisiológicas tem seu início após 24 horas de vida. As icterícias que se iniciam antes de 24 horas de vida devem ser consideradas patológicas e merecem investigação clínica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:10:08.454696 +0000 UTC",
+              "updated_at": "2020-10-27 00:10:09.672912 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 4
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O Agente Comunitário de Saúde lhe solicita explicações sobre um recém-nascido que apresenta coloração amarelada da pele. Você colhe, junto ao Agente Comunitário de Saúde, informações sobre a duração da gestação, as condições do parto e da criança ao nascer, o tempo de aparecimento do sintoma específico e verifica também resultados de exames do recém-nascido , realizados na maternidade: hemograma, dosagem de bilirrubinas e teste de Coombs. Diante dos dados clínicos e do resultado de exames, você conclui que trata-se de Icterícia Fisiológica do Recém-Nascido. O que seria correto você informar ao Agente Comunitário de Saúde sobre a Icterícia Fisiológica do Recém-Nascido?",
+        "statement_text": "O Agente Comunitário de Saúde lhe solicita explicações sobre um recém-nascido que apresenta coloração amarelada da pele. Você colhe, junto ao Agente Comunitário de Saúde, informações sobre a duração da gestação, as condições do parto e da criança ao nascer, o tempo de aparecimento do sintoma específico e verifica também resultados de exames do recém-nascido , realizados na maternidade: hemograma, dosagem de bilirrubinas e teste de Coombs. Diante dos dados clínicos e do resultado de exames, você conclui que trata-se de Icterícia Fisiológica do Recém-Nascido. O que seria correto você informar ao Agente Comunitário de Saúde sobre a Icterícia Fisiológica do Recém-Nascido?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:58:37.796406 +0000 UTC",
+        "solution": {
+          "_key": "433e7260-3e69-4151-a98d-378c81f7a155",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Caro colega, essa é uma questão sobre icterícia neonatal. Vamos fazer um breve resumo sobre o assunto para auxilia-lo a responder essa questão e outras semelhantes a essa.</div><div><br></div><div>Cerca de 60% dos recém-nascidos termos e cerca de 80% dos recém-nascidos pré-termo desenvolvem icterícia na primeira semana de vida. Ela costuma se manifestar clinicamente com coloração amarelada na pele dos recém-nascidos e geralmente é notada quando há níveis séricos próximos de 6 mg/dL de bilirrubina total no sangue. Ela tipicamente tem uma evolução crânio- caudal e são padronizadas zonas (Zonas de Kramer) para uma melhor avaliação da intensidade da icterícia (ver figura abaixo).&nbsp;</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FCEB734A-A22B-EBBE-E1E1-DC4E1C8C46D8/FCEB734A-A22B-EBBE-E1E1-DC4E1C8C46D8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Você deve saber da média de bilirrubina total esperada em cada uma das zonas de Kramer: Zona 1 bilirrubina perto de 6mg/dL já clinicamente visível; Zona 2 bilirrubina perto de 9mg/dL; Zona 3 bilirrubina perto de 12mg/dL; Zona 4 bilirrubina perto de 15mg/dL; Zona 5 bilirrubina acima de 15mg/dL.</div><div><br></div><div><b>A maioria dessas icterícias são fisiológicas,</b> com predomínio de bilirrubina indireta, de evolução benigna, com início após 24 horas de vida do recém-nascido, e que em geral, não precisam de tratamento. Tem o pico de concentração de bilirrubina no sangue entre 3 a 5 dias de vida nos recém-nascidos termos e entre 5 a 7 dias de vida nos recém-nascidos pré-termos. Pode permanecer até o sétimo dia de vida nos recém-nascidos nascidos a termo e até o décimo quarto dia de vida nos recém-nascidos nascidos pré-termos.</div><div><br></div><div>Ocorrem devido à condições específicas dos recém-nascidos vamos lembrar quais são:</div><div><br></div><div>•\tO recém-nascido tem uma quantidade maior de hemácias no sangue periférico e as hemácias fetais tem uma menor meia-vida, há maior turnoverdas proteínas heme e uma maior eritropoieseinefetiva (grande parte do grupo heme que dá origem às bilirrubinas indiretas são decorrentes dessa eritropoieseinefetiva);</div><div><br></div><div>•\tA bilirrubina indireta circula no sangue em sua maioria ligada à albumina até chegar no fígado, geralmente com alta afinidade nessa ligação, mas não há número suficiente de albumina para se ligar a toda a bilirrubina indireta, ficando uma parte livre no sangue</div><div><br></div><div>•\tMenor captação das bilirrubinas indiretas pelo fígado por redução no número de ligandinas</div><div><br></div><div>•\tMenor conjugação de bilirrubina indireta em bilirrubina direta por atividade reduzida da glicuroniltransferase (UDPG-T), enzima presente dentro dos hepatócitos</div><div><br></div><div>•\tMenor excreção hepática de bilirrubina</div><div><br></div><div>•\tAumento da circulação entero-hepática causada pelos elevados níveis de betaglicuronidase intestinal, menor número de bactérias intestinais e motilidade reduzida.</div><div><br></div><div><b>Quando devemos suspeitas de icterícia não fisiológica com alguma outra condição associada?&nbsp;</b></div><div><br></div><div>•\tAparecimento de icterícia com menos de 24 horas de vida;</div><div><br></div><div>•\tAumento da bilirrubina sérica &gt; 0,5mg/dL/hora nos primeiros dias de vida ou maior que 5mg/dL/dia</div><div><br></div><div>•\tBilirrubina total acima de 12mg/dL nos recém nascidos termo</div><div><br></div><div>•\tIcterícia clínica na Zona de Kramer maior ou igual a zona III</div><div><br></div><div>•\tPredomínio e bilirrubina direta ou sinais de colestase (colúria ou acolia fecal)</div><div><br></div><div>•\tIcterícia persistente (no termo além da primeira semana de vida e no pré-termo além da segunda semana de vida)</div><div><br></div><div>•\tOutros sintomas de alarme associados, como por exemplo vômitos, letargia, apnéia, taquipnéia, instabilidade térmica.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BCaro colega, essa é uma questão sobre icterícia neonatal. Vamos fazer um breve resumo sobre o assunto para auxilia-lo a responder essa questão e outras semelhantes a essa.Cerca de 60% dos recém-nascidos termos e cerca de 80% dos recém-nascidos pré-termo desenvolvem icterícia na primeira semana de vida. Ela costuma se manifestar clinicamente com coloração amarelada na pele dos recém-nascidos e geralmente é notada quando há níveis séricos próximos de 6 mg/dL de bilirrubina total no sangue. Ela tipicamente tem uma evolução crânio- caudal e são padronizadas zonas (Zonas de Kramer) para uma melhor avaliação da intensidade da icterícia (ver figura abaixo). Você deve saber da média de bilirrubina total esperada em cada uma das zonas de Kramer: Zona 1 bilirrubina perto de 6mg/dL já clinicamente visível; Zona 2 bilirrubina perto de 9mg/dL; Zona 3 bilirrubina perto de 12mg/dL; Zona 4 bilirrubina perto de 15mg/dL; Zona 5 bilirrubina acima de 15mg/dL.A maioria dessas icterícias são fisiológicas, com predomínio de bilirrubina indireta, de evolução benigna, com início após 24 horas de vida do recém-nascido, e que em geral, não precisam de tratamento. Tem o pico de concentração de bilirrubina no sangue entre 3 a 5 dias de vida nos recém-nascidos termos e entre 5 a 7 dias de vida nos recém-nascidos pré-termos. Pode permanecer até o sétimo dia de vida nos recém-nascidos nascidos a termo e até o décimo quarto dia de vida nos recém-nascidos nascidos pré-termos.Ocorrem devido à condições específicas dos recém-nascidos vamos lembrar quais são:•\tO recém-nascido tem uma quantidade maior de hemácias no sangue periférico e as hemácias fetais tem uma menor meia-vida, há maior turnoverdas proteínas heme e uma maior eritropoieseinefetiva (grande parte do grupo heme que dá origem às bilirrubinas indiretas são decorrentes dessa eritropoieseinefetiva);•\tA bilirrubina indireta circula no sangue em sua maioria ligada à albumina até chegar no fígado, geralmente com alta afinidade nessa ligação, mas não há número suficiente de albumina para se ligar a toda a bilirrubina indireta, ficando uma parte livre no sangue•\tMenor captação das bilirrubinas indiretas pelo fígado por redução no número de ligandinas•\tMenor conjugação de bilirrubina indireta em bilirrubina direta por atividade reduzida da glicuroniltransferase (UDPG-T), enzima presente dentro dos hepatócitos•\tMenor excreção hepática de bilirrubina•\tAumento da circulação entero-hepática causada pelos elevados níveis de betaglicuronidase intestinal, menor número de bactérias intestinais e motilidade reduzida.Quando devemos suspeitas de icterícia não fisiológica com alguma outra condição associada? •\tAparecimento de icterícia com menos de 24 horas de vida;•\tAumento da bilirrubina sérica &gt; 0,5mg/dL/hora nos primeiros dias de vida ou maior que 5mg/dL/dia•\tBilirrubina total acima de 12mg/dL nos recém nascidos termo•\tIcterícia clínica na Zona de Kramer maior ou igual a zona III•\tPredomínio e bilirrubina direta ou sinais de colestase (colúria ou acolia fecal)•\tIcterícia persistente (no termo além da primeira semana de vida e no pré-termo além da segunda semana de vida)•\tOutros sintomas de alarme associados, como por exemplo vômitos, letargia, apnéia, taquipnéia, instabilidade térmica.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+          "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+          "author_profile": {
+            "id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+            "full_name": "Carla Marcelino",
+            "avatar_url": "https://static.accounts.estrategia.com/33f4583d058bc6d196f6376eee4274e9",
+            "about_me": "Médica pediatra e neonatologista. Formada em medicina pela Universidade de São Paulo (USP), realizei residência médica em pediatria e neonatologia pela mesma instituição. Atualmente, trabalho como pediatra e neonatolgista nos Hospitais Samaritano de São Paulo e Hospital Israelita Albert Einstein (na unidade do Hospital Municipal Vila Santa Catarina).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.carlamarcelino",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-27 00:10:08.848954 +0000 UTC",
+          "updated_at": "2020-10-27 00:10:09.748062 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127077-720.mp4",
+        "unlisted": false,
+        "slug": "Agente-Comunitario-Sau1020162f68c",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 28
+    }
+  }

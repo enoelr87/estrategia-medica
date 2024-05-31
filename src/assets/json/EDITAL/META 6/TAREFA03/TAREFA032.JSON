@@ -1,0 +1,3810 @@
+{
+    "data": [
+      {
+        "id": "4000129279",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "75957e44b63244da8aefed77ed81d129",
+            "name": "Princípios e Diretrizes do SUS a serem operacionalizados pela Atenção Básica",
+            "is_master": false,
+            "master_id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do SUS a serem operacionalizados pela Atenção Básica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "e545e9ef-663b-4bcc-978c-ed19f4b7db62",
+            "position": "0",
+            "body": "Equidade.<div>&nbsp;</div>",
+            "sanitized_body": "Equidade. ",
+            "correct": true,
+            "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+            "updated_at": "2021-06-07 19:45:47.656983 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa A</b>. A Equidade está presente no enunciado por meio da distribuição dos recursos de saúde, sendo observado que a implantação da Estratégia da Saúde da Família compensou a <u>desigualdade</u> existente entre esses municípios de baixo IDH.",
+              "sanitized_complete": "Correta a alternativa A. A Equidade está presente no enunciado por meio da distribuição dos recursos de saúde, sendo observado que a implantação da Estratégia da Saúde da Família compensou a desigualdade existente entre esses municípios de baixo IDH.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+              "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+              "author_profile": null,
+              "created_at": "2021-07-11 23:08:40.355647 +0000 UTC",
+              "updated_at": "2021-07-11 23:08:44.112782 +0000 UTC"
+            },
+            "answer_percentage": 59,
+            "answers": 668
+          },
+          {
+            "id": "b575758b-fa2a-45de-b701-2c3460c2a067",
+            "position": "1",
+            "body": "Integralidade.<div>&nbsp;</div>",
+            "sanitized_body": "Integralidade. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+            "updated_at": "2021-06-07 19:45:47.804414 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa B</b>. A Integralidade de assistência é entendida como o “conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema” (inciso II do artigo 7º da Lei nº 8.080, de 1990).",
+              "sanitized_complete": "Incorreta a alternativa B. A Integralidade de assistência é entendida como o “conjunto articulado e contínuo das ações e serviços preventivos e curativos, individuais e coletivos, exigidos para cada caso em todos os níveis de complexidade do sistema” (inciso II do artigo 7º da Lei nº 8.080, de 1990).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+              "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+              "author_profile": null,
+              "created_at": "2021-07-11 23:08:40.344086 +0000 UTC",
+              "updated_at": "2021-07-11 23:08:44.116203 +0000 UTC"
+            },
+            "answer_percentage": 23,
+            "answers": 257
+          },
+          {
+            "id": "ef2ad2ec-512d-4cd4-bd6f-ffa721e6ce73",
+            "position": "2",
+            "body": "Hierarquização.<div>&nbsp;</div>",
+            "sanitized_body": "Hierarquização. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+            "updated_at": "2021-06-07 19:45:47.946571 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C</b>. A Hierarquização pressupõe organizar os pontos de atenção da rede de atenção em diferentes níveis de densidade tecnológica.",
+              "sanitized_complete": "Incorreta a alternativa C. A Hierarquização pressupõe organizar os pontos de atenção da rede de atenção em diferentes níveis de densidade tecnológica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+              "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+              "author_profile": null,
+              "created_at": "2021-07-11 23:08:40.348713 +0000 UTC",
+              "updated_at": "2021-07-11 23:08:44.102085 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 18
+          },
+          {
+            "id": "5a82db1b-a68f-4222-b2f4-2b6894c4003a",
+            "position": "3",
+            "body": "Resolubilidade.",
+            "sanitized_body": "Resolubilidade.",
+            "correct": false,
+            "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+            "updated_at": "2021-06-07 19:45:48.124526 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa D</b>. A PNAB adota o termo “Resolutividade”, como uma diretriz do SUS e da Rede de Atenção à Saúde (RAS) a ser operacionalizada na Atenção Básica. Ela reforça o conceito de que a Atenção Básica precisa ser capaz de resolver grande parte dos problemas de saúde da população, coordenando o cuidado do usuário em outros pontos da rede, quando houver necessidade.",
+              "sanitized_complete": "Incorreta a alternativa D. A PNAB adota o termo “Resolutividade”, como uma diretriz do SUS e da Rede de Atenção à Saúde (RAS) a ser operacionalizada na Atenção Básica. Ela reforça o conceito de que a Atenção Básica precisa ser capaz de resolver grande parte dos problemas de saúde da população, coordenando o cuidado do usuário em outros pontos da rede, quando houver necessidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+              "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+              "author_profile": null,
+              "created_at": "2021-07-11 23:08:40.338038 +0000 UTC",
+              "updated_at": "2021-07-11 23:08:44.149816 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 130
+          },
+          {
+            "id": "7555e4ea-49fd-4152-9327-6c6a34c1277e",
+            "position": "4",
+            "body": "Descentralização.",
+            "sanitized_body": "Descentralização.",
+            "correct": false,
+            "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+            "updated_at": "2021-06-07 19:45:48.294978 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa E</b>. A Descentralização preconiza a redistribuição das responsabilidades do sistema de saúde entre os diferentes níveis de gestão, com ênfase na gestão municipal.",
+              "sanitized_complete": "Incorreta a alternativa E. A Descentralização preconiza a redistribuição das responsabilidades do sistema de saúde entre os diferentes níveis de gestão, com ênfase na gestão municipal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+              "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+              "author_profile": null,
+              "created_at": "2021-07-11 23:08:40.355672 +0000 UTC",
+              "updated_at": "2021-07-11 23:08:44.113969 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 57
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Na pesquisa realizada para avaliação da implantação da Estratégia da Saúde da Família no Brasil, publicada pelo Ministério da Saúde em 2006, a tendência geral observada foi a melhoria dos indicadores de saúde nos municípios de IDH baixo (&lt; 0,7).<div><br></div><div>Esses dados mostram o cumprimento de qual dos princípios do SUS listados abaixo?</div><div>&nbsp;</div>",
+        "statement_text": "Na pesquisa realizada para avaliação da implantação da Estratégia da Saúde da Família no Brasil, publicada pelo Ministério da Saúde em 2006, a tendência geral observada foi a melhoria dos indicadores de saúde nos municípios de IDH baixo (&lt; 0,7).Esses dados mostram o cumprimento de qual dos princípios do SUS listados abaixo? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 14:19:26.355718 +0000 UTC",
+        "solution": {
+          "_key": "1618d87b-ec91-4e16-bea1-d80256b47db2",
+          "complete": "Estrategista, o examinador quer saber qual dos princípios do Sistema Único de Saúde (SUS) foi cumprido na situação descrita no enunciado.&nbsp;<div><br></div><div>Para entender a situação exposta, é preciso saber o que significa IDH, sigla que representa o Índice de Desenvolvimento Humano. Essa medida é utilizada para aferir o grau de desenvolvimento de uma determinada sociedade, avaliando aspectos como expectativa de vida ao nascer, acesso ao conhecimento e renda.</div><div><br></div><div>Note que o texto expõe o resultado de uma pesquisa que concluiu que houve uma “melhoria dos indicadores de saúde nos municípios de IDH baixo”, quando se avaliou a “implantação da Estratégia da Saúde da Família no Brasil”. Em outras palavras, percebe-se que a implantação dessa estratégia enalteceu o&nbsp;</div><div>atendimento a populações historicamente negligenciadas, que compõe os municípios com baixo IDH. Assim, esses municípios apresentaram melhora em seus indicadores, observando-se um movimento de promoção de <u>Equidade, que é a resposta da questão</u>.&nbsp;</div><div><br></div><div>Assim, tenha em mente que a Equidade deve promover a <u>redução das desigualdades, fornecendo mais recursos às pessoas que mais necessitam</u>.&nbsp;</div><div><br></div><div>A Política Nacional de Atenção Básica (PNAB), sugere que a <i>Equidade representa a oferta do cuidado, “reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades das pessoas, considerando que <b>o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade</b> (...) com estratégias que permitam <b>minimizar desigualdades</b> (...) de maneira que impacte na autonomia e na situação de saúde.”</i></div><div><br></div><div>Aproveitaremos para revisar a definição de outros termos citados nas alternativas.&nbsp;</div><div><br></div><div><b>Referências bibliográficas e recomendação para aprofundamento sobre o tema:</b></div><div><br></div><div>•\tBRASIL. Ministério da Saúde. Gabinete do Ministério. Portaria de Consolidação GM/MS nº 2, de 28 de setembro de 2017. Consolidação das normas sobre as políticas nacionais de saúde do Sistema Único de Saúde. Disponível em: &lt;https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html&gt;. Acesso em: 11 de jul. de 2021.</div>",
+          "sanitized_complete": "Estrategista, o examinador quer saber qual dos princípios do Sistema Único de Saúde (SUS) foi cumprido na situação descrita no enunciado. Para entender a situação exposta, é preciso saber o que significa IDH, sigla que representa o Índice de Desenvolvimento Humano. Essa medida é utilizada para aferir o grau de desenvolvimento de uma determinada sociedade, avaliando aspectos como expectativa de vida ao nascer, acesso ao conhecimento e renda.Note que o texto expõe o resultado de uma pesquisa que concluiu que houve uma “melhoria dos indicadores de saúde nos municípios de IDH baixo”, quando se avaliou a “implantação da Estratégia da Saúde da Família no Brasil”. Em outras palavras, percebe-se que a implantação dessa estratégia enalteceu o atendimento a populações historicamente negligenciadas, que compõe os municípios com baixo IDH. Assim, esses municípios apresentaram melhora em seus indicadores, observando-se um movimento de promoção de Equidade, que é a resposta da questão. Assim, tenha em mente que a Equidade deve promover a redução das desigualdades, fornecendo mais recursos às pessoas que mais necessitam. A Política Nacional de Atenção Básica (PNAB), sugere que a Equidade representa a oferta do cuidado, “reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades das pessoas, considerando que o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade (...) com estratégias que permitam minimizar desigualdades (...) de maneira que impacte na autonomia e na situação de saúde.”Aproveitaremos para revisar a definição de outros termos citados nas alternativas. Referências bibliográficas e recomendação para aprofundamento sobre o tema:•\tBRASIL. Ministério da Saúde. Gabinete do Ministério. Portaria de Consolidação GM/MS nº 2, de 28 de setembro de 2017. Consolidação das normas sobre as políticas nacionais de saúde do Sistema Único de Saúde. Disponível em: &lt;https://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prc0002_03_10_2017.html&gt;. Acesso em: 11 de jul. de 2021.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+          "author_email_id": "eabd75c2b5d194a2f5b7c236ccc8e0d1",
+          "author_profile": {
+            "id": "5927b34b-7b7c-43ff-a666-be0e45d7d03f",
+            "full_name": "Fernanda Lima",
+            "avatar_url": "https://static.accounts.estrategia.com/9910c9a2655c26773767691df0184454",
+            "about_me": "Formada em Medicina pela Universidade Federal de Sergipe, residência médica em Medicina do Trabalho pela Universidade Federal da Bahia (RQE nº 10342) com experiência em pesquisa em saúde do trabalhador no \"Institut national de santé publique du Québec\" (Montreal, Canadá).\n\nAtua como assistente técnica em perícias médicas no âmbito da saúde do trabalhador.\n\nAprovada em 1º lugar no concurso para analista judiciário (área de medicina do trabalho) do Tribunal de Justiça de Sergipe (TJSE). \n \nExperiência na área de Saúde Ocupacional no Centro Estadual de Referência em Saúde do Trabalhador (Cesat), em empresas de construção civil, no Sindicato dos Químicos e Petroleiros da Bahia, com prestação de serviços de exames ocupacionais (Caixa Econômica Federal, Braskem, Wal Mart Brasil LTDA.), em empresa de comércio varejista (Cencosud Brasil Comercial Ltda), em empresa de logística e distribuição de bebidas (Brasil Kirin Logística e Distribuição - antiga Schincariol), em indústria metalúrgica (Papaiz), no ramo de telecomunicações (ARM Telecomunicações e Serviços de Engenharia Ltda), em associação de defesa de direitos sociais (APAE Salvador) e com transporte metroviário (Companhia do Metro da Bahia - CCR Metrô BA).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.fernandalima",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-11 23:08:40.531873 +0000 UTC",
+          "updated_at": "2021-07-11 23:08:44.24121 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129279-720.mp4",
+        "unlisted": false,
+        "slug": "pesquisa-realizada5280c33396",
+        "public": true
+      },
+      {
+        "id": "4000129240",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "52212aa44ed84514903711d99bf5fa76",
+            "name": "Atenção Primária à Saúde (APS) no Brasil",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d99d3acbdbba4f8cbe15b8d484963779",
+            "name": "Atributos gerais da Atenção Primária à Saúde (APS)",
+            "is_master": false,
+            "master_id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)[$$]Atributos gerais da Atenção Primária à Saúde (APS)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e50957ae07474ab795ebc96604b1e11a",
+            "name": "Política Nacional de Atenção Básica (PNAB)",
+            "is_master": false,
+            "master_id": "52212aa44ed84514903711d99bf5fa76",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil[$$]Política Nacional de Atenção Básica (PNAB)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "0295c161-14ce-47f6-8600-823a1d889d46",
+            "position": "0",
+            "body": "As equipes terão número variável de famílias em territórios  estabelecidos pela prefeitura e sem definição de números  mínimos e máximos por equipe.&nbsp;<div>&nbsp;</div>",
+            "sanitized_body": "As equipes terão número variável de famílias em territórios  estabelecidos pela prefeitura e sem definição de números  mínimos e máximos por equipe.  ",
+            "correct": false,
+            "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+            "updated_at": "2021-07-06 10:51:16.055982 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. A PNAB estabelece  uma capacidade que deve estar entre 2000-3500 pessoas  por equipe.",
+              "sanitized_complete": "Incorreto. A PNAB estabelece  uma capacidade que deve estar entre 2000-3500 pessoas  por equipe.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:29:24.628228 +0000 UTC",
+              "updated_at": "2022-02-08 04:33:04.362267 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 24
+          },
+          {
+            "id": "1211fa9f-a63d-4ff8-be26-3f38fc26120d",
+            "position": "1",
+            "body": "O número de famílias de cada equipe dependerá do grau de vulnerabilidade em cada área, em territórios definidos pelos Agentes Comunitários de Saúde.&nbsp;<div>&nbsp;</div>",
+            "sanitized_body": "O número de famílias de cada equipe dependerá do grau de vulnerabilidade em cada área, em territórios definidos pelos Agentes Comunitários de Saúde.  ",
+            "correct": false,
+            "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+            "updated_at": "2021-07-06 10:51:16.092743 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. Caso haja vulnerabilidades, é  permitido ao <b>gestor </b>municipal estabelecer outro arranjo populacional.",
+              "sanitized_complete": "Incorreto. Caso haja vulnerabilidades, é  permitido ao gestor municipal estabelecer outro arranjo populacional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:29:24.629688 +0000 UTC",
+              "updated_at": "2022-02-08 04:33:04.378407 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 170
+          },
+          {
+            "id": "2c114b35-97e9-4080-8dbe-43aa25333d6b",
+            "position": "2",
+            "body": "Todas as equipes terão sob sua responsabilidade 3 500 pessoas, definidas em territórios contínuos dentro da área de abrangência da UBS .&nbsp;<div>&nbsp;</div>",
+            "sanitized_body": "Todas as equipes terão sob sua responsabilidade 3 500 pessoas, definidas em territórios contínuos dentro da área de abrangência da UBS .  ",
+            "correct": false,
+            "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+            "updated_at": "2021-07-06 10:51:16.123816 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos acima.",
+              "sanitized_complete": "Incorreto, como vimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:29:24.620539 +0000 UTC",
+              "updated_at": "2022-02-08 04:33:04.36971 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 377
+          },
+          {
+            "id": "3bba5be6-86c0-4a6b-a6a6-cceb207d7f63",
+            "position": "3",
+            "body": "Os territórios das equipes serão definidos pelas equipes e o número de pessoas adscritas a cada equipe vai depender da análise de vulnerabilidade das famílias de cada microárea.&nbsp;",
+            "sanitized_body": "Os territórios das equipes serão definidos pelas equipes e o número de pessoas adscritas a cada equipe vai depender da análise de vulnerabilidade das famílias de cada microárea. ",
+            "correct": true,
+            "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+            "updated_at": "2021-07-06 10:51:16.162266 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, como discutimos nas alternativas anteriores.",
+              "sanitized_complete": "Correto, como discutimos nas alternativas anteriores.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:29:24.663632 +0000 UTC",
+              "updated_at": "2022-02-08 04:33:04.375615 +0000 UTC"
+            },
+            "answer_percentage": 65,
+            "answers": 1171
+          },
+          {
+            "id": "ce211296-1d8e-4371-ae09-f261ebb2a365",
+            "position": "4",
+            "body": "A definição acerca dos territórios e da população sob responsabilidade de cada equipe da Estratégia da Saúde da Família depende do diagnóstico de vulnerabilidade feito pelo médico.&nbsp;",
+            "sanitized_body": "A definição acerca dos territórios e da população sob responsabilidade de cada equipe da Estratégia da Saúde da Família depende do diagnóstico de vulnerabilidade feito pelo médico. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+            "updated_at": "2021-07-06 10:51:16.196171 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, já que esta decisão cabe ao gestor.",
+              "sanitized_complete": "Incorreto, já que esta decisão cabe ao gestor.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:29:24.603014 +0000 UTC",
+              "updated_at": "2022-02-08 04:33:04.376484 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 47
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A prefeitura de um pequeno município do interior contratou  profissionais de saúde para implantar três equipes da Estratégia da Saúde da Família que atuarão junto a uma  Unidade Básica de Saúde (UBS). Para iniciar as suas atividades,  essas equipes precisam definir os territórios de abrangência e a  população de cada uma delas, conforme preconiza a Política  Nacional da Atenção Básica.&nbsp;&nbsp;<div><br><div>Que estratégias devem orientar a definição do território?&nbsp;</div><div><br></div></div>",
+        "statement_text": "A prefeitura de um pequeno município do interior contratou  profissionais de saúde para implantar três equipes da Estratégia da Saúde da Família que atuarão junto a uma  Unidade Básica de Saúde (UBS). Para iniciar as suas atividades,  essas equipes precisam definir os territórios de abrangência e a  população de cada uma delas, conforme preconiza a Política  Nacional da Atenção Básica.  Que estratégias devem orientar a definição do território? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 13:23:17.056196 +0000 UTC",
+        "forum_id": "1bdfd714-e3bd-4216-ab40-47b90ce00835",
+        "solution": {
+          "_key": "551fa921-11ac-49ee-bc5e-616533d8bcdc",
+          "complete": "Correta alternativa D.",
+          "sanitized_complete": "Correta alternativa D.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-08 04:29:24.704409 +0000 UTC",
+          "updated_at": "2022-02-08 04:33:04.460051 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "prefeitura-pequeno723af95122",
+        "public": true
+      },
+      {
+        "id": "4000153821",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:46:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a60a2481-5464-40fc-ad7a-ed229e543511",
+            "position": "0",
+            "body": "apenas no processo de diagnóstico de Saúde da comunidade.\n",
+            "sanitized_body": "apenas no processo de diagnóstico de Saúde da comunidade.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+            "updated_at": "2021-12-29 20:55:49.10259 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. A participação popular ocorre em diversos aspectos, inclusive de forma deliberativa, sobre fiscalização, questões financeiras, acompanhamento dos serviços, gestão das ações públicas, dentre outras prerrogativas,",
+              "sanitized_complete": "Incorreto. A participação popular ocorre em diversos aspectos, inclusive de forma deliberativa, sobre fiscalização, questões financeiras, acompanhamento dos serviços, gestão das ações públicas, dentre outras prerrogativas,",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 21:04:27.409765 +0000 UTC",
+              "updated_at": "2021-12-29 21:10:57.187986 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 7
+          },
+          {
+            "id": "a907f399-ecc3-4226-a250-80700bb197b9",
+            "position": "1",
+            "body": "nas etapas de diagnóstico de Saúde da comunidade, da definição de problemas, da fixação de prioridades, no planejamento das atividades, na execução das atividades e na avaliação delas.",
+            "sanitized_body": "nas etapas de diagnóstico de Saúde da comunidade, da definição de problemas, da fixação de prioridades, no planejamento das atividades, na execução das atividades e na avaliação delas.",
+            "correct": true,
+            "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+            "updated_at": "2021-12-29 20:55:49.198165 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto! Observe abaixo as funções previstas em conselhos e conferências, que contam com metade do quórum formado pela comunidade:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9D85F022-8B43-EFAB-AE49-1F9EC0073576/9D85F022-8B43-EFAB-AE49-1F9EC0073576-400.png\"><!-- END:IMAGE_TO_REPLACE --></div>",
+              "sanitized_complete": "Correto! Observe abaixo as funções previstas em conselhos e conferências, que contam com metade do quórum formado pela comunidade:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 21:04:27.417941 +0000 UTC",
+              "updated_at": "2021-12-29 21:10:57.176635 +0000 UTC"
+            },
+            "answer_percentage": 96,
+            "answers": 316
+          },
+          {
+            "id": "75646f21-e95c-4419-9c2d-bc3213402e05",
+            "position": "2",
+            "body": "no processo de determinação de prioridades, somente.\n",
+            "sanitized_body": "no processo de determinação de prioridades, somente.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+            "updated_at": "2021-12-29 20:55:49.301027 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos anteriormente.",
+              "sanitized_complete": "Incorreto, como vimos anteriormente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 21:04:27.401575 +0000 UTC",
+              "updated_at": "2021-12-29 21:10:57.205359 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "a488b868-ca3f-4a04-9a48-d88d3bbe81d1",
+            "position": "3",
+            "body": "no momento de definição de problemas, exclusivamente.\n",
+            "sanitized_body": "no momento de definição de problemas, exclusivamente.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+            "updated_at": "2021-12-29 20:55:49.439219 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos anteriormente.",
+              "sanitized_complete": "Incorreto, como vimos anteriormente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 21:04:27.418809 +0000 UTC",
+              "updated_at": "2021-12-29 21:10:57.211223 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "064aed74-67f0-4a48-bf47-996d0a81fc16",
+            "position": "4",
+            "body": "somente e tão somente a normatização efetuada pela Secretaria Municipal de Saúde, em concordância com a Secretaria de Estado da Saúde.",
+            "sanitized_body": "somente e tão somente a normatização efetuada pela Secretaria Municipal de Saúde, em concordância com a Secretaria de Estado da Saúde.",
+            "correct": false,
+            "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+            "updated_at": "2021-12-29 20:55:49.535774 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos anteriormente.",
+              "sanitized_complete": "Incorreto, como vimos anteriormente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 21:04:27.417623 +0000 UTC",
+              "updated_at": "2021-12-29 21:10:57.185384 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Na Atenção Primária em Saúde, a participação da comunidade é considerada fundamental e deve ser priorizada",
+        "statement_text": "Na Atenção Primária em Saúde, a participação da comunidade é considerada fundamental e deve ser priorizada",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 18:23:13.940917 +0000 UTC",
+        "solution": {
+          "_key": "faf3bdbc-4fdc-4734-ba43-406f34fae946",
+          "complete": "Estrategista, a participação da comunidade é um dos princípios organizativos do SUS, estando prevista tanto na CF88, quanto na lei orgânica 8080/90, além de estar expressa em outra lei orgânica, a Lei 8142/90, que assegura o exercício desse controle social através dos Conselhos e das Conferências de Saúde, em todos os níveis da gestão. Observe abaixo os princípios previstos na CF88:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/63342072-F5CA-E13D-D396-E648B8FAA310/63342072-F5CA-E13D-D396-E648B8FAA310-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div><br></div>",
+          "sanitized_complete": "Estrategista, a participação da comunidade é um dos princípios organizativos do SUS, estando prevista tanto na CF88, quanto na lei orgânica 8080/90, além de estar expressa em outra lei orgânica, a Lei 8142/90, que assegura o exercício desse controle social através dos Conselhos e das Conferências de Saúde, em todos os níveis da gestão. Observe abaixo os princípios previstos na CF88:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-12-29 21:04:27.52092 +0000 UTC",
+          "updated_at": "2021-12-29 21:10:57.358089 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Atenca-Primaria-Sau166291c454",
+        "public": true
+      },
+      {
+        "id": "4000153818",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:46:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fa2aad6d-ff17-4a33-9402-99d63c219741",
+            "position": "0",
+            "body": "É resultante das relações mercadológicas.",
+            "sanitized_body": "É resultante das relações mercadológicas.",
+            "correct": false,
+            "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+            "updated_at": "2021-12-29 20:25:19.584849 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, porque não define o conceito de saúde, tampouco se aproxima dele. ",
+              "sanitized_complete": "Incorreto, porque não define o conceito de saúde, tampouco se aproxima dele.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 20:29:30.29929 +0000 UTC",
+              "updated_at": "2021-12-29 20:46:38.81391 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "4fc6c338-d024-4124-8805-49475d6f7a91",
+            "position": "1",
+            "body": "É resultante das determinações particulares da história de cada indivíduo.",
+            "sanitized_body": "É resultante das determinações particulares da história de cada indivíduo.",
+            "correct": false,
+            "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+            "updated_at": "2021-12-29 20:25:19.677927 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois não é apenas resultado dessas determinantes, pois existem muitas outras variáveis, que estão além do controle do indivíduo.",
+              "sanitized_complete": "Incorreto, pois não é apenas resultado dessas determinantes, pois existem muitas outras variáveis, que estão além do controle do indivíduo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 20:29:30.299688 +0000 UTC",
+              "updated_at": "2021-12-29 20:46:38.666835 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          },
+          {
+            "id": "614dd654-e244-408c-939a-e67b086b3dce",
+            "position": "2",
+            "body": "É resultante de macroprocessos políticos, sociais e institucionais.\n",
+            "sanitized_body": "É resultante de macroprocessos políticos, sociais e institucionais.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+            "updated_at": "2021-12-29 20:25:19.769282 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos na introdução, não é resultante apenas desses aspectos.",
+              "sanitized_complete": "Incorreto, como vimos na introdução, não é resultante apenas desses aspectos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 20:29:30.262646 +0000 UTC",
+              "updated_at": "2021-12-29 20:46:38.678172 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 23
+          },
+          {
+            "id": "6693a546-cd74-4e9e-8c0d-86b9f74049f6",
+            "position": "3",
+            "body": "É resultante das condições de vida e em especial da oferta de serviços que atendam às carências tecnicamente diagnosticadas e sentidas pela população.",
+            "sanitized_body": "É resultante das condições de vida e em especial da oferta de serviços que atendam às carências tecnicamente diagnosticadas e sentidas pela população.",
+            "correct": true,
+            "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+            "updated_at": "2021-12-29 20:25:19.864315 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Esta é a definição mais abrangente dentre as disponíveis, englobando diversos aspectos do processo saúde doença.",
+              "sanitized_complete": "Correto. Esta é a definição mais abrangente dentre as disponíveis, englobando diversos aspectos do processo saúde doença.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 20:29:30.261773 +0000 UTC",
+              "updated_at": "2021-12-29 20:46:38.813969 +0000 UTC"
+            },
+            "answer_percentage": 51,
+            "answers": 162
+          },
+          {
+            "id": "3fb483ec-45cc-466e-b880-fc7b4d148b47",
+            "position": "4",
+            "body": "É resultante de completo bem estar biopsicossocial.",
+            "sanitized_body": "É resultante de completo bem estar biopsicossocial.",
+            "correct": false,
+            "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+            "updated_at": "2021-12-29 20:25:19.955039 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois como vimos, também trata-se da ausência de doença. Como exemplo clássico, posso citar o exemplo de um paciente em mania bipolar, que pode se sentir incrivelmente bem, contudo, reflexo de um estado patológico.",
+              "sanitized_complete": "Incorreto, pois como vimos, também trata-se da ausência de doença. Como exemplo clássico, posso citar o exemplo de um paciente em mania bipolar, que pode se sentir incrivelmente bem, contudo, reflexo de um estado patológico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-12-29 20:29:30.282397 +0000 UTC",
+              "updated_at": "2021-12-29 20:46:38.666839 +0000 UTC"
+            },
+            "answer_percentage": 40,
+            "answers": 127
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A Constituição brasileira de 1988 estabelece que a Saúde é um direito de todos e um dever do Estado, atendendo a um dos princípios da Atenção Primária em Saúde. Nesse sentido, o conceito de Saúde tem o significado seguinte:",
+        "statement_text": "A Constituição brasileira de 1988 estabelece que a Saúde é um direito de todos e um dever do Estado, atendendo a um dos princípios da Atenção Primária em Saúde. Nesse sentido, o conceito de Saúde tem o significado seguinte:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 18:19:34.947893 +0000 UTC",
+        "solution": {
+          "_key": "9a539f39-6df9-482d-8af9-415ec54536a7",
+          "complete": "Estrategista, a Organização Mundial de Saúde (OMS) define saúde como <i>“um estado de completo bem-estar físico, mental e social e não somente ausência de afecções e enfermidades”.</i><div>Ou seja, não basta apenas não estar doente, mas sim, sentir-se bem em diversos aspectos da existência.</div><div><br></div><div>Vamos avaliar as alternativas.</div>",
+          "sanitized_complete": "Estrategista, a Organização Mundial de Saúde (OMS) define saúde como “um estado de completo bem-estar físico, mental e social e não somente ausência de afecções e enfermidades”.Ou seja, não basta apenas não estar doente, mas sim, sentir-se bem em diversos aspectos da existência.Vamos avaliar as alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-12-29 20:29:30.386527 +0000 UTC",
+          "updated_at": "2021-12-29 20:46:38.753388 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Constituica-brasileira390ab09d53",
+        "public": true
+      },
+      {
+        "id": "4000127172",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c606f722-0fb0-4dc0-9ca4-16188cb8b9fa",
+            "position": "0",
+            "body": "a determinação dos coeficientes de morbimortalidade.",
+            "sanitized_body": "a determinação dos coeficientes de morbimortalidade.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.374333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.606869 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.152987 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 28
+          },
+          {
+            "id": "2e9bd9ee-f0f8-4563-8c56-bb1a2fe46636",
+            "position": "1",
+            "body": "a obtenção de dados de vigilância comparativos com outras áreas do mesmo município.",
+            "sanitized_body": "a obtenção de dados de vigilância comparativos com outras áreas do mesmo município.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.436407 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.611932 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.119893 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 77
+          },
+          {
+            "id": "a47cbc77-3c3e-46d8-9c89-0b6304ef6a95",
+            "position": "2",
+            "body": "a identificação de reivindicações de movimentos sociais e grupos organizados.",
+            "sanitized_body": "a identificação de reivindicações de movimentos sociais e grupos organizados.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.497228 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.595626 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.122729 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 32
+          },
+          {
+            "id": "26f9d517-6dc9-481f-a978-ff65f5577ee4",
+            "position": "3",
+            "body": "a definição de microáreas de risco e grupos prioritários.",
+            "sanitized_body": "a definição de microáreas de risco e grupos prioritários.",
+            "correct": true,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.571416 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.591136 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.136027 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 812
+          },
+          {
+            "id": "197c158d-2f4d-4b12-b448-191e9f2ad71b",
+            "position": "4",
+            "body": "a determinação dos índices de mortalidade infantil e materna.",
+            "sanitized_body": "a determinação dos índices de mortalidade infantil e materna.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.642435 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.607339 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.136936 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma nova Unidade de Saúde da Família será implantada em um município. A territorialização deverá ser realizada visando obter como primeiro produto",
+        "statement_text": "Uma nova Unidade de Saúde da Família será implantada em um município. A territorialização deverá ser realizada visando obter como primeiro produto",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+        "solution": {
+          "_key": "d57e2cf7-02a5-4012-84f6-60177ab4a01a",
+          "complete": "Estrategista, o processo de territorialização consiste em delimitar regiões que sejam semelhantes em relação aos seus aspectos socioeconômicos e culturais e que compartilham dos mesmos problemas de saúde. <div><br></div><div>O objetivo é criar uma rede de saúde que consiga atender às necessidades desse espaço geográfico com a máxima assertividade possível, especialmente ao identificar as necessidades sociais, os determinantes em saúde e os grupos populacionais de risco.</div><div><br></div><div>Portanto, em um Município, espera-se a criação de diversos territórios e microáreas, cada qual com dinâmica própria, mas também com serviços de saúde que possam oferecer integralidade para aquela região. <div><br></div><div>Veja a definição de territorialização segundo a Política Nacional de Atenção Básica (PNAB 2017):</div><div><br></div><div>“Territorialização e Adstrição: de forma a permitir o planejamento, a programação descentralizada e o desenvolvimento de ações setoriais e intersetoriais com foco em um território específico, com impacto na situação, nos condicionantes e determinantes da saúde das pessoas e coletividades que constituem aquele espaço e estão, portanto, adstritos a ele. Para efeitos desta portaria, considera-se Território a unidade geográfica única, de construção descentralizada do SUS na execução das ações estratégicas destinadas à vigilância, promoção, prevenção, proteção e recuperação da saúde. Os Territórios são destinados para dinamizar a ação em saúde pública, o estudo social, econômico, epidemiológico, assistencial, cultural e identitário, possibilitando uma ampla visão de cada unidade geográfica e subsidiando a atuação na Atenção Básica, de forma que atendam a necessidade da população adscrita e ou as populações específicas”.</div><div><br></div></div><div><br></div><div>Resposta letra D.</div>",
+          "sanitized_complete": "Estrategista, o processo de territorialização consiste em delimitar regiões que sejam semelhantes em relação aos seus aspectos socioeconômicos e culturais e que compartilham dos mesmos problemas de saúde. O objetivo é criar uma rede de saúde que consiga atender às necessidades desse espaço geográfico com a máxima assertividade possível, especialmente ao identificar as necessidades sociais, os determinantes em saúde e os grupos populacionais de risco.Portanto, em um Município, espera-se a criação de diversos territórios e microáreas, cada qual com dinâmica própria, mas também com serviços de saúde que possam oferecer integralidade para aquela região. Veja a definição de territorialização segundo a Política Nacional de Atenção Básica (PNAB 2017):“Territorialização e Adstrição: de forma a permitir o planejamento, a programação descentralizada e o desenvolvimento de ações setoriais e intersetoriais com foco em um território específico, com impacto na situação, nos condicionantes e determinantes da saúde das pessoas e coletividades que constituem aquele espaço e estão, portanto, adstritos a ele. Para efeitos desta portaria, considera-se Território a unidade geográfica única, de construção descentralizada do SUS na execução das ações estratégicas destinadas à vigilância, promoção, prevenção, proteção e recuperação da saúde. Os Territórios são destinados para dinamizar a ação em saúde pública, o estudo social, econômico, epidemiológico, assistencial, cultural e identitário, possibilitando uma ampla visão de cada unidade geográfica e subsidiando a atuação na Atenção Básica, de forma que atendam a necessidade da população adscrita e ou as populações específicas”.Resposta letra D.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-08 04:37:00.654567 +0000 UTC",
+          "updated_at": "2022-02-08 04:37:01.224011 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "nova-Unidade-Sau22c98226ae",
+        "public": true
+      },
+      {
+        "id": "4000153763",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2010,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "38C06328-137D-69CF-07F6-944C0CD30ACF"
+              },
+              {
+                "type": "ANSWER",
+                "url": "19061E55-415C-CF46-86FE-D1268685AE3E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:39:09Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5dfc190c-a351-4d03-8f1e-3765d4cfbefe",
+            "position": "0",
+            "body": "Deve realizar ações de vigilância sanitária.",
+            "sanitized_body": "Deve realizar ações de vigilância sanitária.",
+            "correct": false,
+            "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:23.491423 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. É papel do SUS as ações de vigilância sanitária, conforme previsto no art. 200 da CF88:<div><br></div><div>Art. 200. Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:</div><div><span>II - executar as ações de vigilância sanitária e epidemiológica, bem como as de saúde do trabalhador;</span><br></div><div><span><br></span></div>",
+              "sanitized_complete": "Correto. É papel do SUS as ações de vigilância sanitária, conforme previsto no art. 200 da CF88:Art. 200. Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:II - executar as ações de vigilância sanitária e epidemiológica, bem como as de saúde do trabalhador;",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:42:04.036142 +0000 UTC",
+              "updated_at": "2022-02-03 18:42:22.972443 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 7
+          },
+          {
+            "id": "ea3c4efd-a763-4947-bc9f-bb4bf5459a19",
+            "position": "1",
+            "body": "Deve providenciar o pagamento de benefícios e pensões.\n",
+            "sanitized_body": "Deve providenciar o pagamento de benefícios e pensões.\n",
+            "correct": true,
+            "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:23.6392 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, visto que este é um papel da Seguridade Social, conforme previsto na CF88.",
+              "sanitized_complete": "Incorreto, visto que este é um papel da Seguridade Social, conforme previsto na CF88.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:42:04.084628 +0000 UTC",
+              "updated_at": "2022-02-03 18:42:22.956436 +0000 UTC"
+            },
+            "answer_percentage": 89,
+            "answers": 209
+          },
+          {
+            "id": "f3745f32-5658-424f-948c-8af790421591",
+            "position": "2",
+            "body": "Deve atender a todos, sem privilégios.",
+            "sanitized_body": "Deve atender a todos, sem privilégios.",
+            "correct": false,
+            "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:23.786663 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, pois todos devem ser atendidos (universalidade), sem qualquer privilégio.",
+              "sanitized_complete": "Correto, pois todos devem ser atendidos (universalidade), sem qualquer privilégio.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:42:04.056031 +0000 UTC",
+              "updated_at": "2022-02-03 18:42:22.972405 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 8
+          },
+          {
+            "id": "c211f3f9-cc80-4033-9611-ccaf0fa37af2",
+            "position": "3",
+            "body": "Deve promover a participação popular.",
+            "sanitized_body": "Deve promover a participação popular.",
+            "correct": false,
+            "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:23.932722 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Como vimos na introdução, trata-se de um princípio doutrinário do SUS.",
+              "sanitized_complete": "Correto. Como vimos na introdução, trata-se de um princípio doutrinário do SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:42:04.107946 +0000 UTC",
+              "updated_at": "2022-02-03 18:42:22.986077 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "4e831354-a7e9-4ba7-b9c8-c6b1f6e25c77",
+            "position": "4",
+            "body": "Deve promover assistência integral à saúde da população, universalmente.",
+            "sanitized_body": "Deve promover assistência integral à saúde da população, universalmente.",
+            "correct": false,
+            "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:24.094832 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, visto que estamos falando de princípios doutrinários do SUS (integralidade e universalidade).",
+              "sanitized_complete": "Correto, visto que estamos falando de princípios doutrinários do SUS (integralidade e universalidade).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:42:04.062864 +0000 UTC",
+              "updated_at": "2022-02-03 18:42:22.95795 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público, constitui o Sistema Único de Saúde (SUS). Em relação ao SUS, assinale a afirmativa INCORRETA.",
+        "statement_text": "O conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público, constitui o Sistema Único de Saúde (SUS). Em relação ao SUS, assinale a afirmativa INCORRETA.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 16:43:38.526038 +0000 UTC",
+        "solution": {
+          "_key": "3a8c368c-c135-4e62-a817-a071a61ec532",
+          "complete": "Estrategista, antes de respondermos esta questão, vamos relembrar os princípios e diretrizes do SUS, de acordo com a Constituição Federal de 1988:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C6FE1005-B63C-F027-3004-A21B3D48A85C/C6FE1005-B63C-F027-3004-A21B3D48A85C-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos às alternativas!</div>",
+          "sanitized_complete": "Estrategista, antes de respondermos esta questão, vamos relembrar os princípios e diretrizes do SUS, de acordo com a Constituição Federal de 1988:Vamos às alternativas!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 18:42:04.158231 +0000 UTC",
+          "updated_at": "2022-02-03 18:42:23.064178 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "conjunto-coes-servic455b0fc6be",
+        "public": true
+      },
+      {
+        "id": "4000153762",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2010,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "38C06328-137D-69CF-07F6-944C0CD30ACF"
+              },
+              {
+                "type": "ANSWER",
+                "url": "19061E55-415C-CF46-86FE-D1268685AE3E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:39:09Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1044482c-57f4-459c-b891-558b83ed53b3",
+            "position": "0",
+            "body": "é feita por meio do poder legislativo.",
+            "sanitized_body": "é feita por meio do poder legislativo.",
+            "correct": false,
+            "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:08.638422 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 17:52:34.633908 +0000 UTC",
+              "updated_at": "2022-02-03 17:52:34.862645 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          },
+          {
+            "id": "fa559780-b558-4ca9-a2e4-811ab6d66042",
+            "position": "1",
+            "body": "significa que o acesso ao SUS deve ser garantido a todos.\n",
+            "sanitized_body": "significa que o acesso ao SUS deve ser garantido a todos.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:08.800656 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 17:52:34.604452 +0000 UTC",
+              "updated_at": "2022-02-03 17:52:34.882514 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 35
+          },
+          {
+            "id": "7e97cb8d-4409-482a-8155-153a0226baff",
+            "position": "2",
+            "body": "significa que os membros dos Conselhos de Saúde devem ser indicados pelo governo.\n",
+            "sanitized_body": "significa que os membros dos Conselhos de Saúde devem ser indicados pelo governo.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:08.970714 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 17:52:34.634675 +0000 UTC",
+              "updated_at": "2022-02-03 17:52:34.852689 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "a386d40a-657c-4270-8696-15600b4d95bf",
+            "position": "3",
+            "body": "significa que todos devem ser atendidos, sem preconceitos ou privilégios de qualquer espécie.\n",
+            "sanitized_body": "significa que todos devem ser atendidos, sem preconceitos ou privilégios de qualquer espécie.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:09.128661 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 17:52:34.608709 +0000 UTC",
+              "updated_at": "2022-02-03 17:52:34.863543 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 22
+          },
+          {
+            "id": "1ac9f724-44a2-456a-99f3-2af56dd9c893",
+            "position": "4",
+            "body": "é feita por meio dos Conselhos e Conferências de Saúde.\n",
+            "sanitized_body": "é feita por meio dos Conselhos e Conferências de Saúde.\n",
+            "correct": true,
+            "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+            "updated_at": "2021-10-13 13:36:09.302071 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 17:52:34.640884 +0000 UTC",
+              "updated_at": "2022-02-03 17:52:34.863543 +0000 UTC"
+            },
+            "answer_percentage": 71,
+            "answers": 150
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Contemplando o processo democrático participativo, um dos princípios do Sistema Único de Saúde (SUS) considera essencial a participação popular que",
+        "statement_text": "Contemplando o processo democrático participativo, um dos princípios do Sistema Único de Saúde (SUS) considera essencial a participação popular que",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 16:42:30.832252 +0000 UTC",
+        "solution": {
+          "_key": "7807cc8a-bff5-48f0-b4b1-8e98a29a310b",
+          "complete": "Estrategista, um dos princípios organizativos do SUS, de acordo com a Constituição Federal de 1988 é justamente a participação popular. Veja abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/EEA3FCDE-A4AB-C042-958C-94D237C21832/EEA3FCDE-A4AB-C042-958C-94D237C21832-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Esta participação popular na gestão do SUS ocorre graças a ampla representatividade nas Conferências e Conselhos. Observe abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/E10B09C2-9661-D6D8-C58D-D6F1A6D1C1C4/E10B09C2-9661-D6D8-C58D-D6F1A6D1C1C4-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como vimos, metade (50%) da representação dessas instituições é preenchida por populares, garantido à comunidade participação fundamental na realização de políticas públicas em saúde.</div><div><br></div><div>Portanto, resposta letra E.</div>",
+          "sanitized_complete": "Estrategista, um dos princípios organizativos do SUS, de acordo com a Constituição Federal de 1988 é justamente a participação popular. Veja abaixo:Esta participação popular na gestão do SUS ocorre graças a ampla representatividade nas Conferências e Conselhos. Observe abaixo:Como vimos, metade (50%) da representação dessas instituições é preenchida por populares, garantido à comunidade participação fundamental na realização de políticas públicas em saúde.Portanto, resposta letra E.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 17:52:34.704619 +0000 UTC",
+          "updated_at": "2022-02-03 17:52:34.893319 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153762-720.mp4",
+        "unlisted": false,
+        "slug": "Contemplando-processo206b8003b2",
+        "public": true
+      },
+      {
+        "id": "4000153761",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2010,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "38C06328-137D-69CF-07F6-944C0CD30ACF"
+              },
+              {
+                "type": "ANSWER",
+                "url": "19061E55-415C-CF46-86FE-D1268685AE3E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:39:09Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "59d8ea51-4315-4171-8192-d804b2eae657",
+            "position": "0",
+            "body": "universalidade, integralidade e equidade.\n",
+            "sanitized_body": "universalidade, integralidade e equidade.\n",
+            "correct": true,
+            "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+            "updated_at": "2021-10-13 13:35:50.21938 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:18:41.412074 +0000 UTC",
+              "updated_at": "2022-02-03 18:18:41.628173 +0000 UTC"
+            },
+            "answer_percentage": 97,
+            "answers": 205
+          },
+          {
+            "id": "597c5aea-c4f5-4a3e-ba96-a171b2381078",
+            "position": "1",
+            "body": "universalidade, integralidade e descentralização.\n",
+            "sanitized_body": "universalidade, integralidade e descentralização.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+            "updated_at": "2021-10-13 13:35:50.401476 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:18:41.407913 +0000 UTC",
+              "updated_at": "2022-02-03 18:18:41.633396 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "91837b5c-69e1-444b-98d0-649ac3497788",
+            "position": "2",
+            "body": "descentralização, integralidade e equidade.\n",
+            "sanitized_body": "descentralização, integralidade e equidade.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+            "updated_at": "2021-10-13 13:35:50.56289 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:18:41.408081 +0000 UTC",
+              "updated_at": "2022-02-03 18:18:41.614747 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "cd33e171-42fe-4d6a-bd9f-208fd7cd9610",
+            "position": "3",
+            "body": "equidade, universalidade e hierarquização. ",
+            "sanitized_body": "equidade, universalidade e hierarquização. ",
+            "correct": false,
+            "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+            "updated_at": "2021-10-13 13:35:50.719808 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:18:41.408973 +0000 UTC",
+              "updated_at": "2022-02-03 18:18:41.652611 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "5d6c2734-a727-4f08-921e-bb2d95aa2028",
+            "position": "4",
+            "body": "descentralização, hierarquização e equidade.",
+            "sanitized_body": "descentralização, hierarquização e equidade.",
+            "correct": false,
+            "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+            "updated_at": "2021-10-13 13:35:50.897448 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:18:41.404281 +0000 UTC",
+              "updated_at": "2022-02-03 18:18:41.634947 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Os princípios doutrinários relacionados à legitimidade do Sistema Único de Saúde são:",
+        "statement_text": "Os princípios doutrinários relacionados à legitimidade do Sistema Único de Saúde são:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 16:41:32.179925 +0000 UTC",
+        "solution": {
+          "_key": "e9187ebb-d433-41b2-96ec-841626a68ce7",
+          "complete": "Estrategista, observe abaixo os princípios doutrinários e os princípios organizativos do SUS, de acordo com a Constituição Federal de 1988:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/ADA3523C-BC80-9ABE-768F-0A5A78DAB0A2/ADA3523C-BC80-9ABE-768F-0A5A78DAB0A2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Portanto, resposta letra A.</div>",
+          "sanitized_complete": "Estrategista, observe abaixo os princípios doutrinários e os princípios organizativos do SUS, de acordo com a Constituição Federal de 1988:Portanto, resposta letra A.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 18:18:41.491794 +0000 UTC",
+          "updated_at": "2022-02-03 18:18:41.685461 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153761-720.mp4",
+        "unlisted": false,
+        "slug": "principios1263591d83",
+        "public": true
+      },
+      {
+        "id": "4000153760",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2010,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "38C06328-137D-69CF-07F6-944C0CD30ACF"
+              },
+              {
+                "type": "ANSWER",
+                "url": "19061E55-415C-CF46-86FE-D1268685AE3E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:39:09Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "06d3afc738454521a8666f1a0e3174dd",
+            "name": "Movimento de Reforma Sanitária",
+            "is_master": false,
+            "master_id": "85602f8060244f3dad77257e4a25be8f",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]História do Sistema Único de Saúde (SUS)[$$]Assistência à Saúde no Brasil no Período Pré-Constitucional[$$]Período pós-colonial[$$]Movimento de Reforma Sanitária",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c0cc280c-9959-43ca-803a-d6f1e6e4db90",
+            "position": "0",
+            "body": "Estimular a promoção da Saúde apenas à população doente.",
+            "sanitized_body": "Estimular a promoção da Saúde apenas à população doente.",
+            "correct": false,
+            "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+            "updated_at": "2022-01-21 12:37:18.599811 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois um dos princípios do SUS é a universalidade.",
+              "sanitized_complete": "Incorreto, pois um dos princípios do SUS é a universalidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-29 21:48:29.591266 +0000 UTC",
+              "updated_at": "2022-02-03 20:34:56.669419 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 6
+          },
+          {
+            "id": "b6c0430f-f3a5-4d99-b574-29d94c4d2e20",
+            "position": "1",
+            "body": "Formular e executar políticas de saúde, econômicas e sociais no estabelecimento das ações dos serviços de saúde.",
+            "sanitized_body": "Formular e executar políticas de saúde, econômicas e sociais no estabelecimento das ações dos serviços de saúde.",
+            "correct": true,
+            "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+            "updated_at": "2022-01-21 12:37:18.663748 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, conforme previsto no art. 2o da Lei 8.080/1990.",
+              "sanitized_complete": "Correto, conforme previsto no art. 2o da Lei 8.080/1990.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-29 21:48:29.577594 +0000 UTC",
+              "updated_at": "2022-02-03 20:34:56.661993 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 283
+          },
+          {
+            "id": "4b2058a2-622c-43b8-a27c-619f4e3a43af",
+            "position": "2",
+            "body": " Estabelecer condições que assegurem apenas à população doente o acesso aos serviços de saúde.",
+            "sanitized_body": " Estabelecer condições que assegurem apenas à população doente o acesso aos serviços de saúde.",
+            "correct": false,
+            "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+            "updated_at": "2022-01-21 12:37:18.719378 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois todos tem direito de usufruir o SUS.",
+              "sanitized_complete": "Incorreto, pois todos tem direito de usufruir o SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-29 21:48:30.073456 +0000 UTC",
+              "updated_at": "2022-02-03 20:34:56.68434 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "09c40f5b-caa4-4d9e-a801-a42a75d3fe89",
+            "position": "3",
+            "body": "Conscientizar que o dever do Estado não exclui os deveres da sociedade.\n",
+            "sanitized_body": "Conscientizar que o dever do Estado não exclui os deveres da sociedade.\n",
+            "correct": false,
+            "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+            "updated_at": "2022-01-21 12:37:18.773794 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. Apesar da premissa fazer sentido, isso não está previsto no texto constitucional, e sim na Lei 8.080/1990.",
+              "sanitized_complete": "Incorreto. Apesar da premissa fazer sentido, isso não está previsto no texto constitucional, e sim na Lei 8.080/1990.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-29 21:48:30.073269 +0000 UTC",
+              "updated_at": "2022-02-03 20:34:56.666974 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 28
+          },
+          {
+            "id": "85046057-6925-4e4e-92dd-ce45614e6593",
+            "position": "4",
+            "body": "Fortalecer o modelo privatista de saúde.",
+            "sanitized_body": "Fortalecer o modelo privatista de saúde.",
+            "correct": false,
+            "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+            "updated_at": "2022-01-21 12:37:18.826809 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, haja vista que o fortalecimento adequado é do modelo publico e universal.",
+              "sanitized_complete": "Incorreto, haja vista que o fortalecimento adequado é do modelo publico e universal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-29 21:48:29.580034 +0000 UTC",
+              "updated_at": "2022-02-03 20:34:56.664707 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A Constituição Federal brasileira (1988) define saúde como <i>direito do cidadão e dever do Estado</i>, assim deve o Sistema de Saúde ser único e oferecer as condições indispensáveis para seu pleno funcionamento, consistindo em:",
+        "statement_text": "A Constituição Federal brasileira (1988) define saúde como direito do cidadão e dever do Estado, assim deve o Sistema de Saúde ser único e oferecer as condições indispensáveis para seu pleno funcionamento, consistindo em:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 16:40:30.267089 +0000 UTC",
+        "forum_id": "735d93dd-67fc-445c-9319-b788e706f475",
+        "solution": {
+          "_key": "2e330739-921d-4507-ae45-e4b785494285",
+          "complete": "Resposta B.",
+          "sanitized_complete": "Resposta B.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-29 21:48:30.073145 +0000 UTC",
+          "updated_at": "2022-02-03 20:34:56.723518 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Constituica-Federal34c8ecbefb",
+        "public": true
+      },
+      {
+        "id": "4000154086",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2007,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "14994229-77BE-17B2-0781-4B5DB74F305F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-10-01T23:53:25Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "52212aa44ed84514903711d99bf5fa76",
+            "name": "Atenção Primária à Saúde (APS) no Brasil",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Atenção Primária à Saúde (APS) no Brasil",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a718908b-6efb-4a45-b639-8a326afab310",
+            "position": "0",
+            "body": "Participação comunitária;",
+            "sanitized_body": "Participação comunitária;",
+            "correct": false,
+            "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+            "updated_at": "2021-11-13 19:06:58.085402 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto! A participação popular é um dos princípios organizativos do SUS.",
+              "sanitized_complete": "Correto! A participação popular é um dos princípios organizativos do SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:13:09.354139 +0000 UTC",
+              "updated_at": "2022-02-03 18:15:55.155925 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 27
+          },
+          {
+            "id": "79f0750a-4681-419f-afb6-3714c11a3e94",
+            "position": "1",
+            "body": "Hierarquização dos serviços de Saúde;\n",
+            "sanitized_body": "Hierarquização dos serviços de Saúde;\n",
+            "correct": false,
+            "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+            "updated_at": "2021-11-13 19:06:58.231661 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, já que hierarquização é um dos princípios organizativos do SUS.",
+              "sanitized_complete": "Correto, já que hierarquização é um dos princípios organizativos do SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:13:09.373083 +0000 UTC",
+              "updated_at": "2022-02-03 18:15:55.188383 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 81
+          },
+          {
+            "id": "00fc1675-9320-4961-9205-b6e2fc38e3a1",
+            "position": "2",
+            "body": "Alcance universal das ações;",
+            "sanitized_body": "Alcance universal das ações;",
+            "correct": false,
+            "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+            "updated_at": "2021-11-13 19:06:58.408495 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, pois universalidade é um dos princípios doutrinários do SUS.",
+              "sanitized_complete": "Correto, pois universalidade é um dos princípios doutrinários do SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:13:09.365231 +0000 UTC",
+              "updated_at": "2022-02-03 18:15:55.205496 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 69
+          },
+          {
+            "id": "07a0a65e-26cf-425c-9a34-4a1dda289ca9",
+            "position": "3",
+            "body": "Planejamento das ações de maneira centralizada;\n",
+            "sanitized_body": "Planejamento das ações de maneira centralizada;\n",
+            "correct": true,
+            "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+            "updated_at": "2021-11-13 19:06:58.561097 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois o princípio organizativo fala em DESCENTRALIZAÇÃO.",
+              "sanitized_complete": "Incorreto, pois o princípio organizativo fala em DESCENTRALIZAÇÃO.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:13:09.384682 +0000 UTC",
+              "updated_at": "2022-02-03 18:15:55.157628 +0000 UTC"
+            },
+            "answer_percentage": 66,
+            "answers": 425
+          },
+          {
+            "id": "23d9bb88-4435-475c-9957-0fb195482f4a",
+            "position": "4",
+            "body": "Adaptação das ações programadas às condições da comunidade",
+            "sanitized_body": "Adaptação das ações programadas às condições da comunidade",
+            "correct": false,
+            "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+            "updated_at": "2021-11-13 19:06:58.711642 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, pois diz respeito à descentralização e comando único, ou seja, descentraliza-se com direção aos municípios, que podem realizar a governança do sistema de maneira adequada à realidade de sua comunidade.",
+              "sanitized_complete": "Correto, pois diz respeito à descentralização e comando único, ou seja, descentraliza-se com direção aos municípios, que podem realizar a governança do sistema de maneira adequada à realidade de sua comunidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 18:13:09.380103 +0000 UTC",
+              "updated_at": "2022-02-03 18:15:55.187054 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 40
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "São características fundamentais da Atenção Primária à Saúde, exceto (marcar a resposta certa):",
+        "statement_text": "São características fundamentais da Atenção Primária à Saúde, exceto (marcar a resposta certa):",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-02 23:00:24.290365 +0000 UTC",
+        "solution": {
+          "_key": "524c0534-498c-4e6c-adc4-7cf4c196884c",
+          "complete": "Estrategista, para respondermos esta questão precisamos conhecer os princípios e diretrizes do SUS. Veja abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4A9B8AD0-F050-919E-120C-EFD8CCA7123C/4A9B8AD0-F050-919E-120C-EFD8CCA7123C-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div>Vamos às alternativas!<br><div><br></div></div>",
+          "sanitized_complete": "Estrategista, para respondermos esta questão precisamos conhecer os princípios e diretrizes do SUS. Veja abaixo:Vamos às alternativas!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 18:13:09.448037 +0000 UTC",
+          "updated_at": "2022-02-03 18:15:55.234509 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Sa-caracteristicas13dd86afe3",
+        "public": true
+      },
+      {
+        "id": "4000154049",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2006,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "E81A5393-A304-376F-7F23-55BCC988DC56"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-10-01T23:56:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "10fe83ff-f328-42c8-a326-3b580a1cbf75",
+            "position": "0",
+            "body": "conjunto articulado e contínuo das ações e serviços preventivos e curativos\n",
+            "sanitized_body": "conjunto articulado e contínuo das ações e serviços preventivos e curativos\n",
+            "correct": true,
+            "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+            "updated_at": "2021-10-13 13:29:03.797833 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto.  A “Integralidade” deve considerar o indivíduo como um todo, atendendo a todas as suas necessidades (promoção da saúde, prevenção de doenças, tratamento e reabilitação), além de articular as ações de saúde com outras políticas públicas complementares.",
+              "sanitized_complete": "Correto.  A “Integralidade” deve considerar o indivíduo como um todo, atendendo a todas as suas necessidades (promoção da saúde, prevenção de doenças, tratamento e reabilitação), além de articular as ações de saúde com outras políticas públicas complementares.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:42:18.264884 +0000 UTC",
+              "updated_at": "2022-01-26 13:43:54.508496 +0000 UTC"
+            },
+            "answer_percentage": 61,
+            "answers": 151
+          },
+          {
+            "id": "0d0a2b8a-1434-4c03-a64b-2253d83277bb",
+            "position": "1",
+            "body": "integração, em nível executivo, das ações de saúde e meio ambiente;",
+            "sanitized_body": "integração, em nível executivo, das ações de saúde e meio ambiente;",
+            "correct": false,
+            "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+            "updated_at": "2021-10-13 13:29:03.962986 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois é a integralidade de todos os aspectos biopsicossociais, que fazem parte dos determinantes sociais em saúde.",
+              "sanitized_complete": "Incorreto, pois é a integralidade de todos os aspectos biopsicossociais, que fazem parte dos determinantes sociais em saúde.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:42:18.177808 +0000 UTC",
+              "updated_at": "2022-01-26 13:43:54.496531 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 10
+          },
+          {
+            "id": "7ca34007-cd08-471a-9ae4-066f8de05eaa",
+            "position": "2",
+            "body": "igualdade de acesso aos serviços de saúde nos diversos níveis de assistência;\n",
+            "sanitized_body": "igualdade de acesso aos serviços de saúde nos diversos níveis de assistência;\n",
+            "correct": false,
+            "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+            "updated_at": "2021-10-13 13:29:04.117311 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois este é o princípio da igualdade, previsto na Lei 8.080/90.",
+              "sanitized_complete": "Incorreto, pois este é o princípio da igualdade, previsto na Lei 8.080/90.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:42:18.120823 +0000 UTC",
+              "updated_at": "2022-01-26 13:43:54.496368 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 53
+          },
+          {
+            "id": "07476164-91d1-4807-aed9-64102cc3459e",
+            "position": "3",
+            "body": "cooperação do governo e sociedade, visando à cobertura assistencial e à qualidade de serviço;",
+            "sanitized_body": "cooperação do governo e sociedade, visando à cobertura assistencial e à qualidade de serviço;",
+            "correct": false,
+            "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+            "updated_at": "2021-10-13 13:29:04.28896 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto. Este não é um conceito de integralidade.",
+              "sanitized_complete": "Incorreto. Este não é um conceito de integralidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:42:18.267566 +0000 UTC",
+              "updated_at": "2022-01-26 13:43:54.510395 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 9
+          },
+          {
+            "id": "ab76f028-1a08-46ea-8518-8a6fcdf9e134",
+            "position": "4",
+            "body": "conjunto dos diversos recursos das várias esferas do governo, visando à cobertura assistencial.",
+            "sanitized_body": "conjunto dos diversos recursos das várias esferas do governo, visando à cobertura assistencial.",
+            "correct": false,
+            "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+            "updated_at": "2021-10-13 13:29:04.441911 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, como vimos acima.",
+              "sanitized_complete": "Incorreto, como vimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:42:17.94515 +0000 UTC",
+              "updated_at": "2022-01-26 13:43:54.497373 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 24
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O conceito de integralidade previsto no Sistema Único de Saúde (SUS) compreende:",
+        "statement_text": "O conceito de integralidade previsto no Sistema Único de Saúde (SUS) compreende:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-02 21:47:47.169701 +0000 UTC",
+        "solution": {
+          "_key": "90f2157f-f89c-4738-bf49-895cd70538e3",
+          "complete": "Correta letra A",
+          "sanitized_complete": "Correta letra A",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-26 13:42:18.265501 +0000 UTC",
+          "updated_at": "2022-01-26 13:43:54.52092 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "conceito-integralidade126cf79f77",
+        "public": true
+      },
+      {
+        "id": "4000153956",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2005,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "0FB5B58D-B771-95C9-11EA-590C8D79864C"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-10-01T23:57:43Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5bd5994a-abfb-46cd-9ddf-a4e5428dbfcc",
+            "position": "0",
+            "body": "Universalização do acesso;\n",
+            "sanitized_body": "Universalização do acesso;\n",
+            "correct": false,
+            "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+            "updated_at": "2022-01-26 13:57:32.961126 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:59:36.096105 +0000 UTC",
+              "updated_at": "2022-01-26 13:59:36.452712 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 8
+          },
+          {
+            "id": "28fbc089-7952-4be5-a867-9a2a279a3dda",
+            "position": "1",
+            "body": "Descentralização; regionalização e hierarquização dos serviços de saúde;\n",
+            "sanitized_body": "Descentralização; regionalização e hierarquização dos serviços de saúde;\n",
+            "correct": false,
+            "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+            "updated_at": "2022-01-26 13:57:33.013004 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:59:36.09904 +0000 UTC",
+              "updated_at": "2022-01-26 13:59:36.441948 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 8
+          },
+          {
+            "id": "13de8d7f-a60d-459e-9fb2-eaef15d68fe0",
+            "position": "2",
+            "body": "Integralidade e igualdade da assistência à saúde;",
+            "sanitized_body": "Integralidade e igualdade da assistência à saúde;",
+            "correct": false,
+            "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+            "updated_at": "2022-01-26 13:57:33.056094 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:59:36.102646 +0000 UTC",
+              "updated_at": "2022-01-26 13:59:36.451628 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 25
+          },
+          {
+            "id": "07cd39e1-b4d7-4d2a-a11a-953c803bf175",
+            "position": "3",
+            "body": "Participação da comunidade na execução da atenção à saúde;",
+            "sanitized_body": "Participação da comunidade na execução da atenção à saúde;",
+            "correct": false,
+            "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+            "updated_at": "2022-01-26 13:57:33.096228 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:59:36.106766 +0000 UTC",
+              "updated_at": "2022-01-26 13:59:36.453392 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 15
+          },
+          {
+            "id": "fcd862ad-0796-428c-9525-5ad251b42807",
+            "position": "4",
+            "body": "Participação da iniciativa privada.\n",
+            "sanitized_body": "Participação da iniciativa privada.\n",
+            "correct": true,
+            "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+            "updated_at": "2022-01-26 13:57:33.141143 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 13:59:36.10506 +0000 UTC",
+              "updated_at": "2022-01-26 13:59:36.44979 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 216
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Qual dos itens abaixo não contempla princípio(s) ou diretriz(es) do Sistema Único de Saúde (SUS)?",
+        "statement_text": "Qual dos itens abaixo não contempla princípio(s) ou diretriz(es) do Sistema Único de Saúde (SUS)?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-02 14:52:44.978362 +0000 UTC",
+        "solution": {
+          "_key": "19378c2c-d43e-4f03-ac95-80d36264150f",
+          "complete": "Estrategista, observe abaixo os princípios previstos na Lei 8.080/90:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/581A7534-B43F-29D0-CCEE-CB67D893FADD/581A7534-B43F-29D0-CCEE-CB67D893FADD-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Note que a p<b>articipação da iniciativa privada não é um princípio ou diretriz do SUS</b>, embora seja prevista na CF de 1988.</div><div><br></div><div>\"Art. 199. A assistência à saúde é livre à iniciativa privada.\"</div><div><br></div><div>Resposta letra E</div><div><br></div>",
+          "sanitized_complete": "Estrategista, observe abaixo os princípios previstos na Lei 8.080/90:Note que a participação da iniciativa privada não é um princípio ou diretriz do SUS, embora seja prevista na CF de 1988.&#34;Art. 199. A assistência à saúde é livre à iniciativa privada.&#34;Resposta letra E",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-26 13:59:36.135334 +0000 UTC",
+          "updated_at": "2022-01-26 13:59:36.471933 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Qual-itens-na15ebf766af",
+        "public": true
+      },
+      {
+        "id": "4000153954",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2005,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "0FB5B58D-B771-95C9-11EA-590C8D79864C"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-10-01T23:57:43Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fa15b8f9-f459-421b-aaed-12cc128d6ea4",
+            "position": "0",
+            "body": "As instâncias colegiadas são as conferências e os conselhos de saúde;",
+            "sanitized_body": "As instâncias colegiadas são as conferências e os conselhos de saúde;",
+            "correct": true,
+            "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+            "updated_at": "2021-10-13 13:26:41.954694 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 14:12:28.211443 +0000 UTC",
+              "updated_at": "2022-01-26 14:12:50.942935 +0000 UTC"
+            },
+            "answer_percentage": 63,
+            "answers": 164
+          },
+          {
+            "id": "8491ebed-a943-4cf9-b1af-c8a5f1dbef8d",
+            "position": "1",
+            "body": "A gestão do Sistema Único de Saúde é delegada a funcionários de carreira e com experiência, exigindo pouca participação da comunidade.",
+            "sanitized_body": "A gestão do Sistema Único de Saúde é delegada a funcionários de carreira e com experiência, exigindo pouca participação da comunidade.",
+            "correct": false,
+            "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+            "updated_at": "2021-10-13 13:26:42.113176 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 14:12:28.098801 +0000 UTC",
+              "updated_at": "2022-01-26 14:12:50.963612 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 5
+          },
+          {
+            "id": "c03e6b49-3bc5-47b7-9799-f4646d3a5a8f",
+            "position": "2",
+            "body": "A gestão do Sistema Único de Saúde é delegada aos cargos de confiança do executivo, existindo pequena participação da comunidade.",
+            "sanitized_body": "A gestão do Sistema Único de Saúde é delegada aos cargos de confiança do executivo, existindo pequena participação da comunidade.",
+            "correct": false,
+            "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+            "updated_at": "2021-10-13 13:26:42.265051 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 14:12:28.136242 +0000 UTC",
+              "updated_at": "2022-01-26 14:12:50.940815 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 5
+          },
+          {
+            "id": "588c7b0f-853c-4362-bb11-184599893672",
+            "position": "3",
+            "body": "A participação da comunidade é garantida pela eleição legislativa;",
+            "sanitized_body": "A participação da comunidade é garantida pela eleição legislativa;",
+            "correct": false,
+            "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+            "updated_at": "2021-10-13 13:26:42.409375 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 14:12:28.119873 +0000 UTC",
+              "updated_at": "2022-01-26 14:12:50.954003 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 56
+          },
+          {
+            "id": "94f76b9b-f9f5-40f0-8f44-2169cbe960c1",
+            "position": "4",
+            "body": "A participação comunitária é representada apenas pelo Conselho Municipal de Saúde.",
+            "sanitized_body": "A participação comunitária é representada apenas pelo Conselho Municipal de Saúde.",
+            "correct": false,
+            "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+            "updated_at": "2021-10-13 13:26:42.56904 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-26 14:12:28.211441 +0000 UTC",
+              "updated_at": "2022-01-26 14:12:50.939377 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 32
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Quanto ao controle social na gestão do Sistema Único de Saúde, assinale a alternativa CORRETA:",
+        "statement_text": "Quanto ao controle social na gestão do Sistema Único de Saúde, assinale a alternativa CORRETA:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-02 14:48:51.952282 +0000 UTC",
+        "solution": {
+          "_key": "98f173c4-57c3-4308-8aee-beda420e571a",
+          "complete": "Estrategista, é um dos princípios organizativos do SUS a participação da comunidade, que é garantida através da representação popular nos Conselhos e Conferências de Saúde, em todos os níveis (municipal, estadual e nacional).<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8B53313F-A92A-3744-4890-F48B7C356392/8B53313F-A92A-3744-4890-F48B7C356392-400.png\"><!-- END:IMAGE_TO_REPLACE --><br><div><br></div><div>Lembre-se que o povo tem representatividade de 50% em cada um desses órgãos!</div><div><b><br></b></div><div><b>Portanto, resposta letra A</b></div></div>",
+          "sanitized_complete": "Estrategista, é um dos princípios organizativos do SUS a participação da comunidade, que é garantida através da representação popular nos Conselhos e Conferências de Saúde, em todos os níveis (municipal, estadual e nacional).Lembre-se que o povo tem representatividade de 50% em cada um desses órgãos!Portanto, resposta letra A",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-26 14:12:28.225761 +0000 UTC",
+          "updated_at": "2022-01-26 14:12:51.033137 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Quanto-controle-social15988c050b",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 38
+    }
+  }

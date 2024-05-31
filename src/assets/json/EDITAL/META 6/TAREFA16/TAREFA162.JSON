@@ -1,0 +1,555 @@
+{
+    "data": [
+      {
+        "id": "4000126799",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "c2065cd4ec6246a89cdbbf31a6a1d754",
+            "name": "Apresentação clínica",
+            "is_master": false,
+            "master_id": "c6c129ee16c64c85997b52fe0856e4da",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Câncer de pele[$$]Carcinoma basocelular[$$]Apresentação clínica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e525f77fcb124bb095642dae840f54c6",
+            "name": "Fatores de risco para câncer de pele não melanoma (CPNM)",
+            "is_master": false,
+            "master_id": "df14672167184beb8efa438afa1ab57b",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Câncer de pele[$$]Fatores de risco para câncer de pele não melanoma (CPNM)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "726646bf-56cd-49b1-a91d-0ba03df1da85",
+            "position": "0",
+            "body": "predisposição genética.",
+            "sanitized_body": "predisposição genética.",
+            "correct": false,
+            "created_at": "2020-09-25 00:05:05.386634 +0000 UTC",
+            "updated_at": "2020-10-31 16:58:22.860174 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A) Incorreta. A predisposição genética não está muito relacionada ao desenvolvimento do carcinoma basocelular.<div><br></div>",
+              "sanitized_complete": "Alternativa A) Incorreta. A predisposição genética não está muito relacionada ao desenvolvimento do carcinoma basocelular.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:03:13.840795 +0000 UTC",
+              "updated_at": "2020-11-04 21:15:25.354176 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          },
+          {
+            "id": "c08cf38a-e9ba-482a-b7b0-903e1d0c8487",
+            "position": "1",
+            "body": "exposição crônica a agrotóxicos.",
+            "sanitized_body": "exposição crônica a agrotóxicos.",
+            "correct": false,
+            "created_at": "2020-09-25 00:05:05.386634 +0000 UTC",
+            "updated_at": "2020-10-31 16:58:22.939381 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B) Incorreta. Os agrotóxicos também não estão implicados no desenvolvimento do carcinoma basocelular.<div><br></div>",
+              "sanitized_complete": "Alternativa B) Incorreta. Os agrotóxicos também não estão implicados no desenvolvimento do carcinoma basocelular.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:03:13.848288 +0000 UTC",
+              "updated_at": "2020-11-04 21:15:25.352172 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 57
+          },
+          {
+            "id": "5e6b9f66-2823-48cd-b6ae-7bff5884dfb5",
+            "position": "2",
+            "body": "exposição crônica a radiação ionizante.",
+            "sanitized_body": "exposição crônica a radiação ionizante.",
+            "correct": false,
+            "created_at": "2020-09-25 00:05:05.386634 +0000 UTC",
+            "updated_at": "2020-10-31 16:58:23.000308 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C) Incorreta. A exposição crônica à radiação ionizante está relacionada ao surgimento do carcinoma espinocelular, porém não possui relação com carcinoma basocelular.<div><br></div>",
+              "sanitized_complete": "Alternativa C) Incorreta. A exposição crônica à radiação ionizante está relacionada ao surgimento do carcinoma espinocelular, porém não possui relação com carcinoma basocelular.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:03:13.855337 +0000 UTC",
+              "updated_at": "2020-11-04 21:15:25.354196 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 96
+          },
+          {
+            "id": "8c81a907-220a-44bd-9522-d938d4ba1742",
+            "position": "3",
+            "body": "exposição solar cumulativa prolongada.",
+            "sanitized_body": "exposição solar cumulativa prolongada.",
+            "correct": true,
+            "created_at": "2020-09-25 00:05:05.386634 +0000 UTC",
+            "updated_at": "2020-10-31 16:58:23.068617 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D) Correta. A exposição crônica à radiação ultravioleta é o principal fator de risco para o desenvolvimento do carcinoma basocelular. Por isso, a medida preventiva mais importante é evitar o excesso de radiação UV e utilizar filtro solar.<div><br></div>",
+              "sanitized_complete": "Alternativa D) Correta. A exposição crônica à radiação ultravioleta é o principal fator de risco para o desenvolvimento do carcinoma basocelular. Por isso, a medida preventiva mais importante é evitar o excesso de radiação UV e utilizar filtro solar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 13:03:13.849652 +0000 UTC",
+              "updated_at": "2020-11-04 21:15:25.358248 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 918
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente com 66 anos de idade, trabalhador rural, vem à consulta devido à lesão de pele que não cicatriza há várias semanas. Ao exame apresenta lesão de 1,5 cm em pescoço, nodular rósea e perolada nos bordos, com sinais de telangectasias, levemente ulcerada no centro, com depressão central, não pruriginosa, sem sinais de infecção, sem sinais de queratose actínica. Para a paciente acima, o fator de risco mais importante é",
+        "statement_text": "Um paciente com 66 anos de idade, trabalhador rural, vem à consulta devido à lesão de pele que não cicatriza há várias semanas. Ao exame apresenta lesão de 1,5 cm em pescoço, nodular rósea e perolada nos bordos, com sinais de telangectasias, levemente ulcerada no centro, com depressão central, não pruriginosa, sem sinais de infecção, sem sinais de queratose actínica. Para a paciente acima, o fator de risco mais importante é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 00:05:05.386634 +0000 UTC",
+        "solution": {
+          "_key": "32dd5b1c-15f3-4beb-ba41-68cb75db9b8e",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Nosso paciente apresenta uma lesão nodular de 1,5 cm, com bordas peroladas e telangectaias. A descrição de bordas peroladas e telangectasias basta para o diagnóstico de carcinoma basocelular. Guarde muito bem essa descrição, pois é clássica em provas.&nbsp;<div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DNosso paciente apresenta uma lesão nodular de 1,5 cm, com bordas peroladas e telangectaias. A descrição de bordas peroladas e telangectasias basta para o diagnóstico de carcinoma basocelular. Guarde muito bem essa descrição, pois é clássica em provas. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+          "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+          "author_profile": {
+            "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+            "full_name": "Bruno de Castro e Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+            "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-06 13:03:14.058143 +0000 UTC",
+          "updated_at": "2020-11-04 21:15:25.448445 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126799-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-66-anos710d500800",
+        "public": true
+      },
+      {
+        "id": "4000127013",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F38DC711-F3BE-A057-4DBE-6A6E29AFCFD8"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-03T18:53:43Z",
+            "updated_at": "2020-11-25T18:18:11Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0d97d1a76c784085b3ab7f0ffb2f635b",
+            "name": "Clínica e tipos histológicos",
+            "is_master": false,
+            "master_id": "465ecd4b14a6483cae6c90e5fe8562e3",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Câncer de pele[$$]Melanoma[$$]Clínica e tipos histológicos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "94637442-9d7c-4aed-9865-99567360d3be",
+            "position": "0",
+            "body": "Melanoma disseminado superficial.",
+            "sanitized_body": "Melanoma disseminado superficial.",
+            "correct": false,
+            "created_at": "2020-09-25 04:25:59.221216 +0000 UTC",
+            "updated_at": "2020-10-31 16:59:19.362465 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Alternativa A) Incorreta. Melanoma disseminado superficial é outro nome para melanoma extensivo superficial.</div><div><br></div>",
+              "sanitized_complete": "Alternativa A) Incorreta. Melanoma disseminado superficial é outro nome para melanoma extensivo superficial.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 12:22:42.361839 +0000 UTC",
+              "updated_at": "2020-11-04 21:36:22.789322 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 32
+          },
+          {
+            "id": "6081d256-b4e0-43fa-aa4e-114976036e19",
+            "position": "1",
+            "body": "Melanoma lentiginoso maligno.",
+            "sanitized_body": "Melanoma lentiginoso maligno.",
+            "correct": true,
+            "created_at": "2020-09-25 04:25:59.221216 +0000 UTC",
+            "updated_at": "2020-10-31 16:59:19.415817 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B) Correta. Como falamos anteriormente, esse é o subtipo histológico que acomete, principalmente, idosos e ocorre exclusivamente em áreas fotoexpostas.<div><br></div>",
+              "sanitized_complete": "Alternativa B) Correta. Como falamos anteriormente, esse é o subtipo histológico que acomete, principalmente, idosos e ocorre exclusivamente em áreas fotoexpostas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 12:22:42.354632 +0000 UTC",
+              "updated_at": "2020-11-04 21:36:22.802113 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 310
+          },
+          {
+            "id": "67474a5a-fa14-4351-b0fd-3953b933a7b1",
+            "position": "2",
+            "body": "Melanoma lentiginoso das extremidades.",
+            "sanitized_body": "Melanoma lentiginoso das extremidades.",
+            "correct": false,
+            "created_at": "2020-09-25 04:25:59.221216 +0000 UTC",
+            "updated_at": "2020-10-31 16:59:19.468794 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C) Incorreta. Melanoma lentiginoso das extremidades é sinônimo de lentiginoso acral.<div><br></div>",
+              "sanitized_complete": "Alternativa C) Incorreta. Melanoma lentiginoso das extremidades é sinônimo de lentiginoso acral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 12:22:42.346964 +0000 UTC",
+              "updated_at": "2020-11-04 21:36:22.787161 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 20
+          },
+          {
+            "id": "bf2b881e-45c6-4af4-8a5f-9ecd47b9f118",
+            "position": "3",
+            "body": "Melanoma nodular.",
+            "sanitized_body": "Melanoma nodular.",
+            "correct": false,
+            "created_at": "2020-09-25 04:25:59.221216 +0000 UTC",
+            "updated_at": "2020-10-31 16:59:19.52992 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D) Incorreta. A descrição do nodular, como falamos, é de um nódulo enegrecido de crescimento rápido.<div><br></div>",
+              "sanitized_complete": "Alternativa D) Incorreta. A descrição do nodular, como falamos, é de um nódulo enegrecido de crescimento rápido.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-10-06 12:22:42.359281 +0000 UTC",
+              "updated_at": "2020-11-04 21:36:22.784815 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 32
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Forma de melanoma que ocorre mais comumente em indivíduos idosos, com a pele lesada pelo sol, evidenciando-se como lesão achatada e intensamente pigmentada, com bordas irregulares e história de desenvolvimento lento. O texto trata de:",
+        "statement_text": "Forma de melanoma que ocorre mais comumente em indivíduos idosos, com a pele lesada pelo sol, evidenciando-se como lesão achatada e intensamente pigmentada, com bordas irregulares e história de desenvolvimento lento. O texto trata de:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 04:25:59.221216 +0000 UTC",
+        "solution": {
+          "_key": "9a75d2b1-3fd7-487d-9ed4-746c3727daf3",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Vamos aproveitar essa questão para relembrar os subtipos histológicos mais importantes do melanoma.<div><br><div>Extensivo superficial - é o tipo de melanoma mais comum. Apresenta-se com uma placa enegrecida, assimétrica, com bordas irregulares, múltiplas cores.</div><div><br></div><div>Lentigo Maligno - é exclusivo de áreas fotoexpostas! Acomete indivíduos mais velhos e estão, na maioria das vezes, localizados na face.</div><div><br></div><div>Acral lentiginoso - esse subtipo de melanoma é o mais comum em negros e asiáticos! Acomete as plantas dos pés e a região subungueal. Na unha, apresenta-se como melanoníquia estriada (pigmento linear da unha).</div><div><br></div></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BVamos aproveitar essa questão para relembrar os subtipos histológicos mais importantes do melanoma.Extensivo superficial - é o tipo de melanoma mais comum. Apresenta-se com uma placa enegrecida, assimétrica, com bordas irregulares, múltiplas cores.Lentigo Maligno - é exclusivo de áreas fotoexpostas! Acomete indivíduos mais velhos e estão, na maioria das vezes, localizados na face.Acral lentiginoso - esse subtipo de melanoma é o mais comum em negros e asiáticos! Acomete as plantas dos pés e a região subungueal. Na unha, apresenta-se como melanoníquia estriada (pigmento linear da unha).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+          "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+          "author_profile": {
+            "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+            "full_name": "Bruno de Castro e Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+            "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-06 12:22:42.547572 +0000 UTC",
+          "updated_at": "2020-11-04 21:36:22.865632 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127013-720.mp4",
+        "unlisted": false,
+        "slug": "Forma-melanoma-que359c1d26d1",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 27
+    }
+  }

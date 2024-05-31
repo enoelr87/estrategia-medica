@@ -1,0 +1,1641 @@
+{
+    "data": [
+      {
+        "id": "4000120613",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "b5052d41-de00-416a-b634-7a4e95ac80cf",
+                "name": "SP - Santa Casa de Misericórdia de Limeira - SCML"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2A653FB6-6676-0BF5-4BF6-1E53B1A990BE"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2020-09-07T21:44:12Z",
+            "location": {
+              "id": "5039"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "eb5377753f4649f3a8ac5a21407f0c4c",
+            "name": "Medidas gerais após acidente ofídico",
+            "is_master": false,
+            "master_id": "4913959793e74d8299b4156d017e6e18",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Ofidismo[$$]Medidas gerais após acidente ofídico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "774860d3-a96c-423c-9d2f-5e48e83fba9b",
+            "position": "0",
+            "body": "Manter o paciente deitado.&nbsp;",
+            "sanitized_body": "Manter o paciente deitado. ",
+            "correct": true,
+            "created_at": "2020-09-16 23:28:59.697719 +0000 UTC",
+            "updated_at": "2020-11-13 19:18:58.306967 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa \"a\" é correta.</b> Os primeiros cuidados após acidente com serpente incluem: lavar a ferida com água e sabão, manter o paciente deitado e hidratado, procurar atendimento médico e, se possível, levar o animal para identificação.&nbsp;",
+              "sanitized_complete": "Alternativa &#34;a&#34; é correta. Os primeiros cuidados após acidente com serpente incluem: lavar a ferida com água e sabão, manter o paciente deitado e hidratado, procurar atendimento médico e, se possível, levar o animal para identificação. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2020-10-22 21:12:21.288544 +0000 UTC"
+            },
+            "answer_percentage": 95,
+            "answers": 318
+          },
+          {
+            "id": "fb1edd8b-b6d6-4e3b-a9d5-5201f4633804",
+            "position": "1",
+            "body": "Fazer torniquete ou garrote.&nbsp;",
+            "sanitized_body": "Fazer torniquete ou garrote. ",
+            "correct": false,
+            "created_at": "2020-09-16 23:28:59.697719 +0000 UTC",
+            "updated_at": "2020-11-13 19:18:58.364056 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa \"b\" é incorreta: </b>torniquete pode causar ou intensificar necrose de extremidades e /ou do local da inoculação do veneno.",
+              "sanitized_complete": "Alternativa &#34;b&#34; é incorreta: torniquete pode causar ou intensificar necrose de extremidades e /ou do local da inoculação do veneno.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2020-10-22 21:12:21.290373 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 13
+          },
+          {
+            "id": "b0e32006-50c9-4a4b-baa8-4720a2fbd65f",
+            "position": "2",
+            "body": "Cortar o local da picada.&nbsp;",
+            "sanitized_body": "Cortar o local da picada. ",
+            "correct": false,
+            "created_at": "2020-09-16 23:28:59.697719 +0000 UTC",
+            "updated_at": "2020-11-13 19:18:58.422665 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa \"c\" é incorreta</b>, pois é contraindicado cortar o local da picada (risco de piora da lesão ou infecção secundária).",
+              "sanitized_complete": "Alternativa &#34;c&#34; é incorreta, pois é contraindicado cortar o local da picada (risco de piora da lesão ou infecção secundária).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2020-10-22 21:12:21.278337 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "2ca614c5-bd00-402b-9518-e58c1a5fb460",
+            "position": "3",
+            "body": "Perfurar ao redor do local da picada.&nbsp;",
+            "sanitized_body": "Perfurar ao redor do local da picada. ",
+            "correct": false,
+            "created_at": "2020-09-16 23:28:59.697719 +0000 UTC",
+            "updated_at": "2020-11-13 19:18:58.489606 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa \"d\" é incorreta</b>, pois é contraindicado perfurar ao redor do local da picada (risco de piora da lesão ou infecção secundária).<div><br></div>",
+              "sanitized_complete": "Alternativa &#34;d&#34; é incorreta, pois é contraindicado perfurar ao redor do local da picada (risco de piora da lesão ou infecção secundária).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2020-10-22 21:12:21.278497 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em caso de Ofidismo devemos:&nbsp; &nbsp;",
+        "statement_text": "Em caso de Ofidismo devemos:   ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-16 23:28:59.697719 +0000 UTC",
+        "solution": {
+          "_key": "5c6fabfc-bdf4-4b54-a6dc-11850b04a61e",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA A",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+          "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+          "author_profile": {
+            "id": "34f8a704-436c-4be2-987e-47289e06a577",
+            "full_name": "Sérgio Beduschi Filho",
+            "avatar_url": "https://static.accounts.estrategia.com/45a811911d773e52cc9d66d3287a782d",
+            "about_me": "Formado em Medicina pela Universidade Federal de Santa Catarina. Residência médica em Infectologia pela Secretaria de Estado da Saúde de Santa Catarina (Hospital Nereu Ramos). MBA em Gestão em Saúde e Controle de Infecção. Atua como médico infectologista no Hospital SOS Cardio e na Secretaria de Estado da Saúde de Santa Catarina, em Florianópolis/SC. Professor de Infectologia do curso Estratégia Med.\nCRM/SC: 14286\nRQE: 9232",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profsergioinfecto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-22 21:12:21.371073 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000120613-720.mp4",
+        "unlisted": false,
+        "slug": "caso-Ofidismo-devemos6b68c574f",
+        "public": true
+      },
+      {
+        "id": "4000099655",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "be5e12d9-8955-4db0-975a-529f56d4af7f",
+                "name": "SP - Universidade Estadual de Campinas - Unicamp (Faculdade de Ciências Médicas da Unicamp - FCM) (Hospital de Clínicas da Unicamp)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "59A5FDE9-700A-934B-623F-21B09B3B2825"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 80,
+            "created_at": "2020-09-06T18:21:16Z",
+            "updated_at": "2020-11-26T10:54:16Z",
+            "location": {
+              "id": "4842"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0e10dbc671b94624a92ee8d6c82c5870",
+            "name": "Acidente crotálico",
+            "is_master": false,
+            "master_id": "4913959793e74d8299b4156d017e6e18",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Ofidismo[$$]Acidente crotálico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "cf4c21ff-13ff-45eb-949b-1b94bd2086e9",
+            "position": "0",
+            "body": "<div>Crotálico.&nbsp;<br></div>",
+            "sanitized_body": "Crotálico. ",
+            "correct": true,
+            "created_at": "2020-09-15 19:25:18.383888 +0000 UTC",
+            "updated_at": "2021-07-12 13:30:32.752854 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa \"a\". Como você pode perceber, a paciente tem um quadro sugestivo de acidente crotálico, já que apresenta poucas manifestações no local da picada, tem um quadro neurológico de fraqueza de músculos faciais e tem elevação de CPK e mioglobinúria. Isso sugere ação neurotóxica e miotóxica do veneno.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa &#34;a&#34;. Como você pode perceber, a paciente tem um quadro sugestivo de acidente crotálico, já que apresenta poucas manifestações no local da picada, tem um quadro neurológico de fraqueza de músculos faciais e tem elevação de CPK e mioglobinúria. Isso sugere ação neurotóxica e miotóxica do veneno.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:20:07.977839 +0000 UTC",
+              "updated_at": "2020-10-14 12:20:08.385399 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 626
+          },
+          {
+            "id": "7098a6cd-5435-49d7-9614-f804d73928ab",
+            "position": "1",
+            "body": "<div>Elapídico.&nbsp;<br></div>",
+            "sanitized_body": "Elapídico. ",
+            "correct": false,
+            "created_at": "2020-09-15 19:25:18.383888 +0000 UTC",
+            "updated_at": "2021-07-12 13:30:32.852818 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Incorreta a alternativa \"b\" porque o acidente elapídico não leva a aumento de CPK ou mioglobinúria.<br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;b&#34; porque o acidente elapídico não leva a aumento de CPK ou mioglobinúria.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:20:07.978083 +0000 UTC",
+              "updated_at": "2020-10-14 12:20:08.394199 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 40
+          },
+          {
+            "id": "f5487b7f-a4e8-4e3f-91bb-08f75d8fbbe8",
+            "position": "2",
+            "body": "<div>Loxoscélico.&nbsp;<br></div>",
+            "sanitized_body": "Loxoscélico. ",
+            "correct": false,
+            "created_at": "2020-09-15 19:25:18.383888 +0000 UTC",
+            "updated_at": "2021-07-12 13:30:32.95417 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Incorreta a alternativa \"c\". O acidente pela aranha marrom ou loxocélico se apresenta com uma lesão progressiva no local da picada, o que não ocorreu neste caso.<br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;c&#34;. O acidente pela aranha marrom ou loxocélico se apresenta com uma lesão progressiva no local da picada, o que não ocorreu neste caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:20:07.977267 +0000 UTC",
+              "updated_at": "2020-10-14 12:20:08.395669 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 45
+          },
+          {
+            "id": "aad73a50-06ca-426b-9036-e467ec12b8d4",
+            "position": "3",
+            "body": "<div>Botrópico.&nbsp;</div>",
+            "sanitized_body": "Botrópico. ",
+            "correct": false,
+            "created_at": "2020-09-15 19:25:18.383888 +0000 UTC",
+            "updated_at": "2021-07-12 13:30:33.054892 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"d\". O veneno botrópico tem ação proteolítica, coagulante e hemorrágica, desta forma, seria esperado manifestações locais exuberantes como bolhas, equimoses, sangramentos e edema.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;d&#34;. O veneno botrópico tem ação proteolítica, coagulante e hemorrágica, desta forma, seria esperado manifestações locais exuberantes como bolhas, equimoses, sangramentos e edema.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:20:07.982559 +0000 UTC",
+              "updated_at": "2020-10-14 12:20:08.395163 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 13
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Menina, 8a, trazida à unidade de emergência por apresentar diplopia e alteração da fala há um dia. Exame físico: ptose palpebral bilateral e diplopia. Exame oftalmológico: redução gradativa da força em músculo reto lateral e músculo elevador da pálpebra bilateralmente. Questionada, criança lembrou de ter “pisado em espinho” na tarde anterior. Pé esquerdo com ponto de inoculação eritematoso em 4º dedo. Creatinofosfoquinase = 4.425 U/L. Exame sumário de urina: Hb= positiva. O diagnóstico é de acidente :&nbsp;",
+        "statement_text": "Menina, 8a, trazida à unidade de emergência por apresentar diplopia e alteração da fala há um dia. Exame físico: ptose palpebral bilateral e diplopia. Exame oftalmológico: redução gradativa da força em músculo reto lateral e músculo elevador da pálpebra bilateralmente. Questionada, criança lembrou de ter “pisado em espinho” na tarde anterior. Pé esquerdo com ponto de inoculação eritematoso em 4º dedo. Creatinofosfoquinase = 4.425 U/L. Exame sumário de urina: Hb= positiva. O diagnóstico é de acidente : ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "148a3e7e42c7dcfece2c7b984b83ecdb",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-15 19:25:18.383888 +0000 UTC",
+        "solution": {
+          "_key": "553d66c1-f564-404d-ba65-9d8e49143ad7",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Neste caso a paciente apresenta fraqueza muscular, elevação de CPK, que é decorrente de ação miotóxica do veneno, e a presença de “Hb” na urina, que podemos dizer ser uma mioglobinúria. Quem justifica esse quadro é o veneno da cascavel (crotálico). Ele tem ação neurotóxica precoce, levando a fraqueza muscular, ação miotóxica e coagulante.  O tratamento deve ser feito com o soro anticrotálico e hidratação venosa.&nbsp;<div><br></div><div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ANeste caso a paciente apresenta fraqueza muscular, elevação de CPK, que é decorrente de ação miotóxica do veneno, e a presença de “Hb” na urina, que podemos dizer ser uma mioglobinúria. Quem justifica esse quadro é o veneno da cascavel (crotálico). Ele tem ação neurotóxica precoce, levando a fraqueza muscular, ação miotóxica e coagulante.  O tratamento deve ser feito com o soro anticrotálico e hidratação venosa. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 12:20:08.137151 +0000 UTC",
+          "updated_at": "2020-10-14 12:20:08.505339 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000099655-720.mp4",
+        "unlisted": false,
+        "slug": "Menina-8a-trazida-a77334c38be",
+        "public": true
+      },
+      {
+        "id": "4000033434",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "0a315fc2-21c5-4185-806d-a9a6ab041b19",
+                "name": "MG - Processo Seletivo Unificado - PSU MG"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "9368420C-D957-495D-4F20-87633F6E67B6"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-05T10:37:06Z",
+            "location": {
+              "id": "12"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "72b3ab27beb041b98f4cc9ad78e5ee1d",
+            "name": "Manifestações clínicas",
+            "is_master": false,
+            "master_id": "f43912c5a47141459d38f0af31a92623",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Ofidismo[$$]Acidente botrópico[$$]Manifestações clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "80c16aee-8eca-4b39-aa5e-025542f8ee1e",
+            "position": "0",
+            "body": "A dose do soro deve ser proporcional ao peso do paciente.",
+            "sanitized_body": "A dose do soro deve ser proporcional ao peso do paciente.",
+            "correct": false,
+            "created_at": "2020-09-11 14:24:56.187804 +0000 UTC",
+            "updated_at": "2020-11-11 18:11:36.713742 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. A dose do soro depende da gravidade do acidente, e não do peso do paciente.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa A incorreta. A dose do soro depende da gravidade do acidente, e não do peso do paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:44:09.033299 +0000 UTC",
+              "updated_at": "2020-10-14 12:44:09.7471 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 37
+          },
+          {
+            "id": "5d53c86b-bd49-4127-846f-d49f38366a66",
+            "position": "1",
+            "body": "A realização prévia de garroteamento do membro acometido e realização de um corte no local para sucção são medidas recomendadas.&nbsp;",
+            "sanitized_body": "A realização prévia de garroteamento do membro acometido e realização de um corte no local para sucção são medidas recomendadas. ",
+            "correct": false,
+            "created_at": "2020-09-11 14:24:56.187804 +0000 UTC",
+            "updated_at": "2020-11-11 18:11:36.836568 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta. Após um acidente ofídico, algumas medidas devem ser tomadas como: lavar a ferida com água e sabão, manter o paciente deitado e hidratado, procurar atendimento médico e se possível levar o animal para identificação. Não se deve garrotear o membro acometido e nem fazer sucção.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa B incorreta. Após um acidente ofídico, algumas medidas devem ser tomadas como: lavar a ferida com água e sabão, manter o paciente deitado e hidratado, procurar atendimento médico e se possível levar o animal para identificação. Não se deve garrotear o membro acometido e nem fazer sucção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:44:09.030429 +0000 UTC",
+              "updated_at": "2020-10-14 12:44:09.746637 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "f87d4d4c-677e-4402-9d1d-e0d586b69888",
+            "position": "2",
+            "body": "A dose do soro deve ser aplicada na região da picada.",
+            "sanitized_body": "A dose do soro deve ser aplicada na região da picada.",
+            "correct": false,
+            "created_at": "2020-09-11 14:24:56.187804 +0000 UTC",
+            "updated_at": "2020-11-11 18:11:36.957779 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C incorreta. O soro deve ser administrado por via intravenosa.<div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa C incorreta. O soro deve ser administrado por via intravenosa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:44:09.033797 +0000 UTC",
+              "updated_at": "2020-10-14 12:44:09.753134 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 40
+          },
+          {
+            "id": "9965f010-3dec-4dd6-a4ac-8b1e31bf0656",
+            "position": "3",
+            "body": "Há risco de insuficiência renal aguda e síndrome de compartimento.",
+            "sanitized_body": "Há risco de insuficiência renal aguda e síndrome de compartimento.",
+            "correct": true,
+            "created_at": "2020-09-11 14:24:56.187804 +0000 UTC",
+            "updated_at": "2020-11-11 18:11:37.079403 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D correta. Algumas complicações do acidente botrópico incluem: síndrome compartimental, abscesso, necrose, choque e insuficiência renal aguda.<div><br></div>",
+              "sanitized_complete": "Alternativa D correta. Algumas complicações do acidente botrópico incluem: síndrome compartimental, abscesso, necrose, choque e insuficiência renal aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:44:09.039286 +0000 UTC",
+              "updated_at": "2020-10-14 12:44:09.775258 +0000 UTC"
+            },
+            "answer_percentage": 90,
+            "answers": 724
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "C.D.E, 26 anos, sexo masculino, lavrador, foi vítima de picada de cobra em MIE. Cerca de 1 hora depois, apresentou no local da picada dor intensa, edema, equimose importante e formação de bolhas. Nega parestesias, dificuldades visual e respiratória. Ao exame não se constatou ptose palpebral. O aspecto macroscópico da urina sugere hematúria. Em relação aos acidentes ofídicos e a este particularmente, assinale a alternativa CORRETA:",
+        "statement_text": "C.D.E, 26 anos, sexo masculino, lavrador, foi vítima de picada de cobra em MIE. Cerca de 1 hora depois, apresentou no local da picada dor intensa, edema, equimose importante e formação de bolhas. Nega parestesias, dificuldades visual e respiratória. Ao exame não se constatou ptose palpebral. O aspecto macroscópico da urina sugere hematúria. Em relação aos acidentes ofídicos e a este particularmente, assinale a alternativa CORRETA:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-11 14:24:56.187804 +0000 UTC",
+        "forum_id": "031d4ba7-1f1e-4a66-8fee-06a031847b50",
+        "solution": {
+          "_key": "58d5e01b-88a0-48f5-91be-355442b5f65a",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Neste caso, temos um acidente ofídico com manifestações locais intensas como dor, edema, equimose e bolhas. Não houve relato de manifestações neurológicas. Com base nesses dados, o provável acidente que ocorreu aqui foi o botrópico. Para ajudar, vamos relembrar as ações e manifestações clínicas desse acidente e dos outros que mais ocorrem no Brasil? Em seguida já conseguimos responder essa questão.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/07FDB9CF-CD66-3D91-ED11-846E990ED9E4/07FDB9CF-CD66-3D91-ED11-846E990ED9E4-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DNeste caso, temos um acidente ofídico com manifestações locais intensas como dor, edema, equimose e bolhas. Não houve relato de manifestações neurológicas. Com base nesses dados, o provável acidente que ocorreu aqui foi o botrópico. Para ajudar, vamos relembrar as ações e manifestações clínicas desse acidente e dos outros que mais ocorrem no Brasil? Em seguida já conseguimos responder essa questão.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 12:44:09.288148 +0000 UTC",
+          "updated_at": "2020-10-14 12:44:09.810927 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000033434-720.mp4",
+        "unlisted": false,
+        "slug": "C-D-26-anos-sexo6648893229",
+        "public": true
+      },
+      {
+        "id": "4000015360",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "28FEA205-6E10-743E-2EE8-F8B1B2858A10"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-02T22:25:38Z",
+            "updated_at": "2020-09-03T14:11:28Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "698ba26e87524ca9be46cb25e1939626",
+            "name": "Acidentes por abelhas, vespas e formigas",
+            "is_master": false,
+            "master_id": "63039b7618d44c888ad501f1694e07fb",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Araneísmo[$$]Acidentes por abelhas, vespas e formigas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "ef3b3702-f61a-48f2-9d8d-fd4c9bfe7b22",
+            "position": "0",
+            "body": "Vespa.",
+            "sanitized_body": "Vespa.",
+            "correct": false,
+            "created_at": "2020-09-10 13:05:48.276858 +0000 UTC",
+            "updated_at": "2020-11-10 18:19:29.39241 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. As vespas não deixam o ferrão no local da picada.<div><br></div>",
+              "sanitized_complete": "Alternativa A incorreta. As vespas não deixam o ferrão no local da picada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:07:35.722948 +0000 UTC",
+              "updated_at": "2020-10-14 13:07:36.24727 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 130
+          },
+          {
+            "id": "1528d1dd-9dfa-4689-8032-5b89e1ec652e",
+            "position": "1",
+            "body": "Arraia.",
+            "sanitized_body": "Arraia.",
+            "correct": false,
+            "created_at": "2020-09-10 13:05:48.276858 +0000 UTC",
+            "updated_at": "2020-11-10 18:19:29.515863 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div>Alternativa B incorreta. Não há relato de nenhum contato com água ou exposição de risco para o acidente por arraia.<br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa B incorreta. Não há relato de nenhum contato com água ou exposição de risco para o acidente por arraia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:07:35.740195 +0000 UTC",
+              "updated_at": "2020-10-14 13:07:36.254331 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 23
+          },
+          {
+            "id": "e176d1c7-7353-4395-bb64-99b81ec2261a",
+            "position": "2",
+            "body": "Abelha.",
+            "sanitized_body": "Abelha.",
+            "correct": true,
+            "created_at": "2020-09-10 13:05:48.276858 +0000 UTC",
+            "updated_at": "2020-11-10 18:19:29.640364 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C correta. A abelha é um inseto que deixa o ferrão após a picada. O paciente apresenta-se clinicamente com edema, prurido, vermelhidão e dor no local. O quadro evoluiu para o aparecimento de uma enduração que aumenta de tamanho dentro de 24 a 48 horas. Essas manifestações podem ser tão exuberantes que limitam a mobilidade do membro. Como você pode perceber, tudo bem característico do que ocorreu com essa criança.<div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa C correta. A abelha é um inseto que deixa o ferrão após a picada. O paciente apresenta-se clinicamente com edema, prurido, vermelhidão e dor no local. O quadro evoluiu para o aparecimento de uma enduração que aumenta de tamanho dentro de 24 a 48 horas. Essas manifestações podem ser tão exuberantes que limitam a mobilidade do membro. Como você pode perceber, tudo bem característico do que ocorreu com essa criança.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:07:35.725148 +0000 UTC",
+              "updated_at": "2020-10-14 13:07:36.250459 +0000 UTC"
+            },
+            "answer_percentage": 78,
+            "answers": 554
+          },
+          {
+            "id": "542a822d-da52-4d5a-b3c2-94a45b46012c",
+            "position": "3",
+            "body": "Formiga.",
+            "sanitized_body": "Formiga.",
+            "correct": false,
+            "created_at": "2020-09-10 13:05:48.276858 +0000 UTC",
+            "updated_at": "2020-11-10 18:19:29.765058 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta. O acidente por formigas lava-pés (gênero Solenopsis) evolui, após 24 horas para uma pústula estéril que é reabsorvida dentro de 7 a 10 dias. Neste caso, após 3 dias da picada, a criança apresenta uma enduração no local, ou seja, nada característico do acidente por formigas.<div><br></div>",
+              "sanitized_complete": "Alternativa D incorreta. O acidente por formigas lava-pés (gênero Solenopsis) evolui, após 24 horas para uma pústula estéril que é reabsorvida dentro de 7 a 10 dias. Neste caso, após 3 dias da picada, a criança apresenta uma enduração no local, ou seja, nada característico do acidente por formigas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:07:35.737581 +0000 UTC",
+              "updated_at": "2020-10-14 13:07:36.257717 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Na Emergência, a mãe de uma criança de três anos de idade relata que a mesma foi picada por um inseto há cerca de 3 dias e que já recebeu um primeiro atendimento numa Unidade de Pronto Atendimento, cerca de duas horas após a picada. No momento, há dor aguda no local, vermelhidão, prurido e edema flogístico que evoluiu para enduração local; também há dificuldades de mobilidade no membro afetado. Na UPA, o médico havia conseguido identificar e retirar o ferrão. Qual o inseto mais provável de ter causado essas alterações?",
+        "statement_text": "Na Emergência, a mãe de uma criança de três anos de idade relata que a mesma foi picada por um inseto há cerca de 3 dias e que já recebeu um primeiro atendimento numa Unidade de Pronto Atendimento, cerca de duas horas após a picada. No momento, há dor aguda no local, vermelhidão, prurido e edema flogístico que evoluiu para enduração local; também há dificuldades de mobilidade no membro afetado. Na UPA, o médico havia conseguido identificar e retirar o ferrão. Qual o inseto mais provável de ter causado essas alterações?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "5800b1bb8012f31beba86ac1ddb08f60",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 13:05:48.276858 +0000 UTC",
+        "forum_id": "b3b8b45a-ec44-4a70-951d-07550fd0e18e",
+        "solution": {
+          "_key": "41867c98-5e84-4901-a818-29c34169d210",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Uma criança foi picada por um inseto e desenvolve dor, eritema, prurido e edema no local. O inseto que causou esse acidente é do tipo que deixa o ferrão. Vamos analisar as alternativas e discutir quem pode ter causado esse acidente:<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CUma criança foi picada por um inseto e desenvolve dor, eritema, prurido e edema no local. O inseto que causou esse acidente é do tipo que deixa o ferrão. Vamos analisar as alternativas e discutir quem pode ter causado esse acidente:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 13:07:35.95403 +0000 UTC",
+          "updated_at": "2020-10-14 13:07:36.395527 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000015360-720.mp4",
+        "unlisted": false,
+        "slug": "Emergencia-ma-crianc91bcfacce7",
+        "public": true
+      },
+      {
+        "id": "4000001680",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6a8ee452-f91a-415d-8438-e1d3410deb92",
+                "name": "SP - Visão Laser Hospital Oftalmológico - HVL"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3BCBB056-9DB1-CFE9-F90A-379C30F57946"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-07T22:54:40Z",
+            "updated_at": "2020-09-07T22:56:18Z",
+            "location": {
+              "id": "5278"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "f0748039236841468245db1a2d948985",
+            "name": "Manifestações clínicas",
+            "is_master": false,
+            "master_id": "6549ccf83a8e4552afb30e9dc8bbe9fe",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Escorpionismo[$$]Acidentes por Tityus[$$]Manifestações clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "86653ca3-ead8-444f-83d7-9c66cc1f0546",
+            "position": "0",
+            "body": "O edema agudo de pulmão é raro nos casos graves.",
+            "sanitized_body": "O edema agudo de pulmão é raro nos casos graves.",
+            "correct": false,
+            "created_at": "2020-09-09 15:11:25.12069 +0000 UTC",
+            "updated_at": "2020-11-09 12:19:11.160599 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"a\". O edema agudo de pulmão não é raro em casos graves e é uma das principais causas de morte pelo acidente por escorpião.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;a&#34;. O edema agudo de pulmão não é raro em casos graves e é uma das principais causas de morte pelo acidente por escorpião.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:00:54.789115 +0000 UTC",
+              "updated_at": "2020-10-14 13:00:55.388372 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          },
+          {
+            "id": "8f6eac39-f4dc-4e01-8ec5-2e88a96f50a5",
+            "position": "1",
+            "body": "<div>Quando há edema agudo de pulmão ele tem apenas uma fisiopatologia, a relacionada à Insuficiência Cardíaca.</div>",
+            "sanitized_body": "Quando há edema agudo de pulmão ele tem apenas uma fisiopatologia, a relacionada à Insuficiência Cardíaca.",
+            "correct": false,
+            "created_at": "2020-09-09 15:11:25.12069 +0000 UTC",
+            "updated_at": "2020-11-09 12:19:11.289999 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"b\". A fisiopatologia do edema agudo de pulmão no acidente por escorpião não está completamente elucidada, mas sabe-se que é multifatorial e está relacionada à disautonomia.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;b&#34;. A fisiopatologia do edema agudo de pulmão no acidente por escorpião não está completamente elucidada, mas sabe-se que é multifatorial e está relacionada à disautonomia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:00:54.777903 +0000 UTC",
+              "updated_at": "2020-10-14 13:00:55.385265 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 28
+          },
+          {
+            "id": "9b2680bb-d9f1-420b-80ce-5eef2b78edf7",
+            "position": "2",
+            "body": "<div>Com a picada, o veneno faz apenas liberação de substâncias simpatomiméticas.</div>",
+            "sanitized_body": "Com a picada, o veneno faz apenas liberação de substâncias simpatomiméticas.",
+            "correct": false,
+            "created_at": "2020-09-09 15:11:25.12069 +0000 UTC",
+            "updated_at": "2020-11-09 12:19:11.427035 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"c\" porque o veneno tem ações tanto no sistema nervoso simpático quanto no parassimpático.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;c&#34; porque o veneno tem ações tanto no sistema nervoso simpático quanto no parassimpático.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:00:54.794517 +0000 UTC",
+              "updated_at": "2020-10-14 13:00:55.390552 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 43
+          },
+          {
+            "id": "d68b43be-043c-4ea1-a1e4-789479a01b79",
+            "position": "3",
+            "body": "<div>O veneno do escorpião possui um grande número de proteínas que se ligam ao canal de sódio.</div>",
+            "sanitized_body": "O veneno do escorpião possui um grande número de proteínas que se ligam ao canal de sódio.",
+            "correct": true,
+            "created_at": "2020-09-09 15:11:25.12069 +0000 UTC",
+            "updated_at": "2020-11-09 12:19:11.55791 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa \"d\". O veneno do escorpião atua nos canais de sódio, produzindo despolarização de terminações nervosas pós-ganglionares com liberação de catecolaminas e acetilcolina<div><br></div>",
+              "sanitized_complete": "Correta a alternativa &#34;d&#34;. O veneno do escorpião atua nos canais de sódio, produzindo despolarização de terminações nervosas pós-ganglionares com liberação de catecolaminas e acetilcolina",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 13:00:54.778784 +0000 UTC",
+              "updated_at": "2020-10-14 13:00:55.391407 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 227
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Os acidentes com escorpiões têm grande importância entre os acidentes por animais peçonhentos, seja pela incidência ou pela gravidade dos casos, principalmente em crianças menores de sete anos. Com base nessa afirmação, assinale a alternativa correta:",
+        "statement_text": "Os acidentes com escorpiões têm grande importância entre os acidentes por animais peçonhentos, seja pela incidência ou pela gravidade dos casos, principalmente em crianças menores de sete anos. Com base nessa afirmação, assinale a alternativa correta:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "30fbf2790f6ef825496106fa1dba6f58",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-09 15:11:25.12069 +0000 UTC",
+        "solution": {
+          "_key": "4ad760b8-696e-4b0f-b91a-fce2b50abc63",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA D",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 13:00:54.977143 +0000 UTC",
+          "updated_at": "2020-10-14 13:00:55.517992 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000001680-720.mp4",
+        "unlisted": false,
+        "slug": "acidentes-com36eb89bc85",
+        "public": true
+      },
+      {
+        "id": "4000001628",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2018,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6a8ee452-f91a-415d-8438-e1d3410deb92",
+                "name": "SP - Visão Laser Hospital Oftalmológico - HVL"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "3BCBB056-9DB1-CFE9-F90A-379C30F57946"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-07T22:54:40Z",
+            "updated_at": "2020-09-07T22:56:18Z",
+            "location": {
+              "id": "5278"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3382c0777e6843e7942f40a0caf6598f",
+            "name": "Manifestações clínicas",
+            "is_master": false,
+            "master_id": "0e10dbc671b94624a92ee8d6c82c5870",
+            "path": "Clínica Médica[$$]Infectologia [$$]Animais peçonhentos[$$]Ofidismo[$$]Acidente crotálico[$$]Manifestações clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "017166ad-6c7a-40dd-a851-39e3df700ee2",
+            "position": "0",
+            "body": "Tem importância por corresponder a 70% das picadas de cobra no país.",
+            "sanitized_body": "Tem importância por corresponder a 70% das picadas de cobra no país.",
+            "correct": false,
+            "created_at": "2020-09-09 15:08:10.486187 +0000 UTC",
+            "updated_at": "2020-11-09 12:17:55.092991 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"a\". O acidente crotálico corresponde a aproximadamente 7% dos acidentes ofídicos no Brasil. Não precisa saber esse valor, só precisa saber que ele é o segundo mais importante, já que a maioria (90%) corresponde ao acidente botrópico.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;a&#34;. O acidente crotálico corresponde a aproximadamente 7% dos acidentes ofídicos no Brasil. Não precisa saber esse valor, só precisa saber que ele é o segundo mais importante, já que a maioria (90%) corresponde ao acidente botrópico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:22:30.114142 +0000 UTC",
+              "updated_at": "2020-10-20 16:08:00.73344 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 7
+          },
+          {
+            "id": "4bdadc03-c19d-4e6f-af3e-a71254f608dd",
+            "position": "1",
+            "body": "<div>Causa morte por sangramento intenso nos pacientes.</div>",
+            "sanitized_body": "Causa morte por sangramento intenso nos pacientes.",
+            "correct": false,
+            "created_at": "2020-09-09 15:08:10.486187 +0000 UTC",
+            "updated_at": "2020-11-09 12:17:55.227816 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"b\". Porque o veneno crotálico não tem ação hemorrágica. Ele causa óbito principalmente por conta da insuficiência renal aguda.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;b&#34;. Porque o veneno crotálico não tem ação hemorrágica. Ele causa óbito principalmente por conta da insuficiência renal aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:22:30.113327 +0000 UTC",
+              "updated_at": "2020-10-20 16:08:00.752857 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 8
+          },
+          {
+            "id": "4cb91e87-f694-4c0c-9e6c-eb40e3ab58a7",
+            "position": "2",
+            "body": "<div>A ptose palpebral é um sinal presente no paciente que sofreu acidente crotálico o que ajuda a diferenciá-lo do botrópico.</div>",
+            "sanitized_body": "A ptose palpebral é um sinal presente no paciente que sofreu acidente crotálico o que ajuda a diferenciá-lo do botrópico.",
+            "correct": true,
+            "created_at": "2020-09-09 15:08:10.486187 +0000 UTC",
+            "updated_at": "2020-11-09 12:17:55.36114 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa \"c\". Ao contrário do veneno botrópico, o veneno crotálico tem ação neurotóxica. O paciente pode apresentar fácies miastênica, ptose palpebral, turvação visual, flacidez da musculatura facial etc.<div><br></div><div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Correta a alternativa &#34;c&#34;. Ao contrário do veneno botrópico, o veneno crotálico tem ação neurotóxica. O paciente pode apresentar fácies miastênica, ptose palpebral, turvação visual, flacidez da musculatura facial etc.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:22:30.114932 +0000 UTC",
+              "updated_at": "2020-10-20 16:08:00.740289 +0000 UTC"
+            },
+            "answer_percentage": 94,
+            "answers": 297
+          },
+          {
+            "id": "464df2ad-539e-4f14-982a-8ab40cd8aed6",
+            "position": "3",
+            "body": "<div>O CPK está normal nesses acidentes.</div>",
+            "sanitized_body": "O CPK está normal nesses acidentes.",
+            "correct": false,
+            "created_at": "2020-09-09 15:08:10.486187 +0000 UTC",
+            "updated_at": "2020-11-09 12:17:55.488914 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"d\". Como o veneno é miotóxico, os pacientes apresentam uma CPK elevada.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;d&#34;. Como o veneno é miotóxico, os pacientes apresentam uma CPK elevada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2020-10-14 12:22:30.117106 +0000 UTC",
+              "updated_at": "2020-10-20 16:08:00.751914 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "No Brasil, as serpentes do gênero Crotalus são representadas pela cascavel, seu acidente:",
+        "statement_text": "No Brasil, as serpentes do gênero Crotalus são representadas pela cascavel, seu acidente:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "30fbf2790f6ef825496106fa1dba6f58",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-09 15:08:10.486187 +0000 UTC",
+        "solution": {
+          "_key": "b41ed8ab-f795-43c5-b4e8-e1b142477369",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>O acidente crotálico, que é causado pela cascavel, pode levar o paciente a apresentar fácies miastênica, turvação visual e ptose palpebral, rabdomiólise com elevação de CPK, mioglobinúria e insuficiência renal com necrose tubular. Esse veneno tem ação neurotóxica, miotóxica e coagulante, o que justifica o quadro clínico das vítimas.<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO acidente crotálico, que é causado pela cascavel, pode levar o paciente a apresentar fácies miastênica, turvação visual e ptose palpebral, rabdomiólise com elevação de CPK, mioglobinúria e insuficiência renal com necrose tubular. Esse veneno tem ação neurotóxica, miotóxica e coagulante, o que justifica o quadro clínico das vítimas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 12:22:30.221146 +0000 UTC",
+          "updated_at": "2020-10-20 16:08:00.856545 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000001628-720.mp4",
+        "unlisted": false,
+        "slug": "Brasil-serpentes1327e0ad3e",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 31
+    }
+  }

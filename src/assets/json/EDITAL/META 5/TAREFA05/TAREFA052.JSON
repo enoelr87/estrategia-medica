@@ -1,0 +1,614 @@
+{
+    "data": [
+      {
+        "id": "4000127189",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41e9f360015c43a59c71d27403a1668c",
+            "name": "Exames laboratoriais",
+            "is_master": false,
+            "master_id": "473d09d028b74bdba543226d7d10e7c1",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "cebbf336-bace-4f74-a870-536ef1f46221",
+            "position": "0",
+            "body": "Solicitar a presença dos pais para realizar a consulta, por se tratar de menor de idade.",
+            "sanitized_body": "Solicitar a presença dos pais para realizar a consulta, por se tratar de menor de idade.",
+            "correct": false,
+            "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a” porque não é obrigatória a presença dos pais ou de outro acompanhante responsável legal para que se realize a consulta de pré-natal da gestante. Doc, essa é uma questão que envolve sigilo médico e pode também ser abordada entre os temas de medicina preventiva e pediatria. Aproveite essa alternativa para fixar esse conceito. O Código de Ética Médica (CEM) e o Conselho Federal de Medicina (CFM) garantem o direito do adolescente à privacidade. Veja como está previsto no capítulo IX do CEM:<div><br><div>É vedado ao médico: (...)</div><div><br></div><div>Art. 74. Revelar sigilo profissional relacionado a paciente criança ou adolescente, desde que estes tenham capacidade de discernimento, inclusive a seus pais ou representantes legais, salvo quando a não revelação possa acarretar dano ao paciente.</div><div><br></div><div>O Parecer do CFM nº 25, de 2013, descreve o seguinte acerca do mesmo tema:</div><div><br></div><div>(...) Com relação aos pacientes adolescentes há o consenso internacional, reconhecido pela lei brasileira, de que entre os 12 e 18 anos estes já têm sua privacidade garantida, principalmente se com mais de 14 anos e 11 meses, considerados maduros quanto ao entendimento e cumprimento das orientações recebidas;</div><div><br></div><div>O Ministério da Saúde lista os seguintes direitos dos adolescentes:</div></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7E448448-AE2A-1AC8-C668-C1E64EB070B9/7E448448-AE2A-1AC8-C668-C1E64EB070B9-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Estes comentários tiveram por base o documento intitulado “Orientações básicas de atenção integral à saúde de adolescentes nas escolas e unidades básicas de saúde” (Brasília – DF, 2013) do Ministério da Saúde, onde podem ser encontrados maiores detalhes sobre o tema. Disponível em: <http://bvsms.saude.gov.br/bvs/publicacoes/ orientacao_basica_saude_adolescente.pdf>. Acesso em: 05 de agosto de 2020.</div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “a” porque não é obrigatória a presença dos pais ou de outro acompanhante responsável legal para que se realize a consulta de pré-natal da gestante. Doc, essa é uma questão que envolve sigilo médico e pode também ser abordada entre os temas de medicina preventiva e pediatria. Aproveite essa alternativa para fixar esse conceito. O Código de Ética Médica (CEM) e o Conselho Federal de Medicina (CFM) garantem o direito do adolescente à privacidade. Veja como está previsto no capítulo IX do CEM:É vedado ao médico: (...)Art. 74. Revelar sigilo profissional relacionado a paciente criança ou adolescente, desde que estes tenham capacidade de discernimento, inclusive a seus pais ou representantes legais, salvo quando a não revelação possa acarretar dano ao paciente.O Parecer do CFM nº 25, de 2013, descreve o seguinte acerca do mesmo tema:(...) Com relação aos pacientes adolescentes há o consenso internacional, reconhecido pela lei brasileira, de que entre os 12 e 18 anos estes já têm sua privacidade garantida, principalmente se com mais de 14 anos e 11 meses, considerados maduros quanto ao entendimento e cumprimento das orientações recebidas;O Ministério da Saúde lista os seguintes direitos dos adolescentes:Estes comentários tiveram por base o documento intitulado “Orientações básicas de atenção integral à saúde de adolescentes nas escolas e unidades básicas de saúde” (Brasília – DF, 2013) do Ministério da Saúde, onde podem ser encontrados maiores detalhes sobre o tema. Disponível em: . Acesso em: 05 de agosto de 2020.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:21:13.779181 +0000 UTC",
+              "updated_at": "2021-10-08 19:38:04.89994 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 26
+          },
+          {
+            "id": "21958678-e232-4750-9b8a-d3d461556e73",
+            "position": "1",
+            "body": "Pedir os exames de rotina pré-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar a presença do pai da criança na próxima consulta.",
+            "sanitized_body": "Pedir os exames de rotina pré-natal, encaminhar para acompanhamento psico-social, prescrever sulfato ferroso e solicitar a presença do pai da criança na próxima consulta.",
+            "correct": false,
+            "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” porque embora esteja correto que na primeira consulta de pré-natal da gestante adolescente deva-se solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e encaminhar para acompanhamento psicossocial, a presença de acompanhante na consulta não é obrigatória.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” porque embora esteja correto que na primeira consulta de pré-natal da gestante adolescente deva-se solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e encaminhar para acompanhamento psicossocial, a presença de acompanhante na consulta não é obrigatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:21:13.780575 +0000 UTC",
+              "updated_at": "2021-10-08 19:38:04.889342 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 170
+          },
+          {
+            "id": "647b4a3d-809e-4922-819d-0e453560b69a",
+            "position": "2",
+            "body": "Encaminhar a paciente para avaliação diretamente na maternidade, devido ao início tardio do pré-natal.",
+            "sanitized_body": "Encaminhar a paciente para avaliação diretamente na maternidade, devido ao início tardio do pré-natal.",
+            "correct": false,
+            "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “c” porque embora a gestante apresentada no enunciado já apresente idade gestacional avançada, deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta. O encaminhamento à maternidade deve ser feito apenas quando houver indicação obstétrica por possíveis intercorrências ou parto.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “c” porque embora a gestante apresentada no enunciado já apresente idade gestacional avançada, deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta. O encaminhamento à maternidade deve ser feito apenas quando houver indicação obstétrica por possíveis intercorrências ou parto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:21:13.778181 +0000 UTC",
+              "updated_at": "2021-10-08 19:38:04.945106 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 98
+          },
+          {
+            "id": "2d1f1012-7416-4b4f-befa-7bab7918274f",
+            "position": "3",
+            "body": "Encaminhar a paciente para a maternidade, pois as características da gestação na adolescência indicam que a via de parto deverá ser a cesárea.",
+            "sanitized_body": "Encaminhar a paciente para a maternidade, pois as características da gestação na adolescência indicam que a via de parto deverá ser a cesárea.",
+            "correct": false,
+            "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” porque deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta. O encaminhamento à maternidade deve ser feito apenas quando houver indicação obstétrica por possíveis intercorrências ou parto, sendo que, apesar de adolescentes terem mais risco de parto cesáreo por desproporção pélvica por ainda estarem em desenvolvimento, não há contraindicação ao parto vaginal devido idade materna.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “d” porque deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta. O encaminhamento à maternidade deve ser feito apenas quando houver indicação obstétrica por possíveis intercorrências ou parto, sendo que, apesar de adolescentes terem mais risco de parto cesáreo por desproporção pélvica por ainda estarem em desenvolvimento, não há contraindicação ao parto vaginal devido idade materna.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:21:13.782975 +0000 UTC",
+              "updated_at": "2021-10-08 19:38:04.911159 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 35
+          },
+          {
+            "id": "a1e2ecd5-2e25-472d-afe8-5faa417d93d5",
+            "position": "4",
+            "body": "Solicitar os exames de rotina pré-natal, encaminhar para acompanhamento psico- social, prescrever sulfato ferroso e solicitar retorno antecipado ao pré-natal.",
+            "sanitized_body": "Solicitar os exames de rotina pré-natal, encaminhar para acompanhamento psico- social, prescrever sulfato ferroso e solicitar retorno antecipado ao pré-natal.",
+            "correct": true,
+            "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “e” porque deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso, encaminhar para acompanhamento psicossocial e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta, com retornos precoces.<div>Gabarito: alternativa E</div><div><br></div>",
+              "sanitized_complete": "Correta a alternativa “e” porque deve-se realizar todos os cuidados habituais pertinentes à assistência pré-natal, ou seja, solicitar exames da rotina de pré-natal, prescrever a suplementação vitamínica de sulfato ferroso, encaminhar para acompanhamento psicossocial e realizar acompanhamento pré-natal na UBS, com atenção as necessidades e potenciais fragilidades que a gestação na adolescência apresenta, com retornos precoces.Gabarito: alternativa E",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:21:13.786133 +0000 UTC",
+              "updated_at": "2021-10-08 19:38:04.897892 +0000 UTC"
+            },
+            "answer_percentage": 83,
+            "answers": 1584
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Primigesta, com 16 anos de idade, procura a Unidade Básica de Saúde para sua primeira consulta pré-natal, na trigésima sexta semana de gestação. A paciente disse não ter iniciado o pré-natal antes, pois demorou a aceitar a gestação, e não quer ter um parto vaginal. Relata que brigou com os pais e está morando com o pai da criança, que tem 25 anos e é saudável. O exame físico não revela anormalidades e o exame obstétrico mostra altura uterina de 34 cm, batimentos cardiofetais com frequência de 140 bpm e o toque vaginal evidenciou colo grosso, posterior e impérvio.&nbsp;<div><br></div><div>Qual a conduta a seguir?</div>",
+        "statement_text": "Primigesta, com 16 anos de idade, procura a Unidade Básica de Saúde para sua primeira consulta pré-natal, na trigésima sexta semana de gestação. A paciente disse não ter iniciado o pré-natal antes, pois demorou a aceitar a gestação, e não quer ter um parto vaginal. Relata que brigou com os pais e está morando com o pai da criança, que tem 25 anos e é saudável. O exame físico não revela anormalidades e o exame obstétrico mostra altura uterina de 34 cm, batimentos cardiofetais com frequência de 140 bpm e o toque vaginal evidenciou colo grosso, posterior e impérvio. Qual a conduta a seguir?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:04:33.009589 +0000 UTC",
+        "forum_id": "95f412eb-1320-4d0c-9801-5dadd8ddf64d",
+        "solution": {
+          "_key": "9ddcd48d-375e-4b65-ab41-55373afecbcb",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><b><br></b></div><div><b>O que o examinador quer saber: </b>Se você conhece as particularidades do atendimento pré-natal de gestante adolescente<div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA EO que o examinador quer saber: Se você conhece as particularidades do atendimento pré-natal de gestante adolescente",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 10:21:13.950412 +0000 UTC",
+          "updated_at": "2021-10-08 19:38:04.949789 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127189-720.mp4",
+        "unlisted": false,
+        "slug": "Primigesta-com-16-anos103e5d38c23",
+        "public": true
+      },
+      {
+        "id": "4000127148",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41e9f360015c43a59c71d27403a1668c",
+            "name": "Exames laboratoriais",
+            "is_master": false,
+            "master_id": "473d09d028b74bdba543226d7d10e7c1",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "16d0e8e4-7176-4e56-bf26-4d59577e4b22",
+            "position": "0",
+            "body": "sorologia para hepatite B e C.",
+            "sanitized_body": "sorologia para hepatite B e C.",
+            "correct": false,
+            "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+            "updated_at": "2023-01-22 20:13:05.180272 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a” : atualmente o ministério da saúde orienta a realização de sorologia para hepatite B e C, sendo assim essa alternativa também estaria correta. <div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “a” : atualmente o ministério da saúde orienta a realização de sorologia para hepatite B e C, sendo assim essa alternativa também estaria correta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:19:49.049015 +0000 UTC",
+              "updated_at": "2023-01-22 20:12:58.837825 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 70
+          },
+          {
+            "id": "b2e0c003-f575-4d91-9adf-a181315efe9b",
+            "position": "1",
+            "body": "citologia oncótica e creatinina.",
+            "sanitized_body": "citologia oncótica e creatinina.",
+            "correct": false,
+            "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+            "updated_at": "2023-01-22 20:13:05.50229 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” embora esteja correto a solicitação colpocitologia oncótica no início do pré-natal, caso o último exame tenha sido realizado há mais de um ano, a dosagem de creatinina não é preconizada pelo Ministério da Saúde entre os exames de rotina no pré-natal.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” embora esteja correto a solicitação colpocitologia oncótica no início do pré-natal, caso o último exame tenha sido realizado há mais de um ano, a dosagem de creatinina não é preconizada pelo Ministério da Saúde entre os exames de rotina no pré-natal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:19:49.057366 +0000 UTC",
+              "updated_at": "2023-01-22 20:12:58.830683 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 5
+          },
+          {
+            "id": "bac38a6c-7ff6-4488-801c-8f78728af393",
+            "position": "2",
+            "body": "sorologia para HIV e VDRL.",
+            "sanitized_body": "sorologia para HIV e VDRL.",
+            "correct": true,
+            "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+            "updated_at": "2023-01-22 20:13:05.827476 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “c” porque a pesquisa de HIV e sífilis, pelo VDRL, faz parte da rotina pré-natal e deve ser realizada na primeira consulta da gestante e repetida no terceiro trimestre.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa “c” porque a pesquisa de HIV e sífilis, pelo VDRL, faz parte da rotina pré-natal e deve ser realizada na primeira consulta da gestante e repetida no terceiro trimestre.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:19:49.047859 +0000 UTC",
+              "updated_at": "2023-01-22 20:12:58.833198 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 1563
+          },
+          {
+            "id": "b4127bf1-628f-4a12-a2e1-4ec59b94fc98",
+            "position": "3",
+            "body": "glicemia de jejum e teste de tolerância oral a glicose.",
+            "sanitized_body": "glicemia de jejum e teste de tolerância oral a glicose.",
+            "correct": false,
+            "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+            "updated_at": "2023-01-22 20:13:06.152204 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” porque apesar da glicemia de jejum fazer parte dos exames a serem solicitados no início do pré-natal, o teste oral de tolerância à glicose 75g deve ser solicitado apenas a partir da 24ª semana de gestação para gestantes com glicemia de jejum normal do início do pré-natal, e a gestante apresentada no enunciado tem apenas nove semanas de gestação. Aproveite essa alternativa para fixar esse conceito. Os valores relacionados ao diagnóstico do diabetes na gestação estão apresentados abaixo, ressaltando-se que basta um único valor alterado para fazer o diagnóstico.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0CAAA371-B33E-721C-871E-F0CAC7E281D7/0CAAA371-B33E-721C-871E-F0CAC7E281D7-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “d” porque apesar da glicemia de jejum fazer parte dos exames a serem solicitados no início do pré-natal, o teste oral de tolerância à glicose 75g deve ser solicitado apenas a partir da 24ª semana de gestação para gestantes com glicemia de jejum normal do início do pré-natal, e a gestante apresentada no enunciado tem apenas nove semanas de gestação. Aproveite essa alternativa para fixar esse conceito. Os valores relacionados ao diagnóstico do diabetes na gestação estão apresentados abaixo, ressaltando-se que basta um único valor alterado para fazer o diagnóstico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:19:49.048379 +0000 UTC",
+              "updated_at": "2023-01-22 20:12:58.828537 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 27
+          },
+          {
+            "id": "8a59943c-5ab3-4418-bf05-00133546f770",
+            "position": "4",
+            "body": "exame sumário de urina e ecografia obstétrica.",
+            "sanitized_body": "exame sumário de urina e ecografia obstétrica.",
+            "correct": false,
+            "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+            "updated_at": "2023-01-22 20:13:06.470979 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “e” porque apesar do exame sumário de urina ou urina do tipo I fazer parte dos exames a serem solicitados no início do pré-natal, a ultrassonografia obstétrica é citada como não obrigatória no manual de assistência ao pré-natal de baixo risco do ministério da saúde. Vale ressaltar que realizar precocemente a ultrassonográfica obstétrica é importante para datação adequada da gestação.<div><br><div>Gabarito: alternativa C</div><div><br></div></div>",
+              "sanitized_complete": "Incorreta a alternativa “e” porque apesar do exame sumário de urina ou urina do tipo I fazer parte dos exames a serem solicitados no início do pré-natal, a ultrassonografia obstétrica é citada como não obrigatória no manual de assistência ao pré-natal de baixo risco do ministério da saúde. Vale ressaltar que realizar precocemente a ultrassonográfica obstétrica é importante para datação adequada da gestação.Gabarito: alternativa C",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:19:49.049473 +0000 UTC",
+              "updated_at": "2023-01-22 20:12:58.832878 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 112
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente, com 23 anos de idade, encontra-se na nona semana de gestação e comparece à Unidade Básica de Saúde para sua primeira consulta de pré-natal. Dentre os exames de rotina para essa idade gestacional, o médico solicita",
+        "statement_text": "Paciente, com 23 anos de idade, encontra-se na nona semana de gestação e comparece à Unidade Básica de Saúde para sua primeira consulta de pré-natal. Dentre os exames de rotina para essa idade gestacional, o médico solicita",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:27:45.621391 +0000 UTC",
+        "forum_id": "d701d342-4dc3-4623-9cf9-6398eab48d93",
+        "solution": {
+          "_key": "6ff6433b-c0fe-4838-95db-ed52dc43a619",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você conhece os exames que devem ser solicitados na rotina de pré-natal<div><br></div><div>Os exames complementares preconizados pelo MS para gestantes de risco habitual são: </div></div><div><br></div><div>Primeira consulta de pré-natal ( preferencia no primeiro trimestre): </div><div>•\tHemograma</div><div>•\tTipagem sanguínea</div><div>•\tGlicemia de jejum</div><div>•\tUrina 1 e Urocultura</div><div>•\tSorologias: sifilis, HIV, toxoplasmose, hepatite B e hepatite C</div><div><br></div><div>Entre 24 a 28 semanas: </div><div>•\tTeste tolerância oral à glicose 75g</div><div><br></div><div>Terceiro trimestre:</div><div>•\tSorologias: Sifilis e HIV</div><div>•\tUrina 1 e urocultura</div><div>•\tCultura para EGB ( entre 36 a 37 semanas). </div><div><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: Se você conhece os exames que devem ser solicitados na rotina de pré-natalOs exames complementares preconizados pelo MS para gestantes de risco habitual são: Primeira consulta de pré-natal ( preferencia no primeiro trimestre): •\tHemograma•\tTipagem sanguínea•\tGlicemia de jejum•\tUrina 1 e Urocultura•\tSorologias: sifilis, HIV, toxoplasmose, hepatite B e hepatite CEntre 24 a 28 semanas: •\tTeste tolerância oral à glicose 75gTerceiro trimestre:•\tSorologias: Sifilis e HIV•\tUrina 1 e urocultura•\tCultura para EGB ( entre 36 a 37 semanas).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 10:19:49.241839 +0000 UTC",
+          "updated_at": "2023-01-22 20:12:59.171792 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127148-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-com-23-anos37363baea2",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 27
+    }
+  }

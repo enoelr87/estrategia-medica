@@ -1,0 +1,1091 @@
+{
+  "data":[
+    {
+      "id": "4000127660",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2019,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+              "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 2,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Discursiva",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "4BB4C1C3-288A-7E0B-F563-27F19DFF5C76"
+            },
+            {
+              "type": "EXAM",
+              "url": "ABEAA66F-3426-BDA4-2CEC-20287F794CFA"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 26,
+          "created_at": "2020-09-24T18:53:19Z",
+          "updated_at": "2022-03-01T02:08:54Z",
+          "location": {
+            "id": "14"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "388ecc7b20884826803ab0a4899963e1",
+          "name": "Investigação",
+          "is_master": false,
+          "master_id": "4ac505e54cc740608b0c2f49b2bc6384",
+          "path": "Clínica Médica[$$]Neurologia [$$]Acidentes Vasculares Cerebrais (AVC)[$$]Acidente Vascular Cerebral Hemorrágico [$$]Hemorragia Subaracnoidea (HSA)[$$]Investigação",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "answer_type": "DISCURSIVE",
+      "statement": "Paciente C.A.M, feminino, 42 anos, foi levada por seu esposo ao pronto atendimento do Hospital Municipal com queixa de cefaleia intensa difusa associada a náuseas e   vômitos e iniciada há 2 horas. Ela descreve a dor como \"a pior dor de cabeça da minha vida\" e afirma que começou de repente, após uma discussão com a filha por prolemas familiares. A cefaleia não teve melhora mesmo após tomar 2 comprimidos de 500mg de dipirona e a intensidade da dor agravou-se. Nega qualquer trauma, esforço fisico intenso, alterações visuais, fotofobia ou crise convulsiva, mas afirma \"estar sentindo o corpo quente\", iniciado minutos depois da precipitação da cefaleia e está muito preocupada em ser febre. Nega qualquer problema médico significativo  pregresso.  Nega  qualquer cirurgia anterior e faz uso há 12 anos de contraceptivos orais. Afirma trabalhar como atendende de telemarketing e nega uso de drogas ilícitas, tabagismo ou etilismo. Religião católica, mas não frequenta a igreja. EXAME FÍSICO: Regular estado geral, levemente ansiosa, inquieta, lúcida e orientada no tempo e espaço, desidratada 1+/4+, corada, Tax: 37,2°C. O pulso é regular (85 bpm), a PA é 150/85 mmHg (que ela afirma estar mais alto que o habitual), e a FR é 20 irpm. Neurológico: Escala de Coma Glasglow 15, pupilas pequenas, de 2 mm, isocóricas e fotorreagentes. A força motora e os reflexos profundos são simétricos e sem clônus. Os olhos estão normais, com movimentos extraoculares normais e sem fotofobia ou nistagmos. Fundoscopia: normal. Nenhuma nodulação é detectada no exame do pescoço, mas apresenta leve rigidez de  nuca.  Exames  do aparelho respiratório, cardíaco, abdominal sem alterações. As análises de hemograma, eletrólitos, bioquímica e a análise da urina são normais. Realizou tomografia de crânio   sem contraste. (imagem abaixo).&nbsp;<div><br></div><div>De acordo com o caso clínico. Em caso de não possuir o exame de imagem disponível em seu pronto atendimento, como proceder à investigação para confirmação diagnóstica?</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7C129166-7E38-334D-2222-9375FDFD859D/7C129166-7E38-334D-2222-9375FDFD859D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+      "statement_text": "Paciente C.A.M, feminino, 42 anos, foi levada por seu esposo ao pronto atendimento do Hospital Municipal com queixa de cefaleia intensa difusa associada a náuseas e   vômitos e iniciada há 2 horas. Ela descreve a dor como &#34;a pior dor de cabeça da minha vida&#34; e afirma que começou de repente, após uma discussão com a filha por prolemas familiares. A cefaleia não teve melhora mesmo após tomar 2 comprimidos de 500mg de dipirona e a intensidade da dor agravou-se. Nega qualquer trauma, esforço fisico intenso, alterações visuais, fotofobia ou crise convulsiva, mas afirma &#34;estar sentindo o corpo quente&#34;, iniciado minutos depois da precipitação da cefaleia e está muito preocupada em ser febre. Nega qualquer problema médico significativo  pregresso.  Nega  qualquer cirurgia anterior e faz uso há 12 anos de contraceptivos orais. Afirma trabalhar como atendende de telemarketing e nega uso de drogas ilícitas, tabagismo ou etilismo. Religião católica, mas não frequenta a igreja. EXAME FÍSICO: Regular estado geral, levemente ansiosa, inquieta, lúcida e orientada no tempo e espaço, desidratada 1+/4+, corada, Tax: 37,2°C. O pulso é regular (85 bpm), a PA é 150/85 mmHg (que ela afirma estar mais alto que o habitual), e a FR é 20 irpm. Neurológico: Escala de Coma Glasglow 15, pupilas pequenas, de 2 mm, isocóricas e fotorreagentes. A força motora e os reflexos profundos são simétricos e sem clônus. Os olhos estão normais, com movimentos extraoculares normais e sem fotofobia ou nistagmos. Fundoscopia: normal. Nenhuma nodulação é detectada no exame do pescoço, mas apresenta leve rigidez de  nuca.  Exames  do aparelho respiratório, cardíaco, abdominal sem alterações. As análises de hemograma, eletrólitos, bioquímica e a análise da urina são normais. Realizou tomografia de crânio   sem contraste. (imagem abaixo). De acordo com o caso clínico. Em caso de não possuir o exame de imagem disponível em seu pronto atendimento, como proceder à investigação para confirmação diagnóstica?",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "6ad809a885fc8cb0a06164fb2e2142c1",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-10-02 18:26:50.324483 +0000 UTC",
+      "forum_id": "1752ea11-d68b-4e25-84dd-1edfc7bbd8f2",
+      "solution": {
+        "_key": "4add30ce-4c68-4cfe-b103-afd95980c8e5",
+        "complete": "A presença de um quadro de cefaleia de início súbito deve direcionar a nossa atenção para a suspeita de um quadro de hemorragia subaracnóidea (HSA) por ruptura de um aneurisma cerebral.<div><br><div>A HSA é caracterizada por um sangramento no espaço liquórico, responsável pelo surgimento de um quadro de cefaleia súbita associada a sinais de irritação meningorradicular por causa de processo inflamatório estéril gerado pela presença de sangue em contato com as meninges.</div><div><br></div><div>O fluxograma de atendimento a um paciente com suspeita de HSA deve respeitar as orientações a seguir:</div></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/509F3C8D-764A-068F-A304-EF822211E4EA/509F3C8D-764A-068F-A304-EF822211E4EA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Essa questão é extremamente polêmica, pois apesar de sabermos que a resposta é punção lombar, também é importante ressaltar que na suspeita de hipertensão intracraniana por lesão expansiva com efeito de massa, a punção lombar sem exame de imagem prévio deveria ser contraindicada.</div><div><br></div><div>De qualquer forma, a resposta oficial exigia que fizéssemos uma punção lombar, sendo importante diferenciá-la de acidente de punção, como a tabela a seguir mostra:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5514DB0D-1078-81EB-391F-87549444778F/5514DB0D-1078-81EB-391F-87549444778F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>GABARITO OFICIAL: Realizar punção lombar ou coletar o líquor cefalorraquidiano (0,25) e analisar o líquor cefalorraquidiano (0,25). Se o líquor tiver coloração rósea, presença de sangramento macroscópico ou contagem de hemácias, garantido o não acidente de punção, confirma-se o diagnóstico de Hemorragia Subaracnóidea (1,0).</div>",
+        "sanitized_complete": "A presença de um quadro de cefaleia de início súbito deve direcionar a nossa atenção para a suspeita de um quadro de hemorragia subaracnóidea (HSA) por ruptura de um aneurisma cerebral.A HSA é caracterizada por um sangramento no espaço liquórico, responsável pelo surgimento de um quadro de cefaleia súbita associada a sinais de irritação meningorradicular por causa de processo inflamatório estéril gerado pela presença de sangue em contato com as meninges.O fluxograma de atendimento a um paciente com suspeita de HSA deve respeitar as orientações a seguir:Essa questão é extremamente polêmica, pois apesar de sabermos que a resposta é punção lombar, também é importante ressaltar que na suspeita de hipertensão intracraniana por lesão expansiva com efeito de massa, a punção lombar sem exame de imagem prévio deveria ser contraindicada.De qualquer forma, a resposta oficial exigia que fizéssemos uma punção lombar, sendo importante diferenciá-la de acidente de punção, como a tabela a seguir mostra:GABARITO OFICIAL: Realizar punção lombar ou coletar o líquor cefalorraquidiano (0,25) e analisar o líquor cefalorraquidiano (0,25). Se o líquor tiver coloração rósea, presença de sangramento macroscópico ou contagem de hemácias, garantido o não acidente de punção, confirma-se o diagnóstico de Hemorragia Subaracnóidea (1,0).",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+        "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+        "author_profile": {
+          "id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+          "full_name": "Victor Fiorini",
+          "avatar_url": "https://static.accounts.estrategia.com/74da8efaaec1d2fecb0176fa7300040a",
+          "about_me": "Graduação em Medicina pela UNIFESP \nResidência em Clínica Médica pela UNIFESP\nResidência em Neurologia pelo HCFMUSP \nMembro Titular da Academia Brasileira de Neurologia\nMédico Colaborador do Ambulatório de Distúrbios do Sono (Neuro-Sono) da disciplina de Neurologia da UNIFESP (2008-2014).\nEstágio no Ambulatório de Toxina Botulínica do Setor de Distúrbios do Movimento da Disciplina de Neurologia da UNIFESP (2011-2012).\nEx-plantonista do Pronto-Atendimento dos Hospitais Israelita Albert Einstein e Santa Catarina.\nProfessor de Neurologia, Neurofisiologia e Emergências Clínicas do Curso de Medicina do Centro Universitário São Camilo - SP \nProfessor do Curso de Pós-Graduação Lato Sensu em Neurologia da Faculdade IPEMED.\nProfessor de Neurologia do Curso de Pós-Graduação em Medicina de Urgência da ABRAMURGEM.\nProfessor de Neurologia do Curso de Pós-Graduação Lato Sensu em Emergências Clínicas da Sociedade Beneficente Israelita Albert Einstein.\nCoordenador do Curso Preparatório para a Prova de Título de Especialista em Neurologia do Cursomedi. \nMédico do corpo clínico dos Hospitais Albert Einstein, Sírio-Libanês, Oswaldo Cruz e Santa Catarina. \nProfessor de Neurologia do Estratégia Med 🦉\n\n?igshid=zws64afawiie",
+          "social_networks": [
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/profvictorfiorini",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-15 11:11:11.490279 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": false,
+      "solution_video_url": "",
+      "unlisted": false,
+      "slug": "Paciente-C-M-feminino3200f2d9603",
+      "public": true
+    },
+    {
+      "id": "4000127933",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2017,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 2,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Discursiva",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "84BDFEFE-E5D8-F935-46D4-B20BBBD78C54"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 16,
+          "created_at": "2020-09-24T18:37:43Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "ad4b2ef6c51b4a8b9dbf77f014c8ea14",
+          "name": "Morte Encefálica",
+          "is_master": false,
+          "master_id": "8d854fe143d54c9d85eb7debf1712766",
+          "path": "Clínica Médica[$$]Neurologia [$$]Coma e Alterações da Consciência[$$]Morte Encefálica",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "answer_type": "DISCURSIVE",
+      "statement": "Uma mulher com 23 anos de idade teve trauma cranicenfálico grave isolado após  queda do cavalo. Previamente hígida sem utilizar nenhum tipo de medicação de rotina, a paciente está internada na Unidade de Tratamento Intensivo de um hospital com 200  leitos há 8 dias, com piora clínica progressiva, a ponto de a equipe médica conversar com os familiares sobre a necessidade de realização de exames devido à suspeita de morte encefálica. A mãe da paciente, entendendo que a equipe passaria a discutir a   possibilidade de doação de órgãos, antecipou que a paciente havia comentado ser bastante favorável à doação de seus órgãos, em caso de morte encefálica. Ela acrescentou que, apesar de saber da posição da filha sobre o assunto, tinha muito receio de tomar a decisão junto com os demais membros da família, por não saberem até que ponto o diagnóstico de morte encefálica é confiável e também em razão da forte influência religiosa de alguns deles. Considerando a situação descrita acima, atenda ao que se pede no item a seguir. Com base na legislação vigente no país, descreva quatro critérios diagnósticos para confirmação de morte encefálica.",
+      "statement_text": "Uma mulher com 23 anos de idade teve trauma cranicenfálico grave isolado após  queda do cavalo. Previamente hígida sem utilizar nenhum tipo de medicação de rotina, a paciente está internada na Unidade de Tratamento Intensivo de um hospital com 200  leitos há 8 dias, com piora clínica progressiva, a ponto de a equipe médica conversar com os familiares sobre a necessidade de realização de exames devido à suspeita de morte encefálica. A mãe da paciente, entendendo que a equipe passaria a discutir a   possibilidade de doação de órgãos, antecipou que a paciente havia comentado ser bastante favorável à doação de seus órgãos, em caso de morte encefálica. Ela acrescentou que, apesar de saber da posição da filha sobre o assunto, tinha muito receio de tomar a decisão junto com os demais membros da família, por não saberem até que ponto o diagnóstico de morte encefálica é confiável e também em razão da forte influência religiosa de alguns deles. Considerando a situação descrita acima, atenda ao que se pede no item a seguir. Com base na legislação vigente no país, descreva quatro critérios diagnósticos para confirmação de morte encefálica.",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-10-03 13:34:00.637016 +0000 UTC",
+      "forum_id": "58960599-2c17-4169-b9e0-f41e28dedfc6",
+      "solution": {
+        "_key": "e6ae5c63-9871-4f84-8117-3ea8d3ddb689",
+        "complete": "De acordo com a resolução 2173/17 do CFM, para diagnóstico da morte encefálica, são necessários os seguintes requisitos:<div><br><div>• Coma não perceptivo;</div><div><br></div><div>• Tempo de observação em serviço de saúde de &gt; 6h, exceto para encefalopatia anóxica (&gt; 24h);</div><div><br></div><div>• Ausência de reatividade supraespinhal (reflexos de tronco);</div><div><br></div><div>• Apneia persistente;</div><div><br></div><div>• Lesão encefálica de causa conhecida, irreversível e capaz de causar a morte encefálica;</div><div><br></div><div>• Ausência de fatores tratáveis que possam confundir o diagnóstico de morte encefálica;</div><div><br></div><div>• Temperatura &gt; 35˚C, SaO2 &gt; 94% e PA sistólica ≥ 100 mmHg ou PAM ≥ 65 mmHg (adultos);</div><div><br></div><div>• Dois exames clínicos, feitos por dois médicos diferentes, com intervalo de 1h entre eles;</div><div><br></div><div>• Um teste da apneia;</div><div><br></div><div>• Um exame complementar (EEG, doppler transcraniano, SPECT ou arteriografia).</div><div><br></div><div>O exame clínico deverá revelar:</div><div><br></div><div>• Pontuação na escala de coma de Glasgow: 3;</div><div><br></div><div>• Ausência de reflexos de tronco:</div><div><br></div><div>• Fotomotor;</div><div><br></div><div>• Córneo-palpebral;</div><div><br></div><div>• Oculocefálico;</div><div><br></div><div>• Prova calórica;</div><div><br></div><div>• Tosse;</div><div><br></div><div>• Teste da apneia mostrando ausência de movimentos respiratórios e PaCO2 acima de 55 mmHg após 10 min sem conexão com ventilador (teste POSITIVO).</div><div><br></div><div>GABARITO OFICIAL: O participante poderá citar quaisquer dos seguintes critérios, obtidos por meio de exames clínicos: ausência de resposta à dor, ausência de reflexos oculomotor, corneopalpebral, oculocefálico, oculovestibular e da tosse, teste da apneia e reatividade infraespinhal medular; ou por meio de exames complementares: ausência de circulação sanguínea intracraniana (angiografia cerebral, doppler transcraniano), ausência de atividade elétrica cerebral (EEG) e de atividade metabólica cerebral. GABARITO PÓS: O participante poderá citar quaisquer dos seguintes critérios, obtidos por meio de exames clínicos: ausência de resposta à dor, ausência de reflexos oculomotor, corneopalpebral, óculocefálico, óculovestibular e da tosse, teste da apneia e reatividade infraespinhal medular; ou por meio de exames complementares: ausência de circulação sanguínea intracraniana (angiografia cerebral, doppler transcraniano), ausência de atividade elétrica cerebral (EEG) e de atividade metabólica cerebral.</div></div>",
+        "sanitized_complete": "De acordo com a resolução 2173/17 do CFM, para diagnóstico da morte encefálica, são necessários os seguintes requisitos:• Coma não perceptivo;• Tempo de observação em serviço de saúde de &gt; 6h, exceto para encefalopatia anóxica (&gt; 24h);• Ausência de reatividade supraespinhal (reflexos de tronco);• Apneia persistente;• Lesão encefálica de causa conhecida, irreversível e capaz de causar a morte encefálica;• Ausência de fatores tratáveis que possam confundir o diagnóstico de morte encefálica;• Temperatura &gt; 35˚C, SaO2 &gt; 94% e PA sistólica ≥ 100 mmHg ou PAM ≥ 65 mmHg (adultos);• Dois exames clínicos, feitos por dois médicos diferentes, com intervalo de 1h entre eles;• Um teste da apneia;• Um exame complementar (EEG, doppler transcraniano, SPECT ou arteriografia).O exame clínico deverá revelar:• Pontuação na escala de coma de Glasgow: 3;• Ausência de reflexos de tronco:• Fotomotor;• Córneo-palpebral;• Oculocefálico;• Prova calórica;• Tosse;• Teste da apneia mostrando ausência de movimentos respiratórios e PaCO2 acima de 55 mmHg após 10 min sem conexão com ventilador (teste POSITIVO).GABARITO OFICIAL: O participante poderá citar quaisquer dos seguintes critérios, obtidos por meio de exames clínicos: ausência de resposta à dor, ausência de reflexos oculomotor, corneopalpebral, oculocefálico, oculovestibular e da tosse, teste da apneia e reatividade infraespinhal medular; ou por meio de exames complementares: ausência de circulação sanguínea intracraniana (angiografia cerebral, doppler transcraniano), ausência de atividade elétrica cerebral (EEG) e de atividade metabólica cerebral. GABARITO PÓS: O participante poderá citar quaisquer dos seguintes critérios, obtidos por meio de exames clínicos: ausência de resposta à dor, ausência de reflexos oculomotor, corneopalpebral, óculocefálico, óculovestibular e da tosse, teste da apneia e reatividade infraespinhal medular; ou por meio de exames complementares: ausência de circulação sanguínea intracraniana (angiografia cerebral, doppler transcraniano), ausência de atividade elétrica cerebral (EEG) e de atividade metabólica cerebral.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+        "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+        "author_profile": {
+          "id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+          "full_name": "Victor Fiorini",
+          "avatar_url": "https://static.accounts.estrategia.com/74da8efaaec1d2fecb0176fa7300040a",
+          "about_me": "Graduação em Medicina pela UNIFESP \nResidência em Clínica Médica pela UNIFESP\nResidência em Neurologia pelo HCFMUSP \nMembro Titular da Academia Brasileira de Neurologia\nMédico Colaborador do Ambulatório de Distúrbios do Sono (Neuro-Sono) da disciplina de Neurologia da UNIFESP (2008-2014).\nEstágio no Ambulatório de Toxina Botulínica do Setor de Distúrbios do Movimento da Disciplina de Neurologia da UNIFESP (2011-2012).\nEx-plantonista do Pronto-Atendimento dos Hospitais Israelita Albert Einstein e Santa Catarina.\nProfessor de Neurologia, Neurofisiologia e Emergências Clínicas do Curso de Medicina do Centro Universitário São Camilo - SP \nProfessor do Curso de Pós-Graduação Lato Sensu em Neurologia da Faculdade IPEMED.\nProfessor de Neurologia do Curso de Pós-Graduação em Medicina de Urgência da ABRAMURGEM.\nProfessor de Neurologia do Curso de Pós-Graduação Lato Sensu em Emergências Clínicas da Sociedade Beneficente Israelita Albert Einstein.\nCoordenador do Curso Preparatório para a Prova de Título de Especialista em Neurologia do Cursomedi. \nMédico do corpo clínico dos Hospitais Albert Einstein, Sírio-Libanês, Oswaldo Cruz e Santa Catarina. \nProfessor de Neurologia do Estratégia Med 🦉\n\n?igshid=zws64afawiie",
+          "social_networks": [
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/profvictorfiorini",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-18 12:35:18.527061 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": true,
+      "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127933-720.mp4",
+      "unlisted": false,
+      "slug": "mulher-com-23-anos1921b74e2e5",
+      "public": true
+    },
+    {
+      "id": "4000127610",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2017,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 100,
+          "created_at": "2020-09-24T18:33:06Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "7acf2fb0120446a89f4d8c9bbbb10f89",
+          "name": "Lesão do Quiasma Óptico",
+          "is_master": false,
+          "master_id": "538ccec0301c4fbea8d94e2ee7b52ba6",
+          "path": "Clínica Médica[$$]Neurologia [$$]Anatomia, Fisiologia e Semiologia Neurológica[$$]Semiologia Neurológica[$$]Nervos Cranianos (NC)[$$]Via Visual (II NC)[$$]Lesão do Quiasma Óptico",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "3bb319cb-ba6d-404e-9051-54eac4766970",
+          "position": "0",
+          "body": "cordoma.",
+          "sanitized_body": "cordoma.",
+          "correct": false,
+          "created_at": "2020-10-02 17:21:53.557589 +0000 UTC",
+          "updated_at": "2020-11-08 20:56:53.524479 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Incorreta. Cordomas são neoplasias raras, de característica maligna, que podem ocorrer em qualquer local da notocorda. Geralmente são tumores da linha média, tendo como principal local de acometimento o sacro (50%) e posteriormente a região esfeno-occipital (35%) e coluna (15%).",
+            "sanitized_complete": "Incorreta. Cordomas são neoplasias raras, de característica maligna, que podem ocorrer em qualquer local da notocorda. Geralmente são tumores da linha média, tendo como principal local de acometimento o sacro (50%) e posteriormente a região esfeno-occipital (35%) e coluna (15%).",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+            "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+            "author_profile": null,
+            "created_at": "2020-10-21 18:00:39.905833 +0000 UTC",
+            "updated_at": "2020-12-03 13:19:00.191643 +0000 UTC"
+          },
+          "answer_percentage": 8,
+          "answers": 84
+        },
+        {
+          "id": "4fd0544d-c5b8-4090-ad71-90b195c2ba62",
+          "position": "1",
+          "body": "schwannoma.",
+          "sanitized_body": "schwannoma.",
+          "correct": false,
+          "created_at": "2020-10-02 17:21:53.557589 +0000 UTC",
+          "updated_at": "2020-11-08 20:56:53.595454 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Incorreta. Schwannomas são tumores histologicamente benignos que crescem da bainha dos nervos periféricos a partir das células de Schwann.",
+            "sanitized_complete": "Incorreta. Schwannomas são tumores histologicamente benignos que crescem da bainha dos nervos periféricos a partir das células de Schwann.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+            "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+            "author_profile": null,
+            "created_at": "2020-10-21 18:00:39.905358 +0000 UTC",
+            "updated_at": "2020-12-03 13:19:00.182406 +0000 UTC"
+          },
+          "answer_percentage": 17,
+          "answers": 191
+        },
+        {
+          "id": "c50a8c6a-7f39-4b96-8edc-1fffc2a3763a",
+          "position": "2",
+          "body": "craniofaringeoma.",
+          "sanitized_body": "craniofaringeoma.",
+          "correct": true,
+          "created_at": "2020-10-02 17:21:53.557589 +0000 UTC",
+          "updated_at": "2020-11-08 20:56:53.660681 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Correta. Craniofaringiomas são tumores primários da região selar, de natureza histológica quase invariavelmente benigna, sendo uma das principais causas de compressão quiasmática.",
+            "sanitized_complete": "Correta. Craniofaringiomas são tumores primários da região selar, de natureza histológica quase invariavelmente benigna, sendo uma das principais causas de compressão quiasmática.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+            "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+            "author_profile": null,
+            "created_at": "2020-10-21 18:00:39.906427 +0000 UTC",
+            "updated_at": "2020-12-03 13:19:00.19164 +0000 UTC"
+          },
+          "answer_percentage": 62,
+          "answers": 690
+        },
+        {
+          "id": "7f52692b-4a3b-4623-8610-fe2026632979",
+          "position": "3",
+          "body": "tumor de plexo coroide.",
+          "sanitized_body": "tumor de plexo coroide.",
+          "correct": false,
+          "created_at": "2020-10-02 17:21:53.557589 +0000 UTC",
+          "updated_at": "2020-11-08 20:56:53.764909 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Incorreta. Tumores do plexo coróide são neoplasias do sistema nervoso central (SNC) originários do epitélio de revestimento dos ventrículos cerebrais, que tipicamente acometem crianças.",
+            "sanitized_complete": "Incorreta. Tumores do plexo coróide são neoplasias do sistema nervoso central (SNC) originários do epitélio de revestimento dos ventrículos cerebrais, que tipicamente acometem crianças.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+            "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+            "author_profile": null,
+            "created_at": "2020-10-21 18:00:39.906239 +0000 UTC",
+            "updated_at": "2020-12-03 13:19:00.181012 +0000 UTC"
+          },
+          "answer_percentage": 14,
+          "answers": 151
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Um menino com 5 anos e 11 meses de idade faz seguimento de rotina em Unidade Básica de Saúde desde o nascimento, sem antecedentes morbidos relevantes. Em sua última consulta, há um ano, sua estatura era de 110 cm; na consulta atual está medindo 111 cm. Há 4 meses, passou a apresentar cefaleia holocraniana diária, de intensidade moderada a forte e dificuldade visual. A avaliação oftalmolóogica revelou hemianopsia bitemporal. A principal hipótese diagnósticada para esse caso é",
+      "statement_text": "Um menino com 5 anos e 11 meses de idade faz seguimento de rotina em Unidade Básica de Saúde desde o nascimento, sem antecedentes morbidos relevantes. Em sua última consulta, há um ano, sua estatura era de 110 cm; na consulta atual está medindo 111 cm. Há 4 meses, passou a apresentar cefaleia holocraniana diária, de intensidade moderada a forte e dificuldade visual. A avaliação oftalmolóogica revelou hemianopsia bitemporal. A principal hipótese diagnósticada para esse caso é",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-10-02 17:21:53.557589 +0000 UTC",
+      "solution": {
+        "_key": "85a5b4c6-1983-44bf-b58e-8d1f2a9b593c",
+        "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Caro (a) aluno (a), vamos relembrar alguns conceitos importantes para acertar esse tipo de questão. A existência do defeito campimétrico chamado de hemianopsia bitemporal caracteriza uma lesão no quiasma óptico. As fibras que se cruzam no quiasma óptico têm origem na retina nasal de ambos os olhos, enquanto as fibras advindas da retina temporal passam externamente e se mantêm do mesmo lado. Dessa forma, lesões que afetam o quiasma normalmente comprimem as fibras centrais, que correspondem às retinas nasais (campos temporais), resultando em hemianopsia heterônima bitemporal. As principais patologias que comprimem o quiasma óptico e geram esse quadro são: adenomas hipofisários, craniofaringiomas, meningiomas e aneurismas.</div>",
+        "sanitized_complete": "GABARITO: ALTERNATIVA CCaro (a) aluno (a), vamos relembrar alguns conceitos importantes para acertar esse tipo de questão. A existência do defeito campimétrico chamado de hemianopsia bitemporal caracteriza uma lesão no quiasma óptico. As fibras que se cruzam no quiasma óptico têm origem na retina nasal de ambos os olhos, enquanto as fibras advindas da retina temporal passam externamente e se mantêm do mesmo lado. Dessa forma, lesões que afetam o quiasma normalmente comprimem as fibras centrais, que correspondem às retinas nasais (campos temporais), resultando em hemianopsia heterônima bitemporal. As principais patologias que comprimem o quiasma óptico e geram esse quadro são: adenomas hipofisários, craniofaringiomas, meningiomas e aneurismas.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+        "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+        "author_profile": {
+          "id": "0e300855-29e6-424a-92ef-f92658a78631",
+          "full_name": "Evelyn Ciuffo ",
+          "avatar_url": "https://static.accounts.estrategia.com/8f94ea1b5495549fb562e6e0ce98285a",
+          "about_me": "Médica graduada pela Universidade do Estado do Rio de Janeiro (2012). Residência médica pelo Hospital Central da Aeronáutica (2013-2015). Fellowship em segmento anterior (córnea, catarata e cirurgia refrativa) pelo Hospital de Olhos do Paraná. Atualmente trabalha como oftalmologista e professora do Estrategia Med.",
+          "social_networks": [
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/dra.evelynciuffo",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-21 18:00:40.145668 +0000 UTC",
+        "updated_at": "2020-12-03 13:19:00.255018 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": false,
+      "solution_video_url": "",
+      "unlisted": false,
+      "slug": "menino-com-5-anos-1177d3bf054c",
+      "public": true
+    },
+    {
+      "id": "4000049419",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2017,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 100,
+          "created_at": "2020-09-24T18:33:06Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "4ac505e54cc740608b0c2f49b2bc6384",
+          "name": "Hemorragia Subaracnoidea (HSA)",
+          "is_master": false,
+          "master_id": "65209aa2afab4e1daa661a9c084f2343",
+          "path": "Clínica Médica[$$]Neurologia [$$]Acidentes Vasculares Cerebrais (AVC)[$$]Acidente Vascular Cerebral Hemorrágico [$$]Hemorragia Subaracnoidea (HSA)",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "b16bf1d2-0986-4e8f-9241-0601def8f952",
+          "position": "0",
+          "body": "Enxaqueca complicada.",
+          "sanitized_body": "Enxaqueca complicada.",
+          "correct": false,
+          "created_at": "2020-09-12 14:14:16.244787 +0000 UTC",
+          "updated_at": "2020-11-25 22:18:07.494719 +0000 UTC",
+          "topics": [
+            {
+              "id": "4dfff4b86146436dbd9fcb5966c454db",
+              "name": "Enxaqueca",
+              "is_master": false,
+              "master_id": "fe857ff600134d309f59003dfffe68a5",
+              "path": "Clínica Médica[$$]Neurologia [$$]Cefaleias[$$]Cefaleias Primárias[$$]Enxaqueca",
+              "has_children": true,
+              "nodes": null
+            }
+          ],
+          "solution": {
+            "complete": "Incorreta a alternativa “a”. A enxaqueca é um quadro de dor recorrente com características típicas, como qualidade pulsátil, unilateral, intensidade moderada a grave, piora com esforço e acompanhada de náuseas, vômitos, foto e fonofobia. Pelo que a questão descreve, não há antecedentes para que possamos diagnosticar enxaqueca. Enxaqueca complicada ocorre numa pessoa com história prévia de migrânea e é caracterizada por uma crise que dura mais de 72h, uma aura com mais de 1h de duração ou a presença de um infarto cerebral comprovado durante a crise de cefaleia de padrão migranoso.",
+            "sanitized_complete": "Incorreta a alternativa “a”. A enxaqueca é um quadro de dor recorrente com características típicas, como qualidade pulsátil, unilateral, intensidade moderada a grave, piora com esforço e acompanhada de náuseas, vômitos, foto e fonofobia. Pelo que a questão descreve, não há antecedentes para que possamos diagnosticar enxaqueca. Enxaqueca complicada ocorre numa pessoa com história prévia de migrânea e é caracterizada por uma crise que dura mais de 72h, uma aura com mais de 1h de duração ou a presença de um infarto cerebral comprovado durante a crise de cefaleia de padrão migranoso.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+            "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+            "author_profile": null,
+            "created_at": "2020-10-17 17:30:59.307257 +0000 UTC"
+          },
+          "answer_percentage": 6,
+          "answers": 161
+        },
+        {
+          "id": "90e6ac6e-c872-4ffc-89a2-705d25a44deb",
+          "position": "1",
+          "body": "Hemorragia subaracnoide.",
+          "sanitized_body": "Hemorragia subaracnoide.",
+          "correct": true,
+          "created_at": "2020-09-12 14:14:16.244787 +0000 UTC",
+          "updated_at": "2020-11-25 22:18:07.587343 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Correta a alternativa “b”. A presença de um quadro de cefaleia de início súbito deve direcionar a nossa atenção para a suspeita de um quadro de hemorragia subaracnóidea (HSA) por ruptura de um aneurisma cerebral.<div><br><div>O fluxograma de condutas para o atendimento a esses pacientes é mostrado na figura abaixo.</div></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/566D7C58-C0B0-0A34-CA54-CA59FE703CBB/566D7C58-C0B0-0A34-CA54-CA59FE703CBB-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+            "sanitized_complete": "Correta a alternativa “b”. A presença de um quadro de cefaleia de início súbito deve direcionar a nossa atenção para a suspeita de um quadro de hemorragia subaracnóidea (HSA) por ruptura de um aneurisma cerebral.O fluxograma de condutas para o atendimento a esses pacientes é mostrado na figura abaixo.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+            "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+            "author_profile": null,
+            "created_at": "2020-10-17 17:30:59.275443 +0000 UTC"
+          },
+          "answer_percentage": 83,
+          "answers": 2122
+        },
+        {
+          "id": "4c04e50d-68e3-4a54-8c5c-e8880581eb38",
+          "position": "2",
+          "body": "Hematoma intraparenquimatoso.",
+          "sanitized_body": "Hematoma intraparenquimatoso.",
+          "correct": false,
+          "created_at": "2020-10-02 18:20:33.999161 +0000 UTC",
+          "updated_at": "2020-11-25 22:18:07.658346 +0000 UTC",
+          "topics": [
+            {
+              "id": "f88eee9f67c6426b8e06260ebb4234d1",
+              "name": "Acidente Vascular Cerebral Hemorrágico Intraparenquimatoso",
+              "is_master": false,
+              "master_id": "65209aa2afab4e1daa661a9c084f2343",
+              "path": "Clínica Médica[$$]Neurologia [$$]Acidentes Vasculares Cerebrais (AVC)[$$]Acidente Vascular Cerebral Hemorrágico [$$]Acidente Vascular Cerebral Hemorrágico Intraparenquimatoso",
+              "has_children": true,
+              "nodes": null
+            }
+          ],
+          "solution": {
+            "complete": "Incorreta a alternativa “c”. O hematoma intraparenquimatoso afeta em 70% dos casos pessoas com hipertensão arterial. Ele é caracterizado por um quadro súbito de déficit neurológico que possa ser associado ao comprometimento de alguma artéria encefálica (síndrome neurovascular), associado ou não a cefaleia. Essa paciente não apresenta um quadro de síndrome neurovascular, tornando essa hipótese menos provável.",
+            "sanitized_complete": "Incorreta a alternativa “c”. O hematoma intraparenquimatoso afeta em 70% dos casos pessoas com hipertensão arterial. Ele é caracterizado por um quadro súbito de déficit neurológico que possa ser associado ao comprometimento de alguma artéria encefálica (síndrome neurovascular), associado ou não a cefaleia. Essa paciente não apresenta um quadro de síndrome neurovascular, tornando essa hipótese menos provável.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+            "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+            "author_profile": null,
+            "created_at": "2020-10-17 17:30:59.300712 +0000 UTC"
+          },
+          "answer_percentage": 4,
+          "answers": 94
+        },
+        {
+          "id": "49abdad9-5cf1-436a-8671-afb2266d5ba7",
+          "position": "3",
+          "body": "Acidente vascular cerebral isquêmico.",
+          "sanitized_body": "Acidente vascular cerebral isquêmico.",
+          "correct": false,
+          "created_at": "2020-10-02 18:20:34.03526 +0000 UTC",
+          "updated_at": "2020-11-25 22:18:07.744351 +0000 UTC",
+          "topics": [
+            {
+              "id": "d2ecf8f8d3e440a2aa090de15a105b6f",
+              "name": "Acidente Vascular Cerebral  Isquêmico",
+              "is_master": false,
+              "master_id": "786fed9d5874405aa0f9edafef7dfe3e",
+              "path": "Clínica Médica[$$]Neurologia [$$]Acidentes Vasculares Cerebrais (AVC)[$$]Acidente Vascular Cerebral  Isquêmico",
+              "has_children": true,
+              "nodes": null
+            },
+            {
+              "id": "70cf7e2a83be409bbd41c8e2b219033d",
+              "name": "Quadro Clínico",
+              "is_master": false,
+              "master_id": "d2ecf8f8d3e440a2aa090de15a105b6f",
+              "path": "Clínica Médica[$$]Neurologia [$$]Acidentes Vasculares Cerebrais (AVC)[$$]Acidente Vascular Cerebral  Isquêmico[$$]Quadro Clínico",
+              "has_children": true,
+              "nodes": null
+            }
+          ],
+          "solution": {
+            "complete": "Incorreta a alternativa “d”. O quadro de acidente vascular cerebral isquêmico raramente associa-se à presença de cefaleia. Na imensa maioria das vezes, o paciente apresenta um déficit neurológico compatível com uma síndrome neurovascular, diferentemente do que ocorreu com a paciente da questão.",
+            "sanitized_complete": "Incorreta a alternativa “d”. O quadro de acidente vascular cerebral isquêmico raramente associa-se à presença de cefaleia. Na imensa maioria das vezes, o paciente apresenta um déficit neurológico compatível com uma síndrome neurovascular, diferentemente do que ocorreu com a paciente da questão.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+            "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+            "author_profile": null,
+            "created_at": "2020-10-17 17:30:59.268711 +0000 UTC"
+          },
+          "answer_percentage": 7,
+          "answers": 191
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Uma mulher com 40 anos de idade é atendida em hospital, queixando-se de ter tido cefaleia súbita de forte intensidade, com náuseas e vômitos, seguida de perda de consciência. Ao exame, mostra-se consciente, orientada, sem deficit motor, com pupilas isocóricas e rigidez de nuca importante. Neste caso, o diagnóstico mais provável é:",
+      "statement_text": "Uma mulher com 40 anos de idade é atendida em hospital, queixando-se de ter tido cefaleia súbita de forte intensidade, com náuseas e vômitos, seguida de perda de consciência. Ao exame, mostra-se consciente, orientada, sem deficit motor, com pupilas isocóricas e rigidez de nuca importante. Neste caso, o diagnóstico mais provável é:",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "626146ad14e7af2c191e4e998f369ebe",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-09-12 14:14:16.244787 +0000 UTC",
+      "forum_id": "4fe8972b-b958-4bdf-b6cb-ddfc798d5a01",
+      "solution": {
+        "_key": "effb826d-3726-496c-9585-55f7931c809d",
+        "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Quando atendemos a uma paciente com quadro de cefaleia, o primeiro ponto a analisar é se a dor de cabeça apresenta algum sinal de alarme, o que nos faria pensa numa causa secundária e investigar a paciente com exame de tomografia de crânio.</div><div><br></div><div>Os principais sinais de alarme podem ser resumidos de acordo com o mnemônico INSIPIDA, como a seguir:</div><div><br></div><div>•\tInício: súbito (em “trovoada”);</div><div><br></div><div>•\tNeurológico: alterações no exame neurológico, convulsão;</div><div><br></div><div>•\tSistêmico: toxemia, rigidez de nuca, rash cutâneo e imunossupressão;</div><div><br></div><div>•\tIdade: após os 50 anos;</div><div><br></div><div>•\tPapiledema;</div><div><br></div><div>•\tInédita;</div><div><br></div><div>•\tDespertar por causa da dor;</div><div><br></div><div>•\tAnticoagulantes.</div><div><br></div><div>Vamos analisar as alternativas.</div>",
+        "sanitized_complete": "GABARITO: ALTERNATIVA BQuando atendemos a uma paciente com quadro de cefaleia, o primeiro ponto a analisar é se a dor de cabeça apresenta algum sinal de alarme, o que nos faria pensa numa causa secundária e investigar a paciente com exame de tomografia de crânio.Os principais sinais de alarme podem ser resumidos de acordo com o mnemônico INSIPIDA, como a seguir:•\tInício: súbito (em “trovoada”);•\tNeurológico: alterações no exame neurológico, convulsão;•\tSistêmico: toxemia, rigidez de nuca, rash cutâneo e imunossupressão;•\tIdade: após os 50 anos;•\tPapiledema;•\tInédita;•\tDespertar por causa da dor;•\tAnticoagulantes.Vamos analisar as alternativas.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+        "author_email_id": "565d47dd4715684c3911b0ef0ca53564",
+        "author_profile": {
+          "id": "609d03c5-1c66-4b16-8b14-3aa30d082102",
+          "full_name": "Victor Fiorini",
+          "avatar_url": "https://static.accounts.estrategia.com/74da8efaaec1d2fecb0176fa7300040a",
+          "about_me": "Graduação em Medicina pela UNIFESP \nResidência em Clínica Médica pela UNIFESP\nResidência em Neurologia pelo HCFMUSP \nMembro Titular da Academia Brasileira de Neurologia\nMédico Colaborador do Ambulatório de Distúrbios do Sono (Neuro-Sono) da disciplina de Neurologia da UNIFESP (2008-2014).\nEstágio no Ambulatório de Toxina Botulínica do Setor de Distúrbios do Movimento da Disciplina de Neurologia da UNIFESP (2011-2012).\nEx-plantonista do Pronto-Atendimento dos Hospitais Israelita Albert Einstein e Santa Catarina.\nProfessor de Neurologia, Neurofisiologia e Emergências Clínicas do Curso de Medicina do Centro Universitário São Camilo - SP \nProfessor do Curso de Pós-Graduação Lato Sensu em Neurologia da Faculdade IPEMED.\nProfessor de Neurologia do Curso de Pós-Graduação em Medicina de Urgência da ABRAMURGEM.\nProfessor de Neurologia do Curso de Pós-Graduação Lato Sensu em Emergências Clínicas da Sociedade Beneficente Israelita Albert Einstein.\nCoordenador do Curso Preparatório para a Prova de Título de Especialista em Neurologia do Cursomedi. \nMédico do corpo clínico dos Hospitais Albert Einstein, Sírio-Libanês, Oswaldo Cruz e Santa Catarina. \nProfessor de Neurologia do Estratégia Med 🦉\n\n?igshid=zws64afawiie",
+          "social_networks": [
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/profvictorfiorini",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-17 17:30:59.526614 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": false,
+      "solution_video_url": "",
+      "unlisted": false,
+      "slug": "mulher-com-40-anos52b3a8fe9d",
+      "public": true
+    },
+    {
+      "id": "4000042156",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2017,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 100,
+          "created_at": "2020-09-24T18:33:06Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "80bfd152c694425ea071e2ea171b06da",
+          "name": "Neurologia ",
+          "is_master": false,
+          "master_id": "0a6abdce2fbc45aa8ba8f0e75875ec84",
+          "path": "Clínica Médica[$$]Neurologia ",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "8d854fe143d54c9d85eb7debf1712766",
+          "name": "Coma e Alterações da Consciência",
+          "is_master": false,
+          "master_id": "80bfd152c694425ea071e2ea171b06da",
+          "path": "Clínica Médica[$$]Neurologia [$$]Coma e Alterações da Consciência",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "abd81998a9f74eae82981aa559b19f2e",
+          "name": "Estado Confusional Agudo (Delirium)",
+          "is_master": false,
+          "master_id": "8d854fe143d54c9d85eb7debf1712766",
+          "path": "Clínica Médica[$$]Neurologia [$$]Coma e Alterações da Consciência[$$]Estado Confusional Agudo (Delirium)",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "a4bf5bf5-f72b-4fac-8e8c-8f9157ba1dad",
+          "position": "0",
+          "body": "Excluir a possibilidade de delirium por uso de medicações, pedindo à filha que traga a lista completa de medicações em uso pelo paciente.",
+          "sanitized_body": "Excluir a possibilidade de delirium por uso de medicações, pedindo à filha que traga a lista completa de medicações em uso pelo paciente.",
+          "correct": true,
+          "created_at": "2020-09-11 22:34:03.255772 +0000 UTC",
+          "updated_at": "2020-12-30 17:52:45.178752 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Sempre que houver a suspeita de estado confusional, devem-se investigar os fatores desencadeantes mais comuns, entre eles alterações metabólicas e infecciosas, traumatismos e medicamentos. No caso abordado pela questão, a filha do paciente não tinha a informação dos medicamentos em uso. Nesse caso é necessário solicitar que ela obtenha a lista de medicamentos.&nbsp;",
+            "sanitized_complete": "Sempre que houver a suspeita de estado confusional, devem-se investigar os fatores desencadeantes mais comuns, entre eles alterações metabólicas e infecciosas, traumatismos e medicamentos. No caso abordado pela questão, a filha do paciente não tinha a informação dos medicamentos em uso. Nesse caso é necessário solicitar que ela obtenha a lista de medicamentos. ",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "859e9e04-1e29-4f34-adff-e969e1075041",
+            "author_email_id": "e490a120a2efb518b761acb765fa1344",
+            "author_profile": null,
+            "created_at": "2021-07-08 17:49:10.362978 +0000 UTC"
+          },
+          "answer_percentage": 84,
+          "answers": 1387
+        },
+        {
+          "id": "d2e6d619-3d8f-47ce-b688-7a2a0e08b6f4",
+          "position": "1",
+          "body": "Iniciar o diagnóstico diferencial de demências mediante a solicitação de ressonância magnética do cérebro.",
+          "sanitized_body": "Iniciar o diagnóstico diferencial de demências mediante a solicitação de ressonância magnética do cérebro.",
+          "correct": false,
+          "created_at": "2020-09-11 22:34:03.255772 +0000 UTC",
+          "updated_at": "2020-12-30 17:52:45.278466 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Para levantarmos a hipótese de demência, em primeiro lugar, é necessário afastar delirium. Demência tem a evolução lentamente progressiva. Logo, não se enquadra nesse caso, que tem início agudo.&nbsp;",
+            "sanitized_complete": "Para levantarmos a hipótese de demência, em primeiro lugar, é necessário afastar delirium. Demência tem a evolução lentamente progressiva. Logo, não se enquadra nesse caso, que tem início agudo. ",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "859e9e04-1e29-4f34-adff-e969e1075041",
+            "author_email_id": "e490a120a2efb518b761acb765fa1344",
+            "author_profile": null,
+            "created_at": "2021-07-08 17:49:10.361461 +0000 UTC"
+          },
+          "answer_percentage": 14,
+          "answers": 232
+        },
+        {
+          "id": "568cbd77-b7ee-4318-a7fd-1bc33d92be4b",
+          "position": "2",
+          "body": "Avaliar a possibilidade de tumor cerebral e solicitar tomografia computadorizada do cérebro.",
+          "sanitized_body": "Avaliar a possibilidade de tumor cerebral e solicitar tomografia computadorizada do cérebro.",
+          "correct": false,
+          "created_at": "2020-09-11 22:34:03.255772 +0000 UTC",
+          "updated_at": "2020-12-30 17:52:45.384612 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "O paciente não tem qualquer sinal que sugira a presença de tumor: nem déficits neurológicos focais, nem sinais de hipertensão intracraniana (cefaleia, vômitos e papiledema).&nbsp;",
+            "sanitized_complete": "O paciente não tem qualquer sinal que sugira a presença de tumor: nem déficits neurológicos focais, nem sinais de hipertensão intracraniana (cefaleia, vômitos e papiledema). ",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "859e9e04-1e29-4f34-adff-e969e1075041",
+            "author_email_id": "e490a120a2efb518b761acb765fa1344",
+            "author_profile": null,
+            "created_at": "2021-07-08 17:49:10.371015 +0000 UTC"
+          },
+          "answer_percentage": 2,
+          "answers": 26
+        },
+        {
+          "id": "c1f4d10b-bd02-4fec-bd5d-ccfabd39eb13",
+          "position": "3",
+          "body": "Investigar a possibilidade de neurocisticercose e solicitar tomografia computadorizada do cérebro.",
+          "sanitized_body": "Investigar a possibilidade de neurocisticercose e solicitar tomografia computadorizada do cérebro.",
+          "correct": false,
+          "created_at": "2020-09-11 22:34:03.255772 +0000 UTC",
+          "updated_at": "2020-12-30 17:52:45.484757 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Também a hipótese de neurocisticercose não é compatível com a evolução aguda do quadro, ainda mais levando em consideração que não há elementos na história que apontem para esse diagnóstico.&nbsp;",
+            "sanitized_complete": "Também a hipótese de neurocisticercose não é compatível com a evolução aguda do quadro, ainda mais levando em consideração que não há elementos na história que apontem para esse diagnóstico. ",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "859e9e04-1e29-4f34-adff-e969e1075041",
+            "author_email_id": "e490a120a2efb518b761acb765fa1344",
+            "author_profile": null,
+            "created_at": "2021-07-08 17:49:10.382214 +0000 UTC"
+          },
+          "answer_percentage": 0,
+          "answers": 5
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Um homem com 75 anos de idade, acompanhado da filha, é atendido em consulta   no ambulatório de Geriatria. A filha revela estar preocupada com os problemas de memória do pai que, segundo ela, tem estado desatento nas últimas 2 semanas, incapaz de lembrar seus compromissos, além de ter se perdido ao dirigir, ter sido incapaz de utlizar o telefone celular e de não ter certeza do próprio endereço. A filha informa que o paciente faz uso de vários medicamentos, não sabendo informar o nome deles. O  paciente não apresenta sintomas depressivos cormóbidos e não tem história pregressa   de uso de tabaco ou álcool. Ao exame físico, o paciente mostra-se normal. Considerando  a situação descrita, a medida incial apropriada para a elucidação diagnóstica é",
+      "statement_text": "Um homem com 75 anos de idade, acompanhado da filha, é atendido em consulta   no ambulatório de Geriatria. A filha revela estar preocupada com os problemas de memória do pai que, segundo ela, tem estado desatento nas últimas 2 semanas, incapaz de lembrar seus compromissos, além de ter se perdido ao dirigir, ter sido incapaz de utlizar o telefone celular e de não ter certeza do próprio endereço. A filha informa que o paciente faz uso de vários medicamentos, não sabendo informar o nome deles. O  paciente não apresenta sintomas depressivos cormóbidos e não tem história pregressa   de uso de tabaco ou álcool. Ao exame físico, o paciente mostra-se normal. Considerando  a situação descrita, a medida incial apropriada para a elucidação diagnóstica é",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "095a483fdca442525df9a48922304567",
+      "difficulty_level": "EASY",
+      "created_at": "2020-09-11 22:34:03.255772 +0000 UTC",
+      "solution": {
+        "_key": "9b14886e-2a50-48f6-8853-7735c7f9b996",
+        "complete": "Essa questão aborda um tema recorrente na prática clínica e muito frequente nas provas de residente. Fala sobre um paciente idoso, com alteração cognitiva com início agudo e pede para dar a melhor conduta. Sempre que você ver em uma questão um idoso com piora cognitiva aguda, pense na hipótese de estado confusional agudo ou Delirium.&nbsp;<div><br></div><div>Delirium é definido por uma alteração cognitiva aguda (com evolução de horas a poucos dias), diferente do padrão normal do paciente, com prejuízo de atenção. Além disso, tem alteração de nível de consciência ou de pensamento associada.</div><div>&nbsp;</div><div>Alguns fatores estão associados a maior risco de um paciente desenvolver Delirium. Chamamos de fatores predisponentes. Os principais são: idade avançada, histórico prévio de demência ou comprometimento cognitivo, sexo masculino, baixa escolaridade, doenças clínicas e neurológicas graves, etilismo e polifarmácia ou uso de psicotrópicos.</div><div>&nbsp;</div><div>Por outro lado, há fatores que são gatilhos, ou seja, que precipitam o quadro de Delirium. São chamados de fatores precipitantes. Os principais são infecção, desequilíbrio metabólico ou hidrelotrolítico, cirurgia de grande porte, trauma, uso de sondas, privação de sono, entre outros.</div><div>&nbsp;</div><div>O tratamento do Delirium é composto por 3 pilares: tratar os fatores precipitantes, medidas não farmacológicas e controle dos sintomas.&nbsp;</div><div>&nbsp;</div><div>Tratamento de precipitantes significa tratar a infecção, os distúrbios hidroeletrolítico, ajustar ou retirar fármacos de maior risco, dar suporte clínico. Para lembrar das principais medidas não farmacológicas podemos lembrar do mnemônico ReMoS: Reorientação, Mobilidade e Sono. Controle sintomático é necessário especialmente nos casos de delirium hiperativo. Nessas situações, o tratamento é Haloperidol IM.&nbsp;</div><div><br></div><div>Vamos às alternativas:&nbsp;</div><div><br></div>",
+        "sanitized_complete": "Essa questão aborda um tema recorrente na prática clínica e muito frequente nas provas de residente. Fala sobre um paciente idoso, com alteração cognitiva com início agudo e pede para dar a melhor conduta. Sempre que você ver em uma questão um idoso com piora cognitiva aguda, pense na hipótese de estado confusional agudo ou Delirium. Delirium é definido por uma alteração cognitiva aguda (com evolução de horas a poucos dias), diferente do padrão normal do paciente, com prejuízo de atenção. Além disso, tem alteração de nível de consciência ou de pensamento associada. Alguns fatores estão associados a maior risco de um paciente desenvolver Delirium. Chamamos de fatores predisponentes. Os principais são: idade avançada, histórico prévio de demência ou comprometimento cognitivo, sexo masculino, baixa escolaridade, doenças clínicas e neurológicas graves, etilismo e polifarmácia ou uso de psicotrópicos. Por outro lado, há fatores que são gatilhos, ou seja, que precipitam o quadro de Delirium. São chamados de fatores precipitantes. Os principais são infecção, desequilíbrio metabólico ou hidrelotrolítico, cirurgia de grande porte, trauma, uso de sondas, privação de sono, entre outros. O tratamento do Delirium é composto por 3 pilares: tratar os fatores precipitantes, medidas não farmacológicas e controle dos sintomas.  Tratamento de precipitantes significa tratar a infecção, os distúrbios hidroeletrolítico, ajustar ou retirar fármacos de maior risco, dar suporte clínico. Para lembrar das principais medidas não farmacológicas podemos lembrar do mnemônico ReMoS: Reorientação, Mobilidade e Sono. Controle sintomático é necessário especialmente nos casos de delirium hiperativo. Nessas situações, o tratamento é Haloperidol IM. Vamos às alternativas: ",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "859e9e04-1e29-4f34-adff-e969e1075041",
+        "author_email_id": "e490a120a2efb518b761acb765fa1344",
+        "author_profile": {
+          "id": "859e9e04-1e29-4f34-adff-e969e1075041",
+          "full_name": "Conrado Borges",
+          "avatar_url": "https://static.accounts.estrategia.com/9e6a7a6234b66e9d54b7d0350152e80f",
+          "about_me": "Professor de Neurologia do Estratégia Med\nNeurologista do Hospital Sírio-Libanês",
+          "anonymized_areas": []
+        },
+        "created_at": "2021-07-08 17:49:10.438769 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": false,
+      "solution_video_url": "",
+      "unlisted": false,
+      "slug": "homem-com-75-anos1299429af36",
+      "public": true
+    }
+  ]
+}

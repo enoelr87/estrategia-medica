@@ -1,0 +1,311 @@
+{
+    "data": [
+      {
+        "id": "4000129303",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "cbd6699325e64674a9432a710236f904",
+            "name": "Trombose das Hemorroidas Externas",
+            "is_master": false,
+            "master_id": "aebea2cc83a14b1a8610ceb08f1ddc77",
+            "path": "Cirurgia[$$]Proctologia[$$]Doenças Orificiais[$$]Doença Hemorroidária[$$]Trombose das Hemorroidas Externas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "21fd426c-216b-4916-abc3-251e54db8f3d",
+            "position": "0",
+            "body": "I84.1 - Hemorroidas internas com outras complicações.<div>&nbsp;&nbsp;</div>",
+            "sanitized_body": "I84.1 - Hemorroidas internas com outras complicações.  ",
+            "correct": false,
+            "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+            "updated_at": "2021-08-27 22:53:49.804619 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A presença de dor e o exame físico com mamilos hemorroidários externos com trombose, afastam o diagnóstico de hemorroida interna.",
+              "sanitized_complete": "A presença de dor e o exame físico com mamilos hemorroidários externos com trombose, afastam o diagnóstico de hemorroida interna.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:48:37.77785 +0000 UTC",
+              "updated_at": "2022-01-21 11:48:39.157103 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 138
+          },
+          {
+            "id": "60b0ea63-4568-46a3-80de-2739adb1f244",
+            "position": "1",
+            "body": "I84.2 - Hemorroidas internas sem complicações.<div>&nbsp;</div>",
+            "sanitized_body": "I84.2 - Hemorroidas internas sem complicações. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+            "updated_at": "2021-08-27 22:53:49.882959 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A presença de dor e o exame físico com mamilos hemorroidários externos com trombose, afastam o diagnóstico de hemorroida interna.",
+              "sanitized_complete": "A presença de dor e o exame físico com mamilos hemorroidários externos com trombose, afastam o diagnóstico de hemorroida interna.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:48:37.763175 +0000 UTC",
+              "updated_at": "2022-01-21 11:48:39.143345 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 41
+          },
+          {
+            "id": "38c59b70-b6a2-44ff-b508-41e2e6f05708",
+            "position": "2",
+            "body": "I84.6 - Plicomas hemorroidários residuais.<div>&nbsp;</div>",
+            "sanitized_body": "I84.6 - Plicomas hemorroidários residuais. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+            "updated_at": "2021-08-27 22:53:49.956671 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O plicoma anal é um excesso de pele que aparece na região de fora do ânus, não compatível com o quadro da nossa paciente. Não costuma causa dor nem sangramento.",
+              "sanitized_complete": "O plicoma anal é um excesso de pele que aparece na região de fora do ânus, não compatível com o quadro da nossa paciente. Não costuma causa dor nem sangramento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:48:37.767222 +0000 UTC",
+              "updated_at": "2022-01-21 11:48:39.143067 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 43
+          },
+          {
+            "id": "fb42904e-0caf-426c-b5f6-640eda2b9d56",
+            "position": "3",
+            "body": "I84.7 - Hemorroidas trombosadas não especificadas.<div>&nbsp;</div>",
+            "sanitized_body": "I84.7 - Hemorroidas trombosadas não especificadas. ",
+            "correct": true,
+            "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+            "updated_at": "2021-08-27 22:53:50.036623 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A presença de dor sugere hemorroida externa. No exame físico, mamilos hemorroidários externo com coágulo e ulceração em um deles, fecha do diagnóstico de trombose hemorroidária externa.",
+              "sanitized_complete": "A presença de dor sugere hemorroida externa. No exame físico, mamilos hemorroidários externo com coágulo e ulceração em um deles, fecha do diagnóstico de trombose hemorroidária externa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:48:37.749132 +0000 UTC",
+              "updated_at": "2022-01-21 11:48:39.157084 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 693
+          },
+          {
+            "id": "95c8693c-3380-41bd-bc58-a4b8b2748e63",
+            "position": "4",
+            "body": "I84.8-Hemorroidas não especificadas com outras complicações.",
+            "sanitized_body": "I84.8-Hemorroidas não especificadas com outras complicações.",
+            "correct": false,
+            "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+            "updated_at": "2021-08-27 22:53:50.108132 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Temos o diagnóstico clínico de hemorroida externa complicada com trombose e ulceração. Por isso, não devemos utilizar o CID “Hemorroidas não especificadas”.",
+              "sanitized_complete": "Temos o diagnóstico clínico de hemorroida externa complicada com trombose e ulceração. Por isso, não devemos utilizar o CID “Hemorroidas não especificadas”.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:48:37.774965 +0000 UTC",
+              "updated_at": "2022-01-21 11:48:39.147131 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 87
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente, 45 anos de idade, quatro partos normais, apresenta constipação intestinal crônica, com grande esforço evacuatório, às vezes com discreto sangramento, visível após a higienização com papel. Há três dias apresenta aumento de nodulações perianais, sangramento em maior quantidade do que o habitual (suja o vaso com sangue), acompanhado de dor anal às evacuações. Ao exame, apresenta exteriorização de mamilos hemorroidários, com edema importante em todos, além de extrusão de coágulo e pequena ulceração em um deles. Ao ser preenchida a ficha de referência para um serviço de Proctologia para essa paciente, qual dos seguintes CID devem ser registrados?<div>&nbsp;</div>",
+        "statement_text": "Uma paciente, 45 anos de idade, quatro partos normais, apresenta constipação intestinal crônica, com grande esforço evacuatório, às vezes com discreto sangramento, visível após a higienização com papel. Há três dias apresenta aumento de nodulações perianais, sangramento em maior quantidade do que o habitual (suja o vaso com sangue), acompanhado de dor anal às evacuações. Ao exame, apresenta exteriorização de mamilos hemorroidários, com edema importante em todos, além de extrusão de coágulo e pequena ulceração em um deles. Ao ser preenchida a ficha de referência para um serviço de Proctologia para essa paciente, qual dos seguintes CID devem ser registrados? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 15:07:51.469546 +0000 UTC",
+        "solution": {
+          "_key": "f2557e33-6a0b-4e3d-aa55-6c1aec1c3f6a",
+          "complete": "Meu querido aluno, o enunciado nos descreve uma paciente com “nodulações perianais” e sangramento. No exame físico, há mamilos hemorroidários. Até aqui, temos o diagnóstico de doença hemorroidária. Resta saber se é hemorroida interna ou externa.<div>Vamos fazer uma breve recordação sobre doença hemorroidária!</div><div>As hemorroidas são dilatações dos plexos hemorroidários localizados no segmento anorretal. A doença hemorroidária pode ser classificada como interna, externa ou mista, de acordo com o plexo hemorroidário acometido. A drenagem venosa da região anorretal é realizada pelos plexos hemorroidários superior e inferior, que são delimitados pela linha pectínea ou denteada. Quando os sintomas são decorrentes de dilatações vasculares localizadas acima da linha pectínea, ou seja, mais precisamente do plexo hemorroidário superior, são denominadas hemorroidas internas. Quando os sintomas ocorrem distalmente à linha pectínea, no plexo hemorroidário inferior, são denominadas hemorroidas externas. </div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F0D4531B-93CA-77EC-FAF6-83AC020C0C73/F0D4531B-93CA-77EC-FAF6-83AC020C0C73-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --></div><div>As hemorroidas externas são revestidas pela derme anal e têm inervação sensorial por fibras somáticas. Pelo fato de a anoderme ser ricamente inervada, a trombose de uma hemorroida externa pode causar dor significativa, além de sangramento discreto.  Ainda por essa razão, as hemorroidas externas não podem ser ligadas ou excisadas sem anestesia local adequada. O tratamento da hemorroida externa envolve o manejo nutricional, a prevenção de constipação e a higiene anal apropriada e delicada. Os pacientes devem ser orientados a aumentar a ingesta de fibras para 25 a 30 gramas por dia, a beber mais líquidos e a modificar as preferências alimentares, evitando alimentos constipantes e ingerindo verduras, legumes, e cereais em maior quantidade. Também devem ser incentivados a melhorar a higiene local, evitando esfregar excessivamente a região perianal e realizando limpeza suave com lenços umedecidos e banhos de assento frequentes. A ressecção das hemorroidas exclusivamente externas raramente é indicada, exceto na presença de trombose hemorroidária externa aguda nas primeiras 48 horas de evolução do processo (sob anestesia local). Quando os pacientes se apresentam na primeira consulta com período superior a três dias de evolução do evento trombótico, a reabsorção do coágulo está ocorrendo e, geralmente, eles já relatam melhora acentuada dos sintomas. A conduta mais utilizada nessas circunstâncias é conservadora.</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D8274882-E854-3D6F-DA52-3433DB4F4C6E/D8274882-E854-3D6F-DA52-3433DB4F4C6E-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --></div><div>As hemorroidas internas as hemorroidas internas são revestidas por mucosa fina e não apresentam inervação sensorial (lembre-se de que o canal anal proximal à linha pectínea apresenta inervação visceral, sendo sensível apenas à distensão, o que faz da dor um sintoma não esperado para as hemorroidas internas e, por outro lado, permite seu tratamento através de procedimentos realizados em consultório, sem anestesia.</div><div>São divididas em quatro graus e podem prolapsar de modo redutível ou irredutível. Veja na tabela abaixo:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7ED0F9D8-CAB1-58BB-8F04-B0E1D98EB817/7ED0F9D8-CAB1-58BB-8F04-B0E1D98EB817-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><br></div><div><br></div>",
+          "sanitized_complete": "Meu querido aluno, o enunciado nos descreve uma paciente com “nodulações perianais” e sangramento. No exame físico, há mamilos hemorroidários. Até aqui, temos o diagnóstico de doença hemorroidária. Resta saber se é hemorroida interna ou externa.Vamos fazer uma breve recordação sobre doença hemorroidária!As hemorroidas são dilatações dos plexos hemorroidários localizados no segmento anorretal. A doença hemorroidária pode ser classificada como interna, externa ou mista, de acordo com o plexo hemorroidário acometido. A drenagem venosa da região anorretal é realizada pelos plexos hemorroidários superior e inferior, que são delimitados pela linha pectínea ou denteada. Quando os sintomas são decorrentes de dilatações vasculares localizadas acima da linha pectínea, ou seja, mais precisamente do plexo hemorroidário superior, são denominadas hemorroidas internas. Quando os sintomas ocorrem distalmente à linha pectínea, no plexo hemorroidário inferior, são denominadas hemorroidas externas. As hemorroidas externas são revestidas pela derme anal e têm inervação sensorial por fibras somáticas. Pelo fato de a anoderme ser ricamente inervada, a trombose de uma hemorroida externa pode causar dor significativa, além de sangramento discreto.  Ainda por essa razão, as hemorroidas externas não podem ser ligadas ou excisadas sem anestesia local adequada. O tratamento da hemorroida externa envolve o manejo nutricional, a prevenção de constipação e a higiene anal apropriada e delicada. Os pacientes devem ser orientados a aumentar a ingesta de fibras para 25 a 30 gramas por dia, a beber mais líquidos e a modificar as preferências alimentares, evitando alimentos constipantes e ingerindo verduras, legumes, e cereais em maior quantidade. Também devem ser incentivados a melhorar a higiene local, evitando esfregar excessivamente a região perianal e realizando limpeza suave com lenços umedecidos e banhos de assento frequentes. A ressecção das hemorroidas exclusivamente externas raramente é indicada, exceto na presença de trombose hemorroidária externa aguda nas primeiras 48 horas de evolução do processo (sob anestesia local). Quando os pacientes se apresentam na primeira consulta com período superior a três dias de evolução do evento trombótico, a reabsorção do coágulo está ocorrendo e, geralmente, eles já relatam melhora acentuada dos sintomas. A conduta mais utilizada nessas circunstâncias é conservadora.As hemorroidas internas as hemorroidas internas são revestidas por mucosa fina e não apresentam inervação sensorial (lembre-se de que o canal anal proximal à linha pectínea apresenta inervação visceral, sendo sensível apenas à distensão, o que faz da dor um sintoma não esperado para as hemorroidas internas e, por outro lado, permite seu tratamento através de procedimentos realizados em consultório, sem anestesia.São divididas em quatro graus e podem prolapsar de modo redutível ou irredutível. Veja na tabela abaixo:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+          "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+          "author_profile": {
+            "id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+            "full_name": "Renatha Paiva de Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/e4000946ecd6625076f499e28ce5ac58",
+            "about_me": "➢ Graduação: Curso de Medicina pela Universidade Federal de Juiz de ForaMG, 1997 a 2002\n➢ Residência Médica em Cirurgia Geral pelo Hospital Santa Marcelina em São PauloSP, 2003 e 2004 – Prova de residência SUSSP.\n➢ Residência Médica em Cirurgia Oncológica pelo Instituto Arnaldo Vieira de CarvalhoSP, 2005 a 2007 – Prova de residência SUSSP.\n➢ Pós-graduação em Nutrologia pela ABRAN (Associação Brasileira de Nutrologia) em 2018.\n➢ Aprovada em 1o lugar no concurso público da Polícia Civil do Estado de São Paulo, para o cargo de\nmédico legista, em 2008.\n➢ Médica legista, chefe de equipe, do Instituto Médico Legal de Taboão da SerraSP, desde 2009.\n➢ Médica cirurgiã do Pronto Socorro do Hospital Regional de CotiaSP, desde 2007.\n➢ Preceptora da Residência Médica de Cirurgia Geral do Hospital Regional de CotiaSP, desde 2014.\n➢ Preceptora do internato de Cirurgia Geral da Unicid, Universidade Cidade São Paulo, realizado no\nHospital Regional de Cotia, desde 2019.\n➢ Professora da disciplina de Medicina Legal da Academia de Polícia Civil de São Paulo.\n\nRedes sociais:\nhttp:linkedin.cominrenatha-paiva-96a125196",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.renathapaiva",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 11:48:37.803701 +0000 UTC",
+          "updated_at": "2022-01-21 11:48:39.169819 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "paciente-45-anos-idade1003e3c4c69",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

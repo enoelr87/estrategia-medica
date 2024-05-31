@@ -1,0 +1,297 @@
+{
+    "data": [
+      {
+        "id": "4000127262",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4197717526ef4d409e1112af5c30c865",
+            "name": "Psicose Puerperal",
+            "is_master": false,
+            "master_id": "19534fd0fefe40c2bdfc14afc923f275",
+            "path": "Outros [$$]Psiquiatria[$$]Transtorno Psicóticos[$$]Psicose Puerperal",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f3e24def-1cf0-4f9e-b87a-080239a18c57",
+            "position": "0",
+            "body": "disforia pós-parto.",
+            "sanitized_body": "disforia pós-parto.",
+            "correct": false,
+            "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+            "updated_at": "2021-07-09 21:23:34.438559 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta Muitas mamães vivem sintomas de humor até algumas  semanas após o parto, conhecido como Baby Blues ou Blues Puerperal, ou ainda Disforia  pós-parto. A maioria dos sintomas é leve, caracterizados por tristeza, insegurança,  medo, labilidade emocional e ansiedade. Esses sintomas costumam durar alguns dias e  são atribuídos às mudanças rápidas dos níveis de hormônios sexuais pós-parto e às  mudanças sociofamiliares com o nascimento do novo membro da família. Suporte,  acolhimento, orientação e escuta são essenciais para essas pacientes nesse período.  Caso os sintomas se agravem ou durem mais de 2 semanas, um diagnóstico de  depressão pós-parto é dado e o tratamento padrão para depressão é instituído.",
+              "sanitized_complete": "Alternativa “a” incorreta Muitas mamães vivem sintomas de humor até algumas  semanas após o parto, conhecido como Baby Blues ou Blues Puerperal, ou ainda Disforia  pós-parto. A maioria dos sintomas é leve, caracterizados por tristeza, insegurança,  medo, labilidade emocional e ansiedade. Esses sintomas costumam durar alguns dias e  são atribuídos às mudanças rápidas dos níveis de hormônios sexuais pós-parto e às  mudanças sociofamiliares com o nascimento do novo membro da família. Suporte,  acolhimento, orientação e escuta são essenciais para essas pacientes nesse período.  Caso os sintomas se agravem ou durem mais de 2 semanas, um diagnóstico de  depressão pós-parto é dado e o tratamento padrão para depressão é instituído.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:16:36.41288 +0000 UTC",
+              "updated_at": "2021-07-12 15:16:38.364481 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 22
+          },
+          {
+            "id": "8850a6a0-ffdf-4116-a2af-617d21094bc1",
+            "position": "1",
+            "body": "psicose pós-parto.",
+            "sanitized_body": "psicose pós-parto.",
+            "correct": true,
+            "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+            "updated_at": "2021-07-09 21:23:34.521406 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” correta: Psicose puerperal envolve, conceitualmente, sintomas  psicóticos, como alucinações ou delírios, quadro compatível com nossa paciente.  Quando ocorrem sintomas psicóticos no pós-parto, em pacientes sem histórico prévio,  é importante o rastreio e investigação de transtorno bipolar, que muitas vezes tem seu  início após o parto",
+              "sanitized_complete": "Alternativa “b” correta: Psicose puerperal envolve, conceitualmente, sintomas  psicóticos, como alucinações ou delírios, quadro compatível com nossa paciente.  Quando ocorrem sintomas psicóticos no pós-parto, em pacientes sem histórico prévio,  é importante o rastreio e investigação de transtorno bipolar, que muitas vezes tem seu  início após o parto",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:16:36.396815 +0000 UTC",
+              "updated_at": "2021-07-12 15:16:38.392175 +0000 UTC"
+            },
+            "answer_percentage": 89,
+            "answers": 643
+          },
+          {
+            "id": "7924b177-4e7b-4284-9007-55aa53a12590",
+            "position": "2",
+            "body": "depressão pós-parto.",
+            "sanitized_body": "depressão pós-parto.",
+            "correct": false,
+            "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+            "updated_at": "2021-07-09 21:23:34.604779 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: Não há sintomas depressivos, como humor deprimido e  anedonia, e ficam evidentes os sintomas psicóticos.",
+              "sanitized_complete": "Alternativa “c” incorreta: Não há sintomas depressivos, como humor deprimido e  anedonia, e ficam evidentes os sintomas psicóticos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:16:36.404976 +0000 UTC",
+              "updated_at": "2021-07-12 15:16:38.377615 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 26
+          },
+          {
+            "id": "2bf92f3d-12f7-40c5-8f3e-6d30c04ddba0",
+            "position": "3",
+            "body": "transtorno de ansiedade.",
+            "sanitized_body": "transtorno de ansiedade.",
+            "correct": false,
+            "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+            "updated_at": "2021-07-09 21:23:34.686882 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: Não há sintomas psicóticos nos transtornos de ansiedade.",
+              "sanitized_complete": "Alternativa “d” incorreta: Não há sintomas psicóticos nos transtornos de ansiedade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:16:36.40116 +0000 UTC",
+              "updated_at": "2021-07-12 15:16:38.393873 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          },
+          {
+            "id": "261ba833-e49d-442b-b000-b7f88b1ee442",
+            "position": "4",
+            "body": "transtorno bipolar (psicose maníaco-depressiva).",
+            "sanitized_body": "transtorno bipolar (psicose maníaco-depressiva).",
+            "correct": false,
+            "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+            "updated_at": "2021-07-09 21:23:34.772687 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” incorreta: Neste momento, é possível o diagnóstico apenas de “psicose  puerperal”. Contudo, é possível que este quadro atual seja uma abertura de um quadro mania psicótica da bipolaridade. Por isso, o acompanhamento longitudinal é  fundamental para definir o diagnóstico mais adequado.",
+              "sanitized_complete": "Alternativa “e” incorreta: Neste momento, é possível o diagnóstico apenas de “psicose  puerperal”. Contudo, é possível que este quadro atual seja uma abertura de um quadro mania psicótica da bipolaridade. Por isso, o acompanhamento longitudinal é  fundamental para definir o diagnóstico mais adequado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:16:36.423938 +0000 UTC",
+              "updated_at": "2021-07-12 15:16:38.38901 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 30
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente com 17 anos de idade, primípara, encontra-se no 7º dia pós-parto e permanece internada no alojamento conjunto, acompanhando seu recém-nascido, em tratamento de sepse neonatal. Nesse período, a paciente começa a apresentar quadro de insônia, delírios de grandeza, alternados com manifestações paranoides. Diz que ouve vozes e vê sombras que querem pegá-la e trocar seu bebê. Durante o dia, apresenta agitação psicomotora ininterrupta. Ela não apresenta nenhum sintoma associado a infanticídio ou ideário negativo em relação à sua maternidade, mas diz que prefere   morrer a ser \"pega pelas sombras\". A família nega qualquer quadro anterior semelhante. Baseado na sintomatologia apresentada, o diagnóstico é:",
+        "statement_text": "Paciente com 17 anos de idade, primípara, encontra-se no 7º dia pós-parto e permanece internada no alojamento conjunto, acompanhando seu recém-nascido, em tratamento de sepse neonatal. Nesse período, a paciente começa a apresentar quadro de insônia, delírios de grandeza, alternados com manifestações paranoides. Diz que ouve vozes e vê sombras que querem pegá-la e trocar seu bebê. Durante o dia, apresenta agitação psicomotora ininterrupta. Ela não apresenta nenhum sintoma associado a infanticídio ou ideário negativo em relação à sua maternidade, mas diz que prefere   morrer a ser &#34;pega pelas sombras&#34;. A família nega qualquer quadro anterior semelhante. Baseado na sintomatologia apresentada, o diagnóstico é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 13:11:36.341378 +0000 UTC",
+        "forum_id": "93a48afc-7def-447b-9d13-4bf5f77c33ba",
+        "solution": {
+          "_key": "9f93723a-ab34-4e24-baaa-b3c397d7ab5a",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA B",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 15:16:36.667932 +0000 UTC",
+          "updated_at": "2021-07-12 15:16:38.608203 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Paciente-com-17-anos106ed82570a",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

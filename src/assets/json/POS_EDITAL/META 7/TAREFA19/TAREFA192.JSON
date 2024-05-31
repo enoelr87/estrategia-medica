@@ -1,0 +1,2579 @@
+{
+    "data": [
+      {
+        "id": "4000127617",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "20a3a2da046142e892cfc759adba242b",
+            "name": "Fraturas do colo do fêmur",
+            "is_master": false,
+            "master_id": "888132028f8b4f12b7002718416e2c2d",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Fraturas e Luxações[$$]Fraturas do fêmur[$$]Fraturas do fêmur proximal[$$]Fraturas do colo do fêmur",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "45ef3031-24c2-4ee5-ae50-8a3b086943ce",
+            "position": "0",
+            "body": "Redução aberta com realização de osteossíntese.",
+            "sanitized_body": "Redução aberta com realização de osteossíntese.",
+            "correct": false,
+            "created_at": "2020-10-02 17:23:52.153324 +0000 UTC",
+            "updated_at": "2020-11-26 13:12:36.37512 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: a redução aberta só é indicada quando não foi possível uma redução fechada. Assim, não é a primeira linha de tratamento.&nbsp; &nbsp;",
+              "sanitized_complete": "Alternativa “a” incorreta: a redução aberta só é indicada quando não foi possível uma redução fechada. Assim, não é a primeira linha de tratamento.   ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:56:28.137435 +0000 UTC",
+              "updated_at": "2020-11-25 13:56:28.913603 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 142
+          },
+          {
+            "id": "47821324-5c2c-402d-949f-c1426c3988db",
+            "position": "1",
+            "body": "Redução fechada com realização de osteossíntese.",
+            "sanitized_body": "Redução fechada com realização de osteossíntese.",
+            "correct": true,
+            "created_at": "2020-10-02 17:23:52.153324 +0000 UTC",
+            "updated_at": "2020-11-26 13:12:36.415586 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” Correta: este é o tratamento indicado para a fratura de colo de fêmur classificada como Garden II. Lembre que I a II é sempre redução e fixação com parafuso ou DHS.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “b” Correta: este é o tratamento indicado para a fratura de colo de fêmur classificada como Garden II. Lembre que I a II é sempre redução e fixação com parafuso ou DHS.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:56:28.160948 +0000 UTC",
+              "updated_at": "2020-11-25 13:56:28.929971 +0000 UTC"
+            },
+            "answer_percentage": 62,
+            "answers": 765
+          },
+          {
+            "id": "5b26f3a4-6b29-4e5b-9c9d-27cd211f7be8",
+            "position": "2",
+            "body": "Artroplastia total do quadril devido à boa saúde prévia da paciente.",
+            "sanitized_body": "Artroplastia total do quadril devido à boa saúde prévia da paciente.",
+            "correct": false,
+            "created_at": "2020-10-02 17:23:52.153324 +0000 UTC",
+            "updated_at": "2020-11-26 13:12:36.461499 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: artroplastia só é indicada para pacientes idosos e fraturas desviadas (III e IV).",
+              "sanitized_complete": "Alternativa “c” incorreta: artroplastia só é indicada para pacientes idosos e fraturas desviadas (III e IV).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:56:28.14937 +0000 UTC",
+              "updated_at": "2020-11-25 13:56:28.919236 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 91
+          },
+          {
+            "id": "9481dc39-f943-43dc-b080-b935aeaed526",
+            "position": "3",
+            "body": "Tratamento não operatório devido à boa evolução e consolidação da fratura.",
+            "sanitized_body": "Tratamento não operatório devido à boa evolução e consolidação da fratura.",
+            "correct": false,
+            "created_at": "2020-10-02 17:23:52.153324 +0000 UTC",
+            "updated_at": "2020-11-26 13:12:36.50078 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: fratura de colo de fêmur deve ser sempre operada, pois o índice de necrose é muito alta.&nbsp;",
+              "sanitized_complete": "Alternativa “d” incorreta: fratura de colo de fêmur deve ser sempre operada, pois o índice de necrose é muito alta. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:56:28.141484 +0000 UTC",
+              "updated_at": "2020-11-25 13:56:28.927272 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 228
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 75 anos de idade, previamente hígida e ativa, ao ser atendida em uma Unidade Básica de Saúde, refere que há 2 dias está com dor intensa na região coxo- femoral direita, que irradia para a região medial da coxa e joelho, o que lhe causa grande dificuldade para deambular. Quando questionada sobre queda, a paciente nega a ocorrência, assim como os familiares que a acompanham. Ela refere, ainda, tontura esporádica ao levantar-se da cama e nega outros sintomas, outras comorbidades ou uso contínuo de medicação. Tem joelhos valgos. Ao exame físico, apresenta pressão arterial = 150 x 100 mmHg e tanto a ausculta cardiorrespiratória quanto a restante do exame físico são normais. Os exames de imagem mostram uma fratura de colo de fêmur estágio II da Classificação de Garden (fraturas sem desvio). Qual deve ser a conduta terapêutica adequada nesse caso?",
+        "statement_text": "Uma mulher com 75 anos de idade, previamente hígida e ativa, ao ser atendida em uma Unidade Básica de Saúde, refere que há 2 dias está com dor intensa na região coxo- femoral direita, que irradia para a região medial da coxa e joelho, o que lhe causa grande dificuldade para deambular. Quando questionada sobre queda, a paciente nega a ocorrência, assim como os familiares que a acompanham. Ela refere, ainda, tontura esporádica ao levantar-se da cama e nega outros sintomas, outras comorbidades ou uso contínuo de medicação. Tem joelhos valgos. Ao exame físico, apresenta pressão arterial = 150 x 100 mmHg e tanto a ausculta cardiorrespiratória quanto a restante do exame físico são normais. Os exames de imagem mostram uma fratura de colo de fêmur estágio II da Classificação de Garden (fraturas sem desvio). Qual deve ser a conduta terapêutica adequada nesse caso?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-10-02 17:23:52.153324 +0000 UTC",
+        "forum_id": "db42364e-50cc-42ec-8991-d4f8a016f753",
+        "solution": {
+          "_key": "f89644c4-8518-4dba-9d3c-2019e4e98b14",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div><i>O que o examinador quer saber com esta pergunta?</i></div><div><br></div><div>Busca conhecimento do candidato sobre o tratamento da fratura de colo do fêmur.</div><div><br></div><div><i>O que você precisa saber para responder a esta pergunta?</i></div><div><br></div><div><u>Fratura do colo do fêmur</u></div><div><br></div><div>A fratura do colo do fêmur é uma fratura típica osteoporótica, acometendo idosos após os 60 anos de idade. É mais frequente em mulheres, de baixo IMC.&nbsp;</div><div><br></div><div>O mecanismo de trauma geralmente é de baixa energia, como rodar em torno do próprio corpo, ou uma queda da própria altura.&nbsp;</div><div><br></div><div>A fratura é classificada conforme Garden:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C9EE365A-6749-2734-D97E-0738AF94AC6B/C9EE365A-6749-2734-D97E-0738AF94AC6B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>I: Fratura incompleta, com impacção em valgo.&nbsp;</div><div>II: fratura completa, sem desvio.&nbsp;</div><div>III: fratura completa, desviada em varo.&nbsp;</div><div>IV: fratura completa, com total desconexão entre cabeça e colo.</div><div><br></div><div>O tratamento, por sua vez, baseia-se na classificação e na idade do paciente, conforme o fluxograma a seguir:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B1D0130E-34C0-FA4B-B895-AA8CF60C5E6F/B1D0130E-34C0-FA4B-B895-AA8CF60C5E6F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A fratura do colo de fêmur deve ser sempre operada, a não ser que o paciente apresente contraindicação clínica para tal.&nbsp;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber com esta pergunta?Busca conhecimento do candidato sobre o tratamento da fratura de colo do fêmur.O que você precisa saber para responder a esta pergunta?Fratura do colo do fêmurA fratura do colo do fêmur é uma fratura típica osteoporótica, acometendo idosos após os 60 anos de idade. É mais frequente em mulheres, de baixo IMC. O mecanismo de trauma geralmente é de baixa energia, como rodar em torno do próprio corpo, ou uma queda da própria altura. A fratura é classificada conforme Garden:I: Fratura incompleta, com impacção em valgo. II: fratura completa, sem desvio. III: fratura completa, desviada em varo. IV: fratura completa, com total desconexão entre cabeça e colo.O tratamento, por sua vez, baseia-se na classificação e na idade do paciente, conforme o fluxograma a seguir:A fratura do colo de fêmur deve ser sempre operada, a não ser que o paciente apresente contraindicação clínica para tal. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:56:28.226307 +0000 UTC",
+          "updated_at": "2020-11-25 13:56:28.994688 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-com-75-anos144ded68b32",
+        "public": true
+      },
+      {
+        "id": "4000049841",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "86d63e316b6e4ed6af68e8efff441216",
+            "name": "Condutas em Fraturas Expostas",
+            "is_master": false,
+            "master_id": "874a837963454febb1bf1eece80fd1c3",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Fratura exposta[$$]Condutas em Fraturas Expostas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7578db62-6ee8-4132-a842-bf47a7873de5",
+            "position": "0",
+            "body": "Efetuar garrote no punho; lavar o dedo amputado em água corrente e colocá-lo em recipiente com gelo cobrindo-o completamente.",
+            "sanitized_body": "Efetuar garrote no punho; lavar o dedo amputado em água corrente e colocá-lo em recipiente com gelo cobrindo-o completamente.",
+            "correct": false,
+            "created_at": "2020-09-12 14:32:40.360453 +0000 UTC",
+            "updated_at": "2020-11-26 12:55:28.163582 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: se a amputação é apenas do dedo, uma possibilidade de garroteamento seria do dedo, e não do punho. Contudo, o garroteamento leva a isquemia do coto e deve ser evitado. Por fim, o dedo não deve ser acondicionado diretamente em gelo.",
+              "sanitized_complete": "Alternativa “a” incorreta: se a amputação é apenas do dedo, uma possibilidade de garroteamento seria do dedo, e não do punho. Contudo, o garroteamento leva a isquemia do coto e deve ser evitado. Por fim, o dedo não deve ser acondicionado diretamente em gelo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 14:00:12.464946 +0000 UTC",
+              "updated_at": "2020-11-25 14:00:13.743969 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 21
+          },
+          {
+            "id": "c4544d02-902a-408f-9eac-bec788f2f7cb",
+            "position": "1",
+            "body": "Efetuar compressão local; lavar o dedo amputado em água corrente e colocá-lo em recipiente com gelo, cobrindo-o completamente.",
+            "sanitized_body": "Efetuar compressão local; lavar o dedo amputado em água corrente e colocá-lo em recipiente com gelo, cobrindo-o completamente.",
+            "correct": false,
+            "created_at": "2020-09-12 14:32:40.360453 +0000 UTC",
+            "updated_at": "2020-11-26 12:55:28.203132 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: o erro aqui é o acondicionamento no gelo.&nbsp;",
+              "sanitized_complete": "Alternativa “b” incorreta: o erro aqui é o acondicionamento no gelo. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 14:00:12.475579 +0000 UTC",
+              "updated_at": "2020-11-25 14:00:13.737901 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 112
+          },
+          {
+            "id": "5d56e305-792b-40d0-9861-b5ae32183076",
+            "position": "2",
+            "body": "Efetuar garrote no punho; cobrir o dedo amputado com pano limpo e colocá-lo em um saco plástico e, depois, em um recipiente com gelo.",
+            "sanitized_body": "Efetuar garrote no punho; cobrir o dedo amputado com pano limpo e colocá-lo em um saco plástico e, depois, em um recipiente com gelo.",
+            "correct": false,
+            "created_at": "2020-10-02 18:37:11.703099 +0000 UTC",
+            "updated_at": "2020-11-26 12:55:28.232991 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: o problema desta alternativa é o garrote.",
+              "sanitized_complete": "Alternativa “c” incorreta: o problema desta alternativa é o garrote.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 14:00:12.514172 +0000 UTC",
+              "updated_at": "2020-11-25 14:00:13.74403 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 95
+          },
+          {
+            "id": "566565c4-8302-4f8b-9287-93ff0e2c545f",
+            "position": "3",
+            "body": "Efetuar compressão local; cobrir o dedo amputado com pano limpo e colocá-lo em um saco plástico e, depois, em um recipiente com gelo.",
+            "sanitized_body": "Efetuar compressão local; cobrir o dedo amputado com pano limpo e colocá-lo em um saco plástico e, depois, em um recipiente com gelo.",
+            "correct": true,
+            "created_at": "2020-10-02 18:37:11.728112 +0000 UTC",
+            "updated_at": "2020-11-26 12:55:29.017394 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: esta alternativa é a menos errada. Não se esqueça: o dedo não pode ser acondicionado no meio de gelo, mesmo que esteja dentro de um saco plástico. Tem de ser água e gelo.&nbsp; &nbsp;",
+              "sanitized_complete": "Alternativa “d” incorreta: esta alternativa é a menos errada. Não se esqueça: o dedo não pode ser acondicionado no meio de gelo, mesmo que esteja dentro de um saco plástico. Tem de ser água e gelo.   ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 14:00:12.465369 +0000 UTC",
+              "updated_at": "2020-11-25 14:00:13.737661 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1021
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Durante plantão na central de regulação de urgência, o técnico auxiliar de regulação médica transfere para o médico regulador uma chamada telefônica durante a qual ele deve orientar os cuidados iniciais para uma vítima de acidente de trabalho com serra elétrica. O paciente, um operário do sexo masculino, com 20 anos de idade, sofreu amputação do polegar direito e encontra-se consciente e orientado, apresentando sangramento local, que cessa à compressão manual do coto de amputação. Havendo a intenção de reimplante do membro amputado, além de cobrir o ferimento no coto com pano limpo, que orientações deverão ser dadas pelo médico regulador, por telefone, até  a chegada da ambulância ao local do chamado e posterior condução do paciente à unidade hospitalar especializada?",
+        "statement_text": "Durante plantão na central de regulação de urgência, o técnico auxiliar de regulação médica transfere para o médico regulador uma chamada telefônica durante a qual ele deve orientar os cuidados iniciais para uma vítima de acidente de trabalho com serra elétrica. O paciente, um operário do sexo masculino, com 20 anos de idade, sofreu amputação do polegar direito e encontra-se consciente e orientado, apresentando sangramento local, que cessa à compressão manual do coto de amputação. Havendo a intenção de reimplante do membro amputado, além de cobrir o ferimento no coto com pano limpo, que orientações deverão ser dadas pelo médico regulador, por telefone, até  a chegada da ambulância ao local do chamado e posterior condução do paciente à unidade hospitalar especializada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "626146ad14e7af2c191e4e998f369ebe",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 14:32:40.360453 +0000 UTC",
+        "solution": {
+          "_key": "2c9dac2d-b32e-45d8-bfba-c2a2fe6c254c",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div><i>O que o examinador quer saber com esta pergunta?</i></div><div><br></div><div>Conhecimentos sobre o tratamento do dedo amputado.</div><div><br></div><div>Questão rara, com tema interessante e muito importante para o médico generalista, pois não raro ocorrerá durante um plantão, e o correto acondicionamento do membro amputado é essencial para a possibilidade de reimplante.&nbsp;</div><div><br></div><div><i>O que você precisa saber para responder a esta pergunta?</i></div><div><i><br></i></div><div><u>Amputação e reimplante</u></div><div><br></div><div>A amputação de membros superiores é quatro vezes mais comum em homens que em mulheres, e é muito mais frequente em dedos.&nbsp;</div><div><br></div><div>Pode ser uma amputação traumática (90% das vezes), por dissecção afiada, romba, avulsão ou esmagamento.</div><div><br></div><div><i>Indicações de reimplante:</i></div><div><br></div><div>Polegar em qualquer nível;</div><div><br></div><div>Múltiplos dedos;</div><div><br></div><div>Na palma, no punho ou proximal ao punho;</div><div><br></div><div>Crianças: quase qualquer parte.</div><div><br></div><div><i>Indicações relativas:</i></div><div><br></div><div>Dedo isolado, distal à inserção do flexor digital superficial (zona I);</div><div><br></div><div>No cotovelo ou mais proximal.</div><div><br></div><div><i>Contraindicações:</i></div><div><br></div><div>Absolutas: lesão vascular grave; esmagamento ou mutilação; amputação segmentar; isquemia prolongada (considera-se, neste caso, para membros com muito músculo e isquemia por mais de seis horas).</div><div><br></div><div>Relativas: dedo isolado proximal à zona II; paciente instável; doença psiquiátrica comprometedora; contaminação tecidual; isquemia prolongada de membro sem conteúdo muscular (dedo)(maior que doze horas).</div><div><br></div><div><i>Cuidados com o acondicionamento do membro para transporte:</i></div><div><br></div><div>Primeiro: o transporte do membro deve ser junto com o paciente. Qualquer membro que tenha possibilidade de salvamento deve ser levado.</div><div><br></div><div><i>Acondicionamento:</i></div><div><br></div><div>Envolver em gaze úmida.</div><div><br></div><div>Colocar em saco plástico.</div><div><br></div><div>Acondicionar o saco plástico em recipiente com água e gelo. Não colocar diretamente com gelo, pois isso pode “queimar” o tecido!</div><div><br></div><div>Coto de amputação: cobrir e comprimir com gaze úmida.&nbsp;</div><div><br></div><div><i>Tempo de reimplante:</i></div><div><br></div><div>Isto varia conforme o local afetado.&nbsp;</div><div><br></div><div>Dedo: isquemia quente (12 horas); isquemia fria (24 horas).</div><div><br></div><div>Proximal ao carpo: isquemia quente (6 horas); isquemia fria (12 horas).&nbsp;</div><div><br></div><div>Membros inferiores não são reimplantados, pois têm má evolução, e o paciente se adapta melhor com amputação funcional.&nbsp;</div><div><br></div><div><i>Sequência de reimplante:&nbsp;</i></div><div><br></div><div><b>FEAVFNP – “Foi Extinta Assim a Vida Feliz do Nosso Polegar”.</b></div><div><b><br></b></div><div>1.\tFixação Óssea.</div><div><br></div><div>2.\tTendão Extensor.</div><div><br></div><div>3.\tArtéria.</div><div><br></div><div>4.\tVeia.&nbsp;</div><div><br></div><div>5.\tTendão flexor.&nbsp;</div><div><br></div><div>6.\tNervo.</div><div><br></div><div>7.\tPele.&nbsp;</div><div><br></div><div>No caso de múltiplas amputações, seguir estrutura por estrutura, em vez de dedo por dedo; a sequência de reparo dos dedos é: Polegar, Médio, Anelar, Mínimo, Indicador (<b>Pô, Me “Animi”!</b>).&nbsp;</div><div><br></div><div><i>Complicações</i>:</div><div><br></div><div>Dedos acabam tendo principalmente rigidez.&nbsp;</div><div><br></div><div>Falha de reimplante ocorre geralmente nas primeiras 12 horas por trombose arterial.</div><div><br></div><div>A mionecrose é importante especialmente em reimplante de membros maiores (antebraço, braço), e a injúria de reperfusão é igualmente relevante.&nbsp;</div><div><br></div><div>Por fim, a mioglobinúria resultante pode levar a insuficiência renal e morte. Desta forma, reimplante de grandes membros deve ser feito com parcimônia e muito bem indicado.&nbsp;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber com esta pergunta?Conhecimentos sobre o tratamento do dedo amputado.Questão rara, com tema interessante e muito importante para o médico generalista, pois não raro ocorrerá durante um plantão, e o correto acondicionamento do membro amputado é essencial para a possibilidade de reimplante. O que você precisa saber para responder a esta pergunta?Amputação e reimplanteA amputação de membros superiores é quatro vezes mais comum em homens que em mulheres, e é muito mais frequente em dedos. Pode ser uma amputação traumática (90% das vezes), por dissecção afiada, romba, avulsão ou esmagamento.Indicações de reimplante:Polegar em qualquer nível;Múltiplos dedos;Na palma, no punho ou proximal ao punho;Crianças: quase qualquer parte.Indicações relativas:Dedo isolado, distal à inserção do flexor digital superficial (zona I);No cotovelo ou mais proximal.Contraindicações:Absolutas: lesão vascular grave; esmagamento ou mutilação; amputação segmentar; isquemia prolongada (considera-se, neste caso, para membros com muito músculo e isquemia por mais de seis horas).Relativas: dedo isolado proximal à zona II; paciente instável; doença psiquiátrica comprometedora; contaminação tecidual; isquemia prolongada de membro sem conteúdo muscular (dedo)(maior que doze horas).Cuidados com o acondicionamento do membro para transporte:Primeiro: o transporte do membro deve ser junto com o paciente. Qualquer membro que tenha possibilidade de salvamento deve ser levado.Acondicionamento:Envolver em gaze úmida.Colocar em saco plástico.Acondicionar o saco plástico em recipiente com água e gelo. Não colocar diretamente com gelo, pois isso pode “queimar” o tecido!Coto de amputação: cobrir e comprimir com gaze úmida. Tempo de reimplante:Isto varia conforme o local afetado. Dedo: isquemia quente (12 horas); isquemia fria (24 horas).Proximal ao carpo: isquemia quente (6 horas); isquemia fria (12 horas). Membros inferiores não são reimplantados, pois têm má evolução, e o paciente se adapta melhor com amputação funcional. Sequência de reimplante: FEAVFNP – “Foi Extinta Assim a Vida Feliz do Nosso Polegar”.1.\tFixação Óssea.2.\tTendão Extensor.3.\tArtéria.4.\tVeia. 5.\tTendão flexor. 6.\tNervo.7.\tPele. No caso de múltiplas amputações, seguir estrutura por estrutura, em vez de dedo por dedo; a sequência de reparo dos dedos é: Polegar, Médio, Anelar, Mínimo, Indicador (Pô, Me “Animi”!). Complicações:Dedos acabam tendo principalmente rigidez. Falha de reimplante ocorre geralmente nas primeiras 12 horas por trombose arterial.A mionecrose é importante especialmente em reimplante de membros maiores (antebraço, braço), e a injúria de reperfusão é igualmente relevante. Por fim, a mioglobinúria resultante pode levar a insuficiência renal e morte. Desta forma, reimplante de grandes membros deve ser feito com parcimônia e muito bem indicado. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 14:00:12.591774 +0000 UTC",
+          "updated_at": "2020-11-25 14:00:13.809783 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Durante-planta-central122c5c1e365",
+        "public": true
+      },
+      {
+        "id": "4000126924",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2016,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:46:08Z",
+            "updated_at": "2020-09-24T17:24:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "93282a8f52f8470894cf7d99f195e3b6",
+            "name": "Fraturas Pediátricas",
+            "is_master": false,
+            "master_id": "7dd9fce6ff0d4ff293d0803072366572",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Tipos de Fraturas[$$]Fraturas Pediátricas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "292d85ed-bdc6-4b5e-8aef-fc41315dd35f",
+            "position": "0",
+            "body": "Fratura do rádio distal através da placa de crescimento e metáfise, poupando a epífise; redução local fechada, com colocação de gesso.",
+            "sanitized_body": "Fratura do rádio distal através da placa de crescimento e metáfise, poupando a epífise; redução local fechada, com colocação de gesso.",
+            "correct": true,
+            "created_at": "2020-09-25 01:59:41.493663 +0000 UTC",
+            "updated_at": "2021-01-11 16:09:08.442683 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” correta: este é um salter-harris tipo II do rádio distal.",
+              "sanitized_complete": "Alternativa “a” correta: este é um salter-harris tipo II do rádio distal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:52:01.010968 +0000 UTC",
+              "updated_at": "2020-11-26 13:09:07.415411 +0000 UTC"
+            },
+            "answer_percentage": 63,
+            "answers": 680
+          },
+          {
+            "id": "476b4298-80a1-47fa-a632-59383f41fa85",
+            "position": "1",
+            "body": "Fratura da ulna distal através da placa de crescimento e metáfise; redução local fechada, com colocação de gesso.",
+            "sanitized_body": "Fratura da ulna distal através da placa de crescimento e metáfise; redução local fechada, com colocação de gesso.",
+            "correct": false,
+            "created_at": "2020-09-25 01:59:41.493663 +0000 UTC",
+            "updated_at": "2021-01-11 16:09:08.477024 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: não há fratura da ulna.&nbsp;",
+              "sanitized_complete": "Alternativa “b” incorreta: não há fratura da ulna. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:52:01.015265 +0000 UTC",
+              "updated_at": "2020-11-26 13:09:07.416782 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 179
+          },
+          {
+            "id": "6b598ec7-7949-4bc6-bb0e-ed57f98faf8d",
+            "position": "2",
+            "body": "fratura do rádio distal, acometendo a epífise; imobilização com tipóia e administração de anti-inflamatório por via oral.",
+            "sanitized_body": "fratura do rádio distal, acometendo a epífise; imobilização com tipóia e administração de anti-inflamatório por via oral.",
+            "correct": false,
+            "created_at": "2020-09-25 01:59:41.493663 +0000 UTC",
+            "updated_at": "2021-01-11 16:09:08.508569 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: este seria um tipo três, que tem indicação de tratamento cirúrgico.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “c” incorreta: este seria um tipo três, que tem indicação de tratamento cirúrgico.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:52:01.012074 +0000 UTC",
+              "updated_at": "2020-11-26 13:09:07.410404 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 178
+          },
+          {
+            "id": "15111af6-1aeb-43c3-bb7a-9454903f15ad",
+            "position": "3",
+            "body": "Fratura da ulna distal através da placa de crescimento e metáfise; redução aberta da lesão, com colocação de fixador externo.",
+            "sanitized_body": "Fratura da ulna distal através da placa de crescimento e metáfise; redução aberta da lesão, com colocação de fixador externo.",
+            "correct": false,
+            "created_at": "2020-09-25 01:59:41.493663 +0000 UTC",
+            "updated_at": "2021-01-11 16:09:08.545377 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: esta é uma conduta totalmente de exceção. Em especial, fixador externo é usado muitas vezes com redução fechada da fratura, em fraturas muito cominutas. Um salter-harris II da ulna seria reduzido de forma incruenta e imobilizado com gesso antebraquiopalmar.",
+              "sanitized_complete": "Alternativa “d” incorreta: esta é uma conduta totalmente de exceção. Em especial, fixador externo é usado muitas vezes com redução fechada da fratura, em fraturas muito cominutas. Um salter-harris II da ulna seria reduzido de forma incruenta e imobilizado com gesso antebraquiopalmar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:52:01.024858 +0000 UTC",
+              "updated_at": "2020-11-26 13:09:07.420778 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 38
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um menino com 6 anos de idade deu entrada em uma Unidade de Pronto Atendimento, acompanhado pela mãe. Relata que caiu do beliche, de uma altura aproximada de 1 metro, há 3 horas. Na admissão, apresenta-se choroso, com impotência funcional do punho direito e com dor local intensa. O resultado da radiografia do punho direito da criança é apresentado na imagem a seguir<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/294F0E13-407C-00F1-823B-DD201AAA91CA/294F0E13-407C-00F1-823B-DD201AAA91CA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Nesse caso, o diagnóstico e a conduta são:</div>",
+        "statement_text": "Um menino com 6 anos de idade deu entrada em uma Unidade de Pronto Atendimento, acompanhado pela mãe. Relata que caiu do beliche, de uma altura aproximada de 1 metro, há 3 horas. Na admissão, apresenta-se choroso, com impotência funcional do punho direito e com dor local intensa. O resultado da radiografia do punho direito da criança é apresentado na imagem a seguirNesse caso, o diagnóstico e a conduta são:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 01:59:41.493663 +0000 UTC",
+        "forum_id": "99f0f565-f32a-444e-848f-6cf57d2a69db",
+        "solution": {
+          "_key": "71441db2-0ca6-46d8-ba59-73f31c1268a4",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b><div><i>O que o examinador deseja saber com esta pergunta?</i></div><div><br></div><div>Questão sobre tratamento da fratura do rádio distal em crianças. Conhecer a classificação de Salter-Harris auxilia muito nas condutas.&nbsp;</div><div><br></div><div><i>O que é necessário saber para responder a esta pergunta?</i></div><div><br></div><div><u>Classificação de Salter-Harris</u></div><div><br></div><div>As fraturas de crianças são diferenciadas, pois as fises de crescimento ainda estão abertas. Desta forma, lesões articulares ocorrem de formas variadas. A classificação de Salter-Harris avalia isso e, a partir dela, é possível traçar o plano de tratamento mais adequado. Sua progressão é do mais leve (I) para o mais grave (V).</div><div><br></div><div>Vamos ver cada uma delas:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/931C7BF6-0931-A49C-560E-C04B3C9CCB6B/931C7BF6-0931-A49C-560E-C04B3C9CCB6B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>No Salter-Harris I, há uma separação da metáfise e epífise pela fise. É uma fratura difícil de diagnosticar, às vezes, pois pode ser muito sutil. É a apresentada pela radiografia da questão. Geralmente é tratada com redução e gesso.</div><div><br></div><div>No Salter-Harris II, a energia do trauma passa pela fise e ascende pela metáfise. O fragmento metafisário é conhecido como fragmento de Thurston-Holland. Seu tratamento é geralmente conservador, contanto que seja conseguida redução.</div><div><br></div><div>No tipo III, há uma fratura que vai da fise para a epífise, sendo, portanto, articular. Neste caso, a redução tem de ser anatômica, de forma que é uma fratura quase sempre cirúrgica.</div><div><br></div><div>No tipo IV, o traço de fratura cruza a fise, desde a metáfise até a epífise. Pela ruptura da fise, há a possibilidade de invasão de vasos sanguíneos e formação de barra óssea. É uma fratura de tratamento, também, cirúrgico.&nbsp;</div><div><br></div><div>No tipo V há um esmagamento da fise e, inicialmente, a radiografia pode parecer normal. Ela geralmente é diagnosticada tardiamente, com a identificação de comprometimentos de crescimento da fise acometida.</div><div><br></div><div>Existe também o tipo VI, descrito posteriormente, em que há uma fratura (geralmente exposta) com perda de substância óssea, desde a metáfise até a fise. É um Salter-Harris IV em que se perde o fragmento.</div><div>Veja o mnemônico para gravar:</div><div><br></div><div><b>S: S</b>eparação (Tipo I)</div><div><br></div><div><b>A: A</b>ntes da fise (Tipo II)</div><div><br></div><div><b>L: L</b>á na articulação (Tipo III)</div><div><br></div><div><b>T: T</b>udo (Tipo IV)</div><div><br></div><div><b>E: E</b>smagamento (Tipo V)</div><div><br></div><div><b>R: R</b>espeite a fise!</div><div><br></div><div><u>Avaliando a radiografia:</u></div><div><br></div><div>Observe, na figura abaixo, o fragmento distal, com uma protuberância triangular (seta), o fragmento de Thurston-Holland. Isso é indicativo de uma fratura Salter-Harris tipo II.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/19E12274-E939-A148-2F08-F2DE88F9144B/19E12274-E939-A148-2F08-F2DE88F9144B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador deseja saber com esta pergunta?Questão sobre tratamento da fratura do rádio distal em crianças. Conhecer a classificação de Salter-Harris auxilia muito nas condutas. O que é necessário saber para responder a esta pergunta?Classificação de Salter-HarrisAs fraturas de crianças são diferenciadas, pois as fises de crescimento ainda estão abertas. Desta forma, lesões articulares ocorrem de formas variadas. A classificação de Salter-Harris avalia isso e, a partir dela, é possível traçar o plano de tratamento mais adequado. Sua progressão é do mais leve (I) para o mais grave (V).Vamos ver cada uma delas:No Salter-Harris I, há uma separação da metáfise e epífise pela fise. É uma fratura difícil de diagnosticar, às vezes, pois pode ser muito sutil. É a apresentada pela radiografia da questão. Geralmente é tratada com redução e gesso.No Salter-Harris II, a energia do trauma passa pela fise e ascende pela metáfise. O fragmento metafisário é conhecido como fragmento de Thurston-Holland. Seu tratamento é geralmente conservador, contanto que seja conseguida redução.No tipo III, há uma fratura que vai da fise para a epífise, sendo, portanto, articular. Neste caso, a redução tem de ser anatômica, de forma que é uma fratura quase sempre cirúrgica.No tipo IV, o traço de fratura cruza a fise, desde a metáfise até a epífise. Pela ruptura da fise, há a possibilidade de invasão de vasos sanguíneos e formação de barra óssea. É uma fratura de tratamento, também, cirúrgico. No tipo V há um esmagamento da fise e, inicialmente, a radiografia pode parecer normal. Ela geralmente é diagnosticada tardiamente, com a identificação de comprometimentos de crescimento da fise acometida.Existe também o tipo VI, descrito posteriormente, em que há uma fratura (geralmente exposta) com perda de substância óssea, desde a metáfise até a fise. É um Salter-Harris IV em que se perde o fragmento.Veja o mnemônico para gravar:S: Separação (Tipo I)A: Antes da fise (Tipo II)L: Lá na articulação (Tipo III)T: Tudo (Tipo IV)E: Esmagamento (Tipo V)R: Respeite a fise!Avaliando a radiografia:Observe, na figura abaixo, o fragmento distal, com uma protuberância triangular (seta), o fragmento de Thurston-Holland. Isso é indicativo de uma fratura Salter-Harris tipo II.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:52:01.154574 +0000 UTC",
+          "updated_at": "2020-11-26 13:09:07.487242 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "menino-com-6-anos70734a373d",
+        "public": true
+      },
+      {
+        "id": "4000126864",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2016,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:46:08Z",
+            "updated_at": "2020-09-24T17:24:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "5fe2e7f9fc85460ab60535acb33c6372",
+            "name": "Diagnóstico e classificação radiográfica",
+            "is_master": false,
+            "master_id": "e43ddc42567f47f6aabe038e693db881",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Pediátrica[$$]Quadril Pediátrico[$$]Epifisiólise do Fêmur Proximal[$$]Diagnóstico e classificação radiográfica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "8c24b1cae46e41c7822acb14fb9b5b66",
+            "name": "Condutas e Tratamentos",
+            "is_master": false,
+            "master_id": "e43ddc42567f47f6aabe038e693db881",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Pediátrica[$$]Quadril Pediátrico[$$]Epifisiólise do Fêmur Proximal[$$]Condutas e Tratamentos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8f317e82-53d8-4983-82be-91840024ac5b",
+            "position": "0",
+            "body": "Solicitar hemograma, fator reumatoide e pesquisa de anticorpos antinucleares.",
+            "sanitized_body": "Solicitar hemograma, fator reumatoide e pesquisa de anticorpos antinucleares.",
+            "correct": false,
+            "created_at": "2020-09-25 01:32:13.959162 +0000 UTC",
+            "updated_at": "2020-11-26 00:51:49.390063 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: esta conduta só faria sentido se estivéssemos pensando em artrite idiopática juvenil, que raramente afeta quadril e geralmente acomete pacientes em faixa etária mais nova.&nbsp;",
+              "sanitized_complete": "Alternativa “a” incorreta: esta conduta só faria sentido se estivéssemos pensando em artrite idiopática juvenil, que raramente afeta quadril e geralmente acomete pacientes em faixa etária mais nova. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-26 00:54:48.102805 +0000 UTC",
+              "updated_at": "2020-11-26 00:54:48.979857 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 86
+          },
+          {
+            "id": "5908ba61-d833-48aa-924d-39dc8e92f4c8",
+            "position": "1",
+            "body": "Encaminhar o paciente com urgência para avaliação de ortopedista/traumatologista.",
+            "sanitized_body": "Encaminhar o paciente com urgência para avaliação de ortopedista/traumatologista.",
+            "correct": true,
+            "created_at": "2020-09-25 01:32:13.959162 +0000 UTC",
+            "updated_at": "2020-11-26 00:51:49.435299 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” correta: esta é a conduta mais correta.&nbsp;",
+              "sanitized_complete": "Alternativa “b” correta: esta é a conduta mais correta. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-26 00:54:48.103731 +0000 UTC",
+              "updated_at": "2020-11-26 00:54:48.979964 +0000 UTC"
+            },
+            "answer_percentage": 64,
+            "answers": 683
+          },
+          {
+            "id": "edec17da-5df2-48d0-b1bc-1272ab24aa4e",
+            "position": "2",
+            "body": "Prescrever analgésico ou anti-inflamatório via oral e solicitar retorno do paciente em 48 horas.",
+            "sanitized_body": "Prescrever analgésico ou anti-inflamatório via oral e solicitar retorno do paciente em 48 horas.",
+            "correct": false,
+            "created_at": "2020-09-25 01:32:13.959162 +0000 UTC",
+            "updated_at": "2020-11-26 00:51:49.469602 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: esta seria uma conduta compatível com a sinovite transitória, não sendo bem indicada.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “c” incorreta: esta seria uma conduta compatível com a sinovite transitória, não sendo bem indicada.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-26 00:54:48.108239 +0000 UTC",
+              "updated_at": "2020-11-26 00:54:48.992144 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 154
+          },
+          {
+            "id": "103eb8f6-72bf-4bd7-99d7-285ef915035e",
+            "position": "3",
+            "body": "Solicitar ultrassonografia de articulação coxo-femoral esquerda e retorno do paciente em 24 horas.",
+            "sanitized_body": "Solicitar ultrassonografia de articulação coxo-femoral esquerda e retorno do paciente em 24 horas.",
+            "correct": false,
+            "created_at": "2020-09-25 01:32:13.959162 +0000 UTC",
+            "updated_at": "2020-11-26 00:51:49.515265 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: igualmente, esta é uma conduta possível para a sinovite, mas não só não ajudaria na epifisiólise, como permitiria uma progressão do quadro pela espera.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “d” incorreta: igualmente, esta é uma conduta possível para a sinovite, mas não só não ajudaria na epifisiólise, como permitiria uma progressão do quadro pela espera.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-26 00:54:48.102303 +0000 UTC",
+              "updated_at": "2020-11-26 00:54:48.982322 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 146
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um adolescente, com 14 anos de idade, é trazido à consulta médica em Unidade Básica de Saúde com queixa de dor de intensidade leve na virilha esquerda, iniciada há duas semanas, com piora progressiva. O paciente relata que a dor irradia pela face   interna da coxa até o joelho, e que agora apresenta dificuldade para caminhar. Nega   febre ou traumatismo local. O exame físico evidencia: peso = 68 kg, altura = 1,62 m. Não   é evidenciado edema, calor ou rubor no local. Verifica-se limitação da mobilidade da articulação coxo-femural esquerda em decúbito dorsal. Nesse caso, a conduta indicada é:",
+        "statement_text": "Um adolescente, com 14 anos de idade, é trazido à consulta médica em Unidade Básica de Saúde com queixa de dor de intensidade leve na virilha esquerda, iniciada há duas semanas, com piora progressiva. O paciente relata que a dor irradia pela face   interna da coxa até o joelho, e que agora apresenta dificuldade para caminhar. Nega   febre ou traumatismo local. O exame físico evidencia: peso = 68 kg, altura = 1,62 m. Não   é evidenciado edema, calor ou rubor no local. Verifica-se limitação da mobilidade da articulação coxo-femural esquerda em decúbito dorsal. Nesse caso, a conduta indicada é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 01:32:13.959162 +0000 UTC",
+        "solution": {
+          "_key": "27664f82-a996-4c93-995c-84779cc63122",
+          "complete": "<b>Discussão sobre a questão</b><div><i>O que o examinador quer saber com esta pergunta?</i></div><div>Diagnóstico diferencial das doenças do quadril infantil.</div><div><br></div><div><i>O que você precisa saber para responder a esta pergunta:</i></div><div><u>Diagnóstico diferencial de doenças do quadril infantil:</u></div><div>Devido à inervação pelo nervo obturatório, é muito comum dores do quadril serem referenciadas nos joelhos. Assim, em toda criança com dor no joelho, é obrigatório avaliar o quadril.&nbsp;</div><div>Com o fluxograma a seguir, você verá como definir o diagnóstico diferencial entre as diversas patologias do quadril em provas. Com ele, você nunca mais vai errar nenhuma questão deste tema.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/61218DB3-C56B-BBC4-E950-DF250A63FECE/61218DB3-C56B-BBC4-E950-DF250A63FECE-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Agora, vamos ver as características das principais doenças do quadril no quadro a seguir:<br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D6C26BF6-330F-21FF-4831-BF00B10B99BD/D6C26BF6-330F-21FF-4831-BF00B10B99BD-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Unindo o quadro e o fluxograma, você pode ver que o que mais se encaixa com a descrição do nosso paciente é a epifisiólise.&nbsp;</div><div><br></div><div><u>Epifisiólise do fêmur proximal:</u></div><div>Na epifisiólise, uma alteração na fise da cabeça do fêmur leva a uma fragilidade. Há relação hormonal, grande influência do estirão puberal e relação direta com obesidade. É uma doença rara que acomete adolescentes pré-púberes ou na puberdade (10 a 16 anos).</div><div>O escorregamento que ocorre, na realidade, é do colo do fêmur, que se anterioriza e ascende. A cabeça permanece locada no quadril e roda para posterior. Com isso, o membro inferior geralmente fica encurtado, rodado externo, e há restrição de abdução e rotação.</div><div>O diagnóstico é feito por meio de uma radiografia da bacia.&nbsp;</div><div>O tratamento, resumidamente, envolve a fixação in situ com parafuso da cabeça em seu lugar, e deve ser feito o mais rápido possível.&nbsp;</div><div>Quando suspeitado em outro local, que não um pronto-socorro com ortopedista disponível, deve-se retirar a carga do paciente (cadeira de rodas ou muleta) e encaminhar imediatamente para um serviço de urgência com ortopedia.&nbsp;</div><div><br></div>",
+          "sanitized_complete": "Discussão sobre a questãoO que o examinador quer saber com esta pergunta?Diagnóstico diferencial das doenças do quadril infantil.O que você precisa saber para responder a esta pergunta:Diagnóstico diferencial de doenças do quadril infantil:Devido à inervação pelo nervo obturatório, é muito comum dores do quadril serem referenciadas nos joelhos. Assim, em toda criança com dor no joelho, é obrigatório avaliar o quadril. Com o fluxograma a seguir, você verá como definir o diagnóstico diferencial entre as diversas patologias do quadril em provas. Com ele, você nunca mais vai errar nenhuma questão deste tema.Agora, vamos ver as características das principais doenças do quadril no quadro a seguir:Unindo o quadro e o fluxograma, você pode ver que o que mais se encaixa com a descrição do nosso paciente é a epifisiólise. Epifisiólise do fêmur proximal:Na epifisiólise, uma alteração na fise da cabeça do fêmur leva a uma fragilidade. Há relação hormonal, grande influência do estirão puberal e relação direta com obesidade. É uma doença rara que acomete adolescentes pré-púberes ou na puberdade (10 a 16 anos).O escorregamento que ocorre, na realidade, é do colo do fêmur, que se anterioriza e ascende. A cabeça permanece locada no quadril e roda para posterior. Com isso, o membro inferior geralmente fica encurtado, rodado externo, e há restrição de abdução e rotação.O diagnóstico é feito por meio de uma radiografia da bacia. O tratamento, resumidamente, envolve a fixação in situ com parafuso da cabeça em seu lugar, e deve ser feito o mais rápido possível. Quando suspeitado em outro local, que não um pronto-socorro com ortopedista disponível, deve-se retirar a carga do paciente (cadeira de rodas ou muleta) e encaminhar imediatamente para um serviço de urgência com ortopedia. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-26 00:54:48.170236 +0000 UTC",
+          "updated_at": "2020-11-26 00:54:49.013408 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126864-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-141053c72f5e4",
+        "public": true
+      },
+      {
+        "id": "4000126636",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "d2662705643d42819582d705498eada4",
+            "name": "Entorse do tornozelo",
+            "is_master": false,
+            "master_id": "ac97fa98bf8f49b5a6094b2e4812e048",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Fraturas e Luxações[$$]Traumas da perna, tornozelo e pé[$$]Traumas do tornozelo[$$]Entorse do tornozelo",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "46661f69-4d43-4af1-a95f-ee8b63e634b6",
+            "position": "0",
+            "body": "encaminhamento para hospital ortopédico para possível conduta cirúrgica devido à fratura.",
+            "sanitized_body": "encaminhamento para hospital ortopédico para possível conduta cirúrgica devido à fratura.",
+            "correct": false,
+            "created_at": "2020-09-24 20:20:40.743702 +0000 UTC",
+            "updated_at": "2020-11-26 13:06:54.152254 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: não há fratura para indicar tratamento cirúrgico.&nbsp;",
+              "sanitized_complete": "Alternativa “a” incorreta: não há fratura para indicar tratamento cirúrgico. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:45:01.104353 +0000 UTC",
+              "updated_at": "2020-11-25 13:45:01.943126 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 65
+          },
+          {
+            "id": "d29f53de-d26a-4695-8556-82c286b23b2e",
+            "position": "1",
+            "body": "encaminhamento para hospital ortopédico para possível conduta conservadora com uso de gesso devido à fratura.",
+            "sanitized_body": "encaminhamento para hospital ortopédico para possível conduta conservadora com uso de gesso devido à fratura.",
+            "correct": false,
+            "created_at": "2020-09-24 20:20:40.743702 +0000 UTC",
+            "updated_at": "2020-11-26 13:06:54.200203 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: também não há indicação de tratamento gessado para a fratura, pois não há fratura.",
+              "sanitized_complete": "Alternativa “b” incorreta: também não há indicação de tratamento gessado para a fratura, pois não há fratura.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:45:01.122558 +0000 UTC",
+              "updated_at": "2020-11-25 13:45:01.958011 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 94
+          },
+          {
+            "id": "45d76895-c303-4ab4-b80a-0fe460d5dfbb",
+            "position": "2",
+            "body": "uso de gelo no local (até 3 vezes por dia por 30 minutos), anti-inflamatórios não esteroidais e uso de tala para imobilização analgésica por 5 a 7 dias.",
+            "sanitized_body": "uso de gelo no local (até 3 vezes por dia por 30 minutos), anti-inflamatórios não esteroidais e uso de tala para imobilização analgésica por 5 a 7 dias.",
+            "correct": true,
+            "created_at": "2020-09-24 20:20:40.743702 +0000 UTC",
+            "updated_at": "2020-11-26 13:06:54.245254 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” correta: esta alternativa segue os preceitos do método PRICE. Contudo, gostaria de deixar a ressalva de que imobilização com qualquer método não removível pode levar a rigidez do tornozelo. Portanto, use-a pelo menor tempo possível, e apenas se o paciente não conseguir uma bota ortopédica.&nbsp; &nbsp;",
+              "sanitized_complete": "Alternativa “c” correta: esta alternativa segue os preceitos do método PRICE. Contudo, gostaria de deixar a ressalva de que imobilização com qualquer método não removível pode levar a rigidez do tornozelo. Portanto, use-a pelo menor tempo possível, e apenas se o paciente não conseguir uma bota ortopédica.   ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:45:01.108735 +0000 UTC",
+              "updated_at": "2020-11-25 13:45:01.944462 +0000 UTC"
+            },
+            "answer_percentage": 59,
+            "answers": 560
+          },
+          {
+            "id": "ccbf57d6-5341-404e-a498-f39d17ad82d9",
+            "position": "3",
+            "body": "orientação de repouso relativo, uso de gelo no local (3 vezes por dia por 30 minutos) e de anti-inflamatórios não esteroidais, liberando a paciente para ir para casa.",
+            "sanitized_body": "orientação de repouso relativo, uso de gelo no local (3 vezes por dia por 30 minutos) e de anti-inflamatórios não esteroidais, liberando a paciente para ir para casa.",
+            "correct": false,
+            "created_at": "2020-09-24 20:20:40.743702 +0000 UTC",
+            "updated_at": "2020-11-26 13:06:54.296273 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: o que faltou nesta opção foi a imobilização (proteção).&nbsp;",
+              "sanitized_complete": "Alternativa “d” incorreta: o que faltou nesta opção foi a imobilização (proteção). ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:45:01.107735 +0000 UTC",
+              "updated_at": "2020-11-25 13:45:01.958126 +0000 UTC"
+            },
+            "answer_percentage": 25,
+            "answers": 235
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 19 anos estava jogando handebol em uma competição da  faculdade, quando, ao saltar para arremesso da bola, desequilibrou-se e \"pisou em falso\". Queixa-se de muita dor no local. Ao exame físico local, nota-se edema (+2/4+), discreto hematoma e dor à palpação do maléolo lateral. Não consegue apoiar o pé no chão  devido à dor. As duas imagens abaixo mostram duas incidências de radiografia simples  do tornozelo do paciente (VER IMAGEM). Considera-se a conduta mais apropriada para essa paciente o(a)<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/42F6F715-9AC5-3D3E-B9B0-C1C62AA87A38/42F6F715-9AC5-3D3E-B9B0-C1C62AA87A38-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Uma paciente de 19 anos estava jogando handebol em uma competição da  faculdade, quando, ao saltar para arremesso da bola, desequilibrou-se e &#34;pisou em falso&#34;. Queixa-se de muita dor no local. Ao exame físico local, nota-se edema (+2/4+), discreto hematoma e dor à palpação do maléolo lateral. Não consegue apoiar o pé no chão  devido à dor. As duas imagens abaixo mostram duas incidências de radiografia simples  do tornozelo do paciente (VER IMAGEM). Considera-se a conduta mais apropriada para essa paciente o(a)",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 20:20:40.743702 +0000 UTC",
+        "solution": {
+          "_key": "e206cb7f-e5ac-48ae-9504-d580b1248d08",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div><i>O que o examinador quer saber com esta pergunta?</i></div><div><i><br></i></div><div>Condutas no tratamento de entorses do tornozelo. Vamos aproveitar para rever algumas informações importantes deste tema:</div><div><br></div><div><i>O que você precisa saber para responder a esta pergunta?</i></div><div><i><br></i></div><div><u>Critérios de Ottawa:</u></div><div><br></div><div>Os critérios de Ottawa foram definidos para se evitar a solicitação desnecessária de exames radiográficos em entorses de tornozelo. Desta forma, devem ser solicitados exames apenas se o paciente apresentar:</div><div><br></div><div>Dor maleolar (dor à palpação do maléolo, indicando provável lesão óssea) +</div><div><br></div><div>Idade acima de 55 anos (maior risco de fratura pela osteoporose), ou</div><div><br></div><div>Dor retromaleolar (indicando entorse mais grave, pois a lesão se propaga de anterior para inferior e depois posterior ao maléolo), ou</div><div><br></div><div>Incapacidade de apoiar o pé (indicando entorse mais grave).</div><div><br></div><div>O paciente, portanto, tinha critérios de ottawa suficientes para a solicitação de uma radiografia.&nbsp;</div><div><br></div><div>O que mostrou esta radiografia?</div><div><br></div><div>Nada. É uma radiografia normal, com todos os espaços articulares e estruturas ósseas preservadas – o que leva ao diagnóstico de uma entorse do tornozelo.</div><div><br></div><div>Tratamento de entorse de tornozelo:</div><div><br></div><div>Utilizamos sempre o método PRICE:&nbsp;</div><div><br></div><div>Proteção (feita idealmente com órtese removível, como bota ortopédica; na sua falta, utiliza-se uma tala gessada);</div><div><br></div><div>Repouso,&nbsp;</div><div><br></div><div>Gelo (Ice),&nbsp;</div><div><br></div><div>Compressão e&nbsp;</div><div><br></div><div>Elevação.&nbsp;</div><div><br></div><div>É utilizado para a maior parte de entorses e distensões e especialmente útil no tornozelo. A reabilitação após a entorse é essencial, com fortalecimento muscular e cinesioterapia para reabilitação.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber com esta pergunta?Condutas no tratamento de entorses do tornozelo. Vamos aproveitar para rever algumas informações importantes deste tema:O que você precisa saber para responder a esta pergunta?Critérios de Ottawa:Os critérios de Ottawa foram definidos para se evitar a solicitação desnecessária de exames radiográficos em entorses de tornozelo. Desta forma, devem ser solicitados exames apenas se o paciente apresentar:Dor maleolar (dor à palpação do maléolo, indicando provável lesão óssea) +Idade acima de 55 anos (maior risco de fratura pela osteoporose), ouDor retromaleolar (indicando entorse mais grave, pois a lesão se propaga de anterior para inferior e depois posterior ao maléolo), ouIncapacidade de apoiar o pé (indicando entorse mais grave).O paciente, portanto, tinha critérios de ottawa suficientes para a solicitação de uma radiografia. O que mostrou esta radiografia?Nada. É uma radiografia normal, com todos os espaços articulares e estruturas ósseas preservadas – o que leva ao diagnóstico de uma entorse do tornozelo.Tratamento de entorse de tornozelo:Utilizamos sempre o método PRICE: Proteção (feita idealmente com órtese removível, como bota ortopédica; na sua falta, utiliza-se uma tala gessada);Repouso, Gelo (Ice), Compressão e Elevação. É utilizado para a maior parte de entorses e distensões e especialmente útil no tornozelo. A reabilitação após a entorse é essencial, com fortalecimento muscular e cinesioterapia para reabilitação.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:45:01.2174 +0000 UTC",
+          "updated_at": "2020-11-25 13:45:02.036987 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "paciente-19-anos85300f6100",
+        "public": true
+      },
+      {
+        "id": "4000127282",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3b9d5c1fe2654fa8851daf152c21d354",
+            "name": "Quadro clínico, diagnóstico e sinais de alarme",
+            "is_master": false,
+            "master_id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia[$$]Quadro clínico, diagnóstico e sinais de alarme",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "a07c4470d60947f79d277b04856b74a5",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3619fda1-216d-4e28-bfa9-42b4c09eb75d",
+            "position": "0",
+            "body": "prescrever anti-inflamatórios não esteróides e fisioterapia.",
+            "sanitized_body": "prescrever anti-inflamatórios não esteróides e fisioterapia.",
+            "correct": true,
+            "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:53.460397 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” correta: esta é a melhor resposta, dentro das disponíveis. Não se esqueça do analgésico!",
+              "sanitized_complete": "Alternativa “a” correta: esta é a melhor resposta, dentro das disponíveis. Não se esqueça do analgésico!",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:25:34.281439 +0000 UTC",
+              "updated_at": "2020-11-25 13:25:35.580138 +0000 UTC"
+            },
+            "answer_percentage": 91,
+            "answers": 854
+          },
+          {
+            "id": "55636b5f-0cee-4755-a451-d676fcf8371e",
+            "position": "1",
+            "body": "solicitar ressonância nuclear magnética da coluna vertebral.",
+            "sanitized_body": "solicitar ressonância nuclear magnética da coluna vertebral.",
+            "correct": false,
+            "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:53.499656 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: raramente solicitamos uma ressonância, quando avaliamos lombalgia; ela é mais útil quando se planeja o tratamento cirúrgico de uma hérnia discal.&nbsp;",
+              "sanitized_complete": "Alternativa “b” incorreta: raramente solicitamos uma ressonância, quando avaliamos lombalgia; ela é mais útil quando se planeja o tratamento cirúrgico de uma hérnia discal. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:25:34.278433 +0000 UTC",
+              "updated_at": "2020-11-25 13:25:35.575672 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 52
+          },
+          {
+            "id": "0910bc58-338b-4dfa-825f-976c2dbb1994",
+            "position": "2",
+            "body": "prescrever infiltração com corticoesteroides.",
+            "sanitized_body": "prescrever infiltração com corticoesteroides.",
+            "correct": false,
+            "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:53.530122 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: a infiltração com corticoides é bem mais interessante nas compressões radiculares e, especialmente, nas dores facetárias.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “c” incorreta: a infiltração com corticoides é bem mais interessante nas compressões radiculares e, especialmente, nas dores facetárias.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:25:34.300334 +0000 UTC",
+              "updated_at": "2020-11-25 13:25:35.574205 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "1729c888-7cbe-47f6-830b-f093af9dadd0",
+            "position": "3",
+            "body": "afastar o paciente do trabalho por 30 dias.",
+            "sanitized_body": "afastar o paciente do trabalho por 30 dias.",
+            "correct": false,
+            "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:53.569682 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: um afastamento tão longo não só não melhoraria, como tenderia a piorar o quadro do paciente. Lembre-se: o afastamento com repouso é de apenas dois dias.&nbsp;&nbsp;",
+              "sanitized_complete": "Alternativa “d” incorreta: um afastamento tão longo não só não melhoraria, como tenderia a piorar o quadro do paciente. Lembre-se: o afastamento com repouso é de apenas dois dias.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:25:34.285455 +0000 UTC",
+              "updated_at": "2020-11-25 13:25:35.569775 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 22
+          },
+          {
+            "id": "5838c7d7-61a8-4f6b-be50-725f25bf5534",
+            "position": "4",
+            "body": "solicitar cintilografia de coluna vertebral.",
+            "sanitized_body": "solicitar cintilografia de coluna vertebral.",
+            "correct": false,
+            "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:53.618599 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” incorreta: em geral, na ortopedia, raramente solicitamos uma cintilografia. De fato, de todas as questões em que cintilografia aparece como alternativa, ela só estava correta uma vez. De qualquer forma, a cintilografia é indicada quando buscamos múltiplos focos de osteomielite ou tumor – não auxiliando, portanto, na lombalgia mecânica ou lombociatalgia.&nbsp; &nbsp;",
+              "sanitized_complete": "Alternativa “e” incorreta: em geral, na ortopedia, raramente solicitamos uma cintilografia. De fato, de todas as questões em que cintilografia aparece como alternativa, ela só estava correta uma vez. De qualquer forma, a cintilografia é indicada quando buscamos múltiplos focos de osteomielite ou tumor – não auxiliando, portanto, na lombalgia mecânica ou lombociatalgia.   ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:25:34.296311 +0000 UTC",
+              "updated_at": "2020-11-25 13:25:35.574188 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem com 38 anos de idade, pedreiro, vem à Unidade Básica de Saúde com relato de dor lombar contínua há uma semana, aos esforços acentuados, a qual não  causa limitação de suas atividades diárias. Informa, com bastante firmeza, diminuição da sensibilidade na face lateral da perna esquerda. Ao exame físico apresenta dor à digitopressão lombar com teste de Lasègue negativo bilateralmente.&nbsp;<div><br></div><div>A conduta a ser adotada na sequência deve ser:</div>",
+        "statement_text": "Homem com 38 anos de idade, pedreiro, vem à Unidade Básica de Saúde com relato de dor lombar contínua há uma semana, aos esforços acentuados, a qual não  causa limitação de suas atividades diárias. Informa, com bastante firmeza, diminuição da sensibilidade na face lateral da perna esquerda. Ao exame físico apresenta dor à digitopressão lombar com teste de Lasègue negativo bilateralmente. A conduta a ser adotada na sequência deve ser:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 13:32:17.682 +0000 UTC",
+        "forum_id": "e9a9a2ef-286a-4e38-9d71-cf6284a15e54",
+        "solution": {
+          "_key": "96eb11d4-342e-4ecf-bb8b-d9b70b7985ca",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div><i>O que o examinador deseja saber com esta pergunta</i>?</div><div><br></div><div>Diagnóstico e condutas na lombalgia mecânica.</div><div><br></div><div><i>O que é necessário saber para responder a esta pergunta</i>?</div><div><br></div><div><u>Lombalgia</u></div><div><br></div><div>Existem basicamente dois tipos de dores da região lombar:</div><div><br></div><div>- Axial: localizada na região lombar.&nbsp;</div><div><br></div><div>- Irradiada: segue geralmente pelos membros inferiores. Pode ser neuropática (hérnia discal) ou simplesmente por encurtamento tendíneo.</div><div><br></div><div>Existem, também causas mecânicas e secundárias:</div><div><br></div><div>- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.</div><div><br></div><div>- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.</div><div><br></div><div>O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/BE14AD6C-5A1F-0F4B-7993-29AE0E676970/BE14AD6C-5A1F-0F4B-7993-29AE0E676970-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A grande maioria das dores lombares é de origem mecânica e não apresenta qualquer sinal de alarme (red flag).&nbsp;</div><div><br></div><div>Os sinais de alarme são fatores que se associam a dor possivelmente maligna e indicam a realização de uma radiografia, especialmente no pronto-socorro, mas, também, no ambulatório.</div><div><br></div><div>O melhor mnemônico para se lembrar dos principais sinais de alarme para a prova é: <b>Se tem PITTI, DOC, não é piti</b>, em que:</div><div><br></div><div>P: Persistência (mais de uma visita ao médico em 30 dias).</div><div><br></div><div>I: Idade (menor que 20, maior que 50).</div><div><br></div><div>T: Trauma.</div><div><br></div><div>T: Tumor (história ou suspeita).</div><div><br></div><div>I: Infecção (história ou suspeita).</div><div><br></div><div>D: Déficit Neurológico</div><div><br></div><div>O: Osteoporose</div><div><br></div><div>C: Cauda Equina</div><div><br></div><div><i>Como é feito o tratamento da lombalgia</i>?</div><div><br></div><div>Primeiro passo: analgesia simples +/- anti-inflamatórios não esteroidais (AINE) + relaxante muscular. Se a dor não melhorar com este grau de analgesia, avançar para opioides.&nbsp;</div><div><br></div><div>Segundo passo: com a dor controlada, pode-se iniciar atividade física aeróbica e fortalecimento muscular do core abdominal, o que, em última análise, é o que irá resolver o problema.&nbsp;</div><div><br></div><div>Terapias complementares: fisioterapia analgésica e acupuntura podem ser indicadas. Quiropraxia apresenta apenas efeito imediato, com altos riscos de lesão irreversível. Antidepressivos podem ser associados para analgesia.</div><div><br></div><div>Tempo de afastamento: o afastamento do trabalho com repouso deve ser de apenas dois dias; quando mais duradouro, o repouso se torna contraproducente. O ideal é o paciente retomar suas atividades habituais assim que possível.&nbsp;</div><div><br></div><div>É extremamente importante notar: este tratamento é o mesmo para basicamente todas as patologias da coluna que levem a dor. Lombalgia mecânica, hérnia discal, estenose, artrose: todos se beneficiarão deste tratamento.</div><div><br></div><div><b>Sobre o caso:</b></div><div><br></div><div>O paciente apresenta uma dor lombar, cujo único fator de risco seria esta alteração neurológica (alteração de sensibilidade). Isso chama a atenção para a possibilidade de uma hérnia discal, embora o exame físico tenha sido negativo para tal.&nbsp;</div><div><br></div><div>Pelo déficit neurológico, mesmo que sensitivo e, portanto, subjetivo e pouco confiável, uma radiografia não estaria de todo errada. Entretanto, o examinador não deu esta opção.</div><div><br></div><div>Vamos ver as alternativas.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador deseja saber com esta pergunta?Diagnóstico e condutas na lombalgia mecânica.O que é necessário saber para responder a esta pergunta?LombalgiaExistem basicamente dois tipos de dores da região lombar:- Axial: localizada na região lombar. - Irradiada: segue geralmente pelos membros inferiores. Pode ser neuropática (hérnia discal) ou simplesmente por encurtamento tendíneo.Existem, também causas mecânicas e secundárias:- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.A grande maioria das dores lombares é de origem mecânica e não apresenta qualquer sinal de alarme (red flag). Os sinais de alarme são fatores que se associam a dor possivelmente maligna e indicam a realização de uma radiografia, especialmente no pronto-socorro, mas, também, no ambulatório.O melhor mnemônico para se lembrar dos principais sinais de alarme para a prova é: Se tem PITTI, DOC, não é piti, em que:P: Persistência (mais de uma visita ao médico em 30 dias).I: Idade (menor que 20, maior que 50).T: Trauma.T: Tumor (história ou suspeita).I: Infecção (história ou suspeita).D: Déficit NeurológicoO: OsteoporoseC: Cauda EquinaComo é feito o tratamento da lombalgia?Primeiro passo: analgesia simples +/- anti-inflamatórios não esteroidais (AINE) + relaxante muscular. Se a dor não melhorar com este grau de analgesia, avançar para opioides. Segundo passo: com a dor controlada, pode-se iniciar atividade física aeróbica e fortalecimento muscular do core abdominal, o que, em última análise, é o que irá resolver o problema. Terapias complementares: fisioterapia analgésica e acupuntura podem ser indicadas. Quiropraxia apresenta apenas efeito imediato, com altos riscos de lesão irreversível. Antidepressivos podem ser associados para analgesia.Tempo de afastamento: o afastamento do trabalho com repouso deve ser de apenas dois dias; quando mais duradouro, o repouso se torna contraproducente. O ideal é o paciente retomar suas atividades habituais assim que possível. É extremamente importante notar: este tratamento é o mesmo para basicamente todas as patologias da coluna que levem a dor. Lombalgia mecânica, hérnia discal, estenose, artrose: todos se beneficiarão deste tratamento.Sobre o caso:O paciente apresenta uma dor lombar, cujo único fator de risco seria esta alteração neurológica (alteração de sensibilidade). Isso chama a atenção para a possibilidade de uma hérnia discal, embora o exame físico tenha sido negativo para tal. Pelo déficit neurológico, mesmo que sensitivo e, portanto, subjetivo e pouco confiável, uma radiografia não estaria de todo errada. Entretanto, o examinador não deu esta opção.Vamos ver as alternativas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:25:34.374754 +0000 UTC",
+          "updated_at": "2020-11-25 13:25:35.642218 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127282-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-com-38-anos70998969f1",
+        "public": true
+      },
+      {
+        "id": "4000127404",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "383742b3f3404f4685685be7055d1409",
+            "name": "Síndromes Dolorosas Crônicas",
+            "is_master": false,
+            "master_id": "40e99aa089204857bd2b0ec7355c3eff",
+            "path": "Clínica Médica[$$]Reumatologia [$$]Síndromes Dolorosas Crônicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "name": "Lombalgia",
+            "is_master": false,
+            "master_id": "8434007c79ad49feade84e06953d9666",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,   com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia  da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Cite duas condutas não farmacológicas efetivamente úteis para o tratamento adequado desta paciente em longo prazo.",
+        "statement_text": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,   com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia  da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Cite duas condutas não farmacológicas efetivamente úteis para o tratamento adequado desta paciente em longo prazo.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:03:22.823392 +0000 UTC",
+        "solution": {
+          "_key": "13000918-dedf-4a20-bc7c-23c7b33ba6c6",
+          "complete": "Estrategista, estamos frente a uma paciente de meia-idade apresentando lombalgia mecânica crônica associada a repercussões biopsicossociais importantes, já que a dor interfere em seu trabalho, qualidade do sono e a deixa tensa e chorosa.&nbsp;<div><br></div><div>Note que em anamnese e exame físico, não temos nenhum sinal de alarme para causa secundária, como déficit neurológico e histórico compatível com infecção, osteoporose ou neoplasia. Inclusive, a avaliação da paciente nos mostra componentes importantes para dor de etiologia mecânica, como sobrepeso, encurtamento de cadeia posterior das coxas (ísquio-tibiais), pontos de tensão e dor à palpação de musculatura paravertebral.&nbsp;</div><div><br></div><div>Ainda assim, foi realizada investigação com exames complementares que não evidenciou quaisquer alterações compatíveis com inflamação sistêmica e condições como espondiloartrites. Os achados presentes na radiografia não necessariamente estão associados às queixas da paciente. Osteófitos podem comprimir o canal vertebral, mas neste caso gerariam queixas compatíveis com radiculopatia, assim como dor decorrente de hérnia discal.&nbsp;</div><div><br></div><div>Dito isto, vamos à questão:</div><div><br></div><div>O tratamento da lombalgia mecânica crônica deve, primariamente, envolver redução de sobrecarga e reabilitação.&nbsp;</div><div><br></div><div>O excesso de peso sobrecarrega a coluna lombar e, além de estar associado ao surgimento dessa queixa, também a perpetua. Estudos mostram que a perda de peso (a princípio, 5% do peso total) está associada à melhora sintomática e funcional. Logo, para a nossa paciente que está com sobrepeso, esta é uma medida não farmacológica fundamental e deve, idealmente, contar com o apoio de um nutricionista.&nbsp;</div><div><br></div><div>A prática de atividade física aeróbica de baixo impacto auxilia no condicionamento físico e perda de peso. Já a realização de alongamentos e, principalmente de fortalecimento muscular, é essencial para estabilizar a coluna, melhorar as queixas e reduzir a frequência de eventuais crises de agudização da dor. Neste caso, o ideal é contar com o apoio de um fisioterapeuta e/ou educador físico.&nbsp;&nbsp;</div><div><br></div><div>Por fim, nossa paciente já apresenta sofrimento psicológico e interferência direta em suas atividades pessoais e profissionais devido à dor. É sabido que fatores psicológicos e ocupacionais estão associados à perpetuação e refratariedade do tratamento; assim, encaminhamento ao psicólogo para avaliação e seguimento também está indicado.&nbsp;</div><div><br></div>",
+          "sanitized_complete": "Estrategista, estamos frente a uma paciente de meia-idade apresentando lombalgia mecânica crônica associada a repercussões biopsicossociais importantes, já que a dor interfere em seu trabalho, qualidade do sono e a deixa tensa e chorosa. Note que em anamnese e exame físico, não temos nenhum sinal de alarme para causa secundária, como déficit neurológico e histórico compatível com infecção, osteoporose ou neoplasia. Inclusive, a avaliação da paciente nos mostra componentes importantes para dor de etiologia mecânica, como sobrepeso, encurtamento de cadeia posterior das coxas (ísquio-tibiais), pontos de tensão e dor à palpação de musculatura paravertebral. Ainda assim, foi realizada investigação com exames complementares que não evidenciou quaisquer alterações compatíveis com inflamação sistêmica e condições como espondiloartrites. Os achados presentes na radiografia não necessariamente estão associados às queixas da paciente. Osteófitos podem comprimir o canal vertebral, mas neste caso gerariam queixas compatíveis com radiculopatia, assim como dor decorrente de hérnia discal. Dito isto, vamos à questão:O tratamento da lombalgia mecânica crônica deve, primariamente, envolver redução de sobrecarga e reabilitação. O excesso de peso sobrecarrega a coluna lombar e, além de estar associado ao surgimento dessa queixa, também a perpetua. Estudos mostram que a perda de peso (a princípio, 5% do peso total) está associada à melhora sintomática e funcional. Logo, para a nossa paciente que está com sobrepeso, esta é uma medida não farmacológica fundamental e deve, idealmente, contar com o apoio de um nutricionista. A prática de atividade física aeróbica de baixo impacto auxilia no condicionamento físico e perda de peso. Já a realização de alongamentos e, principalmente de fortalecimento muscular, é essencial para estabilizar a coluna, melhorar as queixas e reduzir a frequência de eventuais crises de agudização da dor. Neste caso, o ideal é contar com o apoio de um fisioterapeuta e/ou educador físico.  Por fim, nossa paciente já apresenta sofrimento psicológico e interferência direta em suas atividades pessoais e profissionais devido à dor. É sabido que fatores psicológicos e ocupacionais estão associados à perpetuação e refratariedade do tratamento; assim, encaminhamento ao psicólogo para avaliação e seguimento também está indicado. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+          "author_email_id": "2f455a909854ebdef1fc681d03daba2a",
+          "author_profile": {
+            "id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+            "full_name": "Taysa Moreira",
+            "avatar_url": "https://static.accounts.estrategia.com/06e6c33b74652944cc6c35e9315b40da",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Carlos - UFSCar, residência em Clínica Médica e Reumatologia pelo Hospital das Clínicas da Faculdade de Medicina da USP de São Paulo - HCFMUSP, título de especialista pela Sociedade Brasileira de Reumatologia - SBR. Atualmente, trabalha em consultório particular, parte da equipe de Reumatologia dos hospitais Samaritano, IGESP, Sepaco e Vila Nova Star e professora do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/proftaysamoreira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/taysa-moreira-62b51618a",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 18:19:09.870772 +0000 UTC",
+          "updated_at": "2021-07-07 18:19:12.135012 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127404-720.mp4",
+        "unlisted": false,
+        "slug": "medico-Unidade-Basica20298ca9d22",
+        "public": true
+      },
+      {
+        "id": "4000127403",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "383742b3f3404f4685685be7055d1409",
+            "name": "Síndromes Dolorosas Crônicas",
+            "is_master": false,
+            "master_id": "40e99aa089204857bd2b0ec7355c3eff",
+            "path": "Clínica Médica[$$]Reumatologia [$$]Síndromes Dolorosas Crônicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "a07c4470d60947f79d277b04856b74a5",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente, com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa.<div>Tomando por base o caso clínico acima, responda às questões abaixo. Dentre os fármacos que a paciente está utilizando atualmente, identifique o que deve ser suspenso e   justifique.</div>",
+        "statement_text": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente, com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa.Tomando por base o caso clínico acima, responda às questões abaixo. Dentre os fármacos que a paciente está utilizando atualmente, identifique o que deve ser suspenso e   justifique.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:03:05.248648 +0000 UTC",
+        "forum_id": "13e64626-3e23-4fae-8bf7-dba1585f12ac",
+        "solution": {
+          "_key": "f0d8e6e5-5b68-4784-a25b-2a58eb85c40e",
+          "complete": "Estrategista, estamos frente a uma paciente de meia-idade apresentando lombalgia mecânica crônica associada a repercussões biopsicossociais importantes, já que a dor interfere em seu trabalho, qualidade do sono e a deixa tensa e chorosa. <div><br></div><div>Note que em anamnese e exame físico, não temos nenhum sinal de alarme para causa secundária, como déficit neurológico e histórico compatível com infecção, osteoporose ou neoplasia. Inclusive, a avaliação da paciente nos mostra componentes importantes para dor de etiologia mecânica, como sobrepeso, encurtamento de cadeia posterior das coxas (ísquio-tibiais), pontos de tensão e dor à palpação de musculatura paravertebral. </div><div><br></div><div>Ainda assim, foi realizada investigação com exames complementares que não evidenciou quaisquer alterações compatíveis com inflamação sistêmica e condições como espondiloartrites. Os achados presentes na radiografia não necessariamente estão associados às queixas da paciente. Osteófitos podem comprimir o canal vertebral, mas neste caso gerariam queixas compatíveis com radiculopatia e estenose de canal vertebral. </div><div><br></div><div>Dito isto, vamos à questão:</div><div><br></div><div>Nossa paciente apresenta como comorbidades diabetes mellitus e doença dispéptica. Assim, o uso de anti-inflamatórios não esteroidais (AINEs) deveria ser evitado, especialmente aqueles ditos não seletivos, como o Ibuprofeno. Isso porque os AINEs não seletivos inibem a COX-1, prostaglandina constitucional e de ação protetora na mucosa gástrica; consequentemente, aumentam o risco de toxicidade, com o surgimento de gastrite e úlcera.</div><div><br></div><div>Além disso, ao inibirem essas prostaglandinas, os AINEs podem gerar vasoconstrição na arteríola aferente e reduzir a perfusão renal. Como nossa paciente é diabética, estaríamos adicionando um fator de risco adicional à uma condição sabidamente associada à doença renal crônica. </div><div><br></div><div>Logo, a droga a ser suspensa é o ibuprofeno, conforme discutido acima. </div><div><br></div><div>O tramadol é um opioide fraco que, segundo a escada analgésica da Organização Mundial da Saúde (OMS), está indicado no manejo de dores moderadas, exatamente como reportado pela paciente. Diferentemente dos demais opioides, tem uma ação discreta como inibidor seletivo da recaptação de serotonina e adrenalina e, por isso, é preferível no manejo de dores crônicas. </div><div><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0A455874-CA52-AE4B-CF05-BE679B631D25/0A455874-CA52-AE4B-CF05-BE679B631D25-400.jpeg\"></div><div><br></div><div><b>GABARITO OFICIAL: O ibuprofeno deve ser suspenso, pois se trata de um anti-inflamatório não esteroidal inibidor não seletivo de Cox, cujo uso crônico está relacionado à toxicidade gástrica e renal. Deve ser evitado nos pacientes com doenças dispépticas e nos diabéticos pelo aumento do risco de insuficiência renal decorrente da redução do fluxo sanguíneo renal que é mediado pelas prostaglandinas renais. O tramadol, apesar da utilização de opioide ser controversa para dor não neoplásica, está melhor indicado do que o AINE. Seu uso intermitente neste caso e seu mecanismo de ação não opioide relacionado à inibição de recaptação de serotonina contribuem para ação analgésica eficiente, com riscos de tolerância e adição menores do que os opioides comuns.</b><br></div>",
+          "sanitized_complete": "Estrategista, estamos frente a uma paciente de meia-idade apresentando lombalgia mecânica crônica associada a repercussões biopsicossociais importantes, já que a dor interfere em seu trabalho, qualidade do sono e a deixa tensa e chorosa. Note que em anamnese e exame físico, não temos nenhum sinal de alarme para causa secundária, como déficit neurológico e histórico compatível com infecção, osteoporose ou neoplasia. Inclusive, a avaliação da paciente nos mostra componentes importantes para dor de etiologia mecânica, como sobrepeso, encurtamento de cadeia posterior das coxas (ísquio-tibiais), pontos de tensão e dor à palpação de musculatura paravertebral. Ainda assim, foi realizada investigação com exames complementares que não evidenciou quaisquer alterações compatíveis com inflamação sistêmica e condições como espondiloartrites. Os achados presentes na radiografia não necessariamente estão associados às queixas da paciente. Osteófitos podem comprimir o canal vertebral, mas neste caso gerariam queixas compatíveis com radiculopatia e estenose de canal vertebral. Dito isto, vamos à questão:Nossa paciente apresenta como comorbidades diabetes mellitus e doença dispéptica. Assim, o uso de anti-inflamatórios não esteroidais (AINEs) deveria ser evitado, especialmente aqueles ditos não seletivos, como o Ibuprofeno. Isso porque os AINEs não seletivos inibem a COX-1, prostaglandina constitucional e de ação protetora na mucosa gástrica; consequentemente, aumentam o risco de toxicidade, com o surgimento de gastrite e úlcera.Além disso, ao inibirem essas prostaglandinas, os AINEs podem gerar vasoconstrição na arteríola aferente e reduzir a perfusão renal. Como nossa paciente é diabética, estaríamos adicionando um fator de risco adicional à uma condição sabidamente associada à doença renal crônica. Logo, a droga a ser suspensa é o ibuprofeno, conforme discutido acima. O tramadol é um opioide fraco que, segundo a escada analgésica da Organização Mundial da Saúde (OMS), está indicado no manejo de dores moderadas, exatamente como reportado pela paciente. Diferentemente dos demais opioides, tem uma ação discreta como inibidor seletivo da recaptação de serotonina e adrenalina e, por isso, é preferível no manejo de dores crônicas. GABARITO OFICIAL: O ibuprofeno deve ser suspenso, pois se trata de um anti-inflamatório não esteroidal inibidor não seletivo de Cox, cujo uso crônico está relacionado à toxicidade gástrica e renal. Deve ser evitado nos pacientes com doenças dispépticas e nos diabéticos pelo aumento do risco de insuficiência renal decorrente da redução do fluxo sanguíneo renal que é mediado pelas prostaglandinas renais. O tramadol, apesar da utilização de opioide ser controversa para dor não neoplásica, está melhor indicado do que o AINE. Seu uso intermitente neste caso e seu mecanismo de ação não opioide relacionado à inibição de recaptação de serotonina contribuem para ação analgésica eficiente, com riscos de tolerância e adição menores do que os opioides comuns.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+          "author_email_id": "2f455a909854ebdef1fc681d03daba2a",
+          "author_profile": {
+            "id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+            "full_name": "Taysa Moreira",
+            "avatar_url": "https://static.accounts.estrategia.com/06e6c33b74652944cc6c35e9315b40da",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Carlos - UFSCar, residência em Clínica Médica e Reumatologia pelo Hospital das Clínicas da Faculdade de Medicina da USP de São Paulo - HCFMUSP, título de especialista pela Sociedade Brasileira de Reumatologia - SBR. Atualmente, trabalha em consultório particular, parte da equipe de Reumatologia dos hospitais Samaritano, IGESP, Sepaco e Vila Nova Star e professora do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/proftaysamoreira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/taysa-moreira-62b51618a",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 18:17:51.509933 +0000 UTC",
+          "updated_at": "2022-01-09 23:18:44.62098 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127403-720.mp4",
+        "unlisted": false,
+        "slug": "medico-Unidade-Basica1992a780190",
+        "public": true
+      },
+      {
+        "id": "4000127402",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ff87736125de4f899f694d7b65fa2df4",
+            "name": "Diagnósticos diferenciais",
+            "is_master": false,
+            "master_id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia[$$]Diagnósticos diferenciais",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,   com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia  da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Cite 2 diagnósticos diferenciais, identificando as informações referidas no caso que você utilizou para afastá- los.",
+        "statement_text": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,   com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia  da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Cite 2 diagnósticos diferenciais, identificando as informações referidas no caso que você utilizou para afastá- los.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:02:43.77077 +0000 UTC",
+        "forum_id": "1a3c1d3b-4316-46ff-9d1d-2d66cf628655",
+        "solution": {
+          "_key": "b0bee175-f4a7-407e-9432-b0ff56ec88bf",
+          "complete": "<i>O que o examinador deseja saber com esta pergunta</i>?<div><br><div>Diagnóstico diferencial de lombalgia – e, especificamente, quais dados indicaram este diagnóstico.</div><div><br></div><div><i>O que é necessário saber para responder a esta pergunta</i>?</div><div><br></div><div><u>Lombalgia</u></div><div><br></div><div>Existem basicamente dois tipos de dores da região lombar:</div><div>- Axial: localizada na região lombar.</div><div>- Irradiada: segue geralmente pelos membros inferiores.</div><div><br></div><div>Existem, também causas mecânicas e secundárias:</div><div><br></div><div>- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.</div><div><br></div><div>- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.</div><div><br></div><div>O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9031704B-87BD-B7EB-BBC2-C0F368D30A06/9031704B-87BD-B7EB-BBC2-C0F368D30A06-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como você pode ver pelo fluxograma, a nossa paciente apresenta uma lombalgia mecânica: o teste de elevação da perna estendida, também conhecido como Lasègue, é negativo, excluindo hérnia discal (lombociatalgia). Ao mesmo tempo, ela não apresenta sintomas inflamatórios (piora com repouso, melhora ao caminhar), nem testes compatíveis (HLA B-27, principal marcador para espondilite anquilosante, negativo; radiografia de sacroilíacas normal; PCR normal). Por fim, ela não é idosa – sobrando, assim, o diagnóstico de lombalgia mecânica.&nbsp;</div><div><br></div><div>A lombalgia mecânica é também conhecida como <b>lombalgia inespecífica aguda ou crônica</b> e se relaciona principalmente a um desbalanço ou disfunção da musculatura, sendo a causa mais frequente de lombalgia.&nbsp;</div><div><br></div><div><b>Atenção, estrategista!</b> O grande truque das questões discursivas é aprender como eles querem que você escreva o gabarito. O truque é compreender quais são as palavras-chave que eles querem ouvir. Por isso, estude todas as questões discursivas desta prova e analise bem quais são os termos que os examinadores usam.&nbsp;</div><div><br></div><div>GABARITO: <b>Lombociatalgia – exame neurológico normal; Manobra de elevação do MI em extensão negativa; Espondilite anquilosante – HLA B27 negativo. Raios-X de sacroilíaca normal; Hérnia de disco - ausência de sinais radiculares.</b></div>",
+          "sanitized_complete": "O que o examinador deseja saber com esta pergunta?Diagnóstico diferencial de lombalgia – e, especificamente, quais dados indicaram este diagnóstico.O que é necessário saber para responder a esta pergunta?LombalgiaExistem basicamente dois tipos de dores da região lombar:- Axial: localizada na região lombar.- Irradiada: segue geralmente pelos membros inferiores.Existem, também causas mecânicas e secundárias:- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.Como você pode ver pelo fluxograma, a nossa paciente apresenta uma lombalgia mecânica: o teste de elevação da perna estendida, também conhecido como Lasègue, é negativo, excluindo hérnia discal (lombociatalgia). Ao mesmo tempo, ela não apresenta sintomas inflamatórios (piora com repouso, melhora ao caminhar), nem testes compatíveis (HLA B-27, principal marcador para espondilite anquilosante, negativo; radiografia de sacroilíacas normal; PCR normal). Por fim, ela não é idosa – sobrando, assim, o diagnóstico de lombalgia mecânica. A lombalgia mecânica é também conhecida como lombalgia inespecífica aguda ou crônica e se relaciona principalmente a um desbalanço ou disfunção da musculatura, sendo a causa mais frequente de lombalgia. Atenção, estrategista! O grande truque das questões discursivas é aprender como eles querem que você escreva o gabarito. O truque é compreender quais são as palavras-chave que eles querem ouvir. Por isso, estude todas as questões discursivas desta prova e analise bem quais são os termos que os examinadores usam. GABARITO: Lombociatalgia – exame neurológico normal; Manobra de elevação do MI em extensão negativa; Espondilite anquilosante – HLA B27 negativo. Raios-X de sacroilíaca normal; Hérnia de disco - ausência de sinais radiculares.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:16:53.445524 +0000 UTC",
+          "updated_at": "2020-11-25 13:16:54.215399 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "medico-Unidade-Basica2021f9d5b50",
+        "public": true
+      },
+      {
+        "id": "4000127401",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3b9d5c1fe2654fa8851daf152c21d354",
+            "name": "Quadro clínico, diagnóstico e sinais de alarme",
+            "is_master": false,
+            "master_id": "bfff1fcf8e3a4c4dbc5a8e73cb81281a",
+            "path": "Outros [$$]Ortopedia[$$]Ortopedia Geral[$$]Doenças da coluna vertebral[$$]Lombalgia[$$]Quadro clínico, diagnóstico e sinais de alarme",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,  com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Qual a hipótese diagnóstica correta para o caso?",
+        "statement_text": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de   idade, costureira, queixando-se de dor lombar sem irradiação há 2 anos, intermitente,  com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiografia da  coluna  lombo sacra: osteófitos marginais e pinçamento do espaço L5-S1; radiografia da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Qual a hipótese diagnóstica correta para o caso?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:02:30.121907 +0000 UTC",
+        "solution": {
+          "_key": "b61c5a52-a3aa-4072-b62b-738c0280d9e9",
+          "complete": "<i>O que o examinador deseja saber com esta pergunta</i>?<div><br><div>Diagnóstico diferencial de lombalgia.</div><div><br></div><div><i>O que é necessário saber para responder a esta pergunta</i>?</div><div><br></div><div><u>Lombalgia</u></div><div><u><br></u></div><div>Existem basicamente dois tipos de dores da região lombar:</div><div><br></div><div>- Axial: localizada na região lombar.</div><div><br></div><div>- Irradiada: segue geralmente pelos membros inferiores.</div><div><br></div><div>Existem, também causas mecânicas e secundárias:</div><div><br></div><div>- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.</div><div><br></div><div>- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.</div><div><br></div><div>O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C95C0175-6112-0A6B-998E-4F53FF139717/C95C0175-6112-0A6B-998E-4F53FF139717-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Como você pode ver pelo fluxograma, a nossa paciente apresenta uma lombalgia mecânica: o teste de elevação da perna estendida, também conhecido como Lasègue, é negativo, excluindo hérnia discal. Ao mesmo tempo, ela não apresenta sintomas inflamatórios (piora com repouso, melhora ao caminhar), nem testes compatíveis (HLA B-27, principal marcador para espondilite anquilosante, negativo; radiografia de sacroilíacas normal; PCR normal). Por fim, ela não é idosa – sobrando, assim, o diagnóstico de lombalgia mecânica.&nbsp;</div><div><br></div><div>A lombalgia mecânica é também conhecida como <b>lombalgia inespecífica aguda ou crônica</b> e se relaciona principalmente a um desbalanço ou disfunção da musculatura, sendo a causa mais frequente de lombalgia.&nbsp;</div><div><br></div><div>GABARITO: <b>Lombalgia crônica inespecífica (outras denominações possíveis e corretas: Lombalgia mecânica, Lombalgia Idiopática, Lombalgia, Dor lombar).</b></div>",
+          "sanitized_complete": "O que o examinador deseja saber com esta pergunta?Diagnóstico diferencial de lombalgia.O que é necessário saber para responder a esta pergunta?LombalgiaExistem basicamente dois tipos de dores da região lombar:- Axial: localizada na região lombar.- Irradiada: segue geralmente pelos membros inferiores.Existem, também causas mecânicas e secundárias:- Mecânicas: lombalgia mecânica, geralmente por atrofia ou contratura muscular. Pode se associar a outras causas.- Secundárias: artrose, inflamatória, hérnia discal, estenose vertebral, fratura, infecção, neoplasia.O fluxograma a seguir resume, de modo didático, como as lombalgias e seus diagnósticos se apresentam nas questões. Basta segui-lo e você não errará.Como você pode ver pelo fluxograma, a nossa paciente apresenta uma lombalgia mecânica: o teste de elevação da perna estendida, também conhecido como Lasègue, é negativo, excluindo hérnia discal. Ao mesmo tempo, ela não apresenta sintomas inflamatórios (piora com repouso, melhora ao caminhar), nem testes compatíveis (HLA B-27, principal marcador para espondilite anquilosante, negativo; radiografia de sacroilíacas normal; PCR normal). Por fim, ela não é idosa – sobrando, assim, o diagnóstico de lombalgia mecânica. A lombalgia mecânica é também conhecida como lombalgia inespecífica aguda ou crônica e se relaciona principalmente a um desbalanço ou disfunção da musculatura, sendo a causa mais frequente de lombalgia. GABARITO: Lombalgia crônica inespecífica (outras denominações possíveis e corretas: Lombalgia mecânica, Lombalgia Idiopática, Lombalgia, Dor lombar).",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:14:18.697749 +0000 UTC",
+          "updated_at": "2020-11-25 13:14:20.051592 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127401-720.mp4",
+        "unlisted": false,
+        "slug": "medico-Unidade-Basica192a657906c",
+        "public": true
+      },
+      {
+        "id": "4000127186",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "1549f8d11b49488bacd320bdeb08fc92",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "1c5efd7db259456d94271e5332a9207e",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Complicações do trauma ortopédico[$$]Síndrome Compartimental Aguda[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "bd6c9dcce04742029b196b81912cfbcd",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "1c5efd7db259456d94271e5332a9207e",
+            "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Complicações do trauma ortopédico[$$]Síndrome Compartimental Aguda[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d789a7ed-d125-4608-b81d-31775d01febf",
+            "position": "0",
+            "body": "trombose venosa profunda; heparinização.",
+            "sanitized_body": "trombose venosa profunda; heparinização.",
+            "correct": false,
+            "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:09.388395 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: a trombose venosa profunda tem uma manifestação algo mais insidiosa; é incomum em jovens, ocorrendo mais em idosos e após procedimentos cirúrgicos ortopédicos. Não iria se apresentar com dor tão importante, embora possa se apresentar com edema e empastamento da perna. A conduta principal é a anticoagulação; embolectomia/trombectomia é indicada para obstrução de artérias.&nbsp;",
+              "sanitized_complete": "Alternativa “a” incorreta: a trombose venosa profunda tem uma manifestação algo mais insidiosa; é incomum em jovens, ocorrendo mais em idosos e após procedimentos cirúrgicos ortopédicos. Não iria se apresentar com dor tão importante, embora possa se apresentar com edema e empastamento da perna. A conduta principal é a anticoagulação; embolectomia/trombectomia é indicada para obstrução de artérias. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:01:53.757807 +0000 UTC",
+              "updated_at": "2020-11-25 13:01:54.957609 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 93
+          },
+          {
+            "id": "7a191111-4931-4356-a317-223910d169c4",
+            "position": "1",
+            "body": "oclusão arterial aguda; tromboembolectomia de urgência.",
+            "sanitized_body": "oclusão arterial aguda; tromboembolectomia de urgência.",
+            "correct": false,
+            "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:09.424071 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: na oclusão arterial, não esperaríamos tanto o edema, embora possa haver parestesia e certamente alteração de pulso. Note, contudo, que a história seria diferente: normalmente as oclusões arteriais ocorrem em pacientes idosos, sem uma história de trauma.&nbsp;",
+              "sanitized_complete": "Alternativa “b” incorreta: na oclusão arterial, não esperaríamos tanto o edema, embora possa haver parestesia e certamente alteração de pulso. Note, contudo, que a história seria diferente: normalmente as oclusões arteriais ocorrem em pacientes idosos, sem uma história de trauma. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:01:53.858997 +0000 UTC",
+              "updated_at": "2020-11-25 13:01:54.946844 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 60
+          },
+          {
+            "id": "9db3482c-7c6d-4518-9183-355641a4d178",
+            "position": "2",
+            "body": "desalinhamento do sítio de fratura; reintervenção cirúrgica.",
+            "sanitized_body": "desalinhamento do sítio de fratura; reintervenção cirúrgica.",
+            "correct": false,
+            "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:09.45986 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: o desalinhamento da fratura é improvável, a não ser que a técnica de fixação tenha sido mal feita; de qualquer forma, levaria a dor, mas não a parestesia e alteração de pulso.&nbsp;",
+              "sanitized_complete": "Alternativa “c” incorreta: o desalinhamento da fratura é improvável, a não ser que a técnica de fixação tenha sido mal feita; de qualquer forma, levaria a dor, mas não a parestesia e alteração de pulso. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:01:53.858271 +0000 UTC",
+              "updated_at": "2020-11-25 13:01:54.951279 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 15
+          },
+          {
+            "id": "fb37c56b-a934-49cf-90a5-0c1d0b34a542",
+            "position": "3",
+            "body": "síndrome compartimental; fasciotomia de urgência.",
+            "sanitized_body": "síndrome compartimental; fasciotomia de urgência.",
+            "correct": true,
+            "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:09.502322 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” correta: temos um trauma compatível (fratura da tíbia, de alta energia), associado a edema, dor, parestesia e alteração de pulso; temos história + 4 P’s, sendo dois deles os Golden P. Não há dúvida que se trata de uma SCA. A conduta indicada é a fasciotomia.",
+              "sanitized_complete": "Alternativa “d” correta: temos um trauma compatível (fratura da tíbia, de alta energia), associado a edema, dor, parestesia e alteração de pulso; temos história + 4 P’s, sendo dois deles os Golden P. Não há dúvida que se trata de uma SCA. A conduta indicada é a fasciotomia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:01:53.86491 +0000 UTC",
+              "updated_at": "2020-11-25 13:01:54.958575 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 430
+          },
+          {
+            "id": "3e4cab75-f518-454c-a1fd-ea67b28cb16e",
+            "position": "4",
+            "body": "trombose arterial aguda; trombólise.",
+            "sanitized_body": "trombose arterial aguda; trombólise.",
+            "correct": false,
+            "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+            "updated_at": "2020-11-26 13:11:09.532176 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” incorreta: o pensamento aqui é basicamente o mesmo que teci para a oclusão arterial aguda.&nbsp;",
+              "sanitized_complete": "Alternativa “e” incorreta: o pensamento aqui é basicamente o mesmo que teci para a oclusão arterial aguda. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+              "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+              "author_profile": null,
+              "created_at": "2020-11-25 13:01:53.853577 +0000 UTC",
+              "updated_at": "2020-11-25 13:01:54.952552 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 29
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem, com 29 anos de idade, vítima de queda de moto com explosão do baço, apresenta lesão hepática sangrante e fratura fechada de ossos da perna esquerda. Encontra-se na sala de recuperação pós-anestésica de um hospital terciário, após ter sido submetido a laparotomia exploradora, esplenectomia e rafia hepática, além de fixação externa dos ossos da perna esquerda, há 5 horas. O procedimento transcorreu sem intercorrências. O paciente se queixa de dor em todo membro inferior operado, mais acentuadamente em terço distal de perna e pé. Apresenta parestesia no membro esquerdo, com importante e tenso edema na perna. O tempo de perfusão na perna operada é de mais de três segundos. O membro não se encontra rodado e os fixadores não apresentam problemas aparentes. Os pulsos femorais e poplíteos são presentes e normais bilateralmente, bem como os tibiais à direita. À esquerda, nota-se uma diminuição acentuada dos pulsos tibial posterior e pedioso. Diante desta situação, o diagnóstico e a conduta apropriada são, respectivamente,",
+        "statement_text": "Homem, com 29 anos de idade, vítima de queda de moto com explosão do baço, apresenta lesão hepática sangrante e fratura fechada de ossos da perna esquerda. Encontra-se na sala de recuperação pós-anestésica de um hospital terciário, após ter sido submetido a laparotomia exploradora, esplenectomia e rafia hepática, além de fixação externa dos ossos da perna esquerda, há 5 horas. O procedimento transcorreu sem intercorrências. O paciente se queixa de dor em todo membro inferior operado, mais acentuadamente em terço distal de perna e pé. Apresenta parestesia no membro esquerdo, com importante e tenso edema na perna. O tempo de perfusão na perna operada é de mais de três segundos. O membro não se encontra rodado e os fixadores não apresentam problemas aparentes. Os pulsos femorais e poplíteos são presentes e normais bilateralmente, bem como os tibiais à direita. À esquerda, nota-se uma diminuição acentuada dos pulsos tibial posterior e pedioso. Diante desta situação, o diagnóstico e a conduta apropriada são, respectivamente,",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:02:02.408743 +0000 UTC",
+        "solution": {
+          "_key": "4dcac2df-a8c2-4df6-a1b4-d9cea47e61a0",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div><i>O que o examinador quer saber com esta pergunt</i>a?</div><div><br></div><div>Diagnóstico da Síndrome Compartimental Aguda (SCA) e conduta.</div><div><br></div><div><i>O que é importante saber</i>:</div><div><br></div><div><u>Síndrome Compartimental Aguda</u></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8540AC5F-DD72-C92D-50D4-F70A376D322E/8540AC5F-DD72-C92D-50D4-F70A376D322E-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A SCA é causada por uma lesão importante às partes moles, levando a um edema muscular intracompartimental. Embora seja incomparavelmente mais frequente como sequela de traumas diretos aos membros, não podemos nunca esquecer o cenário do choque elétrico e queimaduras.</div><div><br></div><div>De forma mais rara, a SCA também pode ocorrer por atividade física excessiva. Nestes casos, ela geralmente se apresenta mais como uma síndrome compartimental crônica – com aparecimento dos sintomas durante o exercício e recrudescimento após. Contudo, se o exercício for intenso o suficiente (maratona), ela pode se apresentar agudamente.</div><div><br></div><div>O aumento da pressão intracompartimental compromete a vascularização dos tecidos, da mesma forma que o edema cerebral, no AVE, levando à sua isquemia. Quanto mais isquemia, mais edema, e quanto mais edema, menor vascularização, levando a um círculo vicioso que deve ser rompido com a fasciotomia. O diagnóstico é presuntivo e o tratamento deve ser feito imediatamente.&nbsp;</div><div><br></div><div><i>Quais são os 7 P da síndrome compartimental aguda (SCA)</i>?</div><div><br></div><div>•\t<b>P</b>ain (Dor): dor intensa, que não melhora com medicação.</div><div><br></div><div>•\t<b>P</b>arestesia</div><div><br></div><div>•\t<b>P</b>aralisia</div><div><br></div><div>•\t<b>P</b>alidez</div><div><br></div><div>•\t<b>P</b>ulso</div><div><br></div><div>•<b>\tP</b>erfusão</div><div><br></div><div>•\tEdema <b>P</b>alpável</div><div><br></div><div>Os três primeiros itens (Pain, Parestesia e Paralisia) são os “Golden P”; os principais achados clínicos para o diagnóstico da SCA.&nbsp;</div><div><br></div><div>A medida da pressão intracompartimental é uma opção diagnóstica, mas não é realidade no Brasil e é de difícil realização.</div><div><br></div><div>O tratamento consiste em fazer a fasciotomia, com liberação dos compartimentos afetados.&nbsp;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber com esta pergunta?Diagnóstico da Síndrome Compartimental Aguda (SCA) e conduta.O que é importante saber:Síndrome Compartimental AgudaA SCA é causada por uma lesão importante às partes moles, levando a um edema muscular intracompartimental. Embora seja incomparavelmente mais frequente como sequela de traumas diretos aos membros, não podemos nunca esquecer o cenário do choque elétrico e queimaduras.De forma mais rara, a SCA também pode ocorrer por atividade física excessiva. Nestes casos, ela geralmente se apresenta mais como uma síndrome compartimental crônica – com aparecimento dos sintomas durante o exercício e recrudescimento após. Contudo, se o exercício for intenso o suficiente (maratona), ela pode se apresentar agudamente.O aumento da pressão intracompartimental compromete a vascularização dos tecidos, da mesma forma que o edema cerebral, no AVE, levando à sua isquemia. Quanto mais isquemia, mais edema, e quanto mais edema, menor vascularização, levando a um círculo vicioso que deve ser rompido com a fasciotomia. O diagnóstico é presuntivo e o tratamento deve ser feito imediatamente. Quais são os 7 P da síndrome compartimental aguda (SCA)?•\tPain (Dor): dor intensa, que não melhora com medicação.•\tParestesia•\tParalisia•\tPalidez•\tPulso•\tPerfusão•\tEdema PalpávelOs três primeiros itens (Pain, Parestesia e Paralisia) são os “Golden P”; os principais achados clínicos para o diagnóstico da SCA. A medida da pressão intracompartimental é uma opção diagnóstica, mas não é realidade no Brasil e é de difícil realização.O tratamento consiste em fazer a fasciotomia, com liberação dos compartimentos afetados. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+          "author_email_id": "4448c604948b065259c0a2adbdf0dc7c",
+          "author_profile": {
+            "id": "8ac33532-cff3-42de-81f8-4852f9530478",
+            "full_name": "David Nordon",
+            "avatar_url": "https://static.accounts.estrategia.com/187c08ee4ebec6ff4646f69886313ae4",
+            "about_me": "Ortopedista pediátrico, graduado em medicina pela PUC-SP, com residência médica em Ortopedia e Ortopedia Pediátrica pelo HC-FMUSP. \nSupervisor do PRM de Ortopedia e docente da PUC-SP,  professor do Estratégia Med, pesquisador do IOT-HCFMUSP e mestrando da USP na área de neuro-ortopedia.\nIdealizador do Projeto Pequenos Passos, escritor infantojuvenil com 15 títulos publicados.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/nordond",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/drnordon",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucmcrmxfn0bakvdpngkn8ava",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-25 13:01:54.203268 +0000 UTC",
+          "updated_at": "2020-11-25 13:01:55.013901 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Homem-com-29-anos16233214557",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

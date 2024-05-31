@@ -1,0 +1,272 @@
+{
+    "data": [
+      {
+        "id": "4000152082",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 1,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "6e365026-3ffe-40c6-b382-385976de2006",
+                "name": "1° Simulado Inédito Revalida INEP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "C550E8E0-D8CD-5C83-A719-D354BF58EEA3"
+              },
+              {
+                "type": "ANSWER",
+                "url": "619775B1-A6CF-B112-14C6-34E91C2DE799"
+              },
+              {
+                "type": "ANSWER",
+                "url": "57616606-D7E0-8F78-196C-0ADBA92CA350"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-07-05T21:04:26Z",
+            "updated_at": "2022-01-31T19:12:08Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2e6e3d88146140cc841b09f4f02693fc",
+            "name": "Hérnia Umbilical",
+            "is_master": false,
+            "master_id": "84d08dd418f34565bd473c6876f27cdf",
+            "path": "Cirurgia[$$]Cirurgia Infantil[$$]Hérnia Umbilical",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1ecdbc7c-713f-495e-afb8-ea9286e91228",
+            "position": "0",
+            "body": "Caso, no exame físico, seja detectada hérnia umbilical redutível maior que 2 cm, a criança deve ser encaminhada ao pronto-socorro para  cirurgia de urgência.",
+            "sanitized_body": "Caso, no exame físico, seja detectada hérnia umbilical redutível maior que 2 cm, a criança deve ser encaminhada ao pronto-socorro para  cirurgia de urgência.",
+            "correct": false,
+            "created_at": "2021-07-06 18:03:58.234985 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A.</b> Hérnias umbilicais maiores do que 2 cm, sobretudo após o primeiro ano de vida, devem ser corrigidas com cirurgia.  Porém, na ausência de complicação, como encarceramento, a cirurgia não precisa ser realizada com urgência.<div><br></div><div>Relembre na tabela abaixo as indicações de herniorrafia umbilical na infância:</div><div><br></div><div>I<b>ndicações de herniorrafia umbilical na criança</b></div><div><br></div><div>• hérnias maiores do que 2 cm;&nbsp;</div><div>• encarceramento ou estrangulamento;&nbsp;</div><div>• aumento do tamanho da hérnia com o tempo.</div><div><br></div><div>De acordo com Sabiston Textbook of Surgery, o reparo eletivo pode ser adiado até os 5 anos de idade</div>",
+              "sanitized_complete": "Incorreta a alternativa A. Hérnias umbilicais maiores do que 2 cm, sobretudo após o primeiro ano de vida, devem ser corrigidas com cirurgia.  Porém, na ausência de complicação, como encarceramento, a cirurgia não precisa ser realizada com urgência.Relembre na tabela abaixo as indicações de herniorrafia umbilical na infância:Indicações de herniorrafia umbilical na criança• hérnias maiores do que 2 cm; • encarceramento ou estrangulamento; • aumento do tamanho da hérnia com o tempo.De acordo com Sabiston Textbook of Surgery, o reparo eletivo pode ser adiado até os 5 anos de idade",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+              "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+              "author_profile": null,
+              "created_at": "2021-07-07 18:38:23.939324 +0000 UTC",
+              "updated_at": "2021-07-07 18:38:25.557951 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 76
+          },
+          {
+            "id": "c08415ac-1e49-4daa-a201-224232a64dcc",
+            "position": "1",
+            "body": "Complicações como encarceramento são comuns, e a paciente deve ser encaminhada para avaliação cirúrgica, independentemente do  tamanho do defeito.",
+            "sanitized_body": "Complicações como encarceramento são comuns, e a paciente deve ser encaminhada para avaliação cirúrgica, independentemente do  tamanho do defeito.",
+            "correct": false,
+            "created_at": "2021-07-06 18:03:58.234985 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa B. As complicações como encarceramento e estrangulamento são raras</b>. Hérnias pequenas, menores do que 2 cm,  em pacientes menores do que 1 ano (como nossa paciente) podem ser observadas nas consultas de rotina.",
+              "sanitized_complete": "Incorreta a alternativa B. As complicações como encarceramento e estrangulamento são raras. Hérnias pequenas, menores do que 2 cm,  em pacientes menores do que 1 ano (como nossa paciente) podem ser observadas nas consultas de rotina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+              "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+              "author_profile": null,
+              "created_at": "2021-07-07 18:38:23.960049 +0000 UTC",
+              "updated_at": "2021-07-07 18:38:25.565535 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 328
+          },
+          {
+            "id": "2f6cb03c-b4ca-448c-abe6-3aa071e6e3d3",
+            "position": "2",
+            "body": "A idade gestacional não é fator predisponente para o surgimento de hérnias umbilicais.",
+            "sanitized_body": "A idade gestacional não é fator predisponente para o surgimento de hérnias umbilicais.",
+            "correct": false,
+            "created_at": "2021-07-06 18:03:58.234985 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C.</b> Prematuridade, como em nossa paciente, é um dos fatores predisponentes para surgimento de hérnia umbilical na criança.<div><br></div><div><b>Hérnia umbilical na infância - fatores predisponentes</b></div><div><br></div><div>• raça negra → cordão umbilical mais espesso;</div><div>• desnutrição e prematuridade → hipotonia muscular, distensão abdominal;</div><div>• hipotiroidismo;</div><div>• síndrome de Beckwith-Wiedemann;</div><div>• gestação gemelar;</div><div>• trissomias 13, 18 e 21;</div><div>• infecção neonatal do umbigo;</div><div>• mielomeningocele → hipotonia da parede abdominal;</div><div>• aumento da pressão intra-abdominal;</div><div>• mucopolissacaridoses;</div><div>• predisposição familiar.</div><div><br></div><div><b>Lembre-se:</b> de acordo com a <b>OMS</b>, prematuridade é definida como nascimento antes de completadas 37 semanas de gestação.</div>",
+              "sanitized_complete": "Incorreta a alternativa C. Prematuridade, como em nossa paciente, é um dos fatores predisponentes para surgimento de hérnia umbilical na criança.Hérnia umbilical na infância - fatores predisponentes• raça negra → cordão umbilical mais espesso;• desnutrição e prematuridade → hipotonia muscular, distensão abdominal;• hipotiroidismo;• síndrome de Beckwith-Wiedemann;• gestação gemelar;• trissomias 13, 18 e 21;• infecção neonatal do umbigo;• mielomeningocele → hipotonia da parede abdominal;• aumento da pressão intra-abdominal;• mucopolissacaridoses;• predisposição familiar.Lembre-se: de acordo com a OMS, prematuridade é definida como nascimento antes de completadas 37 semanas de gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+              "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+              "author_profile": null,
+              "created_at": "2021-07-07 18:38:23.938774 +0000 UTC",
+              "updated_at": "2021-07-07 18:38:25.559084 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 19
+          },
+          {
+            "id": "86370225-322f-49d2-88fc-31650a86531e",
+            "position": "3",
+            "body": "Hérnias umbilicais com anel pequeno podem regredir espontaneamente no primeiro ano de vida.",
+            "sanitized_body": "Hérnias umbilicais com anel pequeno podem regredir espontaneamente no primeiro ano de vida.",
+            "correct": true,
+            "created_at": "2021-07-06 18:03:58.234985 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa D</b> Quando o defeito herniário é pequeno, pode ocorrer redução espontânea da hérnia até o primeiro ano de  vida. Isso ocorre em aproximadamente 80% das hérnias umbilicais da infância.",
+              "sanitized_complete": "Correta a alternativa D Quando o defeito herniário é pequeno, pode ocorrer redução espontânea da hérnia até o primeiro ano de  vida. Isso ocorre em aproximadamente 80% das hérnias umbilicais da infância.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+              "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+              "author_profile": null,
+              "created_at": "2021-07-07 18:38:24.046589 +0000 UTC",
+              "updated_at": "2021-07-07 18:38:25.565424 +0000 UTC"
+            },
+            "answer_percentage": 81,
+            "answers": 1798
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em consulta na UBS, mãe leva sua filha de 5 meses para rotina pediátrica.  Criança do sexo feminino, nascida de 33 semanas, com 2,4kg e 38cm. Apresenta bom ganho de peso desde a última consulta, com desenvolvimento  adequado. A mãe refere apenas preocupação por ter notado estufamento no umbigo da criança, pior quando a mesma chora. Com relação a essa patologia, assinale a alternativa correta:",
+        "statement_text": "Em consulta na UBS, mãe leva sua filha de 5 meses para rotina pediátrica.  Criança do sexo feminino, nascida de 33 semanas, com 2,4kg e 38cm. Apresenta bom ganho de peso desde a última consulta, com desenvolvimento  adequado. A mãe refere apenas preocupação por ter notado estufamento no umbigo da criança, pior quando a mesma chora. Com relação a essa patologia, assinale a alternativa correta:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-06 18:03:58.234985 +0000 UTC",
+        "forum_id": "1f764a24-5504-4ff0-a499-662923854e4d",
+        "solution": {
+          "_key": "da2d4567-6773-45f5-bed5-86890111df1d",
+          "complete": "<b>GABARITO: ALTERNATIVA&nbsp; D</b><div><b><br></b></div><div>Estrategista, estamos diante de uma <b>criança nascida prematura, atualmente com 5 meses, com estufamento umbilical que piora com  o choro (esforço),</b> sem demais sintomas associados. Logo, temos o diagnóstico de<b> hérnia umbilical,</b> patologia bastante frequente em crianças,  sobretudo, <b>menores que 1 ano.</b></div><div><b><br></b></div><div>Vamos analisar as alternativas, entender as que estão erradas e encontrar a correta!&nbsp;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA  DEstrategista, estamos diante de uma criança nascida prematura, atualmente com 5 meses, com estufamento umbilical que piora com  o choro (esforço), sem demais sintomas associados. Logo, temos o diagnóstico de hérnia umbilical, patologia bastante frequente em crianças,  sobretudo, menores que 1 ano.Vamos analisar as alternativas, entender as que estão erradas e encontrar a correta! ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+          "author_email_id": "eefce31402a9d1c3143ffbb4a0b378d6",
+          "author_profile": {
+            "id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+            "full_name": "José Rodolfo Corradini Tolino",
+            "avatar_url": "https://static.accounts.estrategia.com/456e956e0920d3f86a11f5277a5de197",
+            "about_me": "Médico pela Escola Paulista de Medicina - Unifesp - 2015.\nCirurgião geral pela Escola Paulista de Medicina - Unifesp - 2018.\nMédico plantonista do Pronto-Socorro de Cirurgia Geral do Hospital Municipal Vereador José Storopolli.\nRetaguarda de Cirurgia Geral e Ambulatório de Cirurgia Geral no Hospital Albert Sabin.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.joserodolfo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-07 18:38:24.259354 +0000 UTC",
+          "updated_at": "2021-07-07 18:38:25.78102 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "consulta-UBS-ma-leva671108d4a3",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

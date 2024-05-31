@@ -1,0 +1,950 @@
+{
+    "data": [
+      {
+        "id": "4000153799",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:46:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "49e962a2290e4517912ad5060d3b946d",
+            "name": "Tratamento das mulheres que não desejam engravidar",
+            "is_master": false,
+            "master_id": "3e8e5ce3069c46c49c65bd5ba0c3b16e",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Tratamento[$$]Tratamento das pacientes adultas[$$]Tratamento das mulheres que não desejam engravidar",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c650b80f-851b-42c1-98ff-d4bced620876",
+            "position": "0",
+            "body": "estradiol.",
+            "sanitized_body": "estradiol.",
+            "correct": false,
+            "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+            "updated_at": "2022-03-27 14:25:45.819324 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A, porque o etinilestradiol é o estrógeno comum a quase todos os anticoncepcionais combinados orais.",
+              "sanitized_complete": "Incorreta a alternativa A, porque o etinilestradiol é o estrógeno comum a quase todos os anticoncepcionais combinados orais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-27 14:26:06.452705 +0000 UTC",
+              "updated_at": "2022-03-27 14:30:25.231552 +0000 UTC"
+            },
+            "answer_percentage": 21,
+            "answers": 46
+          },
+          {
+            "id": "ff0fe542-4cda-4b78-b15a-360b09f74792",
+            "position": "1",
+            "body": "medroxiprogesterona.\n",
+            "sanitized_body": "medroxiprogesterona.\n",
+            "correct": false,
+            "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+            "updated_at": "2022-03-27 14:25:46.122429 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque a medroxiprogesterona é usada como um progestágeno isolado, que no tratamento da SOP não irá promover a melhora dos sintomas de hiperandrogenismo (hirsutismo e acne).",
+              "sanitized_complete": "Incorreta a alternativa B, porque a medroxiprogesterona é usada como um progestágeno isolado, que no tratamento da SOP não irá promover a melhora dos sintomas de hiperandrogenismo (hirsutismo e acne).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-27 14:26:06.459358 +0000 UTC",
+              "updated_at": "2022-03-27 14:30:25.228604 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 42
+          },
+          {
+            "id": "38e0ac03-af99-4222-923e-f022e5b09fe1",
+            "position": "2",
+            "body": "hidroxiprogesterona.\n",
+            "sanitized_body": "hidroxiprogesterona.\n",
+            "correct": false,
+            "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+            "updated_at": "2022-03-27 14:25:46.433338 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque a hidroxiprogesterona não faz parte da formulação de nenhum anticoncepcional combinado oral.",
+              "sanitized_complete": "Incorreta a alternativa C, porque a hidroxiprogesterona não faz parte da formulação de nenhum anticoncepcional combinado oral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-27 14:26:06.459393 +0000 UTC",
+              "updated_at": "2022-03-27 14:30:25.230874 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 17
+          },
+          {
+            "id": "24ea2a22-ea13-4432-81ac-747facc99bf7",
+            "position": "3",
+            "body": "androstenediona.\n",
+            "sanitized_body": "androstenediona.\n",
+            "correct": false,
+            "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+            "updated_at": "2022-03-27 14:25:46.805214 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque a androstenediona é um andrógeno e sua administração iria piorar o hiperandrogenismo da paciente com SOP.",
+              "sanitized_complete": "Incorreta a alternativa D, porque a androstenediona é um andrógeno e sua administração iria piorar o hiperandrogenismo da paciente com SOP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-27 14:26:06.436192 +0000 UTC",
+              "updated_at": "2022-03-27 14:30:25.22874 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 8
+          },
+          {
+            "id": "3c0d92ca-bede-476b-b122-4af899ed2e35",
+            "position": "4",
+            "body": "drospirenona.\n",
+            "sanitized_body": "drospirenona.\n",
+            "correct": true,
+            "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+            "updated_at": "2022-03-27 14:25:47.2844 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa E, porque, atualmente, a primeira opção de anticoncepcional combinado para o tratamento da SOP é a pílula com etinilestradiol e drospirenona, que é um progestágeno com efeito antiandrogênico.",
+              "sanitized_complete": "Correta a alternativa E, porque, atualmente, a primeira opção de anticoncepcional combinado para o tratamento da SOP é a pílula com etinilestradiol e drospirenona, que é um progestágeno com efeito antiandrogênico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-27 14:26:06.450689 +0000 UTC",
+              "updated_at": "2022-03-27 14:30:25.230896 +0000 UTC"
+            },
+            "answer_percentage": 49,
+            "answers": 107
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em paciente jovem, com sinais de hiperandrogenismo, o anticoncepcional oral mais adequado é o que contenha",
+        "statement_text": "Em paciente jovem, com sinais de hiperandrogenismo, o anticoncepcional oral mais adequado é o que contenha",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 17:54:53.4225 +0000 UTC",
+        "solution": {
+          "_key": "0322e349-3d5f-48f0-9198-d52240e73ba0",
+          "complete": "Estrategista, os objetivos do tratamento da SOP são: <div>• reduzir os níveis de androgênios (melhora do hirsutismo e acne); </div><div>• tratar os distúrbios metabólicos, reduzir o risco de DM II e doenças cardiovasculares; </div><div>• prevenir a hiperplasia e o câncer do endométrio; </div><div>• oferecer opções de métodos contraceptivos para as mulheres que não desejam engravidar (já que as pacientes ovulam esporadicamente e podem engravidar inesperadamente); </div><div>• induzir a ovulação nas mulheres que desejam engravidar. </div><div><br></div><div>Estrategista, a perda de peso através da prática de exercícios físicos e dieta, é a primeira orientação de terapêutica para a síndrome dos ovários policísticos. A perda de peso pode “equilibrar” a situação hormonal da paciente, restaurando os ciclos ovulatórios e diminuindo o risco metabólico. É a primeira orientação terapêutica que deve ser dada às mulheres com SOP. </div><div>Os contraceptivos orais combinados de estrogênio e progesterona são a primeira escolha no tratamento medicamentoso da SOP. Servem para o tratamento do hiperandrogenismo e da disfunção menstrual e ainda são anticoncepcionais. Outras opções terapêuticas são o tratamento cíclico ou contínuo com progestágeno exclusivo ou o DIU de levonorgestrel. </div><div><br></div><div>Os anticoncepcionais orais combinados oferecem vários benefícios às mulheres com SOP: </div><div>• O estrógeno tem um efeito de supressão dos andrógenos ovarianos. </div><div>• O estrógeno estimula a produção de SHBG pelo fígado, diminuindo a testosterona livre.</div><div> • O estrógeno inibe a ação da 5-alfa-redutase, diminuindo a conversão de testosterona em di-hidrotestosterona na pele e tratando o hirsutismo. </div><div><br></div><div>• O progestágeno inibe a secreção de LH, diminuindo a produção de andrógenos pelas células da teca. </div><div>• O progestágeno faz oposição ao efeito proliferativo do estrogênio no endométrio, prevenindo a hiperplasia e o câncer de endométrio.</div><div>• Efeito contraceptivo.</div><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, os objetivos do tratamento da SOP são: • reduzir os níveis de androgênios (melhora do hirsutismo e acne); • tratar os distúrbios metabólicos, reduzir o risco de DM II e doenças cardiovasculares; • prevenir a hiperplasia e o câncer do endométrio; • oferecer opções de métodos contraceptivos para as mulheres que não desejam engravidar (já que as pacientes ovulam esporadicamente e podem engravidar inesperadamente); • induzir a ovulação nas mulheres que desejam engravidar. Estrategista, a perda de peso através da prática de exercícios físicos e dieta, é a primeira orientação de terapêutica para a síndrome dos ovários policísticos. A perda de peso pode “equilibrar” a situação hormonal da paciente, restaurando os ciclos ovulatórios e diminuindo o risco metabólico. É a primeira orientação terapêutica que deve ser dada às mulheres com SOP. Os contraceptivos orais combinados de estrogênio e progesterona são a primeira escolha no tratamento medicamentoso da SOP. Servem para o tratamento do hiperandrogenismo e da disfunção menstrual e ainda são anticoncepcionais. Outras opções terapêuticas são o tratamento cíclico ou contínuo com progestágeno exclusivo ou o DIU de levonorgestrel. Os anticoncepcionais orais combinados oferecem vários benefícios às mulheres com SOP: • O estrógeno tem um efeito de supressão dos andrógenos ovarianos. • O estrógeno estimula a produção de SHBG pelo fígado, diminuindo a testosterona livre. • O estrógeno inibe a ação da 5-alfa-redutase, diminuindo a conversão de testosterona em di-hidrotestosterona na pele e tratando o hirsutismo. • O progestágeno inibe a secreção de LH, diminuindo a produção de andrógenos pelas células da teca. • O progestágeno faz oposição ao efeito proliferativo do estrogênio no endométrio, prevenindo a hiperplasia e o câncer de endométrio.• Efeito contraceptivo.Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-03-27 14:26:06.821965 +0000 UTC",
+          "updated_at": "2022-03-27 14:30:25.403466 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153799-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-jovem-com1672fb0e68",
+        "public": true
+      },
+      {
+        "id": "4000127238",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0edd60cb89c74286a7427b62ef767cdc",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "119a55ce1d9f4e338840ce08db6f230d",
+            "name": "Distúrbios metabólicos",
+            "is_master": false,
+            "master_id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Distúrbios metabólicos",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "60d459ea646d4b1b8724e7fbea37bbb9",
+            "name": "Quadro clínico",
+            "is_master": false,
+            "master_id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Quadro clínico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c3ebe7be5c274ac8970ac87de4ad88d8",
+            "name": "Fisiopatologia",
+            "is_master": false,
+            "master_id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Fisiopatologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "dd11a28e1a974a7ba60429fb2d25beb4",
+            "name": "Critérios diagnósticos",
+            "is_master": false,
+            "master_id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos[$$]Critérios diagnósticos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8e578ffc-042f-4558-a95c-cb2406b57a24",
+            "position": "0",
+            "body": "A recomendação de perda de peso, atividade física e alimentação rica em fibra, deve ser restrita aos casos de ganho de peso recente.",
+            "sanitized_body": "A recomendação de perda de peso, atividade física e alimentação rica em fibra, deve ser restrita aos casos de ganho de peso recente.",
+            "correct": false,
+            "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+            "updated_at": "2020-11-13 21:00:45.225811 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A, </b>porque a recomendação de perda de peso, prática de atividade física e alimentação rica em fibra, deve ser feita para todas as pacientes com SOP, mesmo as pacientes não obesas.  Estas medidas propiciam a redução da resistência insulínica e da hiperinsulinemia, podendo regular a menstruação e melhorar o hiperandrogenismo.",
+              "sanitized_complete": "Incorreta a alternativa A, porque a recomendação de perda de peso, prática de atividade física e alimentação rica em fibra, deve ser feita para todas as pacientes com SOP, mesmo as pacientes não obesas.  Estas medidas propiciam a redução da resistência insulínica e da hiperinsulinemia, podendo regular a menstruação e melhorar o hiperandrogenismo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2020-10-08 22:45:26.922179 +0000 UTC",
+              "updated_at": "2020-10-08 23:46:50.540117 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 101
+          },
+          {
+            "id": "6dbb019f-41ce-42b2-8a63-46ef38130ce1",
+            "position": "1",
+            "body": "Deve ser alertada para a possibilidade de maior risco cardiovascular por alterações no perfil lipídico e maior risco oncogênico, principalmente para endométrio.",
+            "sanitized_body": "Deve ser alertada para a possibilidade de maior risco cardiovascular por alterações no perfil lipídico e maior risco oncogênico, principalmente para endométrio.",
+            "correct": false,
+            "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+            "updated_at": "2020-11-13 21:00:45.268941 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA A ALTERNATIVA B: </b>as pacientes com SOP apresentam distúrbios no metabolismo dos carboidratos e dos lipídios, com aumento do LDL e diminuição do HDL, por isso essas pacientes devem ser alertadas para a possibilidade de maior risco de doenças cardiovasculares. Além disto, estas pacientes apresentam maior risco oncogênico, principalmente para endométrio, devido a anovulação crônica e a hiperinsulinemia. Esta alternativa foi considerada incorreta pela banca examinadora, mas está correta na nossa opinião.",
+              "sanitized_complete": "CORRETA A ALTERNATIVA B: as pacientes com SOP apresentam distúrbios no metabolismo dos carboidratos e dos lipídios, com aumento do LDL e diminuição do HDL, por isso essas pacientes devem ser alertadas para a possibilidade de maior risco de doenças cardiovasculares. Além disto, estas pacientes apresentam maior risco oncogênico, principalmente para endométrio, devido a anovulação crônica e a hiperinsulinemia. Esta alternativa foi considerada incorreta pela banca examinadora, mas está correta na nossa opinião.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2020-10-08 22:45:26.902087 +0000 UTC",
+              "updated_at": "2020-10-08 23:46:50.534853 +0000 UTC"
+            },
+            "answer_percentage": 28,
+            "answers": 274
+          },
+          {
+            "id": "3dd65841-d1ec-458f-9b6d-14ded065a32f",
+            "position": "2",
+            "body": "A utilização de anticoncepcional hormonal oral não é indicada, pois não melhora o hirsutismo, a acne e não regulariza o intervalo menstrual.",
+            "sanitized_body": "A utilização de anticoncepcional hormonal oral não é indicada, pois não melhora o hirsutismo, a acne e não regulariza o intervalo menstrual.",
+            "correct": false,
+            "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+            "updated_at": "2020-11-13 21:00:45.315468 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C, </b>porque a utilização de anticoncepcional hormonal oral é a primeira escolha de tratamento medicamentoso indicado para o tratamento da SOP. As pílulas agem melhorando o hirsutismo, já que todos os anticoncepcionais combinados têm um efeito antiandrogênico. O estrógeno presente nas pílulas tem suprime os andrógenos produzidos pelo ovário e, além disso, os anticoncepcionais aumentam a produção da globulina carreadora de hormônios sexuais (SHBG), diminuindo os níveis de testosterona livre (forma ativa do hormônio). A pílula também age regulando a menstruação, repondo a progesterona que não estava sendo produzida nos ciclos anovulatórios.&nbsp;",
+              "sanitized_complete": "Incorreta a alternativa C, porque a utilização de anticoncepcional hormonal oral é a primeira escolha de tratamento medicamentoso indicado para o tratamento da SOP. As pílulas agem melhorando o hirsutismo, já que todos os anticoncepcionais combinados têm um efeito antiandrogênico. O estrógeno presente nas pílulas tem suprime os andrógenos produzidos pelo ovário e, além disso, os anticoncepcionais aumentam a produção da globulina carreadora de hormônios sexuais (SHBG), diminuindo os níveis de testosterona livre (forma ativa do hormônio). A pílula também age regulando a menstruação, repondo a progesterona que não estava sendo produzida nos ciclos anovulatórios. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2020-10-08 22:45:26.902017 +0000 UTC",
+              "updated_at": "2020-10-08 23:46:50.544859 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 10
+          },
+          {
+            "id": "8af1138c-df43-41b4-a703-ebe56a4672ce",
+            "position": "3",
+            "body": "Caso a paciente tenha desejo de engravidar, a regularização do ciclo e o uso de citrato de clomifeno são as escolhas iniciais preferenciais.",
+            "sanitized_body": "Caso a paciente tenha desejo de engravidar, a regularização do ciclo e o uso de citrato de clomifeno são as escolhas iniciais preferenciais.",
+            "correct": true,
+            "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+            "updated_at": "2020-11-13 21:00:45.366739 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA A ALTERNATIVA D:</b> a SOP é caracterizada pela anovulação crônica e o tratamento das pacientes com SOP que desejam engravidar é a indução da ovulação. O princípio básico da indução da ovulação é elevar os níveis de FSH. Lembre-se que o FSH é o hormônio folículo estimulante, ou seja, ele estimula o crescimento e amadurecimento dos folículos. Lembre-se também que o FSH está baixo na SOP.&nbsp;<div><br></div><div>Temos duas maneiras de elevar os níveis de FSH. Podemos usar medicamentos que estimulam a produção de FSH pela hipófise ou podemos injetar o próprio FSH. O citrato de clomifeno era considerada a droga de primeira escolha para a indução da ovulação nas pacientes com SOP. O clomifeno é um agonista parcial do estrogênio (SERM).  Também age induzindo a hipófise a produzir mais FSH.&nbsp;</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7309629E-3348-1B83-D3D1-E8BB4129BA1F/7309629E-3348-1B83-D3D1-E8BB4129BA1F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Atualmente, o letrozol é a primeira escolha de tratamento medicamentoso para a indução da ovulação nas pacientes com SOP. O letrozol é um inibidor da aromatase. Ou seja, ele inibe a conversão de testosterona e androstenediona (androgênios) em estradiol e estrona (estrógenos). Com isto não ocorre o feedback negativo de estrogênio na hipófise, levando ao aumento da produção de FSH.</div><div><br></div>",
+              "sanitized_complete": "CORRETA A ALTERNATIVA D: a SOP é caracterizada pela anovulação crônica e o tratamento das pacientes com SOP que desejam engravidar é a indução da ovulação. O princípio básico da indução da ovulação é elevar os níveis de FSH. Lembre-se que o FSH é o hormônio folículo estimulante, ou seja, ele estimula o crescimento e amadurecimento dos folículos. Lembre-se também que o FSH está baixo na SOP. Temos duas maneiras de elevar os níveis de FSH. Podemos usar medicamentos que estimulam a produção de FSH pela hipófise ou podemos injetar o próprio FSH. O citrato de clomifeno era considerada a droga de primeira escolha para a indução da ovulação nas pacientes com SOP. O clomifeno é um agonista parcial do estrogênio (SERM).  Também age induzindo a hipófise a produzir mais FSH. Atualmente, o letrozol é a primeira escolha de tratamento medicamentoso para a indução da ovulação nas pacientes com SOP. O letrozol é um inibidor da aromatase. Ou seja, ele inibe a conversão de testosterona e androstenediona (androgênios) em estradiol e estrona (estrógenos). Com isto não ocorre o feedback negativo de estrogênio na hipófise, levando ao aumento da produção de FSH.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2020-10-08 22:45:26.896225 +0000 UTC",
+              "updated_at": "2020-10-08 23:46:50.538745 +0000 UTC"
+            },
+            "answer_percentage": 59,
+            "answers": 572
+          },
+          {
+            "id": "25fab094-4d7c-455a-9fba-016d5cc82810",
+            "position": "4",
+            "body": "Em se tratando de paciente com infertilidade caracterizada, a ressecção em cunha dos ovários é o tratamento preferencial.",
+            "sanitized_body": "Em se tratando de paciente com infertilidade caracterizada, a ressecção em cunha dos ovários é o tratamento preferencial.",
+            "correct": false,
+            "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+            "updated_at": "2020-11-13 21:00:45.412295 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<div><b>Incorreta a alternativa E,</b> porque a ressecção em cunha dos&nbsp;ovários é um tratamento que não é mais utilizado, já que leva a redução do número de folículos ovarianos e consequentemente compromete a fertilidade da paciente.&nbsp;<br></div>",
+              "sanitized_complete": "Incorreta a alternativa E, porque a ressecção em cunha dos ovários é um tratamento que não é mais utilizado, já que leva a redução do número de folículos ovarianos e consequentemente compromete a fertilidade da paciente. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2020-10-08 22:45:26.914791 +0000 UTC",
+              "updated_at": "2020-10-08 23:46:50.550015 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 9
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher, com 25 anos de idade, apresenta ciclos menstruais irregulares, com atrasos menstruais frequentes, oleosidade da pele, Acantose nigrans e hirsutismo leve em região mentoniana. Exame ecográfico demonstra características compatíveis com ovários micropolicísticos bilateralmente. Assinale a alternativa em que as observações, em relação ao seguimento e tratamento desta paciente, são corretas.",
+        "statement_text": "Mulher, com 25 anos de idade, apresenta ciclos menstruais irregulares, com atrasos menstruais frequentes, oleosidade da pele, Acantose nigrans e hirsutismo leve em região mentoniana. Exame ecográfico demonstra características compatíveis com ovários micropolicísticos bilateralmente. Assinale a alternativa em que as observações, em relação ao seguimento e tratamento desta paciente, são corretas.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:33:06.867926 +0000 UTC",
+        "solution": {
+          "_key": "3cd2cce8-7171-478e-b59b-c9566c1d077a",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Estrategista, esta paciente apresenta um quadro de irregularidade menstrual e hiperandrogenismo, com oleosidade da pele e hirsutismo. Além disto, esta paciente apresenta ovários micro policísticos ao ultrassom. Esta paciente apresenta todos os 3 critérios diagnósticos para a Síndrome dos Ovários Policísticos (SOP). A tabela abaixo mostra os critérios diagnósticos para esta doença:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/64A3885F-F2EA-645D-94A1-50543454B043/64A3885F-F2EA-645D-94A1-50543454B043-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A principal característica fisiopatológica da SOP é o aumento da secreção de LH e a diminuição da produção do FSH. Com isto, as células da teca no ovário aumentam a produção de andrógenos sem a conversão proporcional destes andrógenos em estrógenos pelas células da granulosa. Veja o esquema abaixo da esteroidogênese ovariana:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D0667FBC-2953-766E-5A84-2BA159FD7C75/D0667FBC-2953-766E-5A84-2BA159FD7C75-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Este desequilíbrio na secreção do LH e do FSH característico da SOP, leva ao hiperandrogenismo e à anovulação crônica (irregularidade menstrual).</div><div><br></div><div>Os ciclos anovulatórios são ciclos de uma única fase (monofásicos), caracterizados pela exposição contínua do endométrio pelo estrógeno com seu efeito proliferativo. Como não ocorre a ovulação, não ocorre a produção de progesterona para fazer a oposição ao estrógeno, já que a progesterona é produzida pelo corpo lúteo após a ovulação. Por isto, a SOP (anovulação crônica) é um dos fatores de risco para o desenvolvimento de hiperplasia e câncer de endométrio.</div><div><br></div><div>Além disso, a maioria das mulheres com SOP apresentam resistência insulínica aumentada e consequentemente aumento dos níveis de insulina para compensar esta resistência. Esta paciente apresenta a acantose nigricans, manchas escuras na pele, que são o sinal clínico da hiperinsulinemia.&nbsp;</div><div><br></div><div>A insulina tem um efeito sinérgico com o LH sobre as células da teca, piorando o hiperandrogenismo. Além disto, este aumento dos níveis de insulina leva a diminuição da produção de SHBG e outras globulinas carreadoras de fatores de crescimento pelo fígado e com isto ocorre o aumento da fração livre de testosterona (forma ativa do hormônio) e de IGF-1 (Insulin growth factor 1). O aumento da fração livre de testosterona contribui para o hiperandrogenismo característico da SOP e o IGF-1 tem o papel de estimular a proliferação endometrial, contribuindo para o aumento do risco de hiperplasia e câncer de endométrio.</div><div><br></div><div>Agora vamos analisar as alternativas:</div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DEstrategista, esta paciente apresenta um quadro de irregularidade menstrual e hiperandrogenismo, com oleosidade da pele e hirsutismo. Além disto, esta paciente apresenta ovários micro policísticos ao ultrassom. Esta paciente apresenta todos os 3 critérios diagnósticos para a Síndrome dos Ovários Policísticos (SOP). A tabela abaixo mostra os critérios diagnósticos para esta doença:A principal característica fisiopatológica da SOP é o aumento da secreção de LH e a diminuição da produção do FSH. Com isto, as células da teca no ovário aumentam a produção de andrógenos sem a conversão proporcional destes andrógenos em estrógenos pelas células da granulosa. Veja o esquema abaixo da esteroidogênese ovariana:Este desequilíbrio na secreção do LH e do FSH característico da SOP, leva ao hiperandrogenismo e à anovulação crônica (irregularidade menstrual).Os ciclos anovulatórios são ciclos de uma única fase (monofásicos), caracterizados pela exposição contínua do endométrio pelo estrógeno com seu efeito proliferativo. Como não ocorre a ovulação, não ocorre a produção de progesterona para fazer a oposição ao estrógeno, já que a progesterona é produzida pelo corpo lúteo após a ovulação. Por isto, a SOP (anovulação crônica) é um dos fatores de risco para o desenvolvimento de hiperplasia e câncer de endométrio.Além disso, a maioria das mulheres com SOP apresentam resistência insulínica aumentada e consequentemente aumento dos níveis de insulina para compensar esta resistência. Esta paciente apresenta a acantose nigricans, manchas escuras na pele, que são o sinal clínico da hiperinsulinemia. A insulina tem um efeito sinérgico com o LH sobre as células da teca, piorando o hiperandrogenismo. Além disto, este aumento dos níveis de insulina leva a diminuição da produção de SHBG e outras globulinas carreadoras de fatores de crescimento pelo fígado e com isto ocorre o aumento da fração livre de testosterona (forma ativa do hormônio) e de IGF-1 (Insulin growth factor 1). O aumento da fração livre de testosterona contribui para o hiperandrogenismo característico da SOP e o IGF-1 tem o papel de estimular a proliferação endometrial, contribuindo para o aumento do risco de hiperplasia e câncer de endométrio.Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-08 22:45:27.10123 +0000 UTC",
+          "updated_at": "2020-10-08 23:46:50.678934 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127238-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-25-anos51763b3208",
+        "public": true
+      },
+      {
+        "id": "4000002481",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2006,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "146c665a-9361-4434-b613-ab9816222048",
+                "name": "SP - Universidade Federal de São Paulo - UNIFESP (Hospital Universitário da UNIFESP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "53B3D331-42A2-98C9-284F-A5E35D45385C"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 125,
+            "created_at": "2020-09-07T23:09:20Z",
+            "updated_at": "2020-09-07T23:11:57Z",
+            "location": {
+              "id": "5298"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "a2aeb05a6e1b4b43ab80cc2df1bd12be",
+            "name": "Síndrome dos ovários policísticos",
+            "is_master": false,
+            "master_id": "3d6917dc03884555af95c98723dd77e1",
+            "path": "Ginecologia[$$]Ginecologia endócrina[$$]Síndrome dos ovários policísticos",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d9ff73c36a0c4a24abe3ba7552ea1ccb",
+            "name": "Acantose nigricans",
+            "is_master": false,
+            "master_id": "1fcd08a3ccaa49a796b0e0145bc291e3",
+            "path": "Clínica Médica[$$]Dermatologia [$$]Miscelânea[$$]Manifestação dermatológica em pacientes com doenças sistêmicas[$$]Acantose nigricans",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b2211bbb-137b-470d-a52a-69968e5f0b8c",
+            "position": "0",
+            "body": "Hiperprolactinemia.",
+            "sanitized_body": "Hiperprolactinemia.",
+            "correct": false,
+            "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+            "updated_at": "2020-12-06 15:26:07.305871 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-12-06 15:25:43.493672 +0000 UTC",
+              "updated_at": "2020-12-06 15:26:10.030496 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "d36af7db-a378-4152-86b6-00e417c39ca3",
+            "position": "1",
+            "body": "Resistência periférica a insulina.",
+            "sanitized_body": "Resistência periférica a insulina.",
+            "correct": true,
+            "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+            "updated_at": "2020-12-06 15:26:07.494139 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-12-06 15:25:43.488671 +0000 UTC",
+              "updated_at": "2020-12-06 15:26:10.031556 +0000 UTC"
+            },
+            "answer_percentage": 96,
+            "answers": 419
+          },
+          {
+            "id": "837f281f-8bd3-4d00-9aeb-05a9f9a3c847",
+            "position": "2",
+            "body": "Hiperandrogenismo.",
+            "sanitized_body": "Hiperandrogenismo.",
+            "correct": false,
+            "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+            "updated_at": "2020-12-06 15:26:07.778017 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-12-06 15:25:43.499942 +0000 UTC",
+              "updated_at": "2020-12-06 15:26:10.036884 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 11
+          },
+          {
+            "id": "37474525-44a3-474c-971e-0bbd42efdb41",
+            "position": "3",
+            "body": "Hipoandrogenismo.",
+            "sanitized_body": "Hipoandrogenismo.",
+            "correct": false,
+            "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+            "updated_at": "2020-12-06 15:26:08.172897 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-12-06 15:25:43.507376 +0000 UTC",
+              "updated_at": "2020-12-06 15:26:10.045197 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 4
+          },
+          {
+            "id": "d34fd1ea-4a00-4935-be26-1b928133428b",
+            "position": "4",
+            "body": "Hipogonadismo.",
+            "sanitized_body": "Hipogonadismo.",
+            "correct": false,
+            "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+            "updated_at": "2020-12-06 15:26:08.597388 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+              "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+              "author_profile": null,
+              "created_at": "2020-12-06 15:25:43.503619 +0000 UTC",
+              "updated_at": "2020-12-06 15:26:10.040842 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A acantose nigricans observada na síndrome dos ovários policísticos está relacionada com:",
+        "statement_text": "A acantose nigricans observada na síndrome dos ovários policísticos está relacionada com:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ee95c15031af915ef39c5da79da4db31",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-09 16:09:47.230095 +0000 UTC",
+        "solution": {
+          "_key": "98805f18-3af0-4c26-adf0-1ff72b343e5b",
+          "complete": "A acantose nigricans é uma condição dermatológica em que há hiperpigmentação, espessamento e acentuação das linhas da pele, levando a um aspecto aveludado. Os locais mais acometidos são a região posterior e lateral do pescoço, axilar, periumbilical e inframamária. A principal condição que está associada ao desenvolvimento da acantose nigricans é a resistência insulínica. Acredita-se que o IGF-1 atue como um estimulador epidérmico levando a essa alteração cutânea. A síndrome dos ovários policísticos está relacionada com resistência periférica a insulina e, portanto, essa é a causa da acantose nigricans nesses pacientes.<div><br></div><div>Alternativa B) Correta.</div><div>Alternativas A, C, D e E) Incorreta.</div><div><br></div>",
+          "sanitized_complete": "A acantose nigricans é uma condição dermatológica em que há hiperpigmentação, espessamento e acentuação das linhas da pele, levando a um aspecto aveludado. Os locais mais acometidos são a região posterior e lateral do pescoço, axilar, periumbilical e inframamária. A principal condição que está associada ao desenvolvimento da acantose nigricans é a resistência insulínica. Acredita-se que o IGF-1 atue como um estimulador epidérmico levando a essa alteração cutânea. A síndrome dos ovários policísticos está relacionada com resistência periférica a insulina e, portanto, essa é a causa da acantose nigricans nesses pacientes.Alternativa B) Correta.Alternativas A, C, D e E) Incorreta.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+          "author_email_id": "f2f23ff1ea3cf5440f5e6974c8b9f42b",
+          "author_profile": {
+            "id": "d2330e2a-4bec-4900-94a3-e98d412df3df",
+            "full_name": "Bruno de Castro e Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/2d4b7483509bd4d2bf9d136e8061a442",
+            "about_me": "Médico graduado pela Fundação Universidade Federal do Vale do São Francisco (2015); Prêmio de Láurea Acadêmica pela Universidade Federal do Vale do São Francisco(2015); Médico Dermatologista formado pelo Instituto de Assistência Médica ao Servidor Público Estadual de São Paulo(2019); Título de especialista em Dermatologia pela Sociedade Brasileira de Dermatologia (2019); Maior nota nacional na prova de título de especialista da Sociedade Brasileira de Dermatologia (2019); Membro títular da Sociedade Brasileira de Dermatologia (2019); Complementação especializada em Oncologia Cutânea pela Faculdade de Medicina da USP; Doutorando em Dermatologia na Faculdade de Medicina da USP. \n\nLinkedin: \nInstagram:",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profbruno.souza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/bruno-souza-7394a31a5",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-06 15:25:43.618062 +0000 UTC",
+          "updated_at": "2020-12-06 15:26:10.183163 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000002481-720.mp4",
+        "unlisted": false,
+        "slug": "acantose-nigricans123252dcbf",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 28
+    }
+  }

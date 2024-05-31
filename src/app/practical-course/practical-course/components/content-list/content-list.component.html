@@ -1,0 +1,191 @@
+<div class="content-list py-2">
+    <p-accordion [(activeIndex)]="activeOption">
+        <p-accordionTab header="Filtro">
+            <div class="card p-3 gap-2">
+                <div class="filter flex gap-2">
+                    <div class="area flex align-items-center gap-2">
+                        <label class="font-semibold">Area:</label>
+                        <p-dropdown 
+                            [options]="allAreaListData" 
+                            [(ngModel)]="selectedArea" 
+                            placeholder="Selecione a área" 
+                            optionLabel="label"
+                            [filter]="true"
+                            filterBy="label" 
+                            [showClear]="true"
+                            (onChange)="onChangeArea($event)">
+                        </p-dropdown>
+                    </div>
+                    <div class="theme flex align-items-center gap-2">
+                        <label class="font-semibold">Tema:</label>
+                        <p-dropdown 
+                            [options]="themeListData" 
+                            [(ngModel)]="selectedTheme" 
+                            placeholder="Selecione o tema" 
+                            optionLabel="label"
+                            [filter]="true"
+                            filterBy="label" 
+                            [showClear]="true"
+                            (onChange)="onChangeTheme($event)">
+                        </p-dropdown>
+                    </div>
+                </div>
+                <div class="check-list-results">
+                    <p-table [value]="allCheckListData" [loading]="loadingAllCheckListData" [tableStyle]="{ 'min-width': '50rem' }">
+                        <ng-template pTemplate="header">
+                            <tr>
+                                <th>Código</th>
+                                <th>Nome</th>
+                                <th>Area</th>
+                                <th>Tema</th>
+                                <th>Ações</th>
+                            </tr>
+                        </ng-template>
+                        <ng-template pTemplate="body" let-checkList let-rowIndex="rowIndex">
+                            <tr>
+                                <td>{{ checkList.code }}</td>
+                                <td>{{ checkList.name }}</td>
+                                <td>{{ checkList.area.name }}</td>
+                                <td>{{ checkList.theme.name }}</td>
+                                <td><i class="pi pi-eye cursor-pointer hover:text-green-500" (click)="selectCheckList(rowIndex)"></i></td>
+                            </tr>
+                        </ng-template>
+                        <ng-template pTemplate="emptymessage">
+                            <tr>
+                                <td colspan="5">Não foram encontrados dados.</td>
+                            </tr>
+                        </ng-template>
+                    </p-table>
+                    <p-paginator 
+                        (onPageChange)="onCheckListPageChange($event)" 
+                        [first]="0"
+                        [rows]="7"
+                        [totalRecords]="checkListDataTotal" 
+                        [showCurrentPageReport]="true"
+                        [showPageLinks]="true"
+                        [showJumpToPageDropdown]="false"
+                        currentPageReportTemplate="{first} a {last} de {totalRecords}"/>
+                </div>
+            </div>
+        </p-accordionTab>
+        <p-accordionTab [header]="'Caso Clínico' + (checkListData ? ' - ' + checkListData.name : '') " [disabled]="!checkListData">
+            <div class="flex flex-column gap-2">
+                <div class="countdown flex gap-2">
+                    <p-toggleButton 
+                        [(ngModel)]="countDownChecked" 
+                        onLabel="Iniciar" 
+                        offLabel="Detener"
+                        [onIcon]="'pi pi-check'" 
+                        [offIcon]="'pi pi-stop'" 
+                        (onChange)="initCountDown($event)"/>
+                    <div class="time font-bold text-4xl text-green-500 bg-gray-100 border-gray-200 border-1 border-round p-1" [ngClass]="{'text-red-500': secondsLeft < 60, 'text-orange-500': secondsLeft < 180}">
+                        {{ secondsLeft * 1000 | date:'mm:ss' }}
+                    </div>
+                </div>
+                <p-tabMenu 
+                    [model]="items" 
+                    [activeItem]="activeItem" 
+                    (activeItemChange)="onActiveItemChange($event)" />
+                <div class="content-data">
+                    <div class="initial-data card p-2" *ngIf="activeItem === items[0]">
+                        <div class="card-title title text-center font-semibold text-xl py-2">Dados Base</div>
+                        <div class="data-1 flex align-items-center justify-content-around gap-2">
+                            <div class="code flex gap-2">
+                                <div class="title font-semibold">Código:</div>
+                                <div class="data uppercase">{{checkListData?.code}}</div>
+                            </div>
+                            <div class="area flex gap-2">
+                                <div class="title font-semibold">Área:</div>
+                                <div class="data capitalize">{{checkListData?.area?.name}}</div>
+                            </div>
+                        </div>
+                        <div class="data-2 flex align-items-center justify-content-around gap-2">
+                            <div class="theme flex gap-2">
+                                <div class="title font-semibold">Tema:</div>
+                                <div class="data capitalize">{{checkListData?.name}}</div>
+                            </div>
+                            <div class="sex flex gap-2">
+                                <div class="title font-semibold">Sexo do paciente:</div>
+                                <div class="data capitalize">{{checkListData?.sex}}</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="patient-script-data card flex flex-column gap-2 p-2" *ngIf="activeItem === items[1]">
+                        <p-tabMenu 
+                            [model]="itemsPatientScript" 
+                            [activeItem]="activeItemPatientScript" 
+                            (activeItemChange)="onActiveItemPatientScriptChange($event)" />
+
+                        <div class="identification-data card p-2" *ngIf="activeItemPatientScript === itemsPatientScript[0]">
+                            <div class="card-title title text-center font-semibold text-xl py-2">Dados de identificação</div>
+                            <div class="data-1" [innerHTML]="checkListData?.patient_script?.identification_data">
+                            </div>
+                        </div>
+                        <div class="script-data card p-2" *ngIf="activeItemPatientScript === itemsPatientScript[1]">
+                            <div class="card-title title text-center font-semibold text-xl py-2">Roteiro</div>
+                            <div class="data-2" [innerHTML]="checkListData?.patient_script?.road_map">
+                            </div>
+                        </div>
+                        <div class="questions-data card p-2" *ngIf="activeItemPatientScript === itemsPatientScript[2]">
+                            <div class="card-title title text-center font-semibold text-xl py-2">Perguntas</div>
+                            <div class="data-3" [innerHTML]="checkListData?.patient_script?.questions">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="participant-instruction-data card p-2" *ngIf="activeItem === items[2]">
+                        <div class="card-title title text-center font-semibold text-xl py-2">Dados de identificação</div>
+                        <div class="data-1 flex align-items-start justify-content-between gap-2">
+                            <div class="description w-4">
+                                <div class="title font-semibold">Descrição do caso:</div>
+                                <div class="data" [innerHTML]="checkListData?.instruction_sheet?.description_case"></div>
+                            </div>
+                            <div class="structure w-4">
+                                <div class="title font-semibold">Infraestrutura:</div>
+                                <div class="data" [innerHTML]="checkListData?.instruction_sheet?.infrastructure"></div>
+                            </div>
+                            <div class="local w-4">
+                                <div class="title font-semibold">Local de atuação:</div>
+                                <div class="data" [innerHTML]="checkListData?.instruction_sheet?.place_performance"></div>
+                            </div>
+                        </div>
+                        <div class="data-2 flex flex-column align-items-center justify-content-center gap-2 py-2">
+                            <div class="title text-center font-semibold">Tarefas:</div>
+                            <div class="data">
+                                <ul>
+                                    <li *ngFor="let task of tasks">{{task?.description}}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="exams-data card p-2" *ngIf="activeItem === items[3]">
+                        <div *ngFor="let exam of exams">
+                            <div class="exam-data-info py-3">
+                                <div class="name font-semibold text-center text-xl">{{exam?.name}}</div>
+                                <div class="title font-semibold text-center">{{exam?.title}}</div>
+                                <div *ngIf="exam?.path" class="image flex align-items-center justify-content-center">
+                                    <img src="https://api.bastidoresdorevalida.com.br/storage/{{exam.path}}">
+                                </div>
+                                <div class="description" [innerHTML]="exam?.description"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pep-data card p-2" *ngIf="activeItem === items[4]">
+                        <div *ngFor="let evaluation of evaluationForms" class="card p-2 mt-2">
+                            <div class="description font-bold text-xl card-title">{{evaluation?.description}}</div>
+                            <div *ngFor="let item of evaluation?.evaluation_form_items">
+                                <div class="name">{{item?.name}}</div>
+                            </div>
+                            <div *ngFor="let item of evaluation?.evaluation_form_scores">
+                                <div class="flex gap-2 p-1 mt-1" [ngClass]="{'bg-green-100': item?.name === 'adequado', 'bg-yellow-100': item?.name === 'parcialmente adequado', 'bg-red-100': item?.name === 'inadequado'}">
+                                    <div class="name font-semibold capitalize">{{item?.name}}</div>
+                                    <div class="description">{{item?.description}}</div>
+                                    <div class="score font-semibold">{{item?.score}}</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </p-accordionTab>
+    </p-accordion>
+</div>

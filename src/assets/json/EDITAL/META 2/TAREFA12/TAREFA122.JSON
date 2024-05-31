@@ -1,0 +1,3486 @@
+{
+    "data": [
+      {
+        "id": "4000080664",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "ac5478eb-923f-4019-93d2-d0e2877adf75",
+                "name": "RR - Sistema Único de Saúde - SUS Roraima"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4AE6E350-6AA0-1FB6-E8AF-33D69FBA3E18"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-02T13:26:30Z",
+            "updated_at": "2020-09-02T16:32:21Z",
+            "location": {
+              "id": "23"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "20cca6e3c4c24abe89796f1d5c4dd71d",
+            "name": "Indicações Relativas (Não-Obrigatórias)",
+            "is_master": false,
+            "master_id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento[$$]Indicações Relativas (Não-Obrigatórias)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "366cfd55cd7844ac81f129bcf497301e",
+            "name": "Epidemiologia",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Epidemiologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+            "name": "Indicações de Pesquisa e Tratamento",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "aa48d70ebc48422cad7009dee481399f",
+            "name": "Os Métodos Não Invasivos",
+            "is_master": false,
+            "master_id": "31a084bf0fdd44aea3684101171883cc",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "97b50844-b0a8-42a3-afad-35f094310ebd",
+            "position": "0",
+            "body": "<div>A cura da infecção prognóstica, uma taxa bastante reduzida de recorrência de úlcera.&nbsp;<br></div>",
+            "sanitized_body": "A cura da infecção prognóstica, uma taxa bastante reduzida de recorrência de úlcera. ",
+            "correct": false,
+            "created_at": "2020-09-14 16:58:25.583272 +0000 UTC",
+            "updated_at": "2020-11-23 00:32:39.882489 +0000 UTC",
+            "topics": [
+              {
+                "id": "366cfd55cd7844ac81f129bcf497301e",
+                "name": "Epidemiologia",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Epidemiologia",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA:&nbsp;Apesar da assertiva ser mal escrita, entendemos que o autor quis dizer que a cura da infecção reduz a taxa de recorrência da úlcera gástrica, o que é verdade.",
+              "sanitized_complete": "CORRETA: Apesar da assertiva ser mal escrita, entendemos que o autor quis dizer que a cura da infecção reduz a taxa de recorrência da úlcera gástrica, o que é verdade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:26:14.90228 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 21
+          },
+          {
+            "id": "1589aa2a-3d23-445e-a773-67ca596fb2df",
+            "position": "1",
+            "body": "<div>A terapia antimicrobiana adequada leva à erradicação em mais de 80% dos casos.<br></div>",
+            "sanitized_body": "A terapia antimicrobiana adequada leva à erradicação em mais de 80% dos casos.",
+            "correct": false,
+            "created_at": "2020-09-14 16:58:25.583272 +0000 UTC",
+            "updated_at": "2020-11-23 00:32:40.087993 +0000 UTC",
+            "topics": [
+              {
+                "id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+                "name": "Indicações de Pesquisa e Tratamento",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA:&nbsp;Em regiões de baixa resistência bacteriana à claritromicina, a taxa de erradicação pode ser superior a 80%, chegando a quase 90%. Infelizmente, essa resistência tem aumentado consideravelmente em várias regiões do mundo, inclusive no Brasil, o que motivou nosso último consenso brasileiro de tratamento ao H. pylori aumentar o tempo de tratamento de 7 para 14 dias em esquemas contendo claritromicina, para garantir erradicação superior a 80%.",
+              "sanitized_complete": "CORRETA: Em regiões de baixa resistência bacteriana à claritromicina, a taxa de erradicação pode ser superior a 80%, chegando a quase 90%. Infelizmente, essa resistência tem aumentado consideravelmente em várias regiões do mundo, inclusive no Brasil, o que motivou nosso último consenso brasileiro de tratamento ao H. pylori aumentar o tempo de tratamento de 7 para 14 dias em esquemas contendo claritromicina, para garantir erradicação superior a 80%.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:26:14.899128 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 11
+          },
+          {
+            "id": "8cb76ef7-a0c4-464d-90ce-7eaf56c0f2f8",
+            "position": "2",
+            "body": "<div>O tratamento bem-sucedido pode ser documentado repetindo-se a sorologia em quatro a seis semanas.&nbsp;<br></div>",
+            "sanitized_body": "O tratamento bem-sucedido pode ser documentado repetindo-se a sorologia em quatro a seis semanas. ",
+            "correct": true,
+            "created_at": "2020-09-14 16:58:25.583272 +0000 UTC",
+            "updated_at": "2020-11-23 00:32:40.307949 +0000 UTC",
+            "topics": [
+              {
+                "id": "aa48d70ebc48422cad7009dee481399f",
+                "name": "Os Métodos Não Invasivos",
+                "is_master": false,
+                "master_id": "31a084bf0fdd44aea3684101171883cc",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>INCORRETA</b>:&nbsp;A sorologia não é recomendada para o controle de cura, já que não diferencia infecção atual da antiga. O controle deve ser feito preferencialmente por um método não-invasivo, como o teste respiratório com ureia marcada ou antígeno fecal. Se o paciente tinha úlcera péptica, o controle deve ser feito por endoscopia digestiva com biópsias e histopatológico, até para avaliar a cicatrização da úlcera.",
+              "sanitized_complete": "INCORRETA: A sorologia não é recomendada para o controle de cura, já que não diferencia infecção atual da antiga. O controle deve ser feito preferencialmente por um método não-invasivo, como o teste respiratório com ureia marcada ou antígeno fecal. Se o paciente tinha úlcera péptica, o controle deve ser feito por endoscopia digestiva com biópsias e histopatológico, até para avaliar a cicatrização da úlcera.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:26:14.915125 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 351
+          },
+          {
+            "id": "5a0b70c8-6f8c-42f0-8dfc-da21271613b2",
+            "position": "3",
+            "body": "<div>Os pacientes em uso crônico de aspirina ou antiinflamatórios têm indicação de pesquisa e erradicação da infecção.&nbsp;</div>",
+            "sanitized_body": "Os pacientes em uso crônico de aspirina ou antiinflamatórios têm indicação de pesquisa e erradicação da infecção. ",
+            "correct": false,
+            "created_at": "2020-09-14 16:58:25.583272 +0000 UTC",
+            "updated_at": "2020-11-23 00:32:40.508704 +0000 UTC",
+            "topics": [
+              {
+                "id": "20cca6e3c4c24abe89796f1d5c4dd71d",
+                "name": "Indicações Relativas (Não-Obrigatórias)",
+                "is_master": false,
+                "master_id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento[$$]Indicações Relativas (Não-Obrigatórias)",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA:&nbsp;A maioria dos consensos internacionais recomenda erradicar o H. pylori em pacientes que farão uso crônico de AAS/AINEs. Não é uma recomendação absoluta (obrigatória), mas essa estratégia potencialmente reduz o risco de úlcera péptica.",
+              "sanitized_complete": "CORRETA: A maioria dos consensos internacionais recomenda erradicar o H. pylori em pacientes que farão uso crônico de AAS/AINEs. Não é uma recomendação absoluta (obrigatória), mas essa estratégia potencialmente reduz o risco de úlcera péptica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:26:14.898453 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 55
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "As alternativas sobre a erradicação de H. pylori são verdadeiras, EXCETO:",
+        "statement_text": "As alternativas sobre a erradicação de H. pylori são verdadeiras, EXCETO:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "148a3e7e42c7dcfece2c7b984b83ecdb",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-14 16:58:25.583272 +0000 UTC",
+        "forum_id": "5c6499a0-5ba8-46d0-89f3-8921749afdef",
+        "solution": {
+          "_key": "6fa4cad0-ed6d-4a3c-96f7-b3a835da94d0",
+          "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div>Vamos relembrar alguns conceitos sobre essa bactéria espiralada, gram-negativa, microaerofílica, chamada Helicobacter pylori. 1) É uma das infecções mais comuns do mundo, especialmente transmissível em situações de menor higiene e condições ruins de saneamento. 2) A maioria dos indivíduos infectados não irão desenvolver nenhum tipo de doença. 3) Quando provocam lesão, pode ser a doença ulcerosa péptica, adenocarcinoma gástrico e linfoma MALT. Outros conceitos discutiremos enquanto avaliamos as alternativas,&nbsp;lembrando que a questão pede para marcar a&nbsp;<b>INCORRETA</b>:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C.Vamos relembrar alguns conceitos sobre essa bactéria espiralada, gram-negativa, microaerofílica, chamada Helicobacter pylori. 1) É uma das infecções mais comuns do mundo, especialmente transmissível em situações de menor higiene e condições ruins de saneamento. 2) A maioria dos indivíduos infectados não irão desenvolver nenhum tipo de doença. 3) Quando provocam lesão, pode ser a doença ulcerosa péptica, adenocarcinoma gástrico e linfoma MALT. Outros conceitos discutiremos enquanto avaliamos as alternativas, lembrando que a questão pede para marcar a INCORRETA:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 12:26:15.064229 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "erradicaca-H-pylori-sa11328f908c",
+        "public": true
+      },
+      {
+        "id": "4000077037",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "1dfbd0be-cff1-46b6-80d6-42b8625049fd",
+                "name": "RJ - Secretaria Estadual de Saúde - SES RJ"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "DE7DC7AA-DAEC-AC8C-28FA-372BEEDA58CA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-06T12:32:03Z",
+            "location": {
+              "id": "20"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "9a72fb9b1be743da9f8be4d790d843ed",
+            "name": "Sorologia",
+            "is_master": false,
+            "master_id": "aa48d70ebc48422cad7009dee481399f",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Sorologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d51fbdb2d1c94180b4c4f0750cb27b8c",
+            "name": "Análise Histopatológica",
+            "is_master": false,
+            "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Análise Histopatológica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "eedd1a934ab24226a67ec245c06037e9",
+            "name": "Pesquisa do Antígeno Fecal",
+            "is_master": false,
+            "master_id": "aa48d70ebc48422cad7009dee481399f",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Pesquisa do Antígeno Fecal",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fa741df7d74a4009ad28d6444cbd0883",
+            "name": "Teste Rápido da Urease",
+            "is_master": false,
+            "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1fa8a1e2-24e7-493e-a0b6-fa951b56898b",
+            "position": "0",
+            "body": "antígeno fecal&nbsp;",
+            "sanitized_body": "antígeno fecal ",
+            "correct": true,
+            "created_at": "2020-09-14 13:43:22.066076 +0000 UTC",
+            "updated_at": "2020-11-23 00:40:44.403622 +0000 UTC",
+            "topics": [
+              {
+                "id": "eedd1a934ab24226a67ec245c06037e9",
+                "name": "Pesquisa do Antígeno Fecal",
+                "is_master": false,
+                "master_id": "aa48d70ebc48422cad7009dee481399f",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Pesquisa do Antígeno Fecal",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>CORRETA</b>: pois entre as alternativas fornecida, o teste do antígeno fecal é o menos invasivo, bastante efetivo no controle da erradicação do H. pylori, e relativamente barato. Segundo o último consenso internacional que orienta as diretrizes do tratamento do H. pylori no ocidente (Maastricht V - 2016), a primeira escolha para o controle de cura seria o <b>Teste</b> <b>Respiratório</b> com ureia marcada pelo Carbono 13 (ou Carbono 14). Mas repare que este teste não está entre as opções da questão. Portanto a melhor resposta é o antígeno fecal.",
+              "sanitized_complete": "CORRETA: pois entre as alternativas fornecida, o teste do antígeno fecal é o menos invasivo, bastante efetivo no controle da erradicação do H. pylori, e relativamente barato. Segundo o último consenso internacional que orienta as diretrizes do tratamento do H. pylori no ocidente (Maastricht V - 2016), a primeira escolha para o controle de cura seria o Teste Respiratório com ureia marcada pelo Carbono 13 (ou Carbono 14). Mas repare que este teste não está entre as opções da questão. Portanto a melhor resposta é o antígeno fecal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:36:29.895254 +0000 UTC"
+            },
+            "answer_percentage": 55,
+            "answers": 299
+          },
+          {
+            "id": "d7b01451-ddbd-4317-b3e1-56f6c4525ef6",
+            "position": "1",
+            "body": "teste da urease",
+            "sanitized_body": "teste da urease",
+            "correct": false,
+            "created_at": "2020-09-14 13:43:22.066076 +0000 UTC",
+            "updated_at": "2020-11-23 00:40:44.532603 +0000 UTC",
+            "topics": [
+              {
+                "id": "fa741df7d74a4009ad28d6444cbd0883",
+                "name": "Teste Rápido da Urease",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA: o teste da urease é feito com fragmentos de biópsia obtidos por meio da endoscopia digestiva. Este seria o método mais invasivo e caro.",
+              "sanitized_complete": "INCORRETA: o teste da urease é feito com fragmentos de biópsia obtidos por meio da endoscopia digestiva. Este seria o método mais invasivo e caro.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:36:29.912755 +0000 UTC"
+            },
+            "answer_percentage": 37,
+            "answers": 201
+          },
+          {
+            "id": "fe7aeefb-3dc8-4f9e-9128-f02e248f34a0",
+            "position": "2",
+            "body": "sorologia no plasma",
+            "sanitized_body": "sorologia no plasma",
+            "correct": false,
+            "created_at": "2020-09-14 13:43:22.066076 +0000 UTC",
+            "updated_at": "2020-11-23 00:40:44.653348 +0000 UTC",
+            "topics": [
+              {
+                "id": "9a72fb9b1be743da9f8be4d790d843ed",
+                "name": "Sorologia",
+                "is_master": false,
+                "master_id": "aa48d70ebc48422cad7009dee481399f",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Sorologia",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;quando este método é usado no diagnóstico da infecção pelo H. pylori, mas não é tão útil no controle da erradicação, já que os anticorpos podem permanecer positivos no soro mesmo após a bactéria ter sido eliminada.",
+              "sanitized_complete": "INCORRETA: quando este método é usado no diagnóstico da infecção pelo H. pylori, mas não é tão útil no controle da erradicação, já que os anticorpos podem permanecer positivos no soro mesmo após a bactéria ter sido eliminada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:36:29.897736 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "9deb0258-dea2-4758-81f3-cf6481d44840",
+            "position": "3",
+            "body": "endoscopia digestiva&nbsp;",
+            "sanitized_body": "endoscopia digestiva ",
+            "correct": false,
+            "created_at": "2020-09-14 13:43:22.066076 +0000 UTC",
+            "updated_at": "2020-11-23 00:40:44.783086 +0000 UTC",
+            "topics": [
+              {
+                "id": "d51fbdb2d1c94180b4c4f0750cb27b8c",
+                "name": "Análise Histopatológica",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Análise Histopatológica",
+                "has_children": false,
+                "nodes": null
+              },
+              {
+                "id": "fa741df7d74a4009ad28d6444cbd0883",
+                "name": "Teste Rápido da Urease",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA: pois este é o método mais invasivo e caro para o controle de cura.",
+              "sanitized_complete": "INCORRETA: pois este é o método mais invasivo e caro para o controle de cura.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 12:36:29.90938 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 37
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O teste com o melhor custo efetivo para avaliar a eficácia do tratamento de erradicação do Helicobacter pylori é o(a):",
+        "statement_text": "O teste com o melhor custo efetivo para avaliar a eficácia do tratamento de erradicação do Helicobacter pylori é o(a):",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "d3ce60555bfb8afcd4247fff30a9b19a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-14 13:43:22.066076 +0000 UTC",
+        "solution": {
+          "_key": "b67223a3-7c08-4c34-a525-c3226c8cbcba",
+          "complete": "<b>GABARITO: ALTERNATIVA A.</b><div><br></div><div>A questão aborda o controle de cura da erradicação do H. pylori. Ou seja, este paciente já teve o diagnóstico por algum método, já fez o tratamento, e precisamos agora saber se a bactéria foi erradicada. O teste de escolha deve ser efetivo e, ao mesmo tempo, rápido, barato e menos invasivo. Vamos analisar as opções:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA A.A questão aborda o controle de cura da erradicação do H. pylori. Ou seja, este paciente já teve o diagnóstico por algum método, já fez o tratamento, e precisamos agora saber se a bactéria foi erradicada. O teste de escolha deve ser efetivo e, ao mesmo tempo, rápido, barato e menos invasivo. Vamos analisar as opções:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 12:36:30.043983 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000077037-720.mp4",
+        "unlisted": false,
+        "slug": "teste-com-melhor-custo2047b59ba2",
+        "public": true
+      },
+      {
+        "id": "4000071367",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3e582b42-1253-4dd3-85fa-eb47c97f14eb",
+                "name": "RJ - Universidade do Grande Rio - UNIGRANRIO"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BC2F45A8-06C2-91E2-D06C-D818DF689AB8"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2020-09-06T21:35:05Z",
+            "location": {
+              "id": "3633"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "65dc701cd4d24423aa9ab31595c45921",
+            "name": "Efeitos do Uso Crônico",
+            "is_master": false,
+            "master_id": "ed92fdceecae488c9290dd2dd55ec50c",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Os Inibidores da Bomba de Prótons - IBP[$$]Eventos Adversos[$$]Efeitos do Uso Crônico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fbb6a3d39ddd482b90dbab8ba88499eb",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "7570939e8f6b453abed86f7234a4ad85",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Esôfago[$$]Doença do Refluxo Gastroesofágico - DRGE[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fc313ccd2f864776b2f98c3726c62359",
+            "name": "Inibidores da Bomba de Prótons (IBP)",
+            "is_master": false,
+            "master_id": "93ea9cd4626749af9e107242702f1c59",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Esôfago[$$]Doença do Refluxo Gastroesofágico - DRGE[$$]Tratamento Clínico da DRGE[$$]Tratamento Farmacológico[$$]Inibidores da Bomba de Prótons (IBP)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "def39536-65b5-4ce6-a76d-d1f436fa3d99",
+            "position": "0",
+            "body": "tumor carcinoide",
+            "sanitized_body": "tumor carcinoide",
+            "correct": false,
+            "created_at": "2020-09-14 00:27:42.369622 +0000 UTC",
+            "updated_at": "2020-11-21 20:03:30.010268 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Não há qualquer comprovação de que os IBPs aumentem o risco de qualquer tipo de neoplasias gástrica.",
+              "sanitized_complete": "INCORRETA: Não há qualquer comprovação de que os IBPs aumentem o risco de qualquer tipo de neoplasias gástrica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:26:41.306198 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 25
+          },
+          {
+            "id": "2eeca0db-1057-4ca7-80c0-f5c6ea0103bb",
+            "position": "1",
+            "body": "anemia megaloblástica",
+            "sanitized_body": "anemia megaloblástica",
+            "correct": false,
+            "created_at": "2020-09-14 00:27:42.369622 +0000 UTC",
+            "updated_at": "2020-11-21 20:03:30.075489 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Anemia megaloblástica ocorre em consequência da gastrite autoimune, uma doença que cursa com a destruição das glândulas oxínticas e redução expressiva da secreção do fator intrínseco. Isso faz com que os níveis de vitamina B12 caiam cronicamente, ocasionando anemia. Não há relação entre essa doença e o uso crônico dos IBPs. O que ocorre é que essas drogas devem ser evitadas nesse contexto para não provocar uma hipocloridria ainda maior.",
+              "sanitized_complete": "INCORRETA: Anemia megaloblástica ocorre em consequência da gastrite autoimune, uma doença que cursa com a destruição das glândulas oxínticas e redução expressiva da secreção do fator intrínseco. Isso faz com que os níveis de vitamina B12 caiam cronicamente, ocasionando anemia. Não há relação entre essa doença e o uso crônico dos IBPs. O que ocorre é que essas drogas devem ser evitadas nesse contexto para não provocar uma hipocloridria ainda maior.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:26:41.298661 +0000 UTC"
+            },
+            "answer_percentage": 51,
+            "answers": 227
+          },
+          {
+            "id": "d16e7d94-09c7-42dc-9a3b-449b7c87bfc0",
+            "position": "2",
+            "body": "fraturas de quadril",
+            "sanitized_body": "fraturas de quadril",
+            "correct": true,
+            "created_at": "2020-09-14 00:27:42.369622 +0000 UTC",
+            "updated_at": "2020-11-21 20:03:30.168734 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA</b>: A redução da acidez gástrica prejudica a biodisponibilidade e absorção do cálcio hidrossolúvel. Ainda é controverso se isso poderia efetivamente aumentar o risco de fraturas, mas existem alguns estudos sugerindo essa complicação.",
+              "sanitized_complete": "CORRETA: A redução da acidez gástrica prejudica a biodisponibilidade e absorção do cálcio hidrossolúvel. Ainda é controverso se isso poderia efetivamente aumentar o risco de fraturas, mas existem alguns estudos sugerindo essa complicação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:26:41.314945 +0000 UTC"
+            },
+            "answer_percentage": 41,
+            "answers": 183
+          },
+          {
+            "id": "65f0ea0b-9279-4f90-93ed-9dbfbde488eb",
+            "position": "3",
+            "body": "miocardiopatia",
+            "sanitized_body": "miocardiopatia",
+            "correct": false,
+            "created_at": "2020-09-14 00:27:42.369622 +0000 UTC",
+            "updated_at": "2020-11-21 20:03:30.242693 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Não há qualquer relação entre o uso crônico de IBPs e o surgimento de miocardiopatia.",
+              "sanitized_complete": "INCORRETA: Não há qualquer relação entre o uso crônico de IBPs e o surgimento de miocardiopatia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:26:41.324594 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Vinicius, 45 anos, é empresário e viajará para Manaus a trabalho por 6 meses. Queixa- se de rouquidão pela manhã e azia há 4 anos. Foram prescritos alguns medicamentos sintomáticos e inibidor de bomba de próton (IBP), proposta a investigação diagnóstica e a profilaxia de doenças do viajante. O uso prolongado de IBP aumenta a incidência de:",
+        "statement_text": "Vinicius, 45 anos, é empresário e viajará para Manaus a trabalho por 6 meses. Queixa- se de rouquidão pela manhã e azia há 4 anos. Foram prescritos alguns medicamentos sintomáticos e inibidor de bomba de próton (IBP), proposta a investigação diagnóstica e a profilaxia de doenças do viajante. O uso prolongado de IBP aumenta a incidência de:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "036f105892d966787b35a8a0a7bf9de5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-14 00:27:42.369622 +0000 UTC",
+        "solution": {
+          "_key": "a8e0994e-2fc5-45f3-a4ea-aed0c52ca0a9",
+          "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div>Os inibidores da bomba de prótons são drogas seguras para uso em longo prazo. Entretanto, estudos dos últimos 10 anos têm revelado que devemos evitar o seu uso indiscriminado, pois existem alguns efeitos colaterais do uso crônico que devemos estar atentos. Vamos discutir esses efeitos enquanto analisamos as alternativas, que pedem para marcar a opção correta:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C.Os inibidores da bomba de prótons são drogas seguras para uso em longo prazo. Entretanto, estudos dos últimos 10 anos têm revelado que devemos evitar o seu uso indiscriminado, pois existem alguns efeitos colaterais do uso crônico que devemos estar atentos. Vamos discutir esses efeitos enquanto analisamos as alternativas, que pedem para marcar a opção correta:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-10 18:26:42.294779 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000071367-720.mp4",
+        "unlisted": false,
+        "slug": "Vinicius-45-anos-e576fec3851",
+        "public": true
+      },
+      {
+        "id": "4000057215",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "eadb5740-fb39-4d05-a48b-88fedae3e230",
+                "name": "PA - Universidade Federal do Pará - UFPA (Hospital Universitário João Barros Barreto - HUJBB) (Hospital Universitário Bettina Ferro de Souza - HUBFS)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D4569638-1DDA-9D3B-959C-508056EED184"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T02:55:38Z",
+            "updated_at": "2020-11-25T19:40:03Z",
+            "location": {
+              "id": "15"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "550320eec093414380ef769bdbd84a09",
+            "name": "Definição e Sintomas",
+            "is_master": false,
+            "master_id": "f748821d9c714762ba61ac69466c62c5",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Síndrome Dispéptica[$$]Definição e Sintomas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d744dcc4a49b4b4cbd1022b681067007",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "f748821d9c714762ba61ac69466c62c5",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Síndrome Dispéptica[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "db9b9cebc4ee426aaca7f0a5936f9b5d",
+            "name": "Investigação Complementar",
+            "is_master": false,
+            "master_id": "f748821d9c714762ba61ac69466c62c5",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Síndrome Dispéptica[$$]Investigação Complementar",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f748821d9c714762ba61ac69466c62c5",
+            "name": "Síndrome Dispéptica",
+            "is_master": false,
+            "master_id": "a5b301d2d47b40a39b153190c77a394d",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Síndrome Dispéptica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "378b21c1-8ffd-410c-ade2-59ffef1743cf",
+            "position": "0",
+            "body": "Quadro clínico de pirose e regurgitação é característico de infecção por Helicobacter Pylori.",
+            "sanitized_body": "Quadro clínico de pirose e regurgitação é característico de infecção por Helicobacter Pylori.",
+            "correct": false,
+            "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+            "updated_at": "2020-11-23 12:56:29.382245 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Porque quadro clínico de pirose e regurgitação é típico de outra doença muito comum na gastroenterologia, a Doença do Refluxo Gastroesofágico (DRGE). H. pylori não é causa de pirose, nem tampouco regurgitação.",
+              "sanitized_complete": "INCORRETA: Porque quadro clínico de pirose e regurgitação é típico de outra doença muito comum na gastroenterologia, a Doença do Refluxo Gastroesofágico (DRGE). H. pylori não é causa de pirose, nem tampouco regurgitação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 13:25:33.629656 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 58
+          },
+          {
+            "id": "f65dde0c-ba22-4792-9f8b-832c9a932d90",
+            "position": "1",
+            "body": "No tratamento de H. Pylori em pacientes alérgicos à penicilina, deve-se prescrever o esquema metronidazol 500 mg + claritromicina 500 mg + omeprazol 20 mg.",
+            "sanitized_body": "No tratamento de H. Pylori em pacientes alérgicos à penicilina, deve-se prescrever o esquema metronidazol 500 mg + claritromicina 500 mg + omeprazol 20 mg.",
+            "correct": true,
+            "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+            "updated_at": "2020-11-23 12:56:29.450851 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA (com ressalvas)</b>:&nbsp;<b>ATENÇÃO</b>:&nbsp;Em pessoas com alergia a penicilina deve-se evitar os esquemas que contenham amoxicilina. Porém, o esquema apresentado por essa alternativa, embora seja um esquema possível, não é mais recomendado de rotina por associa duas medicações as quais o H. pylori está cada vez mais resistente, o metronidazol e a claritromicina! As orientações atuais são que o metronidazol se associe à tetraciclina ou doxiciclina (que poderia ter sido a resposta da questão), e claritromicina se associe à amoxicilina (que a paciente não pode usar porque é alérgica). Trocando em miúdos, a paciente até pode usar o esquema proposto pela questão, mas tem chance considerável de falha terapêutica. Vamos aproveitar para refrescar a memória e rever os esquemas de tratamento atualizados para a realidade brasileira pelo \"IV Consenso Brasileiro para o Manejo do Helicobacter pylori\":<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C35071DA-2103-8617-1981-FCC8B4DE0EF5/C35071DA-2103-8617-1981-FCC8B4DE0EF5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0723014A-EA93-DC2D-0708-5931A08897F0/0723014A-EA93-DC2D-0708-5931A08897F0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "CORRETA (com ressalvas): ATENÇÃO: Em pessoas com alergia a penicilina deve-se evitar os esquemas que contenham amoxicilina. Porém, o esquema apresentado por essa alternativa, embora seja um esquema possível, não é mais recomendado de rotina por associa duas medicações as quais o H. pylori está cada vez mais resistente, o metronidazol e a claritromicina! As orientações atuais são que o metronidazol se associe à tetraciclina ou doxiciclina (que poderia ter sido a resposta da questão), e claritromicina se associe à amoxicilina (que a paciente não pode usar porque é alérgica). Trocando em miúdos, a paciente até pode usar o esquema proposto pela questão, mas tem chance considerável de falha terapêutica. Vamos aproveitar para refrescar a memória e rever os esquemas de tratamento atualizados para a realidade brasileira pelo &#34;IV Consenso Brasileiro para o Manejo do Helicobacter pylori&#34;:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 13:25:33.632795 +0000 UTC"
+            },
+            "answer_percentage": 63,
+            "answers": 220
+          },
+          {
+            "id": "9047daf8-516d-4170-9799-16cdaca8410a",
+            "position": "2",
+            "body": "Na presença de perda de peso, deve-se primeiramente tentar o tratamento empírico antes de realizar a endoscopia digestiva alta.",
+            "sanitized_body": "Na presença de perda de peso, deve-se primeiramente tentar o tratamento empírico antes de realizar a endoscopia digestiva alta.",
+            "correct": false,
+            "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+            "updated_at": "2020-11-23 12:56:29.521164 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Perda de peso é um sinal de alarme importante, que deve ser investigado por uma endoscopia digestiva alta (EDA) no intuito de descartar outros diagnósticos mais graves, como o câncer.",
+              "sanitized_complete": "INCORRETA: Perda de peso é um sinal de alarme importante, que deve ser investigado por uma endoscopia digestiva alta (EDA) no intuito de descartar outros diagnósticos mais graves, como o câncer.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 13:25:33.625504 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 15
+          },
+          {
+            "id": "467fc209-61ce-44c0-a15f-a66e129b359e",
+            "position": "3",
+            "body": "Em casos de úlcera gástrica, a prevalência de H. Pylori é menor que 10%.",
+            "sanitized_body": "Em casos de úlcera gástrica, a prevalência de H. Pylori é menor que 10%.",
+            "correct": false,
+            "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+            "updated_at": "2020-11-23 12:56:29.589171 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Pelo contrário, o Helicobacter pylori é o grande responsável por algo em torno de 60 a 70% das úlceras pépticas. A segunda causa mais comum são os anti-inflamatórios não esteroidais (AINEs).",
+              "sanitized_complete": "INCORRETA: Pelo contrário, o Helicobacter pylori é o grande responsável por algo em torno de 60 a 70% das úlceras pépticas. A segunda causa mais comum são os anti-inflamatórios não esteroidais (AINEs).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 13:25:33.638085 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 32
+          },
+          {
+            "id": "deeaf1a6-171a-4d40-8807-86b1d11a6e3d",
+            "position": "4",
+            "body": "Cães são os reservatórios primários do H. Pylori, sendo estes a fonte de infecção.",
+            "sanitized_body": "Cães são os reservatórios primários do H. Pylori, sendo estes a fonte de infecção.",
+            "correct": false,
+            "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+            "updated_at": "2020-11-23 12:56:29.676738 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;O ser humano é o único reservatório do ciclo vital do H. pylori, nenhum outro animal está envolvido. Ou seja, o dia que a raça humana acabar, o H. pylori acaba junto. Até lá essa bactéria deve caminhar junto conosco.",
+              "sanitized_complete": "INCORRETA: O ser humano é o único reservatório do ciclo vital do H. pylori, nenhum outro animal está envolvido. Ou seja, o dia que a raça humana acabar, o H. pylori acaba junto. Até lá essa bactéria deve caminhar junto conosco.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 13:25:33.641168 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 23
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação aos quadros de dispepsia, é correto afirmar:",
+        "statement_text": "Em relação aos quadros de dispepsia, é correto afirmar:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec739258aef1ba8f01cfabdf68a80d60",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 22:04:15.987801 +0000 UTC",
+        "solution": {
+          "_key": "d20b7b73-ca08-4600-8262-c94e7619b260",
+          "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><br></div><div>Meu bom Estrategista,&nbsp;a questão fala em dispepsia, mas as alternativas discorrem basicamente sobre conceitos voltados ao Helicobacter pylori, a bactéria flagelada que infecta o estômago de mais da metade da população. E no caso desta questão, vamos ter que escolher a alternativa \"menos pior\" ou \"menos errada\". Então, vamos discutir esses conceitos para você entender o motivo:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA B.Meu bom Estrategista, a questão fala em dispepsia, mas as alternativas discorrem basicamente sobre conceitos voltados ao Helicobacter pylori, a bactéria flagelada que infecta o estômago de mais da metade da população. E no caso desta questão, vamos ter que escolher a alternativa &#34;menos pior&#34; ou &#34;menos errada&#34;. Então, vamos discutir esses conceitos para você entender o motivo:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 13:25:33.78003 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000057215-720.mp4",
+        "unlisted": false,
+        "slug": "aos-quadros-dispepsia99a7ba605",
+        "public": true
+      },
+      {
+        "id": "4000049101",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "182def97-b1f1-458b-a4ad-a0e1dcefa0a4",
+                "name": "SP - Hospital Infantil Sabará - HIS"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D4186B25-A96C-55D7-EBDE-62973E4ADCCB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-07T03:51:46Z",
+            "location": {
+              "id": "5298"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "31a084bf0fdd44aea3684101171883cc",
+            "name": "Diagnóstico e Controle de Cura",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+            "name": "Indicações de Pesquisa e Tratamento",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "765cf1fe-6f36-4a9c-ae87-5fdd345e968d",
+            "position": "0",
+            "body": "A ressecção endoscópica da úlcera é o tratamento mais atual para a doente.",
+            "sanitized_body": "A ressecção endoscópica da úlcera é o tratamento mais atual para a doente.",
+            "correct": false,
+            "created_at": "2020-09-12 13:59:35.802997 +0000 UTC",
+            "updated_at": "2020-11-15 02:11:25.336512 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Não faz nenhum sentido ressecar uma úlcera péptica, pois ela é uma solução de continuidade da mucosa que, se ressecada, criará uma solução de continuidade ainda maior! A ressecção (ou dissecção) endoscópica é indicada para tumores gástricos superficiais.",
+              "sanitized_complete": "INCORRETA: Não faz nenhum sentido ressecar uma úlcera péptica, pois ela é uma solução de continuidade da mucosa que, se ressecada, criará uma solução de continuidade ainda maior! A ressecção (ou dissecção) endoscópica é indicada para tumores gástricos superficiais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:16:42.064125 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 14
+          },
+          {
+            "id": "c88dfce1-8102-48e6-8efb-730fcca088b8",
+            "position": "1",
+            "body": "A úlcera deverá ser tratada com adrenalização e clipagem endoscópica.",
+            "sanitized_body": "A úlcera deverá ser tratada com adrenalização e clipagem endoscópica.",
+            "correct": false,
+            "created_at": "2020-09-12 13:59:35.802997 +0000 UTC",
+            "updated_at": "2020-11-15 02:11:25.406859 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: A injeção de adrenalina, cauterização ou clipagem só estão indicadas para úlceras com sangramento ativo, ou com estigmas de sangramento recente (coto vascular visível ou coágulo aderido à base da úlcera). Não é esse o caso desse paciente.",
+              "sanitized_complete": "INCORRETA: A injeção de adrenalina, cauterização ou clipagem só estão indicadas para úlceras com sangramento ativo, ou com estigmas de sangramento recente (coto vascular visível ou coágulo aderido à base da úlcera). Não é esse o caso desse paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:16:41.996173 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 23
+          },
+          {
+            "id": "54d5d1fe-fb64-4050-a14f-dbdec53ee016",
+            "position": "2",
+            "body": "A gastrectomia parcial está indicada no momento.",
+            "sanitized_body": "A gastrectomia parcial está indicada no momento.",
+            "correct": false,
+            "created_at": "2020-09-16 00:09:00.748094 +0000 UTC",
+            "updated_at": "2020-11-15 02:11:25.478365 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: O tratamento cirúrgico para as úlceras pépticas é raramente realizado hoje em dia, pois respondem muito bem aos inibidores da bomba de prótons (IBPs) e aos bloqueados do receptor H2 (Ranitidina). A cirurgia só está indicada no caso das complicações: sangramento ou estenose refratários ao tratamento endoscópico, além da perfuração. Mesmo nesses casos, a técnica não é a gastrectomia, mas o procedimento mais simples possível para tratar a complicação, como a simples rafia da úlcera (no caso da perfuração e sangramento) ou piloromiotomia cirúrgica. São raros os casos em que se faz necessário ressecar um segmento do estômago ou desviar o trânsito intestinal.",
+              "sanitized_complete": "INCORRETA: O tratamento cirúrgico para as úlceras pépticas é raramente realizado hoje em dia, pois respondem muito bem aos inibidores da bomba de prótons (IBPs) e aos bloqueados do receptor H2 (Ranitidina). A cirurgia só está indicada no caso das complicações: sangramento ou estenose refratários ao tratamento endoscópico, além da perfuração. Mesmo nesses casos, a técnica não é a gastrectomia, mas o procedimento mais simples possível para tratar a complicação, como a simples rafia da úlcera (no caso da perfuração e sangramento) ou piloromiotomia cirúrgica. São raros os casos em que se faz necessário ressecar um segmento do estômago ou desviar o trânsito intestinal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:16:42.056415 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 14
+          },
+          {
+            "id": "6d49c4f6-27e9-45bc-8f34-ce960ddc97c7",
+            "position": "3",
+            "body": "O uso de bloqueador H2, associado a procinéticos, é o tratamento de escolha para a paciente.",
+            "sanitized_body": "O uso de bloqueador H2, associado a procinéticos, é o tratamento de escolha para a paciente.",
+            "correct": false,
+            "created_at": "2020-09-16 00:09:00.848605 +0000 UTC",
+            "updated_at": "2020-11-15 02:11:25.561261 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: As drogas mais efetivas para tratar úlcera péptica DUP são os inibidores da bomba de prótons (IBP), como omeprazol, pantoprazol, esomeprazol e lansoprazol. O bloqueador H2 (Ranitidina) é indicado apenas em pacientes com comprovada intolerância aos IBPs (diarreia, cefaleia, tontura ou história de nefrite intersticial aguda).",
+              "sanitized_complete": "INCORRETA: As drogas mais efetivas para tratar úlcera péptica DUP são os inibidores da bomba de prótons (IBP), como omeprazol, pantoprazol, esomeprazol e lansoprazol. O bloqueador H2 (Ranitidina) é indicado apenas em pacientes com comprovada intolerância aos IBPs (diarreia, cefaleia, tontura ou história de nefrite intersticial aguda).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:16:42.064086 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 30
+          },
+          {
+            "id": "302f8f5d-3938-480b-83e4-e317dbe6c9ef",
+            "position": "4",
+            "body": "A endoscopia digestiva alta está indicada após dois meses de tratamento com inibidor de bomba de prótons.",
+            "sanitized_body": "A endoscopia digestiva alta está indicada após dois meses de tratamento com inibidor de bomba de prótons.",
+            "correct": true,
+            "created_at": "2020-09-16 00:09:00.977403 +0000 UTC",
+            "updated_at": "2020-11-15 02:11:25.635847 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA: Toda úlcera gástrica deve ter controle endoscópico após 6 a 8 semanas. A importância dessa conduta é para afastar completamente o diagnóstico diferencial de câncer gástrico, pois muitas vezes essas duas condições (úlcera benigna e maligna) têm aspectos semelhantes e a primeira análise histopatológica pode ser inconclusiva ou falso-negativa, devido à intensa inflamação. Após instituir o tratamento antiácido, recomenda-se repetir a EDA para avaliar a completa cicatrização da lesão e repetir as biópsias, se o aspecto persistir suspeito.",
+              "sanitized_complete": "CORRETA: Toda úlcera gástrica deve ter controle endoscópico após 6 a 8 semanas. A importância dessa conduta é para afastar completamente o diagnóstico diferencial de câncer gástrico, pois muitas vezes essas duas condições (úlcera benigna e maligna) têm aspectos semelhantes e a primeira análise histopatológica pode ser inconclusiva ou falso-negativa, devido à intensa inflamação. Após instituir o tratamento antiácido, recomenda-se repetir a EDA para avaliar a completa cicatrização da lesão e repetir as biópsias, se o aspecto persistir suspeito.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:16:42.056388 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 180
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 67 anos de idade apresenta, há dois meses, dor epigástrica em pontada, com intensidade 7 em 10, diária, que piora com a alimentação. Realizou endoscopia digestiva alta, que mostrou uma úlcera gástrica de 2 cm em parede posterior de corpo gástrico, A2 de Sakita, sem sinais de sangramento. A biópsia mostrou processo inflamatório crônico, com H. pylori negativo. Com base nessa situação hipotética, assinale a alternativa correta",
+        "statement_text": "Uma paciente de 67 anos de idade apresenta, há dois meses, dor epigástrica em pontada, com intensidade 7 em 10, diária, que piora com a alimentação. Realizou endoscopia digestiva alta, que mostrou uma úlcera gástrica de 2 cm em parede posterior de corpo gástrico, A2 de Sakita, sem sinais de sangramento. A biópsia mostrou processo inflamatório crônico, com H. pylori negativo. Com base nessa situação hipotética, assinale a alternativa correta",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "626146ad14e7af2c191e4e998f369ebe",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 13:59:35.802997 +0000 UTC",
+        "solution": {
+          "_key": "800fe734-858b-4311-bcf3-8d8a281379a3",
+          "complete": "<b>GABARITO: ALTERNATIVA E.</b><div><br></div><div>Temos um paciente com epigastralgia de forte intensidade que piora com a alimentação, sendo esta uma queixa que se associa muitas vezes à úlcera gástrica. Já a úlcera que dói mais durante o jejum está associada à úlcera duodenal. A endoscopia revelou uma úlcera gástrica A2 de Sakita, o que significa que é uma lesão ainda em franca atividade inflamatória. Veja a classificação de Sakita para as úlceras pépticas:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/71D60906-F6B6-7BA5-DDAF-2FC322A4C2C3/71D60906-F6B6-7BA5-DDAF-2FC322A4C2C3-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA E.Temos um paciente com epigastralgia de forte intensidade que piora com a alimentação, sendo esta uma queixa que se associa muitas vezes à úlcera gástrica. Já a úlcera que dói mais durante o jejum está associada à úlcera duodenal. A endoscopia revelou uma úlcera gástrica A2 de Sakita, o que significa que é uma lesão ainda em franca atividade inflamatória. Veja a classificação de Sakita para as úlceras pépticas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-10 18:16:42.1487 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000049101-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-67-anos-idade70d403c322",
+        "public": true
+      },
+      {
+        "id": "4000048054",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "974b6319-212c-44b7-8aee-d3781d6241ef",
+                "name": "MG - Casa de Caridade de Alfenas NSP Socorro - CCANSPS"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "EE2EFDF4-2775-B286-85B7-D0F16BE07F33"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 90,
+            "created_at": "2020-09-04T14:52:59Z",
+            "updated_at": "2020-09-05T12:32:54Z",
+            "location": {
+              "id": "12"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "d141efbe5db842d0a52867e9248758e3",
+            "name": "Doenças Associadas ao H. pylori",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Doenças Associadas ao H. pylori",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fcfd2b3e-5c65-45af-befc-87cb4a00acf4",
+            "position": "0",
+            "body": "A úlcera duodenal se associa a hipersecreção ácida e pangastrite atrófica",
+            "sanitized_body": "A úlcera duodenal se associa a hipersecreção ácida e pangastrite atrófica",
+            "correct": false,
+            "created_at": "2020-09-12 13:11:17.900707 +0000 UTC",
+            "updated_at": "2020-11-15 01:26:09.596852 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Lembre-se do seguinte, toda úlcera duodenal provocada pelo H. pylori está SEMPRE associada a hipercloridria. Normalmente isso ocorre na fase da gastrite antral pela bactéria, quando ocorre hiperplasia das glândulas pilóricas, com produção exagerada de gastrina, o que estimula as glândulas oxínticas a produzirem mais ácido. Já na fase da pangastrite atrófica não existe hipercloridria, pelo contrário, a produção de ácido está normal ou reduzida, devido à destruição das glândulas do corpo gástrico. Nessa fase é mais comum a presença de úlceras na pequena curvatura gástrica em vigência da perda da barreira de proteção da mucosa.",
+              "sanitized_complete": "INCORRETA: Lembre-se do seguinte, toda úlcera duodenal provocada pelo H. pylori está SEMPRE associada a hipercloridria. Normalmente isso ocorre na fase da gastrite antral pela bactéria, quando ocorre hiperplasia das glândulas pilóricas, com produção exagerada de gastrina, o que estimula as glândulas oxínticas a produzirem mais ácido. Já na fase da pangastrite atrófica não existe hipercloridria, pelo contrário, a produção de ácido está normal ou reduzida, devido à destruição das glândulas do corpo gástrico. Nessa fase é mais comum a presença de úlceras na pequena curvatura gástrica em vigência da perda da barreira de proteção da mucosa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:14:08.706468 +0000 UTC"
+            },
+            "answer_percentage": 47,
+            "answers": 227
+          },
+          {
+            "id": "6dff5c79-75a7-43c7-ad09-440f4c0875f8",
+            "position": "1",
+            "body": "O câncer gástrico se associa a acidez gástrica normal e gastrite predominantemente antral",
+            "sanitized_body": "O câncer gástrico se associa a acidez gástrica normal e gastrite predominantemente antral",
+            "correct": false,
+            "created_at": "2020-09-12 13:11:17.900707 +0000 UTC",
+            "updated_at": "2020-11-15 01:26:09.668799 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: O câncer gástrico relacionado ao H. pylori não ocorre na fase de gastrite antral, mas sim na pangastrite atrófica, ou seja, é aquele estômago bastante atrofiado que já evoluiu com metaplasia intestinal e displasias, como descrito pelo patologista Pelayo-Correa na sua clássica sequência de eventos, como você vê abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D3621BBD-BBEF-902A-9D36-C1F3EBA154F9/D3621BBD-BBEF-902A-9D36-C1F3EBA154F9-400.png\"></div>",
+              "sanitized_complete": "INCORRETA: O câncer gástrico relacionado ao H. pylori não ocorre na fase de gastrite antral, mas sim na pangastrite atrófica, ou seja, é aquele estômago bastante atrofiado que já evoluiu com metaplasia intestinal e displasias, como descrito pelo patologista Pelayo-Correa na sua clássica sequência de eventos, como você vê abaixo:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:14:08.707009 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 24
+          },
+          {
+            "id": "ed397581-c2c5-4d00-bd45-54d8a79e358f",
+            "position": "2",
+            "body": "A úlcera duodenal se associa a hipossecreção ácida e gastrite predominantemente antral",
+            "sanitized_body": "A úlcera duodenal se associa a hipossecreção ácida e gastrite predominantemente antral",
+            "correct": false,
+            "created_at": "2020-09-12 13:11:17.900707 +0000 UTC",
+            "updated_at": "2020-11-15 01:26:09.758104 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: A úlcera duodenal se associa a “HIPERsecreção” ácida que ocorre na gastrite predominantemente antral.",
+              "sanitized_complete": "INCORRETA: A úlcera duodenal se associa a “HIPERsecreção” ácida que ocorre na gastrite predominantemente antral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:14:08.696626 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 70
+          },
+          {
+            "id": "796aa7cb-f974-482b-ba33-7d6f5ea67aa7",
+            "position": "3",
+            "body": "O câncer gástrico se associa a hipossecreção ácida e pangastrite atrófica",
+            "sanitized_body": "O câncer gástrico se associa a hipossecreção ácida e pangastrite atrófica",
+            "correct": true,
+            "created_at": "2020-09-12 13:11:17.900707 +0000 UTC",
+            "updated_at": "2020-11-15 01:26:09.843201 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA</b>: Quando a bactéria se expande por todo o estômago, com o passar do tempo provoca atrofia de todo o epitélio, reduzindo a capacidade do órgão em produzir ácido (pangastrite atrófica com hipo ou acloridria). Nessa fase é que surge a metaplasia intestinal e, posteriormente, as displasias de baixo e alto grau, culminando com o adenocarcinoma gástrico (veja novamente a figura acima).",
+              "sanitized_complete": "CORRETA: Quando a bactéria se expande por todo o estômago, com o passar do tempo provoca atrofia de todo o epitélio, reduzindo a capacidade do órgão em produzir ácido (pangastrite atrófica com hipo ou acloridria). Nessa fase é que surge a metaplasia intestinal e, posteriormente, as displasias de baixo e alto grau, culminando com o adenocarcinoma gástrico (veja novamente a figura acima).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 18:14:08.685871 +0000 UTC"
+            },
+            "answer_percentage": 34,
+            "answers": 162
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A infecção gástrica pelo H. pylori induz alterações na secreção gástrica de ácido e na mucosa gástrica que se relacionam a diferentes desfechos clínicos. Dessa forma:",
+        "statement_text": "A infecção gástrica pelo H. pylori induz alterações na secreção gástrica de ácido e na mucosa gástrica que se relacionam a diferentes desfechos clínicos. Dessa forma:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "a630177199f89622211b6046e6b33a89",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 13:11:17.900707 +0000 UTC",
+        "solution": {
+          "_key": "d2a19d37-b115-4af8-a7cb-4f31f2f87b9a",
+          "complete": "<b>GABARITO: ALTERNATIVA D.</b><div><br></div><div>A infecção pelo Helicobacter pylori pode ser totalmente assintomática e sem repercussões, ou conduzir a alterações que vão desde uma gastrite superficial até o câncer gástrico. A questão aborda justamente essa ampla gama de alterações provocadas pela bactéria, pedindo que o candidato identifique a informação correta. Vamos discutir as alternativas, enquanto aprofundamos um pouco mais no assunto:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA D.A infecção pelo Helicobacter pylori pode ser totalmente assintomática e sem repercussões, ou conduzir a alterações que vão desde uma gastrite superficial até o câncer gástrico. A questão aborda justamente essa ampla gama de alterações provocadas pela bactéria, pedindo que o candidato identifique a informação correta. Vamos discutir as alternativas, enquanto aprofundamos um pouco mais no assunto:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-10 18:14:08.809278 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000048054-720.mp4",
+        "unlisted": false,
+        "slug": "infecca-gastrica-pelo26f3edb3fa",
+        "public": true
+      },
+      {
+        "id": "4000024823",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6eea706a-42c1-4b98-aeae-dde61a733cae",
+                "name": "GO - Secretaria de Estado da Saúde de Goiás - SES GO"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "459A929C-1F06-0A49-AA8F-C31F71D92056"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T20:53:29Z",
+            "location": {
+              "id": "10"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "31a084bf0fdd44aea3684101171883cc",
+            "name": "Diagnóstico e Controle de Cura",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d51fbdb2d1c94180b4c4f0750cb27b8c",
+            "name": "Análise Histopatológica",
+            "is_master": false,
+            "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Análise Histopatológica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fa741df7d74a4009ad28d6444cbd0883",
+            "name": "Teste Rápido da Urease",
+            "is_master": false,
+            "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a930017b-e00f-4242-aa7a-30c2cbee4d53",
+            "position": "0",
+            "body": "o teste rápido da urease é recomendado para controle de terapia de erradicação.&nbsp;",
+            "sanitized_body": "o teste rápido da urease é recomendado para controle de terapia de erradicação. ",
+            "correct": false,
+            "created_at": "2020-09-10 21:17:33.592587 +0000 UTC",
+            "updated_at": "2020-11-23 13:47:34.752304 +0000 UTC",
+            "topics": [
+              {
+                "id": "fa741df7d74a4009ad28d6444cbd0883",
+                "name": "Teste Rápido da Urease",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;O teste rápido da urease&nbsp;consiste em retirar um fragmento da mucosa gástrica e colocá-lo em um pequeno frasco contendo ureia e um indicador de pH chamado \"vermelho de fenol\". Caso a bactéria esteja presente neste fragmento, ela produz a enzima urease que irá converter a ureia em amônia e bicarbonato, mudando o pH do meio, gerando uma mudança de coloração (que passa de amarela para rosa ou violeta). Este teste é recomendado na triagem da infecção, mas NÃO É RECOMENDADO NO CONTROLE DE CURA, pois tem uma sensibilidade diagnóstica baixa, especialmente após o uso de antibióticos.",
+              "sanitized_complete": "INCORRETA: O teste rápido da urease consiste em retirar um fragmento da mucosa gástrica e colocá-lo em um pequeno frasco contendo ureia e um indicador de pH chamado &#34;vermelho de fenol&#34;. Caso a bactéria esteja presente neste fragmento, ela produz a enzima urease que irá converter a ureia em amônia e bicarbonato, mudando o pH do meio, gerando uma mudança de coloração (que passa de amarela para rosa ou violeta). Este teste é recomendado na triagem da infecção, mas NÃO É RECOMENDADO NO CONTROLE DE CURA, pois tem uma sensibilidade diagnóstica baixa, especialmente após o uso de antibióticos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:32:01.680709 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 31
+          },
+          {
+            "id": "9cceca47-a8ca-4c13-956d-357a920bf8ed",
+            "position": "1",
+            "body": "o exame histológico é o método padrão-ouro para diagnóstico da infecção.&nbsp;",
+            "sanitized_body": "o exame histológico é o método padrão-ouro para diagnóstico da infecção. ",
+            "correct": false,
+            "created_at": "2020-09-10 21:17:33.592587 +0000 UTC",
+            "updated_at": "2020-11-23 13:47:34.829351 +0000 UTC",
+            "topics": [
+              {
+                "id": "d51fbdb2d1c94180b4c4f0750cb27b8c",
+                "name": "Análise Histopatológica",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Análise Histopatológica",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>CORRETA</b>:&nbsp;Apesar de ser considerada&nbsp;errada pelo gabarito oficial, veja exatamente o que diz o IV Consenso Brasileiro sobre HP sobre a histologia:<div><br></div><div>\"Histology is considered the&nbsp;<b>gold</b> <b>standard</b>&nbsp;method for detecting HP infection and allows evaluation of morphological changes in the gastric mucosa\".</div><div><br></div><div>Em outro ponto deste tópico, é referido que o&nbsp;\"teste respiratório com ureia marcada com Carbono 13 é o método padrão-ouro&nbsp;<b>NÃO</b> <b>INVASIVO</b>&nbsp;para o diagnóstico de HP\".&nbsp;Ou seja,&nbsp;<b>ENTRE OS MÉTODOS NÃO INVASIVOS</b>, deve ser escolhido o teste respiratório. Pode ser que o autor da questão tenha se confundido nesse tópico, mas você não pode se confundir. Então, resumindo:</div><div><br></div><div>HISTOLOGIA é método&nbsp;<b>padrão-ouro</b>&nbsp;para o diagnóstico de HP.</div><div><br></div><div>Entre os testes NÃO-INVASIVOS, o Teste Respiratório com&nbsp;C13-Ureia é o padrão, sendo também o método de escolha para o controle de cura (por ser menos invasivo).</div>",
+              "sanitized_complete": "CORRETA: Apesar de ser considerada errada pelo gabarito oficial, veja exatamente o que diz o IV Consenso Brasileiro sobre HP sobre a histologia:&#34;Histology is considered the gold standard method for detecting HP infection and allows evaluation of morphological changes in the gastric mucosa&#34;.Em outro ponto deste tópico, é referido que o &#34;teste respiratório com ureia marcada com Carbono 13 é o método padrão-ouro NÃO INVASIVO para o diagnóstico de HP&#34;. Ou seja, ENTRE OS MÉTODOS NÃO INVASIVOS, deve ser escolhido o teste respiratório. Pode ser que o autor da questão tenha se confundido nesse tópico, mas você não pode se confundir. Então, resumindo:HISTOLOGIA é método padrão-ouro para o diagnóstico de HP.Entre os testes NÃO-INVASIVOS, o Teste Respiratório com C13-Ureia é o padrão, sendo também o método de escolha para o controle de cura (por ser menos invasivo).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:32:01.679243 +0000 UTC"
+            },
+            "answer_percentage": 34,
+            "answers": 124
+          },
+          {
+            "id": "7dd04eb9-34d6-4dc3-abce-61ee30b9a6ca",
+            "position": "2",
+            "body": "a triagem do HP após a terapia de erradicação deve ser realizada pelo menos quatro semanas após o término do tratamento.&nbsp;",
+            "sanitized_body": "a triagem do HP após a terapia de erradicação deve ser realizada pelo menos quatro semanas após o término do tratamento. ",
+            "correct": true,
+            "created_at": "2020-09-10 21:17:33.592587 +0000 UTC",
+            "updated_at": "2020-11-23 13:47:34.90668 +0000 UTC",
+            "topics": [
+              {
+                "id": "31a084bf0fdd44aea3684101171883cc",
+                "name": "Diagnóstico e Controle de Cura",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>CORRETA</b>:&nbsp;O controle de cura (ou controle da terapia de erradicação) deve ser feito, no mínimo, após 4 semanas do tratamento. Isso acontece porque os métodos realizados pouco tempo após a terapia antibiótica podem ser falsos (falso negativo). Consensos internacionais, inclusive, recomendam esperar mais tempo para o controle de cura (no mínimo 6 semanas).",
+              "sanitized_complete": "CORRETA: O controle de cura (ou controle da terapia de erradicação) deve ser feito, no mínimo, após 4 semanas do tratamento. Isso acontece porque os métodos realizados pouco tempo após a terapia antibiótica podem ser falsos (falso negativo). Consensos internacionais, inclusive, recomendam esperar mais tempo para o controle de cura (no mínimo 6 semanas).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:32:01.680451 +0000 UTC"
+            },
+            "answer_percentage": 56,
+            "answers": 205
+          },
+          {
+            "id": "8feae136-41af-4f7e-b632-6c5e763c84e7",
+            "position": "3",
+            "body": "a realização de cultura com antibiograma antes do início do tratamento é recomendada devido à crescente resistência bacteriana.",
+            "sanitized_body": "a realização de cultura com antibiograma antes do início do tratamento é recomendada devido à crescente resistência bacteriana.",
+            "correct": false,
+            "created_at": "2020-09-10 21:17:33.592587 +0000 UTC",
+            "updated_at": "2020-11-23 13:47:34.990259 +0000 UTC",
+            "topics": [
+              {
+                "id": "31a084bf0fdd44aea3684101171883cc",
+                "name": "Diagnóstico e Controle de Cura",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Os testes moleculares resistência e/ou cultura com antibiograma só estão indicados após segunda ou terceira falha de tratamento. Entretanto, esses métodos estão indisponíveis em nosso meio, tornando essa recomendação sem correlação prática.",
+              "sanitized_complete": "INCORRETA: Os testes moleculares resistência e/ou cultura com antibiograma só estão indicados após segunda ou terceira falha de tratamento. Entretanto, esses métodos estão indisponíveis em nosso meio, tornando essa recomendação sem correlação prática.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:32:01.675502 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 9
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A infecção por Helicobacter pylori (HP) é uma das infecções bacterianas crônicas mais comuns em humanos. De acordo com o IV Consenso Brasileiro sobre o HP,",
+        "statement_text": "A infecção por Helicobacter pylori (HP) é uma das infecções bacterianas crônicas mais comuns em humanos. De acordo com o IV Consenso Brasileiro sobre o HP,",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "b76ece5110b9082b82304d29e92e5837",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 21:17:33.592587 +0000 UTC",
+        "solution": {
+          "_key": "239f091f-9b1f-4d85-b705-b9f7c9df11d8",
+          "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div><b>*ATENÇÃO*</b></div><div><br></div><div><b>NÃO CONCORDAMOS COM O GABARITO OFICIAL DESTA QUESTÃO</b></div><div><br></div><div><b>Gabarito oficial dá como certa a alternativa C, mas pela nossa análise ESTÃO&nbsp;<u>CORRETAS AS ALTERNATIVAS&nbsp;\"B\"&nbsp;e&nbsp;\"C\".</u></b></div><div><br></div><div>O tratamento do H. pylori deve ser individualizado regionalmente, uma vez que essa bactéria já tem importante perfil de resistência bacteriana, que varia conforme a região ou país. Nesse caso, devemos nos orientar pelo IV Consenso Brasileiro do Tratamento do Helicobacter pylori (publicado em 2018), que&nbsp;adapta os esquemas de tratamento à nossa realidade. A questão levanta conceitos importantes sobre o diagnóstico dessa bactéria e iremos discuti-los em cada alternativa:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C.*ATENÇÃO*NÃO CONCORDAMOS COM O GABARITO OFICIAL DESTA QUESTÃOGabarito oficial dá como certa a alternativa C, mas pela nossa análise ESTÃO CORRETAS AS ALTERNATIVAS &#34;B&#34; e &#34;C&#34;.O tratamento do H. pylori deve ser individualizado regionalmente, uma vez que essa bactéria já tem importante perfil de resistência bacteriana, que varia conforme a região ou país. Nesse caso, devemos nos orientar pelo IV Consenso Brasileiro do Tratamento do Helicobacter pylori (publicado em 2018), que adapta os esquemas de tratamento à nossa realidade. A questão levanta conceitos importantes sobre o diagnóstico dessa bactéria e iremos discuti-los em cada alternativa:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 17:32:01.814139 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000024823-720.mp4",
+        "unlisted": false,
+        "slug": "infecca-por268073609f",
+        "public": true
+      },
+      {
+        "id": "4000020185",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "a75a97e4-7d63-4eb0-82e3-9083b50d7aa9",
+                "name": "ES - Hospital Estadual Dr Jayme dos Santos Neves - HEJSN"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "68FACF57-C582-2123-16AC-06A1997AF55D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:32:05Z",
+            "updated_at": "2020-09-12T14:09:14Z",
+            "location": {
+              "id": "9"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "59572d8af74649d3afe58ae05eefc1d0",
+            "name": "Ligadura Elástica Endoscópica",
+            "is_master": false,
+            "master_id": "d923b93aeeb4410bb51ca187b5e9361e",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Varicosa - HDA Varicosa[$$]Condução Clínica[$$]Tratamento Endoscópico das Varizes[$$]Ligadura Elástica Endoscópica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6f4896e9730642e8beccdc3aa7f085c8",
+            "name": "Hemorragia Digestiva",
+            "is_master": false,
+            "master_id": "8f7503d43a014bbdba8f64efbd7e5279",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Doença Ulcerosa Péptica (DUP)[$$]Complicações[$$]Hemorragia Digestiva",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "86c02c88542a4914b15d573c6b0ba11d",
+            "name": "Profilaxia Antibiótica",
+            "is_master": false,
+            "master_id": "d614c0c0a73e4e4ebcecb93a8ce6fc93",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Varicosa - HDA Varicosa[$$]Condução Clínica[$$]Abordagem Inicial[$$]Terapia Farmacológica[$$]Profilaxia Antibiótica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "a10b290840594e1ba3db5aa813374d37",
+            "name": "Condução Clínica",
+            "is_master": false,
+            "master_id": "ff70e84901954fed90af5e00fb0d634c",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Não Varicosa - HDA Nâo Varicosa[$$]Condução Clínica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d141efbe5db842d0a52867e9248758e3",
+            "name": "Doenças Associadas ao H. pylori",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Doenças Associadas ao H. pylori",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "81d070d9-d2e6-4a46-a967-844c279f5920",
+            "position": "0",
+            "body": "A doença ulcerosa péptica é a maior causa de hemorragia digestiva alta.",
+            "sanitized_body": "A doença ulcerosa péptica é a maior causa de hemorragia digestiva alta.",
+            "correct": false,
+            "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+            "updated_at": "2020-11-17 09:42:11.691891 +0000 UTC",
+            "topics": [
+              {
+                "id": "6f4896e9730642e8beccdc3aa7f085c8",
+                "name": "Hemorragia Digestiva",
+                "is_master": false,
+                "master_id": "8f7503d43a014bbdba8f64efbd7e5279",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Doença Ulcerosa Péptica (DUP)[$$]Complicações[$$]Hemorragia Digestiva",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA: A úlcera péptica é a principal causa de HDA, tanto que em todo paciente que chega à unidade de emergência com hematêmese ou melena, especialmente se tiver instabilidade hemodinâmica, você deve suspeitar dessa causa. A não ser que a questão te forneça evidências de outras etiologias, como estigmas de cirrose hepática para pensar em varizes, ou história de vômitos incoercíveis, para pensar na síndrome de Mallory-Weiss.",
+              "sanitized_complete": "CORRETA: A úlcera péptica é a principal causa de HDA, tanto que em todo paciente que chega à unidade de emergência com hematêmese ou melena, especialmente se tiver instabilidade hemodinâmica, você deve suspeitar dessa causa. A não ser que a questão te forneça evidências de outras etiologias, como estigmas de cirrose hepática para pensar em varizes, ou história de vômitos incoercíveis, para pensar na síndrome de Mallory-Weiss.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:24:37.569833 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 23
+          },
+          {
+            "id": "366a19a4-723b-4b27-8e07-7bc8c4502e89",
+            "position": "1",
+            "body": "O H. pylori é associado com recorrência de sangramento em pacientes com úlcera duodenal.",
+            "sanitized_body": "O H. pylori é associado com recorrência de sangramento em pacientes com úlcera duodenal.",
+            "correct": false,
+            "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+            "updated_at": "2020-11-17 09:42:11.79432 +0000 UTC",
+            "topics": [
+              {
+                "id": "d141efbe5db842d0a52867e9248758e3",
+                "name": "Doenças Associadas ao H. pylori",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Doenças Associadas ao H. pylori",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA: 90% das úlceras duodenais têm como causa a infecção crônica pelo H. pylori, de forma que o tratamento dessa bactéria praticamente elimina o risco de recorrência dessa úlcera. Antigamente, antes da descoberta e do tratamento dessa bactéria, a úlcera duodenal era uma doença crônica e recorrente, complicando com frequência com sangramento, estenose e/ou perfuração.",
+              "sanitized_complete": "CORRETA: 90% das úlceras duodenais têm como causa a infecção crônica pelo H. pylori, de forma que o tratamento dessa bactéria praticamente elimina o risco de recorrência dessa úlcera. Antigamente, antes da descoberta e do tratamento dessa bactéria, a úlcera duodenal era uma doença crônica e recorrente, complicando com frequência com sangramento, estenose e/ou perfuração.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:24:37.567984 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 45
+          },
+          {
+            "id": "5932315b-138e-4c20-b06b-115a6f778459",
+            "position": "2",
+            "body": "<div>A passagem de sonda nasogástrica é recomendada na maioria dos casos.</div>",
+            "sanitized_body": "A passagem de sonda nasogástrica é recomendada na maioria dos casos.",
+            "correct": true,
+            "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+            "updated_at": "2020-11-17 09:42:11.900289 +0000 UTC",
+            "topics": [
+              {
+                "id": "a10b290840594e1ba3db5aa813374d37",
+                "name": "Condução Clínica",
+                "is_master": false,
+                "master_id": "ff70e84901954fed90af5e00fb0d634c",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Não Varicosa - HDA Nâo Varicosa[$$]Condução Clínica",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>INCORRETA</b>: Hoje em dia raramente se recomenda a passagem de sonda nasogástrica no contexto da hemorragia digestiva alta. Isso porque a sonda não tem utilidade nem diagnóstica, nem terapêutica, pois é comum essa sonda obstruir e não identificar a saída de coágulos, da mesma forma que pode traumatizar a lesão responsável pelo sangramento (ou deslocar o coágulo) e precipitar um novo evento hemorrágico.",
+              "sanitized_complete": "INCORRETA: Hoje em dia raramente se recomenda a passagem de sonda nasogástrica no contexto da hemorragia digestiva alta. Isso porque a sonda não tem utilidade nem diagnóstica, nem terapêutica, pois é comum essa sonda obstruir e não identificar a saída de coágulos, da mesma forma que pode traumatizar a lesão responsável pelo sangramento (ou deslocar o coágulo) e precipitar um novo evento hemorrágico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:24:37.560741 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 274
+          },
+          {
+            "id": "884f6885-4c91-4e82-82ba-e9e70ed6a516",
+            "position": "3",
+            "body": "A profilaxia de peritonite bacteriana espontânea é recomendada em todos os pacientes com hemorragias digestivas altas varicosas.",
+            "sanitized_body": "A profilaxia de peritonite bacteriana espontânea é recomendada em todos os pacientes com hemorragias digestivas altas varicosas.",
+            "correct": false,
+            "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+            "updated_at": "2020-11-17 09:42:12.059353 +0000 UTC",
+            "topics": [
+              {
+                "id": "86c02c88542a4914b15d573c6b0ba11d",
+                "name": "Profilaxia Antibiótica",
+                "is_master": false,
+                "master_id": "d614c0c0a73e4e4ebcecb93a8ce6fc93",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Varicosa - HDA Varicosa[$$]Condução Clínica[$$]Abordagem Inicial[$$]Terapia Farmacológica[$$]Profilaxia Antibiótica",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA: A profilaxia antibiótica nos pacientes cirróticos que apresentam HDA tem dois objetivos: 1 – Em pacientes com ascite, previne a translocação bacteriana para o líquido ascítico e surgimento de peritonite bacteriana espontânea (PBE); 2 – Reduz a bacteremia provocada pelo sangue no tubo digestivo, o que se associa a vasodilatação esplênica e mesentérica, piorando a hipertensão portal.",
+              "sanitized_complete": "CORRETA: A profilaxia antibiótica nos pacientes cirróticos que apresentam HDA tem dois objetivos: 1 – Em pacientes com ascite, previne a translocação bacteriana para o líquido ascítico e surgimento de peritonite bacteriana espontânea (PBE); 2 – Reduz a bacteremia provocada pelo sangue no tubo digestivo, o que se associa a vasodilatação esplênica e mesentérica, piorando a hipertensão portal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:24:37.585348 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 33
+          },
+          {
+            "id": "426c0e41-19bc-4647-b609-25eba5111402",
+            "position": "4",
+            "body": "<div>A eficácia da ligadura é maior que a escleroterapia para pacientes com hemorragia varicosa aguda.</div>",
+            "sanitized_body": "A eficácia da ligadura é maior que a escleroterapia para pacientes com hemorragia varicosa aguda.",
+            "correct": false,
+            "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+            "updated_at": "2020-11-17 09:42:12.211629 +0000 UTC",
+            "topics": [
+              {
+                "id": "59572d8af74649d3afe58ae05eefc1d0",
+                "name": "Ligadura Elástica Endoscópica",
+                "is_master": false,
+                "master_id": "d923b93aeeb4410bb51ca187b5e9361e",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Hemorragia Digestiva (HD)[$$]Hemorragia Digestiva Alta Varicosa - HDA Varicosa[$$]Condução Clínica[$$]Tratamento Endoscópico das Varizes[$$]Ligadura Elástica Endoscópica",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "CORRETA: Escleroterapia e ligadura elástica são duas técnicas endoscópicas para tratar as varizes de esôfago, ou seja, vasos dilatados que surgem no esôfago em pacientes com cirrose hepática ou hipertensão portal por outras etiologias (CA de pâncreas, trombose portal segmentar). A escleroterapia consiste na injeção direta de substância esclerosante no vaso, enquanto ligadura elástica é feita através da aspiração do vaso, sendo disparado um elástico na sua base, como você vê na ilustração abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D5236810-A764-937F-5284-8D828B507AE8/D5236810-A764-937F-5284-8D828B507AE8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A ligadura elástica tem vantagens sobre a escleroterapia por apresentar bem menos efeitos colaterais, como dor torácica, mediastinite e sangramento pós punção.</div>",
+              "sanitized_complete": "CORRETA: Escleroterapia e ligadura elástica são duas técnicas endoscópicas para tratar as varizes de esôfago, ou seja, vasos dilatados que surgem no esôfago em pacientes com cirrose hepática ou hipertensão portal por outras etiologias (CA de pâncreas, trombose portal segmentar). A escleroterapia consiste na injeção direta de substância esclerosante no vaso, enquanto ligadura elástica é feita através da aspiração do vaso, sendo disparado um elástico na sua base, como você vê na ilustração abaixo:A ligadura elástica tem vantagens sobre a escleroterapia por apresentar bem menos efeitos colaterais, como dor torácica, mediastinite e sangramento pós punção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:24:37.573326 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 36
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "No tocante às hemorragias digestivas altas, assinale a INCORRETA:",
+        "statement_text": "No tocante às hemorragias digestivas altas, assinale a INCORRETA:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "095a483fdca442525df9a48922304567",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 17:25:37.867156 +0000 UTC",
+        "solution": {
+          "_key": "b796d797-8c16-40d3-9f12-06c5705a1b24",
+          "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div>Hemorragia digestiva alta (HDA) é todo sangramento originado do tubo digestivo alto, acima do ângulo de Treitz (um ligamento que separa o duodeno do jejuno). A imensa maioria desses sangramentos é causado pela <b>doença ulcerosa péptica</b>, que representa entre 60 a 70% dos casos, seguida pela hemorragia varicosa (rotura de varizes de esôfago) em até 15% das vezes. A questão nos apresenta algumas assertivas sobre esse assunto, pedindo que o candidato selecione a informação que está INCORRETA:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C.Hemorragia digestiva alta (HDA) é todo sangramento originado do tubo digestivo alto, acima do ângulo de Treitz (um ligamento que separa o duodeno do jejuno). A imensa maioria desses sangramentos é causado pela doença ulcerosa péptica, que representa entre 60 a 70% dos casos, seguida pela hemorragia varicosa (rotura de varizes de esôfago) em até 15% das vezes. A questão nos apresenta algumas assertivas sobre esse assunto, pedindo que o candidato selecione a informação que está INCORRETA:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-12 19:24:37.711804 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000020185-720.mp4",
+        "unlisted": false,
+        "slug": "tocante-as-hemorragias95d71c400",
+        "public": true
+      },
+      {
+        "id": "4000015399",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "82ec400a-c0cf-42cc-899f-04e6ccd71364",
+                "name": "ES - Hospital Evangélico de Vila Velha - HEVV"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "38BC850A-D249-52BC-17BA-E711A8D10862"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 90,
+            "created_at": "2020-09-04T18:00:25Z",
+            "location": {
+              "id": "105"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e421884a7666430a92afe8ee5d744608",
+            "name": "Esquemas de Tratamento",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Esquemas de Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "642c2c9c-7378-4f50-9c98-228c3af97692",
+            "position": "0",
+            "body": "Agente antissecretor, omeprazol e claritromicina.",
+            "sanitized_body": "Agente antissecretor, omeprazol e claritromicina.",
+            "correct": false,
+            "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+            "updated_at": "2020-11-17 08:36:41.024403 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Qualquer esquema de tratamento do H. pylori deve conterá a combinação de, pelo menos, dois antibióticos eficazes contra essa bactéria. Preferencialmente, não podem ser antibióticos que estejam sofrendo alta resistência bacteriana, como Metronidazol e Claritromicina (evite-os num mesmo esquema).",
+              "sanitized_complete": "INCORRETA: Qualquer esquema de tratamento do H. pylori deve conterá a combinação de, pelo menos, dois antibióticos eficazes contra essa bactéria. Preferencialmente, não podem ser antibióticos que estejam sofrendo alta resistência bacteriana, como Metronidazol e Claritromicina (evite-os num mesmo esquema).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 20:45:01.329453 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "ae88bdb3-2534-4b53-b5d6-f210034ee2f8",
+            "position": "1",
+            "body": "Inibidor da bomba de prótons, eritromicina e amoxicilina.",
+            "sanitized_body": "Inibidor da bomba de prótons, eritromicina e amoxicilina.",
+            "correct": false,
+            "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+            "updated_at": "2020-11-17 08:36:41.117187 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: A eritromicina não se mostrou eficaz contra o H. pylori.",
+              "sanitized_complete": "INCORRETA: A eritromicina não se mostrou eficaz contra o H. pylori.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 20:45:01.305969 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 6
+          },
+          {
+            "id": "f1af32ab-b7dc-4ccb-9da5-8a62f30311f0",
+            "position": "2",
+            "body": "Inibidor da bomba de prótons, amoxicilina e claritromicina.",
+            "sanitized_body": "Inibidor da bomba de prótons, amoxicilina e claritromicina.",
+            "correct": true,
+            "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+            "updated_at": "2020-11-17 08:36:41.207789 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA</b>: A combinação de um IBP com a claritromicina e a amoxicilina por 14 dias é a melhor opção terapêutica, sendo considerada primeira linha de tratamento.",
+              "sanitized_complete": "CORRETA: A combinação de um IBP com a claritromicina e a amoxicilina por 14 dias é a melhor opção terapêutica, sendo considerada primeira linha de tratamento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 20:45:01.312075 +0000 UTC"
+            },
+            "answer_percentage": 97,
+            "answers": 320
+          },
+          {
+            "id": "56041523-0fa5-4df0-83f4-55d278478f90",
+            "position": "3",
+            "body": "Antagonistas do receptor H2 de histamina, claritromicina e amoxicilina.",
+            "sanitized_body": "Antagonistas do receptor H2 de histamina, claritromicina e amoxicilina.",
+            "correct": false,
+            "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+            "updated_at": "2020-11-17 08:36:41.313414 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Os antagonistas do receptor H2 (ranitidina) não devem ser usados em esquema para tratar o H. pylori, pois não tem atividade bacteriostática contra essa bactéria. Os IBPs apresentam esse efeito.",
+              "sanitized_complete": "INCORRETA: Os antagonistas do receptor H2 (ranitidina) não devem ser usados em esquema para tratar o H. pylori, pois não tem atividade bacteriostática contra essa bactéria. Os IBPs apresentam esse efeito.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 20:45:01.310121 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          },
+          {
+            "id": "8d900e41-0c27-412f-91e3-daaea2e5556c",
+            "position": "4",
+            "body": "Manter antiácidos e iniciar inibidor de bomba de prótons.",
+            "sanitized_body": "Manter antiácidos e iniciar inibidor de bomba de prótons.",
+            "correct": false,
+            "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+            "updated_at": "2020-11-17 08:36:41.410543 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA: Deve ser feito esquema antibiótico para erradicar essa bactéria, obrigatoriamente.",
+              "sanitized_complete": "INCORRETA: Deve ser feito esquema antibiótico para erradicar essa bactéria, obrigatoriamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-10-10 20:45:01.315266 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 41 anos de idade, com queixa de dor epigástrica em queimação de longa data relacionada à ingesta de alimentos condimentados, retorna em consulta ambulatorial tendo como resultado de endoscopia digestiva alta o diagnóstico de úlcera duodenal e pesquisa de H. pylori positivo. Relatava uso esporádico de antiácidos, mas com pouca melhora da dor. Nega uso de Anti-inflamatórios não Esteroidais (AINES). Qual a associação de medicamentos com melhor nível de evidência científica para o tratamento desse caso?",
+        "statement_text": "Uma paciente de 41 anos de idade, com queixa de dor epigástrica em queimação de longa data relacionada à ingesta de alimentos condimentados, retorna em consulta ambulatorial tendo como resultado de endoscopia digestiva alta o diagnóstico de úlcera duodenal e pesquisa de H. pylori positivo. Relatava uso esporádico de antiácidos, mas com pouca melhora da dor. Nega uso de Anti-inflamatórios não Esteroidais (AINES). Qual a associação de medicamentos com melhor nível de evidência científica para o tratamento desse caso?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "760a492a281b55923b89316dee962602",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 13:07:31.013415 +0000 UTC",
+        "solution": {
+          "_key": "8422d9f8-4707-432c-a431-250550d87947",
+          "complete": "<b>GABARITO: ALTERNATIVA C.</b><div><br></div><div>Temos uma paciente com mais de 40 anos com epigastralgia de longa data, referindo ser refratária ao uso de antiácidos (não sabemos exatamente quais). Por estar nessa faixa etária, é realmente adequada a investigação do quadro com endoscopia digestiva alta (EDA), tendo sido observada uma úlcera duodenal (possível causa da dor), associada à infecção pela bactéria Helicobacter pylori. Vamos nos lembrar, sempre que o H. pylori se associa à doença ulcerosa péptica, ao linfoma MALT e ao adenocarcinoma gástrico, sua erradicação tem indicação absoluta (obrigatória). No caso da úlcera, isso vai garantir que não haja recorrência.</div><div><br></div><div>Nesse caso, a questão pergunta sobre a primeira linha de tratamento para erradicação dessa bactéria. Vamos aproveitar para rever os principais esquemas usados para tratar o H. pylori, nas diversas situações clínicas. Veja a tabela abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9FA14D60-CF9D-2541-D858-C642857F204B/9FA14D60-CF9D-2541-D858-C642857F204B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0602CD2C-4D2F-2493-8BE4-D5E839E16762/0602CD2C-4D2F-2493-8BE4-D5E839E16762-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Após rever esse quadro, podemos finalmente escolher a resposta correta:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C.Temos uma paciente com mais de 40 anos com epigastralgia de longa data, referindo ser refratária ao uso de antiácidos (não sabemos exatamente quais). Por estar nessa faixa etária, é realmente adequada a investigação do quadro com endoscopia digestiva alta (EDA), tendo sido observada uma úlcera duodenal (possível causa da dor), associada à infecção pela bactéria Helicobacter pylori. Vamos nos lembrar, sempre que o H. pylori se associa à doença ulcerosa péptica, ao linfoma MALT e ao adenocarcinoma gástrico, sua erradicação tem indicação absoluta (obrigatória). No caso da úlcera, isso vai garantir que não haja recorrência.Nesse caso, a questão pergunta sobre a primeira linha de tratamento para erradicação dessa bactéria. Vamos aproveitar para rever os principais esquemas usados para tratar o H. pylori, nas diversas situações clínicas. Veja a tabela abaixo:Após rever esse quadro, podemos finalmente escolher a resposta correta:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-10 20:45:01.42621 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "paciente-41-anos-idade790201d8eb",
+        "public": true
+      },
+      {
+        "id": "4000010116",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "b98bc37c-a217-4793-b556-5d87ec4b11e3",
+                "name": "AL - Universidade Federal de Alagoas - UFAL (Hospital Universitário Professor Alberto Antunes)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4F7900CD-EB96-EDE9-63AA-C0886A60FF4A"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-03T20:15:35Z",
+            "updated_at": "2020-11-25T18:39:34Z",
+            "location": {
+              "id": "3"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "366cfd55cd7844ac81f129bcf497301e",
+            "name": "Epidemiologia",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Epidemiologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+            "name": "Indicações de Pesquisa e Tratamento",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "eedd1a934ab24226a67ec245c06037e9",
+            "name": "Pesquisa do Antígeno Fecal",
+            "is_master": false,
+            "master_id": "aa48d70ebc48422cad7009dee481399f",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Pesquisa do Antígeno Fecal",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fa741df7d74a4009ad28d6444cbd0883",
+            "name": "Teste Rápido da Urease",
+            "is_master": false,
+            "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3d1a02cb-606a-4081-abfa-f6cae938471d",
+            "position": "0",
+            "body": "A fase adulta é considerada o período de maior risco para aquisição de H. pylori.",
+            "sanitized_body": "A fase adulta é considerada o período de maior risco para aquisição de H. pylori.",
+            "correct": false,
+            "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+            "updated_at": "2020-11-23 14:06:15.699291 +0000 UTC",
+            "topics": [
+              {
+                "id": "366cfd55cd7844ac81f129bcf497301e",
+                "name": "Epidemiologia",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Epidemiologia",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;A fase considerada mais propícia para adquirir o H. pylori é a infância, especialmente em áreas com baixas condições socioeconômicas. As crianças têm menor preocupação com hábitos de higiene e se expõe constantemente a grandes aglomerações, como creches e&nbsp; atividades em grupo.",
+              "sanitized_complete": "INCORRETA: A fase considerada mais propícia para adquirir o H. pylori é a infância, especialmente em áreas com baixas condições socioeconômicas. As crianças têm menor preocupação com hábitos de higiene e se expõe constantemente a grandes aglomerações, como creches e  atividades em grupo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:36:02.684761 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 26
+          },
+          {
+            "id": "bbba11d1-6a96-4e9c-99e4-17dc46ae4ba2",
+            "position": "1",
+            "body": "Os seres humanos são o único reservatório e principal fonte de transmissão de H. pylori.",
+            "sanitized_body": "Os seres humanos são o único reservatório e principal fonte de transmissão de H. pylori.",
+            "correct": true,
+            "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+            "updated_at": "2020-11-23 14:06:15.7735 +0000 UTC",
+            "topics": [
+              {
+                "id": "366cfd55cd7844ac81f129bcf497301e",
+                "name": "Epidemiologia",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Epidemiologia",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>CORRETA</b>:&nbsp;Porque&nbsp;o ciclo vital da bactéria só tem o ser humano como hospedeiro, sendo a transmissão feita por via oral (água e alimentos contaminados).",
+              "sanitized_complete": "CORRETA: Porque o ciclo vital da bactéria só tem o ser humano como hospedeiro, sendo a transmissão feita por via oral (água e alimentos contaminados).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:36:02.698402 +0000 UTC"
+            },
+            "answer_percentage": 50,
+            "answers": 171
+          },
+          {
+            "id": "93d7bfb3-bb45-45ba-b7c4-134dbbae7dda",
+            "position": "2",
+            "body": "A pesquisa de H. pylori após a terapia de erradicação deverá ser realizada pelo menos 12 semanas após o término do tratamento.",
+            "sanitized_body": "A pesquisa de H. pylori após a terapia de erradicação deverá ser realizada pelo menos 12 semanas após o término do tratamento.",
+            "correct": false,
+            "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+            "updated_at": "2020-11-23 14:06:15.847251 +0000 UTC",
+            "topics": [
+              {
+                "id": "6dfe7a58eb0e4959bfa37a90bdc35b9a",
+                "name": "Indicações de Pesquisa e Tratamento",
+                "is_master": false,
+                "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Indicações de Pesquisa e Tratamento",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;O controle de cura do tratamento do H.&nbsp;pylori&nbsp;já pode ser feito após 6 do término do tratamento.&nbsp;Antes desse período a chance de falso negativo é grande.",
+              "sanitized_complete": "INCORRETA: O controle de cura do tratamento do H. pylori já pode ser feito após 6 do término do tratamento. Antes desse período a chance de falso negativo é grande.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:36:02.68488 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 46
+          },
+          {
+            "id": "c7eff1b8-4d0d-47ad-99ae-1e3c17ee8ad3",
+            "position": "3",
+            "body": "O teste do antígeno fecal usando anticorpos monoclonais é o exame padrão ouro para o diagnóstico não invasivo de infecção por H. pylori.",
+            "sanitized_body": "O teste do antígeno fecal usando anticorpos monoclonais é o exame padrão ouro para o diagnóstico não invasivo de infecção por H. pylori.",
+            "correct": false,
+            "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+            "updated_at": "2020-11-23 14:06:15.92822 +0000 UTC",
+            "topics": [
+              {
+                "id": "eedd1a934ab24226a67ec245c06037e9",
+                "name": "Pesquisa do Antígeno Fecal",
+                "is_master": false,
+                "master_id": "aa48d70ebc48422cad7009dee481399f",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Não Invasivos[$$]Pesquisa do Antígeno Fecal",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;O teste não invasivo considerado padrão-ouro é o teste respiratória com ureia radiomarcada (C13-Ur ou C14-Ur). A pesquisa de antígenos fecais pode ser um teste alternativo, também com boa acurácia no controle de cura.",
+              "sanitized_complete": "INCORRETA: O teste não invasivo considerado padrão-ouro é o teste respiratória com ureia radiomarcada (C13-Ur ou C14-Ur). A pesquisa de antígenos fecais pode ser um teste alternativo, também com boa acurácia no controle de cura.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:36:02.676053 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 39
+          },
+          {
+            "id": "3ca2f4b5-6ab4-4179-b9e4-727a3f44fd95",
+            "position": "4",
+            "body": "O teste rápido da urease é o exame recomendado para controle da erradicação de H. pylori após o tratamento, sem a necessidade de exame adicional.",
+            "sanitized_body": "O teste rápido da urease é o exame recomendado para controle da erradicação de H. pylori após o tratamento, sem a necessidade de exame adicional.",
+            "correct": false,
+            "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+            "updated_at": "2020-11-23 14:06:16.003871 +0000 UTC",
+            "topics": [
+              {
+                "id": "fa741df7d74a4009ad28d6444cbd0883",
+                "name": "Teste Rápido da Urease",
+                "is_master": false,
+                "master_id": "7383a5bf42f54913b1ff2837f8f03932",
+                "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Diagnóstico e Controle de Cura[$$]Os Métodos Invasivos[$$]Teste Rápido da Urease",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;O teste rápido da urease (exame realizado através da endoscopia digestiva) tem baixa acurácia como controle de cura, não estando indicado nessa situação.",
+              "sanitized_complete": "INCORRETA: O teste rápido da urease (exame realizado através da endoscopia digestiva) tem baixa acurácia como controle de cura, não estando indicado nessa situação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:36:02.691505 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 60
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Paciente de 60 anos, sexo feminino, relata que há 6 meses iniciou um quadro de dor em região epigástrica de moderada intensidade, sem irradiação e 2 vezes por semana. Há 3 meses evoluiu com piora da intensidade e da frequência do sintoma. Refere dor epigástrica diária, principalmente após a alimentação. Foi à consulta com o gastroenterologista, que solicitou uma endoscopia digestiva alta. O exame histológico evidenciou gastrite crônica com presença de H. pylori. De acordo com o IV Consenso Brasileiro sobre a infecção por Helicobacter pylori, assinale a alternativa correta.",
+        "statement_text": "Paciente de 60 anos, sexo feminino, relata que há 6 meses iniciou um quadro de dor em região epigástrica de moderada intensidade, sem irradiação e 2 vezes por semana. Há 3 meses evoluiu com piora da intensidade e da frequência do sintoma. Refere dor epigástrica diária, principalmente após a alimentação. Foi à consulta com o gastroenterologista, que solicitou uma endoscopia digestiva alta. O exame histológico evidenciou gastrite crônica com presença de H. pylori. De acordo com o IV Consenso Brasileiro sobre a infecção por Helicobacter pylori, assinale a alternativa correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "185985813d32053e8466e217f113a016",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 00:43:27.357132 +0000 UTC",
+        "solution": {
+          "_key": "426d32d8-35c5-4ccc-b997-d8afddd7c388",
+          "complete": "<b>GABARITO: ALTERNATIVA B.</b><div><br></div><div>Caro Estrategista,&nbsp;Helicobacter pylori é uma bactéria que infecta o estômago de grande parte da população, algumas vezes provocando úlcera péptica, adenocarcinoma gástrico ou linfoma MALT. É muito recorrente nos concursos de residência, com indicação de pesquisa e tratamento muito específicos, pois não deve ser erradicada em todos os pacientes infectados. O consenso que adapta essas indicações para a realidade brasileira foi publicado em 2018 (IV Consenso Brasileiro do Manejo da infecção pelo Helicobacter pylori) e é sobre ela que versa essa questão.&nbsp;Vamos rever alguns pontos importantes enquanto analisamos as alternativas, buscando a correta:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA B.Caro Estrategista, Helicobacter pylori é uma bactéria que infecta o estômago de grande parte da população, algumas vezes provocando úlcera péptica, adenocarcinoma gástrico ou linfoma MALT. É muito recorrente nos concursos de residência, com indicação de pesquisa e tratamento muito específicos, pois não deve ser erradicada em todos os pacientes infectados. O consenso que adapta essas indicações para a realidade brasileira foi publicado em 2018 (IV Consenso Brasileiro do Manejo da infecção pelo Helicobacter pylori) e é sobre ela que versa essa questão. Vamos rever alguns pontos importantes enquanto analisamos as alternativas, buscando a correta:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 17:36:02.838347 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000010116-720.mp4",
+        "unlisted": false,
+        "slug": "Paciente-60-anos-sexo90936897d5",
+        "public": true
+      },
+      {
+        "id": "4000007626",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2019,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "e29b5c7b-91c6-41ed-8606-353ec0160ed9",
+                "name": "TO - Sistema Integrado de Saúde - Escola do SUS - SISE/SUS TO"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4FDCFA6D-445A-B5E1-6F07-30C28FEAE6A0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2020-09-04T15:17:26Z",
+            "location": {
+              "id": "28"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e421884a7666430a92afe8ee5d744608",
+            "name": "Esquemas de Tratamento",
+            "is_master": false,
+            "master_id": "86a67f84f92b47f590c7d7fc7909a751",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Estômago[$$]Helicobacter Pylori[$$]Esquemas de Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a75b3bfb-b65b-4170-b3d1-2bc1e35ad6c5",
+            "position": "0",
+            "body": "Claritromicina na dose de 500 mg de 12/12horas por 10 dias",
+            "sanitized_body": "Claritromicina na dose de 500 mg de 12/12horas por 10 dias",
+            "correct": false,
+            "created_at": "2020-09-09 21:06:52.914347 +0000 UTC",
+            "updated_at": "2021-11-13 00:48:25.696054 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Porque não se trata H. pylori com monoterapia antibiótica. É sempre a combinação de pelo menos dois, além do IBP.",
+              "sanitized_complete": "INCORRETA: Porque não se trata H. pylori com monoterapia antibiótica. É sempre a combinação de pelo menos dois, além do IBP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:41:15.368175 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "ac412a5a-edd2-41d1-a5f8-c13c217e4852",
+            "position": "1",
+            "body": "Claritromicina e amoxicilina, ambos na dose de 1g uma vez ao dia por 14 dias",
+            "sanitized_body": "Claritromicina e amoxicilina, ambos na dose de 1g uma vez ao dia por 14 dias",
+            "correct": false,
+            "created_at": "2020-09-09 21:06:52.914347 +0000 UTC",
+            "updated_at": "2021-11-13 00:48:25.795618 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Porque&nbsp;as drogas estão corretas, mas a posologia está errada. Nenhum dos dois antibióticos pode ser feito apenas 1 vez ao dia.",
+              "sanitized_complete": "INCORRETA: Porque as drogas estão corretas, mas a posologia está errada. Nenhum dos dois antibióticos pode ser feito apenas 1 vez ao dia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:41:15.368666 +0000 UTC"
+            },
+            "answer_percentage": 45,
+            "answers": 170
+          },
+          {
+            "id": "a1aac368-a010-4002-98f5-9afb2efc7a94",
+            "position": "2",
+            "body": "Amoxicilina na dose de 500mg de 8/8h por 7 dias",
+            "sanitized_body": "Amoxicilina na dose de 500mg de 8/8h por 7 dias",
+            "correct": false,
+            "created_at": "2020-09-09 21:06:52.914347 +0000 UTC",
+            "updated_at": "2021-11-13 00:48:26.127993 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA:&nbsp;Porque não se trata H. pylori com monoterapia antibiótica. É sempre a combinação de pelo menos dois, além do IBP.",
+              "sanitized_complete": "INCORRETA: Porque não se trata H. pylori com monoterapia antibiótica. É sempre a combinação de pelo menos dois, além do IBP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:41:15.370887 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "66f733df-821b-40bc-adb7-52c6d635c23e",
+            "position": "3",
+            "body": "Claritromicina 500 mg de 12/12 horas e amoxicilina 1 g de 12/12h por 7dias",
+            "sanitized_body": "Claritromicina 500 mg de 12/12 horas e amoxicilina 1 g de 12/12h por 7dias",
+            "correct": true,
+            "created_at": "2020-09-09 21:06:52.914347 +0000 UTC",
+            "updated_at": "2021-11-13 00:48:26.266647 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>CORRETA</b>:&nbsp;A combinação entre IBP dose plena, Amoxicilina e Claritromicina constitui-se a primeira linha de tratamento para esta bactéria, a não ser que haja reconhecida resistência à claritromicina na região onde mora o paciente. A ressalva que se faz é que o tempo de tratamento mudou, não sendo mais sete e sim quatorze dias de antibióticos, exatamente para aumentar a eficácia do tratamento frente à resistência bacteriana.",
+              "sanitized_complete": "CORRETA: A combinação entre IBP dose plena, Amoxicilina e Claritromicina constitui-se a primeira linha de tratamento para esta bactéria, a não ser que haja reconhecida resistência à claritromicina na região onde mora o paciente. A ressalva que se faz é que o tempo de tratamento mudou, não sendo mais sete e sim quatorze dias de antibióticos, exatamente para aumentar a eficácia do tratamento frente à resistência bacteriana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+              "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+              "author_profile": null,
+              "created_at": "2020-11-02 17:41:15.36792 +0000 UTC"
+            },
+            "answer_percentage": 55,
+            "answers": 210
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem de 52 anos, atendido na UBS com queixa de dor epigástrica, pirose, empachamento pós-prandial e plenitude gástrica há quatro meses. Retorna ao ambulatório com o resultado da endoscopia digestiva alta, que evidenciou úlcera péptica com pesquisa de H. Pylori positiva. Além do inibidor de bomba de prótons, o tratamento medicamentoso recomendado para o paciente é:",
+        "statement_text": "Homem de 52 anos, atendido na UBS com queixa de dor epigástrica, pirose, empachamento pós-prandial e plenitude gástrica há quatro meses. Retorna ao ambulatório com o resultado da endoscopia digestiva alta, que evidenciou úlcera péptica com pesquisa de H. Pylori positiva. Além do inibidor de bomba de prótons, o tratamento medicamentoso recomendado para o paciente é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ad0886e291f6039db5712fe1fabe24b8",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-09 21:06:52.914347 +0000 UTC",
+        "forum_id": "3fd7cb28-4f18-40e4-8fd4-7f12affdbd90",
+        "solution": {
+          "_key": "5e8cdce6-d442-40e5-96fa-13405b6bc15c",
+          "complete": "<b>GABARITO: ALTERNATIVA D.</b><div><br></div><div>Todo paciente com mais de 40 anos de idade e queixas dispépticas crônicas deve ser submetido a uma EDA, mesmo que não tenha sinais de alarme (como anemia, emagrecimento, disfagia e sangramento digestivo). O motivo é que há maiores chances de uma doença mais grave, como neoplasias ou doença ulcerosa péptica (DUP), o que foi o caso deste paciente. A biópsia revelou a presença da bactéria Helicobacter pylori, principal causa de DUP, sendo esta uma indicação absoluta de erradicação da bactéria. Vamos nos lembrar que há 3 indicações absolutas (obrigatórias) para tratar a bactéria: DUP, adenocarcinoma gástrico prévio e Linfoma MALT. Qual esquema terapêutico escolher?&nbsp;</div><div><br></div><div>Vamos aproveitar essa questão para refrescar a memória e rever os esquemas de tratamento atualizados para a realidade brasileira pelo \"IV Consenso Brasileiro para o Manejo do Helicobacter pylori\":</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4FA5FE03-6D3C-62CD-FA15-BA50BB078BB8/4FA5FE03-6D3C-62CD-FA15-BA50BB078BB8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/41BEDD36-88F0-E5B3-2D46-0FD29B58B95D/41BEDD36-88F0-E5B3-2D46-0FD29B58B95D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Só nos resta escolher o esquema adequado como primeira linha de tratamento entre as alternativas:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA D.Todo paciente com mais de 40 anos de idade e queixas dispépticas crônicas deve ser submetido a uma EDA, mesmo que não tenha sinais de alarme (como anemia, emagrecimento, disfagia e sangramento digestivo). O motivo é que há maiores chances de uma doença mais grave, como neoplasias ou doença ulcerosa péptica (DUP), o que foi o caso deste paciente. A biópsia revelou a presença da bactéria Helicobacter pylori, principal causa de DUP, sendo esta uma indicação absoluta de erradicação da bactéria. Vamos nos lembrar que há 3 indicações absolutas (obrigatórias) para tratar a bactéria: DUP, adenocarcinoma gástrico prévio e Linfoma MALT. Qual esquema terapêutico escolher? Vamos aproveitar essa questão para refrescar a memória e rever os esquemas de tratamento atualizados para a realidade brasileira pelo &#34;IV Consenso Brasileiro para o Manejo do Helicobacter pylori&#34;:Só nos resta escolher o esquema adequado como primeira linha de tratamento entre as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+          "author_email_id": "51f0793466c46b3bf082ccb0d24c731f",
+          "author_profile": {
+            "id": "61b7b72f-04c0-42a6-a0d2-c0fe130743e2",
+            "full_name": "Élio Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/5039151b00c26a93917d22ec5cf788ae",
+            "about_me": "Médico pela FMP em 2007 (CRM 52.84227-3), residência em Clínica Médica pela UFRJ, Gastroenterologia pela UERJ, Mestrado em Medicina pela UERJ, Observership de endoscopia terapêutica nos hospitais universitários de Fukuoka e Kobe (Japão, 2012 e 2013), Membro Titular da FBG (RQE 23519), SOBED (RQE 23657) e Membro Internacional da ASGE (American Society for Gastrointestinal Endoscopy). Doutorado em andamento pela Fiocruz e supervisor do serviço de Endoscopia Digestiva do Hospital Glória D`Or.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.eliocastro",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/élio-cunha-castro-filho-bb181a100",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-02 17:41:15.533655 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000007626-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-52-anos-atendido56d28e1d08",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

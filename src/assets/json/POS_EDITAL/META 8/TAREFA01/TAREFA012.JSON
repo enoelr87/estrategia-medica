@@ -1,0 +1,2651 @@
+{
+    "data": [
+      {
+        "id": "4000127233",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6a72d5c7609b4e8b936db147fc07f5a0",
+            "name": "DNPM (Desenvolvimento Neuro-Psico-Motor)",
+            "is_master": false,
+            "master_id": "a4a25207be9b4f1399c88b948629160e",
+            "path": "Pediatria[$$]Puericultura [$$]DNPM (Desenvolvimento Neuro-Psico-Motor)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "a4a25207be9b4f1399c88b948629160e",
+            "name": "Puericultura ",
+            "is_master": false,
+            "master_id": "91e23a954cd94ea08a24c213a3acb13e",
+            "path": "Pediatria[$$]Puericultura ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d07ee0a82a624136aa113ccc282f696a",
+            "name": "Avaliando o desenvolvimento",
+            "is_master": false,
+            "master_id": "6a72d5c7609b4e8b936db147fc07f5a0",
+            "path": "Pediatria[$$]Puericultura [$$]DNPM (Desenvolvimento Neuro-Psico-Motor)[$$]Avaliando o desenvolvimento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "9f2daf3a-b3b3-4a3c-bd79-1c3593fe2be6",
+            "position": "0",
+            "body": "Emissão espontânea sem intenção imitativa; sustentação cefálica; dirige a mão para objetos; reflexo de Moro.",
+            "sanitized_body": "Emissão espontânea sem intenção imitativa; sustentação cefálica; dirige a mão para objetos; reflexo de Moro.",
+            "correct": false,
+            "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+            "updated_at": "2022-01-20 21:18:04.791379 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Afirmativa A: Incorreta Apesar de a criança ter emissão espontânea sem intenção imitativa; sustentação cefálica; dirige a mão para objetos; o erro está na afirmação referente ao reflexo de moro, pois c<b>om 6 meses de idade a criança não tem mais o reflexo de moro. </b>Veja: O reflexo de Moro geralmente desaparece até os 6 meses de vida, já não mais presente em sua forma clássica com 3 meses. São movimentos de extensão e abdução dos membros superiores com abertura das mãos, seguidas de adução e flexão dos membros superiores. Normalmente, acompanhado de choro. O reflexo de Moro deve estar presente em recém nascidos de, pelo menos, 37 semanas. A criança deve ser colocada em posição supina sobre uma superfície lisa e acolchoada. Em seguida, a cabeça deve ser suavemente levantada com suporte o suficiente para levantar minimamente o corpo da criança do colchão. A cabeça é, então, liberada subitamente, possibilitando que ocorra um movimento rápido de queda. Em seguida, a cabeça deve ser novamente sustentada pela mão do examinador.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A6AEE2ED-4ABE-19D6-8F4D-AC5B6DB2B6EF/A6AEE2ED-4ABE-19D6-8F4D-AC5B6DB2B6EF-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Afirmativa A: Incorreta Apesar de a criança ter emissão espontânea sem intenção imitativa; sustentação cefálica; dirige a mão para objetos; o erro está na afirmação referente ao reflexo de moro, pois com 6 meses de idade a criança não tem mais o reflexo de moro. Veja: O reflexo de Moro geralmente desaparece até os 6 meses de vida, já não mais presente em sua forma clássica com 3 meses. São movimentos de extensão e abdução dos membros superiores com abertura das mãos, seguidas de adução e flexão dos membros superiores. Normalmente, acompanhado de choro. O reflexo de Moro deve estar presente em recém nascidos de, pelo menos, 37 semanas. A criança deve ser colocada em posição supina sobre uma superfície lisa e acolchoada. Em seguida, a cabeça deve ser suavemente levantada com suporte o suficiente para levantar minimamente o corpo da criança do colchão. A cabeça é, então, liberada subitamente, possibilitando que ocorra um movimento rápido de queda. Em seguida, a cabeça deve ser novamente sustentada pela mão do examinador.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2022-01-24 19:41:19.340246 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 86
+          },
+          {
+            "id": "b709743b-4d25-438c-920a-46223bd3a989",
+            "position": "1",
+            "body": "Emissão bissilábica significante; engatinha durante a consulta; preensão palmar em pinça; reflexo de Landau II.",
+            "sanitized_body": "Emissão bissilábica significante; engatinha durante a consulta; preensão palmar em pinça; reflexo de Landau II.",
+            "correct": false,
+            "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+            "updated_at": "2022-01-20 21:18:05.001381 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B: Incorreta. A Emissão bissilábica significante começa aos 10 meses; costuma engatinhar entre 9-12 meses, não sendo um marco obrigatório; e a preensão palmar em pinça inicia-se entre seis e nove meses;<div><br><div>O reflexo de Landau aparece aos 3 meses de vida. Consiste em suspender o lactente em suspensão ventral com uma das mãos do examinador, com a outra mão flexionar rapidamente a cabeça do bebê. O resultado é a flexão de todo o corpo. Desaparece ao fim do segundo ano.</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8E598AD3-89DB-A7E0-CCD2-7AE40C232D76/8E598AD3-89DB-A7E0-CCD2-7AE40C232D76-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Alternativa B: Incorreta. A Emissão bissilábica significante começa aos 10 meses; costuma engatinhar entre 9-12 meses, não sendo um marco obrigatório; e a preensão palmar em pinça inicia-se entre seis e nove meses;O reflexo de Landau aparece aos 3 meses de vida. Consiste em suspender o lactente em suspensão ventral com uma das mãos do examinador, com a outra mão flexionar rapidamente a cabeça do bebê. O resultado é a flexão de todo o corpo. Desaparece ao fim do segundo ano.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2022-01-24 19:41:19.387447 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 96
+          },
+          {
+            "id": "8a4be7ba-9bdb-4d5f-8b34-251c8acaf561",
+            "position": "2",
+            "body": "Emissão espontânea sem intenção imitativa; senta-se <span>com apoio; preensão palmar voluntária; reflexo de </span><span>Moro incompleto. </span>",
+            "sanitized_body": "Emissão espontânea sem intenção imitativa; senta-se com apoio; preensão palmar voluntária; reflexo de Moro incompleto. ",
+            "correct": false,
+            "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+            "updated_at": "2022-01-20 21:18:05.182891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C: Incorreta. <b>Com 6 meses a criança não deve ter mais o reflexo de moro; </b>A criança emite sons espontaneamente, mas ainda sem intenção imitativa aos seis meses; O reflexo primitivo de preensão palmar desaparece em torno dos 4 meses, sendo um movimento voluntário após. É um reflexo que ocorre quando o examinador coloca o seu dedo na palma da mão da criança e a mesma flexiona os dedos. Veja:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F40CA8ED-EA76-0D4B-EAD7-D2EBFF074280/F40CA8ED-EA76-0D4B-EAD7-D2EBFF074280-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Alternativa C: Incorreta. Com 6 meses a criança não deve ter mais o reflexo de moro; A criança emite sons espontaneamente, mas ainda sem intenção imitativa aos seis meses; O reflexo primitivo de preensão palmar desaparece em torno dos 4 meses, sendo um movimento voluntário após. É um reflexo que ocorre quando o examinador coloca o seu dedo na palma da mão da criança e a mesma flexiona os dedos. Veja:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2022-01-24 19:41:19.37268 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 221
+          },
+          {
+            "id": "d48f80b2-e38a-465f-bf32-f186900b17bd",
+            "position": "3",
+            "body": "Ecolalia; senta-se sem apoio; muda objeto de uma mão para outra; reflexo de preensão plantar.",
+            "sanitized_body": "Ecolalia; senta-se sem apoio; muda objeto de uma mão para outra; reflexo de preensão plantar.",
+            "correct": true,
+            "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+            "updated_at": "2022-01-20 21:18:05.379778 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D: Correta. Aos 6-7 meses inicia o balbuciar, ecolalia e muda objeto de uma mão para outra. A criança senta sem apoio entre seis e nove meses. <span><b>O reflexo de pressão plantar desaparece apenas aos 15 meses de idade</b>. Consiste em o examinador colocar seu dedo sobre a face plantar do pé do bebê, abaixo os dedos, e comprimir. A resposta esperada é a flexão dos dedos pé. Veja:</span><div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/17464A99-C317-E06C-7F64-98C47A49D447/17464A99-C317-E06C-7F64-98C47A49D447-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Alternativa D: Correta. Aos 6-7 meses inicia o balbuciar, ecolalia e muda objeto de uma mão para outra. A criança senta sem apoio entre seis e nove meses. O reflexo de pressão plantar desaparece apenas aos 15 meses de idade. Consiste em o examinador colocar seu dedo sobre a face plantar do pé do bebê, abaixo os dedos, e comprimir. A resposta esperada é a flexão dos dedos pé. Veja:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2022-01-24 19:41:19.360231 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 847
+          },
+          {
+            "id": "fb3fc999-42eb-470e-9092-f994bca24bfc",
+            "position": "4",
+            "body": "Emissão de palavras-frase; capacidade de andar com apoio observada na consulta; bate palmas; reflexo do paraquedista.",
+            "sanitized_body": "Emissão de palavras-frase; capacidade de andar com apoio observada na consulta; bate palmas; reflexo do paraquedista.",
+            "correct": false,
+            "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+            "updated_at": "2022-01-20 21:18:05.601176 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa E: Incorreta.  Emissão de palavras-frase apenas com 24 meses; capacidade de andar com apoio entre 12 e 15 meses; bate palmas e imita outros gestos entre 9-12 meses.<div><br><div>O r<b>eflexo do paraquedas inicia-se apenas aos oito meses</b>, e acontece quando o examinador segura o lactente pela região ventral e o aproxima da mesa de exame bruscamente, para dar-lhe a impressão que está caindo. A resposta esperada é que a criança estenda os braços e abra as mãos na tentativa de proteger-se. Esse reflexo aparece aproximadamente aos 8 meses e permanece durante toda a vida. Veja:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D2A91C68-07A2-3DEB-B453-25B2AFC3A155/D2A91C68-07A2-3DEB-B453-25B2AFC3A155-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Alternativa E: Incorreta.  Emissão de palavras-frase apenas com 24 meses; capacidade de andar com apoio entre 12 e 15 meses; bate palmas e imita outros gestos entre 9-12 meses.O reflexo do paraquedas inicia-se apenas aos oito meses, e acontece quando o examinador segura o lactente pela região ventral e o aproxima da mesa de exame bruscamente, para dar-lhe a impressão que está caindo. A resposta esperada é que a criança estenda os braços e abra as mãos na tentativa de proteger-se. Esse reflexo aparece aproximadamente aos 8 meses e permanece durante toda a vida. Veja:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2022-01-24 19:41:19.346711 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 21
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Menino com 7 meses de idade é levado pela mãe a Unidade Básica de Saúde em consulta de Puericultura. A mãe está preocupada, pois acha que ele é mais lento que os irmãos. Após anamnese detalhada, o pediatra realizou o exame físico e afirmou que o exame neurológico e o desenvolvimento neuropsicomotor estavam condizentes com a idade. O que o pediatra observou em relação a linguagem, motricidade, comportamento adaptativo e reflexos arcaicos, respectivamente, para fazer tal afirmação?",
+        "statement_text": "Menino com 7 meses de idade é levado pela mãe a Unidade Básica de Saúde em consulta de Puericultura. A mãe está preocupada, pois acha que ele é mais lento que os irmãos. Após anamnese detalhada, o pediatra realizou o exame físico e afirmou que o exame neurológico e o desenvolvimento neuropsicomotor estavam condizentes com a idade. O que o pediatra observou em relação a linguagem, motricidade, comportamento adaptativo e reflexos arcaicos, respectivamente, para fazer tal afirmação?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:30:34.063078 +0000 UTC",
+        "solution": {
+          "_key": "caeba40d-1b2a-447c-9bb1-d3075cca14bc",
+          "complete": "Revalidando, a questão aborda o tema desenvolvimento neuropsicomotor (DNPM), e você precisa saber os principais marcos do DNPM para a idade para conseguir respondê-la. Vamos relembrar?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7E33AD4B-43EE-710A-9F18-DB541059BE27/7E33AD4B-43EE-710A-9F18-DB541059BE27-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5A91F4C4-998F-623F-4187-AAEE2F9C89E7/5A91F4C4-998F-623F-4187-AAEE2F9C89E7-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A questão cobra um conhecimento extra sobre o DNPM, os reflexos primitivos e posturais. Veja bem, Coruja, os <b>reflexos primitivos</b> caracterizam o funcionamento cerebral subcortical, sendo considerados fisiológicos nos primeiros meses de vida. São movimentos estereotipados, desencadeados por algum tipo de estímulo. Eles são encontrados em todos os RN nascidos a termo e vão desaparecendo, sendo substituídos por movimentos voluntários, de acordo com a evolução da mielinização do sistema nervoso central. Veja os principais resumidos na seguinte tabela:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/04E854F1-63B3-F5B7-36F7-98169363FFB2/04E854F1-63B3-F5B7-36F7-98169363FFB2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Já os <b>reflexos posturais,</b> são reflexos (movimentos automáticos) que mantém a posição e equilíbrio do corpo durante repouso ou movimento. Modulam a distribuição do tônus muscular nos membros e tronco. Mantém postura, equilíbrio e harmonia do movimento. Os reflexos posturais substituem os reflexos primitivos.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/326701BC-4737-E2A0-B8AF-8D386FE048F1/326701BC-4737-E2A0-B8AF-8D386FE048F1-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div>",
+          "sanitized_complete": "Revalidando, a questão aborda o tema desenvolvimento neuropsicomotor (DNPM), e você precisa saber os principais marcos do DNPM para a idade para conseguir respondê-la. Vamos relembrar?A questão cobra um conhecimento extra sobre o DNPM, os reflexos primitivos e posturais. Veja bem, Coruja, os reflexos primitivos caracterizam o funcionamento cerebral subcortical, sendo considerados fisiológicos nos primeiros meses de vida. São movimentos estereotipados, desencadeados por algum tipo de estímulo. Eles são encontrados em todos os RN nascidos a termo e vão desaparecendo, sendo substituídos por movimentos voluntários, de acordo com a evolução da mielinização do sistema nervoso central. Veja os principais resumidos na seguinte tabela:Já os reflexos posturais, são reflexos (movimentos automáticos) que mantém a posição e equilíbrio do corpo durante repouso ou movimento. Modulam a distribuição do tônus muscular nos membros e tronco. Mantém postura, equilíbrio e harmonia do movimento. Os reflexos posturais substituem os reflexos primitivos.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+          "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+          "author_profile": {
+            "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+            "full_name": "Jéssica Dantas",
+            "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+            "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-24 19:41:19.417554 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127233-720.mp4",
+        "unlisted": false,
+        "slug": "Menino-com-7-meses7705c17226",
+        "public": true
+      },
+      {
+        "id": "4000127141",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0778b883f46c439dab4359f8a75b0c6d",
+            "name": "Hipertensão arterial (HAS) em crianças e adolescentes",
+            "is_master": false,
+            "master_id": "f2b1f313682f40cab726535e144c5060",
+            "path": "Pediatria[$$]Cardiologia Pediátrica[$$]Hipertensão arterial (HAS) em crianças e adolescentes",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c96e10c723e34ca0912dfab6192ecb83",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d3e5c717bd9e4bdab87ef72352b4f134",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "47aed08e-29c9-430a-963a-e057f8989706",
+            "position": "0",
+            "body": "Obesidade grave e hipertensão; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e realizar tratamento farmacológico.",
+            "sanitized_body": "Obesidade grave e hipertensão; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e realizar tratamento farmacológico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+            "updated_at": "2022-07-20 13:45:54.755807 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “A” porque o diagnóstico nutricional não é de obesidade grave e não estão indicadas as medidas farmacológicas para o controle do peso.",
+              "sanitized_complete": "Incorreta alternativa “A” porque o diagnóstico nutricional não é de obesidade grave e não estão indicadas as medidas farmacológicas para o controle do peso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:44:59.339741 +0000 UTC",
+              "updated_at": "2020-10-12 19:45:05.500588 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 250
+          },
+          {
+            "id": "66539af8-b2fc-45b8-864f-2ba2b374750f",
+            "position": "1",
+            "body": "Sobrepeso e pressão arterial limítrofe; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e rastrear outras comorbidades.",
+            "sanitized_body": "Sobrepeso e pressão arterial limítrofe; recomenda-se incentivar hábitos de vida saudáveis (atividade física regular e alimentação balanceada) e rastrear outras comorbidades.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+            "updated_at": "2022-07-20 13:45:55.058079 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “B” porque o diagnóstico é de obesidade e hipertensão arterial.",
+              "sanitized_complete": "Incorreta alternativa “B” porque o diagnóstico é de obesidade e hipertensão arterial.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:44:59.326317 +0000 UTC",
+              "updated_at": "2020-10-12 19:45:05.497437 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 149
+          },
+          {
+            "id": "cd9cb330-c530-4b8d-9959-f8c35e0168c9",
+            "position": "2",
+            "body": "Obesidade e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e acompanhamento semanal com a equipe de saúde.",
+            "sanitized_body": "Obesidade e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e acompanhamento semanal com a equipe de saúde.",
+            "correct": true,
+            "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+            "updated_at": "2022-07-20 13:45:55.347107 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta alternativa “C” porque esta criança se encontra com diagnóstico de obesidade, e hipertensão arterial, sendo assim, ela necessita de incentivo a mudanças comportamentais como hábitos alimentares saudáveis com dieta balanceada, incentivo à prática de atividades físicas, restrição de tempo em atividades sedentárias e acompanhamento ambulatorial rigoroso.",
+              "sanitized_complete": "Correta alternativa “C” porque esta criança se encontra com diagnóstico de obesidade, e hipertensão arterial, sendo assim, ela necessita de incentivo a mudanças comportamentais como hábitos alimentares saudáveis com dieta balanceada, incentivo à prática de atividades físicas, restrição de tempo em atividades sedentárias e acompanhamento ambulatorial rigoroso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:44:59.31732 +0000 UTC",
+              "updated_at": "2020-10-12 19:45:05.490468 +0000 UTC"
+            },
+            "answer_percentage": 51,
+            "answers": 761
+          },
+          {
+            "id": "079a4dec-1fa9-403e-b6e9-2e1425b562f9",
+            "position": "3",
+            "body": "Sobrepeso e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular, bem como restrições de tempo na frente da televisão.",
+            "sanitized_body": "Sobrepeso e hipertensão; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular, bem como restrições de tempo na frente da televisão.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+            "updated_at": "2022-07-20 13:45:55.652507 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “D” porque o diagnóstico não é de sobrepeso e sim de obesidade.",
+              "sanitized_complete": "Incorreta alternativa “D” porque o diagnóstico não é de sobrepeso e sim de obesidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:44:59.335774 +0000 UTC",
+              "updated_at": "2020-10-12 19:45:05.488317 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 113
+          },
+          {
+            "id": "292a5d8d-6fcd-4bc0-b7af-b835918995b7",
+            "position": "4",
+            "body": "Obesidade e pressão arterial limítrofe; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e rastrear outras comorbidades.",
+            "sanitized_body": "Obesidade e pressão arterial limítrofe; recomenda-se seguir plano alimentar com dieta balanceada, atividade física regular e rastrear outras comorbidades.",
+            "correct": false,
+            "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+            "updated_at": "2022-07-20 13:45:55.9579 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “E” porque esta criança apresenta hipertensão arterial e não pressão arterial limítrofe.",
+              "sanitized_complete": "Incorreta alternativa “E” porque esta criança apresenta hipertensão arterial e não pressão arterial limítrofe.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:44:59.328817 +0000 UTC",
+              "updated_at": "2020-10-12 19:45:05.508943 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 218
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Menina com 7 anos de idade foi levada para consulta em Unidade Básica de Saúde pela mãe. Apresenta queixa de ganho de peso excessivo nos últimos meses. Após a realização do exame físico, foram registrados os seguintes dados: Peso = 35 kg; Altura = 1,25 m; Pressão Arterial (membro superior direito) = 118 x 80 mmHg. Após a análise das curvas de crescimento (peso, altura e índice de massa corporal – IMC) e da tabela de pressão arterial, é correto afirmar que os diagnósticos e a conduta inicial recomendada nessa situação são, respectivamente:<div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CDCA7B8B-AFE7-ED18-7DAA-C76EEA903D4A/CDCA7B8B-AFE7-ED18-7DAA-C76EEA903D4A-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/75FC7987-B176-B049-58C4-5CD4114D2433/75FC7987-B176-B049-58C4-5CD4114D2433-400.png\"><!-- END:IMAGE_TO_REPLACE --></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/19895AFC-6542-2FA4-6D77-0B07FC837780/19895AFC-6542-2FA4-6D77-0B07FC837780-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/322E4AA8-1135-A00D-621A-030053FF0799/322E4AA8-1135-A00D-621A-030053FF0799-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div></div>",
+        "statement_text": "Menina com 7 anos de idade foi levada para consulta em Unidade Básica de Saúde pela mãe. Apresenta queixa de ganho de peso excessivo nos últimos meses. Após a realização do exame físico, foram registrados os seguintes dados: Peso = 35 kg; Altura = 1,25 m; Pressão Arterial (membro superior direito) = 118 x 80 mmHg. Após a análise das curvas de crescimento (peso, altura e índice de massa corporal – IMC) e da tabela de pressão arterial, é correto afirmar que os diagnósticos e a conduta inicial recomendada nessa situação são, respectivamente:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:24:02.203749 +0000 UTC",
+        "forum_id": "3f1fd1eb-d347-4c7b-8f35-d5e410665e58",
+        "solution": {
+          "_key": "12720fe3-63ad-428d-9740-ce66d101d728",
+          "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><div><br></div><div>Caro aluno, vamos por etapas:</div><div><br></div><div>1 - Após colocar os dados nos gráficos fornecidos, vamos analisar os dados:</div><div><br></div><div>•\tPeso: 35 Kg (acima do Percentil 97)</div><div>•\tEstatura: 125cm (entre o P50 e P85)&nbsp;</div><div><br></div><div>Note que entre P3 e P97 a estatura é considerada normal.</div><div><br></div><div>•\tIMC= Peso/Estatura²= 35/1,25x1,25=22,4 (acima do P97) Observe o quadro abaixo:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7429E095-5E72-519E-8B2E-3551D002F285/7429E095-5E72-519E-8B2E-3551D002F285-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>O diagnóstico de obesidade em crianças é definido pelo IMC.</div><div><br></div><div>Uma criança de 7 anos que se encontra acima do percentil 97 para o IMC é considerada como apresentando <b>obesidade</b>.</div><div><br></div><div>2 - Agora vamos analisar a pressão arterial:</div><div><br></div><div>A pressão arterial deve ser aferida em três ou mais ocasiões para que se obtenha a média. Contudo utilizaremos os dados fornecidos:</div><div><br></div><div>Esta criança apresenta sua pressão arterial sistólica e diastólica acima do Percentil 95, e, portanto encontra-se com <b>hipertensão</b>:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/78E2C66A-300F-3889-9C39-1FEC65BD2AF6/78E2C66A-300F-3889-9C39-1FEC65BD2AF6-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CCaro aluno, vamos por etapas:1 - Após colocar os dados nos gráficos fornecidos, vamos analisar os dados:•\tPeso: 35 Kg (acima do Percentil 97)•\tEstatura: 125cm (entre o P50 e P85) Note que entre P3 e P97 a estatura é considerada normal.•\tIMC= Peso/Estatura²= 35/1,25x1,25=22,4 (acima do P97) Observe o quadro abaixo:O diagnóstico de obesidade em crianças é definido pelo IMC.Uma criança de 7 anos que se encontra acima do percentil 97 para o IMC é considerada como apresentando obesidade.2 - Agora vamos analisar a pressão arterial:A pressão arterial deve ser aferida em três ou mais ocasiões para que se obtenha a média. Contudo utilizaremos os dados fornecidos:Esta criança apresenta sua pressão arterial sistólica e diastólica acima do Percentil 95, e, portanto encontra-se com hipertensão:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-12 19:44:59.472727 +0000 UTC",
+          "updated_at": "2020-10-12 19:45:05.645947 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127141-720.mp4",
+        "unlisted": false,
+        "slug": "Menina-com-7-anos934a36eb83",
+        "public": true
+      },
+      {
+        "id": "4000127107",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2c6293a6269f4c44aedc953b2eeec6d5",
+            "name": "Raquitismo",
+            "is_master": false,
+            "master_id": "90c98d9d2fe1431fa591938c9bb3a8ce",
+            "path": "Pediatria[$$]Puericultura [$$]Vitaminas[$$]Vitamina D/Colecalciferol[$$]Raquitismo",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f05ce2f2-e4dc-4467-9fee-991dd23d7782",
+            "position": "0",
+            "body": "Osteopenia e perda da densidade  óssea.",
+            "sanitized_body": "Osteopenia e perda da densidade  óssea.",
+            "correct": false,
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "updated_at": "2020-10-12 19:41:22.446846 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “A” porque a ostepenia, embora possa induzir a fraturas, não ocasiona este alargamento significativo das epífises que observamos na figura acima.",
+              "sanitized_complete": "Incorreta alternativa “A” porque a ostepenia, embora possa induzir a fraturas, não ocasiona este alargamento significativo das epífises que observamos na figura acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:42:29.245305 +0000 UTC",
+              "updated_at": "2020-10-12 19:42:30.997019 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 75
+          },
+          {
+            "id": "e44324d7-a2fb-481d-94d6-b62fdbe2ba5d",
+            "position": "1",
+            "body": "Hipotireoidismo e atraso da idade  óssea.",
+            "sanitized_body": "Hipotireoidismo e atraso da idade  óssea.",
+            "correct": false,
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "updated_at": "2020-10-12 19:41:22.583084 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “B” porque embora, este paciente apresente alguns sintomas encontrados no hipotireoidismo (hérnia umbilical e baixa estatura), a rarefação óssea, propensão a fraturas, alargamento epifisário e desproporção de relação entre segmento superior e inferior, não são encontrados em pacientes com hipotieroidismo.",
+              "sanitized_complete": "Incorreta alternativa “B” porque embora, este paciente apresente alguns sintomas encontrados no hipotireoidismo (hérnia umbilical e baixa estatura), a rarefação óssea, propensão a fraturas, alargamento epifisário e desproporção de relação entre segmento superior e inferior, não são encontrados em pacientes com hipotieroidismo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:42:29.24433 +0000 UTC",
+              "updated_at": "2020-10-12 19:42:30.991208 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 88
+          },
+          {
+            "id": "3434e894-577a-460e-968e-e118cda76031",
+            "position": "2",
+            "body": "Deficiência de fósforo e osteomalácia.",
+            "sanitized_body": "Deficiência de fósforo e osteomalácia.",
+            "correct": false,
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "updated_at": "2020-10-12 19:41:22.718013 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “C” porque a osteomalácia é uma condição que ocorre após o fechamento da cartilagem de crescimento. Ela se caracteriza por deficiente mineralização óssea devido a baixas concentrações de cálcio e fósforo. Por não ser uma condição encontrada em crianças, esta hipótese diagnóstica pode ser afastada.",
+              "sanitized_complete": "Incorreta alternativa “C” porque a osteomalácia é uma condição que ocorre após o fechamento da cartilagem de crescimento. Ela se caracteriza por deficiente mineralização óssea devido a baixas concentrações de cálcio e fósforo. Por não ser uma condição encontrada em crianças, esta hipótese diagnóstica pode ser afastada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:42:29.231516 +0000 UTC",
+              "updated_at": "2020-10-12 19:42:31.002102 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 18
+          },
+          {
+            "id": "0b951f6d-0821-4dd2-b05d-c877e7647909",
+            "position": "3",
+            "body": "Displasia óssea e displasia  metafisária.",
+            "sanitized_body": "Displasia óssea e displasia  metafisária.",
+            "correct": false,
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "updated_at": "2020-10-12 19:41:22.85176 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “D” porque as displasias óssea e epifisária se caracterizam por anomalias na região epifisária que cursam com osteocondrite e artrose precoce. Constituem uma condição rara e não estão associadas ao quadro clínico descrito.&nbsp;",
+              "sanitized_complete": "Incorreta alternativa “D” porque as displasias óssea e epifisária se caracterizam por anomalias na região epifisária que cursam com osteocondrite e artrose precoce. Constituem uma condição rara e não estão associadas ao quadro clínico descrito. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:42:29.249829 +0000 UTC",
+              "updated_at": "2020-10-12 19:42:30.993656 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 40
+          },
+          {
+            "id": "a5507576-a4aa-41c7-90ab-b23cf33daf4c",
+            "position": "4",
+            "body": "Raquitismo e alargamento das  epífises.",
+            "sanitized_body": "Raquitismo e alargamento das  epífises.",
+            "correct": true,
+            "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+            "updated_at": "2020-10-12 19:41:22.986407 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta alternativa “E” porque o raquitismo carencial pode se manifestar com o quadro clínico descrito no enunciado, associado a fraturas recorrentes e com as alterações radiológicas apresentadas nas radiografias fornecidas.",
+              "sanitized_complete": "Correta alternativa “E” porque o raquitismo carencial pode se manifestar com o quadro clínico descrito no enunciado, associado a fraturas recorrentes e com as alterações radiológicas apresentadas nas radiografias fornecidas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:42:29.238853 +0000 UTC",
+              "updated_at": "2020-10-12 19:42:31.00928 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 830
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "<div>Criança com três anos de idade, nascida à termo, não acompanhada regularmente na Puericultura, foi levada pela mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após avaliação médica, foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e inferior, hipotonia muscular e hérnia umbilical pequena. O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo.</div><!-- BEGIN:IMAGE_TO_REPLACE --><div><br></div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9617331C-D0E5-B931-A0DD-8E6D46F8FF5B/9617331C-D0E5-B931-A0DD-8E6D46F8FF5B-400.bmp\"><div><br></div><div>O diagnóstico e  a alteração radiológica que o confirma são, respectivamente:</div>",
+        "statement_text": "Criança com três anos de idade, nascida à termo, não acompanhada regularmente na Puericultura, foi levada pela mãe para uma consulta na Unidade Básica de Saúde após sofrer fratura no antebraço direito há dois meses. Após avaliação médica, foi observado: baixa estatura para a idade, escoliose, desproporção da relação segmento superior e inferior, hipotonia muscular e hérnia umbilical pequena. O médico solicitou radiografia de mão e punho e de membros inferiores, mostradas abaixo.O diagnóstico e  a alteração radiológica que o confirma são, respectivamente:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 10:50:32.678275 +0000 UTC",
+        "solution": {
+          "_key": "94dc937f-1ee0-4a8e-b49a-03f75ec65dad",
+          "complete": "<div><b>GABARITO: ALTERNATIVA E</b></div><div><br></div>Caro aluno,<div><br><div>Vamos organizar os dados do enunciado:</div><div><br></div><div>•\tCriança de três anos,</div><div>•\tFratura no antebraço direito,</div><div>•\tbaixa estatura para a idade,&nbsp;</div><div>•\tescoliose,&nbsp;</div><div>•\tdesproporção da relação segmento superior e inferior,&nbsp;</div><div>•\thipotonia muscular,</div><div>•\thérnia umbilical pequena</div><div><br></div><div>Observamos nestas radiografias um arqueamento do fêmur e alargamento importante das epífises do fêmur, tíbia e do rádio.</div><div><br></div><div>O raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. Sendo as manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania. Veja a figura:</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6F6B8254-AD7D-8156-42C3-7CA68EB0BC0B/6F6B8254-AD7D-8156-42C3-7CA68EB0BC0B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ECaro aluno,Vamos organizar os dados do enunciado:•\tCriança de três anos,•\tFratura no antebraço direito,•\tbaixa estatura para a idade, •\tescoliose, •\tdesproporção da relação segmento superior e inferior, •\thipotonia muscular,•\thérnia umbilical pequenaObservamos nestas radiografias um arqueamento do fêmur e alargamento importante das epífises do fêmur, tíbia e do rádio.O raquitismo se caracteriza por anormalidades na formação da placa epifisária de crescimento com áreas não mineralizadas e retardo na maturação óssea. Sendo as manifestações clínicas principais as deformidades ósseas (craniotabes, fronte olímpica rosário raquítico, sulcos de Harrison, aumento do punho e membros inferiores arqueados), hipotonia e atraso no crescimento. Laboratorialmente encontra-se aumento importante da fosfatase alcalina, hipofosfatemia, sendo que o cálcio pode estar normal ou diminuído, dependendo do estágio da doença. A hipocalcemia encontrada em alguns pacientes pode desencadear convulsões e tetania. Veja a figura:Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-12 19:42:29.380054 +0000 UTC",
+          "updated_at": "2020-10-12 19:42:31.055258 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127107-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-com-tres-anos842d573162",
+        "public": true
+      },
+      {
+        "id": "4000129292",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "51f7d79ed0504e5d942daf32e8c6b473",
+            "name": "Kwashiorkor",
+            "is_master": false,
+            "master_id": "367cf4f71e214719bcd9eabac4e33556",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Desnutrição[$$]Quadro Clínico[$$]Kwashiorkor",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6a52dbad181b46968d6087717d401b07",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "8a352830b0ea4a83b28b2fe753466127",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Desnutrição[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "43e51434-d61f-4be6-8ba5-e6d4a073ea48",
+            "position": "0",
+            "body": "desnutrição proteica grave e encaminhamento para internação hospitalar.<div>&nbsp;</div>",
+            "sanitized_body": "desnutrição proteica grave e encaminhamento para internação hospitalar. ",
+            "correct": true,
+            "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+            "updated_at": "2020-12-02 00:01:02.113655 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa considerada correta.",
+              "sanitized_complete": "Alternativa considerada correta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:52:09.522919 +0000 UTC",
+              "updated_at": "2023-03-16 18:02:40.630713 +0000 UTC"
+            },
+            "answer_percentage": 66,
+            "answers": 865
+          },
+          {
+            "id": "ead019eb-3931-4186-a2fc-a1e796cdaa1e",
+            "position": "1",
+            "body": "desnutrição proteico-calórica grave e encaminhamento para internação hospitalar.<div>&nbsp;&nbsp;</div>",
+            "sanitized_body": "desnutrição proteico-calórica grave e encaminhamento para internação hospitalar.  ",
+            "correct": false,
+            "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+            "updated_at": "2020-12-02 00:01:02.237012 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, foi considerada incorreta pois o predomínio da desnutrição do kwashiorkor é deficiência proteíca, mas essa alternativa seria passível de anulação, pois uma criança desnutrida como essa também tem deficiência calórica/energética.",
+              "sanitized_complete": "Incorreta, foi considerada incorreta pois o predomínio da desnutrição do kwashiorkor é deficiência proteíca, mas essa alternativa seria passível de anulação, pois uma criança desnutrida como essa também tem deficiência calórica/energética.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:52:09.549353 +0000 UTC",
+              "updated_at": "2023-03-16 18:02:40.638312 +0000 UTC"
+            },
+            "answer_percentage": 28,
+            "answers": 363
+          },
+          {
+            "id": "afcdd400-d4c1-4ccc-b521-5f8ec04f2c44",
+            "position": "2",
+            "body": "desnutrição proteica grave e monitoramento de peso na Unidade Básica de Saúde.<div>&nbsp;</div>",
+            "sanitized_body": "desnutrição proteica grave e monitoramento de peso na Unidade Básica de Saúde. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+            "updated_at": "2020-12-02 00:01:02.334355 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, desnutrição proteica grave e m<strike>onitoramento de peso na Unidade Básica de Saúde,</strike> é indicação de internação hospitalar para manejo adequado.",
+              "sanitized_complete": "Incorreta, desnutrição proteica grave e monitoramento de peso na Unidade Básica de Saúde, é indicação de internação hospitalar para manejo adequado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:52:09.549613 +0000 UTC",
+              "updated_at": "2023-03-16 18:02:40.642142 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 35
+          },
+          {
+            "id": "66a9e1f1-e626-4160-9d7b-2b835198f90e",
+            "position": "3",
+            "body": "desnutrição proteico-calórica moderada e encaminhamento para internação hospitalar.<div>&nbsp;</div>",
+            "sanitized_body": "desnutrição proteico-calórica moderada e encaminhamento para internação hospitalar. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+            "updated_at": "2020-12-02 00:01:02.540286 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, kwashiorkor é considerada desnutrição grave.",
+              "sanitized_complete": "Incorreta, kwashiorkor é considerada desnutrição grave.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:52:09.535645 +0000 UTC",
+              "updated_at": "2023-03-16 18:02:40.646428 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 35
+          },
+          {
+            "id": "c934cc20-54dd-415a-a3a4-f5f0c70d993c",
+            "position": "4",
+            "body": "desnutrição calórica moderada e monitoramento do peso na Unidade Básica de Saúde.",
+            "sanitized_body": "desnutrição calórica moderada e monitoramento do peso na Unidade Básica de Saúde.",
+            "correct": false,
+            "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+            "updated_at": "2020-12-02 00:01:02.6686 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, desnutrição proteica energética grave e <strike>monitoramento de peso na Unidade Básica de Saúde</strike> é indicação de internação hospitalar para manejo adequado.",
+              "sanitized_complete": "Incorreta, desnutrição proteica energética grave e monitoramento de peso na Unidade Básica de Saúde é indicação de internação hospitalar para manejo adequado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:52:09.535815 +0000 UTC",
+              "updated_at": "2023-03-16 18:02:40.650162 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um lactente de um ano de idade apresenta inapetência, apatia, palidez cutâneo-mucosa acentuada, lesões cutâneas hipocrômicas e hipercrômicas com descamação em membros, facies de lua cheia, hepatomegalia, edema em membros e despigmentação de cabelos. A temperatura axilar é de 35,7°C. Foi identificado pelo agente comunitário de saúde em seu domicílio, onde mora com a mãe e mais cinco irmãos, e encaminhado para avaliação na Unidade Básica de Saúde (UBS). Peso = 7 kg e comprimento = 65 cm.<div><br></div><div>Com essas informações, o diagnóstico nutricional e a conduta médica mais adequados são, respectivamente,</div><div>&nbsp;</div>",
+        "statement_text": "Um lactente de um ano de idade apresenta inapetência, apatia, palidez cutâneo-mucosa acentuada, lesões cutâneas hipocrômicas e hipercrômicas com descamação em membros, facies de lua cheia, hepatomegalia, edema em membros e despigmentação de cabelos. A temperatura axilar é de 35,7°C. Foi identificado pelo agente comunitário de saúde em seu domicílio, onde mora com a mãe e mais cinco irmãos, e encaminhado para avaliação na Unidade Básica de Saúde (UBS). Peso = 7 kg e comprimento = 65 cm.Com essas informações, o diagnóstico nutricional e a conduta médica mais adequados são, respectivamente, ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 14:55:36.022877 +0000 UTC",
+        "solution": {
+          "_key": "91707438-cf27-48e8-abf6-3354d4e040fd",
+          "complete": "<div><b>GABARITO: ALTERNATIVA A</b></div><div><b><br></b></div><div>Caro Estrategista,</div><div><br></div><div> A desnutrição energético-proteica pode manifestar-se em graus variados, desde as formas leves até as graves. O marasmo e o kwashiorkor são considerados formas de desnutrição aguda grave. As manifestações clínicas dessas duas condições são bem conhecidas, assim como as graves alterações metabólicas que apresentam. </div><div><br></div><div>O kwashiorkor acomete, geralmente, crianças acima dos 2 anos de vida e é consequência da <b>baixa ingestão de proteínas</b>. As principais manifestações clínicas do kwashiorkor são <b>retardo no crescimento, perda de massa muscular menos intensa que no marasmo e edema depressível. </b>A gordura corporal no kwashiorkor é normal ou aumentada. O edema é marcante no kwashiorkor e localiza-se predominantemente nas pernas, região genital e sacral, podendo evoluir com anasarca. </div><div><br></div><div>A <b>face é arredondada, com aspecto de lua cheia, e a hepatomegalia</b> pode ser observada nessas crianças e é consequência da esteatose hepática. O estado mental é mais apático do que no marasmo. A pele sofre inicialmente um processo de<b> hiperpigmentação que é seguido por rachaduras e descamação de suas camadas superficiais. Posteriormente, observam-se áreas hipopigmentadas, friáveis e com queratose</b>. O cabelo desses pacientes também sofre despigmentação, solta-se facilmente do couro cabeludo e tende a ser mais liso.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/405D51B8-A71B-D2E1-C880-CDA55AB47EFC/405D51B8-A71B-D2E1-C880-CDA55AB47EFC-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ACaro Estrategista, A desnutrição energético-proteica pode manifestar-se em graus variados, desde as formas leves até as graves. O marasmo e o kwashiorkor são considerados formas de desnutrição aguda grave. As manifestações clínicas dessas duas condições são bem conhecidas, assim como as graves alterações metabólicas que apresentam. O kwashiorkor acomete, geralmente, crianças acima dos 2 anos de vida e é consequência da baixa ingestão de proteínas. As principais manifestações clínicas do kwashiorkor são retardo no crescimento, perda de massa muscular menos intensa que no marasmo e edema depressível. A gordura corporal no kwashiorkor é normal ou aumentada. O edema é marcante no kwashiorkor e localiza-se predominantemente nas pernas, região genital e sacral, podendo evoluir com anasarca. A face é arredondada, com aspecto de lua cheia, e a hepatomegalia pode ser observada nessas crianças e é consequência da esteatose hepática. O estado mental é mais apático do que no marasmo. A pele sofre inicialmente um processo de hiperpigmentação que é seguido por rachaduras e descamação de suas camadas superficiais. Posteriormente, observam-se áreas hipopigmentadas, friáveis e com queratose. O cabelo desses pacientes também sofre despigmentação, solta-se facilmente do couro cabeludo e tende a ser mais liso.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+          "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+          "author_profile": {
+            "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+            "full_name": "Jéssica Dantas",
+            "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+            "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-02 16:52:09.628825 +0000 UTC",
+          "updated_at": "2023-03-16 18:02:40.623706 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129292-720.mp4",
+        "unlisted": false,
+        "slug": "lactente-ano-idade91f8cbf883",
+        "public": true
+      },
+      {
+        "id": "4000129289",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6a72d5c7609b4e8b936db147fc07f5a0",
+            "name": "DNPM (Desenvolvimento Neuro-Psico-Motor)",
+            "is_master": false,
+            "master_id": "a4a25207be9b4f1399c88b948629160e",
+            "path": "Pediatria[$$]Puericultura [$$]DNPM (Desenvolvimento Neuro-Psico-Motor)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d07ee0a82a624136aa113ccc282f696a",
+            "name": "Avaliando o desenvolvimento",
+            "is_master": false,
+            "master_id": "6a72d5c7609b4e8b936db147fc07f5a0",
+            "path": "Pediatria[$$]Puericultura [$$]DNPM (Desenvolvimento Neuro-Psico-Motor)[$$]Avaliando o desenvolvimento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a1250f88-b225-49fd-a1a0-896d95118cde",
+            "position": "0",
+            "body": "antecipar a consulta seguinte.<div>&nbsp;</div>",
+            "sanitized_body": "antecipar a consulta seguinte. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+            "updated_at": "2020-12-02 00:04:12.035863 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, temos indicação de avaliação especializada.",
+              "sanitized_complete": "Incorreta, temos indicação de avaliação especializada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:59:26.371535 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 48
+          },
+          {
+            "id": "85d4c045-d47c-482d-89a8-64be453a0aaf",
+            "position": "1",
+            "body": "referir a criança para serviço de maior complexidade.<div>&nbsp;</div>",
+            "sanitized_body": "referir a criança para serviço de maior complexidade. ",
+            "correct": true,
+            "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+            "updated_at": "2020-12-02 00:04:12.276259 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta.",
+              "sanitized_complete": "Correta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:59:25.989334 +0000 UTC"
+            },
+            "answer_percentage": 67,
+            "answers": 746
+          },
+          {
+            "id": "a2a4172c-f98c-40db-a674-f36bec1b068b",
+            "position": "2",
+            "body": "agendar visitas mais frequentes pelo Agente Comunitário de Saúde.<div>&nbsp;</div>",
+            "sanitized_body": "agendar visitas mais frequentes pelo Agente Comunitário de Saúde. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+            "updated_at": "2020-12-02 00:04:12.546339 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, temos indicação de avaliação especializada.&nbsp;",
+              "sanitized_complete": "Incorreta, temos indicação de avaliação especializada. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:59:26.378308 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          },
+          {
+            "id": "9155031c-0717-4462-94f2-55ff4c8de311",
+            "position": "3",
+            "body": "<div>orientar a família a estimular a criança e a não deixá-la sempre em posição supina quando desperta.</div><div>&nbsp;</div>",
+            "sanitized_body": "orientar a família a estimular a criança e a não deixá-la sempre em posição supina quando desperta. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+            "updated_at": "2020-12-02 00:04:12.851744 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, temos indicação de avaliação especializada.&nbsp;",
+              "sanitized_complete": "Incorreta, temos indicação de avaliação especializada. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:59:25.969022 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 128
+          },
+          {
+            "id": "6412f3bd-eca9-4080-bddb-037e13b23874",
+            "position": "4",
+            "body": "tranquilizar a família e orientar para as diferenças normais de crescimento e desenvolvimento entre crianças, dentro da faixa de normalidade.",
+            "sanitized_body": "tranquilizar a família e orientar para as diferenças normais de crescimento e desenvolvimento entre crianças, dentro da faixa de normalidade.",
+            "correct": false,
+            "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+            "updated_at": "2020-12-02 00:04:13.105819 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, temos indicação de avaliação especializada.&nbsp;",
+              "sanitized_complete": "Incorreta, temos indicação de avaliação especializada. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 16:59:26.371563 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 184
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma equipe de Saúde da Família está em visita domiciliar e avalia uma criança de oito meses. O menino está corado, com peso e estatura adequados para a idade, fixa e acompanha objetos em seu campo visual, balbucia e, colocado de bruços, levanta a cabeça momentaneamente. Ainda não passa da posição lateral para a linha média, nem rola da posição supina para a prona. Levantado pelos braços, permanece passivo e não ajuda com o corpo. A mãe expressa preocupação porque o irmão mais velho, com a mesma idade, já sentava sem apoio.<div><br></div><div>A conduta correta no caso é</div><div>&nbsp;</div>",
+        "statement_text": "Uma equipe de Saúde da Família está em visita domiciliar e avalia uma criança de oito meses. O menino está corado, com peso e estatura adequados para a idade, fixa e acompanha objetos em seu campo visual, balbucia e, colocado de bruços, levanta a cabeça momentaneamente. Ainda não passa da posição lateral para a linha média, nem rola da posição supina para a prona. Levantado pelos braços, permanece passivo e não ajuda com o corpo. A mãe expressa preocupação porque o irmão mais velho, com a mesma idade, já sentava sem apoio.A conduta correta no caso é ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 14:52:24.272389 +0000 UTC",
+        "solution": {
+          "_key": "51507d01-eba7-4b4e-b002-5ff55735428a",
+          "complete": "Caro Estrategista,<div><br></div><div>Vamos rever os principais dados da questão:</div><div><ul><li>Lactente, oito meses.</li></ul><div>DNPM por áreas descritas:</div><ul><li>Visual: fixa e acompanha objetos em seu campo visual.</li><li>Linguagem: balbucia.</li><li>Motor: colocado de bruços, <b>levanta a cabeça momentaneamente.</b> Ainda <b>não passa da posição lateral para a linha média, nem rola</b> da posição supina para a prona. <b>Levantado pelos braços, permanece passivo e não ajuda com o corpo.</b></li></ul><div>Esperamos que uma criança sustente o pescoço aos 3 meses, role aos 4-5 meses, sente com apoio até os seis meses. Essa criança de 8 meses não faz nada disso! Ou seja, alteração do DNPM para sua faixa etária e para faixa etária anterior, o que indica avaliação especializada do neuropediatra.</div></div><div><br></div><div>Abaixo segue um resumo para você relembrar as principais etapas do DNPM da criança até os 8 meses.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/76A052D8-5204-7127-DF19-2C482DC7ECED/76A052D8-5204-7127-DF19-2C482DC7ECED-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "Caro Estrategista,Vamos rever os principais dados da questão:Lactente, oito meses.DNPM por áreas descritas:Visual: fixa e acompanha objetos em seu campo visual.Linguagem: balbucia.Motor: colocado de bruços, levanta a cabeça momentaneamente. Ainda não passa da posição lateral para a linha média, nem rola da posição supina para a prona. Levantado pelos braços, permanece passivo e não ajuda com o corpo.Esperamos que uma criança sustente o pescoço aos 3 meses, role aos 4-5 meses, sente com apoio até os seis meses. Essa criança de 8 meses não faz nada disso! Ou seja, alteração do DNPM para sua faixa etária e para faixa etária anterior, o que indica avaliação especializada do neuropediatra.Abaixo segue um resumo para você relembrar as principais etapas do DNPM da criança até os 8 meses.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+          "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+          "author_profile": {
+            "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+            "full_name": "Jéssica Dantas",
+            "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+            "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-02 16:59:26.187557 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129289-720.mp4",
+        "unlisted": false,
+        "slug": "equipe-Sau-Familia97a851d0bc",
+        "public": true
+      },
+      {
+        "id": "4000127397",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c96e10c723e34ca0912dfab6192ecb83",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d3e5c717bd9e4bdab87ef72352b4f134",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo\", mas quando era menor , segundo a mãe \"tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Faça uma proposta de orientação alimentar (pelo menos três orientações) e comportamental (pelo menos duas proposições) a ser feita para o menor e sua família. (VER IMAGEM)<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5AC642DC-03E2-07E8-478E-2CA16198A125/5AC642DC-03E2-07E8-478E-2CA16198A125-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CF084142-CC10-35D2-9BCD-3CFD7834D0DD/CF084142-CC10-35D2-9BCD-3CFD7834D0DD-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/CE408754-A13E-E81C-88A7-26809E3F3BA9/CE408754-A13E-E81C-88A7-26809E3F3BA9-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo&#34;, mas quando era menor , segundo a mãe &#34;tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Faça uma proposta de orientação alimentar (pelo menos três orientações) e comportamental (pelo menos duas proposições) a ser feita para o menor e sua família. (VER IMAGEM)",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:00:52.19652 +0000 UTC",
+        "forum_id": "017aea58-d97a-4bcf-8d08-0fc4e9dba348",
+        "solution": {
+          "_key": "e2acb08a-3c72-4c84-b6fa-06bd664b7b08",
+          "complete": "<!-- BEGIN:IMAGE_TO_REPLACE -->Querido(a) Estrategista,<div>Estamos diante de um escolar de 8 anos que :</div><div><ul><li>é exposto a telas</li><li>come de tudo</li><li>apresenta acantose nigricans</li><li>apresenta IMC de 21,3</li></ul></div><div>O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:</div><div><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/378C89C7-6AB9-28C0-D233-062D5ECC7556/378C89C7-6AB9-28C0-D233-062D5ECC7556-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Observe os pontos plotados nos gráficos:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DB5A5079-0AE7-1031-7750-F43063312CA4/DB5A5079-0AE7-1031-7750-F43063312CA4-400.png\"><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/75C6C9E9-4F23-10D5-867D-6E6958A7D2FF/75C6C9E9-4F23-10D5-867D-6E6958A7D2FF-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/4BA1C89B-1F3E-3576-739A-F0CDE0CAC608/4BA1C89B-1F3E-3576-739A-F0CDE0CAC608-400.png\"></div><div><br></div><div>De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.</div><div>Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.</div><div>As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.</div><div>O enunciado solicita:</div><div>1) orientação alimentar:</div><div>diminuir consumo de bebidas açucaradas</div><div>aumentar consumo de verduras e frutas</div><div>diminuir a porção dos alimentos</div><div>2) medidas comportamentais:</div><div>Estímulo à prática de atividades físicas </div><div>Diminuição do tempo de exposição a telas</div><div><br><div><br></div></div>",
+          "sanitized_complete": "Querido(a) Estrategista,Estamos diante de um escolar de 8 anos que :é exposto a telascome de tudoapresenta acantose nigricansapresenta IMC de 21,3O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:Observe os pontos plotados nos gráficos:De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.O enunciado solicita:1) orientação alimentar:diminuir consumo de bebidas açucaradasaumentar consumo de verduras e frutasdiminuir a porção dos alimentos2) medidas comportamentais:Estímulo à prática de atividades físicas Diminuição do tempo de exposição a telas",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-06 01:00:41.31945 +0000 UTC",
+          "updated_at": "2022-02-07 16:17:55.90224 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127397-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-8-anos-idade1381e974e16",
+        "public": true
+      },
+      {
+        "id": "4000127396",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d3e5c717bd9e4bdab87ef72352b4f134",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e50db9a5dbbe4b62a71a3838e1ce889a",
+            "name": "Quadro Clinico",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Quadro Clinico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo\", mas quando era menor , segundo a mãe \"tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Cite outras medidas antropométricas (pelo menos duas) que poderiam ter sido feitas e descreva a execução  de uma delas. (VER IMAGEM)<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1657461C-4699-9DE0-5EA4-94BA145D89DB/1657461C-4699-9DE0-5EA4-94BA145D89DB-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FF1F1EFE-2B6D-4467-6BBD-6B8216BFE54D/FF1F1EFE-2B6D-4467-6BBD-6B8216BFE54D-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7B5BC468-CB12-9547-6D56-AA71FD8D52C7/7B5BC468-CB12-9547-6D56-AA71FD8D52C7-400.jpeg\"></div>",
+        "statement_text": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo&#34;, mas quando era menor , segundo a mãe &#34;tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Cite outras medidas antropométricas (pelo menos duas) que poderiam ter sido feitas e descreva a execução  de uma delas. (VER IMAGEM)",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 12:00:10.233523 +0000 UTC",
+        "solution": {
+          "_key": "ef2a5d01-18ac-4650-bf35-06aac506dc01",
+          "complete": "Querido(a) Estrategista,<div>Estamos diante de um escolar de 8 anos que :</div><div><ul><li>é exposto a telas</li><li>come de tudo</li><li>apresenta acantose nigricans</li><li>apresenta IMC de 21,3</li></ul></div><div>O diagnóstico de obesidade é realizado por meio do IMC. Seu cálculo é feito da seguinte forma: Peso(Kg)/Estatura ²:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/50357989-5370-66C7-13BA-C10A2EC3C9F1/50357989-5370-66C7-13BA-C10A2EC3C9F1-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.</div><div>Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.</div><div>As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.</div><div>O enunciado solicita:</div><div>1) duas medidas antropométricas que poderiam ser feitas e sua descrição:</div><div>Medida da circunferência abdominal: A medida da CA é feita com fita inextensível, os pés devem estar paralelos de 20 a 25 cm no ponto médio entre a borda inferior da última costela e a borda superior da crista ilíaca.&nbsp;</div><div>Avaliação das dobras cutâneas: tricipital e subescapular por meio de um aparelho denominado adipômetro.</div><div><br></div><div><br></div>",
+          "sanitized_complete": "Querido(a) Estrategista,Estamos diante de um escolar de 8 anos que :é exposto a telascome de tudoapresenta acantose nigricansapresenta IMC de 21,3O diagnóstico de obesidade é realizado por meio do IMC. Seu cálculo é feito da seguinte forma: Peso(Kg)/Estatura ²:De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.O enunciado solicita:1) duas medidas antropométricas que poderiam ser feitas e sua descrição:Medida da circunferência abdominal: A medida da CA é feita com fita inextensível, os pés devem estar paralelos de 20 a 25 cm no ponto médio entre a borda inferior da última costela e a borda superior da crista ilíaca. Avaliação das dobras cutâneas: tricipital e subescapular por meio de um aparelho denominado adipômetro.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-06 01:06:46.784602 +0000 UTC",
+          "updated_at": "2021-07-06 01:06:46.987535 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127396-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-8-anos-idade1330e21426d",
+        "public": true
+      },
+      {
+        "id": "4000127395",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "778a460760a14227b86b46af68c5fa29",
+            "name": "Comorbidades",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Comorbidades",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d3e5c717bd9e4bdab87ef72352b4f134",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "8d5e59f678714443b728cb1b33bc7be1",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional [$$]Obesidade[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo\", mas quando era menor , segundo a mãe \"tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Cite a(s) patologia(s) que deve(m) ser investigada(s) neste momento e os exames subsidiários relacionados (VER IMAGEM).<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/95ABD8EE-C310-2165-EC1C-2CEC88C2FB13/95ABD8EE-C310-2165-EC1C-2CEC88C2FB13-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/568D812C-5DF9-A534-9674-C73FF6248E80/568D812C-5DF9-A534-9674-C73FF6248E80-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1CCF08F6-BCC6-D53D-1DE1-1DA25B5A45EF/1CCF08F6-BCC6-D53D-1DE1-1DA25B5A45EF-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo&#34;, mas quando era menor , segundo a mãe &#34;tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Cite a(s) patologia(s) que deve(m) ser investigada(s) neste momento e os exames subsidiários relacionados (VER IMAGEM).",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 11:59:20.41342 +0000 UTC",
+        "forum_id": "1bef49a6-6eec-4f0b-9767-ff6423ec8f8e",
+        "solution": {
+          "_key": "eebf3bd6-3eed-4ff0-ab08-af5c1bf0744b",
+          "complete": "<div><br></div><div>Querido(a) Estrategista,</div><div>Estamos diante de um escolar de 8 anos que :</div><div><ul><li>é exposto a telas</li><li>come de tudo</li><li>apresenta acantose nigricans</li><li>apresenta IMC de 21,3</li></ul></div><div>O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DC35A24B-BF5A-3F88-76F9-B5ABFD312B9D/DC35A24B-BF5A-3F88-76F9-B5ABFD312B9D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.</div><div>Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.</div><div>As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.</div><div>O enunciado solicita:</div><div>1) comorbidades a serem investigadas</div><div>Os obesos podem apresentar inúmeras comorbidades, dentre elas destacam-se o hiperinsulinismo, a doença hepática gordurosa não alcoólica (DHGNA), dislipidemias entre outras.</div><div>2) Exames laboratoriais:</div><div>A investigação laboratorial inicial de crianças obesas deve incluir:&nbsp;</div><div>\tGlicemia de jejum: avaliação da resistência à insulina</div><div>\tTriglicérides: para a avaliação da hipertrigliceridemia</div><div>\tColesterol total e frações (HDL e LDL): avaliação das dislipidemias</div><div>\tEnzimas hepáticas: triagem para DHGNA</div><div><br></div><div><br></div>",
+          "sanitized_complete": "Querido(a) Estrategista,Estamos diante de um escolar de 8 anos que :é exposto a telascome de tudoapresenta acantose nigricansapresenta IMC de 21,3O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.Além disso, ele tem um sinal clínico de hiperinsulinismo e deve ser orientado a perder peso, para que o seu IMC normalize.As primeiras medidas indicadas são as medidas comportamentais que consistem em dieta, atividade física programada e apoio psicológico com acompanhamento ambulatorial com equipe multiprofissional.O enunciado solicita:1) comorbidades a serem investigadasOs obesos podem apresentar inúmeras comorbidades, dentre elas destacam-se o hiperinsulinismo, a doença hepática gordurosa não alcoólica (DHGNA), dislipidemias entre outras.2) Exames laboratoriais:A investigação laboratorial inicial de crianças obesas deve incluir: \tGlicemia de jejum: avaliação da resistência à insulina\tTriglicérides: para a avaliação da hipertrigliceridemia\tColesterol total e frações (HDL e LDL): avaliação das dislipidemias\tEnzimas hepáticas: triagem para DHGNA",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-06 01:12:54.077073 +0000 UTC",
+          "updated_at": "2021-07-06 01:12:54.469466 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127395-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-8-anos-idade12784cc8c02",
+        "public": true
+      },
+      {
+        "id": "4000127394",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "9455adee451045fd92119dccd7b849e5",
+            "name": "Diagnóstico Nutricional ",
+            "is_master": false,
+            "master_id": "a4a25207be9b4f1399c88b948629160e",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo\", mas quando era menor , segundo a mãe \"tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Descreva o estado nutricional da criança, considerando os índices avaliados (VER IMAGEM). P/I; E/I; IMC/I.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7ABD8A83-BF2B-14E6-6DF4-C3557A0037C7/7ABD8A83-BF2B-14E6-6DF4-C3557A0037C7-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6AD58EB2-5FB8-C302-A7D5-82033673B86A/6AD58EB2-5FB8-C302-A7D5-82033673B86A-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/BA296926-4B10-A00E-6BBA-4EE34BB75819/BA296926-4B10-A00E-6BBA-4EE34BB75819-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo&#34;, mas quando era menor , segundo a mãe &#34;tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base no quadro clínico apresentado, responda a proposição abaixo: Descreva o estado nutricional da criança, considerando os índices avaliados (VER IMAGEM). P/I; E/I; IMC/I.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 11:58:30.039397 +0000 UTC",
+        "solution": {
+          "_key": "20d23f75-e065-4cb1-aa9f-e12489011b9d",
+          "complete": "Querido(a) Estrategista,<div>Estamos diante de um escolar de 8 anos que :</div><div><ul><li>é exposto a telas</li><li>come de tudo</li><li>apresenta acantose nigricans</li><li>apresenta IMC de 21,3<br></li></ul></div><div>1) O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C8EE0062-34E2-7D3E-8CE4-A8A66F686B72/C8EE0062-34E2-7D3E-8CE4-A8A66F686B72-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.</div><div>2)Sua estatura se encontra no escore Z zero e +1, veja:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1D34C79B-0044-5A00-14E5-EA41DEE88141/1D34C79B-0044-5A00-14E5-EA41DEE88141-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Portanto, sua estatura é normal</div><div><br></div><div><br></div><div>3)Seu peso: se encontra no escore +2 e +3 e portanto apresenta peso elevado, observe:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C752B22E-7D3C-FA52-4361-42400FE9BEAA/C752B22E-7D3C-FA52-4361-42400FE9BEAA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Conclusão:</div><div>Peso elevado, estatura adequada e obesidade são os diagnósticos nutricionais para o paciente descrito.</div>",
+          "sanitized_complete": "Querido(a) Estrategista,Estamos diante de um escolar de 8 anos que :é exposto a telascome de tudoapresenta acantose nigricansapresenta IMC de 21,31) O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ²:De acordo com o gráfico de IMC, vemos que nosso paciente se encontra entre o escore Z +2 e +3 e seu diagnóstico nutricional é de obesidade.2)Sua estatura se encontra no escore Z zero e +1, veja:Portanto, sua estatura é normal3)Seu peso: se encontra no escore +2 e +3 e portanto apresenta peso elevado, observe:Conclusão:Peso elevado, estatura adequada e obesidade são os diagnósticos nutricionais para o paciente descrito.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-06 01:21:36.172155 +0000 UTC",
+          "updated_at": "2021-07-06 01:21:36.551218 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127394-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-8-anos-idade1260f493ab0",
+        "public": true
+      },
+      {
+        "id": "4000127393",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Discursiva",
+            "active": true,
+            "pdfs": null,
+            "degree_proof": false,
+            "questions_number": 21,
+            "created_at": "2020-09-03T11:47:35Z",
+            "updated_at": "2020-09-24T15:29:12Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "9455adee451045fd92119dccd7b849e5",
+            "name": "Diagnóstico Nutricional ",
+            "is_master": false,
+            "master_id": "a4a25207be9b4f1399c88b948629160e",
+            "path": "Pediatria[$$]Puericultura [$$]Diagnóstico Nutricional ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "answer_type": "DISCURSIVE",
+        "statement": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo\", mas quando era menor , segundo a mãe \"tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base  no quadro clínico apresentado, responda a proposição abaixo: Plote nas curvas anexas os dados antropométricos.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FF5A6A0C-1CD1-7A98-0DAA-4014F70A9FC4/FF5A6A0C-1CD1-7A98-0DAA-4014F70A9FC4-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B34B09C5-8F55-30BB-5255-BF34C33A5278/B34B09C5-8F55-30BB-5255-BF34C33A5278-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6072D068-0A5E-F35A-10E9-7AE55394E276/6072D068-0A5E-F35A-10E9-7AE55394E276-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Criança de 8 anos de idade, do sexo masculino, está em acompanhamento de rotina na Unidade Básica de Saúde (UBS). Não tem passado mórbido significativo. O cartão vacinal está em dia. Atividades de lazer: video game, desenhos na TV e visita a familiares. Padrão alimentar atual: “come de tudo&#34;, mas quando era menor , segundo a mãe &#34;tinha que forçar para comer” . Ao exame: peso = 36 Kg; estatura = 130 cm; P A = 100 x 60 mmHg; presença de máculas hipercrômicas ao redor da região cervical compatível com Acantosis nigricans. Ausência de outros achados patológicos no exame físico. Com base  no quadro clínico apresentado, responda a proposição abaixo: Plote nas curvas anexas os dados antropométricos.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "bf3ef39f2c543b3dca4933325fffb095",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-28 11:57:46.028512 +0000 UTC",
+        "solution": {
+          "_key": "7768a7b1-2256-4bec-9d7a-232119877ffd",
+          "complete": "Comentários:&nbsp;<div>Caro(a) aluno(a).</div><div>Estamos diante de um escolar de 8 anos que :</div><div><ul><li>É exposto a telas</li><li>come de tudo</li><li>apresenta acantose nigricans</li><li>apresenta IMC de 21,3</li></ul></div><div>-O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ². Colocando seu IMC na curva fornecida, ele se encontra entre o <b>escore Z +2 e +3</b></div><div>-Em relação à estatura. De acordo com a curva ele se situa entre o <b>escore Z zero e +1</b></div><div>-O seu peso se situa <b>acima do escore Z +2</b>.</div><div><br></div>",
+          "sanitized_complete": "Comentários: Caro(a) aluno(a).Estamos diante de um escolar de 8 anos que :É exposto a telascome de tudoapresenta acantose nigricansapresenta IMC de 21,3-O cálculo de IMC é feito da seguinte forma: Peso(Kg)/Estatura ². Colocando seu IMC na curva fornecida, ele se encontra entre o escore Z +2 e +3-Em relação à estatura. De acordo com a curva ele se situa entre o escore Z zero e +1-O seu peso se situa acima do escore Z +2.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-06 01:27:04.648093 +0000 UTC",
+          "updated_at": "2021-07-06 01:27:05.008796 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127393-720.mp4",
+        "unlisted": false,
+        "slug": "Crianc-8-anos-idade119f4ec144f",
+        "public": true
+      },
+      {
+        "id": "4000127212",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6b7cb516628a4efba6a8bf8f5720c89a",
+            "name": "Abordagem",
+            "is_master": false,
+            "master_id": "c3341c435e044b3c894e3860496e17f0",
+            "path": "Pediatria[$$]Puericultura [$$]Crescimento[$$]Crescimento  Anormal[$$]Baixa Estatura[$$]Abordagem",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d42f6afe-b3a4-4cc4-a5bc-fc3207b1fc27",
+            "position": "0",
+            "body": "Encaminhar o paciente para endocrinologista para indução puberal imediata com testosterona.",
+            "sanitized_body": "Encaminhar o paciente para endocrinologista para indução puberal imediata com testosterona.",
+            "correct": false,
+            "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+            "updated_at": "2020-10-12 19:37:41.596696 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “A” porque as deficiências hormonais que causam baixa estatura cursam com atraso importante de idade óssea e baixa velocidade de crescimento. O paciente apresentado não tem estas características e, portanto, não necessita de reposição hormonal.",
+              "sanitized_complete": "Incorreta alternativa “A” porque as deficiências hormonais que causam baixa estatura cursam com atraso importante de idade óssea e baixa velocidade de crescimento. O paciente apresentado não tem estas características e, portanto, não necessita de reposição hormonal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:40:52.477026 +0000 UTC",
+              "updated_at": "2020-10-12 19:40:53.626875 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 21
+          },
+          {
+            "id": "97dd5460-aba0-44c3-80de-83c195519fc9",
+            "position": "1",
+            "body": "Referenciar o paciente para endocrinologista para indução imediata do crescimento com sulfato de zinco.",
+            "sanitized_body": "Referenciar o paciente para endocrinologista para indução imediata do crescimento com sulfato de zinco.",
+            "correct": false,
+            "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+            "updated_at": "2020-10-12 19:37:41.732833 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “B” porque não há evidências clínicas de deficiência de zinco. Este paciente não apresenta lesões de pele, diarreia, alopecia, anemia, entre outras manifestações da deficiência de Zinco.",
+              "sanitized_complete": "Incorreta alternativa “B” porque não há evidências clínicas de deficiência de zinco. Este paciente não apresenta lesões de pele, diarreia, alopecia, anemia, entre outras manifestações da deficiência de Zinco.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:40:52.469575 +0000 UTC",
+              "updated_at": "2020-10-12 19:40:53.608969 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 3
+          },
+          {
+            "id": "bb26bc82-1a43-482f-a55d-508b5bc96c57",
+            "position": "2",
+            "body": "Acompanhar a evolução e não referenciar o paciente nesse momento, pois trata-se de atraso puberal constitucional.",
+            "sanitized_body": "Acompanhar a evolução e não referenciar o paciente nesse momento, pois trata-se de atraso puberal constitucional.",
+            "correct": true,
+            "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+            "updated_at": "2020-10-12 19:37:41.858632 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta alternativa “C” porque o atraso constitucional do crescimento e puberdade (ACCP) é uma condição benigna na qual o adolescente demora mais do que as outras crianças para apresentar o estirão, contudo sua velocidade de crescimento é adequada, indicando não haver deficiência hormonal. No final, sua estatura atinge o valor esperado de acordo com o seu padrão genético. Este paciente se encaixa nestes critérios pois está com atraso puberal, sem atraso importante de idade óssea, com velocidade de crescimento adequada. Sendo assim, pacientes com ACCP devem ser acompanhados clinicamente sem necessidade de intervenções farmacológicas.",
+              "sanitized_complete": "Correta alternativa “C” porque o atraso constitucional do crescimento e puberdade (ACCP) é uma condição benigna na qual o adolescente demora mais do que as outras crianças para apresentar o estirão, contudo sua velocidade de crescimento é adequada, indicando não haver deficiência hormonal. No final, sua estatura atinge o valor esperado de acordo com o seu padrão genético. Este paciente se encaixa nestes critérios pois está com atraso puberal, sem atraso importante de idade óssea, com velocidade de crescimento adequada. Sendo assim, pacientes com ACCP devem ser acompanhados clinicamente sem necessidade de intervenções farmacológicas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:40:52.474481 +0000 UTC",
+              "updated_at": "2020-10-12 19:40:53.604877 +0000 UTC"
+            },
+            "answer_percentage": 61,
+            "answers": 600
+          },
+          {
+            "id": "f5104a0c-122e-469b-9228-f85e41e85329",
+            "position": "3",
+            "body": "Referenciar o paciente para endocrinologista para investigação imediata de hipogonadismo hipogonadotrófico.",
+            "sanitized_body": "Referenciar o paciente para endocrinologista para investigação imediata de hipogonadismo hipogonadotrófico.",
+            "correct": false,
+            "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+            "updated_at": "2020-10-12 19:37:41.989799 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “D” porque como mencionado acima, pacientes com baixa estatura que apresentem deficiências hormonais, revelam atraso importante de idade óssea e da velocidade de crescimento, o que não foi constatado neste paciente.",
+              "sanitized_complete": "Incorreta alternativa “D” porque como mencionado acima, pacientes com baixa estatura que apresentem deficiências hormonais, revelam atraso importante de idade óssea e da velocidade de crescimento, o que não foi constatado neste paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:40:52.473159 +0000 UTC",
+              "updated_at": "2020-10-12 19:40:53.594969 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 102
+          },
+          {
+            "id": "3fc221f9-7795-4742-8797-b8fc7176e6bc",
+            "position": "4",
+            "body": "Não referenciar o paciente e tranquilizá-lo, pois não há evidência de atraso puberal.",
+            "sanitized_body": "Não referenciar o paciente e tranquilizá-lo, pois não há evidência de atraso puberal.",
+            "correct": false,
+            "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+            "updated_at": "2020-10-12 19:37:42.120911 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “E” porque embora seja desnecessário o encaminhamento ao endocrinologista, este paciente apresenta atraso puberal. Considera-se que um menino que após os 14 anos de idade não manifestou nenhum sinal puberal, tenha atraso puberal.",
+              "sanitized_complete": "Incorreta alternativa “E” porque embora seja desnecessário o encaminhamento ao endocrinologista, este paciente apresenta atraso puberal. Considera-se que um menino que após os 14 anos de idade não manifestou nenhum sinal puberal, tenha atraso puberal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:40:52.464349 +0000 UTC",
+              "updated_at": "2020-10-12 19:40:53.618827 +0000 UTC"
+            },
+            "answer_percentage": 27,
+            "answers": 265
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Adolescente do sexo masculino, com 14 anos de idade, busca atendimento em Unidade Básica de Saúde por considerar sua estatura muito baixa. O seu peso ao nascer foi de 3 Kg e o comprimento, de 50 cm. Manteve-se com velocidade de crescimento adequada até os dois anos de vida. Depois desse período, o pediatra constatou desaceleração no padrão de crescimento. Atualmente, apresenta velocidade de crescimento e estatura compatíveis com a idade óssea. Estágio de Tanner = 1; idade óssea = 13,5 anos; radiografia de crânio normal.&nbsp;<div><br></div><div>Qual a conduta adequada para essa situação?</div>",
+        "statement_text": "Adolescente do sexo masculino, com 14 anos de idade, busca atendimento em Unidade Básica de Saúde por considerar sua estatura muito baixa. O seu peso ao nascer foi de 3 Kg e o comprimento, de 50 cm. Manteve-se com velocidade de crescimento adequada até os dois anos de vida. Depois desse período, o pediatra constatou desaceleração no padrão de crescimento. Atualmente, apresenta velocidade de crescimento e estatura compatíveis com a idade óssea. Estágio de Tanner = 1; idade óssea = 13,5 anos; radiografia de crânio normal. Qual a conduta adequada para essa situação?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:18:59.327388 +0000 UTC",
+        "forum_id": "72562d9b-b0be-4a39-aeca-de44676a7538",
+        "solution": {
+          "_key": "8cc14f34-f419-46d3-af28-2294f5186022",
+          "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><div><br></div>Caro aluno,<div><br></div><div>A baixa estatura é definida como estatura abaixo de 2DP da média populacional de altura para gênero e idade ou percentil abaixo do Percentil 3.</div><div>Ao avaliar pacientes com baixa estatura, dados como velocidade de crescimento, altura dos pais (para o cálculo do alvo genético), estadiamento puberal e idade óssea são fundamentais.</div><div><br></div><div><b>As principais causas de baixa estatura são:</b></div><div><br></div><div>•\tCausas não endócrinas: doenças crônicas (fibrose cística,doença celíaca, desnutrição doenças reumatológicas, cardiopatias, síndrome nefrótica, entre outras)&nbsp;</div><div><br></div><div>•\tCausas endócrinas: deficiência de hormônio de crescimento, hipotireoidismo, Síndrome de Cushing, hiperplasia congênita de adrenal, hipopituitarismo, puberdade precoce e tardia, diabetes mellitus descompensado.</div><div><br></div><div>•\tSíndromes genéticas: síndrome de Noonan, síndrome de Silver Russel, síndrome de Willians, síndrome de Turner, Síndrome de Prader Willi.</div><div><br></div><div>•\tBaixa estatura familiar</div><div><br></div><div>•\tAtraso constitucional de estatura e da puberdade</div><div><br></div><div>•\tPacientes pequenos para a idade gestacional</div><div><br></div><div><b>Vamos analisar o caso apresentado:</b></div><div><br></div><div>•\tAdolescente do sexo masculino de 14 anos,</div><div>•\tAtraso puberal (puberdade normalmente se manifesta em meninos dos 9 aos 14 anos),</div><div>•\tPeso e estatura normais ao nascimento,</div><div>•\tVelocidade de crescimento adequada para a idade óssea,</div><div>•\tEstatura compatível com a idade óssea,</div><div>•\tIdade óssea normal</div><div>•\tRadiografia de crânio normal.</div><div><br></div><div><b>Veja algumas dicas para resolver as questões de baixa estatura.</b></div><div><br></div><div>•\tno retardo constitucional do crescimento e puberdade (RCCP), a velocidade de crescimento é normal, a idade óssea e puberdade são atrasadas e existe em geral antecedente familiar para RCCP. A estatura final é normal e o adolescente demora mais que os colegas da mesma idade para atingir o estirão.</div><div><br></div><div>•\tna baixa estatura familiar, os pais têm baixa estatura e aplicando-se a fórmula do alvo genético observa-se que a criança está num canal de crescimento semelhante ao alvo. Não há atraso de puberdade e nem de idade óssea e a velocidade de crescimento é normal. Lembrem a fórmula do alvo genético:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1EEEDC5A-C172-CA03-92DD-426350CE7F69/1EEEDC5A-C172-CA03-92DD-426350CE7F69-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>&nbsp;</div><div>•\tnas deficiências hormonais, (GH e Hipotireoidismo), ocorre atraso importante da idade óssea, a velocidade de crescimento é bem abaixo da esperada e pode haver também atraso puberal.</div><div><br></div><div>•\tna menina adolescente com baixa estatura e atraso puberal, lembrem que a Síndrome de Turner é muito prevalente e deve-se suspeitar quando houver alguma referência a estigmas físicos, edema de mãos e pés ao nascimento, presença de alguma cardiopatia, entre outras.</div><div><br></div><div>Como vemos, este paciente apresenta velocidade de crescimento compatível com a idade óssea e esta idade óssea não está atrasada.&nbsp;</div><div><br></div><div>Vamos às alternativas;</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CCaro aluno,A baixa estatura é definida como estatura abaixo de 2DP da média populacional de altura para gênero e idade ou percentil abaixo do Percentil 3.Ao avaliar pacientes com baixa estatura, dados como velocidade de crescimento, altura dos pais (para o cálculo do alvo genético), estadiamento puberal e idade óssea são fundamentais.As principais causas de baixa estatura são:•\tCausas não endócrinas: doenças crônicas (fibrose cística,doença celíaca, desnutrição doenças reumatológicas, cardiopatias, síndrome nefrótica, entre outras) •\tCausas endócrinas: deficiência de hormônio de crescimento, hipotireoidismo, Síndrome de Cushing, hiperplasia congênita de adrenal, hipopituitarismo, puberdade precoce e tardia, diabetes mellitus descompensado.•\tSíndromes genéticas: síndrome de Noonan, síndrome de Silver Russel, síndrome de Willians, síndrome de Turner, Síndrome de Prader Willi.•\tBaixa estatura familiar•\tAtraso constitucional de estatura e da puberdade•\tPacientes pequenos para a idade gestacionalVamos analisar o caso apresentado:•\tAdolescente do sexo masculino de 14 anos,•\tAtraso puberal (puberdade normalmente se manifesta em meninos dos 9 aos 14 anos),•\tPeso e estatura normais ao nascimento,•\tVelocidade de crescimento adequada para a idade óssea,•\tEstatura compatível com a idade óssea,•\tIdade óssea normal•\tRadiografia de crânio normal.Veja algumas dicas para resolver as questões de baixa estatura.•\tno retardo constitucional do crescimento e puberdade (RCCP), a velocidade de crescimento é normal, a idade óssea e puberdade são atrasadas e existe em geral antecedente familiar para RCCP. A estatura final é normal e o adolescente demora mais que os colegas da mesma idade para atingir o estirão.•\tna baixa estatura familiar, os pais têm baixa estatura e aplicando-se a fórmula do alvo genético observa-se que a criança está num canal de crescimento semelhante ao alvo. Não há atraso de puberdade e nem de idade óssea e a velocidade de crescimento é normal. Lembrem a fórmula do alvo genético: •\tnas deficiências hormonais, (GH e Hipotireoidismo), ocorre atraso importante da idade óssea, a velocidade de crescimento é bem abaixo da esperada e pode haver também atraso puberal.•\tna menina adolescente com baixa estatura e atraso puberal, lembrem que a Síndrome de Turner é muito prevalente e deve-se suspeitar quando houver alguma referência a estigmas físicos, edema de mãos e pés ao nascimento, presença de alguma cardiopatia, entre outras.Como vemos, este paciente apresenta velocidade de crescimento compatível com a idade óssea e esta idade óssea não está atrasada. Vamos às alternativas;",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-12 19:40:52.607617 +0000 UTC",
+          "updated_at": "2020-10-12 19:40:53.727142 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Adolescente-sexo926daa3648",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

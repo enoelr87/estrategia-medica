@@ -1,0 +1,1390 @@
+{
+    "data": [
+      {
+        "id": "4000146607",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "43d9a11db7c3487983ac7f09d270310d",
+            "name": "Infecções oportunistas",
+            "is_master": false,
+            "master_id": "71418c85978540778bd9ee9e8551369a",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7aed2393ed894ddeb052af73b6296732",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "4502e7daa1594653b60a5a8284f78bc4",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5b9a668d-f15d-438d-8be2-6444684397f4",
+            "position": "0",
+            "body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose, caso haja alteração na radiografia de tórax.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:50.951036 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "sanitized_complete": "A alternativa A está incorreta, pois o teste rápido molecular para tuberculose (TRM-TB) deve ser realizado para o diagnóstico de casos novos, independentemente da radiografia torácica. Nesse caso, por se tratar de uma PVHIV, recomenda-se também a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.131507 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.448679 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 138
+          },
+          {
+            "id": "2f6c4c6a-63e8-45e5-abbe-f6c69aa63efd",
+            "position": "1",
+            "body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e, se negativo, indicar a cultura de escarro com teste de sensibilidade.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.032484 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV).&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois devem ser solicitados para o diagnóstico de casos novos o teste rápido molecular para tuberculose (TRM-TB), a cultura do escarro e teste de sensibilidade, já que se trata de uma população considerada de maior vulnerabilidade (PVHIV). ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.13341 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.475992 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 415
+          },
+          {
+            "id": "d76d4d40-c6a9-4176-a23a-6514744c67b0",
+            "position": "2",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta.",
+            "correct": true,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.106891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "sanitized_complete": "A alternativa C está correta, pois trata-se da investigação diagnóstica em um indivíduo considerado de maior vulnerabilidade (PVHIV).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.135793 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.443054 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 6588
+          },
+          {
+            "id": "6dd28b38-cb57-40b9-912e-5036eba2e07d",
+            "position": "3",
+            "body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "sanitized_body": "Solicitar teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade somente se resistência à rifampicina.",
+            "correct": false,
+            "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+            "updated_at": "2021-06-20 09:20:51.189333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "sanitized_complete": "A alternativa D está incorreta, pois recomenda-se teste rápido molecular para tuberculose e cultura de escarro com teste de sensibilidade já na primeira consulta, como é PVHIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-06-20 08:35:27.144615 +0000 UTC",
+              "updated_at": "2021-06-20 09:26:05.435424 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 305
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "statement_text": "Um homem com 24 anos de idade comparece à Unidade de Saúde da Família do seu bairro. Há uma semana, iniciou quadro de tosse produtiva, febre de 38ºC e inapetência. Afirmou fazer uso regular de antirretrovirais para tratamento de HIV/aids há 2 anos. Houve emagrecimento de 5 kg nos últimos seis meses. Sem alterações na ausculta pulmonar e cardíaca ou nos demais itens do exame físico. Qual deve ser a conduta médica para a investigação diagnóstica desse paciente, além da solicitação de radiografia de tórax?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:53:44.086626 +0000 UTC",
+        "forum_id": "afe2dd32-5886-4694-b0bc-a93de95d7e44",
+        "solution": {
+          "_key": "937b37e8-099d-4ae1-ad1a-aaa077578364",
+          "complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.<div><br></div><div>Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:</div><div><br></div><div>- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/35FBAD55-039F-2DBF-6904-0A923693897D/35FBAD55-039F-2DBF-6904-0A923693897D-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>- Pneumocistose (pneumonia por <i>Pneumocystis jiroveci</i>): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.</div><div><br></div><div>- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7D114EE7-2D1E-1A37-5388-C04BB68F293F/7D114EE7-2D1E-1A37-5388-C04BB68F293F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020</div>",
+          "sanitized_complete": "As doenças do sistema respiratório são a maior causa de morbimortalidade na infecção pelo HIV/Aids.Caro(a) Estrategista, estamos diante de uma pessoa vivendo com HIV (PVHIV), em uso regular de antirretrovirais há 2 anos, com tosse produtiva, febre de 38°C e inapetência há uma semana, além de perda de 5 kg nos últimos 6 meses. Não é informada a contagem de linfócitos T CD4+. Diante disso, deve-se pensar nas principais infecções pulmonares em PVHIV:- Pneumonia: aparece em pessoas com qualquer contagem de linfócitos T CD4+ e manifesta-se com febre, tosse produtiva e evolução aguda. Ao exame físico, são encontrados sinais da síndrome de consolidação pulmonar, o que não ocorre nesse caso.- Pneumocistose (pneumonia por Pneumocystis jiroveci): geralmente acomete PVHIV com linfócitos T CD4+ &lt; 200 células/microL. Apresenta-se tipicamente com tosse não produtiva, dispneia subaguda e hipoxemia, não descritas nesse caso. É comum a associação de candidíase oral, o que também não foi citado. Pode ocorrer uma perda ponderal, porém o indivíduo está em uso regular de antirretrovirais e não se espera uma imunodepressão moderada/grave, o que justificaria essa situação.- Tuberculose: tosse produtiva purulente ou mucoide, febre, geralmente vespertina, de até 38,5°C e inapetência são frequentes na tuberculose pulmonar. Além disso, o exame físico mostra emagrecimento em muitos casos. Diante disso, recomenda-se a realização de investigação diagnóstica de tuberculose, seguindo o seguinte fluxograma.FONTE: Manual de Recomendações para o Controle da Tuberculose no Brasil - Ministério da Saúde - atualizado em maio/2020",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-06-20 08:35:27.215901 +0000 UTC",
+          "updated_at": "2021-06-20 09:26:05.558775 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146607-720.mp4",
+        "unlisted": false,
+        "slug": "homem-com-24-anos8511effdb3",
+        "public": true
+      },
+      {
+        "id": "4000126589",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "69d6654bfb114f7ebedebe54d358a773",
+            "name": "Tuberculose",
+            "is_master": false,
+            "master_id": "061176ba25e541efa5c80238604512dd",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Tuberculose",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "df560d65e05042d7b0efaafefe2c0016",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "4502e7daa1594653b60a5a8284f78bc4",
+            "path": "Clínica Médica[$$]Infectologia [$$]Tuberculose (TB)[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "35854f78-ee26-46f7-98c8-d675dfda3340",
+            "position": "0",
+            "body": "Iniciar o tratamento com antirretroviral (lamivudina + efavirenz + tenofovir) e, após 2 semanas, RIPE (rifampicina + isoniazida + pirazinamida + etambutol) por 6 meses.",
+            "sanitized_body": "Iniciar o tratamento com antirretroviral (lamivudina + efavirenz + tenofovir) e, após 2 semanas, RIPE (rifampicina + isoniazida + pirazinamida + etambutol) por 6 meses.",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.376056 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. A TARV deve ser iniciada após o tratamento da tuberculose.",
+              "sanitized_complete": "Alternativa A incorreta. A TARV deve ser iniciada após o tratamento da tuberculose.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.085087 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.885622 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 342
+          },
+          {
+            "id": "14e95ea6-c844-4f79-8500-f169a0026e67",
+            "position": "1",
+            "body": "Iniciar o tratamento com antirretroviral (lamivudina + zidovudina + efvirenz), simultaneamente com o esquema antituberculose estruturado, com rifabutina, por 6 meses.",
+            "sanitized_body": "Iniciar o tratamento com antirretroviral (lamivudina + zidovudina + efvirenz), simultaneamente com o esquema antituberculose estruturado, com rifabutina, por 6 meses.",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.47658 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta. O tratamento do HIV e da TB não deve ser iniciado de forma simultânea. Primeiro começamos com o tratamento da tuberculose e em seguida do HIV.",
+              "sanitized_complete": "Alternativa B incorreta. O tratamento do HIV e da TB não deve ser iniciado de forma simultânea. Primeiro começamos com o tratamento da tuberculose e em seguida do HIV.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.190879 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.885092 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 200
+          },
+          {
+            "id": "94152528-f6d5-4ea7-9eac-937b2f5ef777",
+            "position": "2",
+            "body": "Iniciar tratamento com RIPE (rifampicina + isoniazida + pirazinamida + etambutol) com durção de 6 meses e, após 4 semanas, introduzir tratamento com antirretrovirais (lamivundina + tenofovir + efavirenz).",
+            "sanitized_body": "Iniciar tratamento com RIPE (rifampicina + isoniazida + pirazinamida + etambutol) com durção de 6 meses e, após 4 semanas, introduzir tratamento com antirretrovirais (lamivundina + tenofovir + efavirenz).",
+            "correct": true,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.574706 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C correta. Posso dizer que essa é a alternativa menos errada. Ela refere que o RIPE deve ser feito por 6 meses, sendo que na verdade é por 2 meses, seguidos de mais 4 meses de RI. De qualquer forma, a ordem do tratamento está certa, começando com as drogas para tuberculose e, após algumas semanas, com o tratamento do HIV. As antirretrovirais também estão adequadas, como já discutimos acima.",
+              "sanitized_complete": "Alternativa C correta. Posso dizer que essa é a alternativa menos errada. Ela refere que o RIPE deve ser feito por 6 meses, sendo que na verdade é por 2 meses, seguidos de mais 4 meses de RI. De qualquer forma, a ordem do tratamento está certa, começando com as drogas para tuberculose e, após algumas semanas, com o tratamento do HIV. As antirretrovirais também estão adequadas, como já discutimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.087225 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.672844 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 2068
+          },
+          {
+            "id": "150d8f4b-384c-46d5-8c47-530bb4eb0953",
+            "position": "3",
+            "body": "Iniciar o tratamento com o RIPE (rifampicina + isoniazida + pirazinamida + etambutol) recomendado por 6 meses e, após 1 semana, introduzir o tramento antirretroviral ( lamivudina + zidovudina + lopinavir com ritonavir).",
+            "sanitized_body": "Iniciar o tratamento com o RIPE (rifampicina + isoniazida + pirazinamida + etambutol) recomendado por 6 meses e, após 1 semana, introduzir o tramento antirretroviral ( lamivudina + zidovudina + lopinavir com ritonavir).",
+            "correct": false,
+            "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+            "updated_at": "2021-07-05 20:19:07.673698 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta. Não devemos fazer uso de inibidor de protease (lopinavir/ritonavir) com rifampicina.",
+              "sanitized_complete": "Alternativa D incorreta. Não devemos fazer uso de inibidor de protease (lopinavir/ritonavir) com rifampicina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 12:25:35.128871 +0000 UTC",
+              "updated_at": "2022-04-27 12:25:38.673065 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 279
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre a final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8ºC), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costa direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hemotócrito = 24% (normal 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. (VER IMAGEM) A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FED72852-A442-63EA-E116-A5BCFCB39AA0/FED72852-A442-63EA-E116-A5BCFCB39AA0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Um homem de 42 anos de idade, morador de rua, usuário de crack e de drogas ilícitas injetáveis, comparece à Unidade de Saúde da Família apresentando quadro de tosse produtiva e febre a final do dia, há 2 meses. Relata despertar na madrugada por sudorese, inapetência e perda ponderal de 20 kg no período. Ao exame físico, apresentava-se consciente, orientado, hipocorado (+/4+), anictérico, desidratado, febril (temperatura axilar = 37,8ºC), com frequência cardíaca = 120 bpm e pressão arterial = 120 x 60 mmHg. Aparelho respiratório com tiragem intercostal bilateral e diminuição global do murmúrio vesicular. Aparelho cardiovascular: ritmo cardíaco regular em 2 tempos e bulhas hiperfonéticas. Abdome indolor à palpação superficial e levemente doloroso à palpação profunda sobre a loja hepática, hepatimetria a 2 cm do rebordo costa direito, de consistência lisa e borda romba. Baço palpável a 1,5 cm do rebordo costal esquerdo. Resultados de exames: teste rápido para HIV positivo; hemograma completo - hemoglobina = 8,0 g/dL (normal de 12 a 15 g/dL), hemotócrito = 24% (normal 35 a 45%) e leucopenia = 800 leucócitos/mm³ (normal entre 4.000 e 11.000/mm³); pesquisa de BAAR negativa em 3 amostras de escarro. Foi realizada tomografia computadorizada de tórax, reproduzida na figura a seguir. (VER IMAGEM) A partir do quadro clínico, laboratorial e da imagem apresentada, qual seria uma conduta terapêutica adequada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 19:56:33.224821 +0000 UTC",
+        "forum_id": "f20bfc24-918e-4bd2-9632-1dd23719e86e",
+        "solution": {
+          "_key": "7cd62c2b-c327-4a16-8bf7-923e4e838edb",
+          "complete": "Temos aqui um paciente com diagnóstico simultâneo de HIV e tuberculose (TB). E aí, como devemos proceder em casos assim? Devemos iniciar primeiramente o tratamento para a TB e em seguida, a terapia antirretroviral (TARV). O momento em que ele deverá ser iniciado vai depender da contagem de linfócitos T CD4 do paciente:<div>- CD4 < 50 céls/mm3: iniciar tratamento para o HIV em até 2 semanas, já que é um imunodeprimido mais grave.</div><div>- CD4 ≥ 50 céls/mm3: o início da TARV deve ocorrer dentro de 2 a 8 semanas após o início da TARV.</div><div> A TARV de 1ª escolha é o tenofovir, lamivudina e efavirenz, porém caso seja documentada alguma mutação que confira resistência ao efavirenz ou o resultado da genotipagem demore mais do que 2 semanas, devemos usar o dolutegravir com dose dobrada no seu lugar.</div><div> Essa questão não nos conta a contagem de linfócitos do paciente, porém a gente consegue respondê-la mesmo assim:</div>",
+          "sanitized_complete": "Temos aqui um paciente com diagnóstico simultâneo de HIV e tuberculose (TB). E aí, como devemos proceder em casos assim? Devemos iniciar primeiramente o tratamento para a TB e em seguida, a terapia antirretroviral (TARV). O momento em que ele deverá ser iniciado vai depender da contagem de linfócitos T CD4 do paciente:- CD4 &lt; 50 céls/mm3: iniciar tratamento para o HIV em até 2 semanas, já que é um imunodeprimido mais grave.- CD4 ≥ 50 céls/mm3: o início da TARV deve ocorrer dentro de 2 a 8 semanas após o início da TARV. A TARV de 1ª escolha é o tenofovir, lamivudina e efavirenz, porém caso seja documentada alguma mutação que confira resistência ao efavirenz ou o resultado da genotipagem demore mais do que 2 semanas, devemos usar o dolutegravir com dose dobrada no seu lugar. Essa questão não nos conta a contagem de linfócitos do paciente, porém a gente consegue respondê-la mesmo assim:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-04-27 12:25:35.474001 +0000 UTC",
+          "updated_at": "2022-04-27 12:25:38.889238 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-42-anos-idade220631ed63f",
+        "public": true
+      },
+      {
+        "id": "4000126984",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c2ef2d9010b5439e807bb270e18c87fc",
+            "name": "Profilaxia pós-exposição (PEP)",
+            "is_master": false,
+            "master_id": "36fbfc5db6c2459dacf8e58df1b1fac6",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Profilaxia [$$]Profilaxia pós-exposição (PEP)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1a9a8163-e0af-4eaf-b983-06893d93275d",
+            "position": "0",
+            "body": "realizada com a neviparina ou o efavirenz.",
+            "sanitized_body": "realizada com a neviparina ou o efavirenz.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.841869 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)&nbsp; + 1 comprimido de dolutegravir (DTG).<div><br></div><div>Os esquemas alternativos estão descritos na figura abaixo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D0877921-2F91-24D6-22A3-6DE866954C1B/D0877921-2F91-24D6-22A3-6DE866954C1B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)</div>",
+              "sanitized_complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)  + 1 comprimido de dolutegravir (DTG).Os esquemas alternativos estão descritos na figura abaixo.FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.787166 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.901034 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 155
+          },
+          {
+            "id": "83580ce2-ba90-4a68-a39a-1f76d64a5abb",
+            "position": "1",
+            "body": "iniciada em até 96 horas da violência sexual.",
+            "sanitized_body": "iniciada em até 96 horas da violência sexual.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.949862 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras <b>72 horas</b> após a violência, inclusive se o status sorológico do agressor for desconhecido.&nbsp;&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras 72 horas após a violência, inclusive se o status sorológico do agressor for desconhecido.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.762988 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.891351 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 216
+          },
+          {
+            "id": "8c441f02-da52-4fb4-a071-01bda746d182",
+            "position": "2",
+            "body": "mantida sem interrupção por quatro semanas.",
+            "sanitized_body": "mantida sem interrupção por quatro semanas.",
+            "correct": true,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.049034 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "sanitized_complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.77212 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.91548 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 2856
+          },
+          {
+            "id": "5e897cf8-a00d-4ea7-a98f-000d7e56cf60",
+            "position": "3",
+            "body": "é contraindicada pelo tempo já decorrido.",
+            "sanitized_body": "é contraindicada pelo tempo já decorrido.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.150855 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "sanitized_complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.781004 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.897575 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 29
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "statement_text": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+        "solution": {
+          "_key": "18c8fd3a-741b-46e5-a587-a243d2275b29",
+          "complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.<div><br></div><div>O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:</div><div>- os tipos de exposição sexual (anal, vaginal, oral);<br></div><div>- o número de agressores;</div><div>- a susceptibilidade da mulher;</div><div>- a rotura himenal;</div><div>- a exposição a secreções sexuais e/ou sangue;</div><div>- a presença de DST ou úlcera genital;</div><div>- a carga viral do agressor;</div><div>- o início precoce da profilaxia ARV, quando indicada.</div>",
+          "sanitized_complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:- os tipos de exposição sexual (anal, vaginal, oral);- o número de agressores;- a susceptibilidade da mulher;- a rotura himenal;- a exposição a secreções sexuais e/ou sangue;- a presença de DST ou úlcera genital;- a carga viral do agressor;- o início precoce da profilaxia ARV, quando indicada.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-15 05:35:47.816699 +0000 UTC",
+          "updated_at": "2021-07-15 05:50:14.96401 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126984-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-19588b815261",
+        "public": true
+      },
+      {
+        "id": "4000127033",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F38DC711-F3BE-A057-4DBE-6A6E29AFCFD8"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-03T18:53:43Z",
+            "updated_at": "2020-11-25T18:18:11Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "c35de11922854784b4b54880f93ccaf2",
+            "name": "Tratamento e profilaxia",
+            "is_master": false,
+            "master_id": "bb591a7a04b04ff88c43845b423c3abb",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Infecções oportunistas[$$]Infecções pulmonares[$$]Pneumocistose[$$]Tratamento e profilaxia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d16bb6bf-a37b-450e-89ed-47f877522703",
+            "position": "0",
+            "body": "Clamídia tracomatis.",
+            "sanitized_body": "Clamídia tracomatis.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.158451 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa A incorreta. Não há indicação de profilaxia para clamídia em pacientes com HIV/aids.",
+              "sanitized_complete": "Alternativa A incorreta. Não há indicação de profilaxia para clamídia em pacientes com HIV/aids.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:42.985535 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.577327 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 28
+          },
+          {
+            "id": "e9bb2038-3a14-4045-9b0b-c6d9500a1371",
+            "position": "1",
+            "body": "Toxoplasma gondii.",
+            "sanitized_body": "Toxoplasma gondii.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.264479 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa B incorreta. A profilaxia para toxoplasmose deve ser instituída caso a contagem de linfócitos TCD4 + estejam abaixo de 100 células/mm3.",
+              "sanitized_complete": "Alternativa B incorreta. A profilaxia para toxoplasmose deve ser instituída caso a contagem de linfócitos TCD4 + estejam abaixo de 100 células/mm3.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:43.213935 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.526226 +0000 UTC"
+            },
+            "answer_percentage": 23,
+            "answers": 145
+          },
+          {
+            "id": "502baf47-5d2a-4905-8487-38f663fac6e5",
+            "position": "2",
+            "body": "Pneumocistis jiroveci.",
+            "sanitized_body": "Pneumocistis jiroveci.",
+            "correct": true,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.510479 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa C correta. Como você pode perceber, devemos iniciar a profilaxia pra pneumocistose naqueles com CD4 abaixo de 200 células/mm3.",
+              "sanitized_complete": "Alternativa C correta. Como você pode perceber, devemos iniciar a profilaxia pra pneumocistose naqueles com CD4 abaixo de 200 células/mm3.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:42.985123 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.527419 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 445
+          },
+          {
+            "id": "3dbc0624-0a77-4901-9cfe-acf7e9988357",
+            "position": "3",
+            "body": "Herpes vírus hominis.",
+            "sanitized_body": "Herpes vírus hominis.",
+            "correct": false,
+            "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+            "updated_at": "2020-11-23 14:09:30.560589 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa D incorreta. Não há indicação de profilaxia primária para herpes vírus em pacientes com HIV/aids.",
+              "sanitized_complete": "Alternativa D incorreta. Não há indicação de profilaxia primária para herpes vírus em pacientes com HIV/aids.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+              "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+              "author_profile": null,
+              "created_at": "2022-04-27 13:43:43.099176 +0000 UTC",
+              "updated_at": "2022-04-27 13:43:44.576556 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em gestante de 16 semanas, com infecção por HIV, a dosagem de linfócitos CD4 resultou menor que 200 cel/mm3. Nesse caso, a prescrição de sulfametoxazol + trimetropim visa à profilaxia de infecção por:",
+        "statement_text": "Em gestante de 16 semanas, com infecção por HIV, a dosagem de linfócitos CD4 resultou menor que 200 cel/mm3. Nesse caso, a prescrição de sulfametoxazol + trimetropim visa à profilaxia de infecção por:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 05:08:15.293591 +0000 UTC",
+        "forum_id": "62858a83-5e10-4910-9118-ba75353a89ea",
+        "solution": {
+          "_key": "aea26430-2713-4d67-a33a-a4690e2548c9",
+          "complete": "Quando os LTCD4+ do paciente caem bastante, devemos iniciar de forma preventiva algumas medicações para evitar doenças oportunistas. Olhe aqui essa tabela e memorize:  <div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/08F77DAD-7B37-2CEB-AE4E-55C0D1D95261/08F77DAD-7B37-2CEB-AE4E-55C0D1D95261-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "Quando os LTCD4+ do paciente caem bastante, devemos iniciar de forma preventiva algumas medicações para evitar doenças oportunistas. Olhe aqui essa tabela e memorize:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+          "author_email_id": "dfb36dbfbc035620d5de233d24e5807e",
+          "author_profile": {
+            "id": "903a43a9-0ca9-47af-962b-3befeb4a2166",
+            "full_name": "Clarissa Cerqueira",
+            "avatar_url": "https://static.accounts.estrategia.com/f455526da7b55700599c165655a62cc0",
+            "about_me": "Médica pela Escola Bahiana de Medicina e Saúde Pública.\nResidência médica em infectologia no Instituto de Infectologia Emilio Ribas em São Paulo. \nEspecialista em Infecção em Imunossuprimidos no Hospital das Clínicas - USP SP (Complementação Especializada). \nPós-graduada em Prevenção e Controle de Infecção Hospitalar no Hospital Israelita Albert Einstein. \nTrabalha com médica infectologista em Salvador-Ba e como professora de infectologia do Estratégia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/draclarissacerqueira",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/channel/ucvb0pqvkjdetzrm-obgcqww",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/clarissa-cerqueira-400416a4",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-04-27 13:43:43.311938 +0000 UTC",
+          "updated_at": "2022-04-27 13:43:44.701027 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "gestante-16-semanas33d538714d",
+        "public": true
+      },
+      {
+        "id": "4000129252",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "386c16f530394dae99ab38514c05a73e",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "71418c85978540778bd9ee9e8551369a",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "fcc76d9b-fce0-4470-9526-4c49ccbad557",
+            "position": "0",
+            "body": "Solicitar contagem de linfócitos T-CD4+.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar contagem de linfócitos T-CD4+. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:43.856603 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A contagem de linfócitos T-CD4+ faz parte dos exames que devem ser solicitados na primeira consulta.",
+              "sanitized_complete": "A contagem de linfócitos T-CD4+ faz parte dos exames que devem ser solicitados na primeira consulta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.94525 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.081562 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 15
+          },
+          {
+            "id": "788b7dfa-4211-4eba-b134-8207cc760d70",
+            "position": "1",
+            "body": "Solicitar contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:43.972872 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV fazem parte dos exames complementares para abordagem inicial.",
+              "sanitized_complete": "A contagem de linfócitos T-CD4+ e a quantificação da Carga Viral do HIV fazem parte dos exames complementares para abordagem inicial.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.940082 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.111897 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 244
+          },
+          {
+            "id": "a72afc69-ed40-498a-b90d-4bc55f602b5e",
+            "position": "2",
+            "body": "Encaminhar a paciente para o Serviço de Assistência Especializada em DST/AIDS.&nbsp;<div>&nbsp;</div>",
+            "sanitized_body": "Encaminhar a paciente para o Serviço de Assistência Especializada em DST/AIDS.  ",
+            "correct": true,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.067899 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Isso mesmo! Esse é o primeiro passo. Diante do resultado, a paciente deve ser encaminhada a um serviço especializado (SAE), com atendimento multidisciplinar e grupos comunitários de apoio, para as primeiras consultas e exames o mais brevemente possível.",
+              "sanitized_complete": "Isso mesmo! Esse é o primeiro passo. Diante do resultado, a paciente deve ser encaminhada a um serviço especializado (SAE), com atendimento multidisciplinar e grupos comunitários de apoio, para as primeiras consultas e exames o mais brevemente possível.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.924894 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.079635 +0000 UTC"
+            },
+            "answer_percentage": 74,
+            "answers": 812
+          },
+          {
+            "id": "2170c952-68ef-4a25-b117-c410d85a518c",
+            "position": "3",
+            "body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Western Blot.<div>&nbsp;</div>",
+            "sanitized_body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Western Blot. ",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.174366 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "sanitized_complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.918225 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.056695 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 24
+          },
+          {
+            "id": "213ee090-fee8-48bb-8422-1d98328d304e",
+            "position": "4",
+            "body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Imunofluorescência indireta.",
+            "sanitized_body": "Solicitar análise sorológica para HIV, em uma nova amostra sanguínea, pela técnica de Imunofluorescência indireta.",
+            "correct": false,
+            "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+            "updated_at": "2021-07-05 20:28:44.268183 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "sanitized_complete": "Não há indicação para repetição do teste com nova amostra de sangue.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-10-11 05:00:29.971912 +0000 UTC",
+              "updated_at": "2021-10-11 05:20:08.116597 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjuguais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/822931C2-E82A-0F38-8287-A336A2701170/822931C2-E82A-0F38-8287-A336A2701170-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Nessa situação, que conduta deve ser adotada para a paciente?</div><div><br></div>",
+        "statement_text": "Uma mulher de 23 anos de idade, casada, do lar e nuligesta, iniciou atividade sexual há 3 anos, após casamento. No momento, essa mulher está em tratamento para condilomatose vulvar em uma Unidade Básica de Saúde (UBS) e apresenta boa evolução. Ela não mantém relações extraconjuguais, seu marido é saudável e não tem histórico de doença sexualmente transmissível (DST) e (ou) uso de drogas injetáveis. Após aconselhamento, realizou sorologia para HIV e o resultado foi positivo. Diante disso, foi solicitada pesquisa sorológica para HIV em nova amostra sanguínea. A paciente retorna hoje à UBS para conhecer o resultado. Ambas as amostras foram processadas no mesmo laboratório e seus resultados são apresentados nas figuras a seguir.Nessa situação, que conduta deve ser adotada para a paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 13:43:06.317474 +0000 UTC",
+        "forum_id": "ebe2400c-efe4-43e0-9122-84970dc9a066",
+        "solution": {
+          "_key": "5f7937b3-debe-44d0-a81a-3b2cccc12f11",
+          "complete": "A paciente possui dois testes anti-HIV reagentes: um ensaio imunoenzimático de triagem (ELISA), seguido pelo Western Blot, como teste confirmatório. A partir do diagnóstico, a paciente deve ser incluída na “Cascata de cuidado contínuo do HIV”, composta pelas seguintes etapas, desde a infecção até o objetivo final do<div>cuidado, a supressão viral:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/20BCA592-6735-1E0D-EE6B-8819B6AE962F/20BCA592-6735-1E0D-EE6B-8819B6AE962F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "A paciente possui dois testes anti-HIV reagentes: um ensaio imunoenzimático de triagem (ELISA), seguido pelo Western Blot, como teste confirmatório. A partir do diagnóstico, a paciente deve ser incluída na “Cascata de cuidado contínuo do HIV”, composta pelas seguintes etapas, desde a infecção até o objetivo final docuidado, a supressão viral:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-10-11 05:00:30.023028 +0000 UTC",
+          "updated_at": "2021-10-11 05:20:08.106053 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-23-anos-idade124b399bb71",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 30
+    }
+  }

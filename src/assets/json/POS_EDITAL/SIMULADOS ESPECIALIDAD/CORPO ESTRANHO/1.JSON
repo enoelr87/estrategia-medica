@@ -1,0 +1,669 @@
+{
+  "data":[
+    {
+      "id": "3345600418",
+      "alternatives": [
+        {
+          "id": "d5ccd848-9650-46cc-9e46-6d4a7746bd15",
+          "body": "Síndrome de Loeffler.",
+          "position": "0"
+        },
+        {
+          "id": "bc7f7c1e-1418-4a7c-89c0-6404e0e6b1a8",
+          "body": "Tuberculose pulmonar.&nbsp;",
+          "position": "1"
+        },
+        {
+          "id": "86d84d2e-0851-4469-918c-e9f4ff4406b2",
+          "body": "Bronquiolite viral aguda de repetição.",
+          "position": "2"
+        },
+        {
+          "id": "c411e4a8-3e62-44b6-a420-38b6bcf93be2",
+          "body": "Aspiração de corpo estranho.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Pré-escolar de três anos é levado à unidade de pronto-atendimento pela mãe que relatou quadro de febre, tosse e cansaço há 48 horas. O exame físico revela ausculta pulmonar com estertoração localizada à direita. Raio X de tórax: hipotransparência em hemitórax direito. Nos últimos seis meses, é a terceira vez que apresenta os mesmos sintomas e imagem pulmonar no mesmo local. A mãe referiu que a criança sempre foi saudável. Na família, só a criança tem apresentado esses sintomas. O diagnóstico mais provável para esse caso é:",
+      "position": 1,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1752760044",
+      "alternatives": [
+        {
+          "id": "2d3edab8-54e3-449e-94aa-ee637434ff2b",
+          "body": "Abrir vias aéreas e remover o corpo estranho manualmente",
+          "position": "0"
+        },
+        {
+          "id": "18b4a2be-8021-4727-ab95-9dc95b28e1b6",
+          "body": "Abrir vias aéreas e ventilar com bolsa e máscara com oxigênio a 100%",
+          "position": "1"
+        },
+        {
+          "id": "7c3bce84-1834-444d-b7d1-65691514d37c",
+          "body": "Aplicar 5 golpes nas costas e 5 compressões torácicas até que o corpo estranho seja expelido",
+          "position": "2"
+        },
+        {
+          "id": "e513cc33-b1e5-4398-b7da-4e593e8ef064",
+          "body": "Aplicar compressões abdominais até que o corpo estranho seja expelido",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Uma criança de 11 meses é admitida no pronto-socorro com história de inicio súbito de dificuldade respiratória, após ingestão de pão de queijo. Ao exame clínico, observa-se cianose generalizada, esforço respiratório, com retração supraesternal, tiragem subdiafragmática e choro fraco. A conduta mais adequada é:",
+      "position": 2,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2299326484",
+      "alternatives": [
+        {
+          "id": "12720038-8a99-47a4-8377-e566274c6c02",
+          "body": "Pneumonia.",
+          "position": "0"
+        },
+        {
+          "id": "8019ae5a-1970-44eb-9790-14a350e1fb4e",
+          "body": "Aspiração de corpo estranho. ",
+          "position": "1"
+        },
+        {
+          "id": "35fa22a2-64b9-4bae-a19d-3be40883bfec",
+          "body": "Bronquite. ",
+          "position": "2"
+        },
+        {
+          "id": "3112add8-7f08-4875-942e-04dffae01488",
+          "body": "Covid-19.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Criança, 1 ano e 18 meses, desenvolve subitamente estridor inspiratório, taquipneia e retrações torácicas. Não apresenta febre e, com exceção do estridor, seus pulmões estão limpos e o exame físico geral está normal. A radiografia de tórax não revela anomalias. O diagnóstico mais provável para o caso narrado é:",
+      "position": 3,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "3386527632",
+      "alternatives": [
+        {
+          "id": "c874f4b7-92d3-4fdf-851a-92899e375163",
+          "body": "antibiótico e fisioterapia respiratória.",
+          "position": "0"
+        },
+        {
+          "id": "6835268d-61aa-4900-815c-7984e9d26df3",
+          "body": "acompanhamento radiológico em 7 dias.",
+          "position": "1"
+        },
+        {
+          "id": "3b949f3e-670d-4a60-afbd-64e3b7754fcb",
+          "body": "aerossol com broncodilatador.",
+          "position": "2"
+        },
+        {
+          "id": "e39cba7e-ea80-4015-aca9-6fea015964a8",
+          "body": "broncoscopia após jejum de 6h.",
+          "position": "3"
+        },
+        {
+          "id": "4e403b00-4dce-4cc5-8b5a-85755a2ef4f3",
+          "body": "larigoscopia direta.&nbsp;",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Pré escolar, 20 meses de idade, subitamente apresenta tosse acompanhada de cianose. Ao exame físico após 30min encontra-se eupneico, tosse isolada durante exame e ausculta pulmonar com MV rude sem ruídos adventícios. O RX de tórax mostrou hiperinsuflação em base direita. A conduta indicada, nesse caso é.",
+      "position": 4,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1198496011",
+      "alternatives": [
+        {
+          "id": "42479c9b-8af3-4d86-9d62-17411bb8eb0d",
+          "body": "A manobra de Heimlich é sempre a primeira intervenção.",
+          "position": "0"
+        },
+        {
+          "id": "d4796a9f-53f0-486d-b3ed-d7d5e7e72006",
+          "body": "O exame de imagem não acrescenta informações na investigação.",
+          "position": "1"
+        },
+        {
+          "id": "7e1abe26-599b-464a-a917-44631ea91ee3",
+          "body": "O corpo estranho não ocorre em menores de 3 anos de idade.",
+          "position": "2"
+        },
+        {
+          "id": "f1a8cb06-3545-4b73-b982-30e78fb51774",
+          "body": "Se a suspeita for forte, deve ser realizada laringoscopia/broncoscopia o mais precocemente possível.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Indique a alternativa correta sobre a suspeita de aspiração de corpo estranho.",
+      "position": 5,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2902426421",
+      "alternatives": [
+        {
+          "id": "84e88c2d-44ae-462e-93e8-0d346d06aebe",
+          "body": "Observação por 24 a 48 horas.",
+          "position": "0"
+        },
+        {
+          "id": "3b28575b-22d0-46ff-b40a-d273ca702b43",
+          "body": "Repetir a radiografia simples.",
+          "position": "1"
+        },
+        {
+          "id": "46555c19-f470-4a3e-93bf-13913df3c8d4",
+          "body": "Endoscopia digestiva de urgência (em até 12 horas).",
+          "position": "2"
+        },
+        {
+          "id": "46116ef6-dcb0-4b2f-ab25-0b82889f6ca9",
+          "body": "Endoscopia digestiva de emergência (em 2 a 6 horas).",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Criança de 4 anos ingeriu um prego por volta das 14 horas. Foi atendida em Unidade de Pronto Atendimento e submetida à radiografia simples (vide figura). Em seguida, foi encaminhada com o exame para tratamento definitivo em hospital terciário, onde foi admitida assintomática às 22 horas. Qual a próxima conduta?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AF749285-ACFF-A83A-C7DC-8895CA01A696/AF749285-ACFF-A83A-C7DC-8895CA01A696-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+      "position": 6,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "415439301",
+      "alternatives": [
+        {
+          "id": "79a8c110-b399-446a-98fe-48538d7e0508",
+          "body": "Após o quadro inicial, segue-se o período oligo ou mesmo assintomático que pode variar de horas a semanas até o reaparecimento dos sintomas.&nbsp;",
+          "position": "0"
+        },
+        {
+          "id": "3a171067-fb16-4b0e-9617-2c5afb4e7155",
+          "body": "Quando ocorre impactação nos brônquios o estridor inspiratório é o principal sinal.&nbsp;",
+          "position": "1"
+        },
+        {
+          "id": "6b98f542-66ec-4c2a-85d3-08fa1b52a8bd",
+          "body": "As radiografias simples de tórax são anormais em todos os casos, pois os CE radiotransparentes também levam a manifestações radiológicas, entretanto estas são indiretas.&nbsp;",
+          "position": "2"
+        },
+        {
+          "id": "e1426c07-60a0-407f-a9f6-95f44042d200",
+          "body": "CE inorgânicos desencadeiam mais reação inflamatória, acelerando o grau de obstrução ao fluxo de ar e encurtando a fase assintomática, em comparação com os CE orgânicos.&nbsp;",
+          "position": "3"
+        },
+        {
+          "id": "be9e1552-d9fb-41bb-be02-85a10fb25245",
+          "body": "A desobstrução brônquica resulta na imediata ventilação da área acometida, com o pronto restabelecimento da ventilação e oxigenação normais, imediatamente após a retirada do CE.",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "As vítimas de aspiração de Corpo Estranho (CE) são, na maioria dos casos, crianças menores de 5 anos. Sobre esse quadro, é CORRETO afirmar que:",
+      "position": 7,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "3118544392",
+      "alternatives": [
+        {
+          "id": "749f490a-f3f8-47d8-b645-0143b1a20512",
+          "body": "Síndrome de Loeffler.",
+          "position": "0"
+        },
+        {
+          "id": "0c3b76b9-5cdb-477d-9e1e-5311a5513c3c",
+          "body": "Tumor endobrônquico.",
+          "position": "1"
+        },
+        {
+          "id": "11569fbf-a6f9-4f71-b864-428d973e0e65",
+          "body": "Aspiração de corpo estranho.\r",
+          "position": "2"
+        },
+        {
+          "id": "756bcbf8-05fa-42cf-9097-9f58b0812747",
+          "body": "Tuberculose pulmonar. \r",
+          "position": "3"
+        },
+        {
+          "id": "21822108-74ff-4995-b95d-fa0649ec77d6",
+          "body": "Pneumonia atípica.\r",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Um pré-escolar de 5 anos é levado à unidade de pronto-atendimento pela mãe que relatou quadro de febre, tosse e cansaço há 48 horas. O exame físico revela ausculta pulmonar com estertoração localizada à direita. Raio-X de tórax: hipotransparência em hemitórax direito. Nos últimos 6 meses, é a terceira vez que apresenta os mesmos sintomas e imagem pulmonar no mesmo local. A mãe referiu que a criança sempre foi saudável. Na família, só a criança tem apresentado esses sintomas.<div><br></div><div>O diagnóstico mais provável, para esse caso, é:&nbsp;</div>",
+      "position": 8,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2280576452",
+      "alternatives": [
+        {
+          "id": "cea56417-c3c1-4274-8761-f2f4c9c3dd4e",
+          "body": "Administrar cinco pancadas firmes entre as escápulas usando a base das mãos.",
+          "position": "0"
+        },
+        {
+          "id": "adc39683-802f-4bd2-8849-03017198704f",
+          "body": "Fazer compressões abdominais (manobra de Heimelich).",
+          "position": "1"
+        },
+        {
+          "id": "581fea59-1e64-4cf7-a142-2563073b8b31",
+          "body": "Não tentar varredura digital à procura do corpo estranho na boca da criança.",
+          "position": "2"
+        },
+        {
+          "id": "2bf46ea1-c6bd-4ca4-996d-d966de13ae41",
+          "body": "Segurar a criança em seu antebraço com o abdômen para baixo e a cabeça mais abaixada que o tórax.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Numa tentativa de desobstrução por engasgo em lactente de nove meses de idade, assinale a alternativa ERRADA:",
+      "position": 9,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1411640583",
+      "alternatives": [
+        {
+          "id": "cfdfcbfe-f792-4cf3-82f1-02710a0f11cf",
+          "body": "Realizar manobra de Heimlich, pois provavelmente se trata de uma obstrução de via aérea por corpo estranho&nbsp;",
+          "position": "0"
+        },
+        {
+          "id": "2ddea0a5-934c-4ee8-a6e4-76589c1aed4a",
+          "body": "Iniciar manobras de reanimação o mais rápido possível&nbsp;",
+          "position": "1"
+        },
+        {
+          "id": "530dae48-5dc4-4c85-b5aa-2a93d56e6c9c",
+          "body": "Realizar intubação orotraqueal com material adequado, para estabelecer a ventilação do paciente o mais rápido possível&nbsp;",
+          "position": "2"
+        },
+        {
+          "id": "2456ff45-9edd-42d2-b37c-82f5a1db640d",
+          "body": "Realizar manobra para retirada de corpo estranho na via respiratória, usando a técnica de golpes com a região tenar nas costas da criança em posição prona, com a cabeça mais baixa que o tronco e sobre o antebraço do médico",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Criança de 4 anos dá entrada no pronto-socorro, consciente, com dificuldade respiratória súbita acompanhada de tosse, estridor e aparente \"engasgo\". Ao exame observa-se cianose, piora do quadro respiratório, mas mantendo-se responsiva e com frequência cardíaca normal. O diagnóstico provável no momento é obstrução de via aérea por corpo estranho. Qual a conduta a ser seguida?",
+      "position": 10,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2640972470",
+      "alternatives": [
+        {
+          "id": "6ee7cc12-de45-4ec7-8c12-6d6357778330",
+          "body": "Colocar o dedo na boca da criança para tentar tirar o corpo estranho.\n",
+          "position": "0"
+        },
+        {
+          "id": "7d82405c-8ccb-42e8-8028-2e65075e9dad",
+          "body": "Fazer a manobra de Heimlich, ou seja, golpes no abdômen até que a criança volte <span>a respirar.</span>",
+          "position": "1"
+        },
+        {
+          "id": "0325ac23-f73c-4970-affd-8396e1bebaef",
+          "body": "Realizar respiração artificial e compressões torácicas.",
+          "position": "2"
+        },
+        {
+          "id": "0ff020aa-e152-4af3-a2ac-e8052d2cca39",
+          "body": "Aplicar cinco golpes nas costas e cinco compressões torácicas, repetindo essa <span>sequência se o corpo estranho não for eliminado.</span>",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Lactente com oito meses, ao aspirar corpo estranho, apresenta dificuldade para <span>respirar, cianose perioral e fácies pletóricas. Não consegue emitir sons nem choro. </span><span>Nessa situação, qual a conduta mais adequada?</span>",
+      "position": 11,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2739358891",
+      "alternatives": [
+        {
+          "id": "c3a74839-6b4f-428c-b512-24b4090146ca",
+          "body": "Deitar a criança no chão e iniciar Reanimação Cardiopulmonar.",
+          "position": "0"
+        },
+        {
+          "id": "6441e417-17e7-4f0b-a1d3-6533406afe6d",
+          "body": "Varredura digital, às cegas, para retirar o corpo estranho.",
+          "position": "1"
+        },
+        {
+          "id": "7d7866e8-efe8-4f48-a7f5-2208b9af3541",
+          "body": "Dar golpes nas costas com a criança em decúbito lateral.",
+          "position": "2"
+        },
+        {
+          "id": "76f375b6-cf87-4df0-957e-f855b26ea7e0",
+          "body": "Rápidas compressões na região epigástrica.",
+          "position": "3"
+        },
+        {
+          "id": "c656bcf0-f848-4a1b-8f7b-27bea9b8dd5d",
+          "body": "Solicitar radiografia da região cervical e do tórax.",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Criança, 6 anos, engasgou com um pedaço de bala dura. Não consegue falar e respirar efetivamente, tenta tossir mas não consegue. Mantém os olhos \"arregalados\" e as mãos no pescoço. A CONDUTA IMEDIATA É:",
+      "position": 12,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1895421187",
+      "alternatives": [
+        {
+          "id": "21474b22-3de6-4ea3-a452-e6d04468155e",
+          "body": "Para todas as crianças. São realizadas compressões abdominais.",
+          "position": "0"
+        },
+        {
+          "id": "981e8454-cdb4-4843-8e28-9a9267fd48d4",
+          "body": "Para todas as crianças. São realizadas compressões torácicas.",
+          "position": "1"
+        },
+        {
+          "id": "9201fd48-fdbf-4189-9d36-547573bb74a2",
+          "body": "Para as crianças maiores de um ano. São realizadas compressões abdominais.",
+          "position": "2"
+        },
+        {
+          "id": "67754dce-cb42-43a7-a8eb-381eb0deaae0",
+          "body": "Para as crianças maiores de um ano. São realizadas compressões torácicas.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "A manobra de Heimlich é indicada na tentativa de desobstrução das vias aéreas superiores. Para quem ela está indicada e como é realizada?&nbsp;",
+      "position": 13,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "4202756622",
+      "alternatives": [
+        {
+          "id": "474e0562-bc6a-4e81-a9ac-b494f403ada2",
+          "body": "Imunodeficiência",
+          "position": "0"
+        },
+        {
+          "id": "0f33e408-7b4c-43d9-a6f2-ca96ae998b24",
+          "body": "Fibrose cística",
+          "position": "1"
+        },
+        {
+          "id": "e93aa23f-ac21-4f30-9bcd-0c8ba1c07b37",
+          "body": "Aspiração de corpo estranho",
+          "position": "2"
+        },
+        {
+          "id": "00b1fe25-1426-4a78-b8b1-6ffd13a31add",
+          "body": "Tuberculose",
+          "position": "3"
+        },
+        {
+          "id": "75955d38-0e54-48da-b124-80a51747b298",
+          "body": "Asma",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Lactente de 1 ano e 9 meses é trazida para consulta com pediatria. Mãe relata que nos últimos 6meses a criança apresentou 3 episódios confirmados radiologicamente de pneumonia em pulmão direito, sendo 2 deles com necessidade de internamento. Anteriormente aos quadros de pneumonia, era hígido. Apresenta bom desenvolvimento e ganho de peso. História obstétrica e neonatal sem particularidades. Pais e irmão sem história de doenças respiratórias. Diante disto, assinale a hipótese diagnóstica mais provável para o caso.",
+      "position": 14,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1561517784",
+      "alternatives": [
+        {
+          "id": "2ae7108d-496d-46f3-8887-7bca41b0f104",
+          "body": "Laringite aguda, inalação com adrenalina pura e corticoide via oral.",
+          "position": "0"
+        },
+        {
+          "id": "18204720-8dcf-48e3-814d-efa580f876be",
+          "body": "Aspiração de corpo estranho, radiografia de tórax e solicitar broncoscopia.",
+          "position": "1"
+        },
+        {
+          "id": "8575de66-5022-4867-8c1b-eba30c43fc6e",
+          "body": "Epiglotite, entubação orotraqueal e uso de ceftriaxone.",
+          "position": "2"
+        },
+        {
+          "id": "389cddb7-0f23-482a-a72c-3538a8aeb6b2",
+          "body": "Asma aguda grave, radiografia de tórax e inalações de resgate com beta 2 agonista.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Uma criança de 3 anos, previamente hígida, chega ao Pronto Socorro com insuficiência respiratória, apresentando inicio súbito de estridor, evoluindo para dispneia. A mãe nega febre e sintomas de vias aéreas superiores nos últimos dias. Ao exame encontra-se afebril, pálida, com cianose de extremidades e perioral, tosse bitonal, sibilos esparsos e murmúrio vesicular diminuído em hemitórax direito. O diagnóstico mais provável e a conduta são:&nbsp;",
+      "position": 15,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "3887544145",
+      "alternatives": [
+        {
+          "id": "9e214666-e9c7-4f07-80e4-20748a50b51e",
+          "body": "Broncoscopia.",
+          "position": "0"
+        },
+        {
+          "id": "cd15ceae-8a8a-4793-8f7e-977c0c4ae373",
+          "body": "Endoscopia.",
+          "position": "1"
+        },
+        {
+          "id": "a3d65abd-e446-4dab-8240-ab57ce5c5462",
+          "body": "Laringoscopia indireta.",
+          "position": "2"
+        },
+        {
+          "id": "121d2927-e3eb-4756-a15f-e57c0343268f",
+          "body": "Acompanhamento radiológico em 24 horas.",
+          "position": "3"
+        },
+        {
+          "id": "f5d1e792-05d1-4954-8654-2e28a2bdd3c3",
+          "body": "Tomografia de tórax.",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "P.J.D, 4 anos, sexo masculino, é trazido ao pronto-socorro pela mãe que refere que paciente estava brincando com as peças de lego do seu irmão quando apresentou crise de tosse seguido de episódio de cianose. Ao exame físico, criança encontra-se em ótimo estado geral, acianótico, FR = 20 irpm, FC = 120 bpm, ausculta pulmonar com murmúrios vesiculares bilateralmente. Realizada radiografia de tórax. A melhor conduta é:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/729E4DCE-6D74-74D5-CC71-733EE9771657/729E4DCE-6D74-74D5-CC71-733EE9771657-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+      "position": 16,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1332327869",
+      "alternatives": [
+        {
+          "id": "1ec9b2ac-9f1e-4340-a02e-852a2eac0813",
+          "body": "Certo.",
+          "position": "0"
+        },
+        {
+          "id": "d4771135-e894-4777-8820-7313b3f75e2c",
+          "body": "Errado.",
+          "position": "1"
+        }
+      ],
+      "answer_type": "TRUE_OR_FALSE",
+      "body": "Uma menina de 2 anos e 10 meses de idade foi levada para consulta por apresentar crises frequentes de tosse, cansaço e chiado no peito, o que a forçava a comparecer ao atendimento no pronto-socorro de três a quatro vezes ao mês. A mãe relatou que a tosse piorava à noite e pela manhã. No último mês que antecedeu a consulta, a criança tinha apresentado esses sintomas mais de duas vezes por semana; e ainda tinha limitação nas atividades físicas diárias. De acordo com a história clínica, a paciente nasceu a termo, apresentava prurido e ressecamento na pele dos antebraços e atrás dos joelhos, além de prurido nasal e coriza hialina recorrente. Ela foi classificada como obesa nas curvas de crescimento. A mãe relatou que o pai apresentava quadro semelhante na infância e adolescência, além de crises leves em decorrência de mudança climáticas.&nbsp;<div><br></div><div>Com referência a esse caso clínico e aos vários aspectos a ele relacionados, julgue o item a seguir.&nbsp;<div><br></div><div>A tuberculose e a aspiração de corpo estranho são diagnósticos diferenciais para a asma em crianças menores de cinco anos de idade.</div></div>",
+      "position": 17,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2422281761",
+      "alternatives": [
+        {
+          "id": "53b706b9-4fe4-4f1a-84df-5c298512415c",
+          "body": "Realizar endoscopia digestiva alta após 8 horas de jejum.",
+          "position": "0"
+        },
+        {
+          "id": "59fa686a-52e3-482e-889a-3b7cbb0c4372",
+          "body": "Realizar endoscopia digestiva alta de emergência.",
+          "position": "1"
+        },
+        {
+          "id": "56cd6b26-0cb5-4c40-a061-76af96c80aa3",
+          "body": "Aguardar migração do corpo estranho por até 24 horas.",
+          "position": "2"
+        },
+        {
+          "id": "2b8442b0-45d0-42d4-81ef-d8ca7e03e0ab",
+          "body": "Realizar broncoscopia após 8 horas de jejum.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Menino, 2 a, é levado ao pronto-socorro com história de um episódio de vômito após engasgo enquanto brincava sem supervisão. No momento assintomático. Última mamadeira de 200 ml de leite há duas horas. O acompanhante acredita que faltam peças do brinquedo e que a criança pode ter ingerido algo. Radiograma de tórax:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3D90C120-255D-78D2-349E-5AB23F79FB3B/3D90C120-255D-78D2-349E-5AB23F79FB3B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><b>A CONDUTA É:</b></div>",
+      "position": 18,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "3593105520",
+      "alternatives": [
+        {
+          "id": "483b82a5-3c42-4a2a-971b-868ec610a4e3",
+          "body": "A desobstrução brônquica através da broncoscopia resulta na imediata ventilação de uma determinada área comprometida.",
+          "position": "0"
+        },
+        {
+          "id": "6eb53660-0f07-4560-b7a0-f33b132b4677",
+          "body": "<div>Após a retirada do corpo estranho há o reestabelecimento imediato de ventilação e oxigenação normais.</div>",
+          "position": "1"
+        },
+        {
+          "id": "c9dcf133-a14b-4f3f-af2d-d3736b9bfa4e",
+          "body": "<div>Para a realização da broncoscopia, é imperioso realizar jejum, que varia de acordo com o alimento ingerido e a idade da criança. Todavia, quando a insuficiência respiratória e a hipoxemia são graves, esta rotina deve ser alterada, realizando o procedimento mesmo com a presença de alimentos no estômago.</div>",
+          "position": "2"
+        },
+        {
+          "id": "a730cacc-1608-4185-8072-f039960e1543",
+          "body": "<div>Broncoscópicos flexíveis são preconizados como melhor escolha para a realização de broncospia de retirada de corpo estranho em aparelho pulmonar.</div>",
+          "position": "3"
+        },
+        {
+          "id": "8b8b91c1-d529-406c-b79e-a61cea1c7510",
+          "body": "<div>Em criança maiores de 5 anos, são usadas drogas venosas para a indução anestésica. Não deve ser considerada como alternativa a broncoscopia com o paciente em apnéia.</div>",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Em relação a abordagem terapêutica dos acidentes de asfixia e aspiração na faixa etária pediátrica, é correto afirmar:",
+      "position": 19,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2246734921",
+      "alternatives": [
+        {
+          "id": "546b119a-f744-4abb-b71e-901812373882",
+          "body": "Tosse fraca ou incapacidade de tossir.",
+          "position": "0"
+        },
+        {
+          "id": "6d8cb5cf-8f27-4c31-9021-71fe65103d02",
+          "body": "Troca de ar deficiente ou ausente. ",
+          "position": "1"
+        },
+        {
+          "id": "60185082-8e13-4a6d-b13e-508fcb74da2f",
+          "body": "Pele cianótica. ",
+          "position": "2"
+        },
+        {
+          "id": "a549e35e-44c8-43b7-a9d2-32f0bd1fcfaf",
+          "body": "Tosse forçada.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Segundo o Ministério da Saúde, dados de 2015, a inalação ou ingestão de alimento levando à obstrução do conduto aéreo, configura umas das principais causas de óbito por acidente respiratório súbito e afeta principalmente crianças menores de 3 anos. Quanto aos sinais de asfixia, a alternativa que se refere à obstrução respiratória parcial é:",
+      "position": 20,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    }
+  ]
+}

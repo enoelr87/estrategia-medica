@@ -1,0 +1,313 @@
+{
+    "data": [
+      {
+        "id": "4000129313",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "40cf203981744a9298d86299bf764346",
+            "name": "Tomografia Computadorizada",
+            "is_master": false,
+            "master_id": "fb38e283ea174582a11aa404dc4e5b1c",
+            "path": "Cirurgia[$$]Vesícula e Vias Biliares[$$]Colelitíase[$$]Exames Complementares[$$]Exames de Imagem[$$]Tomografia Computadorizada",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d96c8f2f07cb42f196c64e31e83af599",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "4c0920c650894b348bda1ff860a488bd",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Neoplasias do Sistema Digestivo[$$]Neoplasias do Pâncreas[$$]Neoplasia Maligna Sólida do Pâncreas[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "61d612bd-4872-45c1-a9f8-eb671ac031ff",
+            "position": "0",
+            "body": "Dosagem de CA19 - 9 sérico.<div> </div>",
+            "sanitized_body": "Dosagem de CA19 - 9 sérico. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+            "updated_at": "2022-01-10 03:42:40.376622 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O CA 19-9 tem uma sensibilidade de 79% e uma especificidade de 98% para o diagnóstico de colangiocarcinoma quando seus valores séricos são superiores a 129 U/mL. O CA 19-9 não é um marcador diagnóstico, já que ele pode estar elevado em outras condições clínicas, porém valores muito elevados no contexto do colangiocarcinoma sugerem doença localmente avançada ou doença metastática e, no pós-operatório, sua elevação pode sugerir recorrência/recidiva da doença.<div><br></div>",
+              "sanitized_complete": "O CA 19-9 tem uma sensibilidade de 79% e uma especificidade de 98% para o diagnóstico de colangiocarcinoma quando seus valores séricos são superiores a 129 U/mL. O CA 19-9 não é um marcador diagnóstico, já que ele pode estar elevado em outras condições clínicas, porém valores muito elevados no contexto do colangiocarcinoma sugerem doença localmente avançada ou doença metastática e, no pós-operatório, sua elevação pode sugerir recorrência/recidiva da doença.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:04:21.3198 +0000 UTC",
+              "updated_at": "2022-01-21 11:04:22.285405 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 76
+          },
+          {
+            "id": "bd092165-7176-4d56-8538-24ef882be11c",
+            "position": "1",
+            "body": "Tomografia computadorizada contrastada do abdome.<div> </div>",
+            "sanitized_body": "Tomografia computadorizada contrastada do abdome. ",
+            "correct": true,
+            "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+            "updated_at": "2022-01-10 03:42:40.515695 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Como o autor da questão quer saber o exame indicado após a ultrassonografia, pensando na relação custo-efetividade, a tomografia contrastada seria o exame indicado. No entanto, é muito difícil a visualização do tumor com esses exames, mas é útil para o estadiamento e investigação de doença a distância.",
+              "sanitized_complete": "Como o autor da questão quer saber o exame indicado após a ultrassonografia, pensando na relação custo-efetividade, a tomografia contrastada seria o exame indicado. No entanto, é muito difícil a visualização do tumor com esses exames, mas é útil para o estadiamento e investigação de doença a distância.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:04:21.350765 +0000 UTC",
+              "updated_at": "2022-01-21 11:04:22.272115 +0000 UTC"
+            },
+            "answer_percentage": 58,
+            "answers": 984
+          },
+          {
+            "id": "d85be32f-31cd-4d0a-81ca-1ad4d933e0e0",
+            "position": "2",
+            "body": "Ressonância magnética do abdome.<div> </div>",
+            "sanitized_body": "Ressonância magnética do abdome. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+            "updated_at": "2022-01-10 03:42:40.611911 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Para o melhor delineamento da anatomia da via biliar, nos tumores distais e peri-hilares, está indicada a colangiografia, sendo que o método preferido é a colangiorressonância. Na ressonância magnética, os colangiocarcinomas aparecem como lesões hipointensas nas imagens ponderadas em T1 e são heterogeneamente hiperintensos nas imagens ponderadas em T2. Imagens ponderadas em T2 também podem mostrar hipointensidade central correspondente a áreas de fibrose. As imagens dinâmicas mostram realce periférico seguido de preenchimento progressivo e concêntrico do tumor com material de contraste. Apesar de ser o melhor exame indicado, a colangiorressonância tem alto custo e baixa disponilidade.<div><br></div>",
+              "sanitized_complete": "Para o melhor delineamento da anatomia da via biliar, nos tumores distais e peri-hilares, está indicada a colangiografia, sendo que o método preferido é a colangiorressonância. Na ressonância magnética, os colangiocarcinomas aparecem como lesões hipointensas nas imagens ponderadas em T1 e são heterogeneamente hiperintensos nas imagens ponderadas em T2. Imagens ponderadas em T2 também podem mostrar hipointensidade central correspondente a áreas de fibrose. As imagens dinâmicas mostram realce periférico seguido de preenchimento progressivo e concêntrico do tumor com material de contraste. Apesar de ser o melhor exame indicado, a colangiorressonância tem alto custo e baixa disponilidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:04:21.319991 +0000 UTC",
+              "updated_at": "2022-01-21 11:04:22.276233 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 112
+          },
+          {
+            "id": "83be9713-de35-4b50-8f81-98fadc093a5b",
+            "position": "3",
+            "body": "Laparoscopia diagnóstica do abdome.<div> </div>",
+            "sanitized_body": "Laparoscopia diagnóstica do abdome. ",
+            "correct": false,
+            "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+            "updated_at": "2022-01-10 03:42:40.707949 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": " Laparoscopia não é um exame indicado para diagnóstico de neoplasia periampular.<div><br></div>",
+              "sanitized_complete": "Laparoscopia não é um exame indicado para diagnóstico de neoplasia periampular.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:04:21.336729 +0000 UTC",
+              "updated_at": "2022-01-21 11:04:22.309202 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 16
+          },
+          {
+            "id": "04df9531-6212-4435-905c-5c856eb437e8",
+            "position": "4",
+            "body": "Colangiopancreatografia retrógrada endoscópica.",
+            "sanitized_body": "Colangiopancreatografia retrógrada endoscópica.",
+            "correct": false,
+            "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+            "updated_at": "2022-01-10 03:42:40.808577 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A CPRE é um método útil, principalmente nos colangiocarcinomas distais, pois permite a obtenção de material para citologia e, caso seja necessário, a passagem de prótese para desobstrução da via biliar. Mas é um exame invasivo com possíveis complicações (pancreatite, perfuração duodenal, colangite e sangramento).",
+              "sanitized_complete": "A CPRE é um método útil, principalmente nos colangiocarcinomas distais, pois permite a obtenção de material para citologia e, caso seja necessário, a passagem de prótese para desobstrução da via biliar. Mas é um exame invasivo com possíveis complicações (pancreatite, perfuração duodenal, colangite e sangramento).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-01-21 11:04:21.358697 +0000 UTC",
+              "updated_at": "2022-01-21 11:04:22.277468 +0000 UTC"
+            },
+            "answer_percentage": 30,
+            "answers": 517
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem de 47 anos de idade é internado para investigação de icterícia e prurido que se iniciou há 3 semanas. Nega doenças anteriores, perda de peso ou qualquer outra queixa. É etilista crônico (3 a 5 doses de bebida alcoólica destilada/dia há 30 anos). Ao exame físico, encontra-se em bom estado geral. Apresenta icterícia de escleras; o restante do exame físico é normal. A ultrassonografia do abdome revelou dilatação de vias biliares intra e extra-hepáticas. A vesícula está dilatada e não foram identificados cálculos em seu interior.<div><br></div><div>Considerando a relação custo-efetividade, qual o exame complementar que deve ser solicitado na sequência da ultrassonografia com vista ao diagnóstico do caso?</div><div> </div>",
+        "statement_text": "Um homem de 47 anos de idade é internado para investigação de icterícia e prurido que se iniciou há 3 semanas. Nega doenças anteriores, perda de peso ou qualquer outra queixa. É etilista crônico (3 a 5 doses de bebida alcoólica destilada/dia há 30 anos). Ao exame físico, encontra-se em bom estado geral. Apresenta icterícia de escleras; o restante do exame físico é normal. A ultrassonografia do abdome revelou dilatação de vias biliares intra e extra-hepáticas. A vesícula está dilatada e não foram identificados cálculos em seu interior.Considerando a relação custo-efetividade, qual o exame complementar que deve ser solicitado na sequência da ultrassonografia com vista ao diagnóstico do caso? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 15:21:03.361753 +0000 UTC",
+        "forum_id": "531ac62b-5f07-4992-843d-76428d190458",
+        "solution": {
+          "_key": "0629c78c-0a02-4687-97f8-c0e051772417",
+          "complete": "Estamos diante de um paciente etilista crônico com icterícia e dilatação da via biliar intra e extra-hepática, assim como da vesícula biliar, e sem cálculos, o que afasta o diagnóstico de coledocolitíase. Como hipótese diagnóstica, devemos pensar em neoplasia periampular (por exemplo, neoplasia de cabeça de pâncreas, colangiocarcinoma distal, neoplasia de papila duodenal), mesmo que o paciente não apresente perda de peso. A investigação inicial deve começar com a ultrassonografia e a tomografia computadorizada contrastada. <div><br></div><div><br></div>",
+          "sanitized_complete": "Estamos diante de um paciente etilista crônico com icterícia e dilatação da via biliar intra e extra-hepática, assim como da vesícula biliar, e sem cálculos, o que afasta o diagnóstico de coledocolitíase. Como hipótese diagnóstica, devemos pensar em neoplasia periampular (por exemplo, neoplasia de cabeça de pâncreas, colangiocarcinoma distal, neoplasia de papila duodenal), mesmo que o paciente não apresente perda de peso. A investigação inicial deve começar com a ultrassonografia e a tomografia computadorizada contrastada.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+          "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+          "author_profile": {
+            "id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+            "full_name": "Renatha Paiva de Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/e4000946ecd6625076f499e28ce5ac58",
+            "about_me": "➢ Graduação: Curso de Medicina pela Universidade Federal de Juiz de ForaMG, 1997 a 2002\n➢ Residência Médica em Cirurgia Geral pelo Hospital Santa Marcelina em São PauloSP, 2003 e 2004 – Prova de residência SUSSP.\n➢ Residência Médica em Cirurgia Oncológica pelo Instituto Arnaldo Vieira de CarvalhoSP, 2005 a 2007 – Prova de residência SUSSP.\n➢ Pós-graduação em Nutrologia pela ABRAN (Associação Brasileira de Nutrologia) em 2018.\n➢ Aprovada em 1o lugar no concurso público da Polícia Civil do Estado de São Paulo, para o cargo de\nmédico legista, em 2008.\n➢ Médica legista, chefe de equipe, do Instituto Médico Legal de Taboão da SerraSP, desde 2009.\n➢ Médica cirurgiã do Pronto Socorro do Hospital Regional de CotiaSP, desde 2007.\n➢ Preceptora da Residência Médica de Cirurgia Geral do Hospital Regional de CotiaSP, desde 2014.\n➢ Preceptora do internato de Cirurgia Geral da Unicid, Universidade Cidade São Paulo, realizado no\nHospital Regional de Cotia, desde 2019.\n➢ Professora da disciplina de Medicina Legal da Academia de Polícia Civil de São Paulo.\n\nRedes sociais:\nhttp:linkedin.cominrenatha-paiva-96a125196",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.renathapaiva",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-21 11:04:21.403724 +0000 UTC",
+          "updated_at": "2022-01-21 11:04:22.29808 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129313-720.mp4",
+        "unlisted": false,
+        "slug": "homem-47-anos-idade-e109a3f19f50",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

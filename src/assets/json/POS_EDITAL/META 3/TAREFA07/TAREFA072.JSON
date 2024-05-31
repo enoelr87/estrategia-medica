@@ -1,0 +1,272 @@
+{
+    "data": [
+      {
+        "id": "4000126747",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2a836843d7664236a28b880b4b866dbd",
+            "name": "Diarreia Aguda ",
+            "is_master": false,
+            "master_id": "4057f35a9b0e4ae49067aba8c1f83968",
+            "path": "Pediatria[$$]Gastrologia Pediátrica[$$]Diarreia Aguda ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a6694149-6d20-4f76-97c8-65ef624e52cf",
+            "position": "0",
+            "body": "suspender a fórmula láctea e oferecer aleitamento materno exclusivamente.",
+            "sanitized_body": "suspender a fórmula láctea e oferecer aleitamento materno exclusivamente.",
+            "correct": true,
+            "created_at": "2020-09-24 21:50:50.214244 +0000 UTC",
+            "updated_at": "2020-11-23 16:17:58.951083 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa considerada correta, mas um tanto confusa, se considerarmos APLV como causa, deveríamos suspender a fórmula láctea ou substituir por hidrolisado proteico, e orientar a isenção de proteína do leite de vaca para a mãe manter a amamentação (isso não foi deixado claro na alternativa).",
+              "sanitized_complete": "Alternativa considerada correta, mas um tanto confusa, se considerarmos APLV como causa, deveríamos suspender a fórmula láctea ou substituir por hidrolisado proteico, e orientar a isenção de proteína do leite de vaca para a mãe manter a amamentação (isso não foi deixado claro na alternativa).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 18:17:36.94017 +0000 UTC",
+              "updated_at": "2022-02-24 11:57:14.573628 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 1456
+          },
+          {
+            "id": "872aaea1-a87d-4e12-b8b1-8dfadebd9d1d",
+            "position": "1",
+            "body": "manter o aleitamento materno e substituir a fórmula láctea por hidrolisado proteico.",
+            "sanitized_body": "manter o aleitamento materno e substituir a fórmula láctea por hidrolisado proteico.",
+            "correct": false,
+            "created_at": "2020-09-24 21:50:50.214244 +0000 UTC",
+            "updated_at": "2020-11-23 16:18:00.845146 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, essa seria uma opção possível caso a opção fosse manter o complemento da criança, mas deveria ter sido deixado claro que a mãe precisa iniciar dieta sem leite de vaca e derivados para manter o aleitamento materno.",
+              "sanitized_complete": "Incorreta, essa seria uma opção possível caso a opção fosse manter o complemento da criança, mas deveria ter sido deixado claro que a mãe precisa iniciar dieta sem leite de vaca e derivados para manter o aleitamento materno.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 18:17:36.942235 +0000 UTC",
+              "updated_at": "2022-02-24 11:57:14.613967 +0000 UTC"
+            },
+            "answer_percentage": 20,
+            "answers": 411
+          },
+          {
+            "id": "e00e702e-fe86-4dca-87f9-b4b945bf8b90",
+            "position": "2",
+            "body": "manter o aleitamento materno complementado com fórmula láctea e associar um probiótico.",
+            "sanitized_body": "manter o aleitamento materno complementado com fórmula láctea e associar um probiótico.",
+            "correct": false,
+            "created_at": "2020-09-24 21:50:50.214244 +0000 UTC",
+            "updated_at": "2020-11-23 16:18:01.603399 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não há benefício no uso de probiótico para manejo de diarreia seja aguda ou crônica.",
+              "sanitized_complete": "Incorreta, não há benefício no uso de probiótico para manejo de diarreia seja aguda ou crônica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 18:17:36.95692 +0000 UTC",
+              "updated_at": "2022-02-24 11:57:14.586527 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 92
+          },
+          {
+            "id": "8d9061d7-7398-4384-85a7-92ea27e9ef8e",
+            "position": "3",
+            "body": "suspender o aleitamento materno e a fórmula láctea, substituindo-os por fórmula à base de soja.",
+            "sanitized_body": "suspender o aleitamento materno e a fórmula láctea, substituindo-os por fórmula à base de soja.",
+            "correct": false,
+            "created_at": "2020-09-24 21:50:50.214244 +0000 UTC",
+            "updated_at": "2020-11-23 16:18:03.09415 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, a fórmula de soja é contraindicada em menores do que 6 meses de vida. ",
+              "sanitized_complete": "Incorreta, a fórmula de soja é contraindicada em menores do que 6 meses de vida.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-08-02 18:17:36.957828 +0000 UTC",
+              "updated_at": "2022-02-24 11:57:14.600519 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 56
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um lactente com quatro meses de idade nasceu a termo com peso de 3 kg. Desde o nascimento, faz uso de leite materno complementado com fórmula láctea. Atualmente pesa 5,5 kg. Há um mês iniciou quadro de diarreia, com seis evacuações ao dia e raios de sangue e fezes não explosivas. No exame físico foi observado que a criança estava em bom estado geral, bem nutrida, hidratada e que não havia hiperemia perianal. Nesse   caso, a conduta indicada é:",
+        "statement_text": "Um lactente com quatro meses de idade nasceu a termo com peso de 3 kg. Desde o nascimento, faz uso de leite materno complementado com fórmula láctea. Atualmente pesa 5,5 kg. Há um mês iniciou quadro de diarreia, com seis evacuações ao dia e raios de sangue e fezes não explosivas. No exame físico foi observado que a criança estava em bom estado geral, bem nutrida, hidratada e que não havia hiperemia perianal. Nesse   caso, a conduta indicada é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 21:50:50.214244 +0000 UTC",
+        "forum_id": "c41ed167-8e79-48e8-9abb-c6b126d5b237",
+        "solution": {
+          "_key": "751d05bb-5c64-4ad9-a787-d897b4fe3e0a",
+          "complete": "<div>Caro aluno,</div><div><b><br></b></div><div><b>Vamos analisar o caso juntos:</b></div><div><ul><li>Lactente, 4 meses.</li><li>Introdução precoce de fórmula infantil (fator de risco para APLV)</li><li>Bom ganho de peso.</li><li><br></li><li><b>Quadro clínico</b>: Diarreia crônica com raios de sangue, hidratada e que não havia hiperemia perianal.  </li><li><br></li><li><span>A principal hipótese seria alergia à proteína do leite de vaca, o qual recomendaria a restrição de proteína do leite de vaca do bebê e da mãe, para que ela mantenha a amamentação. O problema da questão é que as alternativas são confusas quanto ao manejo, vamos ver juntos:</span></li></ul></div><div></div>",
+          "sanitized_complete": "Caro aluno,Vamos analisar o caso juntos:Lactente, 4 meses.Introdução precoce de fórmula infantil (fator de risco para APLV)Bom ganho de peso.Quadro clínico: Diarreia crônica com raios de sangue, hidratada e que não havia hiperemia perianal.  A principal hipótese seria alergia à proteína do leite de vaca, o qual recomendaria a restrição de proteína do leite de vaca do bebê e da mãe, para que ela mantenha a amamentação. O problema da questão é que as alternativas são confusas quanto ao manejo, vamos ver juntos:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+          "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+          "author_profile": {
+            "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+            "full_name": "Jéssica Dantas",
+            "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+            "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-02 18:17:37.026811 +0000 UTC",
+          "updated_at": "2022-02-24 11:57:14.70019 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "lactente-com-quatro813d0d3f7a",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

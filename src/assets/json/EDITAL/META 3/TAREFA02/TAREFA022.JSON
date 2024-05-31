@@ -1,0 +1,298 @@
+{
+    "data": [
+      {
+        "id": "4000127074",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "069019ff4cd940c1a89a992163c517f7",
+            "name": "Abdome Agudo Obstrutivo",
+            "is_master": false,
+            "master_id": "cf7283454f7d4165a2997cf48204895a",
+            "path": "Cirurgia[$$]Urgências Abdominais[$$]Abdome Agudo Obstrutivo",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6909cded-864b-4c1c-8236-58d53435388c",
+            "position": "0",
+            "body": "Instalar sonda nasogástrica, prescrever hidratação parenteral, lactulona e antieméticos e manter paciente em observação.",
+            "sanitized_body": "Instalar sonda nasogástrica, prescrever hidratação parenteral, lactulona e antieméticos e manter paciente em observação.",
+            "correct": false,
+            "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+            "updated_at": "2020-11-23 13:37:07.014336 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A obstrução intestinal do câncer colorretal é uma obstrução mecânica, portanto medidas clínicas como sonda nasogástrica, hidratação e analgesia não irão resolver a etiologia, além do mais o uso de laxativos pode aumentar a distensão gasosa e predispor a perfuração intestinal.",
+              "sanitized_complete": "A obstrução intestinal do câncer colorretal é uma obstrução mecânica, portanto medidas clínicas como sonda nasogástrica, hidratação e analgesia não irão resolver a etiologia, além do mais o uso de laxativos pode aumentar a distensão gasosa e predispor a perfuração intestinal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-08 15:13:13.854354 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 116
+          },
+          {
+            "id": "064d144c-48c3-4288-9195-6f60646ee2c9",
+            "position": "1",
+            "body": "Instalar sonda nasogástrica, prescrever hidratação parenteral, clister com solução glicerinada e manter paciente em observação.",
+            "sanitized_body": "Instalar sonda nasogástrica, prescrever hidratação parenteral, clister com solução glicerinada e manter paciente em observação.",
+            "correct": false,
+            "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+            "updated_at": "2020-11-23 13:37:07.060543 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O uso de clister é feito em obstrução por fecaloma, que é uma causa de obstrução mecânica que pode resolver de forma não cirúrgica, no nosso paciente o uso de clister pode predispor a perfuração e é inefetivo! ",
+              "sanitized_complete": "O uso de clister é feito em obstrução por fecaloma, que é uma causa de obstrução mecânica que pode resolver de forma não cirúrgica, no nosso paciente o uso de clister pode predispor a perfuração e é inefetivo!",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-08 15:13:13.844138 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 254
+          },
+          {
+            "id": "68566134-c2f9-4dd2-8bd7-10b3a451e9d5",
+            "position": "2",
+            "body": "Instalar sonda nasogástrica, prescrever hidratação parenteral e clister com solução glicerinada. A posteriori instalar sonda retal e manter paciente em observação.",
+            "sanitized_body": "Instalar sonda nasogástrica, prescrever hidratação parenteral e clister com solução glicerinada. A posteriori instalar sonda retal e manter paciente em observação.",
+            "correct": false,
+            "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+            "updated_at": "2020-11-23 13:37:07.099448 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A sonda retal não irá auxiliar no tratamento, podendo inclusive não transpor a lesão tumoral e predispor a sangramento. ",
+              "sanitized_complete": "A sonda retal não irá auxiliar no tratamento, podendo inclusive não transpor a lesão tumoral e predispor a sangramento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-08 15:13:13.853835 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 69
+          },
+          {
+            "id": "c2e7f0cd-bfd0-4a8f-b453-06da6c84b36f",
+            "position": "3",
+            "body": "Prescrever antiespasmódicos, dimeticona e solicitar colonoscopia com biópsia e dosagem de antígeno carcino-embrionário.",
+            "sanitized_body": "Prescrever antiespasmódicos, dimeticona e solicitar colonoscopia com biópsia e dosagem de antígeno carcino-embrionário.",
+            "correct": false,
+            "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+            "updated_at": "2020-11-23 13:37:07.155749 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A colonoscopia com biópsia é o exame diagnóstico para o câncer colorretal a nível AMBULATORIAL, em paciente com complicações como a obstrução intestinal ela está contraindicada, também é outra conduta que pode favorecer a perfuração intestinal, e no momento precisamos resolver a obstrução que é a urgência do paciente. ",
+              "sanitized_complete": "A colonoscopia com biópsia é o exame diagnóstico para o câncer colorretal a nível AMBULATORIAL, em paciente com complicações como a obstrução intestinal ela está contraindicada, também é outra conduta que pode favorecer a perfuração intestinal, e no momento precisamos resolver a obstrução que é a urgência do paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-08 15:13:13.861646 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 377
+          },
+          {
+            "id": "186fc100-2368-49fc-b151-6e44fce33886",
+            "position": "4",
+            "body": "Encaminhar imediatamente o paciente para avaliação cirúrgica.",
+            "sanitized_body": "Encaminhar imediatamente o paciente para avaliação cirúrgica.",
+            "correct": true,
+            "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+            "updated_at": "2020-11-23 13:37:07.205139 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O paciente precisa ser direcionado ao cirurgião para programação de cirurgia de urgência, a depender do status clínico do paciente podemos realizar uma tomografia de abdome para melhor avaliação do ponto de obstrução e auxiliar no diagnóstico etiológico e melhor programação cirúrgica. ",
+              "sanitized_complete": "O paciente precisa ser direcionado ao cirurgião para programação de cirurgia de urgência, a depender do status clínico do paciente podemos realizar uma tomografia de abdome para melhor avaliação do ponto de obstrução e auxiliar no diagnóstico etiológico e melhor programação cirúrgica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-08 15:13:13.861787 +0000 UTC"
+            },
+            "answer_percentage": 58,
+            "answers": 1126
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem, com 58 anos de idade, é atendido em serviço de urgência e relata a ocorrência, há cerca de seis meses, de modificação de seu hábito intestinal - períodos de constipação intercalados por evacuações de fezes pastosas, às vezes acompanhadas da eliminação de muco e sangue. Nesse período foi visto em consultas, nas quais foi   prescrito tratamento antiparasitário, não havendo melhora da sintomatologia. O paciente informa ainda que há cerca de um mês, vem apresentando intensificação do esforço evacuatório. Nesse período as fezes têm se tornado cada vez mais afiladas e há dois dias vem observando a diminuição quase completa da eliminação de flatos e fezes, relatando também a ocorrência de náuseas e um episódio de vômitos de conteúdo biliar. Com base nessa história, qual a conduta imediata a ser seguida?",
+        "statement_text": "Homem, com 58 anos de idade, é atendido em serviço de urgência e relata a ocorrência, há cerca de seis meses, de modificação de seu hábito intestinal - períodos de constipação intercalados por evacuações de fezes pastosas, às vezes acompanhadas da eliminação de muco e sangue. Nesse período foi visto em consultas, nas quais foi   prescrito tratamento antiparasitário, não havendo melhora da sintomatologia. O paciente informa ainda que há cerca de um mês, vem apresentando intensificação do esforço evacuatório. Nesse período as fezes têm se tornado cada vez mais afiladas e há dois dias vem observando a diminuição quase completa da eliminação de flatos e fezes, relatando também a ocorrência de náuseas e um episódio de vômitos de conteúdo biliar. Com base nessa história, qual a conduta imediata a ser seguida?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:24:22.413039 +0000 UTC",
+        "solution": {
+          "_key": "422ad165-d6a1-4dc5-a12d-9020fad66247",
+          "complete": "Paciente 58 anos com mudança do hábito intestinal há 6 meses, intercalando constipação com fezes pastosas, além de eliminação de sangue e muco nas fezes. Refere evolução do quadro clínico com tenesmo e fezes em fita e por fim, procura o atendimento referindo que há 2 dias parou quase que completamente de evacuar e eliminar flatos e apresentou alguns episódios de náusea e vômitos. <div><br><div>Revalidandos prestem atenção, SEMPRE que estivermos diante de paciente com a faixa etária do nosso paciente com mudança de hábito intestinal, sangramento nas fezes, fezes em fita, devemos pensar em CÂNCER COLORRETAL! </div><div><br></div><div>O câncer colorretal (CCR) é a causa mais comum de obstrução do intestino grosso e frequente, diferente da maioria das obstruções do intestino delgado, que podem ser tratadas com sucesso sem cirurgia, aproximadamente 75% das obstruções do intestino grosso requerem intervenção cirúrgica,</div><div><br></div><div>A combinação: alteração de hábito intestinal (seja diarreia ou constipação) associada a sangramento retal está presente em 51% dos portadores de câncer colorretal, sendo que o câncer de cólon direito costuma apresentar sangramento mais escurecido (melena), ao passo que o câncer de cólon esquerdo e reto apresentam sangramento vermelho vivo.</div><div><br></div><div>Habitualmente conseguimos distinguir alguns sintomas quando estamos diante de um paciente com neoplasia a direita ou a esquerda, como na imagem a seguir:</div><div> <img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/37723530-D943-4465-B784-1014641643CC/37723530-D943-4465-B784-1014641643CC-400.png\"></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><div>Quando pensamos nos tumores restritos ao RETO, acrescentamos os sintomas de TENESMO, DOR RETAL e REDUÇÃO DO CALIBRE DAS FEZES, que se tornam finas e longas!</div><div><br></div><div>Sendo assim, estamos diante de um abdome agudo obstrutivo baixo por um provável câncer colorretal, cujo tratamento é CIRURGICO! </div><div><br></div><div>Vamos analisar as alternativas:</div><div><br></div></div>",
+          "sanitized_complete": "Paciente 58 anos com mudança do hábito intestinal há 6 meses, intercalando constipação com fezes pastosas, além de eliminação de sangue e muco nas fezes. Refere evolução do quadro clínico com tenesmo e fezes em fita e por fim, procura o atendimento referindo que há 2 dias parou quase que completamente de evacuar e eliminar flatos e apresentou alguns episódios de náusea e vômitos. Revalidandos prestem atenção, SEMPRE que estivermos diante de paciente com a faixa etária do nosso paciente com mudança de hábito intestinal, sangramento nas fezes, fezes em fita, devemos pensar em CÂNCER COLORRETAL! O câncer colorretal (CCR) é a causa mais comum de obstrução do intestino grosso e frequente, diferente da maioria das obstruções do intestino delgado, que podem ser tratadas com sucesso sem cirurgia, aproximadamente 75% das obstruções do intestino grosso requerem intervenção cirúrgica,A combinação: alteração de hábito intestinal (seja diarreia ou constipação) associada a sangramento retal está presente em 51% dos portadores de câncer colorretal, sendo que o câncer de cólon direito costuma apresentar sangramento mais escurecido (melena), ao passo que o câncer de cólon esquerdo e reto apresentam sangramento vermelho vivo.Habitualmente conseguimos distinguir alguns sintomas quando estamos diante de um paciente com neoplasia a direita ou a esquerda, como na imagem a seguir: Quando pensamos nos tumores restritos ao RETO, acrescentamos os sintomas de TENESMO, DOR RETAL e REDUÇÃO DO CALIBRE DAS FEZES, que se tornam finas e longas!Sendo assim, estamos diante de um abdome agudo obstrutivo baixo por um provável câncer colorretal, cujo tratamento é CIRURGICO! Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+          "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+          "author_profile": {
+            "id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+            "full_name": "Thaila Pine Gondek",
+            "avatar_url": "https://static.accounts.estrategia.com/44be6b4b8985129795485125e5d29553",
+            "about_me": "Graduação em Medicina pela Faculdade de Medicina de Marília (FAMEMA).\nResidência em Cirurgia Geral pela Santa Casa de Misericórdia de São Paulo (SCMSP) e\nCirurgia de Cabeça e Pescoço no Hospital das Clínicas da Faculdade de Medicina da\nUniversidade de São Paulo (HC-FMUSP).\nFellowship em cirurgia de base de crânio no ICESP.\nProfessora de Cirurgia do Estratégia MED.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-08 15:13:13.918578 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127074-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-com-58-anos133632cf5e7",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

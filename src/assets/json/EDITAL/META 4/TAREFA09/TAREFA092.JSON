@@ -1,0 +1,304 @@
+{
+    "data": [
+      {
+        "id": "4000154089",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2007,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "14994229-77BE-17B2-0781-4B5DB74F305F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 60,
+            "created_at": "2021-10-01T23:53:25Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e4c85e602c51468d84e7ca3326aecef7",
+            "name": "Documentos médicos",
+            "is_master": false,
+            "master_id": "e1d23ed877d143c7a8d2e3c5bd19dc75",
+            "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)[$$]Documentos médicos",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fe78b4d674604e588c9907c151bfd4e3",
+            "name": "Declaração de óbito (DO) / Atestado de óbito",
+            "is_master": false,
+            "master_id": "db4beeae0e6d48f4925accb6a23fb2dd",
+            "path": "Medicina Preventiva[$$]Epidemiologia[$$]Vigilância em Saúde[$$]Sistemas de Informação em Saúde (SIS) e Bases de dados do SUS[$$]Sistema de Informação sobre Mortalidade (SIM)[$$]Declaração de óbito (DO) / Atestado de óbito",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "dc942580-46b4-482f-87e4-e07d2575862d",
+            "position": "0",
+            "body": "Utilizar-se de formulários de instituição pública para atestar fatos verificados fora da mesma;",
+            "sanitized_body": "Utilizar-se de formulários de instituição pública para atestar fatos verificados fora da mesma;",
+            "correct": false,
+            "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+            "updated_at": "2021-11-13 19:09:23.913469 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois o formulário pertence à instituição. Portanto, seu uso é restrito às dependências da instituição ou a profissionais a seu serviço.",
+              "sanitized_complete": "Incorreto, pois o formulário pertence à instituição. Portanto, seu uso é restrito às dependências da instituição ou a profissionais a seu serviço.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 15:43:33.334706 +0000 UTC",
+              "updated_at": "2022-02-03 15:46:19.035304 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 71
+          },
+          {
+            "id": "aa6d3623-d154-4982-ba2e-bc5c2484f785",
+            "position": "1",
+            "body": "Deixar de atestar óbito de paciente ao qual vinha prestando assistência;",
+            "sanitized_body": "Deixar de atestar óbito de paciente ao qual vinha prestando assistência;",
+            "correct": false,
+            "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+            "updated_at": "2021-11-13 19:09:24.063019 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois é dever do médico assistente declarar o óbito de seu paciente.",
+              "sanitized_complete": "Incorreto, pois é dever do médico assistente declarar o óbito de seu paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 15:43:33.305127 +0000 UTC",
+              "updated_at": "2022-02-03 15:46:19.013475 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 88
+          },
+          {
+            "id": "e5370390-9cc1-4d92-b7f1-931f9dff705f",
+            "position": "2",
+            "body": "Atestar óbito, quando não tenha verificado pessoalmente ou prestado assistência ao paciente;",
+            "sanitized_body": "Atestar óbito, quando não tenha verificado pessoalmente ou prestado assistência ao paciente;",
+            "correct": false,
+            "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+            "updated_at": "2021-11-13 19:09:24.220847 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto! É vedado ao médico declarar óbito que não tenha avaliado pessoalmente. Por exemplo, preencher um documento de óbito sem que tenha avaliado o paciente e atestado óbito pessoalmente.",
+              "sanitized_complete": "Incorreto! É vedado ao médico declarar óbito que não tenha avaliado pessoalmente. Por exemplo, preencher um documento de óbito sem que tenha avaliado o paciente e atestado óbito pessoalmente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 15:43:33.334706 +0000 UTC",
+              "updated_at": "2022-02-03 15:46:19.020311 +0000 UTC"
+            },
+            "answer_percentage": 25,
+            "answers": 208
+          },
+          {
+            "id": "7c62adbd-52a9-4557-b5c8-184ef111966e",
+            "position": "3",
+            "body": "Deixar de atestar atos médicos executados, quando solicitado pelo paciente.",
+            "sanitized_body": "Deixar de atestar atos médicos executados, quando solicitado pelo paciente.",
+            "correct": false,
+            "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+            "updated_at": "2021-11-13 19:09:24.415269 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto! É dever do médico produzir documento relatando procedimento realizado, quando solicitado, em qualquer tempo, pelo paciente.",
+              "sanitized_complete": "Incorreto! É dever do médico produzir documento relatando procedimento realizado, quando solicitado, em qualquer tempo, pelo paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 15:43:33.303274 +0000 UTC",
+              "updated_at": "2022-02-03 15:46:19.028303 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 55
+          },
+          {
+            "id": "c75d8599-5b2a-4daa-b905-70a3ad3e0da4",
+            "position": "4",
+            "body": "Atestar óbito na qualidade de plantonista ou médico substituto",
+            "sanitized_body": "Atestar óbito na qualidade de plantonista ou médico substituto",
+            "correct": true,
+            "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+            "updated_at": "2021-11-13 19:09:24.584195 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto! Pois NÃO é vedado ao médico. Por exemplo, se o médico estiver de plantão no hospital, ele pode, mesmo sem contato prévio com um paciente, verificar pessoalmente o óbito e preencher a declaração de óbito do indivíduo, desde que seja de causa natural.",
+              "sanitized_complete": "Correto! Pois NÃO é vedado ao médico. Por exemplo, se o médico estiver de plantão no hospital, ele pode, mesmo sem contato prévio com um paciente, verificar pessoalmente o óbito e preencher a declaração de óbito do indivíduo, desde que seja de causa natural.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 15:43:33.32302 +0000 UTC",
+              "updated_at": "2022-02-03 15:46:19.02198 +0000 UTC"
+            },
+            "answer_percentage": 50,
+            "answers": 415
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação ao atestado, não é vedado ao médico:",
+        "statement_text": "Em relação ao atestado, não é vedado ao médico:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-02 23:06:29.414774 +0000 UTC",
+        "solution": {
+          "_key": "b71c2dd9-bd67-47c6-9841-28c0ce6e81ae",
+          "complete": "Resposta letra E.",
+          "sanitized_complete": "Resposta letra E.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 15:43:33.408021 +0000 UTC",
+          "updated_at": "2022-02-03 15:46:19.06604 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "atestado-na-e-vedado99256cb52",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

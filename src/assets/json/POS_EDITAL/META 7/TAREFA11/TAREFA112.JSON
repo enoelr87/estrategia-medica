@@ -1,0 +1,2753 @@
+{
+    "data": [
+      {
+        "id": "4000126869",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2016,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:46:08Z",
+            "updated_at": "2020-09-24T17:24:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6dcff1768fab479cba9edc0be3eefc02",
+            "name": "Intoxicação por Metais Pesados",
+            "is_master": false,
+            "master_id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Intoxicação por Metais Pesados",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "80c20728-ee8a-4dfa-be35-eea38b64a082",
+            "position": "0",
+            "body": "mercurismo; dosagem de mercúrio sérico e hemograma completo.",
+            "sanitized_body": "mercurismo; dosagem de mercúrio sérico e hemograma completo.",
+            "correct": false,
+            "created_at": "2020-09-25 01:33:57.954284 +0000 UTC",
+            "updated_at": "2021-07-09 21:18:58.472107 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: Hidrargirismo é sinônimo de intoxicação por mercúrio. Sua  intoxicação é normalmente crônica, e acompanhada de sintomas clássicos: tremores,  distúrbios neuropsiquiátricos e gengivoestomatite.",
+              "sanitized_complete": "Alternativa “a” incorreta: Hidrargirismo é sinônimo de intoxicação por mercúrio. Sua  intoxicação é normalmente crônica, e acompanhada de sintomas clássicos: tremores,  distúrbios neuropsiquiátricos e gengivoestomatite.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:37:59.690549 +0000 UTC",
+              "updated_at": "2021-07-12 14:38:29.118527 +0000 UTC"
+            },
+            "answer_percentage": 16,
+            "answers": 189
+          },
+          {
+            "id": "aa63c614-29bf-4853-99c1-b8f9e296852a",
+            "position": "1",
+            "body": "manganismo; dosagem de manganês sérico e hemograma com contagem de plaquetas.",
+            "sanitized_body": "manganismo; dosagem de manganês sérico e hemograma com contagem de plaquetas.",
+            "correct": false,
+            "created_at": "2020-09-25 01:33:57.954284 +0000 UTC",
+            "updated_at": "2021-07-09 21:18:58.548272 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: A intoxicação por manganês recebe o nome de manganismo,  apresentando quadro clínico clássico de um distúrbio extrapiramidal com tremor,  rigidez, bradicinesia e “fácies em máscara” que evoluem de modo lento e progressivo,  semelhante à doença de Parkinson idiopática. O manganês é utilizado na fabricação de  aço, ligas e soldas.",
+              "sanitized_complete": "Alternativa “b” incorreta: A intoxicação por manganês recebe o nome de manganismo,  apresentando quadro clínico clássico de um distúrbio extrapiramidal com tremor,  rigidez, bradicinesia e “fácies em máscara” que evoluem de modo lento e progressivo,  semelhante à doença de Parkinson idiopática. O manganês é utilizado na fabricação de  aço, ligas e soldas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:37:59.688792 +0000 UTC",
+              "updated_at": "2021-07-12 14:38:29.141926 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 30
+          },
+          {
+            "id": "1795ae02-6ce3-4a84-ba10-2821054e954b",
+            "position": "2",
+            "body": "saturnismo; dosagem de chumbo sérico e de ácido delta aminolevulínico (ALA-U) na urina.",
+            "sanitized_body": "saturnismo; dosagem de chumbo sérico e de ácido delta aminolevulínico (ALA-U) na urina.",
+            "correct": true,
+            "created_at": "2020-09-25 01:33:57.954284 +0000 UTC",
+            "updated_at": "2021-07-09 21:18:58.613534 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” correta O enunciado menciona o diagnóstico de saturnismo, doença  ocupacional causada pela exposição ao chumbo. Esse agente químico interfere na  produção do grupo heme da hemoglobina, por intervir no papel enzimático que envolve  os mecanismos da ALA-desidratase, a coproporfirinogenase e a heme-sintetase,  podendo causar anemia por hemólise.<div><br></div><div>O quadro clínico dessa intoxicação é caracterizado pela “cólica do chumbo”, podendo  ser confundido com um abdome agudo cirúrgico em alguns casos. Outras alterações  clínicas como pele acinzentada, diarreia, parestesias, vômitos, cefaleia, insônia,  tremores e delírio também podem ocorrer.&nbsp;</div><div><br></div><div>&nbsp;O chumbo pode ser detectado através de exame de sangue e urina. O Quadro 1 do  Anexo I. da NR-7 prevê os Indicadores Biológicos de Exposição Excessiva, sugerindo a  monitoração biológica de acordo com cada exposição especificada no quadro a seguir:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6522EAB7-FE9E-6863-E6BA-921B54D404E8/6522EAB7-FE9E-6863-E6BA-921B54D404E8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>No trabalho, o chumbo pode estar presente nas atividades que envolvem baterias,  encanamentos, soldas, tintas, munições bélicas, cabos, entre outros.&nbsp;</div><div><br></div><div>&nbsp;Por outro lado, o chumbo de origem não ocupacional pode ser encontrado em  fragmentos de projéteis (acidente com arma de fogo), algumas medicações e cerâmica.</div>",
+              "sanitized_complete": "Alternativa “c” correta O enunciado menciona o diagnóstico de saturnismo, doença  ocupacional causada pela exposição ao chumbo. Esse agente químico interfere na  produção do grupo heme da hemoglobina, por intervir no papel enzimático que envolve  os mecanismos da ALA-desidratase, a coproporfirinogenase e a heme-sintetase,  podendo causar anemia por hemólise.O quadro clínico dessa intoxicação é caracterizado pela “cólica do chumbo”, podendo  ser confundido com um abdome agudo cirúrgico em alguns casos. Outras alterações  clínicas como pele acinzentada, diarreia, parestesias, vômitos, cefaleia, insônia,  tremores e delírio também podem ocorrer.  O chumbo pode ser detectado através de exame de sangue e urina. O Quadro 1 do  Anexo I. da NR-7 prevê os Indicadores Biológicos de Exposição Excessiva, sugerindo a  monitoração biológica de acordo com cada exposição especificada no quadro a seguir:No trabalho, o chumbo pode estar presente nas atividades que envolvem baterias,  encanamentos, soldas, tintas, munições bélicas, cabos, entre outros.  Por outro lado, o chumbo de origem não ocupacional pode ser encontrado em  fragmentos de projéteis (acidente com arma de fogo), algumas medicações e cerâmica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:37:59.678011 +0000 UTC",
+              "updated_at": "2021-07-12 14:38:29.133835 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 853
+          },
+          {
+            "id": "e114b6e0-8c15-4b6e-b75e-8385853f0cad",
+            "position": "3",
+            "body": "benzenismo; dosagem de metahemoglobina sérica e de ácido transmucõnico (AttM-U) na urina.",
+            "sanitized_body": "benzenismo; dosagem de metahemoglobina sérica e de ácido transmucõnico (AttM-U) na urina.",
+            "correct": false,
+            "created_at": "2020-09-25 01:33:57.954284 +0000 UTC",
+            "updated_at": "2021-07-09 21:18:58.679224 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: A inalação de benzeno pode causar efeitos imediatos sobre o  sistema nervoso, incluindo dor de cabeça, náuseas, tontura, tremor, convulsões e coma.",
+              "sanitized_complete": "Alternativa “d” incorreta: A inalação de benzeno pode causar efeitos imediatos sobre o  sistema nervoso, incluindo dor de cabeça, náuseas, tontura, tremor, convulsões e coma.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:37:59.68628 +0000 UTC",
+              "updated_at": "2021-07-12 14:38:29.145441 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 108
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem de 45 anos de idade procura a Unidade Básica de Saúde, queixando-se  de redução da libido, dificuldade de concentração, perda de memória e formigamento  nos braços e mãos. Relata também fadiga, cefaleia e constipação crônicas e afirma fazer tratamento para hipertensão arterial sistêmica e gota há 5 anos. Informa que trabalha com reforma de baterias de automóveis há mais de 30 anos, na garagem da sua casa,  com pouca ventilação e espaço reduzido e que nunca fez uso de equipamentos de proteção. Com base nas informações apresentadas, a hipótese diagnóstica mais provável e os exames complementares necessários para confirmá-lo são",
+        "statement_text": "Um homem de 45 anos de idade procura a Unidade Básica de Saúde, queixando-se  de redução da libido, dificuldade de concentração, perda de memória e formigamento  nos braços e mãos. Relata também fadiga, cefaleia e constipação crônicas e afirma fazer tratamento para hipertensão arterial sistêmica e gota há 5 anos. Informa que trabalha com reforma de baterias de automóveis há mais de 30 anos, na garagem da sua casa,  com pouca ventilação e espaço reduzido e que nunca fez uso de equipamentos de proteção. Com base nas informações apresentadas, a hipótese diagnóstica mais provável e os exames complementares necessários para confirmá-lo são",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 01:33:57.954284 +0000 UTC",
+        "solution": {
+          "_key": "ddc1621c-db99-4f49-a0c7-f5108f3d7ddf",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 14:37:59.879438 +0000 UTC",
+          "updated_at": "2021-07-12 14:38:29.294575 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "homem-45-anos-idade1055bb67a9b",
+        "public": true
+      },
+      {
+        "id": "4000126863",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2016,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:46:08Z",
+            "updated_at": "2020-09-24T17:24:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "72a50eba6f344a97ad1e8ef3440d354c",
+            "name": "Diagnóstico do Autismo",
+            "is_master": false,
+            "master_id": "7c9ca7f12a074ca79de788027bb21c1b",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil[$$]Transtorno do Espectro Autista (TEA)[$$]Diagnóstico do Autismo",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "185f7ddf-64bf-4f52-8ec2-5f6a1c511130",
+            "position": "0",
+            "body": "encaminhar as crianças ao CAPS-infantil para iniciar tratamento medicamentoso.",
+            "sanitized_body": "encaminhar as crianças ao CAPS-infantil para iniciar tratamento medicamentoso.",
+            "correct": false,
+            "created_at": "2020-09-25 01:31:54.386071 +0000 UTC",
+            "updated_at": "2021-07-09 21:17:35.257321 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: O CAPS é o serviço de referência para o tratamento de pacientes com transtornos mentais graves e persistentes.",
+              "sanitized_complete": "Alternativa “a” incorreta: O CAPS é o serviço de referência para o tratamento de pacientes com transtornos mentais graves e persistentes.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:32:43.774519 +0000 UTC",
+              "updated_at": "2021-07-12 14:32:50.338637 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 6
+          },
+          {
+            "id": "71734974-ad7c-4048-af85-ac07631d9336",
+            "position": "1",
+            "body": "notificar o Conselho Tutelar e denunciar à Policia local os maus tratos recebidos pelas crianças.",
+            "sanitized_body": "notificar o Conselho Tutelar e denunciar à Policia local os maus tratos recebidos pelas crianças.",
+            "correct": false,
+            "created_at": "2020-09-25 01:31:54.386071 +0000 UTC",
+            "updated_at": "2021-07-09 21:17:35.329757 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: Não se trata de um caso de polícia ou conselho tutelar. Trata\u0002se de um caso de saúde e educação, e a equipe multidisciplinar da atenção primária  deve atuar",
+              "sanitized_complete": "Alternativa “b” incorreta: Não se trata de um caso de polícia ou conselho tutelar. Trata\u0002se de um caso de saúde e educação, e a equipe multidisciplinar da atenção primária  deve atuar",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:32:43.865908 +0000 UTC",
+              "updated_at": "2021-07-12 14:32:50.274941 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 33
+          },
+          {
+            "id": "61fbac8e-cebd-4130-be0d-3ac71351730d",
+            "position": "2",
+            "body": "encaminhar as crianças ao Serviço de Neurologia infantil de referência para exames complentadores de imagem.",
+            "sanitized_body": "encaminhar as crianças ao Serviço de Neurologia infantil de referência para exames complentadores de imagem.",
+            "correct": false,
+            "created_at": "2020-09-25 01:31:54.386071 +0000 UTC",
+            "updated_at": "2021-07-09 21:17:35.413079 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: As famílias devem ser ensinadas a estimular corretamente  seus filhos, para que o desenvolvimento ocorra de maneira adequada.",
+              "sanitized_complete": "Alternativa “c” incorreta: As famílias devem ser ensinadas a estimular corretamente  seus filhos, para que o desenvolvimento ocorra de maneira adequada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:32:43.792287 +0000 UTC",
+              "updated_at": "2021-07-12 14:32:50.29875 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 7
+          },
+          {
+            "id": "be0d1834-4ce5-4414-a4e1-cf0a77d80779",
+            "position": "3",
+            "body": "realizar abordagem nas oficinas, envolvendo os membros da comunidade, a fim de conscientizá-los da falta de estímulo adequado às crianças e construir possíveis soluções.",
+            "sanitized_body": "realizar abordagem nas oficinas, envolvendo os membros da comunidade, a fim de conscientizá-los da falta de estímulo adequado às crianças e construir possíveis soluções.",
+            "correct": true,
+            "created_at": "2020-09-25 01:31:54.386071 +0000 UTC",
+            "updated_at": "2021-07-09 21:17:35.48141 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” correta: Correto, como vimos anteriormente.",
+              "sanitized_complete": "Alternativa “d” correta: Correto, como vimos anteriormente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:32:43.847897 +0000 UTC",
+              "updated_at": "2021-07-12 14:32:50.288704 +0000 UTC"
+            },
+            "answer_percentage": 96,
+            "answers": 1038
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A Equipe de Saúde da Família (ESF) de uma Unidade Básica de Saúde observou aumento no número de crianças com atraso do desenvolvimento neuropsicomotor no   seu território de atuação. Uma pesquisa mostrou que 90% desses casos são   representados por filhos de imigrantes latinos, de língua espanhola, que trabalham em oficinas de costura. Após diversas visitas a essas oficinas de costuras, a equipe da ESF concluiu que o atraso do desenvolvimento neuropsicomotor é causado por falta de estímulo adequado: os pais trabalham ininterruptamente e não têm tempo de dispensar atenção e estímulo necessários a essas crianças, que ficam muito tempo deitadas, ao lado dos pais, enquanto eles costuram. Considerando os fatores ambientais, sociais e ocupacionais que prejudicam a saúde das crianças que vivem nessas condições, a ESF deve",
+        "statement_text": "A Equipe de Saúde da Família (ESF) de uma Unidade Básica de Saúde observou aumento no número de crianças com atraso do desenvolvimento neuropsicomotor no   seu território de atuação. Uma pesquisa mostrou que 90% desses casos são   representados por filhos de imigrantes latinos, de língua espanhola, que trabalham em oficinas de costura. Após diversas visitas a essas oficinas de costuras, a equipe da ESF concluiu que o atraso do desenvolvimento neuropsicomotor é causado por falta de estímulo adequado: os pais trabalham ininterruptamente e não têm tempo de dispensar atenção e estímulo necessários a essas crianças, que ficam muito tempo deitadas, ao lado dos pais, enquanto eles costuram. Considerando os fatores ambientais, sociais e ocupacionais que prejudicam a saúde das crianças que vivem nessas condições, a ESF deve",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 01:31:54.386071 +0000 UTC",
+        "solution": {
+          "_key": "9d5231fc-4532-4e37-98aa-98bdada50700",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Estrategista, estamos diante de um caso de falta de orientações aos pais sobre os  estímulos que as crianças precisam para seu adequado neurodesenvolvimento. Note  que o enunciado cita especialmente crianças filhas de imigrantes, que naturalmente  também enfrentam mais dificuldades socioeconômicas. Portanto, cabe à equipe da ESF  orientar corretamente essas famílias.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DEstrategista, estamos diante de um caso de falta de orientações aos pais sobre os  estímulos que as crianças precisam para seu adequado neurodesenvolvimento. Note  que o enunciado cita especialmente crianças filhas de imigrantes, que naturalmente  também enfrentam mais dificuldades socioeconômicas. Portanto, cabe à equipe da ESF  orientar corretamente essas famílias.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 14:32:44.039913 +0000 UTC",
+          "updated_at": "2021-07-12 14:32:50.439802 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Equipe-Sau-Familia-ESF1319bb26a0e",
+        "public": true
+      },
+      {
+        "id": "4000126980",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "1A301CE1-86B7-2BAB-81B2-2185B79D5392"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-04T15:14:18Z",
+            "updated_at": "2020-11-26T17:58:58Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0ccdde8a8a0c4ccca12db29c63caf7ff",
+            "name": "Toxicologia ocupacional",
+            "is_master": false,
+            "master_id": "04ca4a7afc024c2a9530ea0939b28078",
+            "path": "Medicina Preventiva[$$]Saúde do Trabalhador[$$]Doenças relacionadas ao trabalho[$$]Toxicologia ocupacional",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "196dbfc93594496ba9e6bd1906056cfa",
+            "name": "Intoxicação por Agrotóxicos",
+            "is_master": false,
+            "master_id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Intoxicação por Agrotóxicos",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "name": "Intoxicações Exógenas",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7df55110e5c04c158581791cd73fa7a6",
+            "name": "Síndrome Colinérgica",
+            "is_master": false,
+            "master_id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Síndrome Colinérgica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c1077bbd-bf1a-4440-8470-397c15120c28",
+            "position": "0",
+            "body": "2, 3, 2, 4, 1",
+            "sanitized_body": "2, 3, 2, 4, 1",
+            "correct": false,
+            "created_at": "2020-09-25 02:43:46.646803 +0000 UTC",
+            "updated_at": "2022-01-04 17:52:54.913569 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-04 17:51:20.130331 +0000 UTC",
+              "updated_at": "2022-01-04 17:52:55.249554 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 45
+          },
+          {
+            "id": "015861b7-c497-4a79-b368-09a297955b79",
+            "position": "1",
+            "body": "1, 4, 3, 2, 3",
+            "sanitized_body": "1, 4, 3, 2, 3",
+            "correct": false,
+            "created_at": "2020-09-25 02:43:46.646803 +0000 UTC",
+            "updated_at": "2022-01-04 17:52:55.050985 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-04 17:51:20.11707 +0000 UTC",
+              "updated_at": "2022-01-04 17:52:55.245125 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 49
+          },
+          {
+            "id": "98786ae0-6c0a-43b0-9995-465aac15e0b1",
+            "position": "2",
+            "body": "4, 1, 4, 3, 2",
+            "sanitized_body": "4, 1, 4, 3, 2",
+            "correct": false,
+            "created_at": "2020-09-25 02:43:46.646803 +0000 UTC",
+            "updated_at": "2022-01-04 17:52:55.099925 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-04 17:51:20.134277 +0000 UTC",
+              "updated_at": "2022-01-04 17:52:55.249561 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 96
+          },
+          {
+            "id": "0bab55b2-3616-4b79-b261-0cc559f72108",
+            "position": "3",
+            "body": "3, 2, 1, 1, 4",
+            "sanitized_body": "3, 2, 1, 1, 4",
+            "correct": true,
+            "created_at": "2020-09-25 02:43:46.646803 +0000 UTC",
+            "updated_at": "2022-01-04 17:52:55.148935 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-04 17:51:20.13231 +0000 UTC",
+              "updated_at": "2022-01-04 17:52:55.290431 +0000 UTC"
+            },
+            "answer_percentage": 56,
+            "answers": 243
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Numere os inseticidas recomendados pela Organização Mundial da Saúde para controle de vetores de acordo com os grupos químicos. <div><br></div><div>1 - Organofosforado </div><div>2 - Organoclorado </div><div>3 - Piretroide</div><div>4 - Carbamato </div><div><br></div><div>(  ) Alfacipermetrina </div><div>(  ) DDT</div><div>(  ) Malathion </div><div>(  ) Pririmifós-metil </div><div>(  ) Propoxur. </div><div><br></div><div>Assinale a sequência correta.</div>",
+        "statement_text": "Numere os inseticidas recomendados pela Organização Mundial da Saúde para controle de vetores de acordo com os grupos químicos. 1 - Organofosforado 2 - Organoclorado 3 - Piretroide4 - Carbamato (  ) Alfacipermetrina (  ) DDT(  ) Malathion (  ) Pririmifós-metil (  ) Propoxur. Assinale a sequência correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 02:43:46.646803 +0000 UTC",
+        "forum_id": "71aed97b-26be-49f7-8d62-e137603096f4",
+        "solution": {
+          "_key": "796365b5-ef2e-4246-b7ef-6b38281580a3",
+          "complete": "Estrategista, esta pergunta é MUITO atípica, e <b>pouquíssimo agrega conhecimento</b> verdadeiro para sua prática clínica. Mas vamos lá:<div><br></div><div><ol><li><span><b>Alfacipermetrina</b> - Esta substância é da família dos piretroides, derivados do crisântemo, e causam irritação na pele e na via aérea e reações de hipersensibilidade. <b>3</b></span></li></ol></div><div><b>DDT </b>- O diclorodifeniltricloroetano (DDT) é um veneno clorado, banido do Brasil, devido sua alta toxicidade, e relação com surgimento de neoplasias. <b>2</b></div><div><b>Malathion  </b>- É um organofosforado, que inibe a acetilcolinesterase, causando intoxicação colinérgica. <b>1</b></div><div><b>Pririmifós-metil</b> - É da família dos tiofosfatos, que também são organofosforados. <b>1</b></div><div><b>Propoxur </b>- É um carbamato, com mesmo perfil de ação dos organofosforados. <b>4</b></div><div><b><br></b></div><div><u>Resposta letra D</u></div>",
+          "sanitized_complete": "Estrategista, esta pergunta é MUITO atípica, e pouquíssimo agrega conhecimento verdadeiro para sua prática clínica. Mas vamos lá:Alfacipermetrina - Esta substância é da família dos piretroides, derivados do crisântemo, e causam irritação na pele e na via aérea e reações de hipersensibilidade. 3DDT - O diclorodifeniltricloroetano (DDT) é um veneno clorado, banido do Brasil, devido sua alta toxicidade, e relação com surgimento de neoplasias. 2Malathion  - É um organofosforado, que inibe a acetilcolinesterase, causando intoxicação colinérgica. 1Pririmifós-metil - É da família dos tiofosfatos, que também são organofosforados. 1Propoxur - É um carbamato, com mesmo perfil de ação dos organofosforados. 4Resposta letra D",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-04 17:51:20.224456 +0000 UTC",
+          "updated_at": "2022-01-04 17:52:55.297305 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Numere-inseticidas4031c80f2d",
+        "public": true
+      },
+      {
+        "id": "4000126950",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "1A301CE1-86B7-2BAB-81B2-2185B79D5392"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-04T15:14:18Z",
+            "updated_at": "2020-11-26T17:58:58Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "7df55110e5c04c158581791cd73fa7a6",
+            "name": "Síndrome Colinérgica",
+            "is_master": false,
+            "master_id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Síndrome Colinérgica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "affd437c798e4135be9686d0468dca56",
+            "name": "Intoxicação por Carbamatos e Organofosforados",
+            "is_master": false,
+            "master_id": "7df55110e5c04c158581791cd73fa7a6",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Síndrome Colinérgica[$$]Intoxicação por Carbamatos e Organofosforados",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "52d27125-e1d8-46fb-8db5-a1b6a210df7d",
+            "position": "0",
+            "body": "Os organofosforados apresentam mais receptores específicos no tecido neural quando comparados aos carbamatos.",
+            "sanitized_body": "Os organofosforados apresentam mais receptores específicos no tecido neural quando comparados aos carbamatos.",
+            "correct": false,
+            "created_at": "2020-09-25 02:27:43.919052 +0000 UTC",
+            "updated_at": "2020-11-10 23:16:04.710589 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: Ambas substâncias atuam em receptores muscarínicos e nicotínicos.",
+              "sanitized_complete": "Alternativa “a” incorreta: Ambas substâncias atuam em receptores muscarínicos e nicotínicos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2020-10-30 12:01:26.915138 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 32
+          },
+          {
+            "id": "f042ea63-5e62-46b5-9230-4ff681f0fef7",
+            "position": "1",
+            "body": "Os carbamatos apresentam absorção mais rápida e intensa, sendo mais neurotóxicos.",
+            "sanitized_body": "Os carbamatos apresentam absorção mais rápida e intensa, sendo mais neurotóxicos.",
+            "correct": false,
+            "created_at": "2020-09-25 02:27:43.919052 +0000 UTC",
+            "updated_at": "2020-11-10 23:16:04.817419 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: Os organofosforados são mais lipossolúveis, portanto, têm absorção mais rápida e intensa.",
+              "sanitized_complete": "Alternativa “b” incorreta: Os organofosforados são mais lipossolúveis, portanto, têm absorção mais rápida e intensa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2020-10-30 12:01:26.937057 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 36
+          },
+          {
+            "id": "333e5ed0-21ef-4f68-aa5a-58b11a1dd97c",
+            "position": "2",
+            "body": "Os carbamatos e os organofosforados reagem com os mesmos receptores, não diferindo nas manifestações clínicas e sua intensidade.",
+            "sanitized_body": "Os carbamatos e os organofosforados reagem com os mesmos receptores, não diferindo nas manifestações clínicas e sua intensidade.",
+            "correct": false,
+            "created_at": "2020-09-25 02:27:43.919052 +0000 UTC",
+            "updated_at": "2020-11-10 23:16:04.899904 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta:  Intoxicações por organofosforados podem ser mais intensas, pois a inibição da acetilcolinesterase é definitiva, enquanto os carbamatos inibem esta enzima de forma transitória.",
+              "sanitized_complete": "Alternativa “c” incorreta:  Intoxicações por organofosforados podem ser mais intensas, pois a inibição da acetilcolinesterase é definitiva, enquanto os carbamatos inibem esta enzima de forma transitória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2020-10-30 12:01:26.894093 +0000 UTC"
+            },
+            "answer_percentage": 17,
+            "answers": 67
+          },
+          {
+            "id": "1cba52d8-258d-4578-a8a0-25eaa9349900",
+            "position": "3",
+            "body": "As manifestações neurológicas são mais frequentes e intensas com os organofosforados, por serem lipofílicos.",
+            "sanitized_body": "As manifestações neurológicas são mais frequentes e intensas com os organofosforados, por serem lipofílicos.",
+            "correct": true,
+            "created_at": "2020-09-25 02:27:43.919052 +0000 UTC",
+            "updated_at": "2020-11-10 23:16:05.274114 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” correta: Por serem altamente lipossolúveis, os organofosforados atravessam a barreira hematoencefálica e barreiras celulares com grande facilidade.",
+              "sanitized_complete": "Alternativa “d” correta: Por serem altamente lipossolúveis, os organofosforados atravessam a barreira hematoencefálica e barreiras celulares com grande facilidade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2020-10-30 12:01:26.908066 +0000 UTC"
+            },
+            "answer_percentage": 65,
+            "answers": 248
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em relação à intoxicação por organofosforados e carbamatos, assinale a afirmativa CORRETA.",
+        "statement_text": "Em relação à intoxicação por organofosforados e carbamatos, assinale a afirmativa CORRETA.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 02:27:43.919052 +0000 UTC",
+        "solution": {
+          "_key": "efa9259e-9105-4093-b86d-40764b138687",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>A <b>Síndrome Colinérgica</b>, também conhecida como <b>Síndrome Anticolinesterásica,</b> é causada pela inibição da acetilcolinesterase, enzima responsável pela degradação da acetilcolina. Os principais tóxicos envolvidos são os Carbamatos e os Organofosforados. Com o acúmulo da acetilcolina, há o aumento do tônus colinérgico no sistema nervoso central, periférico e autônomo, devido a <b>hiperestimulação dos receptores muscarínicos e nicotínicos.</b></div><div><br></div><div>Esta toxíndrome pode causar sintomas  como miose, broncorreia, sialorreia, diarreia, agitação psicomotora, cefaleia, tonturas, convulsões e rebaixamento do nível de consciência. Os principais responsáveis são os tóxicos carbamatos e organofosforados, e o tratamento é feito com uso de atropina ou pralidoxima.</div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DA Síndrome Colinérgica, também conhecida como Síndrome Anticolinesterásica, é causada pela inibição da acetilcolinesterase, enzima responsável pela degradação da acetilcolina. Os principais tóxicos envolvidos são os Carbamatos e os Organofosforados. Com o acúmulo da acetilcolina, há o aumento do tônus colinérgico no sistema nervoso central, periférico e autônomo, devido a hiperestimulação dos receptores muscarínicos e nicotínicos.Esta toxíndrome pode causar sintomas  como miose, broncorreia, sialorreia, diarreia, agitação psicomotora, cefaleia, tonturas, convulsões e rebaixamento do nível de consciência. Os principais responsáveis são os tóxicos carbamatos e organofosforados, e o tratamento é feito com uso de atropina ou pralidoxima.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-30 12:01:27.051809 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126950-720.mp4",
+        "unlisted": false,
+        "slug": "a-intoxicaca-por12cd317d94",
+        "public": true
+      },
+      {
+        "id": "4000126645",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "07c1094cfb6c4c63aad414c5269d7f41",
+            "name": "Transtornos Específicos de Aprendizagem",
+            "is_master": false,
+            "master_id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil[$$]Transtornos Específicos de Aprendizagem",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "191a2276-5ba4-40d2-8cbe-49259e497766",
+            "position": "0",
+            "body": "O diagnóstico diferencial com distúrbios visuais e de audição é necessário em crianças mais jovens e dispensável no caso apresentado.",
+            "sanitized_body": "O diagnóstico diferencial com distúrbios visuais e de audição é necessário em crianças mais jovens e dispensável no caso apresentado.",
+            "correct": false,
+            "created_at": "2020-09-24 20:23:28.305218 +0000 UTC",
+            "updated_at": "2021-07-09 21:43:39.493296 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: Uma das possibilidades para explicar os prejuízos desta criança  é um distúrbio auditivo ou visual, que causa prejuízos especialmente acadêmicos.  Portanto, não é possível “dispensar” esta investigação.",
+              "sanitized_complete": "Alternativa “a” incorreta: Uma das possibilidades para explicar os prejuízos desta criança  é um distúrbio auditivo ou visual, que causa prejuízos especialmente acadêmicos.  Portanto, não é possível “dispensar” esta investigação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:54:51.421639 +0000 UTC",
+              "updated_at": "2021-07-12 15:54:52.657855 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 67
+          },
+          {
+            "id": "45e315ab-05df-4ffd-9264-e93c7cbe6746",
+            "position": "1",
+            "body": "A compreensão do contexto familiar é necessária na avaliação de fatores associados ao baixo desempenho escolar, como violência e negligência.",
+            "sanitized_body": "A compreensão do contexto familiar é necessária na avaliação de fatores associados ao baixo desempenho escolar, como violência e negligência.",
+            "correct": true,
+            "created_at": "2020-09-24 20:23:28.305218 +0000 UTC",
+            "updated_at": "2021-07-09 21:43:39.568265 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” correta: Correto! É necessário compreender o funcionamento da família,  sua dinâmica, os estímulos que fornecem ao paciente, entre outros fatores na própria  escola, que podem influenciar no desempenho acadêmico.",
+              "sanitized_complete": "Alternativa “b” correta: Correto! É necessário compreender o funcionamento da família,  sua dinâmica, os estímulos que fornecem ao paciente, entre outros fatores na própria  escola, que podem influenciar no desempenho acadêmico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:54:51.417595 +0000 UTC",
+              "updated_at": "2021-07-12 15:54:52.678197 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 809
+          },
+          {
+            "id": "fee637fa-5195-4534-aaa0-196c0bb3075d",
+            "position": "2",
+            "body": "As crianças com dificuldade escolar devem ser avaliadas por neuropediatra para definição da necessidade de uso de psicoestimulantes.",
+            "sanitized_body": "As crianças com dificuldade escolar devem ser avaliadas por neuropediatra para definição da necessidade de uso de psicoestimulantes.",
+            "correct": false,
+            "created_at": "2020-09-24 20:23:28.305218 +0000 UTC",
+            "updated_at": "2021-07-09 21:43:39.63542 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: É necessário identificar qual a “necessidade” para  compreender a melhor conduta. Psicoestimulantes são reservados para pacientes com  TDAH.",
+              "sanitized_complete": "Alternativa “c” incorreta: É necessário identificar qual a “necessidade” para  compreender a melhor conduta. Psicoestimulantes são reservados para pacientes com  TDAH.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:54:51.416365 +0000 UTC",
+              "updated_at": "2021-07-12 15:54:52.673407 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 42
+          },
+          {
+            "id": "6fa924e5-1a83-4a23-a7e6-ed413f3e68ee",
+            "position": "3",
+            "body": "A família deve ser orientada a ser mais firme com a criança frente ao baixo desempenho, por meio de imposição de cronogramas mais rígidos para execução das tarefas escolares.",
+            "sanitized_body": "A família deve ser orientada a ser mais firme com a criança frente ao baixo desempenho, por meio de imposição de cronogramas mais rígidos para execução das tarefas escolares.",
+            "correct": false,
+            "created_at": "2020-09-24 20:23:28.305218 +0000 UTC",
+            "updated_at": "2021-07-09 21:43:39.710791 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: Incorreto! É necessário incentivar e estimular a criança,  provendo as ferramentas necessárias para seu aprendizado.",
+              "sanitized_complete": "Alternativa “d” incorreta: Incorreto! É necessário incentivar e estimular a criança,  provendo as ferramentas necessárias para seu aprendizado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:54:51.427504 +0000 UTC",
+              "updated_at": "2021-07-12 15:54:52.692787 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 36
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um menino de 10 anos de idade é trazido pelo pai à consulta pediátrica e relata grande dificuldade escolar do filho. O pai comenta que a professora queixou-se à família que a criança é dispersa em sala de aula, não acompanhando os colegas nas atividades propostas. Durante a consulta com o médico e enfermeira da Equipe de Saúde da Família, o menino comporta-se normalmente e responde de forma adequada às perguntas realizadas. Os exames físicos realizados indicam ausência de anormalidade ou alterações. Considerando as informações apresentadas, qual o conceito em que se deve basear um projeto terapêutico adequado ao caso?",
+        "statement_text": "Um menino de 10 anos de idade é trazido pelo pai à consulta pediátrica e relata grande dificuldade escolar do filho. O pai comenta que a professora queixou-se à família que a criança é dispersa em sala de aula, não acompanhando os colegas nas atividades propostas. Durante a consulta com o médico e enfermeira da Equipe de Saúde da Família, o menino comporta-se normalmente e responde de forma adequada às perguntas realizadas. Os exames físicos realizados indicam ausência de anormalidade ou alterações. Considerando as informações apresentadas, qual o conceito em que se deve basear um projeto terapêutico adequado ao caso?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 20:23:28.305218 +0000 UTC",
+        "solution": {
+          "_key": "e3ed8e08-fe0c-425c-80bb-a2c566b3fbec",
+          "complete": "<div><b>GABARITO: ALTERNATIVA B</b></div><div><br></div>O <b>Transtorno de déficit de atenção e hiperatividade (TDAH)</b> é um transtorno do  neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5% dos adultos. Seus  sintomas são divididos entre <b>desatenção, hiperatividade e impulsividade,</b> e causam  grande prejuízo acadêmico e interpessoal para a maioria dos pacientes. Essas  manifestações precisam se iniciar <b>até os 12 anos</b> de idade, e se manifestarem  frequentemente em pelo menos 2 ambientes diferentes (como casa, escola e trabalho).  Cerca de metade dos pacientes tem remissão dos sintomas até o início da vida adulta.  Seu tratamento é realizado com psicoestimulantes, como metilfenidato ou  lisdexanfetamina. As principais contraindicações do tratamento com psicoestimulantes<div><br></div><div>são epilepsia não controlada e cardiopatia grave. Além disso, o uso contínuo desses  fármacos pode causar redução na velocidade de crescimento.&nbsp;</div><div><br></div><div>Portanto, Estrategista, fica claro que NÃO há TDAH neste caso, note que os sintomas  ocorrem apenas em um ambiente</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO Transtorno de déficit de atenção e hiperatividade (TDAH) é um transtorno do  neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5% dos adultos. Seus  sintomas são divididos entre desatenção, hiperatividade e impulsividade, e causam  grande prejuízo acadêmico e interpessoal para a maioria dos pacientes. Essas  manifestações precisam se iniciar até os 12 anos de idade, e se manifestarem  frequentemente em pelo menos 2 ambientes diferentes (como casa, escola e trabalho).  Cerca de metade dos pacientes tem remissão dos sintomas até o início da vida adulta.  Seu tratamento é realizado com psicoestimulantes, como metilfenidato ou  lisdexanfetamina. As principais contraindicações do tratamento com psicoestimulantessão epilepsia não controlada e cardiopatia grave. Além disso, o uso contínuo desses  fármacos pode causar redução na velocidade de crescimento. Portanto, Estrategista, fica claro que NÃO há TDAH neste caso, note que os sintomas  ocorrem apenas em um ambiente",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 15:54:51.606728 +0000 UTC",
+          "updated_at": "2021-07-12 15:54:52.880295 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126645-720.mp4",
+        "unlisted": false,
+        "slug": "menino-10-anos-idade-e100688ce072",
+        "public": true
+      },
+      {
+        "id": "4000126586",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "affd437c798e4135be9686d0468dca56",
+            "name": "Intoxicação por Carbamatos e Organofosforados",
+            "is_master": false,
+            "master_id": "7df55110e5c04c158581791cd73fa7a6",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Síndrome Colinérgica[$$]Intoxicação por Carbamatos e Organofosforados",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "37c0f7d9-5df9-47e6-97d4-dd92a9b5fce8",
+            "position": "0",
+            "body": "Intoxicação aguda grave; atendimento inicial pela equipe, que estabiliza o paciente, solicita exames laboratorias (hemograma completo com reticulócitos e dosagem da acetilcolinesterase) e acompanha o paciente no ambulatório.",
+            "sanitized_body": "Intoxicação aguda grave; atendimento inicial pela equipe, que estabiliza o paciente, solicita exames laboratorias (hemograma completo com reticulócitos e dosagem da acetilcolinesterase) e acompanha o paciente no ambulatório.",
+            "correct": false,
+            "created_at": "2020-09-24 19:55:49.617576 +0000 UTC",
+            "updated_at": "2021-07-09 21:03:21.272854 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: Não há sinais de gravidade no momento, como falência  respiratória e coma.",
+              "sanitized_complete": "Alternativa “a” incorreta: Não há sinais de gravidade no momento, como falência  respiratória e coma.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:08:18.848475 +0000 UTC",
+              "updated_at": "2021-07-12 14:08:20.118556 +0000 UTC"
+            },
+            "answer_percentage": 23,
+            "answers": 274
+          },
+          {
+            "id": "7ee61694-c3a6-4871-924e-d755551a3077",
+            "position": "1",
+            "body": "Intoxicação aguda moderada; atendimento inicial pela equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao Serviço de Urgência para diagnóstico clínico-laboratorial (incluindo a dosagem plasmática da acetilcolinesterase) e tratamento.",
+            "sanitized_body": "Intoxicação aguda moderada; atendimento inicial pela equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao Serviço de Urgência para diagnóstico clínico-laboratorial (incluindo a dosagem plasmática da acetilcolinesterase) e tratamento.",
+            "correct": true,
+            "created_at": "2020-09-24 19:55:49.617576 +0000 UTC",
+            "updated_at": "2021-07-09 21:03:21.325148 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” correta: O paciente está agudamente intoxicado com sintomas  moderados. Necessita de cuidados hospitalares, com uso de atropina ou ainda  pralidoxima (segunda linha de tratamento).",
+              "sanitized_complete": "Alternativa “b” correta: O paciente está agudamente intoxicado com sintomas  moderados. Necessita de cuidados hospitalares, com uso de atropina ou ainda  pralidoxima (segunda linha de tratamento).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:08:18.868639 +0000 UTC",
+              "updated_at": "2021-07-12 14:08:20.142326 +0000 UTC"
+            },
+            "answer_percentage": 68,
+            "answers": 822
+          },
+          {
+            "id": "60469bc6-bfeb-4f38-82ac-88e8e3706c5e",
+            "position": "2",
+            "body": "Intoxicação aguda leve; atendimento inicial pelo médico da equipe, que prescreverá antiemético e solicitará exames laboratorias (dosagem plasmática da aceilcolinesterase e glicemia de jejum), recomendando retorno breve para acompanhamento na Unidade de Saúde da Família.",
+            "sanitized_body": "Intoxicação aguda leve; atendimento inicial pelo médico da equipe, que prescreverá antiemético e solicitará exames laboratorias (dosagem plasmática da aceilcolinesterase e glicemia de jejum), recomendando retorno breve para acompanhamento na Unidade de Saúde da Família.",
+            "correct": false,
+            "created_at": "2020-09-24 19:55:49.617576 +0000 UTC",
+            "updated_at": "2021-07-09 21:03:21.376616 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: Em casos leves, não há dispneia “moderada”, tampouco  necessidade de atendimento hospitalar. Nos casos mais brandos, ocorre apenas leve  cefaleia e náuseas.",
+              "sanitized_complete": "Alternativa “c” incorreta: Em casos leves, não há dispneia “moderada”, tampouco  necessidade de atendimento hospitalar. Nos casos mais brandos, ocorre apenas leve  cefaleia e náuseas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:08:18.857988 +0000 UTC",
+              "updated_at": "2021-07-12 14:08:20.125956 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 55
+          },
+          {
+            "id": "ddf1d255-c2cf-446f-8c10-9270fd3df642",
+            "position": "3",
+            "body": "Intoxicação crônica leve; atendimento inicial pelo médico da equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao ambulatório especializado de referência em saúde do trabalhador para diagnóstico clínico-laboratorial (incluindo a dosagem de acetilcolinesterase) e tratamento.",
+            "sanitized_body": "Intoxicação crônica leve; atendimento inicial pelo médico da equipe, que administra hidratação oral e antiemético, para, então, encaminhá-lo ao ambulatório especializado de referência em saúde do trabalhador para diagnóstico clínico-laboratorial (incluindo a dosagem de acetilcolinesterase) e tratamento.",
+            "correct": false,
+            "created_at": "2020-09-24 19:55:49.617576 +0000 UTC",
+            "updated_at": "2021-07-09 21:03:21.427879 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: Não há uma intoxicação crônica, visto que os sintomas  apareceram logo após o contato com o tóxico, durante a pulverização.",
+              "sanitized_complete": "Alternativa “d” incorreta: Não há uma intoxicação crônica, visto que os sintomas  apareceram logo após o contato com o tóxico, durante a pulverização.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 14:08:18.860745 +0000 UTC",
+              "updated_at": "2021-07-12 14:08:20.176563 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 57
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um homem de 23 anos de idade procura a Unidade de Saúde da Família mais  próxima da fazenda em que trabalha com queixa de forte dor de cabeça, náuseas, dor abdominal em cólica e salivação excessiva. Apresenta-se prostrado e relata quatro episódios de vômitos. Ao exame clinico, o paciente apresenta dispneia e sudorese de intensidade leve a moderada após a pulverização da lavoura. Diante do caso de intoxicação por organofosforado que deve ser notificado à vigilância, qual a gravidade do caso e a conduta mais apropriada?",
+        "statement_text": "Um homem de 23 anos de idade procura a Unidade de Saúde da Família mais  próxima da fazenda em que trabalha com queixa de forte dor de cabeça, náuseas, dor abdominal em cólica e salivação excessiva. Apresenta-se prostrado e relata quatro episódios de vômitos. Ao exame clinico, o paciente apresenta dispneia e sudorese de intensidade leve a moderada após a pulverização da lavoura. Diante do caso de intoxicação por organofosforado que deve ser notificado à vigilância, qual a gravidade do caso e a conduta mais apropriada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 19:55:49.617576 +0000 UTC",
+        "forum_id": "78f8721b-7a08-4262-bf86-ab729ce9df79",
+        "solution": {
+          "_key": "f3ee8097-1575-4844-955b-a7cc31957fe8",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div><b>Carbamatos e organofosforados (agrotóxicos)</b> se relacionam classicamente com  <b>síndrome colinérgica</b> e estão presente em pesticidas. Sintomas como sialorreia,  sudorese, lacrimejamento, alterações de ausculta pulmonar são relacionados ao  <b>aumento das secreções corporais</b> e são típicos desta síndrome, além de incontinência  urinária, dentre outros. Miose costuma estar presente nesta síndrome, assim como na  intoxicação por opióides.</div><div><br></div><div>Além de medidas de suporte, como lavagem gástrica e uso de carvão ativado, a atropinização é capaz de reverter os sintomas da síndrome colinérgica. A pralidoxima  também é útil no tratamento caso o paciente não responda à atropina.</div><div><br></div><div>Neste caso, estamos diante um homem que foi exposto ao tóxico e desenvolveu  sintomas que, neste momento, são de moderada intensidade: dispneia, vômitos, dor  abdominal, além de outros comemorativos. E é um caso agudo porque ocorreu logo  após a pulverização da lavoura.&nbsp;</div><div><br></div><div>Caso o paciente estivesse em insuficiência respiratório ou rebaixamento do nível de  consciência, estaríamos diante de um quadro grave.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BCarbamatos e organofosforados (agrotóxicos) se relacionam classicamente com  síndrome colinérgica e estão presente em pesticidas. Sintomas como sialorreia,  sudorese, lacrimejamento, alterações de ausculta pulmonar são relacionados ao  aumento das secreções corporais e são típicos desta síndrome, além de incontinência  urinária, dentre outros. Miose costuma estar presente nesta síndrome, assim como na  intoxicação por opióides.Além de medidas de suporte, como lavagem gástrica e uso de carvão ativado, a atropinização é capaz de reverter os sintomas da síndrome colinérgica. A pralidoxima  também é útil no tratamento caso o paciente não responda à atropina.Neste caso, estamos diante um homem que foi exposto ao tóxico e desenvolveu  sintomas que, neste momento, são de moderada intensidade: dispneia, vômitos, dor  abdominal, além de outros comemorativos. E é um caso agudo porque ocorreu logo  após a pulverização da lavoura. Caso o paciente estivesse em insuficiência respiratório ou rebaixamento do nível de  consciência, estaríamos diante de um quadro grave.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 14:08:19.015567 +0000 UTC",
+          "updated_at": "2021-07-12 14:08:20.30802 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126586-720.mp4",
+        "unlisted": false,
+        "slug": "homem-23-anos-idade871ca2ce9f",
+        "public": true
+      },
+      {
+        "id": "4000127218",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "07c1094cfb6c4c63aad414c5269d7f41",
+            "name": "Transtornos Específicos de Aprendizagem",
+            "is_master": false,
+            "master_id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil[$$]Transtornos Específicos de Aprendizagem",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "name": "Psiquiatria Infantil",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2d4450f5-d576-4b07-9682-dab85af16c3e",
+            "position": "0",
+            "body": "transtorno de distúrbio de comunicação (provavelmente linguagem); encaminhar para avaliação com o neurologista infantil.",
+            "sanitized_body": "transtorno de distúrbio de comunicação (provavelmente linguagem); encaminhar para avaliação com o neurologista infantil.",
+            "correct": false,
+            "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+            "updated_at": "2022-01-04 17:00:28.348065 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: Nâo há qualquer menção a problemas de comunicação no  enunciado.",
+              "sanitized_complete": "Alternativa “a” incorreta: Nâo há qualquer menção a problemas de comunicação no  enunciado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:58:11.961995 +0000 UTC",
+              "updated_at": "2021-07-12 15:58:13.011405 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 7
+          },
+          {
+            "id": "ade17eda-6c92-422c-818d-7b0a5af193b7",
+            "position": "1",
+            "body": "déficit de atenção e hiperatividade; encaminhar para avaliação com o neurologista e com o psiquiatra infantil.",
+            "sanitized_body": "déficit de atenção e hiperatividade; encaminhar para avaliação com o neurologista e com o psiquiatra infantil.",
+            "correct": false,
+            "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+            "updated_at": "2022-01-04 17:00:28.394704 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: <b>O Transtorno de déficit de atenção e hiperatividade (TDAH)</b> é um transtorno do neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5%  dos adultos. Seus sintomas são divididos entre <b>desatenção, hiperatividade e  impulsividade</b>, e causam grande prejuízo acadêmico e interpessoal para a maioria dos  pacientes. Essas manifestações precisam se iniciar <b>até os 12 anos</b> de idade, e se  manifestarem frequentemente em pelo menos 2 ambientes diferentes (como casa,  escola e trabalho). Cerca de metade dos pacientes tem remissão dos sintomas até o  início da vida adulta. Seu tratamento é realizado com psicoestimulantes, como  metilfenidato ou lisdexanfetamina. As principais contraindicações do tratamento com  psicoestimulantes são epilepsia não controlada e cardiopatia grave. Além disso, o uso  contínuo desses fármacos pode causar redução na velocidade de crescimento.",
+              "sanitized_complete": "Alternativa “b” incorreta: O Transtorno de déficit de atenção e hiperatividade (TDAH) é um transtorno do neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5%  dos adultos. Seus sintomas são divididos entre desatenção, hiperatividade e  impulsividade, e causam grande prejuízo acadêmico e interpessoal para a maioria dos  pacientes. Essas manifestações precisam se iniciar até os 12 anos de idade, e se  manifestarem frequentemente em pelo menos 2 ambientes diferentes (como casa,  escola e trabalho). Cerca de metade dos pacientes tem remissão dos sintomas até o  início da vida adulta. Seu tratamento é realizado com psicoestimulantes, como  metilfenidato ou lisdexanfetamina. As principais contraindicações do tratamento com  psicoestimulantes são epilepsia não controlada e cardiopatia grave. Além disso, o uso  contínuo desses fármacos pode causar redução na velocidade de crescimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:58:11.961509 +0000 UTC",
+              "updated_at": "2021-07-12 15:58:13.02879 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 41
+          },
+          {
+            "id": "4f990b47-988d-4fce-8fb7-aeadf3ad749f",
+            "position": "2",
+            "body": "comportamento aceitável para a idade; avaliar melhor com seguimento e então decidir se encaminha ao psiquiatra infantil.",
+            "sanitized_body": "comportamento aceitável para a idade; avaliar melhor com seguimento e então decidir se encaminha ao psiquiatra infantil.",
+            "correct": true,
+            "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+            "updated_at": "2022-01-04 17:00:28.451957 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” correta: O comportamento do garoto está dentro do espectro da  normalidade. Apesar disso, é necessário ficar atento ao surgimento de depressão,  especialmente após a morte de seu pai.",
+              "sanitized_complete": "Alternativa “c” correta: O comportamento do garoto está dentro do espectro da  normalidade. Apesar disso, é necessário ficar atento ao surgimento de depressão,  especialmente após a morte de seu pai.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:58:11.977295 +0000 UTC",
+              "updated_at": "2021-07-12 15:58:13.052323 +0000 UTC"
+            },
+            "answer_percentage": 63,
+            "answers": 512
+          },
+          {
+            "id": "a9e75a00-4dae-409b-b23e-a40044862690",
+            "position": "3",
+            "body": "comportamento antissocial decorrente da perda familiar; encaminhar de imediato para avaliação com o psiquiatra infantil.",
+            "sanitized_body": "comportamento antissocial decorrente da perda familiar; encaminhar de imediato para avaliação com o psiquiatra infantil.",
+            "correct": false,
+            "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+            "updated_at": "2022-01-04 17:00:28.502767 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: Transtorno de personalidade antissocial é marcado por  desrespeito às regras e convenções sociais, falta de pudor e remorso. O diagnóstico de  antissocial só é possível de ser realizado após os 18 anos de idade.",
+              "sanitized_complete": "Alternativa “d” incorreta: Transtorno de personalidade antissocial é marcado por  desrespeito às regras e convenções sociais, falta de pudor e remorso. O diagnóstico de  antissocial só é possível de ser realizado após os 18 anos de idade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:58:11.974485 +0000 UTC",
+              "updated_at": "2021-07-12 15:58:13.0443 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 183
+          },
+          {
+            "id": "3a6d6008-2fbf-4301-9a49-2f22d64305ef",
+            "position": "4",
+            "body": "transtorno de conduta (comportamento desafiador opositor); encaminhar para avaliação com o psiquiatra infantil.",
+            "sanitized_body": "transtorno de conduta (comportamento desafiador opositor); encaminhar para avaliação com o psiquiatra infantil.",
+            "correct": false,
+            "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+            "updated_at": "2022-01-04 17:00:28.552123 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” incorreta: O transtorno de <b>conduta</b> é caracterizado como um padrão  persistente de desrespeito às regras sociais, agressões, ameaças, destruição de  propriedade, crueldade com animais, entre outros sinais e sintomas.",
+              "sanitized_complete": "Alternativa “e” incorreta: O transtorno de conduta é caracterizado como um padrão  persistente de desrespeito às regras sociais, agressões, ameaças, destruição de  propriedade, crueldade com animais, entre outros sinais e sintomas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:58:11.97119 +0000 UTC",
+              "updated_at": "2021-07-12 15:58:13.054688 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 71
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Estudante, com 9 anos de idade, vem apresentando dificuldades de aprendizagem e atos de indisciplina frequentes em relação aos professores, principalmente aos novos,  que tiveram de ser substituídos por três vezes nos últimos dois meses, por problemas de saúde. A escola solicitou que a mãe procurasse um &#34;neurologista&#34; para o menino, esta levou a criança inicialmente ao pediatra, referindo que ele tinha boa índole, ajudava nas tarefas de casa e tomava conta do irmão com 5 anos. Notou que tem apresentado notas mais baixas e reclama muito dos professores ultimamente. Nega atos indisciplinares que não sejam próprios da idade. O menino não gosta de ficar na rua, costuma brincar em casa e jogar futebol no final de semana com os amigos e primos. Em casa não tem computador e a mãe acha que esse é o motivo do mau desempenho escolar. A criança perdeu o pai há um ano, vítima de atropelamento. Ao exame físico, o pediatra não encontrou alterações. Com base nessa narrativa, a suspeita clínica e a conduta do  pediatra devem ser:",
+        "statement_text": "Estudante, com 9 anos de idade, vem apresentando dificuldades de aprendizagem e atos de indisciplina frequentes em relação aos professores, principalmente aos novos,  que tiveram de ser substituídos por três vezes nos últimos dois meses, por problemas de saúde. A escola solicitou que a mãe procurasse um &#34;neurologista&#34; para o menino, esta levou a criança inicialmente ao pediatra, referindo que ele tinha boa índole, ajudava nas tarefas de casa e tomava conta do irmão com 5 anos. Notou que tem apresentado notas mais baixas e reclama muito dos professores ultimamente. Nega atos indisciplinares que não sejam próprios da idade. O menino não gosta de ficar na rua, costuma brincar em casa e jogar futebol no final de semana com os amigos e primos. Em casa não tem computador e a mãe acha que esse é o motivo do mau desempenho escolar. A criança perdeu o pai há um ano, vítima de atropelamento. Ao exame físico, o pediatra não encontrou alterações. Com base nessa narrativa, a suspeita clínica e a conduta do  pediatra devem ser:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 12:21:51.242987 +0000 UTC",
+        "solution": {
+          "_key": "b2fa279f-5397-449b-bbbd-d010475babb0",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA C",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 15:58:12.218299 +0000 UTC",
+          "updated_at": "2021-07-12 15:58:13.260001 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Estudante-com-9-anos17643d3caeb",
+        "public": true
+      },
+      {
+        "id": "4000127156",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2013,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "94B31C1E-98BC-044B-EC57-8433A8017A9E"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:11:02Z",
+            "updated_at": "2020-09-24T15:35:26Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0567ccf53f1c452faa4ee27b2356eed7",
+            "name": "Reforma Psiquiátrica e Psiquiatria Social",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Reforma Psiquiátrica e Psiquiatria Social",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "07c1094cfb6c4c63aad414c5269d7f41",
+            "name": "Transtornos Específicos de Aprendizagem",
+            "is_master": false,
+            "master_id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil[$$]Transtornos Específicos de Aprendizagem",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1c50fee1-bc3a-4507-86f5-b290f31bdaad",
+            "position": "0",
+            "body": "Valorizar o prejuízo que a criança já tem em decorrência do atraso na escolarização, instituindo tratamento clínico para transtorno de hiperatividade e déficit de atenção com ritalina e psicoterapia no Centro de Atenção Psicossocial (CAPS).",
+            "sanitized_body": "Valorizar o prejuízo que a criança já tem em decorrência do atraso na escolarização, instituindo tratamento clínico para transtorno de hiperatividade e déficit de atenção com ritalina e psicoterapia no Centro de Atenção Psicossocial (CAPS).",
+            "correct": false,
+            "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+            "updated_at": "2021-07-09 21:45:59.25097 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta: O T<b>ranstorno de déficit de atenção e hiperatividade (TDAH)</b> é um transtorno do neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5%  dos adultos. Seus sintomas são divididos entre <b>desatenção, hiperatividade e  impulsividade</b>, e causam grande prejuízo acadêmico e interpessoal para a maioria dos  pacientes. Essas manifestações precisam se iniciar <b>até os 12 anos</b> de idade, e se  manifestarem frequentemente em pelo menos 2 ambientes diferentes (como casa,  escola e trabalho). Cerca de metade dos pacientes tem remissão dos sintomas até o  início da vida adulta. Seu tratamento é realizado com psicoestimulantes, como  metilfenidato ou lisdexanfetamina. As principais contraindicações do tratamento com  psicoestimulantes são epilepsia não controlada e cardiopatia grave. Além disso, o uso  contínuo desses fármacos pode causar redução na velocidade de crescimento.<div><br></div><div>Portanto, Estrategista, fica claro que NÃO há TDAH neste caso, note que os sintomas  ocorrem apenas em um ambiente! Além disso, o encaminhamento para o CAPS ocorrerá  apenas em casos graves.</div>",
+              "sanitized_complete": "Alternativa “a” incorreta: O Transtorno de déficit de atenção e hiperatividade (TDAH) é um transtorno do neurodesenvolvimento que atinge cerca de 5% das crianças, e 2,5%  dos adultos. Seus sintomas são divididos entre desatenção, hiperatividade e  impulsividade, e causam grande prejuízo acadêmico e interpessoal para a maioria dos  pacientes. Essas manifestações precisam se iniciar até os 12 anos de idade, e se  manifestarem frequentemente em pelo menos 2 ambientes diferentes (como casa,  escola e trabalho). Cerca de metade dos pacientes tem remissão dos sintomas até o  início da vida adulta. Seu tratamento é realizado com psicoestimulantes, como  metilfenidato ou lisdexanfetamina. As principais contraindicações do tratamento com  psicoestimulantes são epilepsia não controlada e cardiopatia grave. Além disso, o uso  contínuo desses fármacos pode causar redução na velocidade de crescimento.Portanto, Estrategista, fica claro que NÃO há TDAH neste caso, note que os sintomas  ocorrem apenas em um ambiente! Além disso, o encaminhamento para o CAPS ocorrerá  apenas em casos graves.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:56:28.662204 +0000 UTC",
+              "updated_at": "2021-07-12 15:56:29.78452 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 18
+          },
+          {
+            "id": "cb5d7af0-cee3-4f5c-8e91-91c75a44d6a0",
+            "position": "1",
+            "body": "Prevenir a piora do quadro e a possibilidade de internação em hospital psiquiátrico por intermédio da pronta referência do caso ao psiquiatra, antes que ocorra recrudescimento   e seja imperioso o tratamento manicomial.",
+            "sanitized_body": "Prevenir a piora do quadro e a possibilidade de internação em hospital psiquiátrico por intermédio da pronta referência do caso ao psiquiatra, antes que ocorra recrudescimento   e seja imperioso o tratamento manicomial.",
+            "correct": false,
+            "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+            "updated_at": "2021-07-09 21:45:59.321141 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta: A família deve ser acolhida e acompanhada na atenção  primária.",
+              "sanitized_complete": "Alternativa “b” incorreta: A família deve ser acolhida e acompanhada na atenção  primária.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:56:28.648668 +0000 UTC",
+              "updated_at": "2021-07-12 15:56:29.764181 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "784a86f2-d002-4da4-8bf6-34212ae3e65c",
+            "position": "2",
+            "body": "Agendar os procedimentos ambulatoriais requisitados, em cumprimento ao princípio da intersetorialidade da Lei n.º 8.080/1990, com cobertura pelo benefício financeiro do Programa \"De Volta Para Casa\".",
+            "sanitized_body": "Agendar os procedimentos ambulatoriais requisitados, em cumprimento ao princípio da intersetorialidade da Lei n.º 8.080/1990, com cobertura pelo benefício financeiro do Programa &#34;De Volta Para Casa&#34;.",
+            "correct": false,
+            "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+            "updated_at": "2021-07-09 21:45:59.399873 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” incorreta: Agendar quais procedimentos? Alternativa totalmente  incorreta.",
+              "sanitized_complete": "Alternativa “c” incorreta: Agendar quais procedimentos? Alternativa totalmente  incorreta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:56:28.64652 +0000 UTC",
+              "updated_at": "2021-07-12 15:56:30.235073 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 7
+          },
+          {
+            "id": "c6df216f-13ea-4e53-ae1f-d225ff8274d4",
+            "position": "3",
+            "body": "Acionar o Conselho Tutelar mediante denúncia de bullying e assédio moral da escola contra a criança, pela repetência serial e tentativa de culpabilizar a vítima pelo próprio agravo sofrido.",
+            "sanitized_body": "Acionar o Conselho Tutelar mediante denúncia de bullying e assédio moral da escola contra a criança, pela repetência serial e tentativa de culpabilizar a vítima pelo próprio agravo sofrido.",
+            "correct": false,
+            "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+            "updated_at": "2021-07-09 21:45:59.479167 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “d” incorreta: O enunciado sequer fala em repetência de série.",
+              "sanitized_complete": "Alternativa “d” incorreta: O enunciado sequer fala em repetência de série.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:56:28.661531 +0000 UTC",
+              "updated_at": "2021-07-12 15:56:29.765061 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          },
+          {
+            "id": "497d152d-1c74-4812-9e9a-c7b4e90ec7fb",
+            "position": "4",
+            "body": "Orientar a mãe a respeito da possibilidade de o comportamento da criança dever-se a situações sociais do entorno escolar e/ou doméstico, e viabilizar contato da Equipe de Saúde da Família com a escola.",
+            "sanitized_body": "Orientar a mãe a respeito da possibilidade de o comportamento da criança dever-se a situações sociais do entorno escolar e/ou doméstico, e viabilizar contato da Equipe de Saúde da Família com a escola.",
+            "correct": true,
+            "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+            "updated_at": "2021-07-09 21:45:59.555143 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “e” correta: Correto! É necessário compreender o funcionamento da família,  sua dinâmica, os estímulos que fornecem ao paciente, entre outros fatores na própria  escola, que podem influenciar no desempenho acadêmico.",
+              "sanitized_complete": "Alternativa “e” correta: Correto! É necessário compreender o funcionamento da família,  sua dinâmica, os estímulos que fornecem ao paciente, entre outros fatores na própria  escola, que podem influenciar no desempenho acadêmico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:56:28.648031 +0000 UTC",
+              "updated_at": "2021-07-12 15:56:29.796422 +0000 UTC"
+            },
+            "answer_percentage": 95,
+            "answers": 732
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Criança com 11 anos de idade, frequentando o quarto ano do ensino fundamental, é encaminhada ao pediatra pela escola por apresentar indisciplina e problemas de aprendizagem. A diretora solicita encaminhamento para o neurologista, psicólogo e oftalmologista. Na consulta em Unidade Básica de Saúde, a mãe conta que a classe da criança já teve três trocas de professora no ano corrente, e que em casa a criança é muito esperta e cuida do irmão de 5 anos, no horário em que ela está trabalhando. Levando em consideração a Reforma Psiquiátrica Brasileira, o Movimento de Luta Antimanicomial e a Política Nacional de Saúde Mental, a conduta adequada é:",
+        "statement_text": "Criança com 11 anos de idade, frequentando o quarto ano do ensino fundamental, é encaminhada ao pediatra pela escola por apresentar indisciplina e problemas de aprendizagem. A diretora solicita encaminhamento para o neurologista, psicólogo e oftalmologista. Na consulta em Unidade Básica de Saúde, a mãe conta que a classe da criança já teve três trocas de professora no ano corrente, e que em casa a criança é muito esperta e cuida do irmão de 5 anos, no horário em que ela está trabalhando. Levando em consideração a Reforma Psiquiátrica Brasileira, o Movimento de Luta Antimanicomial e a Política Nacional de Saúde Mental, a conduta adequada é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:32:25.59429 +0000 UTC",
+        "solution": {
+          "_key": "8ba6917f-645f-4607-872c-b6934a8d00bb",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA E",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 15:56:28.862946 +0000 UTC",
+          "updated_at": "2021-07-12 15:56:29.853392 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Crianc-com-11-anos106e187313e",
+        "public": true
+      },
+      {
+        "id": "4000129290",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2243907ce2b1495880808aeb9db905c8",
+            "name": "Estabilizadores do Humor",
+            "is_master": false,
+            "master_id": "1f74406d02d1452cbd328f8735d226b8",
+            "path": "Outros [$$]Psiquiatria[$$]Psicofarmacologia[$$]Estabilizadores do Humor",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "45c0e61ea57b46b780d7df36b1d42dce",
+            "name": "Intoxicação por Lítio",
+            "is_master": false,
+            "master_id": "7c2e100c6e2a4749a4d0dd1377dac2c0",
+            "path": "Outros [$$]Psiquiatria[$$]Intoxicações Exógenas[$$]Intoxicação por Lítio",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "426bf062-d645-46c2-affc-70ea4844891d",
+            "position": "0",
+            "body": " lítio.<div> </div>",
+            "sanitized_body": " lítio. ",
+            "correct": true,
+            "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+            "updated_at": "2023-03-06 12:48:33.183945 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:25:26.52529 +0000 UTC",
+              "updated_at": "2022-03-07 13:42:40.098932 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 719
+          },
+          {
+            "id": "559c3fb1-8441-4868-b883-fa96ffe56749",
+            "position": "1",
+            "body": "fluoxetina.<div> </div>",
+            "sanitized_body": "fluoxetina. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+            "updated_at": "2023-03-06 12:48:33.517354 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:25:26.538253 +0000 UTC",
+              "updated_at": "2022-03-07 13:42:40.093158 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 37
+          },
+          {
+            "id": "832e286b-fe1b-4fd8-b4d6-6a278fa56180",
+            "position": "2",
+            "body": "paroxetina.<div> </div>",
+            "sanitized_body": "paroxetina. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+            "updated_at": "2023-03-06 12:48:33.846199 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:25:26.501015 +0000 UTC",
+              "updated_at": "2022-03-07 13:42:40.091789 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 6
+          },
+          {
+            "id": "33e5565d-819e-47c4-97c6-ccdba9c8a174",
+            "position": "3",
+            "body": "amitriptilina.<div> </div>",
+            "sanitized_body": "amitriptilina. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+            "updated_at": "2023-03-06 12:48:34.202695 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:25:26.51499 +0000 UTC",
+              "updated_at": "2022-03-07 13:42:40.098777 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 96
+          },
+          {
+            "id": "01c4c1f2-0ffa-4c71-988a-cc506cff8e66",
+            "position": "4",
+            "body": "inibidores da mono-amino-oxidase",
+            "sanitized_body": "inibidores da mono-amino-oxidase",
+            "correct": false,
+            "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+            "updated_at": "2023-03-06 12:48:34.528133 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-07-12 15:25:26.525322 +0000 UTC",
+              "updated_at": "2022-03-07 13:42:40.101907 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 19
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 47 anos de idade encontra-se em tratamento de longa data para transtorno do humor. Comparece ao ambulatório com queixa de astenia, sonolência, alteração na fala, intolerância ao frio, constipação intestinal e déficit de memória. Ao exame, nota-se frequência cardíaca = 55 bpm, pele seca e descamativa, reflexos tendinosos diminuídos bilateralmente. O quadro clínico apresentado está relacionado a efeito adverso do tratamento com:<div><br></div><div><br><div><br></div><div><br></div></div>",
+        "statement_text": "Uma mulher de 47 anos de idade encontra-se em tratamento de longa data para transtorno do humor. Comparece ao ambulatório com queixa de astenia, sonolência, alteração na fala, intolerância ao frio, constipação intestinal e déficit de memória. Ao exame, nota-se frequência cardíaca = 55 bpm, pele seca e descamativa, reflexos tendinosos diminuídos bilateralmente. O quadro clínico apresentado está relacionado a efeito adverso do tratamento com:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-11-24 14:53:19.365598 +0000 UTC",
+        "forum_id": "a66f1a55-366e-4a1c-84c8-22cede190561",
+        "solution": {
+          "_key": "e122937e-5431-4a3e-a0c4-d82542cdbcca",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>O quadro clínico apresentado está relacionado a efeito adverso do tratamento com Um dos medicamentos mais importantes de toda a Psiquiatria, o Lítio é um remédio amplamente acessível, barato e muito eficaz. É utilizado no tratamento de transtornos psiquiátricos há mais de 70 anos, quando seus efeitos “calmantes” foram acidentalmente descobertos por um psiquiatra australiano, chamado Dr. John Frederick Joseph Cade. Desde então, esse metal é uma medicação de primeira linha para o Transtorno Bipolar, por possuir propriedades antimaníacas, antidepressivas e antissuicidas.</div><div><br></div><div>Seus principais possíveis efeitos colaterais a longo prazo são: hipotiroidismo, diabete  insípido e insuficiência renal. </div><div><br></div><div>Neste caso, podemos notar diversos sintomas compatíveis com hipotiroidismo, como  alteração do humor, fraqueza, sonolência, intolerância ao frio, perda de memória, entre  outros. </div><div><br></div><div>Por isso, a principal suspeita é de um hipotiroidismo induzida por lítio, que pode ocorrer  em até 5% dos usuários crônicos. </div><div><br></div><div><b>Resposta letra A.</b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO quadro clínico apresentado está relacionado a efeito adverso do tratamento com Um dos medicamentos mais importantes de toda a Psiquiatria, o Lítio é um remédio amplamente acessível, barato e muito eficaz. É utilizado no tratamento de transtornos psiquiátricos há mais de 70 anos, quando seus efeitos “calmantes” foram acidentalmente descobertos por um psiquiatra australiano, chamado Dr. John Frederick Joseph Cade. Desde então, esse metal é uma medicação de primeira linha para o Transtorno Bipolar, por possuir propriedades antimaníacas, antidepressivas e antissuicidas.Seus principais possíveis efeitos colaterais a longo prazo são: hipotiroidismo, diabete  insípido e insuficiência renal. Neste caso, podemos notar diversos sintomas compatíveis com hipotiroidismo, como  alteração do humor, fraqueza, sonolência, intolerância ao frio, perda de memória, entre  outros. Por isso, a principal suspeita é de um hipotiroidismo induzida por lítio, que pode ocorrer  em até 5% dos usuários crônicos. Resposta letra A.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-12 15:25:26.697421 +0000 UTC",
+          "updated_at": "2022-03-07 13:42:40.286857 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-47-anos-idade537f7abff9",
+        "public": true
+      },
+      {
+        "id": "4000153814",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:46:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "57cbd3bcc1d34133a0be91cdfc964ba1",
+            "name": "Psiquiatria Infantil",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Psiquiatria Infantil",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d550d6e1-91a0-409e-ac13-34c5783b183e",
+            "position": "0",
+            "body": "Para se autoafirmar, o jovem agride e desvaloriza seus pais, embora goste e necessite deles.\n",
+            "sanitized_body": "Para se autoafirmar, o jovem agride e desvaloriza seus pais, embora goste e necessite deles.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+            "updated_at": "2021-10-13 14:42:23.432472 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Ocorre uma ruptura entre o adolescente e seus pais, contudo, de maneira ambivalente.",
+              "sanitized_complete": "Correto. Ocorre uma ruptura entre o adolescente e seus pais, contudo, de maneira ambivalente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 14:34:03.52686 +0000 UTC",
+              "updated_at": "2022-02-03 14:36:37.981936 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 30
+          },
+          {
+            "id": "0113a3fe-0ef3-416e-b7c3-3e9f1e436579",
+            "position": "1",
+            "body": "O adolescente investe calorosamente em tudo o que faz; a entrega é total e a paixão juvenil.",
+            "sanitized_body": "O adolescente investe calorosamente em tudo o que faz; a entrega é total e a paixão juvenil.",
+            "correct": false,
+            "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+            "updated_at": "2021-10-13 14:42:23.613287 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto. Frequentemente há um forte envolvimento emocional nas ações do adolescente, acreditando que tudo que ocorre é muito único, singular, que não pode ser compreendido pelos demais.",
+              "sanitized_complete": "Correto. Frequentemente há um forte envolvimento emocional nas ações do adolescente, acreditando que tudo que ocorre é muito único, singular, que não pode ser compreendido pelos demais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 14:34:03.545859 +0000 UTC",
+              "updated_at": "2022-02-03 14:36:37.96774 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 28
+          },
+          {
+            "id": "2c75f02b-b980-400f-b580-759d32abac90",
+            "position": "2",
+            "body": "Na busca de si mesmo e da identidade adulta, o adolescente substitui o grupo pelos pais.",
+            "sanitized_body": "Na busca de si mesmo e da identidade adulta, o adolescente substitui o grupo pelos pais.",
+            "correct": true,
+            "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+            "updated_at": "2021-10-13 14:42:23.814936 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois é justamente o contrário. Ocorre a separação do adolescente em relação aos pais, e a busca de um novo coletivo.",
+              "sanitized_complete": "Incorreto, pois é justamente o contrário. Ocorre a separação do adolescente em relação aos pais, e a busca de um novo coletivo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 14:34:03.536657 +0000 UTC",
+              "updated_at": "2022-02-03 14:36:37.974439 +0000 UTC"
+            },
+            "answer_percentage": 66,
+            "answers": 162
+          },
+          {
+            "id": "6f6cc47f-e147-4c0a-b387-6b87cabbfda0",
+            "position": "3",
+            "body": "Questiona os valores, afasta-se da família em busca de novos modelos de identificação.\n",
+            "sanitized_body": "Questiona os valores, afasta-se da família em busca de novos modelos de identificação.\n",
+            "correct": false,
+            "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+            "updated_at": "2021-10-13 14:42:23.996198 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, como vimos na introdução.",
+              "sanitized_complete": "Correto, como vimos na introdução.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 14:34:03.545358 +0000 UTC",
+              "updated_at": "2022-02-03 14:36:37.984108 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 12
+          },
+          {
+            "id": "c1062ce6-6d51-4872-b6e5-b300afefb70e",
+            "position": "4",
+            "body": "Dentro do padrão, existe a individualização: os turbulentos, os contestadores, os alegres e os tristes.",
+            "sanitized_body": "Dentro do padrão, existe a individualização: os turbulentos, os contestadores, os alegres e os tristes.",
+            "correct": false,
+            "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+            "updated_at": "2021-10-13 14:42:24.183324 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto, como vimos nos tópicos da síndrome da adolescência normal.",
+              "sanitized_complete": "Correto, como vimos nos tópicos da síndrome da adolescência normal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-03 14:34:03.530252 +0000 UTC",
+              "updated_at": "2022-02-03 14:36:37.969777 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Quanto ao comportamento na adolescência, assinale a afirmativa INCORRETA.",
+        "statement_text": "Quanto ao comportamento na adolescência, assinale a afirmativa INCORRETA.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 18:14:53.832161 +0000 UTC",
+        "solution": {
+          "_key": "0e0883ca-e454-4f29-9cd0-81d783db8fb5",
+          "complete": "A Síndrome do adolescente normal é uma teoria psicológica sobre o desenvolvimento do ser humano, durante sua fase de adolescência, segundo Arminda Aberastury e Mauricio Knobel. É um processo evolutivo considerado “normal” e comum à maioria dos indivíduos, que podem viver algumas das seguintes fases:<div><br></div><div>1. Busca de si mesmo e da identidade adulta;</div><div><br></div><div>2. Tendência grupal;</div><div><br></div><div>3. Necessidade de intelectualizar e fantasiar;</div><div><br></div><div>4. Crises religiosas;</div><div><br></div><div>5. Deslocação temporal;</div><div><br></div><div>6. Evolução sexual;</div><div><br></div><div>7. Atitudes sociais reivindicatórias;</div><div><br></div><div>8. Contradições sucessivas em todas as manifestações de conduta;</div><div><br></div><div>9. Separação progressiva dos pais;</div><div><br></div><div>10. Constantes flutuações do humor e do estado de ânimo.</div><div><br></div><div>Vamos às alternativas!</div>",
+          "sanitized_complete": "A Síndrome do adolescente normal é uma teoria psicológica sobre o desenvolvimento do ser humano, durante sua fase de adolescência, segundo Arminda Aberastury e Mauricio Knobel. É um processo evolutivo considerado “normal” e comum à maioria dos indivíduos, que podem viver algumas das seguintes fases:1. Busca de si mesmo e da identidade adulta;2. Tendência grupal;3. Necessidade de intelectualizar e fantasiar;4. Crises religiosas;5. Deslocação temporal;6. Evolução sexual;7. Atitudes sociais reivindicatórias;8. Contradições sucessivas em todas as manifestações de conduta;9. Separação progressiva dos pais;10. Constantes flutuações do humor e do estado de ânimo.Vamos às alternativas!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-03 14:34:03.640234 +0000 UTC",
+          "updated_at": "2022-02-03 14:36:38.043114 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Quanto-comportamento99a47806c",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 35
+    }
+  }

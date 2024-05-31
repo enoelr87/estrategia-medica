@@ -1,0 +1,304 @@
+{
+    "data": [
+      {
+        "id": "4000127078",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "329666510b0d4901857ce8c8bfb6a47b",
+            "name": "Megacólon Tóxico",
+            "is_master": false,
+            "master_id": "22c228006bd1486ca43b61b4b321a5f6",
+            "path": "Clínica Médica[$$]Gastroenterologia[$$]Intestinos[$$]Doença Inflamatória Intestinal[$$]Complicações[$$]Megacólon Tóxico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a23fd9f8-82e7-49aa-881c-ebbed43a05bb",
+            "position": "0",
+            "body": "perfuração intestinal; radiografia de tórax e de abdome em ortostatismo e decúbito dorsal.",
+            "sanitized_body": "perfuração intestinal; radiografia de tórax e de abdome em ortostatismo e decúbito dorsal.",
+            "correct": true,
+            "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+            "updated_at": "2020-11-23 10:08:42.866838 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. A perfuração intestinal é a complicação mais temida frente ao megacólon tóxico e ocorre secundária ao pronunciado adelgaçamento da parede colônica pela distensão. Nesses casos, o paciente evoluiu de forma dramática com dor abdominal aguda e sinais de peritonite.<div><br></div>",
+              "sanitized_complete": "CORRETA. A perfuração intestinal é a complicação mais temida frente ao megacólon tóxico e ocorre secundária ao pronunciado adelgaçamento da parede colônica pela distensão. Nesses casos, o paciente evoluiu de forma dramática com dor abdominal aguda e sinais de peritonite.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 16:34:01.338337 +0000 UTC",
+              "updated_at": "2020-10-17 16:34:02.72163 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 920
+          },
+          {
+            "id": "0c3d15fa-2ec0-4f7c-90d5-bf4d976c8c16",
+            "position": "1",
+            "body": "pneumatose intestinal; enema opaco com contraste iodado.",
+            "sanitized_body": "pneumatose intestinal; enema opaco com contraste iodado.",
+            "correct": false,
+            "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+            "updated_at": "2020-11-23 10:08:42.933685 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. A pneumatose intestinal se refere à presença de gás na parede intestinal, tendo na imunossupressão associada à alteração na permeabilidade da mucosa gastrointestinal a sua principal causa.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. A pneumatose intestinal se refere à presença de gás na parede intestinal, tendo na imunossupressão associada à alteração na permeabilidade da mucosa gastrointestinal a sua principal causa. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 16:34:01.32928 +0000 UTC",
+              "updated_at": "2020-10-17 16:34:02.729457 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 27
+          },
+          {
+            "id": "db4cabe7-f388-41b3-9dd5-6abf7e34abe9",
+            "position": "2",
+            "body": "abscesso perirretal; tomografia computadorizada de abdome.",
+            "sanitized_body": "abscesso perirretal; tomografia computadorizada de abdome.",
+            "correct": false,
+            "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+            "updated_at": "2020-11-23 10:08:42.994244 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Pensaríamos em abscesso periretal se a questão se revela presença de coleção próxima ao reto, com dor local, drenagem de pus etc. Nesse contexto, não esperaríamos evolução tão dramática.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Pensaríamos em abscesso periretal se a questão se revela presença de coleção próxima ao reto, com dor local, drenagem de pus etc. Nesse contexto, não esperaríamos evolução tão dramática.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 16:34:01.342937 +0000 UTC",
+              "updated_at": "2020-10-17 16:34:02.73326 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 33
+          },
+          {
+            "id": "e80ac36e-0691-4b2c-b03b-d98c9f1b6b40",
+            "position": "3",
+            "body": "vôlvulo de sigmóide; colonoscopia.",
+            "sanitized_body": "vôlvulo de sigmóide; colonoscopia.",
+            "correct": false,
+            "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+            "updated_at": "2020-11-23 10:08:43.045694 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. O volvo de sigmoide é causa de obstrução colônica originária da rotação do sigmoide sobre seu eixo mesentérico, cursando com vômitos, dor e distensão abdominal. O diagnóstico é feito através da radiografia simples de abdome com aspecto em “U invertido” ou tomografia computadorizada de abdome. O tratamento consiste na realização de colonoscopia descompressiva.<div><br></div>",
+              "sanitized_complete": "INCORRETA. O volvo de sigmoide é causa de obstrução colônica originária da rotação do sigmoide sobre seu eixo mesentérico, cursando com vômitos, dor e distensão abdominal. O diagnóstico é feito através da radiografia simples de abdome com aspecto em “U invertido” ou tomografia computadorizada de abdome. O tratamento consiste na realização de colonoscopia descompressiva.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 16:34:01.336071 +0000 UTC",
+              "updated_at": "2020-10-17 16:34:02.725758 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 83
+          },
+          {
+            "id": "c9277f1b-1a1d-4aba-bfa8-21131aee54a6",
+            "position": "4",
+            "body": "hematoma intraluminal; colonoscopia.",
+            "sanitized_body": "hematoma intraluminal; colonoscopia.",
+            "correct": false,
+            "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+            "updated_at": "2020-11-23 10:08:43.320195 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Hematoma intraluminal ocorreria frente a quadro de sangramento gastrointestinal maciço, podendo complicar com quadro de abdome agudo obstrutivo ou cursar com hemorragia vultuosa com choque hipovolêmico.",
+              "sanitized_complete": "INCORRETA. Hematoma intraluminal ocorreria frente a quadro de sangramento gastrointestinal maciço, podendo complicar com quadro de abdome agudo obstrutivo ou cursar com hemorragia vultuosa com choque hipovolêmico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 16:34:01.340804 +0000 UTC",
+              "updated_at": "2020-10-17 16:34:02.745775 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 27
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Homem, com 26 anos de idade, foi internado há dois dias com o diagnóstico de doença inflamatória intestinal na forma fulminante com megacólon tóxico. Há cerca de uma hora apresentou piora súbita da dor abdominal, vômitos e desconforto respiratório. O exame físico revela paciente taquicárdico, taquidispneico e com abdome muito doloroso difusamente. A complicação é frequente e o principal recurso diagnóstico para demonstrá-la são:",
+        "statement_text": "Homem, com 26 anos de idade, foi internado há dois dias com o diagnóstico de doença inflamatória intestinal na forma fulminante com megacólon tóxico. Há cerca de uma hora apresentou piora súbita da dor abdominal, vômitos e desconforto respiratório. O exame físico revela paciente taquicárdico, taquidispneico e com abdome muito doloroso difusamente. A complicação é frequente e o principal recurso diagnóstico para demonstrá-la são:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:59:53.348064 +0000 UTC",
+        "solution": {
+          "_key": "7ad3e245-0d17-4de1-bd36-a14e2e6b8ad0",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div><b>Antes de mais nada, que tal uma breve revisão sobre o que seria o MEGACÓLON TÓXICO?!</b></div><div><b><br></b><div>O megacólon tóxico é quadro grave de distensão colônica na presença de colite aguda associado a sintomas sistêmicos. É provocado por perda do tônus muscular da parede intestinal secundário à inflamação, podendo evoluir para perfuração e peritonite.&nbsp;</div><div><br></div><div>Tal condição pode surgir a partir de qualquer situação que curse com inflamação importante da parede intestinal (colite). Assim, é complicação possível no contexto das doenças inflamatórias intestinais, com destaque para a retocolite ulcerativa.</div><div><br></div><div>Assim, diante de paciente com MEGACÓLON TÓXICO que evoluiu com dor abdominal súbita e difusa, taquicardia e taquidispneia, o que provavelmente aconteceu?!</div><div><br></div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AAntes de mais nada, que tal uma breve revisão sobre o que seria o MEGACÓLON TÓXICO?!O megacólon tóxico é quadro grave de distensão colônica na presença de colite aguda associado a sintomas sistêmicos. É provocado por perda do tônus muscular da parede intestinal secundário à inflamação, podendo evoluir para perfuração e peritonite. Tal condição pode surgir a partir de qualquer situação que curse com inflamação importante da parede intestinal (colite). Assim, é complicação possível no contexto das doenças inflamatórias intestinais, com destaque para a retocolite ulcerativa.Assim, diante de paciente com MEGACÓLON TÓXICO que evoluiu com dor abdominal súbita e difusa, taquicardia e taquidispneia, o que provavelmente aconteceu?!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-17 16:34:01.487238 +0000 UTC",
+          "updated_at": "2020-10-17 16:34:02.871763 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127078-720.mp4",
+        "unlisted": false,
+        "slug": "Homem-com-26-anos64ce760b1e",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

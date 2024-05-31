@@ -1,0 +1,300 @@
+{
+    "data": [
+      {
+        "id": "4000013728",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6911e0c6-0189-4672-87b0-491b656d21a9",
+                "name": "CE - Seleção Unificada para Residência Médica do Estado do Ceará - SURCE"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                "name": "Público - Estadual"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F104A321-C2A2-1EB6-64DC-90A971F27755"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 200,
+            "created_at": "2020-09-02T22:19:00Z",
+            "location": {
+              "id": "7"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "db67151cf6774696b7cf74f87d5717d8",
+            "name": "Uveíte Anterior",
+            "is_master": false,
+            "master_id": "d547760759624b02a810b0f7503f02b8",
+            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "82250389-b17a-47de-afe5-5ea801527b60",
+            "position": "0",
+            "body": "Episclerite.",
+            "sanitized_body": "Episclerite.",
+            "correct": false,
+            "created_at": "2020-09-10 12:04:25.61863 +0000 UTC",
+            "updated_at": "2020-11-12 13:13:31.638246 +0000 UTC",
+            "topics": [
+              {
+                "id": "57e6dc39074d4f34a69c67de1774a7f8",
+                "name": "Episclerite",
+                "is_master": false,
+                "master_id": "8d97de3219a14d4cbd1ddbe421ea8871",
+                "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Episclerite e Esclerite[$$]Episclerite",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>Incorreta</b>. Episclerite é a inflamação autolimitada, recorrente e idiopática do tecido episcleral. apresenta-se com uma área localizada de hiperemia, irritação e lacrimejamento do globo ocular. Um nódulo elevado, hiperêmico e edematoso (episclerite nodular) pode estar presente, quase sempre, na região interpalpebral. Ocorre em adultos jovens, sendo mais comum em mulheres.&nbsp;",
+              "sanitized_complete": "Incorreta. Episclerite é a inflamação autolimitada, recorrente e idiopática do tecido episcleral. apresenta-se com uma área localizada de hiperemia, irritação e lacrimejamento do globo ocular. Um nódulo elevado, hiperêmico e edematoso (episclerite nodular) pode estar presente, quase sempre, na região interpalpebral. Ocorre em adultos jovens, sendo mais comum em mulheres. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+              "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+              "author_profile": null,
+              "created_at": "2020-10-14 20:25:47.685488 +0000 UTC",
+              "updated_at": "2020-11-12 13:17:16.866829 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 12
+          },
+          {
+            "id": "890b98f1-5991-407b-9966-97fb3d28c84e",
+            "position": "1",
+            "body": "Ceratite infecciosa.",
+            "sanitized_body": "Ceratite infecciosa.",
+            "correct": false,
+            "created_at": "2020-09-10 12:04:25.61863 +0000 UTC",
+            "updated_at": "2020-11-12 13:13:31.714477 +0000 UTC",
+            "topics": [
+              {
+                "id": "643dc52519de46e2bff4a80b379adfc0",
+                "name": "Ceratites Infecciosas",
+                "is_master": false,
+                "master_id": "93fa91b714dc43fca89b81de73f19dac",
+                "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Córnea[$$]Ceratites Infecciosas",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>Incorreta</b>. A ceratite infecciosa é uma inflamação da córnea. Geralmente os sinais e sintomas incluem hiperemia conjuntival, dor e turvação visual. A córnea não está clara e a resposta pupilar é normal.",
+              "sanitized_complete": "Incorreta. A ceratite infecciosa é uma inflamação da córnea. Geralmente os sinais e sintomas incluem hiperemia conjuntival, dor e turvação visual. A córnea não está clara e a resposta pupilar é normal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+              "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+              "author_profile": null,
+              "created_at": "2020-10-14 20:25:47.684289 +0000 UTC",
+              "updated_at": "2020-11-12 13:17:16.851757 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 20
+          },
+          {
+            "id": "1b7b2906-e393-4cd2-9557-70ce0d7df5d3",
+            "position": "2",
+            "body": "Uveíte anterior aguda.",
+            "sanitized_body": "Uveíte anterior aguda.",
+            "correct": true,
+            "created_at": "2020-09-10 12:04:25.61863 +0000 UTC",
+            "updated_at": "2020-11-12 13:13:31.788572 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta</b>. Uveíte anterior é nossa principal hipótese diagnóstica.&nbsp;",
+              "sanitized_complete": "Correta. Uveíte anterior é nossa principal hipótese diagnóstica. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+              "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+              "author_profile": null,
+              "created_at": "2020-10-14 20:25:47.678656 +0000 UTC",
+              "updated_at": "2020-11-12 13:17:16.862454 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 161
+          },
+          {
+            "id": "2e4e407f-8f89-4717-ad9c-cddb7e6dd03c",
+            "position": "3",
+            "body": "Conjuntivite viral aguda.",
+            "sanitized_body": "Conjuntivite viral aguda.",
+            "correct": false,
+            "created_at": "2020-09-10 12:04:25.61863 +0000 UTC",
+            "updated_at": "2020-11-12 13:13:31.863113 +0000 UTC",
+            "topics": [
+              {
+                "id": "c1e8be66143a4bc99763a28ef5067942",
+                "name": "Conjuntivite Viral",
+                "is_master": false,
+                "master_id": "1b0a092c0173488a8a5b05818367da47",
+                "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Conjuntiva[$$]Conjuntivites[$$]Conjuntivite Viral",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "<b>Incorreta</b>. A conjuntivite costuma ser um quadro bilateral e apresenta-se com secreção. A resposta pupilar à luz é normal, diferente do descrito no enunciado.",
+              "sanitized_complete": "Incorreta. A conjuntivite costuma ser um quadro bilateral e apresenta-se com secreção. A resposta pupilar à luz é normal, diferente do descrito no enunciado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+              "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+              "author_profile": null,
+              "created_at": "2020-10-14 20:25:47.67864 +0000 UTC",
+              "updated_at": "2020-11-12 13:17:16.86438 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 12
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Jovem de 29 anos comparece ao posto de saúde queixando-se de dor, de moderada intensidade, no olho esquerdo, há dois dias. Relata que a visão desse olho está turva. Ao exame, observa-se hiperemia apenas do olho esquerdo, especialmente na região pericorneana, e ausência de secreção. A córnea encontra-se clara e a resposta pupilar à luz é fraca. Diante desse quadro clínico, qual a principal hipótese diagnóstica?&nbsp;",
+        "statement_text": "Jovem de 29 anos comparece ao posto de saúde queixando-se de dor, de moderada intensidade, no olho esquerdo, há dois dias. Relata que a visão desse olho está turva. Ao exame, observa-se hiperemia apenas do olho esquerdo, especialmente na região pericorneana, e ausência de secreção. A córnea encontra-se clara e a resposta pupilar à luz é fraca. Diante desse quadro clínico, qual a principal hipótese diagnóstica? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ffec26daa210b17ef0e613ffc385d270",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-10 12:04:25.61863 +0000 UTC",
+        "solution": {
+          "_key": "7a007f7e-3b4a-418e-8449-c8c00273806c",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>O enunciado descreve um paciente jovem apresentando quadro unilateral de hiperemia pericerática, dor, turvação visual e resposta pupilar fraca à luz. Nega secreção. Nossa principal hipótese diagnóstica, dentre as alternativas, é a <b>uveíte anterior aguda</b>.&nbsp;</div><div><br></div><div>A uveíte é, por definição, uma inflamação do trato uveal. Pode ser dividida em uveíte anterior, intermediária e posterior. A<b> uveíte anterior acomete predominantemente a íris</b>, sendo a forma mais comum de uveíte. Apresenta-se subitamente com <b>dor unilateral, fotofobia, hiperemia ocular e lacrimejamento</b>. Além disso, o paciente pode apresentar <b>miose contínua</b> (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO enunciado descreve um paciente jovem apresentando quadro unilateral de hiperemia pericerática, dor, turvação visual e resposta pupilar fraca à luz. Nega secreção. Nossa principal hipótese diagnóstica, dentre as alternativas, é a uveíte anterior aguda. A uveíte é, por definição, uma inflamação do trato uveal. Pode ser dividida em uveíte anterior, intermediária e posterior. A uveíte anterior acomete predominantemente a íris, sendo a forma mais comum de uveíte. Apresenta-se subitamente com dor unilateral, fotofobia, hiperemia ocular e lacrimejamento. Além disso, o paciente pode apresentar miose contínua (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+          "author_email_id": "14b51b90e8bb94064df86b2fdd0da61e",
+          "author_profile": {
+            "id": "0e300855-29e6-424a-92ef-f92658a78631",
+            "full_name": "Evelyn Ciuffo ",
+            "avatar_url": "https://static.accounts.estrategia.com/8f94ea1b5495549fb562e6e0ce98285a",
+            "about_me": "Médica graduada pela Universidade do Estado do Rio de Janeiro (2012). Residência médica pelo Hospital Central da Aeronáutica (2013-2015). Fellowship em segmento anterior (córnea, catarata e cirurgia refrativa) pelo Hospital de Olhos do Paraná. Atualmente trabalha como oftalmologista e professora do Estrategia Med.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.evelynciuffo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-14 20:25:47.928355 +0000 UTC",
+          "updated_at": "2020-11-12 13:17:16.970534 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000013728-720.mp4",
+        "unlisted": false,
+        "slug": "Jovem-29-anos6634edeb0b",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

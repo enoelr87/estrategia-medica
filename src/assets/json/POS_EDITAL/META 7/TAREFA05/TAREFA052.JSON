@@ -1,0 +1,3210 @@
+{
+    "data": [
+      {
+        "id": "4000152021",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "8ecebe48-c759-4cc8-9b87-fbe5c5951896",
+                "name": "Simulado EMED - Padrão-Ouro"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "1A3591B7-6700-311B-E2CC-81C693F8A105"
+              },
+              {
+                "type": "ANSWER",
+                "url": "B276E286-C80E-EB50-458A-CC84752BAD82"
+              },
+              {
+                "type": "ANSWER",
+                "url": "0F429491-1259-C9AE-FDF3-14143B07D6E2"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-07-05T21:02:34Z",
+            "updated_at": "2021-07-05T21:04:35Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4f4df0959bd8492993b2c46b78651390",
+            "name": "Ducto venoso (DV)",
+            "is_master": false,
+            "master_id": "1a778bff569b418aacfbd15348fbff38",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Dopplervelocimetria (Doppler)[$$]Vasos estudados[$$]Ducto venoso (DV)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "80dfa24c-f65b-4341-abe3-64afc583b9b3",
+            "position": "0",
+            "body": "identifica a vasoconstrição periférica, que leva à diminuição da pressão nas câmaras cardíacas, seguida de alterações no território venoso  fetal.",
+            "sanitized_body": "identifica a vasoconstrição periférica, que leva à diminuição da pressão nas câmaras cardíacas, seguida de alterações no território venoso  fetal.",
+            "correct": false,
+            "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+            "updated_at": "2021-08-06 18:41:25.428945 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa A: </b>a vasoconstrição periférica leva ao AUMENTO da pressão nas câmaras cardíacas, o que ocasiona alterações no  território venoso.",
+              "sanitized_complete": "Incorreta a alternativa A: a vasoconstrição periférica leva ao AUMENTO da pressão nas câmaras cardíacas, o que ocasiona alterações no  território venoso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-07-08 17:36:53.271168 +0000 UTC",
+              "updated_at": "2021-07-08 17:36:57.7623 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 147
+          },
+          {
+            "id": "6d1f46ce-2597-42f1-81ce-77c6e1a0d44f",
+            "position": "1",
+            "body": "tem sido eleito pela maioria dos estudos para representar o território venoso fetal.",
+            "sanitized_body": "tem sido eleito pela maioria dos estudos para representar o território venoso fetal.",
+            "correct": true,
+            "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+            "updated_at": "2021-08-06 18:41:25.577333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta a alternativa B </b>o ducto venoso é o vaso fetal de escolha para avaliar o fluxo do território venoso fetal.",
+              "sanitized_complete": "Correta a alternativa B o ducto venoso é o vaso fetal de escolha para avaliar o fluxo do território venoso fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-07-08 17:36:53.255559 +0000 UTC",
+              "updated_at": "2021-07-08 17:36:57.756995 +0000 UTC"
+            },
+            "answer_percentage": 47,
+            "answers": 531
+          },
+          {
+            "id": "46a56134-618a-452c-a590-3e879cb54cda",
+            "position": "2",
+            "body": "visualiza o shunt vascular que comunica a porção intra-hepática da veia umbilical com a veia cava inferior e daí para o átrio esquerdo, levando  sangue oxigenado para o forame magno.",
+            "sanitized_body": "visualiza o shunt vascular que comunica a porção intra-hepática da veia umbilical com a veia cava inferior e daí para o átrio esquerdo, levando  sangue oxigenado para o forame magno.",
+            "correct": false,
+            "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+            "updated_at": "2021-08-06 18:41:25.640695 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa C: </b>o fluxo sanguíneo da veia umbilical passa para a veia cava inferior por meio do ducto venoso. Da veia cava inferior,  o fluxo sanguíneo chega primeiro ao átrio DIREITO. Do átrio direito, o fluxo vai para o átrio esquerdo por meio do FORAME OVAL.",
+              "sanitized_complete": "Incorreta a alternativa C: o fluxo sanguíneo da veia umbilical passa para a veia cava inferior por meio do ducto venoso. Da veia cava inferior,  o fluxo sanguíneo chega primeiro ao átrio DIREITO. Do átrio direito, o fluxo vai para o átrio esquerdo por meio do FORAME OVAL.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-07-08 17:36:53.254774 +0000 UTC",
+              "updated_at": "2021-07-08 17:36:57.790881 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 213
+          },
+          {
+            "id": "27b36f13-8465-4f3c-8985-7072b5d47904",
+            "position": "3",
+            "body": "é caracterizado por baixa velocidade durante a sístole ventricular (onda-S) e a diástole (onda-D), determinando um padrão sonográfico  bifásico característico.",
+            "sanitized_body": "é caracterizado por baixa velocidade durante a sístole ventricular (onda-S) e a diástole (onda-D), determinando um padrão sonográfico  bifásico característico.",
+            "correct": false,
+            "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+            "updated_at": "2021-08-06 18:41:25.732292 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa D:</b> o ducto venoso apresenta ALTA velocidade durante a sístole e a diástole ventricular, formando uma onda bifásica.",
+              "sanitized_complete": "Incorreta a alternativa D: o ducto venoso apresenta ALTA velocidade durante a sístole e a diástole ventricular, formando uma onda bifásica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-07-08 17:36:53.255857 +0000 UTC",
+              "updated_at": "2021-07-08 17:36:57.748399 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 141
+          },
+          {
+            "id": "fe20ee19-bbd3-402c-8228-ad356958eaad",
+            "position": "4",
+            "body": "é caracterizado por grande aumento da velocidade na contração atrial (onda-A), determinando um padrão sonográfico monofásico característico.",
+            "sanitized_body": "é caracterizado por grande aumento da velocidade na contração atrial (onda-A), determinando um padrão sonográfico monofásico característico.",
+            "correct": false,
+            "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+            "updated_at": "2021-08-06 18:41:25.846648 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta a alternativa E:</b> O ducto venoso apresenta BAIXA velocidade durante a contração atrial. O padrão da onda do ducto venoso é  bifásico, não monofásico.",
+              "sanitized_complete": "Incorreta a alternativa E: O ducto venoso apresenta BAIXA velocidade durante a contração atrial. O padrão da onda do ducto venoso é  bifásico, não monofásico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-07-08 17:36:53.270853 +0000 UTC",
+              "updated_at": "2021-07-08 17:36:57.785531 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 91
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O estudo Dopplerfluxométrico do sonograma do ducto venoso:",
+        "statement_text": "O estudo Dopplerfluxométrico do sonograma do ducto venoso:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-07-06 14:57:12.21585 +0000 UTC",
+        "forum_id": "ab71a617-8c8d-4c83-9dfa-d32b05f6a871",
+        "solution": {
+          "_key": "f8d63391-f3db-4e0c-aa91-c84586fbb9cc",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> a Dopplervelocimetria do ducto venoso.&nbsp;</div><div><br></div><div>O ducto venoso é uma via de comunicação entre a veia umbilical e a veia cava inferior, levando sangue oxigenado da placenta para o  coração do feto. Em situações de hipoxemia, ocorre aumento do fluxo ao ducto venoso, para compensar a baixa oxigenação fetal.&nbsp;</div><div><br></div><div>O esquema abaixo mostra a circulação fetal:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/E6E1C0C1-CA6B-FE78-9BF1-F3AAFB0B1503/E6E1C0C1-CA6B-FE78-9BF1-F3AAFB0B1503-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A Dopplervelocimetria do ducto venoso é utilizada para avaliar o território venoso fetal. Anormalidades nesse vaso estão associadas  à acidose ao nascimento e devem ser investigadas em fetos com alterações da Dopplervelocimetria da artéria umbilical. Considera-se que a  Dopplervelocimetria do ducto venoso está alterada quando o IP venoso está acima de 1, alguns lugares usam o ponto de corte do IP venoso de  1,5.</div><div><br></div><div>Diante de alteração do ducto venoso, a conduta é a resolução imediata da gestação pela via mais rápida, não se deve esperar o tempo da  corticoterapia. O sulfato de magnésio deve ser aplicado se gestação menor de 32 semanas.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/97068A68-3898-C53A-1591-5E9C6AC70570/97068A68-3898-C53A-1591-5E9C6AC70570-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Figura : Dopplervelocimetria do ducto venoso normal</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B1FC14D3-02F9-4C2A-D0A6-492415DAC4AD/B1FC14D3-02F9-4C2A-D0A6-492415DAC4AD-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Figura: Dopplervelocimetria da ducto venoso reverso</div><div><br></div><div>Comentários</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: a Dopplervelocimetria do ducto venoso. O ducto venoso é uma via de comunicação entre a veia umbilical e a veia cava inferior, levando sangue oxigenado da placenta para o  coração do feto. Em situações de hipoxemia, ocorre aumento do fluxo ao ducto venoso, para compensar a baixa oxigenação fetal. O esquema abaixo mostra a circulação fetal:A Dopplervelocimetria do ducto venoso é utilizada para avaliar o território venoso fetal. Anormalidades nesse vaso estão associadas  à acidose ao nascimento e devem ser investigadas em fetos com alterações da Dopplervelocimetria da artéria umbilical. Considera-se que a  Dopplervelocimetria do ducto venoso está alterada quando o IP venoso está acima de 1, alguns lugares usam o ponto de corte do IP venoso de  1,5.Diante de alteração do ducto venoso, a conduta é a resolução imediata da gestação pela via mais rápida, não se deve esperar o tempo da  corticoterapia. O sulfato de magnésio deve ser aplicado se gestação menor de 32 semanas.Figura : Dopplervelocimetria do ducto venoso normalFigura: Dopplervelocimetria da ducto venoso reversoComentários",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-08 17:36:53.528776 +0000 UTC",
+          "updated_at": "2021-07-08 17:36:58.039428 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "estudo85147b77a",
+        "public": true
+      },
+      {
+        "id": "4000147570",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6f45f358-e1b6-4557-be56-76fce57fcf63",
+                "name": "4° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 4,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "C24DD594-B464-985D-E8C4-A18D12F3E7FA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "61DEB320-0C3B-51FA-D2D2-EC20A2153B7D"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C2565169-EB33-2AD9-7CBB-E9D1F62C8FA1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T15:32:26Z",
+            "updated_at": "2022-02-10T16:13:53Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "65b145a76fb14d7eba4b7a4c21abe133",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "46e24daebcb845c7a087476ea087d8fe",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Restrição de crescimento fetal (RCF)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7270f67fa466456e836c7bdab77fe314",
+            "name": "Artéria umbilical",
+            "is_master": false,
+            "master_id": "1a778bff569b418aacfbd15348fbff38",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Dopplervelocimetria (Doppler)[$$]Vasos estudados[$$]Artéria umbilical",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "13400157-c6fa-4744-be2d-d0ed4ffa0df7",
+            "position": "0",
+            "body": "Resolução imediata da gestação.",
+            "sanitized_body": "Resolução imediata da gestação.",
+            "correct": false,
+            "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+            "updated_at": "2021-08-06 19:19:16.951049 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: como o feto tem 32 semanas, a resolução da gestação está indicada se houver diástole reversa da artéria umbilical ou alteração do ducto venoso.",
+              "sanitized_complete": "Incorreta a alternativa A: como o feto tem 32 semanas, a resolução da gestação está indicada se houver diástole reversa da artéria umbilical ou alteração do ducto venoso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:27:49.023745 +0000 UTC",
+              "updated_at": "2021-05-24 21:27:49.612735 +0000 UTC"
+            },
+            "answer_percentage": 32,
+            "answers": 361
+          },
+          {
+            "id": "012f2a7b-dd55-4d28-924d-f4688b97412b",
+            "position": "1",
+            "body": "Avaliação diária do ducto venoso.",
+            "sanitized_body": "Avaliação diária do ducto venoso.",
+            "correct": true,
+            "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+            "updated_at": "2021-08-06 19:19:17.091669 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B diante de diástole ausente da artéria umbilical com 32 semanas, a conduta é avaliação da vitalidade fetal diária com avaliação do ducto venoso, cardiotocografia e perfil biofísico fetal.",
+              "sanitized_complete": "Correta a alternativa B diante de diástole ausente da artéria umbilical com 32 semanas, a conduta é avaliação da vitalidade fetal diária com avaliação do ducto venoso, cardiotocografia e perfil biofísico fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:27:49.031233 +0000 UTC",
+              "updated_at": "2021-05-24 21:27:49.587995 +0000 UTC"
+            },
+            "answer_percentage": 47,
+            "answers": 525
+          },
+          {
+            "id": "4622b09c-8b36-4eed-a307-fc80eb679709",
+            "position": "2",
+            "body": "Avaliação diária da artéria uterina.",
+            "sanitized_body": "Avaliação diária da artéria uterina.",
+            "correct": false,
+            "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+            "updated_at": "2021-08-06 19:19:17.324538 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C: a avaliação da artéria uterina, nesse caso, não vai ajudar na tomada da conduta. Esse vaso serve para avaliar a circulação uteroplacentária e não a circulação fetal.",
+              "sanitized_complete": "Incorreta a alternativa C: a avaliação da artéria uterina, nesse caso, não vai ajudar na tomada da conduta. Esse vaso serve para avaliar a circulação uteroplacentária e não a circulação fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:27:49.052381 +0000 UTC",
+              "updated_at": "2021-05-24 21:27:49.591171 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 66
+          },
+          {
+            "id": "2b9de4e2-74a9-4b5a-aa23-308bc6da23c0",
+            "position": "3",
+            "body": "Seguimento no pré-natal de rotina.",
+            "sanitized_body": "Seguimento no pré-natal de rotina.",
+            "correct": false,
+            "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+            "updated_at": "2021-08-06 19:19:17.56781 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: diante de um feto com diástole ausente da artéria umbilical, deve-se internar imediatamente a paciente.",
+              "sanitized_complete": "Incorreta a alternativa D: diante de um feto com diástole ausente da artéria umbilical, deve-se internar imediatamente a paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:27:49.057809 +0000 UTC",
+              "updated_at": "2021-05-24 21:27:49.587737 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 56
+          },
+          {
+            "id": "bf81bef5-f1ec-4ead-8cf9-97941653e324",
+            "position": "4",
+            "body": "Repetir dopplervelocimetria em uma semana.",
+            "sanitized_body": "Repetir dopplervelocimetria em uma semana.",
+            "correct": false,
+            "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+            "updated_at": "2021-08-06 19:19:18.215738 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: diante de um feto com diástole ausente da artéria umbilical, deve-se fazer acompanhamento diário da vitalidade fetal.",
+              "sanitized_complete": "Incorreta a alternativa E: diante de um feto com diástole ausente da artéria umbilical, deve-se fazer acompanhamento diário da vitalidade fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:27:49.067099 +0000 UTC",
+              "updated_at": "2021-05-24 21:27:49.627782 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 110
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Gestante de 32 semanas com hipertensão arterial crônica e restrição de crescimento fetal. Apresenta dopplervelocimetria obstétrica da artéria umbilical conforme a imagem em anexo. Qual é a conduta?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/73CA1422-C5DF-2A29-3731-9B8DC0022359/73CA1422-C5DF-2A29-3731-9B8DC0022359-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Gestante de 32 semanas com hipertensão arterial crônica e restrição de crescimento fetal. Apresenta dopplervelocimetria obstétrica da artéria umbilical conforme a imagem em anexo. Qual é a conduta?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 13:06:31.316542 +0000 UTC",
+        "forum_id": "71a1c24f-bae9-4934-a121-394d95b6c8cc",
+        "solution": {
+          "_key": "8be41994-7f45-498a-ae08-a3138e707f4d",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b><div><b>O que o examinador quer saber: se você sabe interpretar e dar a conduta de um exame dopplervelocimétrico obstétrico.</b></div><div><b><br></b></div><div>A dopplervelocimetria do ducto venoso é utilizada para avaliar o território venoso fetal. Na hipóxia fetal, o território venoso sofre vasodilatação nas áreas nobres e vasoconstrição nos demais territórios, na tentativa de redistribuição de fluxo sanguíneo. Anormalidades nesse vaso estão associadas à acidose ao nascimento e devem ser investigadas em fetos com alterações da dopplervelocimetria da artéria umbilical e centralização de fluxo fetal.</div></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/654CCE2B-27A7-9A4B-C9E5-F0B0710BD1C8/654CCE2B-27A7-9A4B-C9E5-F0B0710BD1C8-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Diante de suspeita de insuficiência placentária, deve-se realizar a avaliação ultrassonográfica seriada da velocidade de crescimento fetal, do perfil biofísico e da dopplervelocimetria fetal.</div><div><br></div><div>Fetos com dopplervelocimetria alterada da artéria umbilical, da artéria uterina ou da artéria cerebral média, na presença de<u> fluxo diastólico positivo da artéria umbilical</u>, devem ser acompanhados <b>ambulatorialmente 2x por semana até o termo</b>, com resolução da gestação após 37 semanas. Na presença de <b>oligoâmnio, hipertensão, insuficiência renal, parada do crescimento fetal ou peso abaixo do percentil 5, a resolução da gestação deve ocorrer entre 34 e 37 semanas</b>.</div><div><br></div><div>Diante de<b> diástole ausente ou reversa da artéria umbilical</b>, deve-se internar a gestante para acompanhamento diário da vitalidade fetal. A resolução da gestação deve ocorrer<b> a partir de 34 semanas diante de diástole ausente e a partir de 32 semanas quando ocorrer diástole reversa</b> da artéria umbilical.</div><div><br></div><div>Fetos com<b> ducto venoso alterado</b> também devem ser internados para controle da vitalidade, com resolução da gestação a partir de 32 semanas ou imediata se o ducto venoso ficar reverso. A <b>resolução também deve ser imediata nos casos de alteração do perfil biofísico fetal e da cardiotocografia</b>.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9710EFDF-5714-8F1E-FEE6-44637B9AFF8B/9710EFDF-5714-8F1E-FEE6-44637B9AFF8B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Estamos diante de um feto de 32 semanas com restrição de crescimento e artéria umbilical alterada com diástole ausente. A conduta nessa idade gestacional é acompanhamento diário da vitalidade fetal, e o principal vaso a ser avaliado diante de uma artéria umbilical com diástole ausente é ducto venoso, que avalia a circulação venosa fetal, pois, caso ele se altere, indica-se resolução da gestação.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: se você sabe interpretar e dar a conduta de um exame dopplervelocimétrico obstétrico.A dopplervelocimetria do ducto venoso é utilizada para avaliar o território venoso fetal. Na hipóxia fetal, o território venoso sofre vasodilatação nas áreas nobres e vasoconstrição nos demais territórios, na tentativa de redistribuição de fluxo sanguíneo. Anormalidades nesse vaso estão associadas à acidose ao nascimento e devem ser investigadas em fetos com alterações da dopplervelocimetria da artéria umbilical e centralização de fluxo fetal.Diante de suspeita de insuficiência placentária, deve-se realizar a avaliação ultrassonográfica seriada da velocidade de crescimento fetal, do perfil biofísico e da dopplervelocimetria fetal.Fetos com dopplervelocimetria alterada da artéria umbilical, da artéria uterina ou da artéria cerebral média, na presença de fluxo diastólico positivo da artéria umbilical, devem ser acompanhados ambulatorialmente 2x por semana até o termo, com resolução da gestação após 37 semanas. Na presença de oligoâmnio, hipertensão, insuficiência renal, parada do crescimento fetal ou peso abaixo do percentil 5, a resolução da gestação deve ocorrer entre 34 e 37 semanas.Diante de diástole ausente ou reversa da artéria umbilical, deve-se internar a gestante para acompanhamento diário da vitalidade fetal. A resolução da gestação deve ocorrer a partir de 34 semanas diante de diástole ausente e a partir de 32 semanas quando ocorrer diástole reversa da artéria umbilical.Fetos com ducto venoso alterado também devem ser internados para controle da vitalidade, com resolução da gestação a partir de 32 semanas ou imediata se o ducto venoso ficar reverso. A resolução também deve ser imediata nos casos de alteração do perfil biofísico fetal e da cardiotocografia.Estamos diante de um feto de 32 semanas com restrição de crescimento e artéria umbilical alterada com diástole ausente. A conduta nessa idade gestacional é acompanhamento diário da vitalidade fetal, e o principal vaso a ser avaliado diante de uma artéria umbilical com diástole ausente é ducto venoso, que avalia a circulação venosa fetal, pois, caso ele se altere, indica-se resolução da gestação.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-24 21:27:49.19152 +0000 UTC",
+          "updated_at": "2021-05-24 21:27:49.736339 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Gestante-32-semanas28a00d2816",
+        "public": true
+      },
+      {
+        "id": "4000147569",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "6f45f358-e1b6-4557-be56-76fce57fcf63",
+                "name": "4° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 4,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "C24DD594-B464-985D-E8C4-A18D12F3E7FA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "61DEB320-0C3B-51FA-D2D2-EC20A2153B7D"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C2565169-EB33-2AD9-7CBB-E9D1F62C8FA1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T15:32:26Z",
+            "updated_at": "2022-02-10T16:13:53Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4e64dff6acde470c94bd21a3f00e3a87",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "b17f4e8786b248c28746ff6a89de4d28",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Cardiotocografia (CTB)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "70a2b900ceed446c8560980d558b08e2",
+            "name": "Interpretação",
+            "is_master": false,
+            "master_id": "b17f4e8786b248c28746ff6a89de4d28",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Cardiotocografia (CTB)[$$]Interpretação",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "9589bb6a-2774-4390-b5cb-cef466bd2cf9",
+            "position": "0",
+            "body": "Categoria 2, resolução imediata da gestação.",
+            "sanitized_body": "Categoria 2, resolução imediata da gestação.",
+            "correct": false,
+            "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+            "updated_at": "2022-03-04 01:03:56.926909 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorretas as alternativas A e D: a cardiotocografia não é categoria 2, pois temos variabilidade alterada associada à desaceleração tardia.",
+              "sanitized_complete": "Incorretas as alternativas A e D: a cardiotocografia não é categoria 2, pois temos variabilidade alterada associada à desaceleração tardia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:21:57.62945 +0000 UTC",
+              "updated_at": "2022-03-04 01:03:45.868682 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 124
+          },
+          {
+            "id": "291a9efe-5d42-4c7e-990e-1ed0edf2445e",
+            "position": "1",
+            "body": "Categoria 3, resolução da gestação se as medidas de ressuscitação intrauterina não forem efetivas.",
+            "sanitized_body": "Categoria 3, resolução da gestação se as medidas de ressuscitação intrauterina não forem efetivas.",
+            "correct": true,
+            "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+            "updated_at": "2022-03-04 01:03:57.004242 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B como a cardiotocografia apresenta variabilidade mínima com desacelerações tardias, é classificada como categoria 3, por isso devem ser realizadas medidas de ressuscitação intrauterina e, se não efetivas, deve-se partir para a resolução da gestação.",
+              "sanitized_complete": "Correta a alternativa B como a cardiotocografia apresenta variabilidade mínima com desacelerações tardias, é classificada como categoria 3, por isso devem ser realizadas medidas de ressuscitação intrauterina e, se não efetivas, deve-se partir para a resolução da gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:21:57.593437 +0000 UTC",
+              "updated_at": "2022-03-04 01:03:45.842677 +0000 UTC"
+            },
+            "answer_percentage": 56,
+            "answers": 534
+          },
+          {
+            "id": "29511626-38ff-4edb-b6a7-30fee26957f5",
+            "position": "2",
+            "body": "Categoria 1, solicitar dopplervelocimetria obstétrica; se normal, liberar a gestante.",
+            "sanitized_body": "Categoria 1, solicitar dopplervelocimetria obstétrica; se normal, liberar a gestante.",
+            "correct": false,
+            "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+            "updated_at": "2022-03-04 01:03:57.321048 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C: a cardiotocografia não é categoria 1, pois temos variabilidade alterada associada à desaceleração tardia.",
+              "sanitized_complete": "Incorreta a alternativa C: a cardiotocografia não é categoria 1, pois temos variabilidade alterada associada à desaceleração tardia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:21:57.590572 +0000 UTC",
+              "updated_at": "2022-03-04 01:03:45.845611 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 24
+          },
+          {
+            "id": "c8719150-2ae4-49ec-a16b-e87e94e58f14",
+            "position": "3",
+            "body": "Categoria 2, medidas de ressuscitação intrauterina e resolução da gestação se as medidas não forem efetivas para melhorar os parâmetros fetais.",
+            "sanitized_body": "Categoria 2, medidas de ressuscitação intrauterina e resolução da gestação se as medidas não forem efetivas para melhorar os parâmetros fetais.",
+            "correct": false,
+            "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+            "updated_at": "2022-03-04 01:03:57.600988 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:21:57.5857 +0000 UTC",
+              "updated_at": "2022-03-04 01:03:45.846689 +0000 UTC"
+            },
+            "answer_percentage": 22,
+            "answers": 207
+          },
+          {
+            "id": "5f24385c-d7eb-419d-afa8-4a0b21e0608e",
+            "position": "4",
+            "body": "Categoria 3, solicitar dopplervelocimetria obstétrica para avaliar o ducto venoso.",
+            "sanitized_body": "Categoria 3, solicitar dopplervelocimetria obstétrica para avaliar o ducto venoso.",
+            "correct": false,
+            "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+            "updated_at": "2022-03-04 01:03:57.664905 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: a cardiotocografia é categoria 3, mas a conduta não é solicitar dopplervelocimetria e sim fazer medidas de ressuscitação intrauterina para ver se melhora o traçado cardiotocográfico. Caso a cardiotocografia se mantenha em categoria 3, deve-se resolver a gestação.",
+              "sanitized_complete": "Incorreta a alternativa E: a cardiotocografia é categoria 3, mas a conduta não é solicitar dopplervelocimetria e sim fazer medidas de ressuscitação intrauterina para ver se melhora o traçado cardiotocográfico. Caso a cardiotocografia se mantenha em categoria 3, deve-se resolver a gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2021-05-24 21:21:57.617656 +0000 UTC",
+              "updated_at": "2022-03-04 01:03:45.85681 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 66
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Gestante de 38 semanas, com hipertensão arterial crônica em uso de aspirina, cálcio e metildopa, chega à maternidade devido a contrações uterinas e diminuição da movimentação fetal. Nega outras queixas. Ao exame constata-se PA 150/100 mmHg, edema 3+/4 de membros inferiores, AU 32 cm, BCF 145 bpm, TV colo grosso e impérvio, dinâmica uterina de duas contrações em 10 min. <div><br></div><div>Foi realizada cardiotocografia, com imagem em anexo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/9A68AFCE-1046-309D-F056-C613FE0AD94B/9A68AFCE-1046-309D-F056-C613FE0AD94B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Qual é a classificação da cardiotocografia e qual é a conduta? \n</div>",
+        "statement_text": "Gestante de 38 semanas, com hipertensão arterial crônica em uso de aspirina, cálcio e metildopa, chega à maternidade devido a contrações uterinas e diminuição da movimentação fetal. Nega outras queixas. Ao exame constata-se PA 150/100 mmHg, edema 3+/4 de membros inferiores, AU 32 cm, BCF 145 bpm, TV colo grosso e impérvio, dinâmica uterina de duas contrações em 10 min. Foi realizada cardiotocografia, com imagem em anexo.Qual é a classificação da cardiotocografia e qual é a conduta? \n",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 12:59:19.049775 +0000 UTC",
+        "forum_id": "18f48ef0-dc37-479c-8101-d1ee7cf0437f",
+        "solution": {
+          "_key": "c0fcdc85-5829-45ba-80d3-14d600a290ed",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div><b>O que o examinador quer saber: se você sabe interpretar uma cardiotocografia e dar a conduta.</b></div><div><br></div><div>Para interpretar essa cardiotocografia vamos utilizar o mnemônico Dr. Conivado:</div><div><br></div><div><b>Dr</b> - gestante com hipertensão arterial crônica em trabalho de parto.</div><div><br></div><div><b>Co</b> - presença de 2 contrações em 10 min.</div><div><br></div><div><b>Ni </b>- linha de base de 140 bpm (normal).</div><div><br></div><div><b>V </b>- variabilidade mínima (menos de 6 bpm).</div><div><br></div><div><b>A </b>- ausência de aceleração.</div><div><br></div><div><b>D </b>- presença de desacelerações tardias (após as contrações).</div><div><br></div><div><b>O</b> - Como a gestante está em trabalho de parto e a cardiotocografia apresenta variabilidade mínima com desacelerações tardias, a cardiotocografia é classificada como categoria 3, por isso, devem ser realizadas medidas de ressuscitação intrauterina, se não efetivas, partir para resolução da gestação.</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/77E2C957-0BBF-F5F8-D1EE-409234535597/77E2C957-0BBF-F5F8-D1EE-409234535597-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>O fluxograma a seguir resume a classificação da cardiotocografia intraparto, seu significado e a conduta em cada uma das situações.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7562652D-7A92-43ED-7AB1-CB96B6421AA0/7562652D-7A92-43ED-7AB1-CB96B6421AA0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: se você sabe interpretar uma cardiotocografia e dar a conduta.Para interpretar essa cardiotocografia vamos utilizar o mnemônico Dr. Conivado:Dr - gestante com hipertensão arterial crônica em trabalho de parto.Co - presença de 2 contrações em 10 min.Ni - linha de base de 140 bpm (normal).V - variabilidade mínima (menos de 6 bpm).A - ausência de aceleração.D - presença de desacelerações tardias (após as contrações).O - Como a gestante está em trabalho de parto e a cardiotocografia apresenta variabilidade mínima com desacelerações tardias, a cardiotocografia é classificada como categoria 3, por isso, devem ser realizadas medidas de ressuscitação intrauterina, se não efetivas, partir para resolução da gestação.O fluxograma a seguir resume a classificação da cardiotocografia intraparto, seu significado e a conduta em cada uma das situações.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-24 21:21:57.719744 +0000 UTC",
+          "updated_at": "2022-03-04 01:03:45.972765 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Gestante-38-semanas7738b20c95",
+        "public": true
+      },
+      {
+        "id": "4000146614",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "7ab5428734d84506a62e945b69217a7b",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b90653c037a846488c65f9aea51dee98",
+            "name": "Descolamento prematuro de placenta (DPP)",
+            "is_master": false,
+            "master_id": "582564a19f43458ab0dbfb262f72ed35",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento segunda metade da gestação [$$]Descolamento prematuro de placenta (DPP)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8a7b6c24-3b35-42a0-97d3-743f66345747",
+            "position": "0",
+            "body": "Administrar betametasona para o amadurecimento pulmonar.",
+            "sanitized_body": "Administrar betametasona para o amadurecimento pulmonar.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.631018 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “a” incorreta,</b> pois não devemos postergar o parto, pois o bebê já encontra-se bradicárdico e há risco de morte materna e fetal.<div><br></div>",
+              "sanitized_complete": "Alternativa “a” incorreta, pois não devemos postergar o parto, pois o bebê já encontra-se bradicárdico e há risco de morte materna e fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.391418 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 672
+          },
+          {
+            "id": "934f8c03-ab0e-41ab-aee5-78c0b410e749",
+            "position": "1",
+            "body": "Realizar ultrassonografia gestacional com urgência.",
+            "sanitized_body": "Realizar ultrassonografia gestacional com urgência.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.708145 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “b” incorreta,</b> pois o diagnóstico de DPP é clínico, nçao havendo necessidade de exames de imagem.<div><br></div>",
+              "sanitized_complete": "Alternativa “b” incorreta, pois o diagnóstico de DPP é clínico, nçao havendo necessidade de exames de imagem.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.408419 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 166
+          },
+          {
+            "id": "424692d0-441e-4558-817f-d3b60dc30a48",
+            "position": "2",
+            "body": "Iniciar indução do parto com misoprostol.",
+            "sanitized_body": "Iniciar indução do parto com misoprostol.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.78967 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “c” incorreta,</b> pois a conduta é resolução pela via de parto mais rápida devido ao risco de óbito materno e fetal.<div><br></div>",
+              "sanitized_complete": "Alternativa “c” incorreta, pois a conduta é resolução pela via de parto mais rápida devido ao risco de óbito materno e fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.408929 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 159
+          },
+          {
+            "id": "3ba54a53-213e-4906-b900-d5878d657da8",
+            "position": "3",
+            "body": "Realizar cesariana de urgência.",
+            "sanitized_body": "Realizar cesariana de urgência.",
+            "correct": true,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.87526 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “d” correta, </b>pois a conduta é a resolução da gestação pela via de parto mais rápida que nesse caso é a cesariana.<div><br></div>",
+              "sanitized_complete": "Alternativa “d” correta, pois a conduta é a resolução da gestação pela via de parto mais rápida que nesse caso é a cesariana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.352418 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 6171
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 26 anos de idade, primigesta, chega á emergência de uma maternidade confusa e com cefaleia por estar apresentando, há cerca de 30 minutos, um sangramento vivo que chegou a ''escorrer por suas pernas'', além de dor abdominal intensa. A paciente nega trauma e/o outras queixas. Relata ainda ter feito duas consultas de pré-natal, mas não trouxe consigo o seu cartão de pré-natal e trouxe ultrassonografia gestacional normal de duas semanas atrás. Pela data da última menstruarão, o médico calcula a idade gestacional em 32 semanas. Em seu exame físico constatou-se PA = 180 x 120 mmHg, pulso = 114 bpm, abdome gravídico com dinâmica uterina ausente, altura uterina compatível com a idade gestacional, útero lenhoso e frequência cardíaca fetal de 108 bpm. Em exame especular, foi visualizado sangramento vivo ativo vindo do orifício cervical externo. Proteinúria de fita revelou +++. Após iniciado o sulfato de magnésio, qual a conduta médica imediata a ser tomada.",
+        "statement_text": "Uma mulher com 26 anos de idade, primigesta, chega á emergência de uma maternidade confusa e com cefaleia por estar apresentando, há cerca de 30 minutos, um sangramento vivo que chegou a &#39;&#39;escorrer por suas pernas&#39;&#39;, além de dor abdominal intensa. A paciente nega trauma e/o outras queixas. Relata ainda ter feito duas consultas de pré-natal, mas não trouxe consigo o seu cartão de pré-natal e trouxe ultrassonografia gestacional normal de duas semanas atrás. Pela data da última menstruarão, o médico calcula a idade gestacional em 32 semanas. Em seu exame físico constatou-se PA = 180 x 120 mmHg, pulso = 114 bpm, abdome gravídico com dinâmica uterina ausente, altura uterina compatível com a idade gestacional, útero lenhoso e frequência cardíaca fetal de 108 bpm. Em exame especular, foi visualizado sangramento vivo ativo vindo do orifício cervical externo. Proteinúria de fita revelou +++. Após iniciado o sulfato de magnésio, qual a conduta médica imediata a ser tomada.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+        "forum_id": "39b4cb34-6282-4212-bca5-67acb19dac5a",
+        "solution": {
+          "_key": "eccde899-4649-420b-b506-b76217ecc74e",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>A paciente da questão apresenta um quadro característico de descolamento prematuro de placenta (DPP). A principal causa de DPP são as síndromes hipertensivas gestacionais. O fato da paciente estar com um pico hipertensivo nesse momento sugere ainda mais o diagnóstico que deve ser suspeitado sempre que houver um sangramento na segunda metade da gestação com hipertonia uterina (útero lenhoso). Trata-se de uma emergência obstétrica em que a conduta deve ser a realização de amniotomia para melhorar o prognóstico materno e fetal, além de resolução da gestação pela via de parto mais rápida.&nbsp;</div><div><br></div><div>No caso da paciente não é possível saber se ela se encontra em trabalho de parto ou se apresenta dilatação, mas por ser um quadro súbito, supomos que a via de parto mais rápida seja por cesariana.</div><div><b><br></b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DA paciente da questão apresenta um quadro característico de descolamento prematuro de placenta (DPP). A principal causa de DPP são as síndromes hipertensivas gestacionais. O fato da paciente estar com um pico hipertensivo nesse momento sugere ainda mais o diagnóstico que deve ser suspeitado sempre que houver um sangramento na segunda metade da gestação com hipertonia uterina (útero lenhoso). Trata-se de uma emergência obstétrica em que a conduta deve ser a realização de amniotomia para melhorar o prognóstico materno e fetal, além de resolução da gestação pela via de parto mais rápida. No caso da paciente não é possível saber se ela se encontra em trabalho de parto ou se apresenta dilatação, mas por ser um quadro súbito, supomos que a via de parto mais rápida seja por cesariana.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-19 19:42:40.515435 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146614-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-26-anos15781b989a9",
+        "public": true
+      },
+      {
+        "id": "4000146564",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2d96c20ac7ac4c079cd9d2c523abbc62",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "4fb14c9b9e214837b9e9cff000958e32",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Diabetes na gestação (DMG)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "84d22caeff82429cbd02b927d44e3957",
+            "name": "Diagnóstico ",
+            "is_master": false,
+            "master_id": "4fb14c9b9e214837b9e9cff000958e32",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Diabetes na gestação (DMG)[$$]Diagnóstico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b12c94c9-9c1e-4e17-9e3d-feb225c90eff",
+            "position": "0",
+            "body": "solicitar teste de sobrecarga oral com 75 gramas de glicose anidra ainda com 12 semanas de gestação.",
+            "sanitized_body": "solicitar teste de sobrecarga oral com 75 gramas de glicose anidra ainda com 12 semanas de gestação.",
+            "correct": false,
+            "created_at": "2021-04-26 18:20:38.023663 +0000 UTC",
+            "updated_at": "2021-05-22 01:22:44.485286 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Um único valor de glicemia de jejum maior ou igual a 126mg/dL bastaria para o diagnóstico de diabetes prévio a gestação. A gestante do enunciado tem dois exames alterados não sendo indicado a realização de mais nenhum teste diagnóstico. Além disso, vale ressaltar que o teste oral de tolerância à glicose 75g é indicado <b>apenas</b> para gestantes com glicemia de jejum normal, ou seja, menor do que 92mg/dL e deve ser realizado entre a 24a e 28a semana de gestação.",
+              "sanitized_complete": "Um único valor de glicemia de jejum maior ou igual a 126mg/dL bastaria para o diagnóstico de diabetes prévio a gestação. A gestante do enunciado tem dois exames alterados não sendo indicado a realização de mais nenhum teste diagnóstico. Além disso, vale ressaltar que o teste oral de tolerância à glicose 75g é indicado apenas para gestantes com glicemia de jejum normal, ou seja, menor do que 92mg/dL e deve ser realizado entre a 24a e 28a semana de gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-22 02:04:03.96745 +0000 UTC",
+              "updated_at": "2021-05-22 14:38:30.094527 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 39
+          },
+          {
+            "id": "60c8963b-8b21-4d3e-b4f4-3c4b9535148f",
+            "position": "1",
+            "body": "solicitar teste de sobrecarga oral com 75 gramas de glicose anidra entre 24 e 28 semanas de gestação.",
+            "sanitized_body": "solicitar teste de sobrecarga oral com 75 gramas de glicose anidra entre 24 e 28 semanas de gestação.",
+            "correct": false,
+            "created_at": "2021-04-26 18:20:38.023663 +0000 UTC",
+            "updated_at": "2021-05-22 01:22:44.529724 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Apesar de estar correto que teste oral de tolerância à glicose 75g é indicado entre a 24a e 28a semana de gestação,&nbsp; ele é indicado apenas para gestantes com glicemia de jejum normal, ou seja, menor do que 92mg/dL. Vale ressaltar que um único valor de glicemia de jejum maior ou igual a 126mg/dL bastaria para o diagnóstico de diabetes prévio a gestação.",
+              "sanitized_complete": "Apesar de estar correto que teste oral de tolerância à glicose 75g é indicado entre a 24a e 28a semana de gestação,  ele é indicado apenas para gestantes com glicemia de jejum normal, ou seja, menor do que 92mg/dL. Vale ressaltar que um único valor de glicemia de jejum maior ou igual a 126mg/dL bastaria para o diagnóstico de diabetes prévio a gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-22 02:04:03.933617 +0000 UTC",
+              "updated_at": "2021-05-22 14:38:30.106788 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 145
+          },
+          {
+            "id": "45bebbb6-86f9-4ef9-b4af-a0127d6a3e91",
+            "position": "2",
+            "body": "diagnosticar a paciente com diabete melito prévio à gestação e iniciar tratamento adequado.",
+            "sanitized_body": "diagnosticar a paciente com diabete melito prévio à gestação e iniciar tratamento adequado.",
+            "correct": true,
+            "created_at": "2021-04-26 18:20:38.023663 +0000 UTC",
+            "updated_at": "2021-05-22 01:22:44.587671 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Glicemia de jejum maior ou igual a 126mg/dL relaciona-se ao diagnóstico de diabetes prévio a gestação. Vale ressaltar que, apesar do enunciado apresentar dois valores de glicemia de jejum alterados, durante a gravidez bastaria um único exame alterado para fazer esse diagnóstico. Nesses casos a gestante deve ser encaminhada para seguimento pré-natal de alto risco e ser orientada quanto à dieta adequada, atividade física, se não houver contraindicações obstétricas, e controle glicêmico.&nbsp;",
+              "sanitized_complete": "Glicemia de jejum maior ou igual a 126mg/dL relaciona-se ao diagnóstico de diabetes prévio a gestação. Vale ressaltar que, apesar do enunciado apresentar dois valores de glicemia de jejum alterados, durante a gravidez bastaria um único exame alterado para fazer esse diagnóstico. Nesses casos a gestante deve ser encaminhada para seguimento pré-natal de alto risco e ser orientada quanto à dieta adequada, atividade física, se não houver contraindicações obstétricas, e controle glicêmico. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-22 02:04:03.937694 +0000 UTC",
+              "updated_at": "2021-05-22 14:38:30.095661 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 2920
+          },
+          {
+            "id": "e4761961-6716-47c4-85da-59800731d6ef",
+            "position": "3",
+            "body": "diagnosticar a paciente com diabete melito gestacional e iniciar tratamento adequado.",
+            "sanitized_body": "diagnosticar a paciente com diabete melito gestacional e iniciar tratamento adequado.",
+            "correct": false,
+            "created_at": "2021-04-26 18:20:38.023663 +0000 UTC",
+            "updated_at": "2021-05-22 01:22:44.637622 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Porque apesar de estar correto que se deve iniciar tratamento adequado para controle glicêmico, glicemia de jejum maior ou igual a 126mg/dL relaciona-se ao diagnóstico de diabetes prévio a gestação e não ao de diabetes gestacional, caracterizado por glicemia de jejum entre 92 e 125mg/dL.",
+              "sanitized_complete": "Porque apesar de estar correto que se deve iniciar tratamento adequado para controle glicêmico, glicemia de jejum maior ou igual a 126mg/dL relaciona-se ao diagnóstico de diabetes prévio a gestação e não ao de diabetes gestacional, caracterizado por glicemia de jejum entre 92 e 125mg/dL.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-22 02:04:03.938098 +0000 UTC",
+              "updated_at": "2021-05-22 14:38:30.127348 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 224
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma gestante, no curso da 12.ª semana de gestação, vai ao ambulatório de obstetrícia referenciado de sua Unidade Básica de Saúde com o seguinte encaminhamento: \"\"Encaminho primigesta com 23 anos de idade por ter apresentado, em seus exames de rotina do pré-natal, uma glicemia de jejum de 140 mg/dL\"\". No momento, a paciente encontrava-se assintomática e já trazia um segundo resultado de glicemia de jejum que demonstrava um valor de 148 mg/dL. O obstetra do ambulatório, segundo as recomendações mais atualizadas da OMS e da Sociedade Brasileira de Diabetes, deve",
+        "statement_text": "Uma gestante, no curso da 12.ª semana de gestação, vai ao ambulatório de obstetrícia referenciado de sua Unidade Básica de Saúde com o seguinte encaminhamento: &#34;&#34;Encaminho primigesta com 23 anos de idade por ter apresentado, em seus exames de rotina do pré-natal, uma glicemia de jejum de 140 mg/dL&#34;&#34;. No momento, a paciente encontrava-se assintomática e já trazia um segundo resultado de glicemia de jejum que demonstrava um valor de 148 mg/dL. O obstetra do ambulatório, segundo as recomendações mais atualizadas da OMS e da Sociedade Brasileira de Diabetes, deve",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:20:38.023663 +0000 UTC",
+        "solution": {
+          "_key": "fd50dc66-4cc3-48e8-968f-711ae5641aae",
+          "complete": "<b>O que o examinador quer saber: </b>Se você sabe fazer o diagnóstico de diabetes prévio à gestação pela glicemia de jejum.<div><br></div><div>Doc, para responder corretamente a essa questão é essencial que os critérios diagnósticos de diabetes na gestação estejam claros para você. Caso não estejam, aproveite para fixar esse conceito. Os valores estão apresentados no fluxograma abaixo, ressaltando-se que, apesar do enunciado apresentar dois valores de glicemia de jejum alterados, bastaria um único valor alterado para fazer o diagnóstico. Destacado em amarelo está o critério relacionado aos valores apresentados nesse caso.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B1E6EF3C-851A-9C62-C563-FD97B41002EB/B1E6EF3C-851A-9C62-C563-FD97B41002EB-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "O que o examinador quer saber: Se você sabe fazer o diagnóstico de diabetes prévio à gestação pela glicemia de jejum.Doc, para responder corretamente a essa questão é essencial que os critérios diagnósticos de diabetes na gestação estejam claros para você. Caso não estejam, aproveite para fixar esse conceito. Os valores estão apresentados no fluxograma abaixo, ressaltando-se que, apesar do enunciado apresentar dois valores de glicemia de jejum alterados, bastaria um único valor alterado para fazer o diagnóstico. Destacado em amarelo está o critério relacionado aos valores apresentados nesse caso.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-22 02:04:04.040641 +0000 UTC",
+          "updated_at": "2021-05-22 14:38:30.128338 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146564-720.mp4",
+        "unlisted": false,
+        "slug": "gestante-curso-12-a9026f973a8",
+        "public": true
+      },
+      {
+        "id": "4000146537",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0141650676cf4af7b1251f35f83c872c",
+            "name": "Doenças associadas à gestação",
+            "is_master": false,
+            "master_id": "c05633a14b814b5ab49cc991c64ac08f",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "06daea8c67d547a5a82cb314a3105772",
+            "name": "Doenças infecciosas na gestação – HIV, sífilis, hepatites, herpes",
+            "is_master": false,
+            "master_id": "0141650676cf4af7b1251f35f83c872c",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Doenças infecciosas na gestação – HIV, sífilis, hepatites, herpes",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "0e74e32692264a5ab35f542d35039191",
+            "name": "Sifilis na gestação",
+            "is_master": false,
+            "master_id": "06daea8c67d547a5a82cb314a3105772",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Doenças infecciosas na gestação – HIV, sífilis, hepatites, herpes[$$]Sifilis na gestação",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5bf40382-0ebd-4524-a62c-58b4d20d97bb",
+            "position": "0",
+            "body": "repetir o VDRL e adotar conduta expectante.",
+            "sanitized_body": "repetir o VDRL e adotar conduta expectante.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:44.331286 +0000 UTC",
+            "updated_at": "2021-04-29 21:31:24.486326 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>DEVE-SE SEMPRE TRATAR A GESTANTE INDEPENDENTE DE QUALQUER TITULAÇÃO DE VDRL</b>. Isso devido o risco de infecção e o benefício do tratamento diminuindo o risco de transmissão vertical. (Zugaib Obstetrícia, 2020).",
+              "sanitized_complete": "DEVE-SE SEMPRE TRATAR A GESTANTE INDEPENDENTE DE QUALQUER TITULAÇÃO DE VDRL. Isso devido o risco de infecção e o benefício do tratamento diminuindo o risco de transmissão vertical. (Zugaib Obstetrícia, 2020).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+              "author_email_id": "4865a7d5bac8e39f72e4818302659906",
+              "author_profile": null,
+              "created_at": "2021-05-22 20:18:26.703449 +0000 UTC",
+              "updated_at": "2022-04-08 17:26:21.402163 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 90
+          },
+          {
+            "id": "dae4bc34-38ad-426f-9eb5-2eb0e8460218",
+            "position": "1",
+            "body": "instituir novo tratamento com outro fármaco.",
+            "sanitized_body": "instituir novo tratamento com outro fármaco.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:44.331286 +0000 UTC",
+            "updated_at": "2021-04-29 21:31:24.531021 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Deve-se instituir o tratamento novamente com a Penicilina G benzatina. A principal hipótese para a reinfecção é provavelmente por não ter vacinado o parceiro sexual e não por falha da penicilina se realizada no esquema e intervalo adequado.<div>A droga de escolha é a Penicilina benzatina, já que seria um tratamento tanto para a gestante quanto para o feto por passar a barreira placentária. É a única droga comprovadamente eficaz, logo todas as gestantes devem ser tratadas com penicilina ou se alérgicas, dessensibilizadas.</div><div>O Center for Disease Control and Prevention NÃO RECONHECE MAIS A ERITROMICINA COMO TRATAMENTO PARA GESTANTES COM SÍFILIS.</div><div><br><div><br></div></div>",
+              "sanitized_complete": "Deve-se instituir o tratamento novamente com a Penicilina G benzatina. A principal hipótese para a reinfecção é provavelmente por não ter vacinado o parceiro sexual e não por falha da penicilina se realizada no esquema e intervalo adequado.A droga de escolha é a Penicilina benzatina, já que seria um tratamento tanto para a gestante quanto para o feto por passar a barreira placentária. É a única droga comprovadamente eficaz, logo todas as gestantes devem ser tratadas com penicilina ou se alérgicas, dessensibilizadas.O Center for Disease Control and Prevention NÃO RECONHECE MAIS A ERITROMICINA COMO TRATAMENTO PARA GESTANTES COM SÍFILIS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+              "author_email_id": "4865a7d5bac8e39f72e4818302659906",
+              "author_profile": null,
+              "created_at": "2021-05-22 20:18:26.704716 +0000 UTC",
+              "updated_at": "2022-04-08 17:26:21.31245 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 28
+          },
+          {
+            "id": "651421f7-1f55-4f5e-a4c9-8493c5d3eb11",
+            "position": "2",
+            "body": "repetir o tratamento com penicilina benzatina.",
+            "sanitized_body": "repetir o tratamento com penicilina benzatina.",
+            "correct": true,
+            "created_at": "2021-04-26 17:50:44.331286 +0000 UTC",
+            "updated_at": "2021-04-29 21:31:24.572883 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Neste caso, houve um aumento de 2 titulações do teste não treponêmico (VDRL), logo deve-se tratar a gestante novamente na dosagem de Penicilina G benzatina 2.400.000 UI intramuscular, semanal por 3 semanas consecutivas.<div><br></div>",
+              "sanitized_complete": "Neste caso, houve um aumento de 2 titulações do teste não treponêmico (VDRL), logo deve-se tratar a gestante novamente na dosagem de Penicilina G benzatina 2.400.000 UI intramuscular, semanal por 3 semanas consecutivas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+              "author_email_id": "4865a7d5bac8e39f72e4818302659906",
+              "author_profile": null,
+              "created_at": "2021-05-22 20:18:26.72088 +0000 UTC",
+              "updated_at": "2022-04-08 17:26:21.311979 +0000 UTC"
+            },
+            "answer_percentage": 93,
+            "answers": 2999
+          },
+          {
+            "id": "4ed388dd-8f5c-4148-bcd5-a27ecaf0a3b9",
+            "position": "3",
+            "body": "encaminhar a paciente ao serviço pré-natal de alto risco.",
+            "sanitized_body": "encaminhar a paciente ao serviço pré-natal de alto risco.",
+            "correct": false,
+            "created_at": "2021-04-26 17:50:44.331286 +0000 UTC",
+            "updated_at": "2021-04-29 21:31:24.612609 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Não é necessário o encaminhamento ao pré-natal de alto risco. Deve-se iniciar imediatamente o tratamento da gestante já que houve aumento de 2 titulações.",
+              "sanitized_complete": "Não é necessário o encaminhamento ao pré-natal de alto risco. Deve-se iniciar imediatamente o tratamento da gestante já que houve aumento de 2 titulações.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+              "author_email_id": "4865a7d5bac8e39f72e4818302659906",
+              "author_profile": null,
+              "created_at": "2021-05-22 20:18:26.72474 +0000 UTC",
+              "updated_at": "2022-04-08 17:26:21.313336 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 115
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma gestante com 18 anos de idade e 32 semanas de gestação realizou tratamento com penicilina benzatina para sífilis no final do primeiro trimestre de gestação. Desde então, não compareceu às consultas de pré-natal porque ficou isolada em casa devido à pandemia da COVID-19. A paciente, então, retorna com resultado de exames mostrando VDRL com aumento de duas diluições em relação ao título anterior. Nesse caso, a conduta apropriada é",
+        "statement_text": "Uma gestante com 18 anos de idade e 32 semanas de gestação realizou tratamento com penicilina benzatina para sífilis no final do primeiro trimestre de gestação. Desde então, não compareceu às consultas de pré-natal porque ficou isolada em casa devido à pandemia da COVID-19. A paciente, então, retorna com resultado de exames mostrando VDRL com aumento de duas diluições em relação ao título anterior. Nesse caso, a conduta apropriada é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 17:50:44.331286 +0000 UTC",
+        "forum_id": "9064ac3e-9c22-4cbf-95fc-c94f98846728",
+        "solution": {
+          "_key": "064dcccf-b4dc-43bb-bc24-4b0b04194a4a",
+          "complete": "Estrategista,  sífilis na gestação devem estar entre seus temas mais estudados em obstetrícia. <div>Vamos então separar o ponto crítico da questão:</div><div>Gestante tratada no primeiro trimestre e não realizou controle de cura. Retorna com AUMENTO DE 2 TITULAÇÕES. Fica claro que estamos diante de uma reinfecção devido ao aumento de 2 titulações. É situação comum de reinfecção casos onde não se orienta o tratamento do parceiro sexual.</div><div>Assim, um ponto importante para ser considerada a gestante  tratada:</div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/995EE076-6882-FFAB-5C3F-A54D5351DEE5/995EE076-6882-FFAB-5C3F-A54D5351DEE5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Quanto ao tratamento da gestante, <b>DEVE-SE SEMPRE TRATAR  INDEPENDENTE DE QUALQUER TITULAÇÃO DE VDRL</b>. Isso devido o risco de infecção e o benefício do tratamento reduzindo o risco de transmissão vertical. (Zugaib Obstetrícia, 2020).</div><div>A droga de escolha é a Penicilina benzatina, já que seria um tratamento tanto para a gestante quanto para o feto por passar a barreira placentária. É a única droga comprovadamente eficaz, logo todas as gestantes devem ser tratadas com penicilina ou se alérgicas, dessensibilizadas.</div><div>O <i>Center for Disease Control and Prevention</i> <b>NÃO RECONHECE MAIS A ERITROMICINA COMO TRATAMENTO PARA GESTANTES COM SÍFILIS.</b></div><div>Assim, a posologia para o tratamento vai depender do estágio:</div><div><b>SÍFILIS PRIMÁRIA, SECUNDÁRIA E LATENTE RECENTE</b>: Penicilina G benzatina 2.400.000 UI intramuscular, em dose única.</div><div><b>SÍFILIS LATENTE TARDIA, INDETERMINADA OU TARDIA</b>: Penicilina G benzatina 2.400.000 UI intramuscular, semanal por 3 semanas consecutivas.</div><div><br><div><br></div></div>",
+          "sanitized_complete": "Estrategista,  sífilis na gestação devem estar entre seus temas mais estudados em obstetrícia. Vamos então separar o ponto crítico da questão:Gestante tratada no primeiro trimestre e não realizou controle de cura. Retorna com AUMENTO DE 2 TITULAÇÕES. Fica claro que estamos diante de uma reinfecção devido ao aumento de 2 titulações. É situação comum de reinfecção casos onde não se orienta o tratamento do parceiro sexual.Assim, um ponto importante para ser considerada a gestante  tratada:Quanto ao tratamento da gestante, DEVE-SE SEMPRE TRATAR  INDEPENDENTE DE QUALQUER TITULAÇÃO DE VDRL. Isso devido o risco de infecção e o benefício do tratamento reduzindo o risco de transmissão vertical. (Zugaib Obstetrícia, 2020).A droga de escolha é a Penicilina benzatina, já que seria um tratamento tanto para a gestante quanto para o feto por passar a barreira placentária. É a única droga comprovadamente eficaz, logo todas as gestantes devem ser tratadas com penicilina ou se alérgicas, dessensibilizadas.O Center for Disease Control and Prevention NÃO RECONHECE MAIS A ERITROMICINA COMO TRATAMENTO PARA GESTANTES COM SÍFILIS.Assim, a posologia para o tratamento vai depender do estágio:SÍFILIS PRIMÁRIA, SECUNDÁRIA E LATENTE RECENTE: Penicilina G benzatina 2.400.000 UI intramuscular, em dose única.SÍFILIS LATENTE TARDIA, INDETERMINADA OU TARDIA: Penicilina G benzatina 2.400.000 UI intramuscular, semanal por 3 semanas consecutivas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+          "author_email_id": "4865a7d5bac8e39f72e4818302659906",
+          "author_profile": {
+            "id": "a8649ae4-15eb-4981-8547-6528a9fb2e4d",
+            "full_name": "Marina Ayabe G. de Moraes",
+            "avatar_url": "https://static.accounts.estrategia.com/37d9085bfe7d2a1b81eb2e98b1f51757",
+            "about_me": "Graduação pela Universidade Estadual Paulista (UNESP - BOTUCATU). Residência médica em ginecologia e Obstetrícia pela Universidade Estadual Paulista (UNESP - BOTUCATU). Mestranda em Ciências da Saúde. Professora de Simulações Realísticas em Ginecologia e Obstetrícia, formulações e execuções de provas no modelo OSCE. Docente da disciplina de Ginecologia e Obstetrícia da Universidade do Oeste Paulista (Presidente PrudenteSP). Coordenadora de disciplina da Universidade do Oeste Paulista - UNOESTE. \nContem sempre comigo!",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.marinamoraes",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-22 20:23:29.457255 +0000 UTC",
+          "updated_at": "2022-04-08 17:26:21.722319 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146537-720.mp4",
+        "unlisted": false,
+        "slug": "gestante-com-18-anos703dcb8880",
+        "public": true
+      },
+      {
+        "id": "4000137275",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "a490f846-c91e-4c15-89a5-e90d92894edf",
+                "name": "Simulado EMED - Multimídia"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "0A580090-5540-3901-B34F-E8D148B131F9"
+              },
+              {
+                "type": "ANSWER",
+                "url": "FDA55BEC-DD76-30A9-9380-E11CE24846BA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "5A5E9881-1738-7B87-38F3-8CE0678AD4F0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-12-21T18:53:03Z",
+            "updated_at": "2021-06-07T13:45:33Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "15dc350387c74893b36a6977f910bd80",
+            "name": "Predição e prevenção",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Predição e prevenção",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "24c068b0707549a9869a233a2a7f73d8",
+            "name": "Artéria uterina",
+            "is_master": false,
+            "master_id": "1a778bff569b418aacfbd15348fbff38",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Dopplervelocimetria (Doppler)[$$]Vasos estudados[$$]Artéria uterina",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6dbca135-f533-4e70-ba99-45350245297f",
+            "position": "0",
+            "body": "Artéria umbilical. Sofrimento fetal",
+            "sanitized_body": "Artéria umbilical. Sofrimento fetal",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:15.581822 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "sanitized_complete": "Incorreta a alternativa A: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.291535 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.39576 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 72
+          },
+          {
+            "id": "68fe58ea-120a-417d-8fb4-c8ef1875b1ca",
+            "position": "1",
+            "body": "Artéria cerebral média. Anemia fetal",
+            "sanitized_body": "Artéria cerebral média. Anemia fetal",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:15.808534 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B: essa Dopplervelocimetria é referente à artéria uterina e não à artéria cerebral média. A Dopplervelocimetria da artéria cerebral media, não da artéria uterina, é utilizada para avaliar anemia fetal nos casos de aloimunização Rh.",
+              "sanitized_complete": "Incorreta a alternativa B: essa Dopplervelocimetria é referente à artéria uterina e não à artéria cerebral média. A Dopplervelocimetria da artéria cerebral media, não da artéria uterina, é utilizada para avaliar anemia fetal nos casos de aloimunização Rh.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.288722 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.395929 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 51
+          },
+          {
+            "id": "3591c8ab-9522-45d7-87aa-05400fece200",
+            "position": "2",
+            "body": "Artéria uterina. Risco aumentado para pré-eclâmpsia",
+            "sanitized_body": "Artéria uterina. Risco aumentado para pré-eclâmpsia",
+            "correct": true,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.197818 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa C: a imagem corresponde à Dopplervelocimetria da artéria uterina, que se encontra com a resistência aumentada, indicando maior risco de pré-eclâmpsia e restrição de crescimento fetal. A dica para saber que essa imagem corresponde à Dopplervelocimetria da artéria uterina alterada é o formato da onda e a presença de incisura protodiastólica.",
+              "sanitized_complete": "Correta a alternativa C: a imagem corresponde à Dopplervelocimetria da artéria uterina, que se encontra com a resistência aumentada, indicando maior risco de pré-eclâmpsia e restrição de crescimento fetal. A dica para saber que essa imagem corresponde à Dopplervelocimetria da artéria uterina alterada é o formato da onda e a presença de incisura protodiastólica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.305971 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.405849 +0000 UTC"
+            },
+            "answer_percentage": 64,
+            "answers": 591
+          },
+          {
+            "id": "3ec40f7d-4d7f-4c2d-b722-5560b49f6b7a",
+            "position": "3",
+            "body": "Artéria umbilical. Risco aumentado para restrição de crescimento fetal.",
+            "sanitized_body": "Artéria umbilical. Risco aumentado para restrição de crescimento fetal.",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.597732 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "sanitized_complete": "Incorreta a alternativa D: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.297232 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.399671 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 165
+          },
+          {
+            "id": "a59ff3e4-363f-4906-b305-77e99caf0a2f",
+            "position": "4",
+            "body": "Artéria uterina. Sofrimento fetal",
+            "sanitized_body": "Artéria uterina. Sofrimento fetal",
+            "correct": false,
+            "created_at": "2020-12-22 00:53:31.781207 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.997419 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: essa Dopplervelocimetria é referente à artéria uterina, mas a alteração da artéria uterina não indica sofrimento fetal no primeiro trimestre e sim o aumento do risco de pré-eclâmpsia e restrição de crescimento.",
+              "sanitized_complete": "Incorreta a alternativa E: essa Dopplervelocimetria é referente à artéria uterina, mas a alteração da artéria uterina não indica sofrimento fetal no primeiro trimestre e sim o aumento do risco de pré-eclâmpsia e restrição de crescimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.285559 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.413235 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 42
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Gestante veio realizar ultrassonografia morfológica do primeiro trimestre e apresentou Dopplervelocimetria conforme a figura abaixo. Sobre que vaso é essa Dopplervelocimetria e o que indica essa alteração?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/41EF4F69-A9FF-7E25-B997-459606E19F16/41EF4F69-A9FF-7E25-B997-459606E19F16-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Gestante veio realizar ultrassonografia morfológica do primeiro trimestre e apresentou Dopplervelocimetria conforme a figura abaixo. Sobre que vaso é essa Dopplervelocimetria e o que indica essa alteração?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+        "forum_id": "a49a2e1a-9849-4176-b33e-fd017cfa16b7",
+        "solution": {
+          "_key": "05c3b5e0-eb02-4527-9fa4-853ecea4f9bf",
+          "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><b><div><b><br></b></div>O que o examinador quer saber: sobre a Dopplervelocimetria da artéria uterina.</b><div><br></div><div>A circulação uteroplacentária é avaliada por meio da Dopplervelocimetria das artérias uterinas e a circulação fetoplacentária pelas artérias umbilicais. A circulação fetal é avaliada principalmente pela Dopplervelocimetria da artéria cerebral média (território arterial) e do ducto venoso (território venoso).</div><div><br></div><div>A Dopplervelocimetria das artérias uterinas está relacionada à invasão trofoblástica. Quando a artéria uterina está anormal (alta resistência) indica que a invasão trofoblástica foi inadequada, aumentando o risco de restrição de crescimento fetal (RCF) e pré-eclâmpsia. Considera-se resultados anormais se o IP estiver acima do percentil 95 da curva de normalidade ou houver incisura protodiastólica em ambas as artérias após 24 semanas de gestação.</div><div><br></div><div>A predição de pré-eclâmpsia vem sendo avaliada por marcadores bioquímicos (PLGF e PAPP-A), biofísicos (artéria uterina) e fatores de risco maternos. Quanto menor for a concentração de PLGF (Placental Growth Factor/fator de crescimento placentário) e de PAPP-A (Proteína Plasmática Associada à Gravidez) e maior for o índice de pulsatilidade da artéria uterina, maior o risco de desenvolver pré-eclâmpsia. No primeiro trimestre, a combinação da <b>concentração de PLGF e PPAP-A do índice de pulsatilidade da artéria uterina e dos parâmetros maternos </b>consegue identificar 93% das pacientes que desenvolverão pré-eclâmpsia e precisarão adiantar o parto antes de 34 semanas, porém a quantidade de falso positivo para essa predição é muito grande, em torno de 79%.</div><div><br></div><div>O aumento da resistência da artéria uterina ou a incisura protodiastólica bilateral após 26 semanas indicam risco elevado de RCF e esses fetos devem ser acompanhados de perto, pois apresentam alto grau de disfunção placentária.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7CFAF2E0-6908-A9B0-499B-DF4C154943A6/7CFAF2E0-6908-A9B0-499B-DF4C154943A6-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: sobre a Dopplervelocimetria da artéria uterina.A circulação uteroplacentária é avaliada por meio da Dopplervelocimetria das artérias uterinas e a circulação fetoplacentária pelas artérias umbilicais. A circulação fetal é avaliada principalmente pela Dopplervelocimetria da artéria cerebral média (território arterial) e do ducto venoso (território venoso).A Dopplervelocimetria das artérias uterinas está relacionada à invasão trofoblástica. Quando a artéria uterina está anormal (alta resistência) indica que a invasão trofoblástica foi inadequada, aumentando o risco de restrição de crescimento fetal (RCF) e pré-eclâmpsia. Considera-se resultados anormais se o IP estiver acima do percentil 95 da curva de normalidade ou houver incisura protodiastólica em ambas as artérias após 24 semanas de gestação.A predição de pré-eclâmpsia vem sendo avaliada por marcadores bioquímicos (PLGF e PAPP-A), biofísicos (artéria uterina) e fatores de risco maternos. Quanto menor for a concentração de PLGF (Placental Growth Factor/fator de crescimento placentário) e de PAPP-A (Proteína Plasmática Associada à Gravidez) e maior for o índice de pulsatilidade da artéria uterina, maior o risco de desenvolver pré-eclâmpsia. No primeiro trimestre, a combinação da concentração de PLGF e PPAP-A do índice de pulsatilidade da artéria uterina e dos parâmetros maternos consegue identificar 93% das pacientes que desenvolverão pré-eclâmpsia e precisarão adiantar o parto antes de 34 semanas, porém a quantidade de falso positivo para essa predição é muito grande, em torno de 79%.O aumento da resistência da artéria uterina ou a incisura protodiastólica bilateral após 26 semanas indicam risco elevado de RCF e esses fetos devem ser acompanhados de perto, pois apresentam alto grau de disfunção placentária.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-22 19:26:43.446657 +0000 UTC",
+          "updated_at": "2020-12-22 19:27:06.498135 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Gestante-veio-realizar27ab13a281",
+        "public": true
+      },
+      {
+        "id": "4000127589",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "51f3e3d079fd4c0ca7c36e31d8f250fd",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "d49795890293443180f405e5427c98f1",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento segunda metade da gestação [$$]Placenta prévia (PP)[$$]Acretismo placentário[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "ad0cda24-80c7-4d73-af9e-c35301b7a0d6",
+            "position": "0",
+            "body": "Coagulopatia; coagulograma.",
+            "sanitized_body": "Coagulopatia; coagulograma.",
+            "correct": false,
+            "created_at": "2020-10-02 16:59:28.150858 +0000 UTC",
+            "updated_at": "2020-10-02 16:59:30.546256 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a”&nbsp;porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que coagulopatia é uma complicação mais relacionada ao descolamento prematuro de placenta e é investigada pela realização de coagulograma.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “a” porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que coagulopatia é uma complicação mais relacionada ao descolamento prematuro de placenta e é investigada pela realização de coagulograma.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:10:20.991626 +0000 UTC",
+              "updated_at": "2020-11-26 17:49:05.879454 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 83
+          },
+          {
+            "id": "a4af4d3f-81bd-4d20-a848-ba1131585bd7",
+            "position": "1",
+            "body": "Prematuridade; amnioscopia.",
+            "sanitized_body": "Prematuridade; amnioscopia.",
+            "correct": false,
+            "created_at": "2020-10-02 16:59:28.150858 +0000 UTC",
+            "updated_at": "2020-10-02 16:59:30.589221 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que prematuridade é complicação associada ao trabalho de parto prematuro e que amnioscopia é um procedimento indicado para avaliar o aspecto do líquido amniótico pela visualização por transparência em um cilindro de acrílico, conforme demonstrado na figura abaixo.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AA28EA66-014E-3411-2241-D54E53855781/AA28EA66-014E-3411-2241-D54E53855781-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que prematuridade é complicação associada ao trabalho de parto prematuro e que amnioscopia é um procedimento indicado para avaliar o aspecto do líquido amniótico pela visualização por transparência em um cilindro de acrílico, conforme demonstrado na figura abaixo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:10:20.985662 +0000 UTC",
+              "updated_at": "2020-11-26 17:49:05.870248 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 89
+          },
+          {
+            "id": "a2f8e0d0-3d63-40cf-9598-04b2eb9f5bd2",
+            "position": "2",
+            "body": "Acretismo placentário; ultrassonografia com Doppler.",
+            "sanitized_body": "Acretismo placentário; ultrassonografia com Doppler.",
+            "correct": true,
+            "created_at": "2020-10-02 16:59:28.150858 +0000 UTC",
+            "updated_at": "2020-10-02 16:59:30.630134 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “c” porque o acretismo placentário é a principal complicação associada ao diagnóstico de placenta prévia e ocorre quando a placenta invade a parede uterina mais profundamente do que o habitual, sendo uma complicação grave da gestação pois interfere no descolamento da placenta após o parto podendo ocasionar hemorragia intensa e até morte materna. Diante do diagnóstico de placenta prévia, deve-se investigar a presença de acretismo pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que o grau de invasão placentária nas camadas uterinas permite que o acretismo placentário seja classificado em placenta acreta, increta e percreta, conforme demonstrado na figura abaixo.<div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F385514D-BDCD-647A-35FB-C6DAD8BF0E66/F385514D-BDCD-647A-35FB-C6DAD8BF0E66-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Correta a alternativa “c” porque o acretismo placentário é a principal complicação associada ao diagnóstico de placenta prévia e ocorre quando a placenta invade a parede uterina mais profundamente do que o habitual, sendo uma complicação grave da gestação pois interfere no descolamento da placenta após o parto podendo ocasionar hemorragia intensa e até morte materna. Diante do diagnóstico de placenta prévia, deve-se investigar a presença de acretismo pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que o grau de invasão placentária nas camadas uterinas permite que o acretismo placentário seja classificado em placenta acreta, increta e percreta, conforme demonstrado na figura abaixo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:10:20.979349 +0000 UTC",
+              "updated_at": "2020-11-26 17:49:05.887117 +0000 UTC"
+            },
+            "answer_percentage": 81,
+            "answers": 1877
+          },
+          {
+            "id": "169b4d01-828b-4563-8913-8a87d08ed94b",
+            "position": "3",
+            "body": "Descolamento prematuro de placenta; ultrassonografia do ventre.",
+            "sanitized_body": "Descolamento prematuro de placenta; ultrassonografia do ventre.",
+            "correct": false,
+            "created_at": "2020-10-02 16:59:28.150858 +0000 UTC",
+            "updated_at": "2020-10-02 16:59:30.672684 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que descolamento prematuro de placenta é complicação associada à hipertensão na gestação e seu diagnóstico é clínico.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “d” porque a principal complicação associada ao diagnóstico de placenta prévia é o acretismo placentário, o qual é investigado pela realização de ultrassonografia com dopplervelocimentria. Vale ressaltar que descolamento prematuro de placenta é complicação associada à hipertensão na gestação e seu diagnóstico é clínico.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:10:20.978895 +0000 UTC",
+              "updated_at": "2020-11-26 17:49:05.882501 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 276
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 34 anos de idade, Gesta 3 Para 2 Cesáreas 2, com idade gestacional de 37 semanas e diagnóstico de placenta prévia centro parcial, chega à maternidade com queixa de sangramento vaginal vermelho vivo, em moderada quantidade. Ao exame   físico, apresenta pressão arterial = 110 x 70 mmHg, frequência cardíaca = 80 bpm, batimentos cardiofetais = 132 bpm, dinâmica uterina de 2 contrações de 30 segundos em 10 minutos de obsevação. Nesse caso, a principal complicação e o exame indicado são:",
+        "statement_text": "Uma mulher com 34 anos de idade, Gesta 3 Para 2 Cesáreas 2, com idade gestacional de 37 semanas e diagnóstico de placenta prévia centro parcial, chega à maternidade com queixa de sangramento vaginal vermelho vivo, em moderada quantidade. Ao exame   físico, apresenta pressão arterial = 110 x 70 mmHg, frequência cardíaca = 80 bpm, batimentos cardiofetais = 132 bpm, dinâmica uterina de 2 contrações de 30 segundos em 10 minutos de obsevação. Nesse caso, a principal complicação e o exame indicado são:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-10-02 16:59:28.150858 +0000 UTC",
+        "forum_id": "fc720640-cb65-4371-99fc-4dfd650b36ae",
+        "solution": {
+          "_key": "11346251-3f82-418a-8f50-e709843ae618",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você conhece as complicações relacionadas ao diagnóstico de placenta prévia.<div><br><div>Doc, placenta prévia se caracteriza por recobrir total ou parcialmente o orifício interno do colo do útero ou ainda estar a menos de dois centímetros de distância dele, após a 28ª semana de gestação. Observe na figura abaixo a representação das variações de inserção placentária.</div><div><br></div></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3D55F11F-6360-DEE1-00D6-6510A9C3DDB5/3D55F11F-6360-DEE1-00D6-6510A9C3DDB5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: Se você conhece as complicações relacionadas ao diagnóstico de placenta prévia.Doc, placenta prévia se caracteriza por recobrir total ou parcialmente o orifício interno do colo do útero ou ainda estar a menos de dois centímetros de distância dele, após a 28ª semana de gestação. Observe na figura abaixo a representação das variações de inserção placentária.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 12:10:21.142047 +0000 UTC",
+          "updated_at": "2020-11-26 17:49:05.914651 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127589-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-34-anos85463d3557",
+        "public": true
+      },
+      {
+        "id": "4000049455",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ac7000610e9645fbb98ddabcfb1727fe",
+            "name": "Medicamentoso",
+            "is_master": false,
+            "master_id": "909998ea597b4460bbfbe353efe183a7",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Diabetes na gestação (DMG)[$$]Conduta[$$]Controle glicêmico[$$]Medicamentoso",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "4dd5a0eb-e934-4b03-9a1d-b9797be93d29",
+            "position": "0",
+            "body": "dieta para diabetes e reavaliação clínico-laboratorial em 4 semanas.",
+            "sanitized_body": "dieta para diabetes e reavaliação clínico-laboratorial em 4 semanas.",
+            "correct": false,
+            "created_at": "2020-09-12 14:15:59.235761 +0000 UTC",
+            "updated_at": "2020-11-11 02:39:27.613826 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A, porque, embora esteja correta a orientação de dieta adequada e atividade física, desde que não haja contraindicação obstétrica, diante do diagnóstico de diabetes na gestação, a reavaliação deve ser precoce, e não em quatro semanas, a fim de avaliar o controle glicêmico e ajustar a terapêutica se necessário.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa A, porque, embora esteja correta a orientação de dieta adequada e atividade física, desde que não haja contraindicação obstétrica, diante do diagnóstico de diabetes na gestação, a reavaliação deve ser precoce, e não em quatro semanas, a fim de avaliar o controle glicêmico e ajustar a terapêutica se necessário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:13:34.131285 +0000 UTC",
+              "updated_at": "2020-11-25 21:26:23.653451 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 212
+          },
+          {
+            "id": "3fd5c13e-2023-4238-a58a-fdaad1351f18",
+            "position": "1",
+            "body": "administração  de metformina.",
+            "sanitized_body": "administração  de metformina.",
+            "correct": false,
+            "created_at": "2020-09-12 14:15:59.235761 +0000 UTC",
+            "updated_at": "2020-11-11 02:39:27.891662 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. Em gestantes com diabetes prévio, é frequente a necessidade de associação de insulina, e não de metformina, à terapêutica para controle eficiente da glicemia. Vale ressaltar que uso de metformina, embora não seja teratogênico, deve ser evitado durante a gravidez, porque atravessa a barreira placentária e ainda não se conhece sua segurança a longo prazo para adultos expostos a ela intra-útero.&nbsp;<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa B, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. Em gestantes com diabetes prévio, é frequente a necessidade de associação de insulina, e não de metformina, à terapêutica para controle eficiente da glicemia. Vale ressaltar que uso de metformina, embora não seja teratogênico, deve ser evitado durante a gravidez, porque atravessa a barreira placentária e ainda não se conhece sua segurança a longo prazo para adultos expostos a ela intra-útero. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:13:34.124716 +0000 UTC",
+              "updated_at": "2020-11-25 21:26:23.986477 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 166
+          },
+          {
+            "id": "96508b16-ced2-48c3-add5-25c786dc666d",
+            "position": "2",
+            "body": "administração  de sulfoniureia.",
+            "sanitized_body": "administração  de sulfoniureia.",
+            "correct": false,
+            "created_at": "2020-10-02 18:35:35.50515 +0000 UTC",
+            "updated_at": "2020-11-11 02:39:28.002695 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. Em gestantes com diabetes prévio, é frequente a necessidade de associação de insulina, e não de sulfonilureia, à terapêutica para controle eficiente da glicemia. Vale ressaltar que uso de sulfonilureia deve ser evitado durante a gravidez, pois atravessa a barreira placentária e pode interferir no metabolismo fetal.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa C, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. Em gestantes com diabetes prévio, é frequente a necessidade de associação de insulina, e não de sulfonilureia, à terapêutica para controle eficiente da glicemia. Vale ressaltar que uso de sulfonilureia deve ser evitado durante a gravidez, pois atravessa a barreira placentária e pode interferir no metabolismo fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:13:34.130432 +0000 UTC",
+              "updated_at": "2020-11-25 21:26:23.65404 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 12
+          },
+          {
+            "id": "5b827c69-d28a-4983-b56e-9f793f9b91b6",
+            "position": "3",
+            "body": "insulinoterapia.",
+            "sanitized_body": "insulinoterapia.",
+            "correct": true,
+            "created_at": "2020-10-02 18:35:35.536321 +0000 UTC",
+            "updated_at": "2020-11-11 02:39:28.103117 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa D, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. A insulinoterapia é indicada quando não se alcança adequado controle glicêmico com essas medidas, sendo frequente a necessidade de associação de insulina à terapêutica para controle eficiente da glicemia em gestantes com diabetes prévio à gestação.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa D, porque, diante do diagnóstico de diabetes na gestação, o tratamento inicial recomendado é dieta adequada e atividade física, desde que não haja contraindicação obstétrica. A insulinoterapia é indicada quando não se alcança adequado controle glicêmico com essas medidas, sendo frequente a necessidade de associação de insulina à terapêutica para controle eficiente da glicemia em gestantes com diabetes prévio à gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:13:34.125122 +0000 UTC",
+              "updated_at": "2020-11-25 21:26:23.660905 +0000 UTC"
+            },
+            "answer_percentage": 83,
+            "answers": 1928
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma gestante com 37 anos de idade, com gravidez de 8 semanas confirmada por ultrassonografia realizada há uma semana, comparece à Unidade Básica de Saúde para iniciar acompanhamento pré-natal. Como antecedentes familiares, cita o pai e a mãe como portadores de diabetes melito, ambos em tratamento com hipoglicemiantes orais. A paciente apresenta resultados de glicemia de jejum de 180 mg/dL em duas dosagens realizadas em dias diferentes. Nesse caso clínico, a conduta indicada é",
+        "statement_text": "Uma gestante com 37 anos de idade, com gravidez de 8 semanas confirmada por ultrassonografia realizada há uma semana, comparece à Unidade Básica de Saúde para iniciar acompanhamento pré-natal. Como antecedentes familiares, cita o pai e a mãe como portadores de diabetes melito, ambos em tratamento com hipoglicemiantes orais. A paciente apresenta resultados de glicemia de jejum de 180 mg/dL em duas dosagens realizadas em dias diferentes. Nesse caso clínico, a conduta indicada é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "626146ad14e7af2c191e4e998f369ebe",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 14:15:59.235761 +0000 UTC",
+        "forum_id": "88cac7af-3045-4644-8191-b3cb94864de9",
+        "solution": {
+          "_key": "e919f3c7-0585-4791-b6e8-7fce6b90d3f9",
+          "complete": "<div><b>GABARITO: ALTERNATIVA D</b></div><div><b><br></b></div><div><b>O que o examinador quer saber?</b>&nbsp;Se você conhece as particularidades de diagnóstico e tratamento do diabetes na gestação.</div><div><br></div><div>&nbsp;Doc, para responder a esta questão, é importante que você perceba que se trata de uma gestante com diabetes prévio à gestação, uma vez que apresentou glicemia de jejum maior do que 126 mg/dL. Caso tenha alguma dúvida sobre o diagnóstico de diabetes na gestação, observe o fluxograma abaixo e aproveite para fixar esses conceitos. Lembre-se de que basta um único valor alterado para fazer o diagnóstico.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/DAB3221B-D9CE-8969-7D1C-772CE9B7AEFA/DAB3221B-D9CE-8969-7D1C-772CE9B7AEFA-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DO que o examinador quer saber? Se você conhece as particularidades de diagnóstico e tratamento do diabetes na gestação. Doc, para responder a esta questão, é importante que você perceba que se trata de uma gestante com diabetes prévio à gestação, uma vez que apresentou glicemia de jejum maior do que 126 mg/dL. Caso tenha alguma dúvida sobre o diagnóstico de diabetes na gestação, observe o fluxograma abaixo e aproveite para fixar esses conceitos. Lembre-se de que basta um único valor alterado para fazer o diagnóstico.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 12:13:34.305849 +0000 UTC",
+          "updated_at": "2020-11-25 21:26:24.063012 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000049455-720.mp4",
+        "unlisted": false,
+        "slug": "gestante-com-37-anos7407806b55",
+        "public": true
+      },
+      {
+        "id": "4000126798",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2016,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-04T16:46:08Z",
+            "updated_at": "2020-09-24T17:24:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "75d628700a7d487bb328194f8a56c16c",
+            "name": "Tratamento ",
+            "is_master": false,
+            "master_id": "0e74e32692264a5ab35f542d35039191",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Doenças infecciosas na gestação – HIV, sífilis, hepatites, herpes[$$]Sifilis na gestação[$$]Tratamento ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f30c2280aab846ca91cc29ec831d041a",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "0e74e32692264a5ab35f542d35039191",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Doenças infecciosas na gestação – HIV, sífilis, hepatites, herpes[$$]Sifilis na gestação[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a5854d0d-ef45-474b-92f1-abc0e6979728",
+            "position": "0",
+            "body": "Solicitar VDRL em 1 mês e proceder a novo tratamento se houver elevação dos títulos do VDRL.",
+            "sanitized_body": "Solicitar VDRL em 1 mês e proceder a novo tratamento se houver elevação dos títulos do VDRL.",
+            "correct": false,
+            "created_at": "2020-09-25 00:04:09.711836 +0000 UTC",
+            "updated_at": "2021-03-22 18:19:08.925908 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “A”: o tratamento da sífilis na gestação deve ser iniciado imediatamente diante de um único teste positivo para diminuir os riscos para o feto.",
+              "sanitized_complete": "Incorreta a alternativa “A”: o tratamento da sífilis na gestação deve ser iniciado imediatamente diante de um único teste positivo para diminuir os riscos para o feto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:54:01.602 +0000 UTC",
+              "updated_at": "2023-03-25 02:13:51.685548 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 92
+          },
+          {
+            "id": "08b92b62-69f4-4efe-91b7-856ba25153e4",
+            "position": "1",
+            "body": "Prescrever penicilina benzatina 2,4 milhões UI, por via intramuscular, em dose única, para a paciente e seu parceiro.",
+            "sanitized_body": "Prescrever penicilina benzatina 2,4 milhões UI, por via intramuscular, em dose única, para a paciente e seu parceiro.",
+            "correct": false,
+            "created_at": "2020-09-25 00:04:09.711836 +0000 UTC",
+            "updated_at": "2021-03-22 18:19:09.043166 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “B”: a penicilina benzatina 2,4 milhões UI em dose única deve ser prescrita quando a sífilis é recente ( sífilis primária, secundária ou latente < 1 ano), no caso em questão a paciente não tem sintomas de sífilis primária e nem secundária e a última vez que tratou sífilis foi a dois anos, então a sífilis deve ser considerada tardia ( sífilis latente de duração indeterminada).",
+              "sanitized_complete": "Incorreta a alternativa “B”: a penicilina benzatina 2,4 milhões UI em dose única deve ser prescrita quando a sífilis é recente ( sífilis primária, secundária ou latente &lt; 1 ano), no caso em questão a paciente não tem sintomas de sífilis primária e nem secundária e a última vez que tratou sífilis foi a dois anos, então a sífilis deve ser considerada tardia ( sífilis latente de duração indeterminada).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:54:01.576685 +0000 UTC",
+              "updated_at": "2023-03-25 02:13:51.692591 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 219
+          },
+          {
+            "id": "883a44a1-c3cc-43b7-9a90-3a0ff9dc6ccd",
+            "position": "2",
+            "body": "Prescrever penicilina benzatina 2,4 milhões UI, por via intramuscular, uma dose semanal por 3 semanas (total de 7,2 milhões de UI), para a paciente e seu parceiro.",
+            "sanitized_body": "Prescrever penicilina benzatina 2,4 milhões UI, por via intramuscular, uma dose semanal por 3 semanas (total de 7,2 milhões de UI), para a paciente e seu parceiro.",
+            "correct": true,
+            "created_at": "2020-09-25 00:04:09.711836 +0000 UTC",
+            "updated_at": "2021-03-22 18:19:09.177977 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “C”: como a gestante tratou sífilis adequadamente há 2 anos, estamos diante de um caso de sífilis na gestação por reativação ou reinfecção, sendo assim, a gestante deve ser tratada imediatamente com penicilina benzatina 2,4 milhões UI",
+              "sanitized_complete": "Correta a alternativa “C”: como a gestante tratou sífilis adequadamente há 2 anos, estamos diante de um caso de sífilis na gestação por reativação ou reinfecção, sendo assim, a gestante deve ser tratada imediatamente com penicilina benzatina 2,4 milhões UI",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:54:01.621399 +0000 UTC",
+              "updated_at": "2023-03-25 02:13:51.702982 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 1704
+          },
+          {
+            "id": "5b65804a-ff2f-44cf-8976-622fb941c907",
+            "position": "3",
+            "body": "Prescrever penicilina G cristalina aquosa 3 milhões UI por via endovenosa, a cada 4 horas por 14 dias, para a paciente, e penicilina benzatina 2,4 milhões UI, por via intramuscular, em dose única, para o parceiro.",
+            "sanitized_body": "Prescrever penicilina G cristalina aquosa 3 milhões UI por via endovenosa, a cada 4 horas por 14 dias, para a paciente, e penicilina benzatina 2,4 milhões UI, por via intramuscular, em dose única, para o parceiro.",
+            "correct": false,
+            "created_at": "2020-09-25 00:04:09.711836 +0000 UTC",
+            "updated_at": "2021-03-22 18:19:09.28449 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “D”: o tratamento de sífilis na gestação é com penicilina benzatina e não cristalina. A penicilina cristalina é utilizada para o tratamento de neurossífilis.",
+              "sanitized_complete": "Incorreta a alternativa “D”: o tratamento de sífilis na gestação é com penicilina benzatina e não cristalina. A penicilina cristalina é utilizada para o tratamento de neurossífilis.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 21:54:01.601087 +0000 UTC",
+              "updated_at": "2023-03-25 02:13:51.707538 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 19
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 25 anos de idade, no curso de 20 semanas de gestação, é atendida  em consulta pré-natal e apresenta resutado de VDRL de 1:16. Diz ter realizado tratamento adequado para sífilis há dois anos e que, desde então, não apresentou lesões na região genital ou erupções cutâneas. Diante dessa situação, a conduta indicada é",
+        "statement_text": "Uma mulher com 25 anos de idade, no curso de 20 semanas de gestação, é atendida  em consulta pré-natal e apresenta resutado de VDRL de 1:16. Diz ter realizado tratamento adequado para sífilis há dois anos e que, desde então, não apresentou lesões na região genital ou erupções cutâneas. Diante dessa situação, a conduta indicada é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "157c6cf1cfd92a7aec36065f9b03ff0b",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 00:04:09.711836 +0000 UTC",
+        "forum_id": "1aa61618-6d34-4be8-8d8d-c9ffddd24d31",
+        "solution": {
+          "_key": "a02e214d-349f-49d1-962e-6e54779bd4ac",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div><b>O que o examinador quer saber: sobre o tratamento da sífilis na gestação.</b></div><div><b><br></b></div><div><b>Querido aluno, o tratamento da sífilis é um tópico muito cobrado nas provas de residência, então fique atento!</b></div><div><b><br></b></div><div>O tratamento de escolha para sífilis na gestação é a benzilpenicilina benzatina intramuscular, pois esta é a única droga com eficácia comprovada na gestação e que passa a barreira placentária,  prevenindo a sífilis congênita. Além disso, não existe evidência de resistência à penicilina pelo Treponema Pallidum no Brasil e no mundo.</div><div><br></div><div>Na gestação recomenda-se tratamento imediato e adequado para o estágio da doença após apenas um teste para sífilis positivo (treponêmico ou não-treponêmico). Não se deve esperar a confirmação com outros testes a fim de não atrasar o início do tratamento e, assim, não aumentar o risco de transmissão vertical.</div><div><br></div><div>Contudo, o fato de se realizar o tratamento com apenas um teste positivo para sífilis não exclui a necessidade de realização de um segundo teste (melhor análise diagnóstica), de monitoramento laboratorial (controle de cura) e de tratamento dos parceiros (as) sexuais (interrupção da cadeia de transmissão).</div><div><br></div><div>Vale destacar que a maioria das gestantes é diagnosticada durantes os exames de rotina de pré-natal, por essa razão, grande parte delas se encontra no estágio de sífilis latente de duração ignorada (sífilis tardia) e, por isso, deve receber o tratamento total de 7,2 milhões UI, dividido em 3 doses.</div><div><br></div><div>Caso a gestante seja comprovadamente alérgica à penicilina, ela deve ser dessensibilizada com penicilina oral em ambiente hospitalar e, em seguida, tratada com penicilina benzatina na dose adequada.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1D0E29A4-0352-CC83-77E6-00BD0F651802/1D0E29A4-0352-CC83-77E6-00BD0F651802-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Comentários:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: sobre o tratamento da sífilis na gestação.Querido aluno, o tratamento da sífilis é um tópico muito cobrado nas provas de residência, então fique atento!O tratamento de escolha para sífilis na gestação é a benzilpenicilina benzatina intramuscular, pois esta é a única droga com eficácia comprovada na gestação e que passa a barreira placentária,  prevenindo a sífilis congênita. Além disso, não existe evidência de resistência à penicilina pelo Treponema Pallidum no Brasil e no mundo.Na gestação recomenda-se tratamento imediato e adequado para o estágio da doença após apenas um teste para sífilis positivo (treponêmico ou não-treponêmico). Não se deve esperar a confirmação com outros testes a fim de não atrasar o início do tratamento e, assim, não aumentar o risco de transmissão vertical.Contudo, o fato de se realizar o tratamento com apenas um teste positivo para sífilis não exclui a necessidade de realização de um segundo teste (melhor análise diagnóstica), de monitoramento laboratorial (controle de cura) e de tratamento dos parceiros (as) sexuais (interrupção da cadeia de transmissão).Vale destacar que a maioria das gestantes é diagnosticada durantes os exames de rotina de pré-natal, por essa razão, grande parte delas se encontra no estágio de sífilis latente de duração ignorada (sífilis tardia) e, por isso, deve receber o tratamento total de 7,2 milhões UI, dividido em 3 doses.Caso a gestante seja comprovadamente alérgica à penicilina, ela deve ser dessensibilizada com penicilina oral em ambiente hospitalar e, em seguida, tratada com penicilina benzatina na dose adequada.Comentários:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-24 21:54:01.794682 +0000 UTC",
+          "updated_at": "2023-03-25 02:13:51.672122 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126798-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-25-anos5766b16691",
+        "public": true
+      },
+      {
+        "id": "4000126664",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "84d22caeff82429cbd02b927d44e3957",
+            "name": "Diagnóstico ",
+            "is_master": false,
+            "master_id": "4fb14c9b9e214837b9e9cff000958e32",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Diabetes na gestação (DMG)[$$]Diagnóstico ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "92f99881be8143b482fdd1900999f9e7",
+            "name": "Glicemia (GJ)",
+            "is_master": false,
+            "master_id": "41e9f360015c43a59c71d27403a1668c",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais[$$]Glicemia (GJ)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8b585cbc-58e8-4694-ba7e-949f21ef862e",
+            "position": "0",
+            "body": "Solicitar teste oral de tolerância à glicose imediatamente.",
+            "sanitized_body": "Solicitar teste oral de tolerância à glicose imediatamente.",
+            "correct": true,
+            "created_at": "2020-09-24 20:32:42.660058 +0000 UTC",
+            "updated_at": "2023-02-23 16:48:12.378986 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a”&nbsp;porque diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual e solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação para novo rastreio de diabetes gestacional. Doc, essa era a alternativa correta segundo o protocolo do Ministério da Saúde de 2015, porém esteja atento sobre a mudança de conduta para não se confundir. De acordo com a nova norma, essa questão não tem mais alternativa correta.",
+              "sanitized_complete": "Incorreta a alternativa “a” porque diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual e solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação para novo rastreio de diabetes gestacional. Doc, essa era a alternativa correta segundo o protocolo do Ministério da Saúde de 2015, porém esteja atento sobre a mudança de conduta para não se confundir. De acordo com a nova norma, essa questão não tem mais alternativa correta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:57:13.780148 +0000 UTC",
+              "updated_at": "2020-12-04 20:03:12.24605 +0000 UTC"
+            },
+            "answer_percentage": 31,
+            "answers": 709
+          },
+          {
+            "id": "7b31619a-b6de-45b7-b432-e89fbd36bd5a",
+            "position": "1",
+            "body": "Orientar dieta e solicitar glicemia de jejum entre 24 e 28 semanas de idade gestacional.",
+            "sanitized_body": "Orientar dieta e solicitar glicemia de jejum entre 24 e 28 semanas de idade gestacional.",
+            "correct": false,
+            "created_at": "2020-09-24 20:32:42.660058 +0000 UTC",
+            "updated_at": "2023-02-23 16:48:13.918615 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” porque embora esteja correto que se deve solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação para novo rastreio de diabetes gestacional, diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual com orientação de dieta realizada habitualmente a toda gestante e não específica para tratamento de diabetes gestacional.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” porque embora esteja correto que se deve solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação para novo rastreio de diabetes gestacional, diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual com orientação de dieta realizada habitualmente a toda gestante e não específica para tratamento de diabetes gestacional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:57:13.792836 +0000 UTC",
+              "updated_at": "2020-12-04 20:03:12.24333 +0000 UTC"
+            },
+            "answer_percentage": 49,
+            "answers": 1128
+          },
+          {
+            "id": "eef0f08d-0dac-4d59-9eb1-fb0bf0e1ac14",
+            "position": "2",
+            "body": "Orientar dieta e solicitar teste oral de tolerância à glicose, caso apresente aumento de peso superior a 500g/semana.",
+            "sanitized_body": "Orientar dieta e solicitar teste oral de tolerância à glicose, caso apresente aumento de peso superior a 500g/semana.",
+            "correct": false,
+            "created_at": "2020-09-24 20:32:42.660058 +0000 UTC",
+            "updated_at": "2023-02-23 16:48:14.295906 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “c” porque diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual e solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação, independentemente do ganho de peso, para novo rastreio de diabetes gestacional. Vale ressaltar que a orientação de dieta deve ser realizada habitualmente como a toda gestante e não específica para tratamento de diabetes gestacional.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “c” porque diante da glicemia de jejum normal de 82 mg/dL no início da gestação, deve-se realizar o seguimento pré-natal de forma habitual e solicitar o teste oral de tolerância à glicose 75g (TOTG75g) entre a 24ª e 28ª semana de gestação, independentemente do ganho de peso, para novo rastreio de diabetes gestacional. Vale ressaltar que a orientação de dieta deve ser realizada habitualmente como a toda gestante e não específica para tratamento de diabetes gestacional.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:57:13.786057 +0000 UTC",
+              "updated_at": "2020-12-04 20:03:12.249864 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 138
+          },
+          {
+            "id": "128a1392-1f4a-46a3-8daa-b0ba79e6c271",
+            "position": "3",
+            "body": "Tranquilizar a gestante, pois o resultado de glicemia de jejum &lt; 85mg/dL e a ausência de diabetes na família descartam a possibilidade de diabetes gestacional.",
+            "sanitized_body": "Tranquilizar a gestante, pois o resultado de glicemia de jejum &lt; 85mg/dL e a ausência de diabetes na família descartam a possibilidade de diabetes gestacional.",
+            "correct": false,
+            "created_at": "2020-09-24 20:32:42.660058 +0000 UTC",
+            "updated_at": "2023-02-23 16:48:14.70507 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” porque embora esteja correto que a gestante deva ser tranquilizada sobre a glicemia de jejum de 82 mg/dL no início da gestação ser normal, novo rastreio de diabetes gestacional é realizado entre a 24ª e 28ª semana de gestação com o teste oral de tolerância à glicose 75g pois há risco de desenvolver diabetes gestacional com o decorrer da gestação.<div>Gabarito: alternativa A. (de acordo com os protocolos utilizados em 2015, porém atualmente essa questão não tem resposta correta)</div>",
+              "sanitized_complete": "Incorreta a alternativa “d” porque embora esteja correto que a gestante deva ser tranquilizada sobre a glicemia de jejum de 82 mg/dL no início da gestação ser normal, novo rastreio de diabetes gestacional é realizado entre a 24ª e 28ª semana de gestação com o teste oral de tolerância à glicose 75g pois há risco de desenvolver diabetes gestacional com o decorrer da gestação.Gabarito: alternativa A. (de acordo com os protocolos utilizados em 2015, porém atualmente essa questão não tem resposta correta)",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 10:57:13.788063 +0000 UTC",
+              "updated_at": "2020-12-04 20:03:12.245447 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 311
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma gestante de 35 anos de idade, Gesta 3 Para 2, com idade gestacional de 12 semanas, comparece a Unidade Básica de Saúde para primeira consulta médica da gestação atual, trazendo os exames de rotina solicitados pela enfermeira. Nega intercorrências nas gestações anteriores, terminadas em partos vaginais a termo, sendo o último muito trabalhoso, pois o recém-nascido pesava 4.450g. Nega antecedentes familiares de hipertensão, diabetes ou outras doenças crônicas. Ao exame físico: bom estado geral, corada, hidratada, afebril, eupneica, altura = 160 cm, peso = 75 kg, PA = 110 x 60 mmHg. O exame obstétrico revela útero de tamanho compatível com 12 semanas.  Em relação aos exames laboratorias, a glicemia de jejum resultou 82 mg/dL (valor de referência: abaixo de 85 mg/dL). Diante desse quadro, qual a conduta correta em relação ao risco para desenvolvimento de diabetes gestacional?",
+        "statement_text": "Uma gestante de 35 anos de idade, Gesta 3 Para 2, com idade gestacional de 12 semanas, comparece a Unidade Básica de Saúde para primeira consulta médica da gestação atual, trazendo os exames de rotina solicitados pela enfermeira. Nega intercorrências nas gestações anteriores, terminadas em partos vaginais a termo, sendo o último muito trabalhoso, pois o recém-nascido pesava 4.450g. Nega antecedentes familiares de hipertensão, diabetes ou outras doenças crônicas. Ao exame físico: bom estado geral, corada, hidratada, afebril, eupneica, altura = 160 cm, peso = 75 kg, PA = 110 x 60 mmHg. O exame obstétrico revela útero de tamanho compatível com 12 semanas.  Em relação aos exames laboratorias, a glicemia de jejum resultou 82 mg/dL (valor de referência: abaixo de 85 mg/dL). Diante desse quadro, qual a conduta correta em relação ao risco para desenvolvimento de diabetes gestacional?",
+        "labels": [
+          "OUTDATED",
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 20:32:42.660058 +0000 UTC",
+        "forum_id": "d6e3926e-a23f-43e1-930a-5284e6b85087",
+        "solution": {
+          "_key": "24151d94-f0fd-4eb5-93a8-f926b6e94e4f",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você sabe fazer diagnóstico de diabetes na gestação.<div><br></div><div>&nbsp;Doc, em 2017, a Federação Brasileira de Ginecologia e Obstetrícia, a Sociedade Brasileira de Diabetes e o Ministério da Saúde, apresentaram novo consenso para o rastreio da hiperglicemia na gestação. Aproveite para fixar esse conceito. Os valores relacionados ao diagnóstico do diabetes na gestação estão apresentados abaixo, ressaltando-se que basta um único valor alterado para fazer o diagnóstico.</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/144292DA-59BE-3406-E74C-2F1359443EA6/144292DA-59BE-3406-E74C-2F1359443EA6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador quer saber: Se você sabe fazer diagnóstico de diabetes na gestação. Doc, em 2017, a Federação Brasileira de Ginecologia e Obstetrícia, a Sociedade Brasileira de Diabetes e o Ministério da Saúde, apresentaram novo consenso para o rastreio da hiperglicemia na gestação. Aproveite para fixar esse conceito. Os valores relacionados ao diagnóstico do diabetes na gestação estão apresentados abaixo, ressaltando-se que basta um único valor alterado para fazer o diagnóstico.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 10:57:13.96487 +0000 UTC",
+          "updated_at": "2020-12-04 20:03:12.301194 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126664-720.mp4",
+        "unlisted": false,
+        "slug": "gestante-35-anos-idade1407d7dfa0e",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

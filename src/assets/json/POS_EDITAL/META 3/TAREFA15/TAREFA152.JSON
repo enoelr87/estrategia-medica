@@ -1,0 +1,3120 @@
+{
+    "data": [
+      {
+        "id": "4000147679",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e2a95ff7eec148f48eec62b3ffe61b72",
+            "name": "Tabaco",
+            "is_master": false,
+            "master_id": "f5c36caf55cd4a44aa5770aa76af30a9",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Tabaco",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fb1eb5c43fef49e88132e8864ca1e466",
+            "name": "Dependência de Tabaco",
+            "is_master": false,
+            "master_id": "e2a95ff7eec148f48eec62b3ffe61b72",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Tabaco[$$]Dependência de Tabaco",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1760da5e-27dc-490f-8040-7dfe9c299b20",
+            "position": "0",
+            "body": "Bupropiona.",
+            "sanitized_body": "Bupropiona.",
+            "correct": false,
+            "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:03.167589 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, pois apesar de ser uma droga de primeira linha, a bupropiona é proscrita em paciente com histórico de convulsões, mesmo que sejam convulsões febris na infância. Também é contraindicada em pacientes com história de traumatismo craniano e pacientes com anorexia nervosa.",
+              "sanitized_complete": "Incorreta, pois apesar de ser uma droga de primeira linha, a bupropiona é proscrita em paciente com histórico de convulsões, mesmo que sejam convulsões febris na infância. Também é contraindicada em pacientes com história de traumatismo craniano e pacientes com anorexia nervosa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:38:54.034983 +0000 UTC",
+              "updated_at": "2023-03-13 14:16:09.577107 +0000 UTC"
+            },
+            "answer_percentage": 26,
+            "answers": 99
+          },
+          {
+            "id": "c829a414-e5ce-4d66-8707-223ae5acb7b5",
+            "position": "1",
+            "body": "Terapia de reposição de nicotina",
+            "sanitized_body": "Terapia de reposição de nicotina",
+            "correct": true,
+            "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:03.212654 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta. Nicotina é uma boa opção para essa paciente, pois trata-se de uma droga de primeira linha disponível no SUS. Pode ser administrada em adesivo ou gomas. Suas principais contraindicações são infarto agudo do miocárdio recente (últimas duas semanas) e úlcera gástrica.",
+              "sanitized_complete": "Correta. Nicotina é uma boa opção para essa paciente, pois trata-se de uma droga de primeira linha disponível no SUS. Pode ser administrada em adesivo ou gomas. Suas principais contraindicações são infarto agudo do miocárdio recente (últimas duas semanas) e úlcera gástrica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:38:54.04123 +0000 UTC",
+              "updated_at": "2023-03-13 14:16:09.580124 +0000 UTC"
+            },
+            "answer_percentage": 53,
+            "answers": 198
+          },
+          {
+            "id": "60b02bf3-6d18-4cd7-ac84-f9153449ac8e",
+            "position": "2",
+            "body": "Clonidina.",
+            "sanitized_body": "Clonidina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:03.273292 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, pois a clonidina é uma medicação de segunda linha, com efeito agonista noradrenérgico, que age especialmente no locus ceruleus.",
+              "sanitized_complete": "Incorreta, pois a clonidina é uma medicação de segunda linha, com efeito agonista noradrenérgico, que age especialmente no locus ceruleus.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:38:54.095038 +0000 UTC",
+              "updated_at": "2023-03-13 14:16:09.582744 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 16
+          },
+          {
+            "id": "24329980-6dc2-42b0-9cbb-70839af28f93",
+            "position": "3",
+            "body": "Vareniclina.",
+            "sanitized_body": "Vareniclina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:03.37942 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, pois a vareniclina, medicamento de primeira linha, ainda não é disponibilizada pelo SUS, por isso não é adequada para essa paciente.",
+              "sanitized_complete": "Incorreta, pois a vareniclina, medicamento de primeira linha, ainda não é disponibilizada pelo SUS, por isso não é adequada para essa paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:38:54.094609 +0000 UTC",
+              "updated_at": "2023-03-13 14:16:09.586553 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 31
+          },
+          {
+            "id": "58c58b4b-f900-446d-a416-69b5ddd2edac",
+            "position": "4",
+            "body": "Nortriptilina.",
+            "sanitized_body": "Nortriptilina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:03.425955 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, pois a nortriptilina, um antidepressivo tricíclico, pode ser utilizada como medicação de segunda linha no tratamento contra o tabagismo, deve ser preferencialmente evitada em pacientes cardiopatas.",
+              "sanitized_complete": "Incorreta, pois a nortriptilina, um antidepressivo tricíclico, pode ser utilizada como medicação de segunda linha no tratamento contra o tabagismo, deve ser preferencialmente evitada em pacientes cardiopatas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:38:54.047704 +0000 UTC",
+              "updated_at": "2023-03-13 14:16:09.589308 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 32
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Depois de meses de insistência, você convence sua paciente Francisca Valentina, de 49 anos e fumante há 22 anos, a abandonar o cigarro definitivamente. Apesar das abordagens regulares não farmacológicas, como abordagem cognitivo-comportamental, Dona Chica não consegue vencer o vício. Para isso, você escolhe iniciar um psicofármaco para ajudá-la nessa guerra contra o tabagismo. Tirando 2 episódios de convulsão na sua tenra infância, no seu registro médico consta apenas um infarto agudo do miocárdio, há 1 ano, e um tratamento irregular para pressão arterial com captopril 50mg/dia. Dona Chica tem apenas uma condição: “quer ser tratada com uma medicação do SUS”.<div><br></div><div>Diante desse quadro, assinale a melhor proposta terapêutica para abandono do tabagismo.</div>",
+        "statement_text": "Depois de meses de insistência, você convence sua paciente Francisca Valentina, de 49 anos e fumante há 22 anos, a abandonar o cigarro definitivamente. Apesar das abordagens regulares não farmacológicas, como abordagem cognitivo-comportamental, Dona Chica não consegue vencer o vício. Para isso, você escolhe iniciar um psicofármaco para ajudá-la nessa guerra contra o tabagismo. Tirando 2 episódios de convulsão na sua tenra infância, no seu registro médico consta apenas um infarto agudo do miocárdio, há 1 ano, e um tratamento irregular para pressão arterial com captopril 50mg/dia. Dona Chica tem apenas uma condição: “quer ser tratada com uma medicação do SUS”.Diante desse quadro, assinale a melhor proposta terapêutica para abandono do tabagismo.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:57:12.821968 +0000 UTC",
+        "forum_id": "dadbdd43-a6e3-4b06-8a86-88218fc03c46",
+        "solution": {
+          "_key": "b9c5ed84-6ba8-4110-b2a3-064c08990b3f",
+          "complete": "<div><b>Estrategista, </b>observe abaixo um pequeno resumo sobre as principais drogas envolvidas no tratamento para cessação do tabagismo:</div><div><br></div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FA8E06D5-AAB4-0DF4-ABF0-32B5737EC636/FA8E06D5-AAB4-0DF4-ABF0-32B5737EC636-400.png\"><!-- END:IMAGE_TO_REPLACE --><div><br></div><div>Vamos avaliar as alternativas!</div>",
+          "sanitized_complete": "Estrategista, observe abaixo um pequeno resumo sobre as principais drogas envolvidas no tratamento para cessação do tabagismo:Vamos avaliar as alternativas!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:38:54.765341 +0000 UTC",
+          "updated_at": "2023-03-13 14:16:09.573991 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147679-720.mp4",
+        "unlisted": false,
+        "slug": "Depois-meses1120c1f3b8d",
+        "public": true
+      },
+      {
+        "id": "4000147678",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "d123645653e54eeb8dbcd3e7adebe245",
+            "name": "Psiquiatria",
+            "is_master": false,
+            "master_id": "d70292f6151e4124929371e897d42e89",
+            "path": "Outros [$$]Psiquiatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f5c36caf55cd4a44aa5770aa76af30a9",
+            "name": "Dependência Química",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f7de4a3e-9145-45b6-8d61-87f973b9c37c",
+            "position": "0",
+            "body": "Contemplativa.",
+            "sanitized_body": "Contemplativa.",
+            "correct": true,
+            "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:25.982083 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a Contemplação é a etapa em que o paciente assume que tem um problema, mas não adota medidas eficientes para o combate do seu vício e ainda sente prazer com o uso. Ou seja, é a etapa da “ambivalência”, e muitos pacientes podem considerar mudanças no futuro, como a paciente em questão.",
+              "sanitized_complete": "a Contemplação é a etapa em que o paciente assume que tem um problema, mas não adota medidas eficientes para o combate do seu vício e ainda sente prazer com o uso. Ou seja, é a etapa da “ambivalência”, e muitos pacientes podem considerar mudanças no futuro, como a paciente em questão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:35:48.695238 +0000 UTC",
+              "updated_at": "2021-05-23 17:35:53.309298 +0000 UTC"
+            },
+            "answer_percentage": 47,
+            "answers": 172
+          },
+          {
+            "id": "19fc2a4b-7476-4c22-a38a-1f513603e907",
+            "position": "1",
+            "body": "Ação.",
+            "sanitized_body": "Ação.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:26.021977 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a paciente não iniciou nenhuma ação concreta para abandonar o tabagismo",
+              "sanitized_complete": "a paciente não iniciou nenhuma ação concreta para abandonar o tabagismo",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:35:48.651301 +0000 UTC",
+              "updated_at": "2021-05-23 17:35:53.333314 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 7
+          },
+          {
+            "id": "1ab3db34-020f-4669-bdb9-86c1870b4bfb",
+            "position": "2",
+            "body": "Pré-contemplação.",
+            "sanitized_body": "Pré-contemplação.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:26.062722 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a pré-contemplação é especialmente a fase de uma verdadeira negação, em que o paciente sequer considera que haja um problema e não demonstra nenhuma perspectiva de mudança.",
+              "sanitized_complete": "a pré-contemplação é especialmente a fase de uma verdadeira negação, em que o paciente sequer considera que haja um problema e não demonstra nenhuma perspectiva de mudança.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:35:48.635095 +0000 UTC",
+              "updated_at": "2021-05-23 17:35:53.325524 +0000 UTC"
+            },
+            "answer_percentage": 43,
+            "answers": 158
+          },
+          {
+            "id": "416c63ee-d372-4509-a6be-45a06f39b580",
+            "position": "3",
+            "body": "Preparação.",
+            "sanitized_body": "Preparação.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:26.106749 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "durante a preparação, o paciente elabora um planejamento de sua ação e está motivado, o que ainda não aparece nesse caso.",
+              "sanitized_complete": "durante a preparação, o paciente elabora um planejamento de sua ação e está motivado, o que ainda não aparece nesse caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:35:48.685702 +0000 UTC",
+              "updated_at": "2021-05-23 17:35:53.347123 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 29
+          },
+          {
+            "id": "4dbe0744-8afb-43c8-96bc-fd19ac0a7a71",
+            "position": "4",
+            "body": "Recaída.",
+            "sanitized_body": "Recaída.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+            "updated_at": "2022-02-07 20:44:26.157388 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a fase da recaída pode ocorrer após o paciente alcançar seu objetivo e abandonar inicialmente a droga.",
+              "sanitized_complete": "a fase da recaída pode ocorrer após o paciente alcançar seu objetivo e abandonar inicialmente a droga.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:35:48.696443 +0000 UTC",
+              "updated_at": "2021-05-23 17:35:53.337635 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 2
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Você aborda, durante uma consulta de rotina, o tema do tabagismo com sua paciente Francisca Valentina, de 49 anos, fumante há 22 anos. Dona Chica, como é carinhosamente chamada pelos amigos, não parece se preocupar, em um primeiro momento, com seus apelos para que ela pare de fumar, e contra-argumenta que sua avó fumou palheiro a vida toda e morreu aos 109 anos de idade. Apesar disso, você insiste no assunto e pega-a no “ponto fraco”, pois diz que, com o abandono do tabagismo, Dona Chica conseguirá passear com sua netinha de 2 anos por muito mais tempo sem se cansar, o que a deixa com uma pequena motivação de abandonar o cigarro no futuro.<div><br></div><div>De acordo com o caso, qual é o grau de motivação, de acordo com o modelo de Prochaska e DiClemente, em que se encontra a paciente?</div>",
+        "statement_text": "Você aborda, durante uma consulta de rotina, o tema do tabagismo com sua paciente Francisca Valentina, de 49 anos, fumante há 22 anos. Dona Chica, como é carinhosamente chamada pelos amigos, não parece se preocupar, em um primeiro momento, com seus apelos para que ela pare de fumar, e contra-argumenta que sua avó fumou palheiro a vida toda e morreu aos 109 anos de idade. Apesar disso, você insiste no assunto e pega-a no “ponto fraco”, pois diz que, com o abandono do tabagismo, Dona Chica conseguirá passear com sua netinha de 2 anos por muito mais tempo sem se cansar, o que a deixa com uma pequena motivação de abandonar o cigarro no futuro.De acordo com o caso, qual é o grau de motivação, de acordo com o modelo de Prochaska e DiClemente, em que se encontra a paciente?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:55:57.258753 +0000 UTC",
+        "forum_id": "4e3cd34e-0f09-4d04-ac00-3e7951f21ce9",
+        "solution": {
+          "_key": "0997121c-926a-4d59-bf2d-c0901f4b7357",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Muito cobrado em provas, conhecido como “estágios motivacionais de Prochaska e DiClemente”, o sistema mencionado é um modelo teórico comportamental para avaliar e classificar o grau de crítica e de motivação do paciente dependente químico, independentemente da droga utilizada, em realizar seu tratamento para alcançar a abstinência, e passa por alguns níveis de classificação:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/09BA5B2E-77F4-809E-43A5-CF4BC54DA17F/09BA5B2E-77F4-809E-43A5-CF4BC54DA17F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AMuito cobrado em provas, conhecido como “estágios motivacionais de Prochaska e DiClemente”, o sistema mencionado é um modelo teórico comportamental para avaliar e classificar o grau de crítica e de motivação do paciente dependente químico, independentemente da droga utilizada, em realizar seu tratamento para alcançar a abstinência, e passa por alguns níveis de classificação:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:35:48.926113 +0000 UTC",
+          "updated_at": "2021-05-23 17:35:53.639199 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147678-720.mp4",
+        "unlisted": false,
+        "slug": "Voce-aborda-durante14021090a24",
+        "public": true
+      },
+      {
+        "id": "4000147677",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "b148ef37d92e435d8bedd791d64a4688",
+            "name": "Intoxicação por Estimulantes",
+            "is_master": false,
+            "master_id": "bd1109dfacf947d6b4eef4b848aa6ac8",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Estimulantes[$$]Intoxicação por Estimulantes",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7e7e9b82-046b-4880-b7a2-790b04c2499e",
+            "position": "0",
+            "body": "Midazolam IM.",
+            "sanitized_body": "Midazolam IM.",
+            "correct": true,
+            "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:02.570305 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O uso de um benzodiazepínico é adequado para a abordagem inicial desse paciente. Lembre-se de que, sempre que possível, a via de acesso preferencial será a via oral. Nesse caso, o uso da via intramuscular justifica-se pela intensidade dos sintomas ou pela falta de colaboração do paciente.",
+              "sanitized_complete": "O uso de um benzodiazepínico é adequado para a abordagem inicial desse paciente. Lembre-se de que, sempre que possível, a via de acesso preferencial será a via oral. Nesse caso, o uso da via intramuscular justifica-se pela intensidade dos sintomas ou pela falta de colaboração do paciente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:33:58.288212 +0000 UTC",
+              "updated_at": "2021-05-23 17:34:00.160185 +0000 UTC"
+            },
+            "answer_percentage": 64,
+            "answers": 276
+          },
+          {
+            "id": "9ee36021-df1d-4c2a-b0b2-30c279499af4",
+            "position": "1",
+            "body": "Fluoxetina VO.",
+            "sanitized_body": "Fluoxetina VO.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:02.631429 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "fluoxetina, um ISRS, não está indicada no tratamento da intoxicação por crack.",
+              "sanitized_complete": "fluoxetina, um ISRS, não está indicada no tratamento da intoxicação por crack.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:33:58.352226 +0000 UTC",
+              "updated_at": "2021-05-23 17:34:00.185116 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          },
+          {
+            "id": "40bd0f23-15ed-42b9-bc55-641e85554840",
+            "position": "2",
+            "body": "Haloperidol IM.",
+            "sanitized_body": "Haloperidol IM.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:02.692717 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "haloperidol, um antipsicótico típico de alta potência, pode ser administrado nesses casos se, após a abordagem com benzodiazepínicos, o paciente se mantiver agitado e agressivo ou, ainda, apresentar sintomas psicóticos. Lembre-se de que o uso de neurolépticos nessa situação aumenta a chance de episódios convulsivos.",
+              "sanitized_complete": "haloperidol, um antipsicótico típico de alta potência, pode ser administrado nesses casos se, após a abordagem com benzodiazepínicos, o paciente se mantiver agitado e agressivo ou, ainda, apresentar sintomas psicóticos. Lembre-se de que o uso de neurolépticos nessa situação aumenta a chance de episódios convulsivos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:33:58.329023 +0000 UTC",
+              "updated_at": "2021-05-23 17:34:00.23186 +0000 UTC"
+            },
+            "answer_percentage": 29,
+            "answers": 126
+          },
+          {
+            "id": "24395d16-97f2-41c1-9184-ddf87efa4a3e",
+            "position": "3",
+            "body": "Clorpromazina IM.",
+            "sanitized_body": "Clorpromazina IM.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:02.743517 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "lorpromazina e levomepromazina são antipsicóticos típicos, com propriedades sedativas, e devem ser evitados, por reduzirem o limiar convulsivo nesses pacientes. Além disso, são drogas que podem aumentar o risco de arritmias cardíacas, quando administradas pela via parenteral.",
+              "sanitized_complete": "lorpromazina e levomepromazina são antipsicóticos típicos, com propriedades sedativas, e devem ser evitados, por reduzirem o limiar convulsivo nesses pacientes. Além disso, são drogas que podem aumentar o risco de arritmias cardíacas, quando administradas pela via parenteral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:33:58.354439 +0000 UTC",
+              "updated_at": "2021-05-23 17:34:00.214331 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 18
+          },
+          {
+            "id": "761ce3fb-d0da-419c-802f-a285165d47b0",
+            "position": "4",
+            "body": "Risperidona VO.",
+            "sanitized_body": "Risperidona VO.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:02.787186 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "risperidona pode, eventualmente, ser administrada pela via oral para pacientes com sintomas psicóticos. Contudo, nessas situações, poucos serão os pacientes que colaboram com o tratamento e aceitam a medicação via oral, o que restringe as possibilidades de uso dessa droga, que não dispõe (no Brasil) de apresentação parenteral.",
+              "sanitized_complete": "risperidona pode, eventualmente, ser administrada pela via oral para pacientes com sintomas psicóticos. Contudo, nessas situações, poucos serão os pacientes que colaboram com o tratamento e aceitam a medicação via oral, o que restringe as possibilidades de uso dessa droga, que não dispõe (no Brasil) de apresentação parenteral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:33:58.328125 +0000 UTC",
+              "updated_at": "2021-05-23 17:34:00.333576 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente de 29 anos, moradora de rua, usuária de crack, é encaminhada pelos bombeiros pela 4ª vez nas últimas 3 semanas à emergência médica. O quadro apresentado por ela é o “mesmo de sempre”, já que é uma velha conhecida da equipe, que atua em uma unidade próxima à cracolândia: agitação psicomotora, ansiedade, irritabilidade e taquilalia. Também são notados achados como taquicardia, hipertensão arterial, taquidispneia, sudorese e manchas amareladas nas pontas dos dedos.<div><br></div><div>Diante desse quadro, assinale a medicação mais indicada para a abordagem inicial de uma intoxicação aguda por crack:</div>",
+        "statement_text": "Uma paciente de 29 anos, moradora de rua, usuária de crack, é encaminhada pelos bombeiros pela 4ª vez nas últimas 3 semanas à emergência médica. O quadro apresentado por ela é o “mesmo de sempre”, já que é uma velha conhecida da equipe, que atua em uma unidade próxima à cracolândia: agitação psicomotora, ansiedade, irritabilidade e taquilalia. Também são notados achados como taquicardia, hipertensão arterial, taquidispneia, sudorese e manchas amareladas nas pontas dos dedos.Diante desse quadro, assinale a medicação mais indicada para a abordagem inicial de uma intoxicação aguda por crack:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:55:23.824323 +0000 UTC",
+        "forum_id": "18b94a34-75e3-4de8-bb41-eeae2b598a9b",
+        "solution": {
+          "_key": "8c497856-eaa4-42c7-8a9d-ec7f5b0c46ab",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>A intoxicação por drogas estimulantes, como <b>cocaína </b>e <b>crack</b>, pode desencadear a síndrome adrenérgica, com sintomas como agitação, taquicardia, hipertensão e midríase. Como lidar com essa situação? As drogas de escolha na intoxicação por cocaína ou crack são os benzodiazepínicos. Deve-se evitar uso rotineiro de antipsicóticos, devido ao risco de baixar o limiar convulsivo.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AA intoxicação por drogas estimulantes, como cocaína e crack, pode desencadear a síndrome adrenérgica, com sintomas como agitação, taquicardia, hipertensão e midríase. Como lidar com essa situação? As drogas de escolha na intoxicação por cocaína ou crack são os benzodiazepínicos. Deve-se evitar uso rotineiro de antipsicóticos, devido ao risco de baixar o limiar convulsivo.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:33:59.365443 +0000 UTC",
+          "updated_at": "2021-05-23 17:34:00.499012 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147677-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-29-anos9196350c2e",
+        "public": true
+      },
+      {
+        "id": "4000147676",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "e2a95ff7eec148f48eec62b3ffe61b72",
+            "name": "Tabaco",
+            "is_master": false,
+            "master_id": "f5c36caf55cd4a44aa5770aa76af30a9",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Tabaco",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fb1eb5c43fef49e88132e8864ca1e466",
+            "name": "Dependência de Tabaco",
+            "is_master": false,
+            "master_id": "e2a95ff7eec148f48eec62b3ffe61b72",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Tabaco[$$]Dependência de Tabaco",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a62bcab2-a810-4da3-9288-2b2e021fd394",
+            "position": "0",
+            "body": "Clonazepam, Bupropriona, Amitriptilina.",
+            "sanitized_body": "Clonazepam, Bupropriona, Amitriptilina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:31.657458 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "clonazepam, um benzodiazepínico, e amitriptilina, um antidepressivo tricíclico, não são drogas normalmente indicadas para o tratamento do tabagismo.",
+              "sanitized_complete": "clonazepam, um benzodiazepínico, e amitriptilina, um antidepressivo tricíclico, não são drogas normalmente indicadas para o tratamento do tabagismo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:32:52.805728 +0000 UTC",
+              "updated_at": "2021-05-23 17:32:55.019628 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 9
+          },
+          {
+            "id": "40fe0970-8f86-4aef-81cd-749f71daf0f1",
+            "position": "1",
+            "body": "Clonidina, Buspirona, Naltrexona.",
+            "sanitized_body": "Clonidina, Buspirona, Naltrexona.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:31.702997 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "buspirona, um ansiolítico serotoninérgico, e naltrexona, um antagonista opioide, não são drogas normalmente indicadas para o tratamento do tabagismo",
+              "sanitized_complete": "buspirona, um ansiolítico serotoninérgico, e naltrexona, um antagonista opioide, não são drogas normalmente indicadas para o tratamento do tabagismo",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:32:52.867272 +0000 UTC",
+              "updated_at": "2021-05-23 17:32:54.988653 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          },
+          {
+            "id": "947dcde2-d1c1-4cdd-af98-ee9d6ec4523a",
+            "position": "2",
+            "body": "Bupropiona, Nicotina, Vareniclina.",
+            "sanitized_body": "Bupropiona, Nicotina, Vareniclina.",
+            "correct": true,
+            "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:31.816822 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Apesar disso, a vareniclina não está regularmente disponível no SUS, portanto, sempre que possível, daremos preferência à bupropiona ou TRN.",
+              "sanitized_complete": "Apesar disso, a vareniclina não está regularmente disponível no SUS, portanto, sempre que possível, daremos preferência à bupropiona ou TRN.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:32:52.866308 +0000 UTC",
+              "updated_at": "2021-05-23 17:32:55.018381 +0000 UTC"
+            },
+            "answer_percentage": 97,
+            "answers": 352
+          },
+          {
+            "id": "21165929-6fbd-407c-a31d-4cab0f0be48e",
+            "position": "3",
+            "body": "Sertralina, Vareniclina, Nortriptilina.",
+            "sanitized_body": "Sertralina, Vareniclina, Nortriptilina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:31.96063 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "sertralina, um ISRS, não é indicada para o tratamento do tabagismo.",
+              "sanitized_complete": "sertralina, um ISRS, não é indicada para o tratamento do tabagismo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:32:52.810685 +0000 UTC",
+              "updated_at": "2021-05-23 17:32:54.983465 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          },
+          {
+            "id": "1cf0599d-a821-4b40-a6f5-6b7db995b488",
+            "position": "4",
+            "body": "Venlafaxina, Nortriptilina, Clonazepam.",
+            "sanitized_body": "Venlafaxina, Nortriptilina, Clonazepam.",
+            "correct": false,
+            "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:32.008971 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "venlafaxina, um antidepressivo dual, e clonazepam, uma benzodiazepina, não estão indicados para esse fim.",
+              "sanitized_complete": "venlafaxina, um antidepressivo dual, e clonazepam, uma benzodiazepina, não estão indicados para esse fim.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:32:52.797435 +0000 UTC",
+              "updated_at": "2021-05-23 17:32:54.99578 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Que medicamentos são considerados drogas de primeira linha no tratamento psicofarmacológico da cessação do tabagismo?",
+        "statement_text": "Que medicamentos são considerados drogas de primeira linha no tratamento psicofarmacológico da cessação do tabagismo?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:55:04.923824 +0000 UTC",
+        "solution": {
+          "_key": "f40b8957-2e23-4875-84c8-0e5f3090c505",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>São fármacos de primeira linha para o tratamento do tabagismo a <b>Bupropiona</b>, um antidepressivo atípico, <b>Vareniclina</b>, um fármaco com ações agonistas nicotínicas e a terapia de reposição de nicotina (TRN), como os adesivos, gomas e pastilhas. Medicamentos como <b>Nortriptilina</b>, um tricíclico, e <b>Clonidina</b>, um anti-hipertensivo de ação adrenérgica, são considerados como segunda linha.</div><div><br></div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CSão fármacos de primeira linha para o tratamento do tabagismo a Bupropiona, um antidepressivo atípico, Vareniclina, um fármaco com ações agonistas nicotínicas e a terapia de reposição de nicotina (TRN), como os adesivos, gomas e pastilhas. Medicamentos como Nortriptilina, um tricíclico, e Clonidina, um anti-hipertensivo de ação adrenérgica, são considerados como segunda linha.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:32:53.682556 +0000 UTC",
+          "updated_at": "2021-05-23 17:32:55.413154 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147676-720.mp4",
+        "unlisted": false,
+        "slug": "Que-medicamentos-sa1544597588",
+        "public": true
+      },
+      {
+        "id": "4000147675",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "536e5377b8af48b28f17510d24aace41",
+            "name": "Álcool",
+            "is_master": false,
+            "master_id": "f5c36caf55cd4a44aa5770aa76af30a9",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química[$$]Álcool",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "f5c36caf55cd4a44aa5770aa76af30a9",
+            "name": "Dependência Química",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Dependência Química",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2cd5b900-e078-41d1-af31-5c59053988ea",
+            "position": "0",
+            "body": "Intoxicação alcoólica. Administrar tiamina EV, diazepam IM e internar o paciente.",
+            "sanitized_body": "Intoxicação alcoólica. Administrar tiamina EV, diazepam IM e internar o paciente.",
+            "correct": false,
+            "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+            "updated_at": "2021-07-25 19:23:37.492935 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o paciente apresenta um quadro de abstinência. Um episódio de intoxicação apresentaria sintomas como confusão mental, dificuldades de marcha e ataxia, nistagmo, sedação, “fala arrastada”. Em casos graves alucinações, rebaixamento do sensório e depressão cardiorrespiratória podem ocorrer. Cabe ressaltar que não se deve administrar medicações sedativas durante um episódio de intoxicação alcoólica, que deve ser conduzido com reposição de tiamina e abordagem ambiental",
+              "sanitized_complete": "o paciente apresenta um quadro de abstinência. Um episódio de intoxicação apresentaria sintomas como confusão mental, dificuldades de marcha e ataxia, nistagmo, sedação, “fala arrastada”. Em casos graves alucinações, rebaixamento do sensório e depressão cardiorrespiratória podem ocorrer. Cabe ressaltar que não se deve administrar medicações sedativas durante um episódio de intoxicação alcoólica, que deve ser conduzido com reposição de tiamina e abordagem ambiental",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:31:22.938448 +0000 UTC",
+              "updated_at": "2021-05-23 17:31:24.434946 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 15
+          },
+          {
+            "id": "bebf0c39-8af0-4b5b-98f9-9827f8cb45f6",
+            "position": "1",
+            "body": "Crise de Pânico. Administrar clonazepam VO e encaminhar o paciente para o CAPS.",
+            "sanitized_body": "Crise de Pânico. Administrar clonazepam VO e encaminhar o paciente para o CAPS.",
+            "correct": false,
+            "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+            "updated_at": "2021-07-25 19:23:37.591545 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "apesar de haver ansiedade manifestando-se de maneira intensa, o conjunto de sinais e sintomas é compatível com o diagnóstico de síndrome de abstinência alcoólica. Além disso, há uma clara relação temporal entre o abandono do álcool no dia anterior e o início dos sintomas.",
+              "sanitized_complete": "apesar de haver ansiedade manifestando-se de maneira intensa, o conjunto de sinais e sintomas é compatível com o diagnóstico de síndrome de abstinência alcoólica. Além disso, há uma clara relação temporal entre o abandono do álcool no dia anterior e o início dos sintomas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:31:22.945765 +0000 UTC",
+              "updated_at": "2021-05-23 17:31:24.441864 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "95743dac-d7c2-4283-b59a-3fa8b10094dd",
+            "position": "2",
+            "body": "Abstinência alcoólica. Administrar tiamina EV, diazepam VO e encaminhar o paciente para o ambulatório de saúde mental.",
+            "sanitized_body": "Abstinência alcoólica. Administrar tiamina EV, diazepam VO e encaminhar o paciente para o ambulatório de saúde mental.",
+            "correct": false,
+            "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+            "updated_at": "2021-07-25 19:23:37.684079 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o diagnóstico proposto está correto. A tiamina deve ser administrada para evitar-se o surgimento da síndrome de Wernicke-Korsakoff, preferencialmente pela via parenteral, garantindo uma absorção adequada. As drogas de escolha no tratamento da abstinência alcoólica são os benzodiazepínicos, mas, nesse caso, o paciente encontra-se com sintomas intensos, que incluem náuseas e vômitos, o que torna preferível o uso endovenoso. Por fim, o paciente tem critérios que indicam uma internação hospitalar.",
+              "sanitized_complete": "o diagnóstico proposto está correto. A tiamina deve ser administrada para evitar-se o surgimento da síndrome de Wernicke-Korsakoff, preferencialmente pela via parenteral, garantindo uma absorção adequada. As drogas de escolha no tratamento da abstinência alcoólica são os benzodiazepínicos, mas, nesse caso, o paciente encontra-se com sintomas intensos, que incluem náuseas e vômitos, o que torna preferível o uso endovenoso. Por fim, o paciente tem critérios que indicam uma internação hospitalar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:31:22.912896 +0000 UTC",
+              "updated_at": "2021-05-23 17:31:24.436582 +0000 UTC"
+            },
+            "answer_percentage": 24,
+            "answers": 122
+          },
+          {
+            "id": "257e10a8-6e64-4412-a210-711cd2cf4405",
+            "position": "3",
+            "body": "Abstinência alcoólica. Administrar cianocobalamina EV, lorazepam VO e internar o paciente.",
+            "sanitized_body": "Abstinência alcoólica. Administrar cianocobalamina EV, lorazepam VO e internar o paciente.",
+            "correct": false,
+            "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+            "updated_at": "2021-07-25 19:23:37.763083 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o diagnóstico está correto. A vitamina a ser reposta imediatamente é a tiamina (B1), e não a cianocobalamina (B12). Além disso, nesse caso, o uso de benzodiazepínico endovenoso é preferível.",
+              "sanitized_complete": "o diagnóstico está correto. A vitamina a ser reposta imediatamente é a tiamina (B1), e não a cianocobalamina (B12). Além disso, nesse caso, o uso de benzodiazepínico endovenoso é preferível.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:31:22.937481 +0000 UTC",
+              "updated_at": "2021-05-23 17:31:24.457304 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 13
+          },
+          {
+            "id": "f54852fe-146b-4722-a991-fcbe581411c5",
+            "position": "4",
+            "body": "Abstinência alcoólica. Administrar tiamina EV, diazepam EV e internar o paciente.",
+            "sanitized_body": "Abstinência alcoólica. Administrar tiamina EV, diazepam EV e internar o paciente.",
+            "correct": true,
+            "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+            "updated_at": "2021-07-25 19:23:37.842511 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O manejo imediato do caso envolve o uso de tiamina, benzodiazepínico e internação psiquiátrica. Cabe lembrar que o uso de drogas sedativas, especialmente pela via endovenosa, só deve ocorrer em locais onde haja uma retaguarda adequada e uma equipe treinada.",
+              "sanitized_complete": "O manejo imediato do caso envolve o uso de tiamina, benzodiazepínico e internação psiquiátrica. Cabe lembrar que o uso de drogas sedativas, especialmente pela via endovenosa, só deve ocorrer em locais onde haja uma retaguarda adequada e uma equipe treinada.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:31:22.938653 +0000 UTC",
+              "updated_at": "2021-05-23 17:31:24.458192 +0000 UTC"
+            },
+            "answer_percentage": 70,
+            "answers": 359
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Alfredo Afonso, 55 anos, pescador, casado, sem filhos, “encostado” pelo INSS devido a diversos problemas de saúde, chega por meios próprios no seu plantão às 6 horas da manhã com tremores intensos em membros superiores, “suadeira”, náuseas, vômitos, diarreia, dor abdominal e ansiedade intensa. Relata que prometeu no dia anterior à Cleide, sua esposa, abandonar definitivamente a cachaça em nome do amor. Apesar disso, a esposa não acredita mais nas incontáveis promessas do marido, que frequentemente fica agressivo e “confuso” durante as tentativas de abstinência.<div><br></div><div>Em seu histórico médico constam doenças como dependência alcoólica (bebe 1,5 litro de “branquinha” diariamente há 28 anos), artrite reumatoide, varizes esofagianas, hipertensão atrial, fibrilação arterial e um hematoma subdural de origem traumática, depois de uma queda de cabeça, após ser acertado na cabeça por um velho amigo durante uma discussão acalorada sobre futebol no bar da esquina de sua casa em uma manhã de inverno.</div><div><br></div><div>Diante desse quadro, assinale a alternativa que contém a melhor hipótese diagnóstica e conduta terapêutica para o caso.</div>",
+        "statement_text": "Alfredo Afonso, 55 anos, pescador, casado, sem filhos, “encostado” pelo INSS devido a diversos problemas de saúde, chega por meios próprios no seu plantão às 6 horas da manhã com tremores intensos em membros superiores, “suadeira”, náuseas, vômitos, diarreia, dor abdominal e ansiedade intensa. Relata que prometeu no dia anterior à Cleide, sua esposa, abandonar definitivamente a cachaça em nome do amor. Apesar disso, a esposa não acredita mais nas incontáveis promessas do marido, que frequentemente fica agressivo e “confuso” durante as tentativas de abstinência.Em seu histórico médico constam doenças como dependência alcoólica (bebe 1,5 litro de “branquinha” diariamente há 28 anos), artrite reumatoide, varizes esofagianas, hipertensão atrial, fibrilação arterial e um hematoma subdural de origem traumática, depois de uma queda de cabeça, após ser acertado na cabeça por um velho amigo durante uma discussão acalorada sobre futebol no bar da esquina de sua casa em uma manhã de inverno.Diante desse quadro, assinale a alternativa que contém a melhor hipótese diagnóstica e conduta terapêutica para o caso.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:54:49.112817 +0000 UTC",
+        "solution": {
+          "_key": "4cd5cc23-68e4-4590-9cc4-b270f8b43bd9",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><b><br></b></div><div>O quadro da <b>síndrome de abstinência alcoólica (SAA)</b> pode iniciar-se entre 6 e 24 horas depois do último consumo de álcool ou redução da quantidade de álcool ingerida. A SAA é representada por sintomas como tremores, que são geralmente as primeiras manifestações clínicas, ansiedade, irritabilidade, alterações de atenção, náuseas, febre, taquipneia, sudorese, piloereção, taquicardia e alterações de pressão arterial. O tratamento é baseado no uso de benzodiazepínicos e reposição de tiamina.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/FA8C9A6B-211D-97B3-FD21-DFD31D5314B4/FA8C9A6B-211D-97B3-FD21-DFD31D5314B4-400.png\"><br></div><div><br></div><div>O nível I. refere-se a pacientes com quadros leves/moderados, sendo o tratamento preferencialmente feito em nível ambulatorial e/ou domiciliar. O nível II. é a classificação dos quadros mais graves, sendo o tratamento preferencialmente em hospitais.</div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+          "sanitized_complete": "GABARITO: ALTERNATIVA EO quadro da síndrome de abstinência alcoólica (SAA) pode iniciar-se entre 6 e 24 horas depois do último consumo de álcool ou redução da quantidade de álcool ingerida. A SAA é representada por sintomas como tremores, que são geralmente as primeiras manifestações clínicas, ansiedade, irritabilidade, alterações de atenção, náuseas, febre, taquipneia, sudorese, piloereção, taquicardia e alterações de pressão arterial. O tratamento é baseado no uso de benzodiazepínicos e reposição de tiamina.O nível I. refere-se a pacientes com quadros leves/moderados, sendo o tratamento preferencialmente feito em nível ambulatorial e/ou domiciliar. O nível II. é a classificação dos quadros mais graves, sendo o tratamento preferencialmente em hospitais.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:31:23.516183 +0000 UTC",
+          "updated_at": "2021-05-23 17:31:24.899054 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147675-720.mp4",
+        "unlisted": false,
+        "slug": "Alfredo-Afonso-55-anos167d11290b8",
+        "public": true
+      },
+      {
+        "id": "4000147674",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "name": "Transtornos do Humor",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "7a9a66d2-2aeb-46d3-9c96-724bf9d52a27",
+            "position": "0",
+            "body": "Distimia – Fluoxetina 20 mg/manhã + amitriptilina 50mg/noite.",
+            "sanitized_body": "Distimia – Fluoxetina 20 mg/manhã + amitriptilina 50mg/noite.",
+            "correct": false,
+            "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:59.351854 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "distimia ou transtorno depressivo persistente trata-se de um quadro crônico de sintomas depressivos leves, que duram mais de 2 anos consecutivos. O tratamento deve ser realizado com um antidepressivo associado com psicoterapia.",
+              "sanitized_complete": "distimia ou transtorno depressivo persistente trata-se de um quadro crônico de sintomas depressivos leves, que duram mais de 2 anos consecutivos. O tratamento deve ser realizado com um antidepressivo associado com psicoterapia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:29:31.684756 +0000 UTC",
+              "updated_at": "2021-05-23 17:29:34.30049 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 16
+          },
+          {
+            "id": "437ad38f-f644-4459-94b6-a9ba0bab2042",
+            "position": "1",
+            "body": "Transtorno Depressivo – Sertralina 100mg/manhã + clonazepam 0,5mg/noite.",
+            "sanitized_body": "Transtorno Depressivo – Sertralina 100mg/manhã + clonazepam 0,5mg/noite.",
+            "correct": false,
+            "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:59.392946 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a melhor descrição diagnóstica é depressão recorrente, especialmente porque o prognóstico e o tratamento mudam com esse diagnóstico. Sempre que possível, deve-se evitar o uso de benzodiazepinas em pacientes idosos. Por isso, não é a melhor alternativa.",
+              "sanitized_complete": "a melhor descrição diagnóstica é depressão recorrente, especialmente porque o prognóstico e o tratamento mudam com esse diagnóstico. Sempre que possível, deve-se evitar o uso de benzodiazepinas em pacientes idosos. Por isso, não é a melhor alternativa.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:29:31.685557 +0000 UTC",
+              "updated_at": "2021-05-23 17:29:34.268324 +0000 UTC"
+            },
+            "answer_percentage": 35,
+            "answers": 116
+          },
+          {
+            "id": "887437d1-bbb7-434d-b016-1d4c37c8e82e",
+            "position": "2",
+            "body": "Transtorno Depressivo Recorrente – quetiapina 300mg/manhã.",
+            "sanitized_body": "Transtorno Depressivo Recorrente – quetiapina 300mg/manhã.",
+            "correct": false,
+            "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:59.436329 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o diagnóstico está correto, contudo, o tratamento deve ser realizado com um antidepressivo. Quetiapina, um antipsicótico, quando utilizada, deve ser introduzida à noite, devido a seu intenso efeito sedativo.",
+              "sanitized_complete": "o diagnóstico está correto, contudo, o tratamento deve ser realizado com um antidepressivo. Quetiapina, um antipsicótico, quando utilizada, deve ser introduzida à noite, devido a seu intenso efeito sedativo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:29:31.659181 +0000 UTC",
+              "updated_at": "2021-05-23 17:29:34.303589 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 22
+          },
+          {
+            "id": "b7e9c791-e7cb-4fe1-ae96-f364fd8a9670",
+            "position": "3",
+            "body": "Episódio depressivo Bipolar – Lítio 600mg + diazepam 10mg.",
+            "sanitized_body": "Episódio depressivo Bipolar – Lítio 600mg + diazepam 10mg.",
+            "correct": false,
+            "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:59.473895 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "não há evidência de sintomas maníacos para o diagnóstico de bipolaridade. Além disso, deve-se evitar o uso de benzodiazepinas em pacientes idosos, por aumentar o risco de quedas, piorar o desempenho cognitivo e aumentar a chance de delirium.",
+              "sanitized_complete": "não há evidência de sintomas maníacos para o diagnóstico de bipolaridade. Além disso, deve-se evitar o uso de benzodiazepinas em pacientes idosos, por aumentar o risco de quedas, piorar o desempenho cognitivo e aumentar a chance de delirium.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:29:31.694907 +0000 UTC",
+              "updated_at": "2021-05-23 17:29:34.277051 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          },
+          {
+            "id": "0a83a233-158d-4b9c-9b44-123216f9f327",
+            "position": "4",
+            "body": "Transtorno depressivo Recorrente – Mirtazapina 15mg/noite.",
+            "sanitized_body": "Transtorno depressivo Recorrente – Mirtazapina 15mg/noite.",
+            "correct": true,
+            "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+            "updated_at": "2022-02-07 20:45:59.518655 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O diagnóstico correto é de depressão unipolar recorrente. Mirtazapina é um antidepressivo atípico, bem tolerado por idosos e seguro do ponto de vista cardiovascular. Tem propriedades sedativas e que aumentam o apetite, o que a torna uma escolha adequada para o paciente em questão. Cabe lembrar que, diante de um quadro de depressão recorrente, indica-se um tratamento de manutenção com antidepressivos por tempo indeterminado.",
+              "sanitized_complete": "O diagnóstico correto é de depressão unipolar recorrente. Mirtazapina é um antidepressivo atípico, bem tolerado por idosos e seguro do ponto de vista cardiovascular. Tem propriedades sedativas e que aumentam o apetite, o que a torna uma escolha adequada para o paciente em questão. Cabe lembrar que, diante de um quadro de depressão recorrente, indica-se um tratamento de manutenção com antidepressivos por tempo indeterminado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:29:31.720228 +0000 UTC",
+              "updated_at": "2021-05-23 17:29:34.3195 +0000 UTC"
+            },
+            "answer_percentage": 53,
+            "answers": 177
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Seu Agenor, 77 anos de idade, bancário aposentado, casado há 49 anos com Dona Rosinha, aparece na UBS para uma consulta agendada por Saionara, neta do casal. A moça conta que seu avô é um homem muito alegre, ativo, está sempre conversando com a vizinhança pela manhã com seu chimarrão na mão, e atualizando-se dos acontecimentos e fofocas da vila onde mora. É conhecido pelos amigos por sua fala alta, riso fácil e por estar sempre ajudando quem precisa. Apesar disso, há cerca de 9 meses, perdeu o filho mais velho em um acidente de carro. Depois disso, “perdeu o brilho no olhar”, parece ter envelhecido vários anos, está com a cabeça “mais devagar”, sai pouco de casa, não se interessa mais nas jogatinas no clube da terceira idade, perdeu 14 quilos e tem muitas dificuldades em dormir, o que o torna muito irritado e causa muito sofrimento à família. Dona Rosinha, por sua vez, mostra grande resiliência e está disposta a reunir todas as suas forças para trazer o “velho Agenor” de volta. A esposa ainda conta que não é a primeira vez que o paciente apresenta quadros assim, pois em 1987, quando perdeu a mãe, houve um episódio parecido, assim como em 1998, quando o Brasil perdeu a final da Copa do Mundo para a França, o que o abalou por várias semanas e causou sintomas parecidos. Tendo em vista o quadro acima, assinale a alternativa que traz a melhor hipótese diagnóstica e a melhor proposta terapêutica.",
+        "statement_text": "Seu Agenor, 77 anos de idade, bancário aposentado, casado há 49 anos com Dona Rosinha, aparece na UBS para uma consulta agendada por Saionara, neta do casal. A moça conta que seu avô é um homem muito alegre, ativo, está sempre conversando com a vizinhança pela manhã com seu chimarrão na mão, e atualizando-se dos acontecimentos e fofocas da vila onde mora. É conhecido pelos amigos por sua fala alta, riso fácil e por estar sempre ajudando quem precisa. Apesar disso, há cerca de 9 meses, perdeu o filho mais velho em um acidente de carro. Depois disso, “perdeu o brilho no olhar”, parece ter envelhecido vários anos, está com a cabeça “mais devagar”, sai pouco de casa, não se interessa mais nas jogatinas no clube da terceira idade, perdeu 14 quilos e tem muitas dificuldades em dormir, o que o torna muito irritado e causa muito sofrimento à família. Dona Rosinha, por sua vez, mostra grande resiliência e está disposta a reunir todas as suas forças para trazer o “velho Agenor” de volta. A esposa ainda conta que não é a primeira vez que o paciente apresenta quadros assim, pois em 1987, quando perdeu a mãe, houve um episódio parecido, assim como em 1998, quando o Brasil perdeu a final da Copa do Mundo para a França, o que o abalou por várias semanas e causou sintomas parecidos. Tendo em vista o quadro acima, assinale a alternativa que traz a melhor hipótese diagnóstica e a melhor proposta terapêutica.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:53:11.578028 +0000 UTC",
+        "forum_id": "bf12bfcd-1071-42b2-9b54-f508fc67a106",
+        "solution": {
+          "_key": "873f7778-7c15-4138-80d7-49a481e646c6",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><b><br></b></div><div>Para realizarmos o diagnóstico de um episódio depressivo, o paciente precisa demonstrar, por pelo menos 14 dias consecutivos, 4 ou mais sintomas típicos, segundo a CID-10, ou ao menos 5 sintomas, segundo o DSM-5. Necessariamente, precisa haver tristeza e/ ou anedonia (perda do prazer). Os demais sintomas são cansaço, alterações da energia, alterações do sono, prejuízo na concentração, mudanças no apetite e pensamentos negativos ou de culpa e pensamentos de suicídio.</div><div><br></div><div>O paciente em questão apresenta diversos quadros depressivos (1987, 1998 e o episódio atual), o que caracteriza sua depressão como “recorrente”. Não há em sua história evidência de episódios hipomaníacos ou maníacos, o que afasta o diagnóstico de bipolaridade.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA EPara realizarmos o diagnóstico de um episódio depressivo, o paciente precisa demonstrar, por pelo menos 14 dias consecutivos, 4 ou mais sintomas típicos, segundo a CID-10, ou ao menos 5 sintomas, segundo o DSM-5. Necessariamente, precisa haver tristeza e/ ou anedonia (perda do prazer). Os demais sintomas são cansaço, alterações da energia, alterações do sono, prejuízo na concentração, mudanças no apetite e pensamentos negativos ou de culpa e pensamentos de suicídio.O paciente em questão apresenta diversos quadros depressivos (1987, 1998 e o episódio atual), o que caracteriza sua depressão como “recorrente”. Não há em sua história evidência de episódios hipomaníacos ou maníacos, o que afasta o diagnóstico de bipolaridade.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:29:32.369187 +0000 UTC",
+          "updated_at": "2021-05-23 17:29:34.800178 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147674-720.mp4",
+        "unlisted": false,
+        "slug": "Seu-Agenor-77-anos2495f3b6438",
+        "public": true
+      },
+      {
+        "id": "4000147673",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "29c5cb80896e4a0bbb8789198c64cb1b",
+            "name": "Transtorno do Humor Bipolar (THB)",
+            "is_master": false,
+            "master_id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Transtorno do Humor Bipolar (THB)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c8245a3c6ce74d11b6470aaad9f14e2c",
+            "name": "Transtorno do Humor Bipolar Tipo 1",
+            "is_master": false,
+            "master_id": "29c5cb80896e4a0bbb8789198c64cb1b",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Transtorno do Humor Bipolar (THB)[$$]Transtorno do Humor Bipolar Tipo 1",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5515ab80-ee27-44c3-ba3d-8f8111f3b965",
+            "position": "0",
+            "body": "Carbamazepina.",
+            "sanitized_body": "Carbamazepina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:29.989006 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "carbamazepina é outro anticonvulsivante com propriedades estabilizadoras do humor. Atualmente, é menos utilizada do que o lítio e o ácido valproico por ser mais hepatotóxica e por envolver-se em um grande número de interações medicamentosas. Por isso, pode ser encarada como uma medicação de segunda linha no tratamento do transtorno do humor bipolar.",
+              "sanitized_complete": "carbamazepina é outro anticonvulsivante com propriedades estabilizadoras do humor. Atualmente, é menos utilizada do que o lítio e o ácido valproico por ser mais hepatotóxica e por envolver-se em um grande número de interações medicamentosas. Por isso, pode ser encarada como uma medicação de segunda linha no tratamento do transtorno do humor bipolar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:28:01.18513 +0000 UTC",
+              "updated_at": "2021-05-23 17:28:03.892772 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 21
+          },
+          {
+            "id": "b91b3cf8-afc8-48a1-afe3-0856a72ce285",
+            "position": "1",
+            "body": "Quetiapina.",
+            "sanitized_body": "Quetiapina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:30.070142 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "quetiapina é um antipsicótico atípico considerado de primeira linha para o tratamento da bipolaridade. Contudo, essa droga pode causar uma piora no perfil metabólico, dislipidemia, aumento dos triglicérides, resistência insulínica, aumento do apetite e compulsão por doces, o que pode gerar ganho de peso e aumento do risco de morte por eventos cardiovasculares, especialmente porque nosso paciente é obeso e sedentário.",
+              "sanitized_complete": "quetiapina é um antipsicótico atípico considerado de primeira linha para o tratamento da bipolaridade. Contudo, essa droga pode causar uma piora no perfil metabólico, dislipidemia, aumento dos triglicérides, resistência insulínica, aumento do apetite e compulsão por doces, o que pode gerar ganho de peso e aumento do risco de morte por eventos cardiovasculares, especialmente porque nosso paciente é obeso e sedentário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:28:01.163901 +0000 UTC",
+              "updated_at": "2021-05-23 17:28:03.896751 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 41
+          },
+          {
+            "id": "01020989-fb71-440c-9782-9fee202669aa",
+            "position": "2",
+            "body": "Fluoxetina.",
+            "sanitized_body": "Fluoxetina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:30.123809 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "antidepressivos não são indicados para o tratamento de pacientes bipolares em nenhuma das fases da doença. Mesmo em episódios depressivos do transtorno bipolar, essas medicações devem ser evitadas, devido ao risco potencial de precipitarem sintomas de mania, quadro conhecido como “virada maníaca”, ou, ainda, por poderem causar um quadro misto.",
+              "sanitized_complete": "antidepressivos não são indicados para o tratamento de pacientes bipolares em nenhuma das fases da doença. Mesmo em episódios depressivos do transtorno bipolar, essas medicações devem ser evitadas, devido ao risco potencial de precipitarem sintomas de mania, quadro conhecido como “virada maníaca”, ou, ainda, por poderem causar um quadro misto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:28:01.195291 +0000 UTC",
+              "updated_at": "2021-05-23 17:28:03.886259 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 18
+          },
+          {
+            "id": "336013a3-9453-456f-9fe4-4e812627504c",
+            "position": "3",
+            "body": "Lítio.",
+            "sanitized_body": "Lítio.",
+            "correct": true,
+            "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:30.182815 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O lítio é a medicação “padrão-ouro” e deve ser considerado uma medicação de primeira escolha para pacientes com transtorno bipolar, seja para tratar a fase aguda ou para terapia de manutenção.",
+              "sanitized_complete": "O lítio é a medicação “padrão-ouro” e deve ser considerado uma medicação de primeira escolha para pacientes com transtorno bipolar, seja para tratar a fase aguda ou para terapia de manutenção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:28:01.209415 +0000 UTC",
+              "updated_at": "2021-05-23 17:28:03.902503 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 350
+          },
+          {
+            "id": "01cfc3d4-fd20-4a5b-95ac-6b3e44a9d02f",
+            "position": "4",
+            "body": "Lamotrigina.",
+            "sanitized_body": "Lamotrigina.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:30.266447 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a lamotrigina é um fármaco estabilizador do humor e anticonvulsivante, com ações proeminentes antidepressivas e ação discreta sobre o tratamento e a prevenção de episódios maníacos e, por isso, é considerada medicação de segunda linha.",
+              "sanitized_complete": "a lamotrigina é um fármaco estabilizador do humor e anticonvulsivante, com ações proeminentes antidepressivas e ação discreta sobre o tratamento e a prevenção de episódios maníacos e, por isso, é considerada medicação de segunda linha.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:28:01.178613 +0000 UTC",
+              "updated_at": "2021-05-23 17:28:03.893475 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 10
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Você atende, às 3 horas da manhã, Gilson, de 29 anos de idade, durante seu plantão na emergência. O paciente foi levado pelo SAMU, contido em uma maca rígida devido à intensa agitação psicomotora e gritaria incontrolável. Quem o acompanha é sua namorada, Fátima, que, muito assustada, conta que conheceu o paciente há cerca de 1 mês e meio durante um jantar na casa de amigos em comum. Fátima relata que tem notado que seu namorado está agitado há 2 semanas, mais falante, inclusive dizendo coisas sem sentido, como frases do tipo “eu sou o messias”, “eu vou salvar a terra do apocalipse zumbi”, está muito desconfiado, olhando para os lados a todo o momento, está dormindo pouco, menos de 4 horas por dia, e quando acorda já parece estar cheio de energia; inclusive, o casal tem tido cerca de 5 relações sexuais diariamente desde então, e ele tem gastado todo seu salário em acessórios de pesca esportiva (apesar de jamais ter pescado na vida). Fátima sabe pouco da história pregressa de Gilson, apenas que é um rapaz que já apresentou 2 episódios graves de depressão previamente e recebeu tratamento com algum antidepressivo. Atualmente, o paciente não tem usado nenhuma medicação de uso contínuo, não usa drogas nem álcool, e também não tem uma doença crônica conhecida, contudo é obeso e sedentário.<div><br></div><div>Após a estabilidade clínica do paciente, você decide iniciar um tratamento de base para seu transtorno psiquiátrico. Assinale a melhor escolha terapêutica para seu paciente.</div>",
+        "statement_text": "Você atende, às 3 horas da manhã, Gilson, de 29 anos de idade, durante seu plantão na emergência. O paciente foi levado pelo SAMU, contido em uma maca rígida devido à intensa agitação psicomotora e gritaria incontrolável. Quem o acompanha é sua namorada, Fátima, que, muito assustada, conta que conheceu o paciente há cerca de 1 mês e meio durante um jantar na casa de amigos em comum. Fátima relata que tem notado que seu namorado está agitado há 2 semanas, mais falante, inclusive dizendo coisas sem sentido, como frases do tipo “eu sou o messias”, “eu vou salvar a terra do apocalipse zumbi”, está muito desconfiado, olhando para os lados a todo o momento, está dormindo pouco, menos de 4 horas por dia, e quando acorda já parece estar cheio de energia; inclusive, o casal tem tido cerca de 5 relações sexuais diariamente desde então, e ele tem gastado todo seu salário em acessórios de pesca esportiva (apesar de jamais ter pescado na vida). Fátima sabe pouco da história pregressa de Gilson, apenas que é um rapaz que já apresentou 2 episódios graves de depressão previamente e recebeu tratamento com algum antidepressivo. Atualmente, o paciente não tem usado nenhuma medicação de uso contínuo, não usa drogas nem álcool, e também não tem uma doença crônica conhecida, contudo é obeso e sedentário.Após a estabilidade clínica do paciente, você decide iniciar um tratamento de base para seu transtorno psiquiátrico. Assinale a melhor escolha terapêutica para seu paciente.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:52:50.934504 +0000 UTC",
+        "solution": {
+          "_key": "1258561e-caef-4cbf-bb39-2343413985d7",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Para o tratamento da bipolaridade, os estabilizadores do humor Lítio e Ácido Valproico, bem como o antipsicótico atípico Quetiapina, são opções de primeira linha, tanto para fase aguda (depressiva, maníaca ou mista) quanto para o período de manutenção, segundo diversos protocolos clínicos.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DPara o tratamento da bipolaridade, os estabilizadores do humor Lítio e Ácido Valproico, bem como o antipsicótico atípico Quetiapina, são opções de primeira linha, tanto para fase aguda (depressiva, maníaca ou mista) quanto para o período de manutenção, segundo diversos protocolos clínicos.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:28:01.796192 +0000 UTC",
+          "updated_at": "2021-05-23 17:28:04.755614 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147673-720.mp4",
+        "unlisted": false,
+        "slug": "Voce-atende-as-3-horas246657545bc",
+        "public": true
+      },
+      {
+        "id": "4000147672",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "32ce6eac-bffa-4b4f-b939-ccf4193d7e7a",
+                "name": "Revisando com Questões Inéditas - Psiquiatria"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "41140B1C-7E2E-1D7D-F368-49F3DFC65EA5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6A3B9D3E-ABDD-3F75-DD80-80A494781419"
+              },
+              {
+                "type": "ANSWER",
+                "url": "C8D7B4C6-9276-3FB6-0D9F-0A57B212D160"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 20,
+            "created_at": "2021-05-12T19:54:21Z",
+            "updated_at": "2021-06-07T14:38:17Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "name": "Transtornos do Humor",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c8245a3c6ce74d11b6470aaad9f14e2c",
+            "name": "Transtorno do Humor Bipolar Tipo 1",
+            "is_master": false,
+            "master_id": "29c5cb80896e4a0bbb8789198c64cb1b",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Transtorno do Humor Bipolar (THB)[$$]Transtorno do Humor Bipolar Tipo 1",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "823b1e10-8073-43bb-ac8d-bd4230c0ba91",
+            "position": "0",
+            "body": "Depressão com sintomas psicóticos.",
+            "sanitized_body": "Depressão com sintomas psicóticos.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:54.207981 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto! Não há os sintomas fundamentais para que se pense em depressão, como humor deprimido e/ou anedonia, por 14 dias ou mais. É importante ressaltar que, em casos graves, podem ocorrer sintomas psicóticos, especialmente congruentes com o afeto.",
+              "sanitized_complete": "Incorreto! Não há os sintomas fundamentais para que se pense em depressão, como humor deprimido e/ou anedonia, por 14 dias ou mais. É importante ressaltar que, em casos graves, podem ocorrer sintomas psicóticos, especialmente congruentes com o afeto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:25:26.259107 +0000 UTC",
+              "updated_at": "2021-12-31 21:30:01.98746 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 7
+          },
+          {
+            "id": "2b1150d1-21e6-4128-8eae-80772b206167",
+            "position": "1",
+            "body": "Esquizofrenia.",
+            "sanitized_body": "Esquizofrenia.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:54.249755 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, visto que na esquizofrenia, uma síndrome psicótica crônica, é caracterizada, dentre outros sintomas, por alucinações auditivas, delírios persecutórios, comportamento bizarro ou desorganizado e embotamento afetivo. É indispensável, para diagnosticar <b>esquizofrenia</b>, que os sinais e sintomas estejam presentes por pelo menos 6 meses, segundo o DSM-5.",
+              "sanitized_complete": "Incorreto, visto que na esquizofrenia, uma síndrome psicótica crônica, é caracterizada, dentre outros sintomas, por alucinações auditivas, delírios persecutórios, comportamento bizarro ou desorganizado e embotamento afetivo. É indispensável, para diagnosticar esquizofrenia, que os sinais e sintomas estejam presentes por pelo menos 6 meses, segundo o DSM-5.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:25:26.315391 +0000 UTC",
+              "updated_at": "2021-12-31 21:30:01.992977 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 15
+          },
+          {
+            "id": "ecd76bfe-b1a8-461d-b064-36fe7c32d294",
+            "position": "2",
+            "body": "Ciclotimia.",
+            "sanitized_body": "Ciclotimia.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:54.293355 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois o transtorno ciclotímico ou ciclotimia é uma doença do humor que apresenta, por vezes, sintomas brandos relacionados à hipomania, intercalados com sintomas depressivos leves, que duram mais de anos consecutivos, sem nunca terem atingido a intensidade e a gravidade para que haja um diagnóstico de bipolaridade ou depressão maior.",
+              "sanitized_complete": "Incorreto, pois o transtorno ciclotímico ou ciclotimia é uma doença do humor que apresenta, por vezes, sintomas brandos relacionados à hipomania, intercalados com sintomas depressivos leves, que duram mais de anos consecutivos, sem nunca terem atingido a intensidade e a gravidade para que haja um diagnóstico de bipolaridade ou depressão maior.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:25:26.300578 +0000 UTC",
+              "updated_at": "2021-12-31 21:30:02.010368 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 1
+          },
+          {
+            "id": "4f741378-d4b9-48a7-a153-62cfa3051f1b",
+            "position": "3",
+            "body": "Bipolaridade do tipo 1.",
+            "sanitized_body": "Bipolaridade do tipo 1.",
+            "correct": true,
+            "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:54.338511 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correto! O paciente apresenta-se em mania há cerca de 2 semanas, o que caracteriza o diagnóstico de bipolaridade do tipo 1.",
+              "sanitized_complete": "Correto! O paciente apresenta-se em mania há cerca de 2 semanas, o que caracteriza o diagnóstico de bipolaridade do tipo 1.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:25:26.270546 +0000 UTC",
+              "updated_at": "2021-12-31 21:30:02.006512 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 339
+          },
+          {
+            "id": "fbc8656e-0f0f-42cd-816a-328a74023ead",
+            "position": "4",
+            "body": "Bipolaridade do tipo 2.",
+            "sanitized_body": "Bipolaridade do tipo 2.",
+            "correct": false,
+            "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+            "updated_at": "2022-02-07 20:46:54.379717 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreto, pois na bipolaridade do tipo 2, o paciente necessariamente tem o registro de um episódio de depressão e um episódio de hipomania (independentemente da ordem dos eventos). Além disso, jamais haveria um episódio de mania, pois a mania caracteriza a bipolaridade do tipo 1.",
+              "sanitized_complete": "Incorreto, pois na bipolaridade do tipo 2, o paciente necessariamente tem o registro de um episódio de depressão e um episódio de hipomania (independentemente da ordem dos eventos). Além disso, jamais haveria um episódio de mania, pois a mania caracteriza a bipolaridade do tipo 1.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 17:25:26.273078 +0000 UTC",
+              "updated_at": "2021-12-31 21:30:02.03676 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 61
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Você atende, às 3 horas da manhã, Gilson, de 29 anos de idade, durante seu plantão na emergência. O paciente foi levado pelo SAMU, contido em uma maca rígida devido à intensa agitação psicomotora e gritaria incontrolável. Quem o acompanha é sua namorada, Fátima, que, muito assustada, conta que conheceu o paciente há cerca de 1 mês e meio durante um jantar na casa de amigos em comum. Fátima relata que tem notado que seu namorado está agitado há 2 semanas, mais falante, inclusive dizendo coisas sem sentido, como frases do tipo “eu sou o messias”, “eu vou salvar a terra do apocalipse zumbi”, está muito desconfiado, olhando para os lados a todo o momento, está dormindo pouco, menos de 4 horas por dia, e quando acorda já parece estar cheio de energia; inclusive, o casal tem tido cerca de 5 relações sexuais diariamente desde então, e tem gastado todo o seu salário em acessórios de pesca esportiva (apesar de jamais ter pescado na vida). Fátima sabe pouco da história pregressa de Gilson, apenas que é um rapaz que já apresentou 2 episódios graves de depressão previamente e recebeu tratamento com algum antidepressivo. Atualmente, o paciente não tem usado nenhuma medicação de uso contínuo, não usa drogas nem álcool, e também não tem uma doença crônica conhecida, contudo é obeso e sedentário.<div><br></div><div>Diante deste quadro, qual é o provável diagnóstico?</div>",
+        "statement_text": "Você atende, às 3 horas da manhã, Gilson, de 29 anos de idade, durante seu plantão na emergência. O paciente foi levado pelo SAMU, contido em uma maca rígida devido à intensa agitação psicomotora e gritaria incontrolável. Quem o acompanha é sua namorada, Fátima, que, muito assustada, conta que conheceu o paciente há cerca de 1 mês e meio durante um jantar na casa de amigos em comum. Fátima relata que tem notado que seu namorado está agitado há 2 semanas, mais falante, inclusive dizendo coisas sem sentido, como frases do tipo “eu sou o messias”, “eu vou salvar a terra do apocalipse zumbi”, está muito desconfiado, olhando para os lados a todo o momento, está dormindo pouco, menos de 4 horas por dia, e quando acorda já parece estar cheio de energia; inclusive, o casal tem tido cerca de 5 relações sexuais diariamente desde então, e tem gastado todo o seu salário em acessórios de pesca esportiva (apesar de jamais ter pescado na vida). Fátima sabe pouco da história pregressa de Gilson, apenas que é um rapaz que já apresentou 2 episódios graves de depressão previamente e recebeu tratamento com algum antidepressivo. Atualmente, o paciente não tem usado nenhuma medicação de uso contínuo, não usa drogas nem álcool, e também não tem uma doença crônica conhecida, contudo é obeso e sedentário.Diante deste quadro, qual é o provável diagnóstico?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 15:52:20.702612 +0000 UTC",
+        "solution": {
+          "_key": "148f8a24-4a62-41f8-93ff-0124f67c6721",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Um episódio maníaco, marco do transtorno bipolar, é caracterizado por um estado de aumento de energia, redução da necessidade do sono, euforia, impulsividade, desinibição social ou sexual, pensamento acelerados, fala rápida e diminuição da capacidade crítica, podendo estar presentes pensamentos grandiosos ou delirantes, devendo durar ao menos 7 dias. Caso os sintomas durem por pelo menos 4 dias e sua intensidade não seja alta, daremos o diagnóstico de hipomania.</div><div><br></div><div><b>Atenção</b>! Para o diagnóstico de transtorno <b>bipolar </b>do tipo I, basta o diagnóstico de um episódio de mania durante a vida. Para o diagnóstico de transtorno bipolar do tipo II, é preciso o registro de um episódio de <b>hipomania </b>mais um diagnóstico prévio de <b>depressão</b>.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DUm episódio maníaco, marco do transtorno bipolar, é caracterizado por um estado de aumento de energia, redução da necessidade do sono, euforia, impulsividade, desinibição social ou sexual, pensamento acelerados, fala rápida e diminuição da capacidade crítica, podendo estar presentes pensamentos grandiosos ou delirantes, devendo durar ao menos 7 dias. Caso os sintomas durem por pelo menos 4 dias e sua intensidade não seja alta, daremos o diagnóstico de hipomania.Atenção! Para o diagnóstico de transtorno bipolar do tipo I, basta o diagnóstico de um episódio de mania durante a vida. Para o diagnóstico de transtorno bipolar do tipo II, é preciso o registro de um episódio de hipomania mais um diagnóstico prévio de depressão.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 17:25:26.561126 +0000 UTC",
+          "updated_at": "2021-12-31 21:30:02.129249 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147672-720.mp4",
+        "unlisted": false,
+        "slug": "Voce-atende-as-3-horas229bceb5391",
+        "public": true
+      },
+      {
+        "id": "4000147540",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "31f133bb-27de-4cc0-8c3a-91eedc08f6f9",
+                "name": "3° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 3,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D66188D5-1324-8C4A-62FD-F3BFDD2D243C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9232CF0C-9308-7BD7-D039-D3BE2832321B"
+              },
+              {
+                "type": "ANSWER",
+                "url": "177A3CD8-2508-A241-D6D8-03AE2F401EB3"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T15:26:10Z",
+            "updated_at": "2022-02-10T16:13:33Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2243907ce2b1495880808aeb9db905c8",
+            "name": "Estabilizadores do Humor",
+            "is_master": false,
+            "master_id": "1f74406d02d1452cbd328f8735d226b8",
+            "path": "Outros [$$]Psiquiatria[$$]Psicofarmacologia[$$]Estabilizadores do Humor",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "7b3ad52a8a354bc8af21dda8e28de385",
+            "name": "Tratamento do Transtorno do Humor Bipolar (THB)",
+            "is_master": false,
+            "master_id": "29c5cb80896e4a0bbb8789198c64cb1b",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Transtorno do Humor Bipolar (THB)[$$]Tratamento do Transtorno do Humor Bipolar (THB)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3e02081e-3081-447f-8e98-76961bb56728",
+            "position": "0",
+            "body": "Fluoxetina.",
+            "sanitized_body": "Fluoxetina.",
+            "correct": false,
+            "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+            "updated_at": "2022-02-07 20:48:25.478546 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Antidepressivos não são indicados para o tratamento dos pacientes bipolares, em nenhuma das fases da doença. Mesmo em episódios depressivos do transtorno bipolar essas medicações devem ser evitadas, devido ao risco potencial de precipitarem sintomas de mania, quadro conhecido como “virada maníaca”, ou ainda podem causar um quadro misto.",
+              "sanitized_complete": "Antidepressivos não são indicados para o tratamento dos pacientes bipolares, em nenhuma das fases da doença. Mesmo em episódios depressivos do transtorno bipolar essas medicações devem ser evitadas, devido ao risco potencial de precipitarem sintomas de mania, quadro conhecido como “virada maníaca”, ou ainda podem causar um quadro misto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 16:06:53.89774 +0000 UTC",
+              "updated_at": "2021-05-23 16:06:55.444955 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 17
+          },
+          {
+            "id": "f20f816f-43a0-4215-a1d8-3dfe342888f0",
+            "position": "1",
+            "body": "Lítio.",
+            "sanitized_body": "Lítio.",
+            "correct": false,
+            "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+            "updated_at": "2022-02-07 20:48:25.553648 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O Lítio é a droga padrão ouro para o tratamento da bipolaridade. É excretado pelos rins, sem sofrer qualquer tipo de metabolização hepática, por isso deve ser evitado em pacientes com doença renal crônica. Além disso, medicações que interferem na capacidade da filtração glomerular (como IECAs, BRAs, diuréticos, AINEs, dentre outros) podem causar um aumento da litemia, aumentando os riscos de uma intoxicação aguda. Por fim, o lítio também é relativamente contraindicado em pacientes com hipotiroidismo, especialmente se não compensado.",
+              "sanitized_complete": "O Lítio é a droga padrão ouro para o tratamento da bipolaridade. É excretado pelos rins, sem sofrer qualquer tipo de metabolização hepática, por isso deve ser evitado em pacientes com doença renal crônica. Além disso, medicações que interferem na capacidade da filtração glomerular (como IECAs, BRAs, diuréticos, AINEs, dentre outros) podem causar um aumento da litemia, aumentando os riscos de uma intoxicação aguda. Por fim, o lítio também é relativamente contraindicado em pacientes com hipotiroidismo, especialmente se não compensado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 16:06:53.885532 +0000 UTC",
+              "updated_at": "2021-05-23 16:06:55.475568 +0000 UTC"
+            },
+            "answer_percentage": 31,
+            "answers": 162
+          },
+          {
+            "id": "93679cdf-e985-4f3f-ba14-f734cb881b8f",
+            "position": "2",
+            "body": "Carbamazepina.",
+            "sanitized_body": "Carbamazepina.",
+            "correct": false,
+            "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+            "updated_at": "2022-02-07 20:48:25.600905 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A Carbamazepina é um anticonvulsivante com propriedades estabilizadoras do humor. Atualmente, é menos utilizada do que o Lítio e o Ácido Valproico, por ser mais hepatotóxica e por envolver-se em um enorme número de interações medicamentosas. Por isso, pode ser encarada como uma medicação de segunda linha no tratamento do transtorno do humor bipolar.",
+              "sanitized_complete": "A Carbamazepina é um anticonvulsivante com propriedades estabilizadoras do humor. Atualmente, é menos utilizada do que o Lítio e o Ácido Valproico, por ser mais hepatotóxica e por envolver-se em um enorme número de interações medicamentosas. Por isso, pode ser encarada como uma medicação de segunda linha no tratamento do transtorno do humor bipolar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 16:06:53.866131 +0000 UTC",
+              "updated_at": "2021-05-23 16:06:55.472826 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 25
+          },
+          {
+            "id": "f6a7e56b-fa79-4442-bd8d-c33aef6dd36c",
+            "position": "3",
+            "body": "Ácido Valproico.",
+            "sanitized_body": "Ácido Valproico.",
+            "correct": true,
+            "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+            "updated_at": "2022-02-07 20:48:25.6482 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Ácido valproico é um anticonvulsivante estabilizador do humor considerado de primeira linha para o tratamento da bipolaridade. Tem poucas contraindicações, como gestação e hepatopatia grave. É a melhor resposta para essa questão.",
+              "sanitized_complete": "Ácido valproico é um anticonvulsivante estabilizador do humor considerado de primeira linha para o tratamento da bipolaridade. Tem poucas contraindicações, como gestação e hepatopatia grave. É a melhor resposta para essa questão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 16:06:53.883364 +0000 UTC",
+              "updated_at": "2021-05-23 16:06:55.503408 +0000 UTC"
+            },
+            "answer_percentage": 50,
+            "answers": 261
+          },
+          {
+            "id": "e1c0f6fa-aa52-448f-916f-e107cd37ef9e",
+            "position": "4",
+            "body": "Quetiapina.",
+            "sanitized_body": "Quetiapina.",
+            "correct": false,
+            "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+            "updated_at": "2022-02-07 20:48:25.692378 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Quetiapina é um antipsicótico atípico e também é considerada medicação de primeira linha no tratamento da bipolaridade. Contudo, é uma droga que causa e/ou agrava síndrome metabólica, pode gerar compulsão alimentar, especialmente por doces, e dificultar o controle glicêmico do indivíduo. Por isso não é a melhor droga a ser utilizada em um paciente obeso, diabético, hipertenso e com hipotiroidismo",
+              "sanitized_complete": "Quetiapina é um antipsicótico atípico e também é considerada medicação de primeira linha no tratamento da bipolaridade. Contudo, é uma droga que causa e/ou agrava síndrome metabólica, pode gerar compulsão alimentar, especialmente por doces, e dificultar o controle glicêmico do indivíduo. Por isso não é a melhor droga a ser utilizada em um paciente obeso, diabético, hipertenso e com hipotiroidismo",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2021-05-23 16:06:53.887515 +0000 UTC",
+              "updated_at": "2021-05-23 16:06:55.482992 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 61
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Qual é a melhor opção de primeira linha para tratamento de manutenção de um paciente com transtorno bipolar do tipo 2, de 52 anos de idade, com hipotiroidismo, hipertensão, diabetes, com doença renal crônica não dialítica e obesidade grau 2?",
+        "statement_text": "Qual é a melhor opção de primeira linha para tratamento de manutenção de um paciente com transtorno bipolar do tipo 2, de 52 anos de idade, com hipotiroidismo, hipertensão, diabetes, com doença renal crônica não dialítica e obesidade grau 2?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-14 12:01:18.174064 +0000 UTC",
+        "solution": {
+          "_key": "45428aa4-8458-472d-8c89-1a50b74af7f2",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>O transtorno bipolar do tipo 2 é diagnosticado quando um paciente apresenta ao menos um episódio de depressão e um episódio de hipomania. Não há, em nenhum momento, um episódio de mania, o que caracterizaria um quadro de bipolaridade do tipo 1.</div><div><br></div><div>Estabilizadores do humor,como Lítio e Ácido Valproico, e o antipsicótico atípico Quetiapina são opções de primeira linha, tanto para fase aguda (depressiva, maníaca ou mista) quanto no período de manutenção, segundos diversos protocolos clínicos. Fármacos como carbamazepina, Lamotrigina e outros antipsicóticos atípicos podem ser considerados como drogas de segunda linha. Dito isso, vamos à resposta!</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DO transtorno bipolar do tipo 2 é diagnosticado quando um paciente apresenta ao menos um episódio de depressão e um episódio de hipomania. Não há, em nenhum momento, um episódio de mania, o que caracterizaria um quadro de bipolaridade do tipo 1.Estabilizadores do humor,como Lítio e Ácido Valproico, e o antipsicótico atípico Quetiapina são opções de primeira linha, tanto para fase aguda (depressiva, maníaca ou mista) quanto no período de manutenção, segundos diversos protocolos clínicos. Fármacos como carbamazepina, Lamotrigina e outros antipsicóticos atípicos podem ser considerados como drogas de segunda linha. Dito isso, vamos à resposta!",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 16:06:54.077565 +0000 UTC",
+          "updated_at": "2021-05-23 16:06:55.648625 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000147540-720.mp4",
+        "unlisted": false,
+        "slug": "Qual-e-melhor-opca4055af3a02",
+        "public": true
+      },
+      {
+        "id": "4000147438",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3cd7e6be-1a2c-4fd5-9238-f430583afeb6",
+                "name": "1° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "14C64012-AF0F-A6A8-ADB4-986C4E21C763"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AD495966-5F37-066D-9E17-B91AE9F7355A"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9396A99A-E961-AE22-F271-0EA8AAC5BF60"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T15:12:17Z",
+            "updated_at": "2021-06-07T14:24:13Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "0f8eab665a0c44b4964dda86f0dadc0a",
+            "name": "Suicídio",
+            "is_master": false,
+            "master_id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Suicídio",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "3defa362-78b1-4953-9169-2dd2660412bf",
+            "position": "0",
+            "body": "Sexo masculino, filhos e emprego fixo.",
+            "sanitized_body": "Sexo masculino, filhos e emprego fixo.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:01.475755 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: conhecido como “o paradoxo do gênero”, é o fato de que as mulheres tentam mais suicídio, contudo, os homens suicidam-se mais, por empregarem, justamente, métodos mais letais, como armas de fogo. Filhos e emprego são fatores de proteção.",
+              "sanitized_complete": "Incorreta a alternativa A: conhecido como “o paradoxo do gênero”, é o fato de que as mulheres tentam mais suicídio, contudo, os homens suicidam-se mais, por empregarem, justamente, métodos mais letais, como armas de fogo. Filhos e emprego são fatores de proteção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:58:41.961722 +0000 UTC",
+              "updated_at": "2021-05-23 13:59:06.070748 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 57
+          },
+          {
+            "id": "535c3400-9ed6-49cf-839f-1838504df698",
+            "position": "1",
+            "body": "Sexo feminino, deficiência intelectual e religião.",
+            "sanitized_body": "Sexo feminino, deficiência intelectual e religião.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:01.519517 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B: sexo feminino, religiosidade, fé ou espiritualidade são fatores de proteção. Um transtorno psiquiátrico, como deficiência intelectual, é fator de risco.",
+              "sanitized_complete": "Incorreta a alternativa B: sexo feminino, religiosidade, fé ou espiritualidade são fatores de proteção. Um transtorno psiquiátrico, como deficiência intelectual, é fator de risco.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:58:41.963332 +0000 UTC",
+              "updated_at": "2021-05-23 13:59:06.030003 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          },
+          {
+            "id": "be02411a-3707-4383-9c2d-80f42fcee717",
+            "position": "2",
+            "body": "Casamento, ser médico, filhos.",
+            "sanitized_body": "Casamento, ser médico, filhos.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:01.606561 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C: casamento e filhos são fatores de proteção. Médicos ocupam uma profissão com altas cargas de estresse e desgaste emocional, o que se associa com conhecimento técnico e acesso a medicamentos que podem ser usados em uma tentativa de suicídio, e, por isso, têm taxas de suicídio até 3x maiores que a população geral.",
+              "sanitized_complete": "Incorreta a alternativa C: casamento e filhos são fatores de proteção. Médicos ocupam uma profissão com altas cargas de estresse e desgaste emocional, o que se associa com conhecimento técnico e acesso a medicamentos que podem ser usados em uma tentativa de suicídio, e, por isso, têm taxas de suicídio até 3x maiores que a população geral.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:58:42.001953 +0000 UTC",
+              "updated_at": "2021-05-23 13:59:06.042415 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 5
+          },
+          {
+            "id": "dae97903-7dfe-48f1-b307-369d3b49e6fd",
+            "position": "3",
+            "body": "Idoso, ter sobrevivido a uma tentativa prévia, sexo feminino.",
+            "sanitized_body": "Idoso, ter sobrevivido a uma tentativa prévia, sexo feminino.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:01.705656 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: jovens e idosos são faixas etárias de risco. Uma tentativa prévia de suicídio também é fator de risco. Sexo feminino é fator de proteção do suicídio.",
+              "sanitized_complete": "Incorreta a alternativa D: jovens e idosos são faixas etárias de risco. Uma tentativa prévia de suicídio também é fator de risco. Sexo feminino é fator de proteção do suicídio.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:58:41.97788 +0000 UTC",
+              "updated_at": "2021-05-23 13:59:06.036505 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 6
+          },
+          {
+            "id": "a82694ad-7fc5-49ee-b40a-ef4bba38973d",
+            "position": "4",
+            "body": "Religião, sexo feminino, filhos.",
+            "sanitized_body": "Religião, sexo feminino, filhos.",
+            "correct": true,
+            "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:01.746684 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa E Religião, sexo feminino e uma família constituída são fatores de proteção para o suicídio.",
+              "sanitized_complete": "Correta a alternativa E Religião, sexo feminino e uma família constituída são fatores de proteção para o suicídio.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:58:42.001299 +0000 UTC",
+              "updated_at": "2021-05-23 13:59:06.075875 +0000 UTC"
+            },
+            "answer_percentage": 77,
+            "answers": 243
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Qual das alternativas abaixo apresenta apenas fatores de proteção do suicídio?",
+        "statement_text": "Qual das alternativas abaixo apresenta apenas fatores de proteção do suicídio?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-13 20:40:37.869005 +0000 UTC",
+        "solution": {
+          "_key": "4646e275-423d-4fc2-aec8-12d33bb28eae",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/93A90BE8-9FDC-8996-FF01-517313063197/93A90BE8-9FDC-8996-FF01-517313063197-400.png\">&nbsp;<!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA E ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 13:58:42.214906 +0000 UTC",
+          "updated_at": "2022-07-08 15:54:32.415729 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Qual-apresenta-apenas11fd6b4cb0",
+        "public": true
+      },
+      {
+        "id": "4000147437",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3cd7e6be-1a2c-4fd5-9238-f430583afeb6",
+                "name": "1° Provão de Bolsas - EMED"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "14C64012-AF0F-A6A8-ADB4-986C4E21C763"
+              },
+              {
+                "type": "ANSWER",
+                "url": "AD495966-5F37-066D-9E17-B91AE9F7355A"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9396A99A-E961-AE22-F271-0EA8AAC5BF60"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T15:12:17Z",
+            "updated_at": "2021-06-07T14:24:13Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "name": "Transtornos do Humor",
+            "is_master": false,
+            "master_id": "d123645653e54eeb8dbcd3e7adebe245",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "e035d0c50cf64503803f1bc7c829e758",
+            "name": "Distimia",
+            "is_master": false,
+            "master_id": "88e6c02a6ddc48d3bf431344e4bc343d",
+            "path": "Outros [$$]Psiquiatria[$$]Transtornos do Humor[$$]Distimia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "be959eb9-c594-4ac1-84c5-c409716b98e7",
+            "position": "0",
+            "body": "Depressão recorrente – Fluoxetina 20mg + Lítio 600 mg.",
+            "sanitized_body": "Depressão recorrente – Fluoxetina 20mg + Lítio 600 mg.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:35.854465 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: a depressão recorrente é caracterizada por episódios múltiplos de depressão maior, com um intervalo mínimo de 2 meses entre dois episódios. Seu tratamento envolve o uso prolongado de antidepressivos e, eventualmente, estabilizadores do humor associados. Nesse caso, não há critério suficiente para o diagnóstico de um episódio depressivo.",
+              "sanitized_complete": "Incorreta a alternativa A: a depressão recorrente é caracterizada por episódios múltiplos de depressão maior, com um intervalo mínimo de 2 meses entre dois episódios. Seu tratamento envolve o uso prolongado de antidepressivos e, eventualmente, estabilizadores do humor associados. Nesse caso, não há critério suficiente para o diagnóstico de um episódio depressivo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:33:48.729091 +0000 UTC",
+              "updated_at": "2021-05-23 13:34:05.098362 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 28
+          },
+          {
+            "id": "71379cec-c507-41c4-8b0c-62c4d470e8f9",
+            "position": "1",
+            "body": "Ciclotimia – Quetiapina 200 mg.",
+            "sanitized_body": "Ciclotimia – Quetiapina 200 mg.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:35.885467 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B: transtorno ciclotímico ou ciclotimia é um transtorno crônico do humor, com duração superior a 2 anos, que apresenta, por vezes, sintomas brandos relacionados à hipomania, intercalados com sintomas depressivos leves, sem nunca ter atingido a intensidade e a gravidade para que haja um diagnóstico de bipolaridade ou depressão maior. Apesar de Sérgio Augusto apresentar sintomas depressivos crônicos, não há indícios de sintomas hipomaníacos. O tratamento da ciclotimia pode ser realizado com uso de estabilizadores do humor ou antipsicóticos atípicos, como a quetiapina.",
+              "sanitized_complete": "Incorreta a alternativa B: transtorno ciclotímico ou ciclotimia é um transtorno crônico do humor, com duração superior a 2 anos, que apresenta, por vezes, sintomas brandos relacionados à hipomania, intercalados com sintomas depressivos leves, sem nunca ter atingido a intensidade e a gravidade para que haja um diagnóstico de bipolaridade ou depressão maior. Apesar de Sérgio Augusto apresentar sintomas depressivos crônicos, não há indícios de sintomas hipomaníacos. O tratamento da ciclotimia pode ser realizado com uso de estabilizadores do humor ou antipsicóticos atípicos, como a quetiapina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:33:48.754069 +0000 UTC",
+              "updated_at": "2021-05-23 13:34:05.077935 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 14
+          },
+          {
+            "id": "51a77e9f-a505-447d-8e8b-96d25ece25ab",
+            "position": "2",
+            "body": "Transtorno de personalidade borderline – Amitriptilina 75 mg.",
+            "sanitized_body": "Transtorno de personalidade borderline – Amitriptilina 75 mg.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:35.909046 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C: transtorno da personalidade emocionalmente instável ou borderline é um padrão de instabilidade nas relações interpessoais, na autoimagem e no afeto, com oscilações de humor, aumento da impulsividade, raiva, “vazio” e baixa tolerância a frustrações. O tratamento dos transtornos de personalidade é realizado especialmente com psicoterapia.",
+              "sanitized_complete": "Incorreta a alternativa C: transtorno da personalidade emocionalmente instável ou borderline é um padrão de instabilidade nas relações interpessoais, na autoimagem e no afeto, com oscilações de humor, aumento da impulsividade, raiva, “vazio” e baixa tolerância a frustrações. O tratamento dos transtornos de personalidade é realizado especialmente com psicoterapia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:33:48.798939 +0000 UTC",
+              "updated_at": "2021-05-23 13:34:05.114861 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          },
+          {
+            "id": "e607c524-62b3-4601-940f-fdda4b0a1d9a",
+            "position": "3",
+            "body": "Distimia – Sertralina 50 mg.",
+            "sanitized_body": "Distimia – Sertralina 50 mg.",
+            "correct": true,
+            "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:35.979936 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa D: A distimia pode ser entendida como uma “depressão leve crônica”. Caracteriza-se pela presença de sintomas depressivos brandos, com curso crônico, sem que o paciente apresente melhora dos sintomas por um intervalo maior do que 2 meses, durante um curso de pelo menos 2 anos. Seu tratamento envolve o uso de antidepressivos, como a Sertralina, preferencialmente associado à psicoterapia.",
+              "sanitized_complete": "Correta a alternativa D: A distimia pode ser entendida como uma “depressão leve crônica”. Caracteriza-se pela presença de sintomas depressivos brandos, com curso crônico, sem que o paciente apresente melhora dos sintomas por um intervalo maior do que 2 meses, durante um curso de pelo menos 2 anos. Seu tratamento envolve o uso de antidepressivos, como a Sertralina, preferencialmente associado à psicoterapia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:33:48.712239 +0000 UTC",
+              "updated_at": "2021-05-23 13:34:05.06505 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 230
+          },
+          {
+            "id": "7962dcf5-b37e-4334-bc6e-2a5a78f71456",
+            "position": "4",
+            "body": "Depressão maior – Escitalopram 10 mg.",
+            "sanitized_body": "Depressão maior – Escitalopram 10 mg.",
+            "correct": false,
+            "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+            "updated_at": "2022-02-07 20:50:36.178806 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: para realizarmos o diagnóstico de um episódio depressivo, o paciente precisa demonstrar, por pelo menos 14 dias consecutivos, 4 ou mais sintomas típicos, segundo a CID-10, ou ao menos 5 sintomas, segundo o DSM-5. Necessariamente, precisa haver tristeza e/ou anedonia (perda do prazer). Os demais sintomas são cansaço, alterações da energia, alterações do sono, prejuízo na concentração, mudanças no apetite e pensamentos negativos ou de culpa e pensamentos de suicídio. Note que, apesar dos sintomas depressivos crônicos, não há critérios suficientes para o diagnóstico de depressão maior.",
+              "sanitized_complete": "Incorreta a alternativa E: para realizarmos o diagnóstico de um episódio depressivo, o paciente precisa demonstrar, por pelo menos 14 dias consecutivos, 4 ou mais sintomas típicos, segundo a CID-10, ou ao menos 5 sintomas, segundo o DSM-5. Necessariamente, precisa haver tristeza e/ou anedonia (perda do prazer). Os demais sintomas são cansaço, alterações da energia, alterações do sono, prejuízo na concentração, mudanças no apetite e pensamentos negativos ou de culpa e pensamentos de suicídio. Note que, apesar dos sintomas depressivos crônicos, não há critérios suficientes para o diagnóstico de depressão maior.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "34f8a704-436c-4be2-987e-47289e06a577",
+              "author_email_id": "296701de4f4a74c21e5ec74b34bd47a2",
+              "author_profile": null,
+              "created_at": "2021-05-23 13:33:48.723552 +0000 UTC",
+              "updated_at": "2021-05-23 13:34:05.100181 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 32
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Você atende, na Unidade Básica de Saúde, o senhor Sérgio Augusto, de 48 anos de idade, divorciado, sem filhos, corretor de imóveis. O paciente conta que desde seus 16 anos sente tristeza, um certo cansaço durante o dia e insônia durante a noite, sem jamais ter passado mais do que algumas semanas totalmente livre dos sintomas. Sérgio Augusto ainda conta que, apesar disso, leva uma vida produtiva, concluiu um curso superior e tem um bom desempenho no trabalho, mas acha que seu cansaço e sua “falta de ânimo” o impedem de atingir conquistas maiores e, por isso, está disposto a realizar um tratamento adequado. Diante desse quadro clínico, indique o diagnóstico provável e a melhor abordagem terapêutica inicial:",
+        "statement_text": "Você atende, na Unidade Básica de Saúde, o senhor Sérgio Augusto, de 48 anos de idade, divorciado, sem filhos, corretor de imóveis. O paciente conta que desde seus 16 anos sente tristeza, um certo cansaço durante o dia e insônia durante a noite, sem jamais ter passado mais do que algumas semanas totalmente livre dos sintomas. Sérgio Augusto ainda conta que, apesar disso, leva uma vida produtiva, concluiu um curso superior e tem um bom desempenho no trabalho, mas acha que seu cansaço e sua “falta de ânimo” o impedem de atingir conquistas maiores e, por isso, está disposto a realizar um tratamento adequado. Diante desse quadro clínico, indique o diagnóstico provável e a melhor abordagem terapêutica inicial:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-13 20:40:24.815705 +0000 UTC",
+        "solution": {
+          "_key": "6c6cffa2-ab20-4362-b5d8-ddbe6238e2a2",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA D",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-23 13:33:49.159195 +0000 UTC",
+          "updated_at": "2022-07-08 15:54:32.415729 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Voce-atende-Unidade118a0740440",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

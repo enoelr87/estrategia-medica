@@ -1,0 +1,822 @@
+[
+    {
+      "id": "4000146575",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2020,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "NOTICE",
+              "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+            },
+            {
+              "type": "ANSWER",
+              "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 100,
+          "created_at": "2021-04-26T17:27:06Z",
+          "updated_at": "2021-11-23T12:12:21Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "de7a295c68ec44fbb24eca146f55a74b",
+          "name": "Doença de Kawasaki",
+          "is_master": false,
+          "master_id": "820f1cd1b5ff4c5eac2bf4249f6cbacb",
+          "path": "Pediatria[$$]Reumatologia Pediátrica[$$]Doença de Kawasaki",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "0f9d0bd4-9f03-49e5-8291-1c3d5dabb360",
+          "position": "0",
+          "body": "sorologia para Epstein-Baar; corticoterapia via oral.",
+          "sanitized_body": "sorologia para Epstein-Baar; corticoterapia via oral.",
+          "correct": false,
+          "created_at": "2021-04-26 18:32:37.529509 +0000 UTC",
+          "updated_at": "2021-04-29 21:22:09.026313 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "O paciente em questão apresenta envolvimento mucocutâneo característico da Doença de Kawasaki. O Epstein-Baar vírus é o principal agente etiológico da mononucleose. Esta doença se manifesta através de linfadenopatia em várias cadeias e o rash pode ser precipitado pela administração de antibióticos. Conjuntivite e alteração de extremidades também não fazem parte das manifestações clínicas clássicas.",
+            "sanitized_complete": "O paciente em questão apresenta envolvimento mucocutâneo característico da Doença de Kawasaki. O Epstein-Baar vírus é o principal agente etiológico da mononucleose. Esta doença se manifesta através de linfadenopatia em várias cadeias e o rash pode ser precipitado pela administração de antibióticos. Conjuntivite e alteração de extremidades também não fazem parte das manifestações clínicas clássicas.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+            "author_email_id": "87ea0327b0457d1da1ea55b67e5ba9b8",
+            "author_profile": null,
+            "created_at": "2021-05-22 12:28:49.850723 +0000 UTC"
+          },
+          "answer_percentage": 7,
+          "answers": 154
+        },
+        {
+          "id": "f64b89fb-83e7-4fdb-be9e-78266e7c6f37",
+          "position": "1",
+          "body": "ecocardiograma; aplicação de gamaglobulina via endovenosa.",
+          "sanitized_body": "ecocardiograma; aplicação de gamaglobulina via endovenosa.",
+          "correct": true,
+          "created_at": "2021-04-26 18:32:37.529509 +0000 UTC",
+          "updated_at": "2021-04-29 21:22:09.091411 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "Há critérios clínicos para a administração de imunoglobulina. Além da febre, o paciente apresenta 5 dos 5 critérios clínicos para a Doença de Kawasaki. A administração da imunoglobulina não depende da realização da ecocardiografia, porém, este exame será extremamente útil para o acompanhamento evolutivo das coronárias deste paciente.",
+            "sanitized_complete": "Há critérios clínicos para a administração de imunoglobulina. Além da febre, o paciente apresenta 5 dos 5 critérios clínicos para a Doença de Kawasaki. A administração da imunoglobulina não depende da realização da ecocardiografia, porém, este exame será extremamente útil para o acompanhamento evolutivo das coronárias deste paciente.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+            "author_email_id": "87ea0327b0457d1da1ea55b67e5ba9b8",
+            "author_profile": null,
+            "created_at": "2021-05-22 12:28:49.905149 +0000 UTC"
+          },
+          "answer_percentage": 84,
+          "answers": 1879
+        },
+        {
+          "id": "dce98859-e615-4944-8026-53fa3b7b1bcb",
+          "position": "2",
+          "body": "IgG e IgM para sarampo; reposição de vitamina A via endovenosa.",
+          "sanitized_body": "IgG e IgM para sarampo; reposição de vitamina A via endovenosa.",
+          "correct": false,
+          "created_at": "2021-04-26 18:32:37.529509 +0000 UTC",
+          "updated_at": "2021-04-29 21:22:09.13841 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "O Sarampo é uma doença altamente contagiosa, causada por um vírus pertencente ao gênero Morbilivirus. A história clássica do Sarampo envolve um período prodrômico de cerca de 3 a 5 dias, caracterizado por febre, mal-estar, tosse, conjuntivite não purulenta e fotofobia. Durante este período também pode ser notado um enantema na parte interna das bochechas, chamado de sinal de Koplik. O exantema é eritematoso maculopapular, de progressão crânio-caudal. Repare que o paciente mencionado no enunciado não apresenta sintomas catarrais.",
+            "sanitized_complete": "O Sarampo é uma doença altamente contagiosa, causada por um vírus pertencente ao gênero Morbilivirus. A história clássica do Sarampo envolve um período prodrômico de cerca de 3 a 5 dias, caracterizado por febre, mal-estar, tosse, conjuntivite não purulenta e fotofobia. Durante este período também pode ser notado um enantema na parte interna das bochechas, chamado de sinal de Koplik. O exantema é eritematoso maculopapular, de progressão crânio-caudal. Repare que o paciente mencionado no enunciado não apresenta sintomas catarrais.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+            "author_email_id": "87ea0327b0457d1da1ea55b67e5ba9b8",
+            "author_profile": null,
+            "created_at": "2021-05-22 12:28:49.867842 +0000 UTC"
+          },
+          "answer_percentage": 7,
+          "answers": 146
+        },
+        {
+          "id": "119270ff-8216-4cc4-8fc2-6cd9a8c6493e",
+          "position": "3",
+          "body": "reação em cadeia da polimerase para espiroquetas; doxiciclina via oral.",
+          "sanitized_body": "reação em cadeia da polimerase para espiroquetas; doxiciclina via oral.",
+          "correct": false,
+          "created_at": "2021-04-26 18:32:37.529509 +0000 UTC",
+          "updated_at": "2021-04-29 21:22:09.21209 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "A Doença de Lyme é causada por espécies diferentes de espiroquetas, transmitidas por carrapato. Na fase aguda o paciente se manifesta com febre, prostração, mialgia, artralgia, cefaleia e adenomegalias. Na pele é comum o eritema migratório. Também podem existir complicações articulares, cardíacas e neurológicas. Repare que o quadro descrito no enunciado é diferente deste, e também não existe menção à epidemiologia para carrapatos.",
+            "sanitized_complete": "A Doença de Lyme é causada por espécies diferentes de espiroquetas, transmitidas por carrapato. Na fase aguda o paciente se manifesta com febre, prostração, mialgia, artralgia, cefaleia e adenomegalias. Na pele é comum o eritema migratório. Também podem existir complicações articulares, cardíacas e neurológicas. Repare que o quadro descrito no enunciado é diferente deste, e também não existe menção à epidemiologia para carrapatos.",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+            "author_email_id": "87ea0327b0457d1da1ea55b67e5ba9b8",
+            "author_profile": null,
+            "created_at": "2021-05-22 12:28:49.868302 +0000 UTC"
+          },
+          "answer_percentage": 3,
+          "answers": 65
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Um pré-escolar com 4 anos de idade foi diagnosticado com COVID-19 há 30 dias, sem complicações na época. Há 5 dias, tem tido febre diária, 38 a 40 °C, persistente. No segundo dia de febre, apresentou língua em framboesa, linfadenite cervical unilateral (3 cm), tendo recebido, na ocasião, dose única de penicilina benzatina. Hoje, quinto dia, é atendido no pronto-socorro com persistência da febre. Ao exame físico, encontra-se clinicamente hidratado, com hiperemia conjuntival bilateral não purulenta, exantema escarlatiniforme, edema em mãos e pés. Em face desse quadro clínico, o exame complementar e o tratamento indicados são, respectivamente,",
+      "statement_text": "Um pré-escolar com 4 anos de idade foi diagnosticado com COVID-19 há 30 dias, sem complicações na época. Há 5 dias, tem tido febre diária, 38 a 40 °C, persistente. No segundo dia de febre, apresentou língua em framboesa, linfadenite cervical unilateral (3 cm), tendo recebido, na ocasião, dose única de penicilina benzatina. Hoje, quinto dia, é atendido no pronto-socorro com persistência da febre. Ao exame físico, encontra-se clinicamente hidratado, com hiperemia conjuntival bilateral não purulenta, exantema escarlatiniforme, edema em mãos e pés. Em face desse quadro clínico, o exame complementar e o tratamento indicados são, respectivamente,",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2021-04-26 18:32:37.529509 +0000 UTC",
+      "forum_id": "acc58e44-a8db-45fb-913a-eb44a9ae78b0",
+      "solution": {
+        "_key": "8f891aa5-2d61-4a9b-b868-59bc82ef3919",
+        "complete": "Olá, querido aluno!<div><br></div><div>Vamos aproveitar esta questão para revisar alguns conceitos super importantes sobre Doença de Kawasaki e sobre Síndrome Inflamatória Multissistêmica Associada à COVID-19 (MIS-C ou SIM-P).</div><div><br></div><div>A Doença de Kawasaki é a&nbsp; vasculite mais comum da infância, acometendo artérias de médio calibre. A maior consequência deste quadro inflamatório é a possibilidade de ocorrência de aneurismas de coronárias.&nbsp;</div><div><br></div><div>O diagnóstico pode ser feito clinicamente se os critérios forem cumpridos. Em caso de quadros incompletos ou atípicos, podemos utilizar exames laboratoriais e ecocardiografia para nos auxiliar no diagnóstico.</div><div><br></div><div>O prognóstico está diretamente relacionado à precocidade da instituição do tratamento com Imunoglobulina.</div><div><br></div><div>Vamos então rever como é feito o diagnóstico:</div><div><br></div><div>O diagnóstico clínico da Doença de Kawasaki requer febre por período ≥ 5 dias além de 4 dos 5 critérios a seguir:</div><div><br></div><div>• Hiperemia conjuntival bilateral não exsudativa;</div><div>• Alterações de mucosa oral, incluindo fissuras labiais, língua em morango ou faringite;</div><div>• Alterações de extremidades, incluindo eritema, edema ou descamação;</div><div>• Rash polimórfico;</div><div>• Linfadenopatia cervical com mais de 1,5cm.</div><div><br></div><div>Mas repare que no enunciado, nos é dada a informação de que o paciente teve COVID-19 há 30 dias.&nbsp;</div><div>Para o diagnóstico de MIS-C é necessário o preenchimento dos seguintes critérios:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D29AEEFA-51E7-2E73-3CCE-24B8DF15566B/D29AEEFA-51E7-2E73-3CCE-24B8DF15566B-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Repare que o envolvimento mucocutâneo semelhante à Doença de Kawasaki é apenas um dos critérios.&nbsp;</div><div>Além das medidas de suporte para as disfunções orgânicas, o tratamento com imunoglobulina também é realizado.</div><div><br></div>",
+        "sanitized_complete": "Olá, querido aluno!Vamos aproveitar esta questão para revisar alguns conceitos super importantes sobre Doença de Kawasaki e sobre Síndrome Inflamatória Multissistêmica Associada à COVID-19 (MIS-C ou SIM-P).A Doença de Kawasaki é a  vasculite mais comum da infância, acometendo artérias de médio calibre. A maior consequência deste quadro inflamatório é a possibilidade de ocorrência de aneurismas de coronárias. O diagnóstico pode ser feito clinicamente se os critérios forem cumpridos. Em caso de quadros incompletos ou atípicos, podemos utilizar exames laboratoriais e ecocardiografia para nos auxiliar no diagnóstico.O prognóstico está diretamente relacionado à precocidade da instituição do tratamento com Imunoglobulina.Vamos então rever como é feito o diagnóstico:O diagnóstico clínico da Doença de Kawasaki requer febre por período ≥ 5 dias além de 4 dos 5 critérios a seguir:• Hiperemia conjuntival bilateral não exsudativa;• Alterações de mucosa oral, incluindo fissuras labiais, língua em morango ou faringite;• Alterações de extremidades, incluindo eritema, edema ou descamação;• Rash polimórfico;• Linfadenopatia cervical com mais de 1,5cm.Mas repare que no enunciado, nos é dada a informação de que o paciente teve COVID-19 há 30 dias. Para o diagnóstico de MIS-C é necessário o preenchimento dos seguintes critérios:Repare que o envolvimento mucocutâneo semelhante à Doença de Kawasaki é apenas um dos critérios. Além das medidas de suporte para as disfunções orgânicas, o tratamento com imunoglobulina também é realizado.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+        "author_email_id": "87ea0327b0457d1da1ea55b67e5ba9b8",
+        "author_profile": {
+          "id": "c36f88a2-17e8-43aa-9986-e17e97eb8a8a",
+          "full_name": "Mariana Grando Pegoraro",
+          "avatar_url": "https://static.accounts.estrategia.com/bb3f57cf5535226879c6bedc48cdb87a",
+          "about_me": "Olá, querido aluno!\n\nMeu nome é Mariana Pegoraro e faço parte do time de Pediatria do Estratégia MED.\nSou graduada em Medicina pela Universidade Federal do Paraná (UFPR). Fiz minha Residência Médica em Pediatria no Hospital Israelita Albert Einstein e  em Terapia Intensiva Pediátrica na Universidade de São Paulo.\nTenho título de especialista nessas duas áreas e também Mestrado em Ciências da Saúde pelo Instituo Israelita de Ensino e Pesquisa Albert Einstein.\nMinha grande paixão, Estrategista, é ensinar!\nAlém de fazer parte do time de professores do Estratégia, também trabalho como Intensivista Pediátrica no Hospital Municipal Vila Santa Catarina e na UTI Cardiológica do Instituto do Coração-FMUSP. Sou também instrutora do Pediatric Advanced Life Support (AHA) e preceptora de enfermaria pediátrica.\nContem sempre comigo! Deixarei aqui embaixo minhas redes sociais.\nUm grande abraço!\n\n@prof_marianaped\n@mais_pediatria",
+          "anonymized_areas": []
+        },
+        "created_at": "2021-05-22 12:28:50.093673 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": true,
+      "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146575-720.mp4",
+      "unlisted": false,
+      "slug": "pre-escolar-com-4-anos9764d87e60",
+      "public": true
+    },
+    {
+      "id": "4000126582",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2015,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 110,
+          "created_at": "2020-09-03T20:18:19Z",
+          "updated_at": "2020-09-24T17:11:55Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "069e8ba810ef4ade88cb3eaaf48aaa93",
+          "name": "Diagnóstico ",
+          "is_master": false,
+          "master_id": "a3494f5293014d9b8d7347e2f48a583c",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Eritema Infeccioso[$$]Diagnóstico ",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "b5d64a6c56874a4f85637cf840ab297e",
+          "name": "Quadro clínico",
+          "is_master": false,
+          "master_id": "a3494f5293014d9b8d7347e2f48a583c",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Eritema Infeccioso[$$]Quadro clínico",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "e8888ca6b4264dfaa02a81b57a3ef6bf",
+          "name": "Diagnósticos diferenciais",
+          "is_master": false,
+          "master_id": "a3494f5293014d9b8d7347e2f48a583c",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Eritema Infeccioso[$$]Diagnósticos diferenciais",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "6ac100a0-046a-4fa0-8f90-8e9513c25866",
+          "position": "0",
+          "body": "sarampo.",
+          "sanitized_body": "sarampo.",
+          "correct": false,
+          "created_at": "2020-09-24 19:54:43.879508 +0000 UTC",
+          "updated_at": "2020-11-20 22:11:39.472918 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:03:57.819883 +0000 UTC"
+          },
+          "answer_percentage": 3,
+          "answers": 57
+        },
+        {
+          "id": "70798081-eff1-4a3a-bda8-0445796172f2",
+          "position": "1",
+          "body": "escarlatina.",
+          "sanitized_body": "escarlatina.",
+          "correct": false,
+          "created_at": "2020-09-24 19:54:43.879508 +0000 UTC",
+          "updated_at": "2020-11-20 22:11:39.632893 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "<b>INCORRETA A ALTERNATIVA B </b>porque a <b>escarlatina </b>dá febre alta e amigdalite, que não temos nesse caso. O exantema da escarlatina costuma aparecer 12 horas após os sintomas iniciais, é puntiforme, eritematoso, coalescente (com textura de lixa) e progride em 24hs, costumam também estar presentes os sinais de Pastia (o exantema é mais evidente ou exacerbado em  pregas cubitais, axilares, ou inguinais) e Filatov (hiperemia malar com palidez em torno da boca). Pode ocorrer descamação fina no rosto e em escamas no corpo e extremidades. A língua característica da escarlatina é saburrosa ou em framboesa (esta também pode acontecer na Doença de Kawasaki). É importante saber que seu agente etiológico é uma bactéria, o estreptococo β hemolítico do grupo A de Lancefield, ou <i><b>Streptococcus pyogenes</b></i>, que praticamente <b>não tem </b>incidência em menores de 2 anos (lactentes).",
+            "sanitized_complete": "INCORRETA A ALTERNATIVA B porque a escarlatina dá febre alta e amigdalite, que não temos nesse caso. O exantema da escarlatina costuma aparecer 12 horas após os sintomas iniciais, é puntiforme, eritematoso, coalescente (com textura de lixa) e progride em 24hs, costumam também estar presentes os sinais de Pastia (o exantema é mais evidente ou exacerbado em  pregas cubitais, axilares, ou inguinais) e Filatov (hiperemia malar com palidez em torno da boca). Pode ocorrer descamação fina no rosto e em escamas no corpo e extremidades. A língua característica da escarlatina é saburrosa ou em framboesa (esta também pode acontecer na Doença de Kawasaki). É importante saber que seu agente etiológico é uma bactéria, o estreptococo β hemolítico do grupo A de Lancefield, ou Streptococcus pyogenes, que praticamente não tem incidência em menores de 2 anos (lactentes).",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:03:57.818944 +0000 UTC"
+          },
+          "answer_percentage": 17,
+          "answers": 345
+        },
+        {
+          "id": "eb82b94b-9a7a-4988-ace0-96e836db8efa",
+          "position": "2",
+          "body": "exantema súbito.",
+          "sanitized_body": "exantema súbito.",
+          "correct": false,
+          "created_at": "2020-09-24 19:54:43.879508 +0000 UTC",
+          "updated_at": "2020-11-20 22:11:39.72342 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:03:57.829256 +0000 UTC"
+          },
+          "answer_percentage": 16,
+          "answers": 330
+        },
+        {
+          "id": "a42494d7-dc2a-442b-b0a5-45cdd600ef22",
+          "position": "3",
+          "body": "eritema infeccioso.",
+          "sanitized_body": "eritema infeccioso.",
+          "correct": true,
+          "created_at": "2020-09-24 19:54:43.879508 +0000 UTC",
+          "updated_at": "2020-11-20 22:11:39.803857 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "<b>CORRETA A ALTERNATIVA D </b>porque essa criança <b>tem um quadro clínico clássico do eritema infeccioso (ou parvovirose)</b>, repare que <b>temos </b><u>a principal característica </u>desta doença que é o<b> exantema na face, nas bochechas (região zigomática), como uma “face esbofeteada” </b>e no corpo seu aspecto é <b>rendilhado, costuma progredir em 10 dias para membros, tronco e nádegas</b> e tende a poupar a palma das mãos e a planta dos pés. A doença, geralmente, é <b>afebril </b>(às vezes, temos febre baixa) e <b>outra característica bem particular desta doença é a exacerbação do exantema, ou seu retorno, em situações de exposição ao sol, ao frio ou de exercício físico. </b>O agente etiológico é o <b>parvovírus B19</b>. O diagnóstico é essencialmente clínico e a evolução é geralmente benigna e autolimitada, mas pode acontecer uma crise aplástica transitória (com anemia importante, mas temporária), entre outras complicações ou manifestações. A transmissão é baixa, por via respiratória e contato de pessoa a pessoa.&nbsp;",
+            "sanitized_complete": "CORRETA A ALTERNATIVA D porque essa criança tem um quadro clínico clássico do eritema infeccioso (ou parvovirose), repare que temos a principal característica desta doença que é o exantema na face, nas bochechas (região zigomática), como uma “face esbofeteada” e no corpo seu aspecto é rendilhado, costuma progredir em 10 dias para membros, tronco e nádegas e tende a poupar a palma das mãos e a planta dos pés. A doença, geralmente, é afebril (às vezes, temos febre baixa) e outra característica bem particular desta doença é a exacerbação do exantema, ou seu retorno, em situações de exposição ao sol, ao frio ou de exercício físico. O agente etiológico é o parvovírus B19. O diagnóstico é essencialmente clínico e a evolução é geralmente benigna e autolimitada, mas pode acontecer uma crise aplástica transitória (com anemia importante, mas temporária), entre outras complicações ou manifestações. A transmissão é baixa, por via respiratória e contato de pessoa a pessoa. ",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:03:57.821968 +0000 UTC"
+          },
+          "answer_percentage": 65,
+          "answers": 1356
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Uma menina de 4 anos de idade é trazida à Unidade Básica de Saúde, pois apresentou há dez dias manchas eritematopapulares coalescentes em face e palidez perioral, associadas a episódio de febre de 37,9 °C. O quadro evoluiu nos cinco dias seguintes com manchas eritematopapulares em braços, tronco e nádegas, que esvaneceram com aparência reticulada. Oito dias depois, após exposição solar, as  manchas retornaram na face e no tronco. O estado geral é bom, sem outras alterações no exame físico. A hipótese diagnóstica é de",
+      "statement_text": "Uma menina de 4 anos de idade é trazida à Unidade Básica de Saúde, pois apresentou há dez dias manchas eritematopapulares coalescentes em face e palidez perioral, associadas a episódio de febre de 37,9 °C. O quadro evoluiu nos cinco dias seguintes com manchas eritematopapulares em braços, tronco e nádegas, que esvaneceram com aparência reticulada. Oito dias depois, após exposição solar, as  manchas retornaram na face e no tronco. O estado geral é bom, sem outras alterações no exame físico. A hipótese diagnóstica é de",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-09-24 19:54:43.879508 +0000 UTC",
+      "solution": {
+        "_key": "42c888b4-3e09-45ca-8bbc-06de89a693e8",
+        "complete": "<b>CORRETA A ALTERNATIVA D</b><div><br></div><div><b>Olá, futuro residente! As doenças exantemáticas “bombam” nas provas de residência </b>e geralmente os examinadores cobram o <u>quadro clínico e o agente etiológico</u>, às vezes, também cobram características do exantema, período de incubação, ou de transmissão da doença, modo de contágio, se a doença é de notificação compulsória, entre outros aspectos. A <u>faixa etária </u>principal de acometimento também é uma <u>boa dica </u>para suspeita diagnóstica.&nbsp;<br></div><div><br></div><div>Coloco abaixo uma tabela de doenças exantemáticas virais, que responde com detalhes as alternativas incorretas desta questão. Foi feita para pediatras, mas é focada na prática, então, acredito que facilitará bastante o estudo de vocês.<br></div><div><b><br></b></div><div><b>Doenças Exantemáticas Virais</b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1FEE495F-C26E-A9FC-6B0B-143BD06EC30F/1FEE495F-C26E-A9FC-6B0B-143BD06EC30F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/14D05887-F26D-37A6-F976-10F49A14B581/14D05887-F26D-37A6-F976-10F49A14B581-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B1E16BAB-47D7-98AC-A6DB-96F39A075DF0/B1E16BAB-47D7-98AC-A6DB-96F39A075DF0-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F04EA28F-A40F-5295-2B24-C283CD0349F9/F04EA28F-A40F-5295-2B24-C283CD0349F9-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><i>Fonte: Tabela modificada do livro: “PEDIATRIA AMBULATORIAL: da teoria à prática” – Sociedade de Pediatria de São Paulo (SPSP) – 2016. 1ª Edição. Cap. 24. Doenças Exantemáticas. Série Atualizações Pediátricas. Ed. Atheneu, do qual também sou autora.</i></div>",
+        "sanitized_complete": "CORRETA A ALTERNATIVA DOlá, futuro residente! As doenças exantemáticas “bombam” nas provas de residência e geralmente os examinadores cobram o quadro clínico e o agente etiológico, às vezes, também cobram características do exantema, período de incubação, ou de transmissão da doença, modo de contágio, se a doença é de notificação compulsória, entre outros aspectos. A faixa etária principal de acometimento também é uma boa dica para suspeita diagnóstica. Coloco abaixo uma tabela de doenças exantemáticas virais, que responde com detalhes as alternativas incorretas desta questão. Foi feita para pediatras, mas é focada na prática, então, acredito que facilitará bastante o estudo de vocês.Doenças Exantemáticas ViraisFonte: Tabela modificada do livro: “PEDIATRIA AMBULATORIAL: da teoria à prática” – Sociedade de Pediatria de São Paulo (SPSP) – 2016. 1ª Edição. Cap. 24. Doenças Exantemáticas. Série Atualizações Pediátricas. Ed. Atheneu, do qual também sou autora.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+        "author_profile": {
+          "id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+          "full_name": "Raquel Quiles",
+          "avatar_url": "https://static.accounts.estrategia.com/e4f63c504d8737d11ad75605b3761139",
+          "about_me": "Currículo Médico\n- Formação: Médica Pediatra, formada pela Faculdade de Medicina da Universidade de São Paulo (FM- USP) – Graduação e Residência Médica\n- Título de Especialista em Pediatria (TEP) da Sociedade Brasileira de Pediatria;\n- Especialização em Pediatria e em Cancerologia Pediátrica, Programa de Residência Médica, Pós-Graduação Senso Lato, da FM-USP, no ICrInstituto de Tratamento do Câncer Infantil (ITACI);\n\nAtualmente: Pediatra Professora EstratégiaMed;\n                    Pediatra Professora UNICID;\n\nAtividade acadêmicaprofissional anterior: \n- Médica Preceptora do Hospital Israelita Albert Einstein (HIAE), na Unidade de Pronto Atendimento, com atuação na supervisão do médico residente e na organização da residência médica de pediatria;\n- Médica Assistente do Centro de Referência Nacional de Saúde da Criança do Instituto da Criança (ICr) do Hospital das Clínicas da FM-USP, no Centro de Saúde Escola Samuel Pessoa – Butantã, no ensino de pediatria ambulatorial aos alunos do 4º e 5º ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Assistente do Hospital 9 de Julho, em São Paulo, na Unidade de Internação Pediátrica;\n- Médica Assistente do Corpo Clínico do Hospital Santa Catarina, em São Paulo, no Pronto Socorro Infantil;\n- Consultório Médico de Pediatria Geral e Puericultura;\n- Médica Pediatra do NASF (Núcleo de Apoio à Saúde da Família);\n- Médica Preceptora da Disciplina de Pediatria Clinica I –MPE-521, no Ambulatório Geral de Pediatria do Hospital Universitário. Com atuação no ensino dos alunos do 5o ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Plantonista do Hospital Estadual Vila Alpina, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital da Criança, do Hospital Nossa Sra. de Lourdes, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital 9 de Julho, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Instituto de Tratamento do Câncer Infantil (ITACI), na enfermaria unidade de internação;\n- Médica Plantonista do Hospital Metropolitano, de São Paulo, no Pronto Socorro Infantil;\n\nRedes Sociais:\nwww.facebook.comdraraquelquiles\nwww.instagram.comdraraquelquiles",
+          "social_networks": [
+            {
+              "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+              "profile_social_network_url_path": "https://www.facebook.com/draraquelquiles",
+              "name": "Facebook",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+            },
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/draraquelquiles",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-30 02:03:57.918137 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": true,
+      "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126582-720.mp4",
+      "unlisted": false,
+      "slug": "menina-4-anos-idade-e868a347c85",
+      "public": true
+    },
+    {
+      "id": "4000126761",
+      "exams": [
+        {
+          "scholarity": "placeholder",
+          "year": 2014,
+          "catalogs": {
+            "duration_id": {
+              "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+              "name": "Não se aplica"
+            },
+            "goal_id": {
+              "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+              "name": "Revalida"
+            },
+            "institution_id": {
+              "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+              "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+            },
+            "jury_id": {
+              "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+              "name": "Não se aplica"
+            },
+            "residency_id": {
+              "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+              "name": "Não se aplica"
+            },
+            "sector_id": {
+              "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+              "name": "Público - Federal"
+            },
+            "specialty_id": {
+              "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+              "name": "Não se aplica"
+            },
+            "subspecialty_id": {
+              "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+              "name": "Não se aplica"
+            }
+          },
+          "number": 1,
+          "complement": "",
+          "remuneration": 0,
+          "open_spaces": 0,
+          "candidates_number": 0,
+          "accepted_candidates_number": 0,
+          "answers_type": "Múltipla escolha",
+          "active": true,
+          "pdfs": [
+            {
+              "type": "EXAM",
+              "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+            }
+          ],
+          "degree_proof": false,
+          "questions_number": 110,
+          "created_at": "2020-09-03T18:54:40Z",
+          "updated_at": "2020-09-24T16:06:37Z",
+          "location": {
+            "id": "1"
+          },
+          "author_id": "placeholder"
+        }
+      ],
+      "topics": [
+        {
+          "id": "02feb87513f14c55934695678c9157aa",
+          "name": "Diagnósticos diferenciais",
+          "is_master": false,
+          "master_id": "b632556b2b3b494cbbd42c575ab487b7",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Sarampo[$$]Diagnósticos diferenciais",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "ad0edd9acbc54ab294c1f9df4399aa63",
+          "name": "Diagnóstico ",
+          "is_master": false,
+          "master_id": "b632556b2b3b494cbbd42c575ab487b7",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Sarampo[$$]Diagnóstico ",
+          "has_children": false,
+          "nodes": null
+        },
+        {
+          "id": "c84fab3349ea4edf96fa4478956a6ca4",
+          "name": "Quadro clínico",
+          "is_master": false,
+          "master_id": "b632556b2b3b494cbbd42c575ab487b7",
+          "path": "Pediatria[$$]Infectologia Pediátrica[$$]Doenças exantemáticas[$$]Sarampo[$$]Quadro clínico",
+          "has_children": false,
+          "nodes": null
+        }
+      ],
+      "alternatives": [
+        {
+          "id": "3ad052fc-7568-49a2-8013-552453d477eb",
+          "position": "0",
+          "body": "rubéola.",
+          "sanitized_body": "rubéola.",
+          "correct": false,
+          "created_at": "2020-09-24 22:20:29.980533 +0000 UTC",
+          "updated_at": "2020-11-20 22:29:59.592995 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:11:28.619875 +0000 UTC"
+          },
+          "answer_percentage": 3,
+          "answers": 58
+        },
+        {
+          "id": "add1fe93-7c26-4c95-b02d-79f3505b1bd6",
+          "position": "1",
+          "body": "sarampo.",
+          "sanitized_body": "sarampo.",
+          "correct": true,
+          "created_at": "2020-09-24 22:20:29.980533 +0000 UTC",
+          "updated_at": "2020-11-20 22:29:59.65883 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:11:28.594351 +0000 UTC"
+          },
+          "answer_percentage": 82,
+          "answers": 1452
+        },
+        {
+          "id": "830e9643-614b-4817-bf9c-0a50e0244597",
+          "position": "2",
+          "body": "exantema súbito.",
+          "sanitized_body": "exantema súbito.",
+          "correct": false,
+          "created_at": "2020-09-24 22:20:29.980533 +0000 UTC",
+          "updated_at": "2020-11-20 22:29:59.727126 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:11:28.598575 +0000 UTC"
+          },
+          "answer_percentage": 5,
+          "answers": 94
+        },
+        {
+          "id": "b28b1ff3-1ef5-449a-ab4c-96ed367c5a69",
+          "position": "3",
+          "body": "eritema infeccioso.",
+          "sanitized_body": "eritema infeccioso.",
+          "correct": false,
+          "created_at": "2020-09-24 22:20:29.980533 +0000 UTC",
+          "updated_at": "2020-11-20 22:29:59.796389 +0000 UTC",
+          "topics": [],
+          "solution": {
+            "complete": "",
+            "sanitized_complete": "",
+            "complete_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "brief": "",
+            "sanitized_brief": "",
+            "brief_attachments": [
+              {
+                "type": "AUDIO"
+              }
+            ],
+            "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+            "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+            "author_profile": null,
+            "created_at": "2020-10-30 02:11:28.607011 +0000 UTC"
+          },
+          "answer_percentage": 9,
+          "answers": 157
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "statement": "Um lactente com nove meses de idade vem à consulta na Unidade Básica de Saúde (UBS) com febre há seis dias, acompanhada de tosse, secreção seromucosa nasal, hiperemia e secreção conjuntival intensa. Procurou a UBS no início dos sintomas, sendo diagnosticado um quadro gripal. A mãe retorna para reavaliação, pois a febre não cessou  e os sintomas pioraram com o surgimento de manchas avermelhadas no rosto, que progrediram para o tronco há um dia. Ao exame físico: bom estado geral, ativo, afebril, frequência cardíaca = 120 bpm, frequência respiratória = 40 irpm, auscultas pulmonar e cardíaca sem alterações. Boa perfusão periférica. Otoscopia normal. Oroscopia com mucosa hiperemiada e pequenas manchas brancas com halo eritematoso próximo aos pré-molares Pele: exantema maculopapular em tronco e face. O diagnóstico desse  lactente é:",
+      "statement_text": "Um lactente com nove meses de idade vem à consulta na Unidade Básica de Saúde (UBS) com febre há seis dias, acompanhada de tosse, secreção seromucosa nasal, hiperemia e secreção conjuntival intensa. Procurou a UBS no início dos sintomas, sendo diagnosticado um quadro gripal. A mãe retorna para reavaliação, pois a febre não cessou  e os sintomas pioraram com o surgimento de manchas avermelhadas no rosto, que progrediram para o tronco há um dia. Ao exame físico: bom estado geral, ativo, afebril, frequência cardíaca = 120 bpm, frequência respiratória = 40 irpm, auscultas pulmonar e cardíaca sem alterações. Boa perfusão periférica. Otoscopia normal. Oroscopia com mucosa hiperemiada e pequenas manchas brancas com halo eritematoso próximo aos pré-molares Pele: exantema maculopapular em tronco e face. O diagnóstico desse  lactente é:",
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ],
+      "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+      "difficulty_level": "MEDIUM",
+      "created_at": "2020-09-24 22:20:29.980533 +0000 UTC",
+      "forum_id": "e340df07-376e-4fd9-9b92-457a21571d79",
+      "solution": {
+        "_key": "ff58a1c7-4d82-4644-b988-cef504198d48",
+        "complete": "<b>CORRETA A ALTERNATIVA B</b><div><b><br></b></div><div><b>Olá, caro colega! As doenças exantemáticas “bombam” nas provas de residência </b>e geralmente os examinadores cobram o <u>quadro clínico e o agente etiológico</u>, às vezes, também cobram características do exantema, período de incubação, ou de transmissão da doença, modo de contágio, se a doença é de notificação compulsória, entre outros aspectos. A <u>faixa etária </u>principal de acometimento também é uma <u>boa dica </u>para suspeita diagnóstica.&nbsp;<br></div><div><br></div><div>Um exemplo de <b>quadro clínico clássico de sarampo </b>seria o de um paciente que <b>está há 3 dias ou mais com febre (comumente alta, ≥ 39°C), tosse, coriza, <u>prostração</u></b>, também com <b>conjuntivite</b>, (lacrimejamento e fotofobia são comuns também) <b>e o exantema é morbiliforme (ou maculopapular hiperemiado) e se inicia retroauricular, progredindo de forma craniocaudal (para tronco e membros), </b>como no caso dessa questão, exceto pela prostração, que esse paciente não tem. Por outro lado, esse paciente apresenta na oroscopia a mucosa hiperemiada e com pequenas manchas brancas com halo eritematoso próximo aos pré-molares, que são as manchas de Koplik, típicas (patognomônicas) do sarampo. Assim,&nbsp;</div><div><b><br></b></div><div><b>CORRETA A ALTERNATIVA B </b>sarampo.&nbsp;&nbsp;</div><div><br></div><div>Coloco abaixo uma tabela de doenças exantemáticas virais, que responde com detalhes as alternativas incorretas desta questão. Foi feita para pediatras, mas é focada na prática, então, acredito que facilitará bastante o estudo de vocês.</div><div><b><br></b></div><div><b>Doenças Exantemáticas Virais</b></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/1FEE495F-C26E-A9FC-6B0B-143BD06EC30F/1FEE495F-C26E-A9FC-6B0B-143BD06EC30F-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/14D05887-F26D-37A6-F976-10F49A14B581/14D05887-F26D-37A6-F976-10F49A14B581-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B1E16BAB-47D7-98AC-A6DB-96F39A075DF0/B1E16BAB-47D7-98AC-A6DB-96F39A075DF0-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/F04EA28F-A40F-5295-2B24-C283CD0349F9/F04EA28F-A40F-5295-2B24-C283CD0349F9-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><i>Fonte: Tabela modificada do livro: “PEDIATRIA AMBULATORIAL: da teoria à prática” – Sociedade de Pediatria de São Paulo (SPSP) – 2016. 1ª Edição. Cap. 24. Doenças Exantemáticas. Série Atualizações Pediátricas. Ed. Atheneu, do qual também sou autora.</i></div>",
+        "sanitized_complete": "CORRETA A ALTERNATIVA BOlá, caro colega! As doenças exantemáticas “bombam” nas provas de residência e geralmente os examinadores cobram o quadro clínico e o agente etiológico, às vezes, também cobram características do exantema, período de incubação, ou de transmissão da doença, modo de contágio, se a doença é de notificação compulsória, entre outros aspectos. A faixa etária principal de acometimento também é uma boa dica para suspeita diagnóstica. Um exemplo de quadro clínico clássico de sarampo seria o de um paciente que está há 3 dias ou mais com febre (comumente alta, ≥ 39°C), tosse, coriza, prostração, também com conjuntivite, (lacrimejamento e fotofobia são comuns também) e o exantema é morbiliforme (ou maculopapular hiperemiado) e se inicia retroauricular, progredindo de forma craniocaudal (para tronco e membros), como no caso dessa questão, exceto pela prostração, que esse paciente não tem. Por outro lado, esse paciente apresenta na oroscopia a mucosa hiperemiada e com pequenas manchas brancas com halo eritematoso próximo aos pré-molares, que são as manchas de Koplik, típicas (patognomônicas) do sarampo. Assim, CORRETA A ALTERNATIVA B sarampo.  Coloco abaixo uma tabela de doenças exantemáticas virais, que responde com detalhes as alternativas incorretas desta questão. Foi feita para pediatras, mas é focada na prática, então, acredito que facilitará bastante o estudo de vocês.Doenças Exantemáticas ViraisFonte: Tabela modificada do livro: “PEDIATRIA AMBULATORIAL: da teoria à prática” – Sociedade de Pediatria de São Paulo (SPSP) – 2016. 1ª Edição. Cap. 24. Doenças Exantemáticas. Série Atualizações Pediátricas. Ed. Atheneu, do qual também sou autora.",
+        "complete_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "brief": "",
+        "sanitized_brief": "",
+        "brief_attachments": [
+          {
+            "type": "AUDIO"
+          }
+        ],
+        "author_id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+        "author_email_id": "5d1793ce19604e205328ef26fc6f7f4f",
+        "author_profile": {
+          "id": "39bb03f2-3e2d-424c-96ea-f3034c211721",
+          "full_name": "Raquel Quiles",
+          "avatar_url": "https://static.accounts.estrategia.com/e4f63c504d8737d11ad75605b3761139",
+          "about_me": "Currículo Médico\n- Formação: Médica Pediatra, formada pela Faculdade de Medicina da Universidade de São Paulo (FM- USP) – Graduação e Residência Médica\n- Título de Especialista em Pediatria (TEP) da Sociedade Brasileira de Pediatria;\n- Especialização em Pediatria e em Cancerologia Pediátrica, Programa de Residência Médica, Pós-Graduação Senso Lato, da FM-USP, no ICrInstituto de Tratamento do Câncer Infantil (ITACI);\n\nAtualmente: Pediatra Professora EstratégiaMed;\n                    Pediatra Professora UNICID;\n\nAtividade acadêmicaprofissional anterior: \n- Médica Preceptora do Hospital Israelita Albert Einstein (HIAE), na Unidade de Pronto Atendimento, com atuação na supervisão do médico residente e na organização da residência médica de pediatria;\n- Médica Assistente do Centro de Referência Nacional de Saúde da Criança do Instituto da Criança (ICr) do Hospital das Clínicas da FM-USP, no Centro de Saúde Escola Samuel Pessoa – Butantã, no ensino de pediatria ambulatorial aos alunos do 4º e 5º ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Assistente do Hospital 9 de Julho, em São Paulo, na Unidade de Internação Pediátrica;\n- Médica Assistente do Corpo Clínico do Hospital Santa Catarina, em São Paulo, no Pronto Socorro Infantil;\n- Consultório Médico de Pediatria Geral e Puericultura;\n- Médica Pediatra do NASF (Núcleo de Apoio à Saúde da Família);\n- Médica Preceptora da Disciplina de Pediatria Clinica I –MPE-521, no Ambulatório Geral de Pediatria do Hospital Universitário. Com atuação no ensino dos alunos do 5o ano de medicina da FM-USP e dos médicos residentes de pediatria do ICr do Hospital das Clínicas da FM-USP;\n- Médica Plantonista do Hospital Estadual Vila Alpina, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital da Criança, do Hospital Nossa Sra. de Lourdes, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Hospital 9 de Julho, em São Paulo, no Pronto Socorro Infantil;\n- Médica Plantonista do Instituto de Tratamento do Câncer Infantil (ITACI), na enfermaria unidade de internação;\n- Médica Plantonista do Hospital Metropolitano, de São Paulo, no Pronto Socorro Infantil;\n\nRedes Sociais:\nwww.facebook.comdraraquelquiles\nwww.instagram.comdraraquelquiles",
+          "social_networks": [
+            {
+              "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+              "profile_social_network_url_path": "https://www.facebook.com/draraquelquiles",
+              "name": "Facebook",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+            },
+            {
+              "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+              "profile_social_network_url_path": "https://www.instagram.com/draraquelquiles",
+              "name": "Instagram",
+              "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+            }
+          ],
+          "anonymized_areas": []
+        },
+        "created_at": "2020-10-30 02:11:28.709872 +0000 UTC"
+      },
+      "status": {
+        "value": "APPROVED"
+      },
+      "has_video_solution": true,
+      "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126761-720.mp4",
+      "unlisted": false,
+      "slug": "lactente-com-nove13173d81a14",
+      "public": true
+    }
+  ]

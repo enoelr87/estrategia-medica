@@ -11,6 +11,12 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { TooltipModule } from 'primeng/tooltip';
 import { AccordionModule } from 'primeng/accordion';
 import { RadioButtonModule } from 'primeng/radiobutton';
+import { DialogModule } from 'primeng/dialog';
+import { TabMenuModule } from 'primeng/tabmenu';
+import { MultiSelectModule } from 'primeng/multiselect';
+import { TableModule } from 'primeng/table';
+import { PaginatorModule } from 'primeng/paginator';
+import { ToggleButtonModule } from 'primeng/togglebutton';
 
 
 @NgModule({
@@ -30,6 +36,12 @@ import { RadioButtonModule } from 'primeng/radiobutton';
     TooltipModule,
     AccordionModule,
     RadioButtonModule,
+    DialogModule,
+    TabMenuModule,  
+    MultiSelectModule,
+    TableModule,
+    PaginatorModule,
+    ToggleButtonModule,
   ],
   exports: [
     CommonModule,
@@ -46,6 +58,12 @@ import { RadioButtonModule } from 'primeng/radiobutton';
     TooltipModule,
     AccordionModule,
     RadioButtonModule,
+    DialogModule,
+    TabMenuModule,  
+    MultiSelectModule,
+    TableModule,
+    PaginatorModule,
+    ToggleButtonModule,
   ]
 })
 export class SharedModule { }

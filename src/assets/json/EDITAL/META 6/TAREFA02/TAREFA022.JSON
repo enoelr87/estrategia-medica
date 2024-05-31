@@ -1,0 +1,898 @@
+{
+    "data": [
+      {
+        "id": "4000129283",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2012,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4A748D96-F8DC-51F4-9033-CD5CE6F9BF84"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-11-24T13:01:40Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "fc1ba30f94b24567920829287f98e2cb",
+            "name": "Tratamento Cirúrgico ",
+            "is_master": false,
+            "master_id": "691b698a97164335b20d6c8acbca2e0f",
+            "path": "Cirurgia[$$]Vesícula e Vias Biliares[$$]Colelitíase[$$]Tratamento Cirúrgico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1b762128-a04c-43eb-9dec-ab5e971bab1f",
+            "position": "0",
+            "body": "Litotripsia extracorpórea.<div>&nbsp;</div>",
+            "sanitized_body": "Litotripsia extracorpórea. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+            "updated_at": "2020-12-01 08:41:07.284808 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A principal opção de tratamento não cirúrgico PARA PACIENTE ASSINTOMÁTICOS QUE NNÃO SE ENQUADRAM NAS INDICAÇÕES NA TABELA ABAIXO, é a utilização da litotripsia extracorpórea (LECO). Ela pode ser indicada nos pacientes que apresentem pedras únicas de 0,5cm a 2,0cm, com uma taxa de recorrência de 20%.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C4CE60B4-D2C5-3AA9-B820-88E02E1DB081/C4CE60B4-D2C5-3AA9-B820-88E02E1DB081-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "A principal opção de tratamento não cirúrgico PARA PACIENTE ASSINTOMÁTICOS QUE NNÃO SE ENQUADRAM NAS INDICAÇÕES NA TABELA ABAIXO, é a utilização da litotripsia extracorpórea (LECO). Ela pode ser indicada nos pacientes que apresentem pedras únicas de 0,5cm a 2,0cm, com uma taxa de recorrência de 20%.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-01 17:20:29.006706 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 36
+          },
+          {
+            "id": "33435d94-232c-4219-a43c-25624f7c8c70",
+            "position": "1",
+            "body": "Tratamento cirúrgico.<div>&nbsp;</div>",
+            "sanitized_body": "Tratamento cirúrgico. ",
+            "correct": true,
+            "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+            "updated_at": "2020-12-01 08:41:07.488189 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Atualmente o tratamento proposto é a colecistectomia via laparoscopia.&nbsp;",
+              "sanitized_complete": "Atualmente o tratamento proposto é a colecistectomia via laparoscopia. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-01 17:20:28.997242 +0000 UTC"
+            },
+            "answer_percentage": 94,
+            "answers": 1374
+          },
+          {
+            "id": "2c69f172-56ac-4ae5-8a49-c05f881bfb27",
+            "position": "2",
+            "body": "Emprego do ácido ursodesoxicólico.<div>&nbsp;&nbsp;</div>",
+            "sanitized_body": "Emprego do ácido ursodesoxicólico.  ",
+            "correct": false,
+            "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+            "updated_at": "2020-12-01 08:41:07.665371 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O ácido ursodesoxicólico age solubilizando o colesterol presente na superfície e no centro do cálculo. Além disso, o ursodiol age diminuindo a absorção intestinal de colesterol e melhorando o esvaziamento da vesícula biliar, é uma alternativa para pacientes ASSINTOMÁTICOS com taxa de sucesso de 30 a 50 %.",
+              "sanitized_complete": "O ácido ursodesoxicólico age solubilizando o colesterol presente na superfície e no centro do cálculo. Além disso, o ursodiol age diminuindo a absorção intestinal de colesterol e melhorando o esvaziamento da vesícula biliar, é uma alternativa para pacientes ASSINTOMÁTICOS com taxa de sucesso de 30 a 50 %.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-01 17:20:29.007432 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 3
+          },
+          {
+            "id": "891ff6bb-3a74-4e5d-8e60-37ca6c0a99d3",
+            "position": "3",
+            "body": "Colangioressonância.<div>&nbsp;</div>",
+            "sanitized_body": "Colangioressonância. ",
+            "correct": false,
+            "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+            "updated_at": "2020-12-01 08:41:07.837989 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A colangioressonância é indicada em pacientes com suspeita de coledocolitíase, que é a obstrução da via biliar por cálculos, devemos pensar nesse exame antes do tratamento cirúrgico na presença de dilatação da via biliar e icterícia.&nbsp;",
+              "sanitized_complete": "A colangioressonância é indicada em pacientes com suspeita de coledocolitíase, que é a obstrução da via biliar por cálculos, devemos pensar nesse exame antes do tratamento cirúrgico na presença de dilatação da via biliar e icterícia. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-01 17:20:29.010697 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 33
+          },
+          {
+            "id": "c5fae670-4683-44ca-b37f-2207ce342c29",
+            "position": "4",
+            "body": "Mudanças de dieta e analgésicos sob demanda.",
+            "sanitized_body": "Mudanças de dieta e analgésicos sob demanda.",
+            "correct": false,
+            "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+            "updated_at": "2020-12-01 08:41:08.037139 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O tratamento não cirúrgico da colelitíase é possível, porém, é raramente indicado e a taxa de falha é alta, sendo uma conduta de exceção.",
+              "sanitized_complete": "O tratamento não cirúrgico da colelitíase é possível, porém, é raramente indicado e a taxa de falha é alta, sendo uma conduta de exceção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+              "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+              "author_profile": null,
+              "created_at": "2021-08-01 17:20:28.993811 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 17
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 57 anos de idade, portadora de litíase biliar diagnosticada há 12 anos por ultrassonografia abdominal, tem antecedentes de três episódios sugestivos de colecistite aguda tratados clinicamente. Não tem outras comorbidades. Submetida à ultrassonografia abdominal há cerca de duas semanas, em decorrência de novo quadro de dor abdominal em cólica, o exame mostrou, além de vários cálculos pequenos no interior da vesícula, placas opacificando os contornos da parede, sugerindo \"vesícula em porcelana\".<div><br></div><div>Qual a conduta mais indicada nesse caso?</div><div>&nbsp;&nbsp;<br></div>",
+        "statement_text": "Uma mulher de 57 anos de idade, portadora de litíase biliar diagnosticada há 12 anos por ultrassonografia abdominal, tem antecedentes de três episódios sugestivos de colecistite aguda tratados clinicamente. Não tem outras comorbidades. Submetida à ultrassonografia abdominal há cerca de duas semanas, em decorrência de novo quadro de dor abdominal em cólica, o exame mostrou, além de vários cálculos pequenos no interior da vesícula, placas opacificando os contornos da parede, sugerindo &#34;vesícula em porcelana&#34;.Qual a conduta mais indicada nesse caso?  ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "19674366b572d3de8b56bceacf34849a",
+        "difficulty_level": "EASY",
+        "created_at": "2020-11-24 14:24:04.209957 +0000 UTC",
+        "solution": {
+          "_key": "eae6a4b6-bc05-4673-afb8-37b97c8abccb",
+          "complete": "Paciente com diagnóstico de colelitíase sintomática associado de vesícula em porcelana no exame de ultrassonografia!<div><br><div>Para quem nunca ouviu falar, a vesícula biliar em porcelana é uma manifestação incomum de colecistite crônica, caracterizada pela calcificação intramural da parede da vesícula biliar. Está associado à colelitíase em mais de 95% dos casos. Tal como acontece com outras condições relacionadas com cálculos biliares, esses pacientes correm um risco maior de câncer de vesícula. Um dos principais fatores de risco para este tipo de neoplasia é a própria colelitíase, justificando um dos motivos para o tratamento definitivo. Além disso, complicações como colecistite complicada, coledocolitiase, Síndrome de Mirizzi podem ocorrer e inclusive com alta morbimortalidade.&nbsp;</div><div><br></div><div>O tratamento não cirúrgico da colelitíase é possível, porém, é raramente indicado e a taxa de falha é alta, sendo uma conduta de exceção.</div><div><br></div><div>A colecistectomia videolaparoscopica é o tratamento preconizado para o tratamento da colelitíase sintomática! Alguns pacientes com colelitíase assintomática também irão apresentar indicação de tratamento cirúrgico, e uma delas é a vesícula em porcelana.&nbsp;</div><div><br></div><div>As terapias não cirúrgicas para a colelitíase sintomática só devem ser indicadas para pacientes que não tenham condições cirúrgicas para serem submetidos a uma colecistectomia ou pacientes que terminantemente recusem tratamento cirúrgico. Vamos falar um pouco sobre elas nas alternativas!</div><div><br></div><div>Vamos analisar as alternativas:</div><div><br></div></div>",
+          "sanitized_complete": "Paciente com diagnóstico de colelitíase sintomática associado de vesícula em porcelana no exame de ultrassonografia!Para quem nunca ouviu falar, a vesícula biliar em porcelana é uma manifestação incomum de colecistite crônica, caracterizada pela calcificação intramural da parede da vesícula biliar. Está associado à colelitíase em mais de 95% dos casos. Tal como acontece com outras condições relacionadas com cálculos biliares, esses pacientes correm um risco maior de câncer de vesícula. Um dos principais fatores de risco para este tipo de neoplasia é a própria colelitíase, justificando um dos motivos para o tratamento definitivo. Além disso, complicações como colecistite complicada, coledocolitiase, Síndrome de Mirizzi podem ocorrer e inclusive com alta morbimortalidade. O tratamento não cirúrgico da colelitíase é possível, porém, é raramente indicado e a taxa de falha é alta, sendo uma conduta de exceção.A colecistectomia videolaparoscopica é o tratamento preconizado para o tratamento da colelitíase sintomática! Alguns pacientes com colelitíase assintomática também irão apresentar indicação de tratamento cirúrgico, e uma delas é a vesícula em porcelana. As terapias não cirúrgicas para a colelitíase sintomática só devem ser indicadas para pacientes que não tenham condições cirúrgicas para serem submetidos a uma colecistectomia ou pacientes que terminantemente recusem tratamento cirúrgico. Vamos falar um pouco sobre elas nas alternativas!Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+          "author_email_id": "087db47c60f9bd98a09a8b6eb53a2a25",
+          "author_profile": {
+            "id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+            "full_name": "Thaila Pine Gondek",
+            "avatar_url": "https://static.accounts.estrategia.com/44be6b4b8985129795485125e5d29553",
+            "about_me": "Graduação em Medicina pela Faculdade de Medicina de Marília (FAMEMA).\nResidência em Cirurgia Geral pela Santa Casa de Misericórdia de São Paulo (SCMSP) e\nCirurgia de Cabeça e Pescoço no Hospital das Clínicas da Faculdade de Medicina da\nUniversidade de São Paulo (HC-FMUSP).\nFellowship em cirurgia de base de crânio no ICESP.\nProfessora de Cirurgia do Estratégia MED.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-08-01 17:20:29.118116 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000129283-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-57-anos-idade80ade56233",
+        "public": true
+      },
+      {
+        "id": "4000153793",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5E210C57-A53B-9B7D-AFAF-FF899E4334CE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "76A1C0B7-6C88-B6B1-1EBE-E0C51998C7A9"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-10-01T13:46:00Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "854c5188d1d44132a82a3eec278d0375",
+            "name": "Apresentação Clínica",
+            "is_master": false,
+            "master_id": "9bfb370db5ae409ba97edb57a2314f3f",
+            "path": "Cirurgia[$$]Vesícula e Vias Biliares[$$]Colangiocarcinoma[$$]Apresentação Clínica",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b03149a6-3a50-4148-9427-aff52a856167",
+            "position": "0",
+            "body": "Icterícia",
+            "sanitized_body": "Icterícia",
+            "correct": false,
+            "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+            "updated_at": "2021-10-13 13:10:00.985102 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Os pacientes com colangiocarcinoma peri-hilar e distal geralmente se apresentam com icterícia de padrão obstrutivo.",
+              "sanitized_complete": "Os pacientes com colangiocarcinoma peri-hilar e distal geralmente se apresentam com icterícia de padrão obstrutivo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-08-13 16:45:50.08543 +0000 UTC",
+              "updated_at": "2022-08-13 16:46:58.623139 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 8
+          },
+          {
+            "id": "ff5622cb-bb2a-4c80-bc01-8c86eb3c3d24",
+            "position": "1",
+            "body": "Prurido cutâneo\n",
+            "sanitized_body": "Prurido cutâneo\n",
+            "correct": false,
+            "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+            "updated_at": "2021-10-13 13:10:01.17351 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "O prurido pode surgir em 20% a 50% dos pacientes ictéricos (tanto na colestase aguda <span>como na crônica de causa intra ou extra-hepática).  </span>",
+              "sanitized_complete": "O prurido pode surgir em 20% a 50% dos pacientes ictéricos (tanto na colestase aguda como na crônica de causa intra ou extra-hepática).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-08-13 16:45:50.089149 +0000 UTC",
+              "updated_at": "2022-08-13 16:46:58.623539 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 30
+          },
+          {
+            "id": "5879895b-9ab4-4721-90b0-ab6427c855e5",
+            "position": "2",
+            "body": "Acolia fecal",
+            "sanitized_body": "Acolia fecal",
+            "correct": false,
+            "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+            "updated_at": "2021-10-13 13:10:01.341823 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Como não há passagem de bilirrubina para o intestino, uma vez que a via biliar está obstruída, as fezes podem ficar claras (acolia/hipocolia fecal). Também pode haver esteatorreia (gordura nas fezes) porque a bile não entra no intestino para ajudar a digerir a gordura dos alimentos.",
+              "sanitized_complete": "Como não há passagem de bilirrubina para o intestino, uma vez que a via biliar está obstruída, as fezes podem ficar claras (acolia/hipocolia fecal). Também pode haver esteatorreia (gordura nas fezes) porque a bile não entra no intestino para ajudar a digerir a gordura dos alimentos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-08-13 16:45:50.08662 +0000 UTC",
+              "updated_at": "2022-08-13 16:46:58.623102 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 10
+          },
+          {
+            "id": "4326bde9-4edc-4442-b199-7ad40b43582e",
+            "position": "3",
+            "body": "Sinal de Courvoisier-Terrier",
+            "sanitized_body": "Sinal de Courvoisier-Terrier",
+            "correct": true,
+            "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+            "updated_at": "2021-10-13 13:10:01.512805 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "nos tumores peri-hilares, não há presença de vesícula de Courvoisier-Terrier, porque a obstrução do fluxo biliar é proximal ao ducto cístico. Nesses pacientes, a vesícula encontra-se atrofiada e vazia de bile, já que ela se enche retrogradamente.",
+              "sanitized_complete": "nos tumores peri-hilares, não há presença de vesícula de Courvoisier-Terrier, porque a obstrução do fluxo biliar é proximal ao ducto cístico. Nesses pacientes, a vesícula encontra-se atrofiada e vazia de bile, já que ela se enche retrogradamente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-08-13 16:45:50.093235 +0000 UTC",
+              "updated_at": "2022-08-13 16:46:58.624247 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 154
+          },
+          {
+            "id": "ee0566ce-76b5-474f-957b-0f1196932c0c",
+            "position": "4",
+            "body": "Colúria",
+            "sanitized_body": "Colúria",
+            "correct": false,
+            "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+            "updated_at": "2021-10-13 13:10:01.674774 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A colúria  ocorre devido a presença de bilirrubina direta (conjugada) na urina. Somente a direta pode causar colúria já que é solúvel e não é ligada à albumina como a bilirrubina indireta. ",
+              "sanitized_complete": "A colúria  ocorre devido a presença de bilirrubina direta (conjugada) na urina. Somente a direta pode causar colúria já que é solúvel e não é ligada à albumina como a bilirrubina indireta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+              "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+              "author_profile": null,
+              "created_at": "2022-08-13 16:45:50.085945 +0000 UTC",
+              "updated_at": "2022-08-13 16:46:58.623949 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 3
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Qual sinal ou sintoma NÃO faz parte do quadro clínico do tumor de Klatskin, um colangiocarcinoma, ao longo da sua evolução?",
+        "statement_text": "Qual sinal ou sintoma NÃO faz parte do quadro clínico do tumor de Klatskin, um colangiocarcinoma, ao longo da sua evolução?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-10-01 17:26:02.02954 +0000 UTC",
+        "solution": {
+          "_key": "30753a43-e1e6-470f-bcb0-90bc1e49bafb",
+          "complete": "O colangiocarcinoma é um tumor raro que surge no epitélio dos ductos biliares. Eles podem surgir em qualquer parte da via biliar: porção <div>intra-hepática, peri-hilar e porção distal, sendo que 2/3 (60%-70%) deles surgem junto ao hilo hepático (peri-hilares) e aproximadamente 5%-<span>10% são intra-hepáticos. </span></div><div><span>A apresentação clínica dos colangiocarcinomas vai depender </span><span>do local de sua origem e, principalmente, do quadro de obstrução</span></div><div><span>da via biliar. Os pacientes com colangiocarcinoma peri-hilar e distal </span><span>geralmente se apresentam com icterícia de padrão obstrutivo. Nos </span></div><div><span>colangiocarcinomas que acometem somente um lobo hepático </span><span>(intra-hepáticos), por exemplo, o paciente pode não apresentar </span></div><div><span>sinais e sintomas relevantes, o que atrasa o diagnóstico. </span><span>Os sintomas constitucionais, como perda ponderal, anorexia, </span><span>fadiga, podem estar presentes. </span><span>No exame físico, nos tumores peri-hilares, <b>não há presença </b></span><span><b>de vesícula de Courvoisier-Terrier, porque a obstrução do fluxo biliar </b></span><span><b>é proximal ao ducto cístico.</b> Nesses pacientes, a vesícula encontra-se atrofiada e vazia de bile, já que ela se enche retrogradamente.</span></div><div><span>Os tumores peri-hilares, também conhecidos como tumor de Klatskin, são classificados conforme o acometimento dos ductos hepáticos. </span><span>Essa classificação recebe o nome de seus autores, Bismuth e Corlette:</span></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6543F222-BFE2-D401-B302-15220E73F934/6543F222-BFE2-D401-B302-15220E73F934-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><span><br></span></div>",
+          "sanitized_complete": "O colangiocarcinoma é um tumor raro que surge no epitélio dos ductos biliares. Eles podem surgir em qualquer parte da via biliar: porção intra-hepática, peri-hilar e porção distal, sendo que 2/3 (60%-70%) deles surgem junto ao hilo hepático (peri-hilares) e aproximadamente 5%-10% são intra-hepáticos. A apresentação clínica dos colangiocarcinomas vai depender do local de sua origem e, principalmente, do quadro de obstruçãoda via biliar. Os pacientes com colangiocarcinoma peri-hilar e distal geralmente se apresentam com icterícia de padrão obstrutivo. Nos colangiocarcinomas que acometem somente um lobo hepático (intra-hepáticos), por exemplo, o paciente pode não apresentar sinais e sintomas relevantes, o que atrasa o diagnóstico. Os sintomas constitucionais, como perda ponderal, anorexia, fadiga, podem estar presentes. No exame físico, nos tumores peri-hilares, não há presença de vesícula de Courvoisier-Terrier, porque a obstrução do fluxo biliar é proximal ao ducto cístico. Nesses pacientes, a vesícula encontra-se atrofiada e vazia de bile, já que ela se enche retrogradamente.Os tumores peri-hilares, também conhecidos como tumor de Klatskin, são classificados conforme o acometimento dos ductos hepáticos. Essa classificação recebe o nome de seus autores, Bismuth e Corlette:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+          "author_email_id": "2b9bbb4871fc63c13c9148be07f042df",
+          "author_profile": {
+            "id": "9859cbef-02f6-4412-8907-bfd7769df45f",
+            "full_name": "Renatha Paiva de Castro",
+            "avatar_url": "https://static.accounts.estrategia.com/e4000946ecd6625076f499e28ce5ac58",
+            "about_me": "➢ Graduação: Curso de Medicina pela Universidade Federal de Juiz de ForaMG, 1997 a 2002\n➢ Residência Médica em Cirurgia Geral pelo Hospital Santa Marcelina em São PauloSP, 2003 e 2004 – Prova de residência SUSSP.\n➢ Residência Médica em Cirurgia Oncológica pelo Instituto Arnaldo Vieira de CarvalhoSP, 2005 a 2007 – Prova de residência SUSSP.\n➢ Pós-graduação em Nutrologia pela ABRAN (Associação Brasileira de Nutrologia) em 2018.\n➢ Aprovada em 1o lugar no concurso público da Polícia Civil do Estado de São Paulo, para o cargo de\nmédico legista, em 2008.\n➢ Médica legista, chefe de equipe, do Instituto Médico Legal de Taboão da SerraSP, desde 2009.\n➢ Médica cirurgiã do Pronto Socorro do Hospital Regional de CotiaSP, desde 2007.\n➢ Preceptora da Residência Médica de Cirurgia Geral do Hospital Regional de CotiaSP, desde 2014.\n➢ Preceptora do internato de Cirurgia Geral da Unicid, Universidade Cidade São Paulo, realizado no\nHospital Regional de Cotia, desde 2019.\n➢ Professora da disciplina de Medicina Legal da Academia de Polícia Civil de São Paulo.\n\nRedes sociais:\nhttp:linkedin.cominrenatha-paiva-96a125196",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.renathapaiva",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-08-13 16:45:50.451306 +0000 UTC",
+          "updated_at": "2022-08-13 16:46:58.788123 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153793-720.mp4",
+        "unlisted": false,
+        "slug": "Qual-sinal-ou-sintoma2187c8f08d",
+        "public": true
+      },
+      {
+        "id": "4000127061",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "ce93cab80820446290f7ea627578e6e9",
+            "name": "Cirurgia",
+            "is_master": true,
+            "path": "Cirurgia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fc1ba30f94b24567920829287f98e2cb",
+            "name": "Tratamento Cirúrgico ",
+            "is_master": false,
+            "master_id": "691b698a97164335b20d6c8acbca2e0f",
+            "path": "Cirurgia[$$]Vesícula e Vias Biliares[$$]Colelitíase[$$]Tratamento Cirúrgico ",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "d360ed84-9852-4651-900d-318a152999e2",
+            "position": "0",
+            "body": "é crônico e o tratamento cirúrgico pode ser adiado.",
+            "sanitized_body": "é crônico e o tratamento cirúrgico pode ser adiado.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.731385 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADO: Pacientes diabéticos estão sob maior risco de complicações graves da colecistite. Além disso, pacientes com sintomas mais graves ou recorrentes apresentam maior taxa de complicações da doença (7% ao ano), estando recomendada a cirurgia antes da viagem.",
+              "sanitized_complete": "ERRADO: Pacientes diabéticos estão sob maior risco de complicações graves da colecistite. Além disso, pacientes com sintomas mais graves ou recorrentes apresentam maior taxa de complicações da doença (7% ao ano), estando recomendada a cirurgia antes da viagem.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.82349 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.379603 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 142
+          },
+          {
+            "id": "af66052d-d7ca-403a-a4c2-2374075d5edc",
+            "position": "1",
+            "body": "requer tratamento cirúrgico antes da viagem.",
+            "sanitized_body": "requer tratamento cirúrgico antes da viagem.",
+            "correct": true,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.807084 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA: A paciente tem indicação cirúrgica, já que apresenta colelitíase sintomática. Como apresenta piora dos sintomas nos últimos seis meses, está sob maior risco de complicações da doença (7% ao ano). Além disso, pacientes diabéticos têm maior risco de desenvolver colecistite aguda gangrenosa, uma forma mais grave de colecistite aguda.",
+              "sanitized_complete": "CORRETA: A paciente tem indicação cirúrgica, já que apresenta colelitíase sintomática. Como apresenta piora dos sintomas nos últimos seis meses, está sob maior risco de complicações da doença (7% ao ano). Além disso, pacientes diabéticos têm maior risco de desenvolver colecistite aguda gangrenosa, uma forma mais grave de colecistite aguda.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.838977 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.401869 +0000 UTC"
+            },
+            "answer_percentage": 78,
+            "answers": 1720
+          },
+          {
+            "id": "95c6ff63-9ecf-477a-8f7d-5e98bb5916b5",
+            "position": "2",
+            "body": "requer tratamento cirúrgico imediato.",
+            "sanitized_body": "requer tratamento cirúrgico imediato.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.898459 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: A colecistite CRÔNICA litiásica não exige tratamento cirúrgico de imediato, diferentemente da colecistite AGUDA litiásica.",
+              "sanitized_complete": "ERRADA: A colecistite CRÔNICA litiásica não exige tratamento cirúrgico de imediato, diferentemente da colecistite AGUDA litiásica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.840225 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.372365 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 258
+          },
+          {
+            "id": "88f0c099-230c-4322-9bb2-ce581a00c4fd",
+            "position": "3",
+            "body": "requer acompanhamento imediato quando aparecerem indícios de complicações.",
+            "sanitized_body": "requer acompanhamento imediato quando aparecerem indícios de complicações.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:52.979617 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: Óbvio que, na presença de complicações, está indicado o acompanhamento imediato. No entanto, a melhor conduta, para o caso exposto, não é aguardar o surgimento de complicações para indicarmos o tratamento cirúrgico.&nbsp;",
+              "sanitized_complete": "ERRADA: Óbvio que, na presença de complicações, está indicado o acompanhamento imediato. No entanto, a melhor conduta, para o caso exposto, não é aguardar o surgimento de complicações para indicarmos o tratamento cirúrgico. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.844337 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.381984 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 85
+          },
+          {
+            "id": "1b9044fb-05e6-4198-8b72-1c9c4be61900",
+            "position": "4",
+            "body": "requer antibioticoterapia imediata e uso de antiespasmódicos.",
+            "sanitized_body": "requer antibioticoterapia imediata e uso de antiespasmódicos.",
+            "correct": false,
+            "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+            "updated_at": "2020-11-14 13:18:53.063216 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "ERRADA: A colecistite crônica litiásica é secundária às diversas crises de cólica biliar. O tratamento é a cirurgia (colecistectomia) eletiva. Importante não confundir com a colecistite AGUDA, que é uma urgência médica, indicado antibioticoterapia e tratamento cirúrgico imediato.",
+              "sanitized_complete": "ERRADA: A colecistite crônica litiásica é secundária às diversas crises de cólica biliar. O tratamento é a cirurgia (colecistectomia) eletiva. Importante não confundir com a colecistite AGUDA, que é uma urgência médica, indicado antibioticoterapia e tratamento cirúrgico imediato.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+              "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+              "author_profile": null,
+              "created_at": "2020-11-10 14:20:07.827749 +0000 UTC",
+              "updated_at": "2020-11-10 14:20:08.376147 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 14
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Mulher com 54 anos de idade, Índice de Massa Corpórea (IMC) = 32,6, portadora de diabetes tipo 2, controlado com medidas dietéticas e uso de glibenclamida, comparece à Unidade Básica de Saúde com queixa de dor, do tipo cólica, em hipocôndrio direito, que se irradia para o ombro direito e piora após ingestão de alimentos, especialmente gordurosos. Relata episódios de vômitos durante algumas crises. Disse, ainda, que o quadro iniciou-se há mais ou menos seis meses, agravando-se no último mês. Após a realização do exame físico, o médico solicitou ultrassonografia de abdome que  evidenciou “colecistopatia calculosa crônica”. Ao explicar o diagnóstico para a paciente, ela informou que gostaria de passar seis meses visitando a filha que mora em Portugal. Baseado nessa situação, você diria à paciente que seu quadro clínico:",
+        "statement_text": "Mulher com 54 anos de idade, Índice de Massa Corpórea (IMC) = 32,6, portadora de diabetes tipo 2, controlado com medidas dietéticas e uso de glibenclamida, comparece à Unidade Básica de Saúde com queixa de dor, do tipo cólica, em hipocôndrio direito, que se irradia para o ombro direito e piora após ingestão de alimentos, especialmente gordurosos. Relata episódios de vômitos durante algumas crises. Disse, ainda, que o quadro iniciou-se há mais ou menos seis meses, agravando-se no último mês. Após a realização do exame físico, o médico solicitou ultrassonografia de abdome que  evidenciou “colecistopatia calculosa crônica”. Ao explicar o diagnóstico para a paciente, ela informou que gostaria de passar seis meses visitando a filha que mora em Portugal. Baseado nessa situação, você diria à paciente que seu quadro clínico:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:07:27.740723 +0000 UTC",
+        "solution": {
+          "_key": "166c27ae-db1c-4d7d-b53f-f22afdbdc749",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>No enunciado, temos um paciente do sexo feminino, obesidade grau I, diabética, com queixa de dor tipo cólica, em hipocôndrio direito, que piora com alimentação, principalmente gordurosa. Essa dor é típica de cólica biliar, a dor causada pela presença de colelitíase. Ultrassonografia confirma o diagnóstico (colecistopatia crônica calculosa). A paciente quer viajar para outro país, por seis meses. Podemos entender que, neste período, ela não terá assistência médica. Portanto, qual é a melhor conduta?</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BNo enunciado, temos um paciente do sexo feminino, obesidade grau I, diabética, com queixa de dor tipo cólica, em hipocôndrio direito, que piora com alimentação, principalmente gordurosa. Essa dor é típica de cólica biliar, a dor causada pela presença de colelitíase. Ultrassonografia confirma o diagnóstico (colecistopatia crônica calculosa). A paciente quer viajar para outro país, por seis meses. Podemos entender que, neste período, ela não terá assistência médica. Portanto, qual é a melhor conduta?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+          "author_email_id": "2fc6060dc86ccd0cd22061381b5e5299",
+          "author_profile": {
+            "id": "a95e837f-3a61-46fa-b15c-9c1600f62b54",
+            "full_name": "Tomás Ramos Velloso Coelho",
+            "avatar_url": "https://static.accounts.estrategia.com/69136def6e8ce33ad05052b6ff065ac8",
+            "about_me": "Graduação em Medicina pela Universidade do Estado do Rio de Janeiro - UERJ (2010), residência em Cirurgia Geral pela Universidade do Estado do Rio de Janeiro - UERJ (2012 - 2014), residência em Cancerologia Cirúrgica pelo Hospital de Amor - BarretosSP (2014 - 2017). Cirurgião Oncológico do Instituto do Câncer de Três Lagoas de 2017 a 2019. Desde 2019 em São PauloSP e, desde 2020, professor do Estratégia Med.\n",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/tomas_coelho87",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/tomas-coelho-14562b178",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-10 14:20:07.974497 +0000 UTC",
+          "updated_at": "2020-11-10 14:20:08.459688 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127061-720.mp4",
+        "unlisted": false,
+        "slug": "Mulher-com-54-anos1315ae0e40c",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 28
+    }
+  }

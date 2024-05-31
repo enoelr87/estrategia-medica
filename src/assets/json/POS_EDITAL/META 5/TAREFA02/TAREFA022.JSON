@@ -1,0 +1,1362 @@
+{
+    "data": [
+      {
+        "id": "4000146617",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "073b45e010394884acb193c4df196a54",
+            "name": "Abordagem Comunitária ",
+            "is_master": false,
+            "master_id": "e713cef0f17a4c4cbc34644d4910f3b7",
+            "path": "Medicina Preventiva[$$]Medicina de Família e Comunidade[$$]Abordagem Comunitária ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "26fbf0feb9f24e968995496f72b60248",
+            "name": "Medicina Preventiva",
+            "is_master": true,
+            "path": "Medicina Preventiva",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "6e80a52a11324a6a8e1d668ec79e174e",
+            "name": "Planejamento em Saúde",
+            "is_master": false,
+            "master_id": "025956be6fcc40338c7bdfb80786dc85",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Financiamento em Saúde[$$]Planejamento em Saúde",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "55d3d930-2c89-4df1-a37e-11494f49c52b",
+            "position": "0",
+            "body": "Fazer o levantamento dos dados populacionais e socioeconômicos, analisar os dados, adquirir mapa do território, identificar os equipamentos sociais com base no tamanho da população e delimitar o território de acordo com os dados obtidos.",
+            "sanitized_body": "Fazer o levantamento dos dados populacionais e socioeconômicos, analisar os dados, adquirir mapa do território, identificar os equipamentos sociais com base no tamanho da população e delimitar o território de acordo com os dados obtidos.",
+            "correct": false,
+            "created_at": "2021-04-26 18:59:53.291654 +0000 UTC",
+            "updated_at": "2021-06-13 00:11:40.23184 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Analisar os dados será uma fase posterior à etapa preparatória.",
+              "sanitized_complete": "Incorreta. Analisar os dados será uma fase posterior à etapa preparatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 12:12:09.9924 +0000 UTC",
+              "updated_at": "2021-10-12 18:55:46.208963 +0000 UTC"
+            },
+            "answer_percentage": 29,
+            "answers": 1283
+          },
+          {
+            "id": "3566cbe1-2c4a-4a50-ad2e-ca4a2ae2d90f",
+            "position": "1",
+            "body": "Indagar às lideranças comunitárias sobre fatores facilitadores ou dificultadores do trabalho desenvolvido pela equipe de saúde e acerca do funcionamento da unidade de saúde, além de obter informações sobre dificuldades de acesso à unidade.",
+            "sanitized_body": "Indagar às lideranças comunitárias sobre fatores facilitadores ou dificultadores do trabalho desenvolvido pela equipe de saúde e acerca do funcionamento da unidade de saúde, além de obter informações sobre dificuldades de acesso à unidade.",
+            "correct": false,
+            "created_at": "2021-04-26 18:59:53.291654 +0000 UTC",
+            "updated_at": "2021-06-13 00:11:40.308696 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. A alternativa descreve a coleta de dados, o segundo momento, e não etapa preparatória.",
+              "sanitized_complete": "Incorreta. A alternativa descreve a coleta de dados, o segundo momento, e não etapa preparatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 12:12:09.988029 +0000 UTC",
+              "updated_at": "2021-10-12 18:55:46.208783 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 129
+          },
+          {
+            "id": "bd9d952b-8117-42c6-b64c-13388a3483d6",
+            "position": "2",
+            "body": "Realizar entrevistas para levantar informações sobre o território e a vida das famílias e da comunidade, aspectos geográficos, políticos, econômicos, sociais e culturais percebidos e de relevância para a comunidade.",
+            "sanitized_body": "Realizar entrevistas para levantar informações sobre o território e a vida das famílias e da comunidade, aspectos geográficos, políticos, econômicos, sociais e culturais percebidos e de relevância para a comunidade.",
+            "correct": false,
+            "created_at": "2021-04-26 18:59:53.291654 +0000 UTC",
+            "updated_at": "2021-06-13 00:11:40.398865 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Outra alternativa que descreve o segundo momento da territorialização.",
+              "sanitized_complete": "Incorreta. Outra alternativa que descreve o segundo momento da territorialização.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 12:12:09.991355 +0000 UTC",
+              "updated_at": "2021-10-12 18:55:46.195296 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 597
+          },
+          {
+            "id": "685a4291-4a4a-4de6-84ff-07dc78f47586",
+            "position": "3",
+            "body": "Levantar a documentação (incluindo plano diretor do município, projetos e estudos, dados demográficos, econômicos e sociais; adquirir mapa-base e definir responsabilidades, principalmente dos ACS (Agente Comunitário de Saúde e dos profissionais mais antigos e/ou moradores na área.",
+            "sanitized_body": "Levantar a documentação (incluindo plano diretor do município, projetos e estudos, dados demográficos, econômicos e sociais; adquirir mapa-base e definir responsabilidades, principalmente dos ACS (Agente Comunitário de Saúde e dos profissionais mais antigos e/ou moradores na área.",
+            "correct": true,
+            "created_at": "2021-04-26 18:59:53.291654 +0000 UTC",
+            "updated_at": "2021-06-13 00:11:40.485948 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta. Agora sim estão citados apenas “momentos” prévios à realização da territorialização, configurando a etapa preparatória.",
+              "sanitized_complete": "Correta. Agora sim estão citados apenas “momentos” prévios à realização da territorialização, configurando a etapa preparatória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 12:12:09.973447 +0000 UTC",
+              "updated_at": "2021-10-12 18:55:46.192439 +0000 UTC"
+            },
+            "answer_percentage": 54,
+            "answers": 2390
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em uma reunião da Unidade de Saúde da Família, com a presença dos membros das cinco equipes de Saúde da Família, incluindo os Agentes Comunitários de Saúde (ACS), decidiu-se que, em razão do aumento do número de usuários sem cadastro que passaram a procurar a unidade para atendimento, seria iniciado o processo de atualização da territorialização, que inclui várias etapas e principia pela fase preparatória. Considerando-se essa situação, que conjunto de ações e/ou atividades está incluído na etapa preparatória do processo de territorialização?",
+        "statement_text": "Em uma reunião da Unidade de Saúde da Família, com a presença dos membros das cinco equipes de Saúde da Família, incluindo os Agentes Comunitários de Saúde (ACS), decidiu-se que, em razão do aumento do número de usuários sem cadastro que passaram a procurar a unidade para atendimento, seria iniciado o processo de atualização da territorialização, que inclui várias etapas e principia pela fase preparatória. Considerando-se essa situação, que conjunto de ações e/ou atividades está incluído na etapa preparatória do processo de territorialização?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:59:53.291654 +0000 UTC",
+        "forum_id": "e00b0d9f-5b9e-4807-aaaa-8dc3dcef6522",
+        "solution": {
+          "_key": "52015e6b-c644-4860-8c20-b420b0f0fa8e",
+          "complete": "Estrategista, para que uma unidade de saúde possa prestar um serviço adequado à população, é necessário que haja um conhecimento dos diversos aspectos da vida daquela comunidade, e isso chamamos de territorialização, sendo três as suas fases:<div><br></div><div>•\tFase preparatória: a equipe de saúde vai se preparar para realizar a territorialização, determinando a área a ser coberta tal como as famílias; aqui se incluem levantamento de dados já existentes sobre a área (por exemplo: mapas e dados estatísticos), definição dos dados a serem coletados e definição de responsabilidades dentro da equipe (todos os membros da equipe devem ter tarefas).</div><div><br></div><div>•\tFase de coleta de dados: é a fase mais extensa, nela a equipe vai coletar dados sobre a área, utilizando ferramentas como: observações na comunidade, entrevistas com a comunidade e acesso aos sistemas de informação em saúde. </div><div><br></div><div>•\tFase de análise dos dados: nesta etapa a equipe de saúde vai interpretar os dados coletados, concluindo quais são as necessidades da população, e podendo iniciar a prestação dos serviços.</div><div><div><br></div><div> Assim, conhecer aspectos como saneamento básico, desemprego, desavenças políticas, doenças comuns na região e muitos outros, são fundamentais na territorialização.</div><div><br></div><div>Repare que a questão fala em uma “etapa preparatória do processo de territorialização”, ou seja, ainda não são as ações em si, mas o planejamento.</div><div><br></div><div>Analisemos as opções:</div><div><br></div></div>",
+          "sanitized_complete": "Estrategista, para que uma unidade de saúde possa prestar um serviço adequado à população, é necessário que haja um conhecimento dos diversos aspectos da vida daquela comunidade, e isso chamamos de territorialização, sendo três as suas fases:•\tFase preparatória: a equipe de saúde vai se preparar para realizar a territorialização, determinando a área a ser coberta tal como as famílias; aqui se incluem levantamento de dados já existentes sobre a área (por exemplo: mapas e dados estatísticos), definição dos dados a serem coletados e definição de responsabilidades dentro da equipe (todos os membros da equipe devem ter tarefas).•\tFase de coleta de dados: é a fase mais extensa, nela a equipe vai coletar dados sobre a área, utilizando ferramentas como: observações na comunidade, entrevistas com a comunidade e acesso aos sistemas de informação em saúde. •\tFase de análise dos dados: nesta etapa a equipe de saúde vai interpretar os dados coletados, concluindo quais são as necessidades da população, e podendo iniciar a prestação dos serviços. Assim, conhecer aspectos como saneamento básico, desemprego, desavenças políticas, doenças comuns na região e muitos outros, são fundamentais na territorialização.Repare que a questão fala em uma “etapa preparatória do processo de territorialização”, ou seja, ainda não são as ações em si, mas o planejamento.Analisemos as opções:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-11 12:12:10.153289 +0000 UTC",
+          "updated_at": "2021-10-12 18:55:46.433703 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146617-720.mp4",
+        "unlisted": false,
+        "slug": "reunia-Unidade-Sau8303405bcc",
+        "public": true
+      },
+      {
+        "id": "4000126634",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "337a0abb1d074a54b609df9b84fa0912",
+            "name": "Redes de Atenção à Saúde (RAS)",
+            "is_master": false,
+            "master_id": "e0c4d770f8a144c8802ab61fb0b80a4a",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Processos de Descentralização e Regionalização do SUS[$$]Regionalização do SUS[$$]Redes de Atenção à Saúde (RAS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2946f1d3-179b-4bbb-988d-971bcbe0c906",
+            "position": "0",
+            "body": "Reorganizar a Urgência e Emergência, transformando algumas Unidades Básicas de Saúde tradicionais em Pronto Atendimento 24 horas, criar protocolos de atendimento para urgência, além de contratar mais profissionais, facilitando o atendimento no próprio município.",
+            "sanitized_body": "Reorganizar a Urgência e Emergência, transformando algumas Unidades Básicas de Saúde tradicionais em Pronto Atendimento 24 horas, criar protocolos de atendimento para urgência, além de contratar mais profissionais, facilitando o atendimento no próprio município.",
+            "correct": false,
+            "created_at": "2020-09-24 20:19:55.700093 +0000 UTC",
+            "updated_at": "2021-07-05 20:44:15.512819 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a unidade básica de saúde é a principal porta de entrada dos pacientes no SUS. Essas unidades conseguem resolver a grande maioria das demandas dos pacientes e por isso não tem sentido transformar as unidades básicas em serviços de emergência.&nbsp;",
+              "sanitized_complete": "a unidade básica de saúde é a principal porta de entrada dos pacientes no SUS. Essas unidades conseguem resolver a grande maioria das demandas dos pacientes e por isso não tem sentido transformar as unidades básicas em serviços de emergência. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+              "author_email_id": "01d3eb3170dc06c551ffb344945cc6ec",
+              "author_profile": null,
+              "created_at": "2021-07-25 16:10:31.507988 +0000 UTC",
+              "updated_at": "2021-07-25 16:10:33.94954 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 48
+          },
+          {
+            "id": "b07edd6c-2d22-4ede-ab85-56ec6b72b1c7",
+            "position": "1",
+            "body": "Organizar o sistema de informação em saúde para integrar os serviços, fortalecer e ampliar o número de Equipes da Estratégia de Saúde da Família, criar Núcleos de Apoio à Saúde da Família, com equipes multi e interprofissionais e fortalecer a integração entre diversos pontos da rede de atenção.",
+            "sanitized_body": "Organizar o sistema de informação em saúde para integrar os serviços, fortalecer e ampliar o número de Equipes da Estratégia de Saúde da Família, criar Núcleos de Apoio à Saúde da Família, com equipes multi e interprofissionais e fortalecer a integração entre diversos pontos da rede de atenção.",
+            "correct": true,
+            "created_at": "2020-09-24 20:19:55.700093 +0000 UTC",
+            "updated_at": "2021-07-05 20:44:15.551291 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "o fortalecimento e a ampliação do número de Equipes da Estratégia de Saúde da Família pode melhorar e ampliar o atendimento da população, melhorando a saúde dos indivíduos e reduzindo os casos de acidente vascular cerebral. A criação de Núcleos de Apoio à Saúde da Família é essencial, pois amplia o atendimento especializado e multiprofissional ao usuário",
+              "sanitized_complete": "o fortalecimento e a ampliação do número de Equipes da Estratégia de Saúde da Família pode melhorar e ampliar o atendimento da população, melhorando a saúde dos indivíduos e reduzindo os casos de acidente vascular cerebral. A criação de Núcleos de Apoio à Saúde da Família é essencial, pois amplia o atendimento especializado e multiprofissional ao usuário",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+              "author_email_id": "01d3eb3170dc06c551ffb344945cc6ec",
+              "author_profile": null,
+              "created_at": "2021-07-25 16:10:31.487432 +0000 UTC",
+              "updated_at": "2021-07-25 16:10:33.936491 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 1169
+          },
+          {
+            "id": "9a39adf8-c2af-424a-b12e-92f83d842c52",
+            "position": "2",
+            "body": "Ofertar porta de entrada do sistema com acesso direto no nível secundário ambulatorial, no qual deverá funcionar um Núcleo de Apoio à Saúde da Família com equipes multi e interprofissionais, para evitar o atraso nas referências da atenção básica, facilitando o acesso ao nível hospitalar da rede de atenção.",
+            "sanitized_body": "Ofertar porta de entrada do sistema com acesso direto no nível secundário ambulatorial, no qual deverá funcionar um Núcleo de Apoio à Saúde da Família com equipes multi e interprofissionais, para evitar o atraso nas referências da atenção básica, facilitando o acesso ao nível hospitalar da rede de atenção.",
+            "correct": false,
+            "created_at": "2020-09-24 20:19:55.700093 +0000 UTC",
+            "updated_at": "2021-07-05 20:44:15.586937 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a unidade básica de saúde (atenção primária) deve ser sempre a porta de entrada do SUS.&nbsp;",
+              "sanitized_complete": "a unidade básica de saúde (atenção primária) deve ser sempre a porta de entrada do SUS. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+              "author_email_id": "01d3eb3170dc06c551ffb344945cc6ec",
+              "author_profile": null,
+              "created_at": "2021-07-25 16:10:31.498565 +0000 UTC",
+              "updated_at": "2021-07-25 16:10:33.954457 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 50
+          },
+          {
+            "id": "76e35aae-0923-484a-bbc9-2432c0a71439",
+            "position": "3",
+            "body": "Organizar o sistema de informação em saúde, priorizar a ampliação do número de ambulatórios de especialidades e de serviços de urgência e emergência, contratando mais especialistas e estabelecendo protocolos de encaminhamentos para o hospital, além de aumentar o número de ambulâncias e a cota de exames.",
+            "sanitized_body": "Organizar o sistema de informação em saúde, priorizar a ampliação do número de ambulatórios de especialidades e de serviços de urgência e emergência, contratando mais especialistas e estabelecendo protocolos de encaminhamentos para o hospital, além de aumentar o número de ambulâncias e a cota de exames.",
+            "correct": false,
+            "created_at": "2020-09-24 20:19:55.700093 +0000 UTC",
+            "updated_at": "2021-07-05 20:44:15.636128 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "nesse caso, necessita-se de uma maior efetividade das ações das equipes de saúde, resolvendo melhor os casos. Para isso, a criação de um Núcleo de Apoio à Saúde da Família é essencial, pois amplia o atendimento especializado e multiprofissional ao usuário.&nbsp;",
+              "sanitized_complete": "nesse caso, necessita-se de uma maior efetividade das ações das equipes de saúde, resolvendo melhor os casos. Para isso, a criação de um Núcleo de Apoio à Saúde da Família é essencial, pois amplia o atendimento especializado e multiprofissional ao usuário. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+              "author_email_id": "01d3eb3170dc06c551ffb344945cc6ec",
+              "author_profile": null,
+              "created_at": "2021-07-25 16:10:31.501622 +0000 UTC",
+              "updated_at": "2021-07-25 16:10:33.956365 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 87
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "O gestor de um município com 70 mil habitantes, de baixo índice de desenvolvimento humano (IDH), recebe a demanda do Conselho Municipal de Saúde relacionada a um grande número de pacientes com acidente vascular cerebral atendidos na Unidade de Urgência. Tem sido relatada demora no acesso ao atendimento especializado. A porta de entrada do sistema se dá por cinco Unidades Básicas de Saúde tradicionais e duas Unidades de Saúde da Família, com duas equipes em cada uma. Faltam vagas para internação no hospital regional, que fica em outro município. O local não possui Núcleo de Apoio à Saúde da Família e tem sido identificada dificuldade em relação ao acesso aos serviços de Fisioterapia e Fonoaudiologia após a alta dos pacientes. Considerando a necessidade de organização de uma rede integrada de serviços, quais seriam as estratégias necessárias para a redução dos casos?",
+        "statement_text": "O gestor de um município com 70 mil habitantes, de baixo índice de desenvolvimento humano (IDH), recebe a demanda do Conselho Municipal de Saúde relacionada a um grande número de pacientes com acidente vascular cerebral atendidos na Unidade de Urgência. Tem sido relatada demora no acesso ao atendimento especializado. A porta de entrada do sistema se dá por cinco Unidades Básicas de Saúde tradicionais e duas Unidades de Saúde da Família, com duas equipes em cada uma. Faltam vagas para internação no hospital regional, que fica em outro município. O local não possui Núcleo de Apoio à Saúde da Família e tem sido identificada dificuldade em relação ao acesso aos serviços de Fisioterapia e Fonoaudiologia após a alta dos pacientes. Considerando a necessidade de organização de uma rede integrada de serviços, quais seriam as estratégias necessárias para a redução dos casos?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 20:19:55.700093 +0000 UTC",
+        "solution": {
+          "_key": "94324467-4b1a-4c46-8dd1-fda654497969",
+          "complete": "A Política Nacional de Atenção Básica (PNAB) estabelece que a atenção básica deve ser a porta de entrada preferencial do Sistema Único de Saúde (SUS), sendo a referência para a organização e estruturação dos sistemas locais de saúde.&nbsp;<div>Como a atenção básica consegue resolver a maioria das demandas dos usuários, a ampliação do número de Equipes da Estratégia de Saúde da Família pode melhorar e ampliar o atendimento da população, melhorando a saúde dos indivíduos e reduzindo os casos de acidente vascular cerebral.&nbsp;</div><div>O Núcleo Ampliado de Saúde da Família (NASF) e Atenção Básica foi criado em 2008 e tem por objetivo apoiar a consolidação da Atenção Básica, aumentando as ofertas de saúde na rede de serviços, melhorando a resolutividade dos casos. O NASF oferece atendimento multiprofissional e especializado para a população atendida no SUS.&nbsp;</div><div><br></div><div><br></div>",
+          "sanitized_complete": "A Política Nacional de Atenção Básica (PNAB) estabelece que a atenção básica deve ser a porta de entrada preferencial do Sistema Único de Saúde (SUS), sendo a referência para a organização e estruturação dos sistemas locais de saúde. Como a atenção básica consegue resolver a maioria das demandas dos usuários, a ampliação do número de Equipes da Estratégia de Saúde da Família pode melhorar e ampliar o atendimento da população, melhorando a saúde dos indivíduos e reduzindo os casos de acidente vascular cerebral. O Núcleo Ampliado de Saúde da Família (NASF) e Atenção Básica foi criado em 2008 e tem por objetivo apoiar a consolidação da Atenção Básica, aumentando as ofertas de saúde na rede de serviços, melhorando a resolutividade dos casos. O NASF oferece atendimento multiprofissional e especializado para a população atendida no SUS. ",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+          "author_email_id": "01d3eb3170dc06c551ffb344945cc6ec",
+          "author_profile": {
+            "id": "2bb96481-4227-4dcf-aa7b-522c75598dce",
+            "full_name": "Giordanne Guimarães Freitas",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Médico, com residência médica em clínica médica e endocrinologia. Mestrado em gerontologia. Doutorando em saúde coletiva. Professor efetivo da faculdade de medicina da Universidade de Rio Verde (UNIRV). \nFacebook: Giordanne Guimarães \nYoutube: Giordanne Freitas \nInstagram: giordanne guimarães @giordanne",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-25 16:10:31.628886 +0000 UTC",
+          "updated_at": "2021-07-25 16:10:34.037187 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "gestor-municipio-com141008ec1a8",
+        "public": true
+      },
+      {
+        "id": "4000126782",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "499cda608eab46d08998827a0142b002",
+            "name": "Financiamento do SUS",
+            "is_master": false,
+            "master_id": "025956be6fcc40338c7bdfb80786dc85",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Financiamento em Saúde[$$]Financiamento do SUS",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "84db9697-7baa-4e3c-81a6-af9255b181db",
+            "position": "0",
+            "body": "repassa recursos financeiros aos municípios de forma diretamente proporcional ao montante que o município arrecada em tributos.",
+            "sanitized_body": "repassa recursos financeiros aos municípios de forma diretamente proporcional ao montante que o município arrecada em tributos.",
+            "correct": false,
+            "created_at": "2020-09-24 23:21:21.286746 +0000 UTC",
+            "updated_at": "2021-07-05 20:55:44.317553 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Os repasses da União para estados e municípios não dependem da arrecadação local. Vimos, por exemplo, no Previne Brasil, que a população cadastrada na atenção básica é um dos critérios de repasse.",
+              "sanitized_complete": "Incorreta. Os repasses da União para estados e municípios não dependem da arrecadação local. Vimos, por exemplo, no Previne Brasil, que a população cadastrada na atenção básica é um dos critérios de repasse.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 13:30:55.689346 +0000 UTC",
+              "updated_at": "2021-07-11 13:30:57.293987 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 148
+          },
+          {
+            "id": "41e9a8d1-7817-4ecc-a017-715089d63075",
+            "position": "1",
+            "body": "aplica no mínimo 10% de sua arrecadação de impostos na área de saúde, sendo metade na atenção básica, mediante contrato com os municípios.",
+            "sanitized_body": "aplica no mínimo 10% de sua arrecadação de impostos na área de saúde, sendo metade na atenção básica, mediante contrato com os municípios.",
+            "correct": false,
+            "created_at": "2020-09-24 23:21:21.286746 +0000 UTC",
+            "updated_at": "2021-07-05 20:55:44.357772 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Atualmente, a União aplica o valor do ano anterior mais a correção do índice IPCA (Índice Nacional de Preços ao Consumidor Amplo). Na época da questão (2014), estava em vigor a Lei Complementar 141/2012, que previa como investimento mínimo para a União: o valor do ano anterior mais a variação do PIB (Produto Interno Bruto).<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta. Atualmente, a União aplica o valor do ano anterior mais a correção do índice IPCA (Índice Nacional de Preços ao Consumidor Amplo). Na época da questão (2014), estava em vigor a Lei Complementar 141/2012, que previa como investimento mínimo para a União: o valor do ano anterior mais a variação do PIB (Produto Interno Bruto).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 13:30:55.703798 +0000 UTC",
+              "updated_at": "2021-07-11 13:30:57.314448 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 93
+          },
+          {
+            "id": "61a5e333-ee5e-44ea-bdc0-0a73da428b4c",
+            "position": "2",
+            "body": "acrescenta recursos à atenção básica de acordo com resultados, acesso e qualidade, conforme avaliação de programa específico (Programa de Melhoria de Acesso e Qualidade – PMAQ).",
+            "sanitized_body": "acrescenta recursos à atenção básica de acordo com resultados, acesso e qualidade, conforme avaliação de programa específico (Programa de Melhoria de Acesso e Qualidade – PMAQ).",
+            "correct": true,
+            "created_at": "2020-09-24 23:21:21.286746 +0000 UTC",
+            "updated_at": "2021-07-05 20:55:44.408037 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta, na época. O PMAQ avaliava a qualidade dos serviços da atenção básica e representava uma fonte adicional de receitas. Foi extinto com o Previne Brasil.",
+              "sanitized_complete": "Correta, na época. O PMAQ avaliava a qualidade dos serviços da atenção básica e representava uma fonte adicional de receitas. Foi extinto com o Previne Brasil.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 13:30:55.692186 +0000 UTC",
+              "updated_at": "2021-07-11 13:30:57.345843 +0000 UTC"
+            },
+            "answer_percentage": 73,
+            "answers": 729
+          },
+          {
+            "id": "85b0aa95-6675-4ad3-ab8c-c5b7f1bdae4a",
+            "position": "3",
+            "body": "é impedida de repassar recursos complementares aos municípios, além daqueles previstos para atenção básica, mesmo diante de especificidades regionais que justifiquem necessidade de maior investimento.",
+            "sanitized_body": "é impedida de repassar recursos complementares aos municípios, além daqueles previstos para atenção básica, mesmo diante de especificidades regionais que justifiquem necessidade de maior investimento.",
+            "correct": false,
+            "created_at": "2020-09-24 23:21:21.286746 +0000 UTC",
+            "updated_at": "2021-07-05 20:55:44.445929 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. A União repassa valores considerando as necessidades dos municípios. Por exemplo, em duas cidades de mesma população, a União pode repassar mais para o local que tenha maior vulnerabilidade social.",
+              "sanitized_complete": "Incorreta. A União repassa valores considerando as necessidades dos municípios. Por exemplo, em duas cidades de mesma população, a União pode repassar mais para o local que tenha maior vulnerabilidade social.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 13:30:55.695198 +0000 UTC",
+              "updated_at": "2021-07-11 13:30:57.366404 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 23
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "No Brasil, de acordo com a legislação sobre fontes de financiamento do Sistema Único de Saúde para a atenção básica, a União",
+        "statement_text": "No Brasil, de acordo com a legislação sobre fontes de financiamento do Sistema Único de Saúde para a atenção básica, a União",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 23:21:21.286746 +0000 UTC",
+        "solution": {
+          "_key": "ac335013-dce1-4e4e-bd65-41c35b6d6f07",
+          "complete": "<div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AD4699C0-8B00-135C-9C0E-91B1B838BB72/AD4699C0-8B00-135C-9C0E-91B1B838BB72-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>Estrategista, esta questão já se encontra desatualizada. Vou mostrar para você como é definido o financiamento à saúde hoje, e nas alternativas explico a desatualização.</div><div>&nbsp;</div><div>O financiamento do SUS é dado por todas as esferas de governo, atualmente sendo determinados os valores mínimos pela Emenda Constitucional 95/2016 (EC 95). Veja:</div><div><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><div><br></div><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/068575C0-935D-E135-2242-0A5F82D9735D/068575C0-935D-E135-2242-0A5F82D9735D-400.png\"><!-- END:IMAGE_TO_REPLACE --><div><br></div><div>Já o financiamento da atenção primária em saúde mudou! Desde 2019 o “Programa Previne Brasil” extinguiu o Piso da Atenção Básica e criou critérios para repasse de recursos.</div><div><br></div><div>O Previne Brasil foi elaborado com três critérios:</div><div>•\tCapacitação ponderada (valor fixo pela população cadastrada na APS);</div><div>•\tIncentivo para ações estratégicas;</div><div>•\tPagamento por desempenho.</div><div><br></div><div>Para o atual ano de 2021 houve mudança. Em decorrência da pandemia de covid-19, que na prática limitou a execução de várias ações primárias em saúde (por exemplo, ações em visitas domiciliares, atendimentos eletivos etc.), excepcionalmente foram definidos quatro critérios de transferências de recursos para 2021 (Portaria 166/2021 do Ministério da Saúde):</div><div><br></div><div>•\tCapacitação ponderada;</div><div>•\tPagamento por desempenho;</div><div>•\tIncentivo financeiro com base em critério populacional;</div><div>•\tIncentivo financeiro com fator de correção.</div><div><br></div><div>Note que as ações estratégicas ficaram prejudicadas pelo distanciamento social, e então teríamos redução no repasse de recursos, por isso elas foram substituídas pelos incentivos financeiros com base em critério populacional e com fator de correção. A expectativa é que em 2022 os três critérios iniciais sejam retomados.</div><div><br></div><div>Analisemos as alternativas:</div><div><br></div><div><br></div>",
+          "sanitized_complete": "Estrategista, esta questão já se encontra desatualizada. Vou mostrar para você como é definido o financiamento à saúde hoje, e nas alternativas explico a desatualização. O financiamento do SUS é dado por todas as esferas de governo, atualmente sendo determinados os valores mínimos pela Emenda Constitucional 95/2016 (EC 95). Veja:Já o financiamento da atenção primária em saúde mudou! Desde 2019 o “Programa Previne Brasil” extinguiu o Piso da Atenção Básica e criou critérios para repasse de recursos.O Previne Brasil foi elaborado com três critérios:•\tCapacitação ponderada (valor fixo pela população cadastrada na APS);•\tIncentivo para ações estratégicas;•\tPagamento por desempenho.Para o atual ano de 2021 houve mudança. Em decorrência da pandemia de covid-19, que na prática limitou a execução de várias ações primárias em saúde (por exemplo, ações em visitas domiciliares, atendimentos eletivos etc.), excepcionalmente foram definidos quatro critérios de transferências de recursos para 2021 (Portaria 166/2021 do Ministério da Saúde):•\tCapacitação ponderada;•\tPagamento por desempenho;•\tIncentivo financeiro com base em critério populacional;•\tIncentivo financeiro com fator de correção.Note que as ações estratégicas ficaram prejudicadas pelo distanciamento social, e então teríamos redução no repasse de recursos, por isso elas foram substituídas pelos incentivos financeiros com base em critério populacional e com fator de correção. A expectativa é que em 2022 os três critérios iniciais sejam retomados.Analisemos as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-11 13:30:55.863311 +0000 UTC",
+          "updated_at": "2021-07-11 13:30:57.408289 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126782-720.mp4",
+        "unlisted": false,
+        "slug": "Brasil-acordo-com220dbb6ca7",
+        "public": true
+      },
+      {
+        "id": "4000126721",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "361586f27685435d930924e4900c9340",
+            "name": "Descentralização do SUS",
+            "is_master": false,
+            "master_id": "17bb6d41897248d0a9eba6e1918b5fdd",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Processos de Descentralização e Regionalização do SUS[$$]Descentralização do SUS",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "2a3ba272-5a6a-4a4a-a393-5523e6bf3fab",
+            "position": "0",
+            "body": "executar os serviços de vigilância sanitária e saneamento básico é atribuição do estado.",
+            "sanitized_body": "executar os serviços de vigilância sanitária e saneamento básico é atribuição do estado.",
+            "correct": false,
+            "created_at": "2020-09-24 21:16:18.15452 +0000 UTC",
+            "updated_at": "2021-07-05 20:50:16.226744 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Os municípios são os principais responsáveis pela execução da vigilância.",
+              "sanitized_complete": "Incorreta. Os municípios são os principais responsáveis pela execução da vigilância.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 14:19:44.999015 +0000 UTC",
+              "updated_at": "2021-07-11 14:19:48.036885 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 73
+          },
+          {
+            "id": "b0cb9a23-037a-410b-8972-b7cf1873fd6d",
+            "position": "1",
+            "body": "gerir e executar diretamente os serviços públicos de atenção primária são atribuições do município.",
+            "sanitized_body": "gerir e executar diretamente os serviços públicos de atenção primária são atribuições do município.",
+            "correct": true,
+            "created_at": "2020-09-24 21:16:18.15452 +0000 UTC",
+            "updated_at": "2021-07-05 20:50:16.269148 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta, como comentamos.",
+              "sanitized_complete": "Correta, como comentamos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 14:19:45.021073 +0000 UTC",
+              "updated_at": "2021-07-11 14:19:48.046011 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 809
+          },
+          {
+            "id": "78887823-d275-4ae8-837b-c26a11514246",
+            "position": "2",
+            "body": "intervir no controle da organização da rede de atenção municipal, na situação descrita,  é atribuição do estado.",
+            "sanitized_body": "intervir no controle da organização da rede de atenção municipal, na situação descrita,  é atribuição do estado.",
+            "correct": false,
+            "created_at": "2020-09-24 21:16:18.15452 +0000 UTC",
+            "updated_at": "2021-07-05 20:50:16.314987 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Não se trata de “intervir”, já que o município tem sua autonomia, o estado pode colaborar com ações e serviços que por algum motivo o município não consiga realizar.",
+              "sanitized_complete": "Incorreta. Não se trata de “intervir”, já que o município tem sua autonomia, o estado pode colaborar com ações e serviços que por algum motivo o município não consiga realizar.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 14:19:45.009389 +0000 UTC",
+              "updated_at": "2021-07-11 14:19:48.231141 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 110
+          },
+          {
+            "id": "1484d6ab-0c96-4fad-977a-72d85716358d",
+            "position": "3",
+            "body": "atender às necessidades coletivas, urgentes e transitórias, decorrentes de situações de perigo iminente ou irrupção de epidemias é atribuição exclusiva da União.",
+            "sanitized_body": "atender às necessidades coletivas, urgentes e transitórias, decorrentes de situações de perigo iminente ou irrupção de epidemias é atribuição exclusiva da União.",
+            "correct": false,
+            "created_at": "2020-09-24 21:16:18.15452 +0000 UTC",
+            "updated_at": "2021-07-05 20:50:16.360793 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta. Os estados também podem atuar desta forma junto aos municípios, não sendo exclusivo da União.",
+              "sanitized_complete": "Incorreta. Os estados também podem atuar desta forma junto aos municípios, não sendo exclusivo da União.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+              "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+              "author_profile": null,
+              "created_at": "2021-07-11 14:19:45.043049 +0000 UTC",
+              "updated_at": "2021-07-11 14:19:48.156904 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 173
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Leia a notícia abaixo:&nbsp;<div><br></div><div>CAMPINAS – No mesmo dia em que dois representantes do Ministério da Saúde chegaram a Campinas para avaliar o pedido de ajuda para que a  Força Nacional do Sistema Único de Saúde (FN-SUS) atue no combate da maior epidemia de dengue vivida na cidade, a Secretaria Municipal de Saúde confirmou nesta terça-feira, 22/04/2014, a segunda morte provocada pela doença. Faltam profissionais de saúde para  o atendimento na rede de atenção primária e secundária de saúde da cidade. O    secretário municipal de saúde também cogita solicitar auxílio do Governo do Estado para  o envio de profissionais de saúde para esses locais. Disponível em:</div><div><br></div><div>&lt;http://noticias.uol.com.br&gt;. Acesso em: 25 de jun 2014 (Adaptado).&nbsp;</div><div><br></div><div>Considerando as atribuições das diferentes esferas governamentais no Sistema Único de Saúde nessas situações, é correto afirmar que:</div>",
+        "statement_text": "Leia a notícia abaixo: CAMPINAS – No mesmo dia em que dois representantes do Ministério da Saúde chegaram a Campinas para avaliar o pedido de ajuda para que a  Força Nacional do Sistema Único de Saúde (FN-SUS) atue no combate da maior epidemia de dengue vivida na cidade, a Secretaria Municipal de Saúde confirmou nesta terça-feira, 22/04/2014, a segunda morte provocada pela doença. Faltam profissionais de saúde para  o atendimento na rede de atenção primária e secundária de saúde da cidade. O    secretário municipal de saúde também cogita solicitar auxílio do Governo do Estado para  o envio de profissionais de saúde para esses locais. Disponível em:&lt;http://noticias.uol.com.br&gt;. Acesso em: 25 de jun 2014 (Adaptado). Considerando as atribuições das diferentes esferas governamentais no Sistema Único de Saúde nessas situações, é correto afirmar que:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 21:16:18.15452 +0000 UTC",
+        "solution": {
+          "_key": "5aa6318e-87dd-4d81-a6d7-a872c622cb3c",
+          "complete": "Estrategista, esta pergunta solicita do candidato o entendimento sobre as responsabilidades de cada ente (União, estados e municípios) nas ações do Sistema Único de Saúde.<div><br></div><div>Cada ente possui sua autonomia, e de modo geral o município é responsável por executar as ações de vigilância em saúde (ressalto a exceção de vigilância sanitária em portos, aeroportos e fronteiras: responsabilidade da União). Os estados auxiliam os municípios na organização das ações e podem também realizar ações, de acordo com as necessidades.</div><div><br></div><div>A União auxilia estados e municípios, além de coordenar e elaborar políticas nacionais sobre vigilância (como a Política Nacional de Vigilância Sanitária, 2018).</div><div><br></div><div>Vejamos as alternativas:</div><div><br></div>",
+          "sanitized_complete": "Estrategista, esta pergunta solicita do candidato o entendimento sobre as responsabilidades de cada ente (União, estados e municípios) nas ações do Sistema Único de Saúde.Cada ente possui sua autonomia, e de modo geral o município é responsável por executar as ações de vigilância em saúde (ressalto a exceção de vigilância sanitária em portos, aeroportos e fronteiras: responsabilidade da União). Os estados auxiliam os municípios na organização das ações e podem também realizar ações, de acordo com as necessidades.A União auxilia estados e municípios, além de coordenar e elaborar políticas nacionais sobre vigilância (como a Política Nacional de Vigilância Sanitária, 2018).Vejamos as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+          "author_email_id": "1f454ea7005283d30ab43da985fb5dc1",
+          "author_profile": {
+            "id": "8ed2066b-6f5a-49be-ba22-d32e2065ae33",
+            "full_name": "Camilo Ramos",
+            "avatar_url": "https://static.accounts.estrategia.com/dd90137a67bfd372896949f79b466f08",
+            "about_me": "Médico graduado pela Universidade do Estado do Pará (2012), Residência Médica em Radiologia e Diagnóstico por Imagem (2015-2018), Mestrado em Doenças Tropicais (2019-2021), Doutorando em Bioética pela Universidade do Porto.\n\nMédico concursado do Instituto Federal do Pará e do Ministério Público do Estado do Pará.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/camilo.f.ramos",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-11 14:19:45.199915 +0000 UTC",
+          "updated_at": "2021-07-11 14:19:48.344591 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126721-720.mp4",
+        "unlisted": false,
+        "slug": "Leia-noticia-CAMPINAS135fa845bf1",
+        "public": true
+      },
+      {
+        "id": "4000127083",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "361586f27685435d930924e4900c9340",
+            "name": "Descentralização do SUS",
+            "is_master": false,
+            "master_id": "17bb6d41897248d0a9eba6e1918b5fdd",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Processos de Descentralização e Regionalização do SUS[$$]Descentralização do SUS",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "a25f93ce-56bb-4268-9a42-17bb4829b71a",
+            "position": "0",
+            "body": "Restringir o atendimento mediante comprovante de residência.",
+            "sanitized_body": "Restringir o atendimento mediante comprovante de residência.",
+            "correct": false,
+            "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+            "updated_at": "2021-07-06 09:53:45.183662 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A. O atendimento deve ser garantido à população do município, contudo a pessoa não pode deixar de receber o cuidado se não apresentar “um papel” que comprove sua residência, logo, não é a melhor opção. ",
+              "sanitized_complete": "Incorreta a alternativa A. O atendimento deve ser garantido à população do município, contudo a pessoa não pode deixar de receber o cuidado se não apresentar “um papel” que comprove sua residência, logo, não é a melhor opção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-11 22:44:25.551395 +0000 UTC",
+              "updated_at": "2022-01-11 22:44:26.417279 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          },
+          {
+            "id": "6a24434e-0ddb-46e1-894e-521b7a1f533b",
+            "position": "1",
+            "body": "Formar consórcios intermunicipais de saúde.",
+            "sanitized_body": "Formar consórcios intermunicipais de saúde.",
+            "correct": true,
+            "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+            "updated_at": "2021-07-06 09:53:45.236463 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B. É uma ótima opção para ampliar a capacidade de atendimento!",
+              "sanitized_complete": "Correta a alternativa B. É uma ótima opção para ampliar a capacidade de atendimento!",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-11 22:44:25.533671 +0000 UTC",
+              "updated_at": "2022-01-11 22:44:26.415181 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 778
+          },
+          {
+            "id": "d1e33541-44b9-46b7-b7ad-0e3750bbf04e",
+            "position": "2",
+            "body": "Definir a área de abrangência dos serviços com o gestor local.",
+            "sanitized_body": "Definir a área de abrangência dos serviços com o gestor local.",
+            "correct": false,
+            "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+            "updated_at": "2021-07-06 09:53:45.281947 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C. A área de abrangência do município não poderá ser modificada, e o município deve atender seus cidadãos.",
+              "sanitized_complete": "Incorreta a alternativa C. A área de abrangência do município não poderá ser modificada, e o município deve atender seus cidadãos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-11 22:44:25.513088 +0000 UTC",
+              "updated_at": "2022-01-11 22:44:26.403382 +0000 UTC"
+            },
+            "answer_percentage": 19,
+            "answers": 197
+          },
+          {
+            "id": "9cd64001-cf96-49bb-950c-c2dd5b1f0ebe",
+            "position": "3",
+            "body": "Repassar à gestão estadual o serviço de auditoria dos prestadores locais.",
+            "sanitized_body": "Repassar à gestão estadual o serviço de auditoria dos prestadores locais.",
+            "correct": false,
+            "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+            "updated_at": "2021-07-06 09:53:45.339191 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D. É responsabilidade do próprio município avaliar seus prestadores, já que cada ente tem uma direção do SUS. ",
+              "sanitized_complete": "Incorreta a alternativa D. É responsabilidade do próprio município avaliar seus prestadores, já que cada ente tem uma direção do SUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-11 22:44:25.538266 +0000 UTC",
+              "updated_at": "2022-01-11 22:44:26.408526 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 20
+          },
+          {
+            "id": "b391eca4-eae0-4cbb-a329-334c3f88ad3d",
+            "position": "4",
+            "body": "Incorporar recursos financeiros do fundo estadual de saúde.",
+            "sanitized_body": "Incorporar recursos financeiros do fundo estadual de saúde.",
+            "correct": false,
+            "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+            "updated_at": "2021-07-06 09:53:45.400394 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E. O enunciado não deixa claro se o problema é apenas financeiro, ou, por exemplo, de gestão, não sendo a melhor opção.",
+              "sanitized_complete": "Incorreta a alternativa E. O enunciado não deixa claro se o problema é apenas financeiro, ou, por exemplo, de gestão, não sendo a melhor opção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-01-11 22:44:25.551407 +0000 UTC",
+              "updated_at": "2022-01-11 22:44:26.434736 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 31
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um município de pequeno porte tem apresentado dificuldades na execução de suas atividades de saúde de nível secundário de atenção. Com o objetivo de aumentar a resolubilidade do mesmo, qual ação pode ser tomada?",
+        "statement_text": "Um município de pequeno porte tem apresentado dificuldades na execução de suas atividades de saúde de nível secundário de atenção. Com o objetivo de aumentar a resolubilidade do mesmo, qual ação pode ser tomada?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 10:07:52.667798 +0000 UTC",
+        "solution": {
+          "_key": "db524b9f-a40f-46bf-8033-517ad94638ad",
+          "complete": "Estrategista, se um município apresenta dificuldades, uma solução tem de ser tomada, afinal, a garantia à integralidade dos cuidados é direito dos cidadãos. O consórcio em saúde é utilizado quando os municípios se unem para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam. Por exemplo, quando vários municípios se reúnem em um consórcio com o objetivo de adquirir medicamentos a fim de obter melhor preço dos vendedores, ou quando um município não possui determinada especialidade ambulatorial e por meio do consórcio pode passar a enviar seus habitantes para atendimento no outro município do consórcio. Ou seja, um consórcio é a soma de estruturas e esforços a fim de ampliar a cobertura de atendimento (integralidade).<div><br></div><div> Analisemos as alternativas:</div>",
+          "sanitized_complete": "Estrategista, se um município apresenta dificuldades, uma solução tem de ser tomada, afinal, a garantia à integralidade dos cuidados é direito dos cidadãos. O consórcio em saúde é utilizado quando os municípios se unem para desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam. Por exemplo, quando vários municípios se reúnem em um consórcio com o objetivo de adquirir medicamentos a fim de obter melhor preço dos vendedores, ou quando um município não possui determinada especialidade ambulatorial e por meio do consórcio pode passar a enviar seus habitantes para atendimento no outro município do consórcio. Ou seja, um consórcio é a soma de estruturas e esforços a fim de ampliar a cobertura de atendimento (integralidade). Analisemos as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-01-11 22:44:25.58868 +0000 UTC",
+          "updated_at": "2022-01-11 22:44:26.433309 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127083-720.mp4",
+        "unlisted": false,
+        "slug": "municipio-pequeno34798dd559",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 30
+    }
+  }

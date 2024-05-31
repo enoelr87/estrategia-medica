@@ -1,0 +1,304 @@
+{
+    "data": [
+      {
+        "id": "4000127063",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "66103a4846aa4913a813a15d29f5e192",
+            "name": "Importância do aleitamento materno",
+            "is_master": false,
+            "master_id": "9366bf9daf1041b2b79af5956df3ac3b",
+            "path": "Pediatria[$$]Puericultura [$$]Amamentação/ Aleitamento Materno[$$]Importância do aleitamento materno",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "163b1873-9a52-465c-967f-cbd936bbde99",
+            "position": "0",
+            "body": "o câncer de colo uterino.",
+            "sanitized_body": "o câncer de colo uterino.",
+            "correct": false,
+            "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+            "updated_at": "2020-10-26 23:53:30.289761 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “a”:Não há benefício para prevenção do câncer de colo uterino com a amamentação. O câncer do colo uterino é uma doença cujo principal fator de risco é a infecção pelo vírus HPV, que é transmitido sexualmente. Um dos meios de prevenção é a vacinação contra o HPV e uso de métodos anticoncepcionais de barreira.",
+              "sanitized_complete": "Incorreta alternativa “a”:Não há benefício para prevenção do câncer de colo uterino com a amamentação. O câncer do colo uterino é uma doença cujo principal fator de risco é a infecção pelo vírus HPV, que é transmitido sexualmente. Um dos meios de prevenção é a vacinação contra o HPV e uso de métodos anticoncepcionais de barreira.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:00:16.70389 +0000 UTC",
+              "updated_at": "2023-03-13 18:03:20.190981 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 126
+          },
+          {
+            "id": "50013cc2-e69d-4aa5-bd86-58ffd1a42bb1",
+            "position": "1",
+            "body": "o câncer de endométrio.",
+            "sanitized_body": "o câncer de endométrio.",
+            "correct": false,
+            "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+            "updated_at": "2020-10-26 23:53:30.477327 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “b”: Há diversos estudos que tentam relacionar proteção de câncer de endométrio pela amamentação nas ainda não foi possível chegar a uma conclusão de que haja realmente uma proteção.",
+              "sanitized_complete": "Incorreta alternativa “b”: Há diversos estudos que tentam relacionar proteção de câncer de endométrio pela amamentação nas ainda não foi possível chegar a uma conclusão de que haja realmente uma proteção.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:00:16.696743 +0000 UTC",
+              "updated_at": "2023-03-13 18:03:20.214806 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 236
+          },
+          {
+            "id": "7e1194eb-dc23-4059-a5e1-04445f43bd00",
+            "position": "2",
+            "body": "os tumores da vulva.",
+            "sanitized_body": "os tumores da vulva.",
+            "correct": false,
+            "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+            "updated_at": "2020-10-26 23:53:30.657628 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “c”:Não há relação entre amamentação e proteção de câncer de vulva.",
+              "sanitized_complete": "Incorreta alternativa “c”:Não há relação entre amamentação e proteção de câncer de vulva.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:00:16.696187 +0000 UTC",
+              "updated_at": "2023-03-13 18:03:20.220098 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 3
+          },
+          {
+            "id": "776da1b4-7276-45ae-8b75-95fa185334a4",
+            "position": "3",
+            "body": "o desenvolvimento de miomas.",
+            "sanitized_body": "o desenvolvimento de miomas.",
+            "correct": false,
+            "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+            "updated_at": "2020-10-26 23:53:30.840568 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta alternativa “d”:Não há relação entre amamentação e proteção para desenvolvimento de miomas.",
+              "sanitized_complete": "Incorreta alternativa “d”:Não há relação entre amamentação e proteção para desenvolvimento de miomas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:00:16.669496 +0000 UTC",
+              "updated_at": "2023-03-13 18:03:20.225934 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 28
+          },
+          {
+            "id": "71232230-f335-4ad3-853e-dea053481d85",
+            "position": "4",
+            "body": "o câncer de ovário.",
+            "sanitized_body": "o câncer de ovário.",
+            "correct": true,
+            "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+            "updated_at": "2020-10-26 23:53:31.094416 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta alternativa “e”:A redução do risco de desenvolver do câncer de ovário no futuro, é umas das vantagens para a mãe que amamenta.",
+              "sanitized_complete": "Correta alternativa “e”:A redução do risco de desenvolver do câncer de ovário no futuro, é umas das vantagens para a mãe que amamenta.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+              "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+              "author_profile": null,
+              "created_at": "2020-10-27 00:00:17.25438 +0000 UTC",
+              "updated_at": "2023-03-13 18:03:20.229942 +0000 UTC"
+            },
+            "answer_percentage": 75,
+            "answers": 1194
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Ao atender uma mulher, com 24 anos de idade, você observa grande resistência dela para continuar o aleitamento materno de seu filho de dois meses. Além dos inquestionáveis benefícios para a criança, você orienta a paciente sobre os benefícios que  o aleitamento materno traz para a mulher que amamenta, entre os quais figuram, a proteção contra o câncer de mama e contra:",
+        "statement_text": "Ao atender uma mulher, com 24 anos de idade, você observa grande resistência dela para continuar o aleitamento materno de seu filho de dois meses. Além dos inquestionáveis benefícios para a criança, você orienta a paciente sobre os benefícios que  o aleitamento materno traz para a mulher que amamenta, entre os quais figuram, a proteção contra o câncer de mama e contra:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 09:12:01.118771 +0000 UTC",
+        "solution": {
+          "_key": "ebc621c4-d087-4535-b86f-f7220b1b7b61",
+          "complete": "<b>GABARITO: ALTERNATIVA E</b><div><br></div><div>Caro colega, o aleitamento materno é a maior estratégia natural para estimular o vínculo da mãe com o bebê, favorecendo os laços de afeto e proteção. Fornece a mais adequada nutrição na primeira fase da vida das crianças, além de consistir em uma forma econômica e eficaz para a redução da morbimortalidade infantil, promovendo um impacto na saúde integral da dupla mãe e bebê.Devemos sempre incentivar o aleitamento materno, sendo o preconizado pela Organização Mundial de Saúde recomenda o aleitamento materno exclusivo até os 6 meses de idade, orientação seguida pelo Ministério da Saúde e pela Sociedade Brasileira de Pediatria. A partir do sexto mês, deve ser iniciada a introdução alimentar de forma gradual, mas é recomendado que o aleitamento materno continue até a criança completar 2 anos ou mais. Nos primeiros 6 meses água, chás e principalmente outros leites devem ser evitados, pois há evidências de que o seu uso está associado com desmame precoce e aumento da morbimortalidade infantil.</div><div><br></div><div>Os benefícios da amamentação para o bebê são bem difundidos e podemos citar aqui alguns: </div><div><br></div><div><b>•\tEVITA MORTES INFANTIS:</b> Nenhuma outra estratégia isolada alcança esse impacto na redução da mortalidade, sendo que, quanto menor for a criança, maior a proteção. </div><div><b><br></b></div><div><b>•\tEVITA A DIARRÉIA:</b>Há fortes evidências de que o leite materno protege contra diarreia, principalmente em crianças de mais baixa renda. É importante lembrar que essa defesa pode diminuir quando o aleitamento materno deixa de ser exclusivo. Além disso, crianças amamentadas tendem a apresentar quadros mais leves, com menor risco de desidratação e morte. </div><div><b><br></b></div><div><b>•\tEVITA INFECÇÕES RESPIRATÓRIAS:</b>Diversos estudos no Brasil e em diferentes partes do mundo evidenciam essa proteção contra infecções respiratórias. Além disso, quando esse tipo de infecção ocorre, a amamentação diminui sua gravidade. </div><div><b><br></b></div><div><b>•\tDIMINUI O RISCO DE ALERGIAS:</b>Evidências indicam que a amamentação exclusiva nos primeiros meses de vida diminui o risco de alergia à proteína do leite de vaca, dermatite atópica e outros tipos de alergias e atopias, incluindo asma. </div><div><b><br></b></div><div><b>•\tDIMINUI O RISCO DE HIPERTENSÃO, HIPERCOLESTEROLEMIA E DIABETES:</b>A Organização Mundial da Saúde publicou uma importante revisão sobre benefícios a longo prazo, concluindo que as crianças e as mães que amamentam apresentam pressões sistólica e diastólica mais baixas, níveis menores de colesterol total e menor risco de apresentar diabetes tipo 2 no futuro.</div><div><br></div><div><b>•\tREDUZ A CHANCE DE OBESIDADE: </b>A maioria dos estudos que avaliaram a relação entre obesidade em crianças e tipo de alimentação no início da vida constataram menor frequência de sobrepeso e obesidade nas que foram amamentadas. </div><div><br></div><div><b>•\tQUALIDADE DA NUTRIÇÃO:</b>O leite materno contém todos os nutrientes essenciais e necessários para o crescimento e o desenvolvimento adequados da criança pequena, além de ser mais bem digerido, quando comparado aos de outras espécies.</div><div><br></div><div><b>•\tEFEITO POSITIVO NA INTELIGÊNCIA: </b>Há indicações de que o aleitamento materno contribui para um melhor desenvolvimento cognitivo.</div><div><b><br></b></div><div><b>•\tMELHOR DESENVOLVIMENTO DA CAVIDADE BUCAL: </b>A movimentação e o exercício que as crianças fazem para retirar o leite da mama é importante para o desenvolvimento adequado de sua cavidade oral, propiciando uma melhor conformação do palato duro, o que é fundamental para o alinhamento correto dos dentes e uma boa oclusão dentária. Ajuda também no desenvolvimento motor-oral adequado, auxiliando o desenvolvimento de funções como mastigação, deglutição, respiração e articulação dos sons da fala.</div><div><br></div><div>Já alguns outros benefícios do aleitamento materno, tanto para a saúde da mãe, quanto benefícios sociais e psicológicos não são tão bem conhecidos por algumas mulheres, devemos sempre reforçar:</div><div><br></div><div><b>•\tPROTEÇÃO CONTRA CÂNCER DE MAMA MATERNO:</b> Existem associações entre aleitamento materno e a redução na prevalência do câncer de mama nas mães.</div><div><b><br></b></div><div><b>•\tEVITA NOVA GRAVIDEZ: </b>Amamentar é considerado um método anticoncepcional nos primeiros seis meses após o parto, desde que a mãe esteja amamentando exclusivamente ou predominantemente, e ainda não tenha menstruado. A ovulação nos primeiros seis meses após o parto está relacionada com o número de mamadas, por isso, mulheres que amamentam com menor frequência diária, geralmente ovulam antes do sexto mês pós-parto.</div><div><b><br></b></div><div><b>•\tOUTRAS POSSÍVEIS VANTAGENS PARA AS MULHERES</b>: Há relação da amamentação com a proteção a diversas doenças como: câncer de ovário, hipercolesterolemia, diabetes, hipertensão e doença coronariana, obesidade, doença metabólica, osteoporose e fratura de quadril, artrite reumatoide e depressão pós-parto.</div><div><b><br></b></div><div><b>•\tMENORES CUSTOS FINANCEIROS: </b>O gasto com fórmulas infantis pode representar uma parte considerável dos rendimentos de uma família. Também há custos com mamadeiras, bicos e gás de cozinha, além de eventuais despesas decorrentes de doenças, que são mais comuns em crianças não amamentadas.</div><div><br></div><div><b>•\tPROMOÇÃO DO VÍNCULO AFETIVO ENTRE MÃE E FILHO: </b>Consideram-se indicativos de que a amamentação traz benefícios psicológicos para a criança e para a mãe. </div><div><b><br></b></div><div><b>•\tMELHOR QUALIDADE DE VIDA:</b> Uma vez que as crianças amamentadas adoecem menos, necessitam de menos atendimento médico, hospitalizações e medicamentos, reduzindo necessidade de faltas ao trabalho dos pais, situações estressantes e despesas. </div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA ECaro colega, o aleitamento materno é a maior estratégia natural para estimular o vínculo da mãe com o bebê, favorecendo os laços de afeto e proteção. Fornece a mais adequada nutrição na primeira fase da vida das crianças, além de consistir em uma forma econômica e eficaz para a redução da morbimortalidade infantil, promovendo um impacto na saúde integral da dupla mãe e bebê.Devemos sempre incentivar o aleitamento materno, sendo o preconizado pela Organização Mundial de Saúde recomenda o aleitamento materno exclusivo até os 6 meses de idade, orientação seguida pelo Ministério da Saúde e pela Sociedade Brasileira de Pediatria. A partir do sexto mês, deve ser iniciada a introdução alimentar de forma gradual, mas é recomendado que o aleitamento materno continue até a criança completar 2 anos ou mais. Nos primeiros 6 meses água, chás e principalmente outros leites devem ser evitados, pois há evidências de que o seu uso está associado com desmame precoce e aumento da morbimortalidade infantil.Os benefícios da amamentação para o bebê são bem difundidos e podemos citar aqui alguns: •\tEVITA MORTES INFANTIS: Nenhuma outra estratégia isolada alcança esse impacto na redução da mortalidade, sendo que, quanto menor for a criança, maior a proteção. •\tEVITA A DIARRÉIA:Há fortes evidências de que o leite materno protege contra diarreia, principalmente em crianças de mais baixa renda. É importante lembrar que essa defesa pode diminuir quando o aleitamento materno deixa de ser exclusivo. Além disso, crianças amamentadas tendem a apresentar quadros mais leves, com menor risco de desidratação e morte. •\tEVITA INFECÇÕES RESPIRATÓRIAS:Diversos estudos no Brasil e em diferentes partes do mundo evidenciam essa proteção contra infecções respiratórias. Além disso, quando esse tipo de infecção ocorre, a amamentação diminui sua gravidade. •\tDIMINUI O RISCO DE ALERGIAS:Evidências indicam que a amamentação exclusiva nos primeiros meses de vida diminui o risco de alergia à proteína do leite de vaca, dermatite atópica e outros tipos de alergias e atopias, incluindo asma. •\tDIMINUI O RISCO DE HIPERTENSÃO, HIPERCOLESTEROLEMIA E DIABETES:A Organização Mundial da Saúde publicou uma importante revisão sobre benefícios a longo prazo, concluindo que as crianças e as mães que amamentam apresentam pressões sistólica e diastólica mais baixas, níveis menores de colesterol total e menor risco de apresentar diabetes tipo 2 no futuro.•\tREDUZ A CHANCE DE OBESIDADE: A maioria dos estudos que avaliaram a relação entre obesidade em crianças e tipo de alimentação no início da vida constataram menor frequência de sobrepeso e obesidade nas que foram amamentadas. •\tQUALIDADE DA NUTRIÇÃO:O leite materno contém todos os nutrientes essenciais e necessários para o crescimento e o desenvolvimento adequados da criança pequena, além de ser mais bem digerido, quando comparado aos de outras espécies.•\tEFEITO POSITIVO NA INTELIGÊNCIA: Há indicações de que o aleitamento materno contribui para um melhor desenvolvimento cognitivo.•\tMELHOR DESENVOLVIMENTO DA CAVIDADE BUCAL: A movimentação e o exercício que as crianças fazem para retirar o leite da mama é importante para o desenvolvimento adequado de sua cavidade oral, propiciando uma melhor conformação do palato duro, o que é fundamental para o alinhamento correto dos dentes e uma boa oclusão dentária. Ajuda também no desenvolvimento motor-oral adequado, auxiliando o desenvolvimento de funções como mastigação, deglutição, respiração e articulação dos sons da fala.Já alguns outros benefícios do aleitamento materno, tanto para a saúde da mãe, quanto benefícios sociais e psicológicos não são tão bem conhecidos por algumas mulheres, devemos sempre reforçar:•\tPROTEÇÃO CONTRA CÂNCER DE MAMA MATERNO: Existem associações entre aleitamento materno e a redução na prevalência do câncer de mama nas mães.•\tEVITA NOVA GRAVIDEZ: Amamentar é considerado um método anticoncepcional nos primeiros seis meses após o parto, desde que a mãe esteja amamentando exclusivamente ou predominantemente, e ainda não tenha menstruado. A ovulação nos primeiros seis meses após o parto está relacionada com o número de mamadas, por isso, mulheres que amamentam com menor frequência diária, geralmente ovulam antes do sexto mês pós-parto.•\tOUTRAS POSSÍVEIS VANTAGENS PARA AS MULHERES: Há relação da amamentação com a proteção a diversas doenças como: câncer de ovário, hipercolesterolemia, diabetes, hipertensão e doença coronariana, obesidade, doença metabólica, osteoporose e fratura de quadril, artrite reumatoide e depressão pós-parto.•\tMENORES CUSTOS FINANCEIROS: O gasto com fórmulas infantis pode representar uma parte considerável dos rendimentos de uma família. Também há custos com mamadeiras, bicos e gás de cozinha, além de eventuais despesas decorrentes de doenças, que são mais comuns em crianças não amamentadas.•\tPROMOÇÃO DO VÍNCULO AFETIVO ENTRE MÃE E FILHO: Consideram-se indicativos de que a amamentação traz benefícios psicológicos para a criança e para a mãe. •\tMELHOR QUALIDADE DE VIDA: Uma vez que as crianças amamentadas adoecem menos, necessitam de menos atendimento médico, hospitalizações e medicamentos, reduzindo necessidade de faltas ao trabalho dos pais, situações estressantes e despesas.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+          "author_email_id": "690d9d560f8ae43bf09b6d97f0c66c68",
+          "author_profile": {
+            "id": "9f8397d1-4e1c-407a-b3d1-c6fbaf4f7a1a",
+            "full_name": "Carla Marcelino",
+            "avatar_url": "https://static.accounts.estrategia.com/33f4583d058bc6d196f6376eee4274e9",
+            "about_me": "Médica pediatra e neonatologista. Formada em medicina pela Universidade de São Paulo (USP), realizei residência médica em pediatria e neonatologia pela mesma instituição. Atualmente, trabalho como pediatra e neonatolgista nos Hospitais Samaritano de São Paulo e Hospital Israelita Albert Einstein (na unidade do Hospital Municipal Vila Santa Catarina).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.carlamarcelino",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-27 00:00:17.719733 +0000 UTC",
+          "updated_at": "2023-03-13 18:03:20.183676 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127063-720.mp4",
+        "unlisted": false,
+        "slug": "atender-mulher-com-24638757a45f",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

@@ -1,0 +1,305 @@
+{
+    "data": [
+      {
+        "id": "4000127082",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "371bc2f60c2840e9849ac7085abe102e",
+            "name": "Manifestações Clínicas",
+            "is_master": false,
+            "master_id": "435045d302884552a9b819715c8619f7",
+            "path": "Cirurgia[$$]Urgências Abdominais[$$]Abdome Agudo Inflamatório[$$]Diverticulite Aguda[$$]Manifestações Clínicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f641a343-f40f-4d47-8b9f-c0e645add0d8",
+            "position": "0",
+            "body": "Indicar dieta rica em fibras e a manutenção dos antibióticos usados no início das crises.",
+            "sanitized_body": "Indicar dieta rica em fibras e a manutenção dos antibióticos usados no início das crises.",
+            "correct": false,
+            "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+            "updated_at": "2020-11-11 00:12:06.060745 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Os antibióticos usados nas crises de diverticulite não devem ser usados rotineiramente sob pena de indução de resistência bacteriana.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Os antibióticos usados nas crises de diverticulite não devem ser usados rotineiramente sob pena de indução de resistência bacteriana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 10:27:40.608728 +0000 UTC",
+              "updated_at": "2020-10-17 10:27:41.36422 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 62
+          },
+          {
+            "id": "3b6afb94-5a95-43fd-97fa-684c3469709b",
+            "position": "1",
+            "body": "Orientar o paciente para que não use medicações sem prescrição médica.",
+            "sanitized_body": "Orientar o paciente para que não use medicações sem prescrição médica.",
+            "correct": false,
+            "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+            "updated_at": "2020-11-11 00:12:06.128015 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Na verdade, não está incorreto orientar o paciente a buscar ajuda médica antes de tomar medicamentos, porém não é a alternativa que contempla a melhor conduta para o caso.<div><br></div>",
+              "sanitized_complete": "INCORRETA. Na verdade, não está incorreto orientar o paciente a buscar ajuda médica antes de tomar medicamentos, porém não é a alternativa que contempla a melhor conduta para o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 10:27:40.6002 +0000 UTC",
+              "updated_at": "2020-10-17 10:27:41.372151 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 182
+          },
+          {
+            "id": "b6645462-52ef-4846-a6c3-4650645e940d",
+            "position": "2",
+            "body": "Sugerir ao paciente que procure um serviço de emergência sempre que tiver episódios semelhantes de dor.",
+            "sanitized_body": "Sugerir ao paciente que procure um serviço de emergência sempre que tiver episódios semelhantes de dor.",
+            "correct": false,
+            "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+            "updated_at": "2020-11-11 00:12:06.182224 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. O paciente tem uma condição crônica, a diverticulose, e o ideal é que ele seja acompanhado ambulatorialmente.<div><br></div>",
+              "sanitized_complete": "INCORRETA. O paciente tem uma condição crônica, a diverticulose, e o ideal é que ele seja acompanhado ambulatorialmente.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 10:27:40.593641 +0000 UTC",
+              "updated_at": "2020-10-17 10:27:41.374045 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 142
+          },
+          {
+            "id": "ee4fee8f-0dff-4c48-af31-982f29d30a63",
+            "position": "3",
+            "body": "Aconselhar o paciente a buscar uma unidade de atendimento ambulatorial secundário, em cirurgia geral ou coloproctologia.",
+            "sanitized_body": "Aconselhar o paciente a buscar uma unidade de atendimento ambulatorial secundário, em cirurgia geral ou coloproctologia.",
+            "correct": true,
+            "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+            "updated_at": "2020-11-11 00:12:06.231667 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "CORRETA. Estamos diante de paciente com diverticulose que tem apresentado sintomas/crises de diverticulite. Esse paciente necessita de acompanhamento ambulatorial especializado.<div><br></div>",
+              "sanitized_complete": "CORRETA. Estamos diante de paciente com diverticulose que tem apresentado sintomas/crises de diverticulite. Esse paciente necessita de acompanhamento ambulatorial especializado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 10:27:40.601652 +0000 UTC",
+              "updated_at": "2020-10-17 10:27:41.390127 +0000 UTC"
+            },
+            "answer_percentage": 57,
+            "answers": 794
+          },
+          {
+            "id": "b3d216c3-d697-46b4-b621-4615894c1bdc",
+            "position": "4",
+            "body": "Encaminhar o paciente à unidade básica de saúde para solicitar colonoscopia diagnóstica.",
+            "sanitized_body": "Encaminhar o paciente à unidade básica de saúde para solicitar colonoscopia diagnóstica.",
+            "correct": false,
+            "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+            "updated_at": "2020-11-11 00:12:06.286067 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "INCORRETA. Aparentemente o paciente já tem ciência do seu diagnóstico, porém precisa ser acompanhado por especialista.&nbsp;<div><br></div>",
+              "sanitized_complete": "INCORRETA. Aparentemente o paciente já tem ciência do seu diagnóstico, porém precisa ser acompanhado por especialista. ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+              "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+              "author_profile": null,
+              "created_at": "2020-10-17 10:27:40.608713 +0000 UTC",
+              "updated_at": "2020-10-17 10:27:41.369626 +0000 UTC"
+            },
+            "answer_percentage": 16,
+            "answers": 224
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Um paciente, com 69 anos de idade, é atendido em visita domiciliar. Ele informa que nos últimos cinco anos teve episódios de crises de dor abdominal na fossa ilíaca   esquerda, associadas a febre baixa e hiporexia. Geralmente, quando ele “percebe que vai ter uma crise”, já usa os mesmos antibióticos que utilizou na crise anterior, por uns três a cinco dias, e a situação é resolvida. Apesar de estar assintomático, no passado já teve   duas internações para uso de antibióticos parenterais, sendo que, em uma delas, há cerca de dois meses, ficou internado por três semanas, em decorrência de uma diverticulite complicada, com pequeno abscesso pericólico. Em relação às alternativas a seguir,   assinale aquela que corresponde à conduta apropriada para o caso.",
+        "statement_text": "Um paciente, com 69 anos de idade, é atendido em visita domiciliar. Ele informa que nos últimos cinco anos teve episódios de crises de dor abdominal na fossa ilíaca   esquerda, associadas a febre baixa e hiporexia. Geralmente, quando ele “percebe que vai ter uma crise”, já usa os mesmos antibióticos que utilizou na crise anterior, por uns três a cinco dias, e a situação é resolvida. Apesar de estar assintomático, no passado já teve   duas internações para uso de antibióticos parenterais, sendo que, em uma delas, há cerca de dois meses, ficou internado por três semanas, em decorrência de uma diverticulite complicada, com pequeno abscesso pericólico. Em relação às alternativas a seguir,   assinale aquela que corresponde à conduta apropriada para o caso.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 10:06:43.040048 +0000 UTC",
+        "forum_id": "efc1c2b7-965d-4039-9dda-21234d984d70",
+        "solution": {
+          "_key": "0dd241fc-1e50-4135-be13-0672f29f9645",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Divertículo é nome dado à protrusão sacular da parede colônica. Diverticulose é nome dado à condição que cursa com presença de vários divertículos no intestino, podendo ser sintomática ou assintomática. Doença diverticular é termo usado quando a diverticulose é sintomática. Diverticulite é termo que se refere à inflamação do divertículo, uma das complicações possíveis da diverticulose.</div><div><br><div>A diverticulose é, portanto, condição que afeta o intestino grosso e tem apresentado incidência crescente, representando a quinta mais importante doença gastrointestinal nos países ocidentais e a principal causa de ressecção eletiva do cólon.</div><div><br></div><div>O paciente da questão é sabidamente portador de diverticulose e vem apresentando alguns sintomas, incluindo algumas “crises”de diverticulite. Qual a melhor conduta para o caso?</div><div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DDivertículo é nome dado à protrusão sacular da parede colônica. Diverticulose é nome dado à condição que cursa com presença de vários divertículos no intestino, podendo ser sintomática ou assintomática. Doença diverticular é termo usado quando a diverticulose é sintomática. Diverticulite é termo que se refere à inflamação do divertículo, uma das complicações possíveis da diverticulose.A diverticulose é, portanto, condição que afeta o intestino grosso e tem apresentado incidência crescente, representando a quinta mais importante doença gastrointestinal nos países ocidentais e a principal causa de ressecção eletiva do cólon.O paciente da questão é sabidamente portador de diverticulose e vem apresentando alguns sintomas, incluindo algumas “crises”de diverticulite. Qual a melhor conduta para o caso?",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+          "author_email_id": "69c69db5d27c35d84b09f594e0941edb",
+          "author_profile": {
+            "id": "14f4a7ea-bb27-4f6b-b408-559c2a1c2a41",
+            "full_name": "Isabella Parente Almeida",
+            "avatar_url": "https://static.accounts.estrategia.com/212f5cc89b0d0f0fd9c6637bc26bdf69",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI),\nEspecialista em Clínica Médica pelo Hospital das Clínicas Faculdade de Medicina de Ribeirão Preto Universidade de São Paulo (HCFMRPUSP),\nEx-plantonista concursada da Unidade de Terapia Intensiva do Hospital Universitário da UFPI (HUUFPI),\nMestrado em andamento pelo Hospital das ClínicasFaculdade de Medicina da Universidade de São Paulo (HCFMUSP).",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profaisabella",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-17 10:27:40.744632 +0000 UTC",
+          "updated_at": "2020-10-17 10:27:41.472443 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127082-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-69-anos128a1a998cf",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

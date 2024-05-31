@@ -1,0 +1,296 @@
+{
+    "data": [
+      {
+        "id": "4000127172",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "41cc443f47bb4346a1d432807ff2bdd7",
+            "name": "Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "is_master": false,
+            "master_id": "44c396d6be2a4ad1b409c11ab7eaeb6e",
+            "path": "Medicina Preventiva[$$]Sistema Único de Saúde (SUS)[$$]Princípios e Diretrizes do Sistema Único de Saúde (SUS)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "c606f722-0fb0-4dc0-9ca4-16188cb8b9fa",
+            "position": "0",
+            "body": "a determinação dos coeficientes de morbimortalidade.",
+            "sanitized_body": "a determinação dos coeficientes de morbimortalidade.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.374333 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.606869 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.152987 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 28
+          },
+          {
+            "id": "2e9bd9ee-f0f8-4563-8c56-bb1a2fe46636",
+            "position": "1",
+            "body": "a obtenção de dados de vigilância comparativos com outras áreas do mesmo município.",
+            "sanitized_body": "a obtenção de dados de vigilância comparativos com outras áreas do mesmo município.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.436407 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.611932 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.119893 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 77
+          },
+          {
+            "id": "a47cbc77-3c3e-46d8-9c89-0b6304ef6a95",
+            "position": "2",
+            "body": "a identificação de reivindicações de movimentos sociais e grupos organizados.",
+            "sanitized_body": "a identificação de reivindicações de movimentos sociais e grupos organizados.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.497228 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.595626 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.122729 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 32
+          },
+          {
+            "id": "26f9d517-6dc9-481f-a978-ff65f5577ee4",
+            "position": "3",
+            "body": "a definição de microáreas de risco e grupos prioritários.",
+            "sanitized_body": "a definição de microáreas de risco e grupos prioritários.",
+            "correct": true,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.571416 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.591136 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.136027 +0000 UTC"
+            },
+            "answer_percentage": 85,
+            "answers": 812
+          },
+          {
+            "id": "197c158d-2f4d-4b12-b448-191e9f2ad71b",
+            "position": "4",
+            "body": "a determinação dos índices de mortalidade infantil e materna.",
+            "sanitized_body": "a determinação dos índices de mortalidade infantil e materna.",
+            "correct": false,
+            "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+            "updated_at": "2021-07-06 10:02:52.642435 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+              "author_email_id": "997ad59267e18436f4f11897de696113",
+              "author_profile": null,
+              "created_at": "2022-02-08 04:37:00.607339 +0000 UTC",
+              "updated_at": "2022-02-08 04:37:01.136936 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 8
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma nova Unidade de Saúde da Família será implantada em um município. A territorialização deverá ser realizada visando obter como primeiro produto",
+        "statement_text": "Uma nova Unidade de Saúde da Família será implantada em um município. A territorialização deverá ser realizada visando obter como primeiro produto",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:44:05.588624 +0000 UTC",
+        "solution": {
+          "_key": "d57e2cf7-02a5-4012-84f6-60177ab4a01a",
+          "complete": "Estrategista, o processo de territorialização consiste em delimitar regiões que sejam semelhantes em relação aos seus aspectos socioeconômicos e culturais e que compartilham dos mesmos problemas de saúde. <div><br></div><div>O objetivo é criar uma rede de saúde que consiga atender às necessidades desse espaço geográfico com a máxima assertividade possível, especialmente ao identificar as necessidades sociais, os determinantes em saúde e os grupos populacionais de risco.</div><div><br></div><div>Portanto, em um Município, espera-se a criação de diversos territórios e microáreas, cada qual com dinâmica própria, mas também com serviços de saúde que possam oferecer integralidade para aquela região. <div><br></div><div>Veja a definição de territorialização segundo a Política Nacional de Atenção Básica (PNAB 2017):</div><div><br></div><div>“Territorialização e Adstrição: de forma a permitir o planejamento, a programação descentralizada e o desenvolvimento de ações setoriais e intersetoriais com foco em um território específico, com impacto na situação, nos condicionantes e determinantes da saúde das pessoas e coletividades que constituem aquele espaço e estão, portanto, adstritos a ele. Para efeitos desta portaria, considera-se Território a unidade geográfica única, de construção descentralizada do SUS na execução das ações estratégicas destinadas à vigilância, promoção, prevenção, proteção e recuperação da saúde. Os Territórios são destinados para dinamizar a ação em saúde pública, o estudo social, econômico, epidemiológico, assistencial, cultural e identitário, possibilitando uma ampla visão de cada unidade geográfica e subsidiando a atuação na Atenção Básica, de forma que atendam a necessidade da população adscrita e ou as populações específicas”.</div><div><br></div></div><div><br></div><div>Resposta letra D.</div>",
+          "sanitized_complete": "Estrategista, o processo de territorialização consiste em delimitar regiões que sejam semelhantes em relação aos seus aspectos socioeconômicos e culturais e que compartilham dos mesmos problemas de saúde. O objetivo é criar uma rede de saúde que consiga atender às necessidades desse espaço geográfico com a máxima assertividade possível, especialmente ao identificar as necessidades sociais, os determinantes em saúde e os grupos populacionais de risco.Portanto, em um Município, espera-se a criação de diversos territórios e microáreas, cada qual com dinâmica própria, mas também com serviços de saúde que possam oferecer integralidade para aquela região. Veja a definição de territorialização segundo a Política Nacional de Atenção Básica (PNAB 2017):“Territorialização e Adstrição: de forma a permitir o planejamento, a programação descentralizada e o desenvolvimento de ações setoriais e intersetoriais com foco em um território específico, com impacto na situação, nos condicionantes e determinantes da saúde das pessoas e coletividades que constituem aquele espaço e estão, portanto, adstritos a ele. Para efeitos desta portaria, considera-se Território a unidade geográfica única, de construção descentralizada do SUS na execução das ações estratégicas destinadas à vigilância, promoção, prevenção, proteção e recuperação da saúde. Os Territórios são destinados para dinamizar a ação em saúde pública, o estudo social, econômico, epidemiológico, assistencial, cultural e identitário, possibilitando uma ampla visão de cada unidade geográfica e subsidiando a atuação na Atenção Básica, de forma que atendam a necessidade da população adscrita e ou as populações específicas”.Resposta letra D.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+          "author_email_id": "997ad59267e18436f4f11897de696113",
+          "author_profile": {
+            "id": "f54a7342-4120-4f2c-acd2-d8f7bd64ed2f",
+            "full_name": "Thales Thaumaturgo",
+            "avatar_url": "https://static.accounts.estrategia.com/4527e73fd3defb6d1a7f1ff96eab212b",
+            "about_me": "Graduação em Medicina na Uniplac, em Lages, Santa Catarina.\nResidência em Psiquiatria no Instituto de Psiquiatria de Santa Catarina - IPqSC.\nProfessor de Psiquiatria no Estratégia Concursos.",
+            "anonymized_areas": []
+          },
+          "created_at": "2022-02-08 04:37:00.654567 +0000 UTC",
+          "updated_at": "2022-02-08 04:37:01.224011 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "nova-Unidade-Sau22c98226ae",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

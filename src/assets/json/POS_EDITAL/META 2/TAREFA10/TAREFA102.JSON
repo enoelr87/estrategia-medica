@@ -1,0 +1,3703 @@
+{
+    "data": [
+      {
+        "id": "4000181278",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2023,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "5d212410-93d4-4d82-bb58-3c20232ece32",
+                "name": "SP - Hospital Oftalmológico de Sorocaba - HOS"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "37EF7409-658E-BA70-6B32-4D8A59FDEC20"
+              },
+              {
+                "type": "ANSWER",
+                "url": "801B40C4-BDDD-0BDD-4867-8DB56C2501BF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2022-10-25T19:59:46Z",
+            "location": {
+              "id": "5317"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "65d09c4edb9849a18193ecd4e31d7a39",
+            "name": "Ginecologia",
+            "is_master": true,
+            "path": "Ginecologia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "971f07ed733f42bf96766915c870abdd",
+            "name": "Sífilis",
+            "is_master": false,
+            "master_id": "694e89ab83fe4af1b9b37a3d240b20c6",
+            "path": "Clínica Médica[$$]Infectologia [$$]Infecções sexualmente transmissíveis[$$]Sífilis",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d54394c0cac848e881699dbc1a9e4d06",
+            "name": "Sífilis",
+            "is_master": false,
+            "master_id": "b0d9030e62e54d79a49c5502bcf2ce18",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Úlceras genitais[$$]Úlceras infecciosas de causa sexualmente transmissível[$$]Sífilis",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "b18cabfe-5664-409a-98cc-2c47505741b2",
+            "position": "0",
+            "body": "Ceftriaxone 250 mg/dia, IM, dose única.",
+            "sanitized_body": "Ceftriaxone 250 mg/dia, IM, dose única.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+            "updated_at": "2022-12-15 22:00:02.419165 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “a” incorreta, pois a droga de escolha para tratamento da sífilis é a penicilina benzatina.<div><br></div><div><br></div>",
+              "sanitized_complete": "Alternativa “a” incorreta, pois a droga de escolha para tratamento da sífilis é a penicilina benzatina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:25:01.848325 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 2
+          },
+          {
+            "id": "f7d7cacd-0583-48ab-8353-4977cd60fec2",
+            "position": "1",
+            "body": "Penicilina G cristalina 2,4 milhões UI, EV, de 6/6 horas, por 7 dias.",
+            "sanitized_body": "Penicilina G cristalina 2,4 milhões UI, EV, de 6/6 horas, por 7 dias.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+            "updated_at": "2022-12-15 22:00:02.745038 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “b” incorreta, pois a penicilina cristalina deve ser empregada no tratamento da sífilis terciária.<div><br></div>",
+              "sanitized_complete": "Alternativa “b” incorreta, pois a penicilina cristalina deve ser empregada no tratamento da sífilis terciária.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:25:01.855503 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 10
+          },
+          {
+            "id": "8953407e-0353-43b2-b47e-52129e292846",
+            "position": "2",
+            "body": "Penicilina G benzatina 2,4 milhões UI, IM, de 7/7 dias, por 3 semanas.",
+            "sanitized_body": "Penicilina G benzatina 2,4 milhões UI, IM, de 7/7 dias, por 3 semanas.",
+            "correct": true,
+            "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+            "updated_at": "2022-12-15 22:00:03.050254 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativa “c” correta, pois trata-se de um caso de sífilis latente tardia que deve ser tratado com 3 doses.<div><br></div>",
+              "sanitized_complete": "Alternativa “c” correta, pois trata-se de um caso de sífilis latente tardia que deve ser tratado com 3 doses.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:25:01.870882 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 891
+          },
+          {
+            "id": "fcba9eb4-b93f-4af3-bbbf-d387f82914c8",
+            "position": "3",
+            "body": "Penicilina G benzatina 2,4 milhões UI, IM, de 7/7 dias, por 2 semanas.",
+            "sanitized_body": "Penicilina G benzatina 2,4 milhões UI, IM, de 7/7 dias, por 2 semanas.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+            "updated_at": "2022-12-15 22:00:03.339903 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativas “d” e “e” incorretas, pois não são as dosagens adequadas para o caso.",
+              "sanitized_complete": "Alternativas “d” e “e” incorretas, pois não são as dosagens adequadas para o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:25:01.881253 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 22
+          },
+          {
+            "id": "d9e63a23-4ee2-4193-b653-d9a5559aea40",
+            "position": "4",
+            "body": "Penicilina G benzatina 2,4 milhões UI, IM, em dose única.",
+            "sanitized_body": "Penicilina G benzatina 2,4 milhões UI, IM, em dose única.",
+            "correct": false,
+            "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+            "updated_at": "2022-12-15 22:00:03.637928 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Alternativas “d” e “e” incorretas, pois não são as dosagens adequadas para o caso.",
+              "sanitized_complete": "Alternativas “d” e “e” incorretas, pois não são as dosagens adequadas para o caso.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2022-12-14 11:25:01.869231 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 109
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "L.G.N., 30 anos, assintomática, sem parceiro sexual no momento, vem à consulta ginecológica de rotina, com história de diagnóstico de sífilis há 2 anos, sem tratamento. Os resultados de exames apresentaram: VDRL 1/128; FTA-Abs: positivo. Assinale o tratamento recomendado para essa paciente.",
+        "statement_text": "L.G.N., 30 anos, assintomática, sem parceiro sexual no momento, vem à consulta ginecológica de rotina, com história de diagnóstico de sífilis há 2 anos, sem tratamento. Os resultados de exames apresentaram: VDRL 1/128; FTA-Abs: positivo. Assinale o tratamento recomendado para essa paciente.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-10-30 01:06:41.97938 +0000 UTC",
+        "solution": {
+          "_key": "59547b4f-18d0-409f-b170-995c8c711071",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>A sífilis é uma doença infectocontagiosa, sexualmente transmissível, de acometimento sistêmico e evolução crônica, cujo tratamento é fácil, acessível e, acima de tudo, curativo. Quando não tratada, porém, pode acometer praticamente todos os órgãos e sistemas, levando a sequelas graves, inclusive à morte. Na gestação, a sífilis pode ser transmitida para o feto, levando a consequências ainda mais severas, como abortamento, malformações fetais, prematuridade e, ainda, óbito fetal ou neonatal.</div><div><br></div><div>Observa-se que a maioria das pessoas com sífilis é assintomática ou apresenta quadro clínico vago. Todavia, quando não tratadas, podem evoluir com quadro grave de comprometimento do sistema nervoso e cardiovascular. Com base nos achados clínicos, a sífilis é dividida em estágios que orientam o tratamento da doença.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/002D689A-093D-4591-A555-883A9AB0DED2/002D689A-093D-4591-A555-883A9AB0DED2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A dosagem da benzilpenicilina benzatina a ser utilizada vai depender do estadiamento da doença. (vide tabela abaixo)</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D68296EC-68DA-65C2-5424-218358C251A4/D68296EC-68DA-65C2-5424-218358C251A4-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CA sífilis é uma doença infectocontagiosa, sexualmente transmissível, de acometimento sistêmico e evolução crônica, cujo tratamento é fácil, acessível e, acima de tudo, curativo. Quando não tratada, porém, pode acometer praticamente todos os órgãos e sistemas, levando a sequelas graves, inclusive à morte. Na gestação, a sífilis pode ser transmitida para o feto, levando a consequências ainda mais severas, como abortamento, malformações fetais, prematuridade e, ainda, óbito fetal ou neonatal.Observa-se que a maioria das pessoas com sífilis é assintomática ou apresenta quadro clínico vago. Todavia, quando não tratadas, podem evoluir com quadro grave de comprometimento do sistema nervoso e cardiovascular. Com base nos achados clínicos, a sífilis é dividida em estágios que orientam o tratamento da doença.A dosagem da benzilpenicilina benzatina a ser utilizada vai depender do estadiamento da doença. (vide tabela abaixo)",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-12-14 11:25:02.200425 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000181278-720.mp4",
+        "unlisted": false,
+        "slug": "L-G-N-30-anos42974be6a5",
+        "public": true
+      },
+      {
+        "id": "4000178601",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "ANSWER",
+                "url": "9C198216-80A4-DBAC-7C1F-B21791B96A3C"
+              },
+              {
+                "type": "EXAM",
+                "url": "BF608702-0D49-A35E-8F17-A48732E2C6B6"
+              },
+              {
+                "type": "ANSWER",
+                "url": "36C3E226-4BD5-ADD5-A845-9CE99AD9AD18"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 105,
+            "created_at": "2022-08-10T22:03:12Z",
+            "updated_at": "2022-08-10T22:21:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "34221b29375141548c3f6f192eb683b4",
+            "name": "Interpretação e conduta frente as atipias citológicas",
+            "is_master": false,
+            "master_id": "6b70240134eb45c992f2099a848cc593",
+            "path": "Ginecologia[$$]Oncologia ginecológica[$$]Rastreamento do câncer de colo do útero[$$]Diretrizes para o rastreamento[$$]Interpretação e conduta frente as atipias citológicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "158cc412-c449-4164-9c62-f50118217a86",
+            "position": "0",
+            "body": "realizar colposcopia.",
+            "sanitized_body": "realizar colposcopia.",
+            "correct": true,
+            "created_at": "2022-08-11 02:13:24.205306 +0000 UTC",
+            "updated_at": "2022-08-19 18:18:18.64652 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa A: Esta paciente apresentou células glandulares atípicas de significado indeterminado (AGC), possivelmente não neoplásicas na sua citologia e a conduta para estes casos é encaminhar a paciente para a realização de colposcopia.",
+              "sanitized_complete": "Correta a alternativa A: Esta paciente apresentou células glandulares atípicas de significado indeterminado (AGC), possivelmente não neoplásicas na sua citologia e a conduta para estes casos é encaminhar a paciente para a realização de colposcopia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-08-19 18:19:52.411361 +0000 UTC",
+              "updated_at": "2022-08-19 18:23:11.332458 +0000 UTC"
+            },
+            "answer_percentage": 69,
+            "answers": 2866
+          },
+          {
+            "id": "90eeaa4e-df78-447e-8430-681f33f3cf3b",
+            "position": "1",
+            "body": "manter colpocitologia anual.",
+            "sanitized_body": "manter colpocitologia anual.",
+            "correct": false,
+            "created_at": "2022-08-11 02:13:24.205306 +0000 UTC",
+            "updated_at": "2022-08-19 18:18:19.045852 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque esta não é a conduta recomendada para o achado de células glandulares atípicas.",
+              "sanitized_complete": "Incorreta a alternativa B, porque esta não é a conduta recomendada para o achado de células glandulares atípicas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-08-19 18:19:52.425978 +0000 UTC",
+              "updated_at": "2022-08-19 18:23:11.334145 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 213
+          },
+          {
+            "id": "2fc1bf65-8da9-400e-adf5-6c812355d3e8",
+            "position": "2",
+            "body": "fazer exérese da zona de transformação.",
+            "sanitized_body": "fazer exérese da zona de transformação.",
+            "correct": false,
+            "created_at": "2022-08-11 02:13:24.205306 +0000 UTC",
+            "updated_at": "2022-08-19 18:18:19.457708 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque a exérese da zona de transformação é indicada após a realização de colposcopia e biópsia com resultado de lesão de alto grau.",
+              "sanitized_complete": "Incorreta a alternativa C, porque a exérese da zona de transformação é indicada após a realização de colposcopia e biópsia com resultado de lesão de alto grau.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-08-19 18:19:52.402879 +0000 UTC",
+              "updated_at": "2022-08-19 18:23:11.33331 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 34
+          },
+          {
+            "id": "4750eefc-eaf7-4fd4-8869-dfa572ee861f",
+            "position": "3",
+            "body": "repetir colpocitologia em exame em 6 meses.",
+            "sanitized_body": "repetir colpocitologia em exame em 6 meses.",
+            "correct": false,
+            "created_at": "2022-08-11 02:13:24.205306 +0000 UTC",
+            "updated_at": "2022-08-19 18:18:19.881026 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque esta seria a conduta no caso de ASCUS.",
+              "sanitized_complete": "Incorreta a alternativa D, porque esta seria a conduta no caso de ASCUS.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-08-19 18:19:52.417526 +0000 UTC",
+              "updated_at": "2022-08-19 18:23:11.331478 +0000 UTC"
+            },
+            "answer_percentage": 25,
+            "answers": 1015
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 30 anos de idade, G1P1, compareceu à unidade básica de saúde, para realização do exame citopatológico, sem queixas. Na ocasião, o exame ginecológico foi normal. A coleta da citologia oncótica, que mostrou o seguinte resultado: células glandulares atípicas de significado indeterminado (AGC), possivelmente não neoplásicas. O exame anterior, realizado havia 3 anos, não apresentava anormalidades.<div><br></div><div>Nesse caso, a conduta adequada é</div>",
+        "statement_text": "Uma mulher de 30 anos de idade, G1P1, compareceu à unidade básica de saúde, para realização do exame citopatológico, sem queixas. Na ocasião, o exame ginecológico foi normal. A coleta da citologia oncótica, que mostrou o seguinte resultado: células glandulares atípicas de significado indeterminado (AGC), possivelmente não neoplásicas. O exame anterior, realizado havia 3 anos, não apresentava anormalidades.Nesse caso, a conduta adequada é",
+        "labels": [
+          "TEMPORARY_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-08-11 02:13:24.205306 +0000 UTC",
+        "solution": {
+          "_key": "4f2f8070-8ef0-44a2-9c0e-4124841d5c3b",
+          "complete": "Estrategista, esta é uma questão sobre a conduta frente a alteração da colpocitologia. Veja a tabela abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/90787F80-B406-7CF3-BEE2-6A98F4A4B6D2/90787F80-B406-7CF3-BEE2-6A98F4A4B6D2-400.png\"><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/815A5A02-7FA6-D642-7032-C7C628CE1DB5/815A5A02-7FA6-D642-7032-C7C628CE1DB5-400.png\"></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, esta é uma questão sobre a conduta frente a alteração da colpocitologia. Veja a tabela abaixo:Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-08-19 18:19:52.853266 +0000 UTC",
+          "updated_at": "2022-08-19 18:23:11.487254 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000178601-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-30-anos-idade637eda97b8",
+        "public": true
+      },
+      {
+        "id": "4000176679",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2022,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "ADBDD5BF-CA96-34B0-6FDD-3C91803ABF32"
+              },
+              {
+                "type": "EXAM",
+                "url": "4BFC88C3-3889-63E5-04D3-7CD62BFE2B31"
+              },
+              {
+                "type": "EXAM",
+                "url": "A1DB31DE-D62B-31C4-CBCD-32E1A8911CB5"
+              },
+              {
+                "type": "ANSWER",
+                "url": "D97FB6F1-F198-4512-B8F4-4CF29D1ECC1F"
+              },
+              {
+                "type": "ANSWER",
+                "url": "87FD5D55-69EC-DA25-1931-15ED0D636340"
+              },
+              {
+                "type": "EXAM",
+                "url": "2DC5782E-C491-EB99-F618-AFADF96AF4F4"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 105,
+            "created_at": "2022-03-09T01:37:25Z",
+            "updated_at": "2022-06-14T13:49:33Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "20bb4e08298646f2bcb9f9029297d55a",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "4039b55f980b4287b04341fad339e077",
+            "path": "Ginecologia[$$]Oncologia ginecológica[$$]Rastreamento do câncer de colo do útero[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "34221b29375141548c3f6f192eb683b4",
+            "name": "Interpretação e conduta frente as atipias citológicas",
+            "is_master": false,
+            "master_id": "6b70240134eb45c992f2099a848cc593",
+            "path": "Ginecologia[$$]Oncologia ginecológica[$$]Rastreamento do câncer de colo do útero[$$]Diretrizes para o rastreamento[$$]Interpretação e conduta frente as atipias citológicas",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "0428ee8f-6f76-488f-a6af-f1217a496639",
+            "position": "0",
+            "body": "exérese   da   zona   de   transformação   com   alça   de   alta frequência.",
+            "sanitized_body": "exérese   da   zona   de   transformação   com   alça   de   alta frequência.",
+            "correct": true,
+            "created_at": "2022-03-09 16:50:46.842033 +0000 UTC",
+            "updated_at": "2022-03-30 00:33:31.345998 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa A: trata-se de um caso de \"ver e tratar\", estando indicada a EZT da lesão.",
+              "sanitized_complete": "Correta a alternativa A: trata-se de um caso de &#34;ver e tratar&#34;, estando indicada a EZT da lesão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-30 00:41:55.679068 +0000 UTC",
+              "updated_at": "2022-03-30 00:47:08.200121 +0000 UTC"
+            },
+            "answer_percentage": 65,
+            "answers": 3829
+          },
+          {
+            "id": "7c1904e4-0de4-4baf-9f0d-687065b41eae",
+            "position": "1",
+            "body": "conização    a    frio    do    colo   uterino   com   margem   de segurança.",
+            "sanitized_body": "conização    a    frio    do    colo   uterino   com   margem   de segurança.",
+            "correct": false,
+            "created_at": "2022-03-09 16:50:46.842033 +0000 UTC",
+            "updated_at": "2022-03-30 00:33:31.742904 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque a conização (ou EZT do tipo 3) consiste em retirar quase todo o canal endocervical e neste caso isto não é necessário, já que a lesão é localizada no colo uterino, a 12 horas com 0,7 cm de diâmetro, visível em toda sua extensão.",
+              "sanitized_complete": "Incorreta a alternativa B, porque a conização (ou EZT do tipo 3) consiste em retirar quase todo o canal endocervical e neste caso isto não é necessário, já que a lesão é localizada no colo uterino, a 12 horas com 0,7 cm de diâmetro, visível em toda sua extensão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-30 00:41:55.685814 +0000 UTC",
+              "updated_at": "2022-03-30 00:47:08.242747 +0000 UTC"
+            },
+            "answer_percentage": 27,
+            "answers": 1554
+          },
+          {
+            "id": "93358137-e4b6-46a2-9e18-500ad9bbf05c",
+            "position": "2",
+            "body": "repetição  da  coleta  da  citologia  oncótica  em  6  meses.",
+            "sanitized_body": "repetição  da  coleta  da  citologia  oncótica  em  6  meses.",
+            "correct": false,
+            "created_at": "2022-03-09 16:50:46.842033 +0000 UTC",
+            "updated_at": "2022-03-30 00:33:32.220031 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque esta paciente está muito provavelmente com uma lesão de alto grau e tem indicação de exérese.",
+              "sanitized_complete": "Incorreta a alternativa C, porque esta paciente está muito provavelmente com uma lesão de alto grau e tem indicação de exérese.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-30 00:41:55.667752 +0000 UTC",
+              "updated_at": "2022-03-30 00:47:08.262241 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 240
+          },
+          {
+            "id": "9585888e-160d-4c00-bb6b-a02b807baa8f",
+            "position": "3",
+            "body": "amputação do colo uterino com eletrocauterização.",
+            "sanitized_body": "amputação do colo uterino com eletrocauterização.",
+            "correct": false,
+            "created_at": "2022-03-09 16:50:46.842033 +0000 UTC",
+            "updated_at": "2022-03-30 00:33:32.632891 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque a amputação do colo uterino só é indicada para os casos de câncer de colo estádio IA2 (invasão de 3-5 mm) sem prole definida.<div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa D, porque a amputação do colo uterino só é indicada para os casos de câncer de colo estádio IA2 (invasão de 3-5 mm) sem prole definida.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-30 00:41:55.673005 +0000 UTC",
+              "updated_at": "2022-03-30 00:47:08.243371 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 236
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma paciente com 42 anos  de idade, gesta: 4, para: 3, aborto: 1, que fez laqueadura tubárea há 5 anos, comparece ao ambulatório com resultado de exame de citologia oncótica cérvico-vaginal sugestiva de lesão de alto grau. A colposcopia é satisfatória e pode ser observada área de mosaico grosseiro localizada no colo uterino, a 12 horas com 0,7 cm de diâmetro, visível em toda sua extensão.<div><br></div><div>Em face desse contexto clínico, a conduta correta é indicar</div>",
+        "statement_text": "Uma paciente com 42 anos  de idade, gesta: 4, para: 3, aborto: 1, que fez laqueadura tubárea há 5 anos, comparece ao ambulatório com resultado de exame de citologia oncótica cérvico-vaginal sugestiva de lesão de alto grau. A colposcopia é satisfatória e pode ser observada área de mosaico grosseiro localizada no colo uterino, a 12 horas com 0,7 cm de diâmetro, visível em toda sua extensão.Em face desse contexto clínico, a conduta correta é indicar",
+        "labels": [
+          "TEMPORARY_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-03-09 16:50:46.842033 +0000 UTC",
+        "solution": {
+          "_key": "135152bb-a371-48aa-b3c1-26632ba66f57",
+          "complete": "Estrategista, temos aqui uma paciente com resultado de colpocitologia com lesão de alto grau e com colposcopia com mosaico grosseiro (achado maior) sugestivo de lesão de alto grau. Nestes casos  a diretriz indica o “ver e tratar” como tratamento de escolha para pacientes com achados colposcópicos maiores. Mas, afinal, em que ele consiste? <div>O “ver e tratar” nada mais é que a realização de um tratamento excisional (retirar a lesão através da exérese de zona de transformação) sem ter o resultado do anatomopatológico, devido à grande suspeita de lesão de alto grau. É uma estratégia do Sistema Único de Saúde (SUS) para agilizar o tratamento das pacientes. Para isso, precisa haver concordância cito-colposcópica, ou seja, a paciente deve ter citologia de lesão intraepitelial de alto grau e colposcopia com achados maiores (achados sugestivos de lesão de alto grau). Outros critérios também devem ser preenchidos: </div><div>• Colposcopia adequada. </div><div>• Lesão restrita ao colo.</div><div>• Junção escamocolunar (JEC) visível: zona de transformação (ZT) tipos 1 ou 2. </div><div>• Ausência de suspeita de invasão ou doença glandular.</div><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, temos aqui uma paciente com resultado de colpocitologia com lesão de alto grau e com colposcopia com mosaico grosseiro (achado maior) sugestivo de lesão de alto grau. Nestes casos  a diretriz indica o “ver e tratar” como tratamento de escolha para pacientes com achados colposcópicos maiores. Mas, afinal, em que ele consiste? O “ver e tratar” nada mais é que a realização de um tratamento excisional (retirar a lesão através da exérese de zona de transformação) sem ter o resultado do anatomopatológico, devido à grande suspeita de lesão de alto grau. É uma estratégia do Sistema Único de Saúde (SUS) para agilizar o tratamento das pacientes. Para isso, precisa haver concordância cito-colposcópica, ou seja, a paciente deve ter citologia de lesão intraepitelial de alto grau e colposcopia com achados maiores (achados sugestivos de lesão de alto grau). Outros critérios também devem ser preenchidos: • Colposcopia adequada. • Lesão restrita ao colo.• Junção escamocolunar (JEC) visível: zona de transformação (ZT) tipos 1 ou 2. • Ausência de suspeita de invasão ou doença glandular.Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-03-30 00:41:56.08581 +0000 UTC",
+          "updated_at": "2022-03-30 00:47:08.643195 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000176679-720.mp4",
+        "unlisted": false,
+        "slug": "paciente-com-42-anos768a140fed",
+        "public": true
+      },
+      {
+        "id": "4000180261",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "institution_id": {
+                "id": "9e3250e3-559c-40dd-9976-4eb2daeea4a2",
+                "name": "Médicos pelo Brasil - ADAPS - Tutor Médico"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "47A6DF97-0425-1267-C101-1E72E54880E7"
+              },
+              {
+                "type": "EXAM",
+                "url": "DDF4BE19-08F9-1E98-4CC8-3DA5D44A46F1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2022-09-21T13:12:52Z",
+            "updated_at": "2022-10-14T18:45:07Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "9619b382-8ba6-4311-b6cd-31fbcecb4fb4",
+            "position": "0",
+            "body": "I e III apenas",
+            "sanitized_body": "I e III apenas",
+            "correct": false,
+            "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+            "updated_at": "2022-09-27 12:51:00.40294 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-09-28 15:03:19.697951 +0000 UTC",
+              "updated_at": "2022-09-28 15:04:04.445315 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 39
+          },
+          {
+            "id": "efa2d620-895a-468f-92e4-d322b5f2532c",
+            "position": "1",
+            "body": "II, III e IV apenas",
+            "sanitized_body": "II, III e IV apenas",
+            "correct": false,
+            "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+            "updated_at": "2022-09-27 12:51:00.740818 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-09-28 15:03:19.69669 +0000 UTC",
+              "updated_at": "2022-09-28 15:04:04.519443 +0000 UTC"
+            },
+            "answer_percentage": 25,
+            "answers": 228
+          },
+          {
+            "id": "5076357e-da1e-4ca4-8e8b-f2279a3b13d3",
+            "position": "2",
+            "body": "IV apenas",
+            "sanitized_body": "IV apenas",
+            "correct": false,
+            "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+            "updated_at": "2022-09-27 12:51:01.070466 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-09-28 15:03:19.688445 +0000 UTC",
+              "updated_at": "2022-09-28 15:04:04.523178 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 9
+          },
+          {
+            "id": "7d706314-e3f6-4144-8292-d3e42be42530",
+            "position": "3",
+            "body": "I, II, III e IV",
+            "sanitized_body": "I, II, III e IV",
+            "correct": false,
+            "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+            "updated_at": "2022-09-27 12:51:01.689585 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-09-28 15:03:19.690489 +0000 UTC",
+              "updated_at": "2022-09-28 15:04:04.528644 +0000 UTC"
+            },
+            "answer_percentage": 38,
+            "answers": 356
+          },
+          {
+            "id": "994dfea4-deeb-4474-b7a1-714ff7b5e7b9",
+            "position": "4",
+            "body": "I, II e III apenas",
+            "sanitized_body": "I, II e III apenas",
+            "correct": true,
+            "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+            "updated_at": "2022-09-27 12:51:02.354403 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta E porque mencionou as afirmações corretas.",
+              "sanitized_complete": "Correta E porque mencionou as afirmações corretas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2022-09-28 15:03:19.694299 +0000 UTC",
+              "updated_at": "2022-09-28 15:04:04.532862 +0000 UTC"
+            },
+            "answer_percentage": 32,
+            "answers": 296
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Sobre os sinais de violência sexual em crianças e adolescentes, analise as afirmativas abaixo e assinale a alternativa correta.<div><br></div><div>I. Lesões de palato ou de dentes anteriores</div><div><br></div><div>II. Sangramento vaginal em pré-púberes, excluindo a introdução de corpo estranho pela própria criança</div><div><br></div><div>III. Infecção sexualmente transmissível</div><div><br></div><div>IV. Sangramento ou fissuras anais de qualquer natureza</div><div><br></div><div>Estão corretas as afirmativas:</div>",
+        "statement_text": "Sobre os sinais de violência sexual em crianças e adolescentes, analise as afirmativas abaixo e assinale a alternativa correta.I. Lesões de palato ou de dentes anterioresII. Sangramento vaginal em pré-púberes, excluindo a introdução de corpo estranho pela própria criançaIII. Infecção sexualmente transmissívelIV. Sangramento ou fissuras anais de qualquer naturezaEstão corretas as afirmativas:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-09-21 14:41:42.332272 +0000 UTC",
+        "forum_id": "469bb846-d3c5-4493-8c11-5c3b9d9b7dff",
+        "solution": {
+          "_key": "7f904eea-fa93-4ef3-a9d2-004e5252a5ba",
+          "complete": "Olá Estrategista,<div>De acordo com o Ministério da Saúde, podemos encontrar sinais diretos e indiretos da violência sexual em crianças e adolescentes. Observe:</div><div>SINAIS INDIRETOS:</div><div>• Atitudes sexuais impróprias para a idade.</div><div>• Demonstração de conhecimento sobre atividades sexuais superiores à <span>sua fase de desenvolvimento, através de falas, gestos ou atitudes.</span></div><div>• Masturbação frequente e compulsiva, independente do ambiente em que <span>se encontre.</span></div><div>• Tentativas frequentes de desvio para brincadeiras que possibilitem <span>intimidades, a manipulação genital, ou ainda que reproduzem as atitudes </span><span>do abusador com ela.</span></div><div>• Mudanças de comportamento.</div><div>• Infecções urinárias de repetição</div><div><br></div><div>SINAIS DIRETOS: evidências físicas diretas</div><div>• Edema ou lesões em área genital, sem outras doenças que os <span>justifiquem, como infecções ou traumas acidentais evidenciáveis.</span></div><div><u>• Lesões de palato ou de dentes anteriores, decorrentes de sexo oral.</u></div><div><u>• Sangramento vaginal em pré-púberes, excluindo a introdução pela <span>criança de corpo estranho.</span></u></div><div>• Sangramento, fissuras ou cicatrizes anais, dilatação ou flacidez <span>de esfíncter anal sem presença de doença que o justifique, como </span><span>constipação intestinal grave e crônica.</span></div><div>• Rompimento himenal.</div><div><u>• Doenças sexualmente transmissíveis.</u></div><div>• Gravidez.</div><div>• Aborto.</div><div>Assim, vemos que esta questão é um \"copia e cola\" do Manual do Ministério da Saúde e dessa forma, as afirmações I, II e III estão corretas.</div><div>gabarito E.</div>",
+          "sanitized_complete": "Olá Estrategista,De acordo com o Ministério da Saúde, podemos encontrar sinais diretos e indiretos da violência sexual em crianças e adolescentes. Observe:SINAIS INDIRETOS:• Atitudes sexuais impróprias para a idade.• Demonstração de conhecimento sobre atividades sexuais superiores à sua fase de desenvolvimento, através de falas, gestos ou atitudes.• Masturbação frequente e compulsiva, independente do ambiente em que se encontre.• Tentativas frequentes de desvio para brincadeiras que possibilitem intimidades, a manipulação genital, ou ainda que reproduzem as atitudes do abusador com ela.• Mudanças de comportamento.• Infecções urinárias de repetiçãoSINAIS DIRETOS: evidências físicas diretas• Edema ou lesões em área genital, sem outras doenças que os justifiquem, como infecções ou traumas acidentais evidenciáveis.• Lesões de palato ou de dentes anteriores, decorrentes de sexo oral.• Sangramento vaginal em pré-púberes, excluindo a introdução pela criança de corpo estranho.• Sangramento, fissuras ou cicatrizes anais, dilatação ou flacidez de esfíncter anal sem presença de doença que o justifique, como constipação intestinal grave e crônica.• Rompimento himenal.• Doenças sexualmente transmissíveis.• Gravidez.• Aborto.Assim, vemos que esta questão é um &#34;copia e cola&#34; do Manual do Ministério da Saúde e dessa forma, as afirmações I, II e III estão corretas.gabarito E.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-09-28 15:03:19.993094 +0000 UTC",
+          "updated_at": "2022-09-28 15:04:04.783371 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000180261-720.mp4",
+        "unlisted": false,
+        "slug": "sinais-violencia520eab6931",
+        "public": true
+      },
+      {
+        "id": "4000176469",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "institution_id": {
+                "id": "9c2cba6f-fbd8-46ae-8b4f-29d3a801e69f",
+                "name": "Médicos pelo Brasil - ADAPS - Médico de família e comunidade"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "DCA95FB1-86F7-4304-1157-33E1C0AD5C88"
+              },
+              {
+                "type": "EXAM",
+                "url": "BF3856A6-F5BA-2CF3-7AD1-9D799443B428"
+              },
+              {
+                "type": "ANSWER",
+                "url": "16EE878A-F463-2591-DE1C-91389D75F80F"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2022-03-07T14:24:20Z",
+            "updated_at": "2022-10-14T18:45:44Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "45f5e9fc-8529-4b6f-b11b-95f0a939ac6b",
+            "position": "0",
+            "body": "V - V - V - V",
+            "sanitized_body": "V - V - V - V",
+            "correct": false,
+            "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+            "updated_at": "2022-09-20 14:25:14.653915 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-09-20 15:04:44.451105 +0000 UTC",
+              "updated_at": "2022-09-20 15:09:31.276354 +0000 UTC"
+            },
+            "answer_percentage": 72,
+            "answers": 564
+          },
+          {
+            "id": "76b9063e-637f-4e00-9d59-82045ce5ab0f",
+            "position": "1",
+            "body": "V - V - V - F",
+            "sanitized_body": "V - V - V - F",
+            "correct": true,
+            "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+            "updated_at": "2022-09-20 14:25:14.98652 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa B, pois o atendimento e tratamento psicológico e social é recomendado para os casos de violência sexual, mas deve ser realizado após o acolhimento, o exame físico, a profilaxia de IST's , e a prevenção de gravidez.",
+              "sanitized_complete": "Correta a alternativa B, pois o atendimento e tratamento psicológico e social é recomendado para os casos de violência sexual, mas deve ser realizado após o acolhimento, o exame físico, a profilaxia de IST&#39;s , e a prevenção de gravidez.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-09-20 15:04:44.452315 +0000 UTC",
+              "updated_at": "2022-09-20 15:09:31.274827 +0000 UTC"
+            },
+            "answer_percentage": 23,
+            "answers": 177
+          },
+          {
+            "id": "ef563c81-38be-4a24-8520-54c20b07c18a",
+            "position": "2",
+            "body": "F - F - F - V\n",
+            "sanitized_body": "F - F - F - V\n",
+            "correct": false,
+            "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+            "updated_at": "2022-09-20 14:25:15.350844 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-09-20 15:04:44.449953 +0000 UTC",
+              "updated_at": "2022-09-20 15:09:31.27507 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          },
+          {
+            "id": "cecf0f51-b5e1-40ec-9d45-98d2454ce781",
+            "position": "3",
+            "body": "V - F - V - F\n",
+            "sanitized_body": "V - F - V - F\n",
+            "correct": false,
+            "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+            "updated_at": "2022-09-20 14:25:15.654118 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-09-20 15:04:44.451273 +0000 UTC",
+              "updated_at": "2022-09-20 15:09:31.275864 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 29
+          },
+          {
+            "id": "6966fbf2-c759-4240-aead-00d315068496",
+            "position": "4",
+            "body": "F - V - F - V\n",
+            "sanitized_body": "F - V - F - V\n",
+            "correct": false,
+            "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+            "updated_at": "2022-09-20 14:25:15.950483 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-09-20 15:04:44.451488 +0000 UTC",
+              "updated_at": "2022-09-20 15:09:31.276939 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 5
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Quanto as recomendações às vítimas de <span>violência sexual, analise as afirmativas abaixo </span><span>e dê valores verdadeiro (V) ou falso (F).</span><div><br><div>(   ) Anticoncepção de emergência </div><div>(   ) Profilaxia das infecções sexualmente <span>transmissíveis não virais e do HIV</span></div><div>(   ) Realização de testagem rápida para HIV, sífilis, <span>hepatites virais B e C</span></div><div>(   ) Atendimento clínico-laboratorial imediato e <span>encaminhar para tratamento psicológico e </span><span>social.</span></div><div><span><br></span></div><div>Assinale a alternativa que apresenta a <span>sequência correta de cima para baixo.</span></div></div>",
+        "statement_text": "Quanto as recomendações às vítimas de violência sexual, analise as afirmativas abaixo e dê valores verdadeiro (V) ou falso (F).(   ) Anticoncepção de emergência (   ) Profilaxia das infecções sexualmente transmissíveis não virais e do HIV(   ) Realização de testagem rápida para HIV, sífilis, hepatites virais B e C(   ) Atendimento clínico-laboratorial imediato e encaminhar para tratamento psicológico e social.Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2022-03-07 16:57:45.173704 +0000 UTC",
+        "forum_id": "02d70838-14b9-4fe5-9061-0f7ccfdb37ba",
+        "solution": {
+          "_key": "aeb29074-05f7-4cf2-99c6-1665cc7eaaeb",
+          "complete": "Estrategista, esta é uma questão sobre o atendimento a vítima de violência sexual e seu fluxo de atendimento. Veja o esquema abaixo:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2B5F90CC-87CD-3F90-C5F9-14EEE4B7D05C/2B5F90CC-87CD-3F90-C5F9-14EEE4B7D05C-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, esta é uma questão sobre o atendimento a vítima de violência sexual e seu fluxo de atendimento. Veja o esquema abaixo:Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-09-20 15:04:44.901133 +0000 UTC",
+          "updated_at": "2022-09-20 15:09:31.433026 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000176469-720.mp4",
+        "unlisted": false,
+        "slug": "Quanto-recomendacoes636fa596d4",
+        "public": true
+      },
+      {
+        "id": "4000153216",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "AB931441-8FCE-0010-64D2-2AE71DDE440E"
+              },
+              {
+                "type": "NOTICE",
+                "url": "9D903A58-4A2E-9D5C-8C4E-1A12F12D7E95"
+              },
+              {
+                "type": "ANSWER",
+                "url": "B52BD576-866F-3757-A671-F29775669139"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 105,
+            "created_at": "2021-09-08T12:47:08Z",
+            "updated_at": "2021-12-10T00:02:36Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6b70240134eb45c992f2099a848cc593",
+            "name": "Diretrizes para o rastreamento",
+            "is_master": false,
+            "master_id": "4039b55f980b4287b04341fad339e077",
+            "path": "Ginecologia[$$]Oncologia ginecológica[$$]Rastreamento do câncer de colo do útero[$$]Diretrizes para o rastreamento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "94f26176-189e-41a3-a603-08f9236d842e",
+            "position": "0",
+            "body": "Fazer o exame clínico e ginecológico completo e coletar material para o exame citopatológico do colo uterino.",
+            "sanitized_body": "Fazer o exame clínico e ginecológico completo e coletar material para o exame citopatológico do colo uterino.",
+            "correct": false,
+            "created_at": "2021-09-08 17:45:43.30478 +0000 UTC",
+            "updated_at": "2022-03-29 13:40:20.827459 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A, porque esta paciente ainda não deve iniciar o rastreamento do câncer de colo uterino.",
+              "sanitized_complete": "Incorreta a alternativa A, porque esta paciente ainda não deve iniciar o rastreamento do câncer de colo uterino.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-29 13:42:54.273676 +0000 UTC",
+              "updated_at": "2022-03-29 13:46:07.947143 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 110
+          },
+          {
+            "id": "4be293fe-66d3-4bb4-8380-ef24ed8b723f",
+            "position": "1",
+            "body": "Coletar material para identificar o DNA-HPV (captura híbrida), se estiver disponível, pois é mais sensível que o exame citológico. ",
+            "sanitized_body": "Coletar material para identificar o DNA-HPV (captura híbrida), se estiver disponível, pois é mais sensível que o exame citológico. ",
+            "correct": false,
+            "created_at": "2021-09-08 17:45:43.30478 +0000 UTC",
+            "updated_at": "2022-03-29 13:40:21.519965 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque o exame de rastreamento para o câncer de colo de útero no Brasil é a colpocitologia. A captura híbrida é usada em alguns países, como por exemplo o Estados Unidos. ",
+              "sanitized_complete": "Incorreta a alternativa B, porque o exame de rastreamento para o câncer de colo de útero no Brasil é a colpocitologia. A captura híbrida é usada em alguns países, como por exemplo o Estados Unidos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-29 13:42:54.440945 +0000 UTC",
+              "updated_at": "2022-03-29 13:46:07.939741 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 12
+          },
+          {
+            "id": "8b75e6dd-1d59-40bc-abd9-068ebeca2e95",
+            "position": "2",
+            "body": "Colher a história clínica e informar que não há necessidade de realizar o exame preventivo antes de completar 25 anos. ",
+            "sanitized_body": "Colher a história clínica e informar que não há necessidade de realizar o exame preventivo antes de completar 25 anos. ",
+            "correct": true,
+            "created_at": "2021-09-08 17:45:43.30478 +0000 UTC",
+            "updated_at": "2022-03-29 13:40:22.120024 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa C, pois, de acordo com as diretrizes do Ministério da Saúde, o rastreamento do câncer de colo de útero deve iniciar aos 25 anos de idade.",
+              "sanitized_complete": "Correta a alternativa C, pois, de acordo com as diretrizes do Ministério da Saúde, o rastreamento do câncer de colo de útero deve iniciar aos 25 anos de idade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-29 13:42:54.42233 +0000 UTC",
+              "updated_at": "2022-03-29 13:46:07.951044 +0000 UTC"
+            },
+            "answer_percentage": 94,
+            "answers": 4027
+          },
+          {
+            "id": "1fc6a9b7-372c-44c8-9848-00e97d3e48c2",
+            "position": "3",
+            "body": "Coletar material para citologia e caso tenha duas citologias normais com intervalo de 1 ano, fazer a coleta a cada 3 anos. ",
+            "sanitized_body": "Coletar material para citologia e caso tenha duas citologias normais com intervalo de 1 ano, fazer a coleta a cada 3 anos. ",
+            "correct": false,
+            "created_at": "2021-09-08 17:45:43.30478 +0000 UTC",
+            "updated_at": "2022-03-29 13:40:22.631031 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque o intervalo de coleta nesta alternativa está correto, mas a coleta deve ser iniciada aos 25 anos de idade.",
+              "sanitized_complete": "Incorreta a alternativa D, porque o intervalo de coleta nesta alternativa está correto, mas a coleta deve ser iniciada aos 25 anos de idade.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+              "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+              "author_profile": null,
+              "created_at": "2022-03-29 13:42:54.173634 +0000 UTC",
+              "updated_at": "2022-03-29 13:46:07.945653 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 154
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma adolescente com 18 anos de idade, procura assistência primária para realizar o exame preventivo do câncer do colo uterino. Sexarca aos 17 anos, em uso de contraceptivo oral. <div><br><div>De acordo com as diretrizes brasileiras na prevenção do câncer de colo uterino, qual deve ser a conduta do agente de saúde?</div></div>",
+        "statement_text": "Uma adolescente com 18 anos de idade, procura assistência primária para realizar o exame preventivo do câncer do colo uterino. Sexarca aos 17 anos, em uso de contraceptivo oral. De acordo com as diretrizes brasileiras na prevenção do câncer de colo uterino, qual deve ser a conduta do agente de saúde?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-09-08 17:45:43.30478 +0000 UTC",
+        "forum_id": "be615e65-dd11-4438-9d37-c441ef1ee356",
+        "solution": {
+          "_key": "33db059e-89fd-4440-af94-2215149efb34",
+          "complete": "Estrategista, esta é uma questão sobre as diretrizes do Ministério da Saúde para o rastreamento do câncer de colo de útero. Este rastreamento deve ser feito através da realização da colpocitologia. Devem ser rastreadas as mulheres sexualmente ativas com idade igual ou superior a 25 anos. Os dois primeiros exames devem ser feitos com intervalo anual e, se negativos, o rastreamento pode ser feito a cada três anos. O rastreamento deve seguir até os 64 anos de idade e ser interrompido caso a paciente já tenha, pelo menos, dois exames negativos consecutivos nos últimos cinco anos.<div>Agora vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Estrategista, esta é uma questão sobre as diretrizes do Ministério da Saúde para o rastreamento do câncer de colo de útero. Este rastreamento deve ser feito através da realização da colpocitologia. Devem ser rastreadas as mulheres sexualmente ativas com idade igual ou superior a 25 anos. Os dois primeiros exames devem ser feitos com intervalo anual e, se negativos, o rastreamento pode ser feito a cada três anos. O rastreamento deve seguir até os 64 anos de idade e ser interrompido caso a paciente já tenha, pelo menos, dois exames negativos consecutivos nos últimos cinco anos.Agora vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+          "author_email_id": "01747d2a550d1258769e7cf1ca4ee40a",
+          "author_profile": {
+            "id": "1aae0f75-6d2f-4a1b-9e1b-19901b167c46",
+            "full_name": "Alexandre Melitto",
+            "avatar_url": "https://static.accounts.estrategia.com/f208ba265114e539e5b7449ec09eab6f",
+            "about_me": "Formado em Medicina pela UNIFESP (Escola Paulista de Medicina), Residência Médica em Ginecologia e Obstetrícia (UNIFESP), Residência Médica em Mastologia (UNIFESP), Mestrado em Ciências pela UNIFESP. Atualmente ocupa o cargo de médico assistente no CRSM - Hospital Pérola Byington.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/prof.alexandremelitto",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2022-03-29 13:42:55.237354 +0000 UTC",
+          "updated_at": "2022-03-29 13:46:08.330607 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000153216-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-1850a0b0edf8",
+        "public": true
+      },
+      {
+        "id": "4000146486",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "046f0505-90c9-4862-b318-388c0d1e8026",
+                "name": "Anestesiologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 6,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:30:29Z",
+            "updated_at": "2023-08-08T20:39:41Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "32bef8bd-8aac-4ede-aede-06b9458b026b",
+                "name": "Cirurgia Geral"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 2,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:30:57Z",
+            "updated_at": "2023-08-08T20:40:18Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                "name": "2 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "9b34a94d-754d-4510-8bad-60f649fa825b",
+                "name": "Clínica Médica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 15,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:31:16Z",
+            "updated_at": "2023-08-08T20:40:52Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "f30d24a0-2f2d-43be-9812-73746e91a61a",
+                "name": "5 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "66678bdd-d9e1-4267-a4cf-f3beebfd7d0e",
+                "name": "Neurocirurgia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 1,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:32:07Z",
+            "updated_at": "2023-08-08T20:41:25Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "0609ccdb-db5c-4c47-a306-31a0a655e95c",
+                "name": "Ginecologia e Obstetrícia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 5,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:32:24Z",
+            "updated_at": "2023-08-08T20:41:57Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "417a198f-03b2-417e-8505-8acf83f3059d",
+                "name": "Oftalmologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 4,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:32:47Z",
+            "updated_at": "2023-08-08T20:42:22Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "710b6098-b1cc-40fb-a6e9-1978c156b947",
+                "name": "Pediatria"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 4,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:33:00Z",
+            "updated_at": "2023-08-08T20:43:03Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "b9d13d45-c27d-4634-985c-fe9924095039",
+                "name": "2 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "dfa90599-1ee1-4de3-8605-a75ecd3799bd",
+                "name": "Cirurgia Básica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 6,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:33:34Z",
+            "updated_at": "2023-08-08T20:43:32Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "f2f2f3c5-9759-4201-bca7-2487751bd626",
+                "name": "Ortopedia e Traumatologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 6,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:33:50Z",
+            "updated_at": "2023-08-08T20:43:56Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          },
+          {
+            "scholarity": "placeholder",
+            "year": 2021,
+            "catalogs": {
+              "duration_id": {
+                "id": "27dbfbf8-939d-4abc-b3d8-ea268d974c45",
+                "name": "3 anos"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "3b2d4b6f-dc8b-47d5-b3e6-566a48355f32",
+                "name": "SP - Santa Casa de Misericórdia de Ribeirão Preto - SCMRP"
+              },
+              "jury_id": {
+                "id": "30c22f9e-d2c5-4f61-b429-33f6c7bb2874",
+                "name": "Fundação VUNESP"
+              },
+              "residency_id": {
+                "id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                "name": "Acesso Direto (R1)"
+              },
+              "sector_id": {
+                "id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                "name": "Privado"
+              },
+              "specialty_id": {
+                "id": "4d4116be-190d-4321-94c8-66da6d1acb11",
+                "name": "Otorrinolaringologia"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 2,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "6BB64D98-EA08-3C1B-50BF-B52FD14F64BC"
+              },
+              {
+                "type": "EXAM",
+                "url": "C3637DBF-3D77-33BC-BF73-F1EA557D827B"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-25T02:34:24Z",
+            "updated_at": "2023-08-08T20:44:18Z",
+            "location": {
+              "id": "5223"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "91e23a954cd94ea08a24c213a3acb13e",
+            "name": "Pediatria",
+            "is_master": true,
+            "path": "Pediatria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "fb46f9e342824081b265363966e4a7e9",
+            "name": "Atendimento",
+            "is_master": false,
+            "master_id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual[$$]Atendimento",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "aed7257c-0cd4-4f36-b692-26422725c8dc",
+            "position": "0",
+            "body": "relatar todos os achados de história e exame físico na ficha de atendimento do médico e encaminhá-la, imediatamente, para exame de corpo de delito.",
+            "sanitized_body": "relatar todos os achados de história e exame físico na ficha de atendimento do médico e encaminhá-la, imediatamente, para exame de corpo de delito.",
+            "correct": false,
+            "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+            "updated_at": "2021-04-29 21:21:20.303517 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, a evidência de trauma no exame físico é mais provável de ser identificada até 72 horas após a agressão, como a violência foi pratica há 20 dias não há como realizar coleta de material do agressor, assim como não temos sinais de agressão evidentes, exceto o hímen perfurado.<br>",
+              "sanitized_complete": "Incorreta, a evidência de trauma no exame físico é mais provável de ser identificada até 72 horas após a agressão, como a violência foi pratica há 20 dias não há como realizar coleta de material do agressor, assim como não temos sinais de agressão evidentes, exceto o hímen perfurado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-05-31 17:58:35.918946 +0000 UTC",
+              "updated_at": "2021-05-31 17:58:35.940667 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 109
+          },
+          {
+            "id": "0256076b-ffdf-4a30-baab-5694b33f1e7c",
+            "position": "1",
+            "body": "indicar um exame ginecológico sob sedação para melhor avaliação e indicar profilaxia pós-exposição para suposto caso de infecção pelo HIV.",
+            "sanitized_body": "indicar um exame ginecológico sob sedação para melhor avaliação e indicar profilaxia pós-exposição para suposto caso de infecção pelo HIV.",
+            "correct": false,
+            "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+            "updated_at": "2021-04-29 21:21:20.353388 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, o exame físico ginecológico não necessita de sedação e a profilaxia pós-exposição de HIV pode ser realizada até 72 horas da exposição.",
+              "sanitized_complete": "Incorreta, o exame físico ginecológico não necessita de sedação e a profilaxia pós-exposição de HIV pode ser realizada até 72 horas da exposição.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-05-31 17:58:35.938507 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 20
+          },
+          {
+            "id": "62a35232-7e09-46a1-9066-ee4e37733360",
+            "position": "2",
+            "body": "encaminhar para um psicólogo de um centro de referência em atendimento à violência e avaliar a possibilidade de himenoplastia.",
+            "sanitized_body": "encaminhar para um psicólogo de um centro de referência em atendimento à violência e avaliar a possibilidade de himenoplastia.",
+            "correct": false,
+            "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+            "updated_at": "2021-04-29 21:21:20.401194 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, essa criança precisa de suporte multidisciplinar, o que incluirá um psicólogo, mas não somente essa especialidade. Antes disso, devemos notificar as autoridades legais responsáveis. E não há indicação de himenoplastia.",
+              "sanitized_complete": "Incorreta, essa criança precisa de suporte multidisciplinar, o que incluirá um psicólogo, mas não somente essa especialidade. Antes disso, devemos notificar as autoridades legais responsáveis. E não há indicação de himenoplastia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-05-31 17:58:35.932875 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 33
+          },
+          {
+            "id": "83bee3b0-8b64-4e59-83b4-21186402ecc9",
+            "position": "3",
+            "body": "relatar os achados obtidos na ficha de atendimento médico e notificar ao Conselho Tutelar ou Vara da Infância, explicando à adolescente e seus acompanhantes os motivos dessa decisão.",
+            "sanitized_body": "relatar os achados obtidos na ficha de atendimento médico e notificar ao Conselho Tutelar ou Vara da Infância, explicando à adolescente e seus acompanhantes os motivos dessa decisão.",
+            "correct": true,
+            "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+            "updated_at": "2021-04-29 21:21:20.45681 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta, devemos relatar os achados obtidos na ficha de atendimento médico e notificar ao Conselho Tutelar ou Vara da Infância, explicando à adolescente e seus acompanhantes os motivos dessa decisão.",
+              "sanitized_complete": "Correta, devemos relatar os achados obtidos na ficha de atendimento médico e notificar ao Conselho Tutelar ou Vara da Infância, explicando à adolescente e seus acompanhantes os motivos dessa decisão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-05-31 17:58:35.930077 +0000 UTC"
+            },
+            "answer_percentage": 89,
+            "answers": 1346
+          },
+          {
+            "id": "079a44fd-9731-4a3d-8086-94622c6a0591",
+            "position": "4",
+            "body": "reagendar novo atendimento para se certificar da veracidade do acontecimento, solicitando, se possível, que o “suposto agressor” venha acompanhando a adolescente.",
+            "sanitized_body": "reagendar novo atendimento para se certificar da veracidade do acontecimento, solicitando, se possível, que o “suposto agressor” venha acompanhando a adolescente.",
+            "correct": false,
+            "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+            "updated_at": "2021-04-29 21:21:20.514253 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta, não é nosso papel julgar a veracidade dos fatos, mas sim prestar o atendimento de acordo com a queixa. Portanto, SEMPRE diante de uma suspeita de violência sexual, devemos prestar atendimento multidisciplinar, registrar tudo em prontuário e notificar as autoridades legais responsáveis.",
+              "sanitized_complete": "Incorreta, não é nosso papel julgar a veracidade dos fatos, mas sim prestar o atendimento de acordo com a queixa. Portanto, SEMPRE diante de uma suspeita de violência sexual, devemos prestar atendimento multidisciplinar, registrar tudo em prontuário e notificar as autoridades legais responsáveis.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+              "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+              "author_profile": null,
+              "created_at": "2021-05-31 17:58:35.938559 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 3
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma adolescente de 12 anos e 4 meses, sexo feminino, vem à consulta com história de um suposto abuso sexual há cerca de 20 dias, pois, somente agora, teve “coragem de contar para mãe”. Fica bastante silenciosa durante a entrevista, não responde à maior parte das questões formuladas, chorando quando se refere a ter sido “forçada a tirar a roupa”. Ao exame, apresenta hímen roto, sem outros sinais de trauma no local. Não apresenta corrimento genital, nem sangramentos. A conduta mais adequada é",
+        "statement_text": "Uma adolescente de 12 anos e 4 meses, sexo feminino, vem à consulta com história de um suposto abuso sexual há cerca de 20 dias, pois, somente agora, teve “coragem de contar para mãe”. Fica bastante silenciosa durante a entrevista, não responde à maior parte das questões formuladas, chorando quando se refere a ter sido “forçada a tirar a roupa”. Ao exame, apresenta hímen roto, sem outros sinais de trauma no local. Não apresenta corrimento genital, nem sangramentos. A conduta mais adequada é",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 01:06:17.412404 +0000 UTC",
+        "forum_id": "162ddc35-f75f-493e-9f9c-718443a3e539",
+        "solution": {
+          "_key": "99781812-c881-4c7a-b563-860f0c7139e8",
+          "complete": "<div>Caro Estrategista,</div><div><br></div><div><br></div><div>&nbsp;Abuso sexual é definido pelo Ministério da Saúde como todo ato ou jogo sexual com intenção de estimular sexualmente a criança ou o adolescente, visando a utilizá-lo para obter satisfação sexual. Uma variedade de situações é incluída nessa definição, como manipulação de genitália, mamas e ânus, ato sexual com penetração vaginal ou anal, sexo oral, imposição de intimidades, exibicionismo, pornografia, assédio sexual e as maneiras de manifestar o abuso sexual são muitas e variam entre as vítimas. A suspeição depende especialmente do quanto os responsáveis, o pediatra e a equipe de saúde estão atentos e preparados para considerar essa possibilidade, uma vez que&nbsp;</div><div>nem todas as crianças revelam a situação vivenciada.&nbsp;</div><div><br></div><div>O atendimento deve ser feito por equipe multidisciplinar treinada, em ambiente reservado. A paciente deve estar ciente de todos os passos do atendimento e que eles só serão realizados mediante seu consentimento. É <b>obrigatória a notificação compulsória</b> em todo o território nacional das situações de indícios ou confirmação de violência contra a mulher.<b> No caso de violência contra crianças, adolescentes e pessoas idosas, o Conselho Tutelar, a Vara da Infância e Juventude e o Conselho da Pessoa Idosa também devem ser notificados</b>. Além disso, desde 2020, devido à Lei 13931/2019 e à Portaria n° 2561 de 09/2020, além da notificação para fins epidemiológicos, o médico deve <b>notificar também à autoridade policial,</b> em prazo máximo de 24 horas</div><div><br></div><div>Analisando a questão:</div><div><br></div><div>Adolescente, 12 anos, sexo feminino, <b>queixa abuso sexual há cerca de 20 dias.</b>&nbsp;Fica bastante silenciosa durante a entrevista, não responde à maior parte das questões formuladas, chorando quando se refere a ter sido “forçada a tirar a roupa”. <b>Ao exame, apresenta hímen roto, sem outros sinais de trauma no local.</b>&nbsp;A conduta mais adequada é: agir conforme o protocolo de abuso sexual, notificando as autoridades responsáveis (Conselho Tutelar ou Vara da Infância e autoridade policial), registrando os dados em prontuário e dando o suporte multidisciplinar para a adolescente.</div><div><br></div><div>Vamos analisar as alternativas:</div><div><br></div>",
+          "sanitized_complete": "Caro Estrategista, Abuso sexual é definido pelo Ministério da Saúde como todo ato ou jogo sexual com intenção de estimular sexualmente a criança ou o adolescente, visando a utilizá-lo para obter satisfação sexual. Uma variedade de situações é incluída nessa definição, como manipulação de genitália, mamas e ânus, ato sexual com penetração vaginal ou anal, sexo oral, imposição de intimidades, exibicionismo, pornografia, assédio sexual e as maneiras de manifestar o abuso sexual são muitas e variam entre as vítimas. A suspeição depende especialmente do quanto os responsáveis, o pediatra e a equipe de saúde estão atentos e preparados para considerar essa possibilidade, uma vez que nem todas as crianças revelam a situação vivenciada. O atendimento deve ser feito por equipe multidisciplinar treinada, em ambiente reservado. A paciente deve estar ciente de todos os passos do atendimento e que eles só serão realizados mediante seu consentimento. É obrigatória a notificação compulsória em todo o território nacional das situações de indícios ou confirmação de violência contra a mulher. No caso de violência contra crianças, adolescentes e pessoas idosas, o Conselho Tutelar, a Vara da Infância e Juventude e o Conselho da Pessoa Idosa também devem ser notificados. Além disso, desde 2020, devido à Lei 13931/2019 e à Portaria n° 2561 de 09/2020, além da notificação para fins epidemiológicos, o médico deve notificar também à autoridade policial, em prazo máximo de 24 horasAnalisando a questão:Adolescente, 12 anos, sexo feminino, queixa abuso sexual há cerca de 20 dias. Fica bastante silenciosa durante a entrevista, não responde à maior parte das questões formuladas, chorando quando se refere a ter sido “forçada a tirar a roupa”. Ao exame, apresenta hímen roto, sem outros sinais de trauma no local. A conduta mais adequada é: agir conforme o protocolo de abuso sexual, notificando as autoridades responsáveis (Conselho Tutelar ou Vara da Infância e autoridade policial), registrando os dados em prontuário e dando o suporte multidisciplinar para a adolescente.Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+          "author_email_id": "aad03a35702ac099d1eb1875c2b7f778",
+          "author_profile": {
+            "id": "038c9de2-3c5b-45e7-b881-86b6ac0134f8",
+            "full_name": "Jéssica Dantas",
+            "avatar_url": "https://static.accounts.estrategia.com/e0359f1eb8eca1b03e738ac5e2dfafb1",
+            "about_me": "Graduação em Medicina pela Universidade do Pará (UEPA).\nResidência em Pediatria pela Santa Casa de Misericórdia do Pará e Gastroenterologia\nPediátrica e Hepatologia pela Universidade Federal de São Paulo (UNIFESP).\nAtuo como Gastropediatra e Hepatologista no Hospital Beneficência Portuguesa de São\nPaulo, Ambulatório Hepatologia da UNIFESP e Instituto Paulista de Gastroenterologia\nPediátrica.\nProfessora de Pediatria do Estratégia Med.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-31 17:58:35.997768 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "adolescente-12-anos-483671bfdcb",
+        "public": true
+      },
+      {
+        "id": "4000126603",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2015,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "2257D778-3280-2E80-E34A-56D63F92D72D"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T20:18:19Z",
+            "updated_at": "2020-09-24T17:11:55Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "815860239437454ab4c8fd53db86754f",
+            "name": "Tratamento",
+            "is_master": false,
+            "master_id": "c408b568f11344b8a60fe671e67fa809",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Úlceras genitais[$$]Úlceras infecciosas de causa sexualmente transmissível[$$]Herpes genital[$$]Tratamento",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b4f2b8f65df34728892b7ae8ffd284c2",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "c408b568f11344b8a60fe671e67fa809",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Úlceras genitais[$$]Úlceras infecciosas de causa sexualmente transmissível[$$]Herpes genital[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "5412e10d-7f96-40ca-bc42-20ac5affbcea",
+            "position": "0",
+            "body": "Cancroide; azitromicina 1 g por via oral em dose única.",
+            "sanitized_body": "Cancroide; azitromicina 1 g por via oral em dose única.",
+            "correct": false,
+            "created_at": "2020-09-24 20:00:02.769673 +0000 UTC",
+            "updated_at": "2020-11-20 13:30:26.452284 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 00:38:59.986258 +0000 UTC"
+            },
+            "answer_percentage": 15,
+            "answers": 506
+          },
+          {
+            "id": "6dc6e594-0a48-44a9-b3df-e591593e992a",
+            "position": "1",
+            "body": "Linfogranuloma inguinal; doxicilina 100 mg, duas vezes ao dia, por 14 dias.",
+            "sanitized_body": "Linfogranuloma inguinal; doxicilina 100 mg, duas vezes ao dia, por 14 dias.",
+            "correct": false,
+            "created_at": "2020-09-24 20:00:02.769673 +0000 UTC",
+            "updated_at": "2020-11-20 13:30:26.519379 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 00:38:59.981076 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 73
+          },
+          {
+            "id": "fa8edfb2-65c6-49d6-b632-be04aa0295b3",
+            "position": "2",
+            "body": "Herpes genital; aciclovir 400 mg por via oral, três vezes ao dia, por 7 a 10 dias.",
+            "sanitized_body": "Herpes genital; aciclovir 400 mg por via oral, três vezes ao dia, por 7 a 10 dias.",
+            "correct": true,
+            "created_at": "2020-09-24 20:00:02.769673 +0000 UTC",
+            "updated_at": "2020-11-20 13:30:26.597688 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 00:38:59.981181 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 2641
+          },
+          {
+            "id": "f4351994-9506-4927-b6c8-99c48cdb86b9",
+            "position": "3",
+            "body": "Sífilis; penicilina benzatina 2,4 milhões de unidades via intramuscular, a cada 7 dias, por 3 semanas.",
+            "sanitized_body": "Sífilis; penicilina benzatina 2,4 milhões de unidades via intramuscular, a cada 7 dias, por 3 semanas.",
+            "correct": false,
+            "created_at": "2020-09-24 20:00:02.769673 +0000 UTC",
+            "updated_at": "2020-11-20 13:30:26.663105 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 00:38:59.976718 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 69
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher de 27 anos de idade, solteira, nulípara, chega à Unidade Básica de Saúde queixando-se de que há dois ou três dias vem sentindo mal-estar geral, sensação de febre e ardor ao urinar. Ontem à noite notou \"feridas na vagina\". O exame da vulva demonstrou lesões ulcerosas bilaterais dolorosas, de pequenas dimensões. Diante disso, quais são, respectivamente, a hipótese mais provável e o tratamento indicado?",
+        "statement_text": "Uma mulher de 27 anos de idade, solteira, nulípara, chega à Unidade Básica de Saúde queixando-se de que há dois ou três dias vem sentindo mal-estar geral, sensação de febre e ardor ao urinar. Ontem à noite notou &#34;feridas na vagina&#34;. O exame da vulva demonstrou lesões ulcerosas bilaterais dolorosas, de pequenas dimensões. Diante disso, quais são, respectivamente, a hipótese mais provável e o tratamento indicado?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ec13f320d53547037ef15a8e43f4e5d9",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 20:00:02.769673 +0000 UTC",
+        "forum_id": "cb7cbbc8-3e15-4aea-9c5d-46b4d87f2765",
+        "solution": {
+          "_key": "caa0ba5c-a094-49a6-a7d2-9a322736e989",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>Nas questões sobre úlceras genitais é importante nos atentarmos para a quantidade de lesões, a presença/ausência de dor e a presença/ausência de linfonodomegalia, O fluxograma abaixo ajuda no raciocínio diagnóstico das úlceras genitais de causa infecciosa e sexualmente transmissível:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/99BDF88D-CFF7-BDBC-1F16-4EAE1E16ACF6/99BDF88D-CFF7-BDBC-1F16-4EAE1E16ACF6-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>A paciente tem lesões múltiplas, pequenas e dolorosas, acompanhadas de sintomas prodrômicos (mal-estar e febre). O quadro é compatível com Herpes genital. Vamos analisar as alternativas:</div><div><b>Incorreta alternativa “A”</b>, cancro mole cursa com quadro de úlceras <u>múltiplas, dolorosas</u>, com bordos irregulares, fundo sujo e friável e base amolecida, que se associam a adenopatia unilateral dolorosa. O tratamento é feito com Azitromicina 1g, dose única.</div><div><b>Incorreta alternativa “B”</b>, a úlcera do linfogranuloma venéreo corresponde à fase primária, é única indolor e muitas vezes imperceptível. Na fase secundária aparece a lesão característica da doença, linfadenopatia inguinal ou femoral, geralmente unilateral e dolorosa, que fistuliza em “bico de regador”. O tratamento é feito com Doxiciclina por 21 dias.</div><div><b>Correta alternativa “C”</b>, herpes é uma Infecção Sexualmente Transmissível causada por um vírus, o Herpes simples Vírus (HSV). É a principal causa de úlcera genital em todo o mundo. Essa patologia cursa com lesões vesiculares múltiplas e dolorosas que ulceram e evoluem para crostas, com posterior resolução sem deixar cicatrizes. Associa-se a adenopatia inguinal dolorosa. O tratamento padrão da primo-infecção é o uso de aciclovir oral 400mg de 8/8h por 7-10 dias. O tratamento das recidivas é feito com a mesma dosagem, por 5 dias.</div><div><b>Incorreta alternativa “D”</b>, cancro duro ou úlcera da sífilis primária se manifesta como úlcera única, indolor, de fundo limpo e bordos elevados, com adenopatia associada.O tratamento é feito com penicilina benzatina.</div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CNas questões sobre úlceras genitais é importante nos atentarmos para a quantidade de lesões, a presença/ausência de dor e a presença/ausência de linfonodomegalia, O fluxograma abaixo ajuda no raciocínio diagnóstico das úlceras genitais de causa infecciosa e sexualmente transmissível:A paciente tem lesões múltiplas, pequenas e dolorosas, acompanhadas de sintomas prodrômicos (mal-estar e febre). O quadro é compatível com Herpes genital. Vamos analisar as alternativas:Incorreta alternativa “A”, cancro mole cursa com quadro de úlceras múltiplas, dolorosas, com bordos irregulares, fundo sujo e friável e base amolecida, que se associam a adenopatia unilateral dolorosa. O tratamento é feito com Azitromicina 1g, dose única.Incorreta alternativa “B”, a úlcera do linfogranuloma venéreo corresponde à fase primária, é única indolor e muitas vezes imperceptível. Na fase secundária aparece a lesão característica da doença, linfadenopatia inguinal ou femoral, geralmente unilateral e dolorosa, que fistuliza em “bico de regador”. O tratamento é feito com Doxiciclina por 21 dias.Correta alternativa “C”, herpes é uma Infecção Sexualmente Transmissível causada por um vírus, o Herpes simples Vírus (HSV). É a principal causa de úlcera genital em todo o mundo. Essa patologia cursa com lesões vesiculares múltiplas e dolorosas que ulceram e evoluem para crostas, com posterior resolução sem deixar cicatrizes. Associa-se a adenopatia inguinal dolorosa. O tratamento padrão da primo-infecção é o uso de aciclovir oral 400mg de 8/8h por 7-10 dias. O tratamento das recidivas é feito com a mesma dosagem, por 5 dias.Incorreta alternativa “D”, cancro duro ou úlcera da sífilis primária se manifesta como úlcera única, indolor, de fundo limpo e bordos elevados, com adenopatia associada.O tratamento é feito com penicilina benzatina.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-13 00:39:00.148725 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126603-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-27-anos-idade6690ac444f",
+        "public": true
+      },
+      {
+        "id": "4000126984",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "39c97ad4cd9b491abbd09c5ba3818464",
+            "name": "Atendimento à vítima de violência sexual",
+            "is_master": false,
+            "master_id": "f133b8d2a0454d52a3b17ab073dfc547",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c2ef2d9010b5439e807bb270e18c87fc",
+            "name": "Profilaxia pós-exposição (PEP)",
+            "is_master": false,
+            "master_id": "36fbfc5db6c2459dacf8e58df1b1fac6",
+            "path": "Clínica Médica[$$]Infectologia [$$]HIV/Aids[$$]Profilaxia [$$]Profilaxia pós-exposição (PEP)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "1a9a8163-e0af-4eaf-b983-06893d93275d",
+            "position": "0",
+            "body": "realizada com a neviparina ou o efavirenz.",
+            "sanitized_body": "realizada com a neviparina ou o efavirenz.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.841869 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)&nbsp; + 1 comprimido de dolutegravir (DTG).<div><br></div><div>Os esquemas alternativos estão descritos na figura abaixo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D0877921-2F91-24D6-22A3-6DE866954C1B/D0877921-2F91-24D6-22A3-6DE866954C1B-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div>FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)</div>",
+              "sanitized_complete": "A alternativa A está incorreta, pois o esquema de primeira escolha é composto por 1 comprimido coformulado de tenofovir/lamivudina (TDF/3TC)  + 1 comprimido de dolutegravir (DTG).Os esquemas alternativos estão descritos na figura abaixo.FONTE: Protocolo Clínico e Diretrizes Terapêuticas para Profi laxia Pós-Exposição (PEP) de Risco à Infecção pelo HIV, IST e Hepatites Virais - Ministério da Saúde (atualizado em junho/2021)",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.787166 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.901034 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 155
+          },
+          {
+            "id": "83580ce2-ba90-4a68-a39a-1f76d64a5abb",
+            "position": "1",
+            "body": "iniciada em até 96 horas da violência sexual.",
+            "sanitized_body": "iniciada em até 96 horas da violência sexual.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:54.949862 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras <b>72 horas</b> após a violência, inclusive se o status sorológico do agressor for desconhecido.&nbsp;&nbsp;",
+              "sanitized_complete": "A alternativa B está incorreta, pois a quimioprofilaxia antirretroviral está recomendada em todos os casos de penetração vaginal e/ou anal nas primeiras 72 horas após a violência, inclusive se o status sorológico do agressor for desconhecido.  ",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.762988 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.891351 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 216
+          },
+          {
+            "id": "8c441f02-da52-4fb4-a071-01bda746d182",
+            "position": "2",
+            "body": "mantida sem interrupção por quatro semanas.",
+            "sanitized_body": "mantida sem interrupção por quatro semanas.",
+            "correct": true,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.049034 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "sanitized_complete": "A alternativa C está correta, pois a profilaxia antirretroviral do HIV deve ser considerada uma emergência e iniciada preferencialmente ainda nas primeiras 24 horas após a violência, e o esquema deve ser mantido sem interrupção por quatro semanas consecutivas (28 dias).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.77212 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.91548 +0000 UTC"
+            },
+            "answer_percentage": 88,
+            "answers": 2856
+          },
+          {
+            "id": "5e897cf8-a00d-4ea7-a98f-000d7e56cf60",
+            "position": "3",
+            "body": "é contraindicada pelo tempo já decorrido.",
+            "sanitized_body": "é contraindicada pelo tempo já decorrido.",
+            "correct": false,
+            "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+            "updated_at": "2021-07-05 20:22:55.150855 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "sanitized_complete": "A alternativa D está incorreta, pois a profilaxia antirretroviral do HIV deve ser iniciada até 72 horas da violência sexual, e, no caso, ocorreu há menos tempo (48 horas).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+              "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+              "author_profile": null,
+              "created_at": "2021-07-15 05:35:47.781004 +0000 UTC",
+              "updated_at": "2021-07-15 05:50:14.897575 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 29
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "statement_text": "Uma adolescente, com 19 anos de idade, comparece ao plantão da Unidade de Emergência relatando ter sofrido violência sexual há cerca de 48 horas. Afirma que não procurou o atendimento antes por ter recebido ameaças anônimas por telefone. Afirma que sofreu penetração vaginal com ejaculação. A profilaxia da infecção por HIV com antirretrovirais para a paciente deve ser",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 02:51:35.416947 +0000 UTC",
+        "solution": {
+          "_key": "18c8fd3a-741b-46e5-a587-a243d2275b29",
+          "complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.<div><br></div><div>O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:</div><div>- os tipos de exposição sexual (anal, vaginal, oral);<br></div><div>- o número de agressores;</div><div>- a susceptibilidade da mulher;</div><div>- a rotura himenal;</div><div>- a exposição a secreções sexuais e/ou sangue;</div><div>- a presença de DST ou úlcera genital;</div><div>- a carga viral do agressor;</div><div>- o início precoce da profilaxia ARV, quando indicada.</div>",
+          "sanitized_complete": "A infecção pelo HIV é uma das grandes preocupações para a maioria das mulheres em situação de violência sexual.O risco de infecção pelo HIV, à semelhança do que ocorre com as IST, depende de algumas condições, como:- os tipos de exposição sexual (anal, vaginal, oral);- o número de agressores;- a susceptibilidade da mulher;- a rotura himenal;- a exposição a secreções sexuais e/ou sangue;- a presença de DST ou úlcera genital;- a carga viral do agressor;- o início precoce da profilaxia ARV, quando indicada.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "d191cae6-c811-4066-86cd-56cff476031a",
+          "author_email_id": "7d6c299db5c5c30fb9b19353c62db61b",
+          "author_profile": {
+            "id": "d191cae6-c811-4066-86cd-56cff476031a",
+            "full_name": "Leonardo Weissmann",
+            "avatar_url": "https://static.accounts.estrategia.com/9c8ca09a2a684d346a0b44fe1a7defe2",
+            "about_me": "Graduado em Medicina pela Faculdade de Ciências Médicas de Santos - UNILUS. Residência em Clínica Médica no Hospital Ana Costa, em Santos. Residência em Infectologia no Instituto de Infectologia Emílio Ribas, em São Paulo. Mestre pela Universidade de São Paulo (USP). Atualmente, é médico assistente do Instituto de Infectologia Emílio Ribas, professor do curso de Medicina da UNAERP - Guarujá e diretor da Sociedade Brasileira de Infectologia.",
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-15 05:35:47.816699 +0000 UTC",
+          "updated_at": "2021-07-15 05:50:14.96401 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126984-720.mp4",
+        "unlisted": false,
+        "slug": "adolescente-com-19588b815261",
+        "public": true
+      },
+      {
+        "id": "4000126818",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6bc4794d8b3a4cf7b4816fb134873ff1",
+            "name": "Abordagem da paciente com queixa de úlcera genital",
+            "is_master": false,
+            "master_id": "82aa4b2983984069bca5e6427e8a6f70",
+            "path": "Ginecologia[$$]Infecções em ginecologia[$$]Úlceras genitais[$$]Abordagem da paciente com queixa de úlcera genital",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "cb62df17-94ad-4e0c-9165-13ec20afc886",
+            "position": "0",
+            "body": "bacterioscopia de esfregaço da lesão corado pelo método de Gram.",
+            "sanitized_body": "bacterioscopia de esfregaço da lesão corado pelo método de Gram.",
+            "correct": false,
+            "created_at": "2020-09-25 00:31:33.482125 +0000 UTC",
+            "updated_at": "2021-07-28 17:39:51.913765 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "esfregraço da lesão corado com Gram é um ótimo método diagnóstico para o cancro mole, que se apresenta como úlceras múltiplas, dolorosas, de bordos irregulares e fundo sujo.",
+              "sanitized_complete": "esfregraço da lesão corado com Gram é um ótimo método diagnóstico para o cancro mole, que se apresenta como úlceras múltiplas, dolorosas, de bordos irregulares e fundo sujo.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 17:52:54.63759 +0000 UTC",
+              "updated_at": "2021-07-28 17:52:55.81796 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 324
+          },
+          {
+            "id": "eb97dbd1-0725-4dda-a3f0-36dc6f41c77a",
+            "position": "1",
+            "body": "pesquisa em campo escuro do agente etiológico.",
+            "sanitized_body": "pesquisa em campo escuro do agente etiológico.",
+            "correct": true,
+            "created_at": "2020-09-25 00:31:33.482125 +0000 UTC",
+            "updated_at": "2021-07-28 17:39:52.106951 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "como vimos, a principal hipótese diagnóstica é sífilis primária. Nesse caso, a lesão é rica em treponemas, que podem ser vistos em microscopia de campo escuro. O tratamento padrão deve ser feito com Penicilina benzatina 24000 UI IM.",
+              "sanitized_complete": "como vimos, a principal hipótese diagnóstica é sífilis primária. Nesse caso, a lesão é rica em treponemas, que podem ser vistos em microscopia de campo escuro. O tratamento padrão deve ser feito com Penicilina benzatina 24000 UI IM.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 17:52:54.644838 +0000 UTC",
+              "updated_at": "2021-07-28 17:52:55.812197 +0000 UTC"
+            },
+            "answer_percentage": 81,
+            "answers": 2351
+          },
+          {
+            "id": "0fb0b0da-2f8f-42f2-912e-fc31a293e76e",
+            "position": "2",
+            "body": "pesquisa bacteriológica a fresco.",
+            "sanitized_body": "pesquisa bacteriológica a fresco.",
+            "correct": false,
+            "created_at": "2020-09-25 00:31:33.482125 +0000 UTC",
+            "updated_at": "2021-07-28 17:39:52.315905 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "os treponemas não são bem visualizados no exame a fresco.",
+              "sanitized_complete": "os treponemas não são bem visualizados no exame a fresco.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 17:52:54.632945 +0000 UTC",
+              "updated_at": "2021-07-28 17:52:55.832089 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 96
+          },
+          {
+            "id": "1637a9f2-1930-4863-abdb-dfe5b54fd70f",
+            "position": "3",
+            "body": "cultura de secreção da lesão.",
+            "sanitized_body": "cultura de secreção da lesão.",
+            "correct": false,
+            "created_at": "2020-09-25 00:31:33.482125 +0000 UTC",
+            "updated_at": "2021-07-28 17:39:52.491672 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "a lesão tem fundo limpo, não havendo material para enviar para cultura.",
+              "sanitized_complete": "a lesão tem fundo limpo, não havendo material para enviar para cultura.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-07-28 17:52:54.61705 +0000 UTC",
+              "updated_at": "2021-07-28 17:52:55.815344 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 133
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 25 anos de idade comparece ao Ambulatório e refere aparecimento, há 10 dias, de ferida dolorosa na vulva, mostrada na foto abaixo. (VER IMAGEM) Relata relação sexual desprotegida há 30 dias. Nega dor ou febre. Ao exame, observa-se lesão única, ulcerada, de bordas endurecidas. Considerando a etiologia mais provável, o exame que deve ser solicitado para confirmação diagnóstica é:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/C6B4C136-0EC1-87D1-0A8B-27059198BCB2/C6B4C136-0EC1-87D1-0A8B-27059198BCB2-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Uma mulher com 25 anos de idade comparece ao Ambulatório e refere aparecimento, há 10 dias, de ferida dolorosa na vulva, mostrada na foto abaixo. (VER IMAGEM) Relata relação sexual desprotegida há 30 dias. Nega dor ou febre. Ao exame, observa-se lesão única, ulcerada, de bordas endurecidas. Considerando a etiologia mais provável, o exame que deve ser solicitado para confirmação diagnóstica é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 00:31:33.482125 +0000 UTC",
+        "forum_id": "744ab3fb-af6a-4dc8-a6cd-eddeac686aba",
+        "solution": {
+          "_key": "5f225024-b158-46ae-9d2e-1cc701fd92bc",
+          "complete": "Em pacientes no menacme com úlceras genitais devemos sempre pensar primeiro em causas sexualmente transmissíveis, especialmente nesse caso que a paciente refere relação sexual desprotegida há 30 dias.<div>O que podemos observar nessa imagem?<div>úlcera única, de bordos endurecidos e fundo limpo.</div></div><div>A questão apenas erra ao falar no início do enunciado que a paciente referia dor no local da lesão e, ao final, descreve uma úlcera indolor.</div><div>De qualquer modo, uma úlcera única, de bordos elevados e fundo limpo traz sífilis primária como sendo a principal hipótese diagnóstica.</div><div>Vamos analisar as alternativas:</div>",
+          "sanitized_complete": "Em pacientes no menacme com úlceras genitais devemos sempre pensar primeiro em causas sexualmente transmissíveis, especialmente nesse caso que a paciente refere relação sexual desprotegida há 30 dias.O que podemos observar nessa imagem?úlcera única, de bordos endurecidos e fundo limpo.A questão apenas erra ao falar no início do enunciado que a paciente referia dor no local da lesão e, ao final, descreve uma úlcera indolor.De qualquer modo, uma úlcera única, de bordos elevados e fundo limpo traz sífilis primária como sendo a principal hipótese diagnóstica.Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-07-28 17:52:54.823569 +0000 UTC",
+          "updated_at": "2021-07-28 17:52:55.928082 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126818-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-25-anos624a7ba5eb",
+        "public": true
+      },
+      {
+        "id": "4000126764",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2014,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "5421DF51-97A9-19A3-CCAF-52B533F02BEB"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-03T18:54:40Z",
+            "updated_at": "2020-09-24T16:06:37Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "8e6c50548ff147a199aeca2cf4f65e03",
+            "name": "Acolhimento e notificação ",
+            "is_master": false,
+            "master_id": "fb46f9e342824081b265363966e4a7e9",
+            "path": "Ginecologia[$$]Ginecologia geral[$$]Atendimento à vítima de violência sexual[$$]Atendimento[$$]Acolhimento e notificação ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "942c4cc1831c479fa517503519091c27",
+            "name": "Legislação sobre aborto",
+            "is_master": false,
+            "master_id": "613f24f5bea54ec28ad4ae175e7f04cd",
+            "path": "Medicina Preventiva[$$]Ética Médica[$$]Código de Ética Médica (CEM)[$$]Temas específicos sobre textos normativos e Ética Médica[$$]Ética médica no contexto da gestação[$$]Legislação sobre aborto",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "310fd7a3-adc2-4037-a1ce-4bb001426954",
+            "position": "0",
+            "body": "adequada, pois para a prática do abortamento legal há necessidade de decisão judicial afirmando o estupro.",
+            "sanitized_body": "adequada, pois para a prática do abortamento legal há necessidade de decisão judicial afirmando o estupro.",
+            "correct": false,
+            "created_at": "2020-09-24 22:33:33.642666 +0000 UTC",
+            "updated_at": "2022-01-08 20:40:15.485697 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 16:31:56.865539 +0000 UTC",
+              "updated_at": "2022-02-03 23:38:25.628188 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 191
+          },
+          {
+            "id": "3fbeb1ee-a242-4aae-8d2d-6a639931079e",
+            "position": "1",
+            "body": "inadequada, pois o laudo do IML não é exigido legalmente para realização do abortamento em casos de estupro.",
+            "sanitized_body": "inadequada, pois o laudo do IML não é exigido legalmente para realização do abortamento em casos de estupro.",
+            "correct": true,
+            "created_at": "2020-09-24 22:33:33.642666 +0000 UTC",
+            "updated_at": "2022-01-08 20:40:15.540693 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 16:31:56.854449 +0000 UTC",
+              "updated_at": "2022-02-03 23:38:25.668702 +0000 UTC"
+            },
+            "answer_percentage": 84,
+            "answers": 2924
+          },
+          {
+            "id": "4f0c500d-38bb-4528-908d-397a4ca9d0de",
+            "position": "2",
+            "body": "adequada, pois a vítima de um crime contra a dignidade sexual deve imediatamente comunicar a ocorrência à polícia para início de ação penal pública incondicionada.",
+            "sanitized_body": "adequada, pois a vítima de um crime contra a dignidade sexual deve imediatamente comunicar a ocorrência à polícia para início de ação penal pública incondicionada.",
+            "correct": false,
+            "created_at": "2020-09-24 22:33:33.642666 +0000 UTC",
+            "updated_at": "2022-01-08 20:40:15.595156 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 16:31:56.857788 +0000 UTC",
+              "updated_at": "2022-02-03 23:38:25.621143 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 77
+          },
+          {
+            "id": "2eb916b3-3b5c-4527-a340-00d349cebb9b",
+            "position": "3",
+            "body": "inadequada, pois o consentimento da mulher é feito por documento próprio, devendo ser assinado pela vítima que deseja o abortamento e por um familiar.",
+            "sanitized_body": "inadequada, pois o consentimento da mulher é feito por documento próprio, devendo ser assinado pela vítima que deseja o abortamento e por um familiar.",
+            "correct": false,
+            "created_at": "2020-09-24 22:33:33.642666 +0000 UTC",
+            "updated_at": "2022-01-08 20:40:15.647538 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2020-11-13 16:31:56.858706 +0000 UTC",
+              "updated_at": "2022-02-03 23:38:25.644176 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 296
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 32 anos de idade, solteira, sem vida sexual ativa, refere ter sido  vítima de violência sexual. Por ocasião do estupro, a paciente não contou nada a ninguém e, posteriormente, descobriu que estava grávida. No momento  atual,  a  gestante manifesta para seu médico o desejo de interromper a gravidez. O profissional médico recusa-se a fazer o aborto nessas condições e argumenta que há necessidade de verificação da denúncia de estupro pelo médico do Instituto Médico Legal (IML). O   médico aciona o Serviço Social da instituição e a polícia local, para que a gestante possa lavrar o Boletim de Ocorrência do estupro, esclarecendo que esse documento servirá como consentimento para o procedimento. Nessa situação, a conduta médica foi",
+        "statement_text": "Uma mulher com 32 anos de idade, solteira, sem vida sexual ativa, refere ter sido  vítima de violência sexual. Por ocasião do estupro, a paciente não contou nada a ninguém e, posteriormente, descobriu que estava grávida. No momento  atual,  a  gestante manifesta para seu médico o desejo de interromper a gravidez. O profissional médico recusa-se a fazer o aborto nessas condições e argumenta que há necessidade de verificação da denúncia de estupro pelo médico do Instituto Médico Legal (IML). O   médico aciona o Serviço Social da instituição e a polícia local, para que a gestante possa lavrar o Boletim de Ocorrência do estupro, esclarecendo que esse documento servirá como consentimento para o procedimento. Nessa situação, a conduta médica foi",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "f4c8a7dbe14fa208e99cd738b1b7c488",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-24 22:33:33.642666 +0000 UTC",
+        "forum_id": "a69a84b2-caf7-4e6f-9e5b-587c89707b64",
+        "solution": {
+          "_key": "f6ed93cd-bf26-4519-b901-3fefa3eb0250",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Vamos relembrar os critérios para aborto legal no Brasil:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/BD7BA6FE-6944-0D51-8D17-4EDB86B5EFF1/BD7BA6FE-6944-0D51-8D17-4EDB86B5EFF1-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A852B0E0-4F1A-5A8C-2516-5DCEF3ABF10E/A852B0E0-4F1A-5A8C-2516-5DCEF3ABF10E-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div><div><b>Incorreta alternativa “A”</b>, a conduta do médico foi inadequada, pois não é necessário decisão judicial, apenas que sejam assinadas as 4 fases a seguir (em vigor a partir de setembro de 2020):</div><div>- relato circunstanciado do evento;</div><div>-parecer técnico e aprovação do comitê para a realização do procedimento;</div><div>-termo de responsabilidade;</div><div>-termo de consentimento livre e esclarecido</div><div><b>Correta alternativa “B”</b>, como vimos acima, para a realização do aborto em caso de estupro, apenas é necessário que a paciente esteja com idade gestacional <20-22 semanas e as 4 fases acima.</div><div><b>Incorreta alternativa “C”</b>,  a realização do boletim de ocorrência do ocorrido é escolha da paciente e não do médico.</div><div><b>Incorreta alternativa “D”</b>, como a vítima é maior de idade, apenas é necessário o seu consentimento. Caso fosse legalmente incapaz (menor de idade ou com algum distúrbio mental que não possa tomar decisões), seria necessário assinatura do responsável legal.</div><div><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BVamos relembrar os critérios para aborto legal no Brasil:Vamos analisar as alternativas:Incorreta alternativa “A”, a conduta do médico foi inadequada, pois não é necessário decisão judicial, apenas que sejam assinadas as 4 fases a seguir (em vigor a partir de setembro de 2020):- relato circunstanciado do evento;-parecer técnico e aprovação do comitê para a realização do procedimento;-termo de responsabilidade;-termo de consentimento livre e esclarecidoCorreta alternativa “B”, como vimos acima, para a realização do aborto em caso de estupro, apenas é necessário que a paciente esteja com idade gestacional &lt;20-22 semanas e as 4 fases acima.Incorreta alternativa “C”,  a realização do boletim de ocorrência do ocorrido é escolha da paciente e não do médico.Incorreta alternativa “D”, como a vítima é maior de idade, apenas é necessário o seu consentimento. Caso fosse legalmente incapaz (menor de idade ou com algum distúrbio mental que não possa tomar decisões), seria necessário assinatura do responsável legal.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-13 16:31:56.927595 +0000 UTC",
+          "updated_at": "2022-02-03 23:38:25.75661 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000126764-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-32-anos1250292272a",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 36
+    }
+  }

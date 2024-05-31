@@ -1,0 +1,263 @@
+{
+    "data": [
+      {
+        "id": "4000153107",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 1,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "8ddbbf2d-753f-4eb8-841b-525d3215e7fb",
+                "name": "2° Simulado Inédito Revalida INEP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 2,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "84D86635-3046-9F73-40FE-75B1564BE31B"
+              },
+              {
+                "type": "ANSWER",
+                "url": "30E58FD3-F52F-2304-985E-27C745793FB9"
+              },
+              {
+                "type": "ANSWER",
+                "url": "165E3B5D-C2FD-3E99-152D-C454A231B066"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 56,
+            "created_at": "2021-09-01T12:49:35Z",
+            "updated_at": "2022-02-10T16:39:13Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "4039b55f980b4287b04341fad339e077",
+            "name": "Rastreamento do câncer de colo do útero",
+            "is_master": false,
+            "master_id": "4d16b0ca6ef049cd94279b72a7b918fb",
+            "path": "Ginecologia[$$]Oncologia ginecológica[$$]Rastreamento do câncer de colo do útero",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f53fe058-5765-4fb0-9771-e06a9d9c6c54",
+            "position": "0",
+            "body": "Repetir exame em 1 ano.",
+            "sanitized_body": "Repetir exame em 1 ano.",
+            "correct": false,
+            "created_at": "2021-09-01 13:50:53.75863 +0000 UTC",
+            "updated_at": "2021-09-01 21:37:59.472598 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta alternativa A, </b>essa é a conduta caso a colposcopia não evidencie achados anormais.",
+              "sanitized_complete": "Incorreta alternativa A, essa é a conduta caso a colposcopia não evidencie achados anormais.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-09-01 21:40:17.724458 +0000 UTC",
+              "updated_at": "2021-09-01 21:40:30.012607 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 185
+          },
+          {
+            "id": "b0d16c21-3c87-4823-b13c-ca59f4a830a0",
+            "position": "1",
+            "body": "Encaminhar para colposcopia.",
+            "sanitized_body": "Encaminhar para colposcopia.",
+            "correct": true,
+            "created_at": "2021-09-01 13:50:53.75863 +0000 UTC",
+            "updated_at": "2021-09-01 21:37:59.597215 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Correta alternativa B</b> está de acordo com o que vimos acima.",
+              "sanitized_complete": "Correta alternativa B está de acordo com o que vimos acima.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-09-01 21:40:17.737946 +0000 UTC",
+              "updated_at": "2021-09-01 21:40:30.019051 +0000 UTC"
+            },
+            "answer_percentage": 83,
+            "answers": 1843
+          },
+          {
+            "id": "bce7c30f-3ebd-4d3a-94c0-c2e613aba0ba",
+            "position": "2",
+            "body": "Repetir exame em 6 meses.",
+            "sanitized_body": "Repetir exame em 6 meses.",
+            "correct": false,
+            "created_at": "2021-09-01 13:50:53.75863 +0000 UTC",
+            "updated_at": "2021-09-01 21:37:59.763628 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta alternativa C,</b> essa é a conduta em caso de achados anormais menores.",
+              "sanitized_complete": "Incorreta alternativa C, essa é a conduta em caso de achados anormais menores.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-09-01 21:40:17.728945 +0000 UTC",
+              "updated_at": "2021-09-01 21:40:30.036698 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 124
+          },
+          {
+            "id": "9053723e-c22d-4a00-bacf-cd0f4a19bab2",
+            "position": "3",
+            "body": "Exérese de zona de transformação.",
+            "sanitized_body": "Exérese de zona de transformação.",
+            "correct": false,
+            "created_at": "2021-09-01 13:50:53.75863 +0000 UTC",
+            "updated_at": "2021-09-01 21:37:59.889369 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Incorreta alternativa D, </b>como vimos, não realizamos o “Ver e tratar” em pacientes com menos de 25 anos.",
+              "sanitized_complete": "Incorreta alternativa D, como vimos, não realizamos o “Ver e tratar” em pacientes com menos de 25 anos.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+              "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+              "author_profile": null,
+              "created_at": "2021-09-01 21:40:17.740613 +0000 UTC",
+              "updated_at": "2021-09-01 21:40:30.035248 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 74
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 24 anos de idade, assintomática, nuligesta, com início da vida sexual aos 15 anos, realizou exame de colpocitologia pela primeira vez na Unidade Básica de Saúde do seu bairro. O resultado evidenciou lesão intraepitelial de alto grau. Qual deve ser sua conduta?",
+        "statement_text": "Uma mulher com 24 anos de idade, assintomática, nuligesta, com início da vida sexual aos 15 anos, realizou exame de colpocitologia pela primeira vez na Unidade Básica de Saúde do seu bairro. O resultado evidenciou lesão intraepitelial de alto grau. Qual deve ser sua conduta?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "feea7db835873e2d043bb48a8bd39ba5",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-09-01 13:50:53.75863 +0000 UTC",
+        "solution": {
+          "_key": "b8210f4e-9e2e-4c01-91a3-36c46deb10a7",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Questões que envolvem atipias citológicas são bastante comuns nas provas. Fique atento ao tipo de atipia citológica e à idade da paciente. </div><div><br></div><div>Nossa paciente tem 24 anos. Lembre-se de que o Ministério da Saúde orienta o rastreamento a partir de 25 anos em pacientes que já tiveram atividade sexual. Entretanto, a diretriz traz orientações caso você se depare com atipias citológicas abaixo de 25 anos.</div><div><br></div><div>O resultado da citologia foi lesão de alto grau. Nesses casos, há grande chance de confirmação de lesão de alto grau na biópsia. Por isso, </div><div>em pacientes acima de 25 anos, a orientação é completar a investigação com colposcopia. Em pacientes como a nossa, com menos de 25 anos, a orientação também é a realização de colposcopia. Entretanto, nesses casos podemos adotar uma conduta mais conservadora, biopsiando apenas os achados maiores, ou seja, sugestivos de lesão de alto grau. Além disso, não podemos fazer a técnica do “Ver e tratar” (fazer procedimento excisional antes do resultado da biópsia , para não comprometer o futuro reprodutivo da paciente. Segue o fluxograma de conduta:</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/2C371873-8C5C-A85A-528F-2E057A8E6F59/2C371873-8C5C-A85A-528F-2E057A8E6F59-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Vamos analisar as alternativas:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BQuestões que envolvem atipias citológicas são bastante comuns nas provas. Fique atento ao tipo de atipia citológica e à idade da paciente. Nossa paciente tem 24 anos. Lembre-se de que o Ministério da Saúde orienta o rastreamento a partir de 25 anos em pacientes que já tiveram atividade sexual. Entretanto, a diretriz traz orientações caso você se depare com atipias citológicas abaixo de 25 anos.O resultado da citologia foi lesão de alto grau. Nesses casos, há grande chance de confirmação de lesão de alto grau na biópsia. Por isso, em pacientes acima de 25 anos, a orientação é completar a investigação com colposcopia. Em pacientes como a nossa, com menos de 25 anos, a orientação também é a realização de colposcopia. Entretanto, nesses casos podemos adotar uma conduta mais conservadora, biopsiando apenas os achados maiores, ou seja, sugestivos de lesão de alto grau. Além disso, não podemos fazer a técnica do “Ver e tratar” (fazer procedimento excisional antes do resultado da biópsia , para não comprometer o futuro reprodutivo da paciente. Segue o fluxograma de conduta:Vamos analisar as alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+          "author_email_id": "59a5319e1b143e1284bdfaedaefd91f9",
+          "author_profile": {
+            "id": "00eef107-51f3-4c97-b955-cc8dd3468f06",
+            "full_name": "Monalisa Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/fb77e4cb529fbaabc10c1384d9c1bdee",
+            "about_me": "Formada em Medicina pela Universidade Federal do Piauí (UFPI), residência médica em Ginecologia e Obstetrícia pela Universidade Federal do Piauí (UFPI), pós-graduação em Patologia do Trato Genital Inferior (PTGI) na Escola Paulista de Medicina. Atualmente, mestranda na Escola Paulista de Medicina.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.monalisacarvalho",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-09-01 21:40:17.901285 +0000 UTC",
+          "updated_at": "2021-09-01 21:40:30.152066 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "mulher-com-24-anos4538d91f9f",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }

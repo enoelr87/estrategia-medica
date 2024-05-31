@@ -1,0 +1,201 @@
+{
+  "data":[
+    {
+      "id": "1305561621",
+      "alternatives": [
+        {
+          "id": "2ad3f52d-2f3d-41a9-91b2-a52188e8a04d",
+          "body": "síndrome cardiopulmonar por hantavírus.",
+          "position": "0"
+        },
+        {
+          "id": "22d0ac1e-ecc5-4695-b43b-e6b2a16ae3f8",
+          "body": "síndrome  gripal aguda.",
+          "position": "1"
+        },
+        {
+          "id": "93342941-ca47-46d6-9f97-29d1d3b25b2c",
+          "body": "endocardite infecciosa.",
+          "position": "2"
+        },
+        {
+          "id": "afab95c5-975c-497d-b88c-caef9a9a6e0f",
+          "body": "estafilococcia.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "De acordo com o Guia de Vigilância em Saúde (2019), paciente com quadro febril (acima de 38ºC), mialgia, cefaleia, sinais e sintomas de insuficiência respiratória aguda, de etiologia não determinada, na primeira semana da doença, ou paciente com enfermidade aguda, apresentando quadro de insuficiência respiratória aguda, com evolução para óbito na primeira semana da doença. Esses são critérios estabelecidos para a definição de caso suspeito de",
+      "position": 1,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "310719151",
+      "alternatives": [
+        {
+          "id": "6a2b7979-99b9-4ac1-accd-53251009764b",
+          "body": "A Dengue cujo período de incubação é de 7 a 35 dias, ocasionalmente cursa com comprometimento renal e do Sistema Nervoso Central, mas tem por característica ser uma doença grave que leva à insuficiência respiratória, choque e óbito.",
+          "position": "0"
+        },
+        {
+          "id": "e8b27663-4d8a-49ac-9788-6041cdb0c52a",
+          "body": "A infecção por Hantavírus , cujo período de incubação varia de 3 a 6 dias, o fígado é particularmente afetado,apresentando com degeneração gordurosa, necrose coagulativa dos hepatócitos e a presença de corpos de Councilman, cursando também com comprometimento cardíaco e renal.",
+          "position": "1"
+        },
+        {
+          "id": "9c995e74-7a76-4baa-8870-b83939c67de8",
+          "body": "Na Febre Amarela, tem período de incubação de 3 a 15 dias, podendo ocorrer púrpuras e grandes equimoses na pele, epistaxes, gengivorragias, metrorragias e hemorragias digestivas moderadas, sendo menos frequente hepatite e encefalite.",
+          "position": "2"
+        },
+        {
+          "id": "6236ea83-94d8-4d68-a339-ccc1318726c8",
+          "body": "Nos casos de Ebola, que tem como período de incubação de 3 a 21 dias, uma erupção cutânea maculopapular no tronco ou rosto pode ser uma apresentação precoce, podendo ocorrer frequentemente Coagulação intravascular disseminada (CID).",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Sobre as febres hemorrágicas por vírus, é correto afirmar:",
+      "position": 2,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2586478964",
+      "alternatives": [
+        {
+          "id": "c022ead7-8378-4305-830b-e1bf3ab3477d",
+          "body": "Doença por Zika vírus.",
+          "position": "0"
+        },
+        {
+          "id": "d623daf5-0719-4a34-9492-c35b6954c0ba",
+          "body": "Dengue pelo sorotipo 4.",
+          "position": "1"
+        },
+        {
+          "id": "ef65b51c-4d47-465d-a3c4-68d7d96895e1",
+          "body": "Febre Chikungunya.",
+          "position": "2"
+        },
+        {
+          "id": "bc621011-e1e0-430d-ad50-9cc444337446",
+          "body": "Hantavirose.",
+          "position": "3"
+        },
+        {
+          "id": "d9b247cc-37d9-4128-9549-f1618725ba15",
+          "body": "Febre amarela.",
+          "position": "4"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Em qual das viroses abaixo o <i>Aedes aegypti </i>não pode ser o vetor da doença?",
+      "position": 3,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "3620994383",
+      "alternatives": [
+        {
+          "id": "88abb877-ed89-4399-9c72-c66cd740e81d",
+          "body": "Síndrome cardiopulmonar por Hantavírus",
+          "position": "0"
+        },
+        {
+          "id": "30b490be-e368-4db6-9a2d-12744b1cb68d",
+          "body": "Paracoccidioidomicose Aguda/Subaguda",
+          "position": "1"
+        },
+        {
+          "id": "76554b94-c28f-408d-ac77-d6b355ec5696",
+          "body": "Pneumonia estafilocócica pós-influenza&nbsp;",
+          "position": "2"
+        },
+        {
+          "id": "d83a54ad-5d25-4e52-8131-46fc72dfcc34",
+          "body": "Pneumonia por influenza H1N1",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "Mulher, 32 anos, com febre, cefaleia, náuseas, mialgia e tosse seca há 5 dias. Há um dia houve piora da tosse e surgimento de dispneia intensa. Mora na zona rural e nega doenças prévias. Exame físico: MEG, corada e hidratada, acianótica e anictérica. Aparelho respiratório: murmúrio vesicular presente, diminuído em base direita e estertores em base esquerda. FR = 40 ipm, saturação 85 % com máscara de O₂ 10L/min. Aparelho cardiovascular: RCR 2 T, bulhas normofonéticas sem sopros. FC: 120 bpm. PA: 96x40 mmHg. Abdome sem alterações. Membros sem edemas. Exames laboratoriais: Hb = 17 G/dL; Ht = 51 %; GB = 10.800 /mm³ (Bastões 37%; segmentados 51%; eosinófilos 1%; linfócitos 11%); Plaquetas = 98.000/mm³. LDH = 520 U/L (VR: 100 a190); Creatinina = 1,2 mg/dL; AST = 70 U/L (VR&lt;38); ALT = 67 U/L (VR&lt;31); Bilirrubina Total = 0,6 mg/dL (VR: 0,8-1,2). Radiografia de tórax, ver figura abaixo:&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/AF7CE2BC-B55B-8C3C-E78D-78FB9B6630F1/AF7CE2BC-B55B-8C3C-E78D-78FB9B6630F1-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Qual é o diagnóstico mais provável?</div>",
+      "position": 4,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "2008334863",
+      "alternatives": [
+        {
+          "id": "d7337001-3a5a-47b5-99c4-10a15f0ee3eb",
+          "body": "na América do Sul, foi observado importante comprometimento cardíaco, passando a ser denominada de síndrome cardiopulmonar por hantavírus (SCPH).",
+          "position": "0"
+        },
+        {
+          "id": "4edc2e4a-f65e-4438-a101-ae3fc05c9eac",
+          "body": "vírus do gênero Hantavírus, da família Bunyaviridae, sendo o único buniavírus que não é um arbovírus.&nbsp;",
+          "position": "1"
+        },
+        {
+          "id": "3c29598a-4f8d-4e7e-a7b4-ca61faa0c047",
+          "body": "a infecção humana ocorre mais frequentemente pela inalação de aerossóis, formados a partir da urina, fezes e saliva de roedores infectados.",
+          "position": "2"
+        },
+        {
+          "id": "4cdf4ccb-4a16-4d4c-b3be-7bedae4196b2",
+          "body": "cardiopulmonar é caracterizada pelo início da tosse, que em geral é produtiva, acompanhada de bradicardia, taquidispneia e hipoxemia",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "A hantavirose se manifesta sob diferentes formas, desde doença febril aguda inespecífica, até quadros pulmonares e cardiovasculares mais severos e característicos, podendo evoluir para a síndrome da angústia respiratória (SARA). Sendo INADEQUADO o seguinte:<div><br></div>",
+      "position": 5,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    },
+    {
+      "id": "1029132881",
+      "alternatives": [
+        {
+          "id": "da8d5e63-fc87-4d5e-9f6d-4b880dcf0592",
+          "body": "Paracoccidioidomicose, toxoplasmose, leptospirose.",
+          "position": "0"
+        },
+        {
+          "id": "c1b9ec75-3358-4151-8c40-9b57bd643af7",
+          "body": "Febre maculosa, leptospirose, tuberculose.&nbsp;",
+          "position": "1"
+        },
+        {
+          "id": "58915e61-6935-4d8e-a191-3a4c5f1f30b3",
+          "body": "Histoplasmose, tuberculose, paracoccidioidomicose.",
+          "position": "2"
+        },
+        {
+          "id": "5c734fc7-ebb7-4624-b72c-245b199ced5d",
+          "body": "Leptospirose, histoplasmose, hantavirose.",
+          "position": "3"
+        }
+      ],
+      "answer_type": "MULTIPLE_CHOICE",
+      "body": "O time de futebol tailandês \"Javalis Selvagens\" ficou confinado em uma caverna devido a uma inundação por um período superior a 1 semana. Caso essa caverna estivesse localizada no Brasil, a quais doenças esse grupo estaria exposto?",
+      "position": 6,
+      "selected_alternative_id": null,
+      "labels": [
+        "FINAL_ANSWER_SHEET"
+      ]
+    }
+  ]
+}

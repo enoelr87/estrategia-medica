@@ -1,0 +1,2606 @@
+{
+    "data": [
+      {
+        "id": "4000147132",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "ef4f98da-98a2-40b2-a86c-4ac8ee1e923b",
+                "name": "Simulado EMED - Unicamp"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "149D2AE1-865A-DC41-AA91-D86BC425DA82"
+              },
+              {
+                "type": "ANSWER",
+                "url": "72C0FF1B-6899-48E0-01E6-245ECB056752"
+              },
+              {
+                "type": "ANSWER",
+                "url": "FB7C06BC-5037-4B7B-A1AE-A60DA7403C14"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2021-05-12T13:42:45Z",
+            "updated_at": "2021-06-07T13:54:24Z",
+            "location": {
+              "id": "4842"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "2746c554b287453ab76afb029ec42288",
+            "name": "Urina I/urina tipo I / sumário de urina / (EAS) e urocultura ",
+            "is_master": false,
+            "master_id": "41e9f360015c43a59c71d27403a1668c",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais[$$]Urina I/urina tipo I / sumário de urina / (EAS) e urocultura ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "92f99881be8143b482fdd1900999f9e7",
+            "name": "Glicemia (GJ)",
+            "is_master": false,
+            "master_id": "41e9f360015c43a59c71d27403a1668c",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais[$$]Glicemia (GJ)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "cf06f9d643554b55a924b114496f9afa",
+            "name": "Imunizaçao na gestação ",
+            "is_master": false,
+            "master_id": "473d09d028b74bdba543226d7d10e7c1",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Imunizaçao na gestação ",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d3e08fa46def4352a3613afd5db023e3",
+            "name": "Teste oral de tolerância à glicose 75g  (TOTG 75g)",
+            "is_master": false,
+            "master_id": "41e9f360015c43a59c71d27403a1668c",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exames laboratoriais[$$]Teste oral de tolerância à glicose 75g  (TOTG 75g)",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "9b456dc0-060d-4610-a7cb-09ec3ce12ffb",
+            "position": "0",
+            "body": "Vacinação contra hepatite B não é recomendada nesse caso.",
+            "sanitized_body": "Vacinação contra hepatite B não é recomendada nesse caso.",
+            "correct": true,
+            "created_at": "2021-05-12 16:58:23.909596 +0000 UTC",
+            "updated_at": "2021-05-22 00:16:28.604673 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa \"A\" porque uma vez que a gestante é imune a hepatite B, não há indicação de vacinação para hepatite B, apesar de ser uma vacina segura para ser utilizada durante a gestação.",
+              "sanitized_complete": "Correta a alternativa &#34;A&#34; porque uma vez que a gestante é imune a hepatite B, não há indicação de vacinação para hepatite B, apesar de ser uma vacina segura para ser utilizada durante a gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-21 22:51:34.574168 +0000 UTC",
+              "updated_at": "2021-05-21 22:51:35.309718 +0000 UTC"
+            },
+            "answer_percentage": 77,
+            "answers": 1111
+          },
+          {
+            "id": "d7e8d5aa-b212-4184-afcd-0b2f0c924b6a",
+            "position": "1",
+            "body": "Solicitar teste oral de tolerância à glicose 75g a ser realizado para o próximo retorno, devido glicemia de jejum limítrofe.",
+            "sanitized_body": "Solicitar teste oral de tolerância à glicose 75g a ser realizado para o próximo retorno, devido glicemia de jejum limítrofe.",
+            "correct": false,
+            "created_at": "2021-05-12 16:58:23.909596 +0000 UTC",
+            "updated_at": "2021-05-22 00:16:28.675859 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque, diante de glicemia de jejum normal no início do pré-natal, ou seja, menor do que 92 mg/dL, o teste oral de tolerância à glicose 75g está indicado apenas entre a 24ª e 28ª semana de gestação.",
+              "sanitized_complete": "Incorreta a alternativa B, porque, diante de glicemia de jejum normal no início do pré-natal, ou seja, menor do que 92 mg/dL, o teste oral de tolerância à glicose 75g está indicado apenas entre a 24ª e 28ª semana de gestação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-21 22:51:34.541611 +0000 UTC",
+              "updated_at": "2021-05-21 22:51:35.341813 +0000 UTC"
+            },
+            "answer_percentage": 16,
+            "answers": 226
+          },
+          {
+            "id": "33672571-dd6d-4fad-bdf7-152d56bc87ae",
+            "position": "2",
+            "body": "Orientar que a gestante receba a vacinação contra rubéola.",
+            "sanitized_body": "Orientar que a gestante receba a vacinação contra rubéola.",
+            "correct": false,
+            "created_at": "2021-05-12 16:58:23.909596 +0000 UTC",
+            "updated_at": "2021-05-22 00:16:28.741676 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque, apesar de a gestante ser susceptível à rubéola, a vacina tríplice viral, contra rubéola, sarampo e caxumba, não é indicada durante a gravidez, por ser uma vacina de vírus atenuado. Vale ressaltar que deve ser orientada a vacinação durante o puerpério, uma vez que não há contraindicação durante a amamentação.",
+              "sanitized_complete": "Incorreta a alternativa C, porque, apesar de a gestante ser susceptível à rubéola, a vacina tríplice viral, contra rubéola, sarampo e caxumba, não é indicada durante a gravidez, por ser uma vacina de vírus atenuado. Vale ressaltar que deve ser orientada a vacinação durante o puerpério, uma vez que não há contraindicação durante a amamentação.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-21 22:51:34.539473 +0000 UTC",
+              "updated_at": "2021-05-21 22:51:35.317557 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 60
+          },
+          {
+            "id": "68c2dd23-82c1-4fb7-a18a-f257c8aac2e5",
+            "position": "3",
+            "body": "A partir da avaliação do resultado da urocultura e devido a gestante não ter sintomas urinários, não é necessário tratamento.",
+            "sanitized_body": "A partir da avaliação do resultado da urocultura e devido a gestante não ter sintomas urinários, não é necessário tratamento.",
+            "correct": false,
+            "created_at": "2021-05-12 16:58:23.909596 +0000 UTC",
+            "updated_at": "2021-05-22 00:16:28.78383 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque bacteriúria assintomática deve sempre ser tratada durante a gestação, pelo risco de evoluir para cistite, pielonefrite e sepse e ainda aumentar o risco de intercorrências obstétricas, como trabalho de parto prematuro.",
+              "sanitized_complete": "Incorreta a alternativa D, porque bacteriúria assintomática deve sempre ser tratada durante a gestação, pelo risco de evoluir para cistite, pielonefrite e sepse e ainda aumentar o risco de intercorrências obstétricas, como trabalho de parto prematuro.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2021-05-21 22:51:34.573811 +0000 UTC",
+              "updated_at": "2021-05-21 22:51:35.322538 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 38
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "L.R.S., 27 anos, primigesta, 15 semanas de gestação, retorna para consulta de pré-natal com resultado dos exames abaixo. Refere náuseas matinais e nega outras queixas. Assinale a alternativa correta quanto às orientações a serem dadas à gestante:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D6F964F6-2473-19C2-6063-2FB78A7EED2A/D6F964F6-2473-19C2-6063-2FB78A7EED2A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "L.R.S., 27 anos, primigesta, 15 semanas de gestação, retorna para consulta de pré-natal com resultado dos exames abaixo. Refere náuseas matinais e nega outras queixas. Assinale a alternativa correta quanto às orientações a serem dadas à gestante:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-05-12 16:58:23.909596 +0000 UTC",
+        "solution": {
+          "_key": "257cd367-413d-4a6f-b836-fac32587969a",
+          "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div><b>O que o examinador que saber:</b> Se você sabe avaliar o resultado dos exames realizados durante a rotina pré-natal e orientar adequadamente a gestante a partir deles.</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador que saber: Se você sabe avaliar o resultado dos exames realizados durante a rotina pré-natal e orientar adequadamente a gestante a partir deles.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-21 22:51:34.689587 +0000 UTC",
+          "updated_at": "2021-05-21 22:51:35.422798 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "L-R-S-27-anos3722b49c74",
+        "public": true
+      },
+      {
+        "id": "4000146614",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "7ab5428734d84506a62e945b69217a7b",
+            "name": "Conduta",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Conduta",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "b90653c037a846488c65f9aea51dee98",
+            "name": "Descolamento prematuro de placenta (DPP)",
+            "is_master": false,
+            "master_id": "582564a19f43458ab0dbfb262f72ed35",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento segunda metade da gestação [$$]Descolamento prematuro de placenta (DPP)",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "8a7b6c24-3b35-42a0-97d3-743f66345747",
+            "position": "0",
+            "body": "Administrar betametasona para o amadurecimento pulmonar.",
+            "sanitized_body": "Administrar betametasona para o amadurecimento pulmonar.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.631018 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “a” incorreta,</b> pois não devemos postergar o parto, pois o bebê já encontra-se bradicárdico e há risco de morte materna e fetal.<div><br></div>",
+              "sanitized_complete": "Alternativa “a” incorreta, pois não devemos postergar o parto, pois o bebê já encontra-se bradicárdico e há risco de morte materna e fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.391418 +0000 UTC"
+            },
+            "answer_percentage": 9,
+            "answers": 672
+          },
+          {
+            "id": "934f8c03-ab0e-41ab-aee5-78c0b410e749",
+            "position": "1",
+            "body": "Realizar ultrassonografia gestacional com urgência.",
+            "sanitized_body": "Realizar ultrassonografia gestacional com urgência.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.708145 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “b” incorreta,</b> pois o diagnóstico de DPP é clínico, nçao havendo necessidade de exames de imagem.<div><br></div>",
+              "sanitized_complete": "Alternativa “b” incorreta, pois o diagnóstico de DPP é clínico, nçao havendo necessidade de exames de imagem.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.408419 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 166
+          },
+          {
+            "id": "424692d0-441e-4558-817f-d3b60dc30a48",
+            "position": "2",
+            "body": "Iniciar indução do parto com misoprostol.",
+            "sanitized_body": "Iniciar indução do parto com misoprostol.",
+            "correct": false,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.78967 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “c” incorreta,</b> pois a conduta é resolução pela via de parto mais rápida devido ao risco de óbito materno e fetal.<div><br></div>",
+              "sanitized_complete": "Alternativa “c” incorreta, pois a conduta é resolução pela via de parto mais rápida devido ao risco de óbito materno e fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.408929 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 159
+          },
+          {
+            "id": "3ba54a53-213e-4906-b900-d5878d657da8",
+            "position": "3",
+            "body": "Realizar cesariana de urgência.",
+            "sanitized_body": "Realizar cesariana de urgência.",
+            "correct": true,
+            "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+            "updated_at": "2021-05-17 15:14:26.87526 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “d” correta, </b>pois a conduta é a resolução da gestação pela via de parto mais rápida que nesse caso é a cesariana.<div><br></div>",
+              "sanitized_complete": "Alternativa “d” correta, pois a conduta é a resolução da gestação pela via de parto mais rápida que nesse caso é a cesariana.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-19 19:42:40.352418 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 6167
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma mulher com 26 anos de idade, primigesta, chega á emergência de uma maternidade confusa e com cefaleia por estar apresentando, há cerca de 30 minutos, um sangramento vivo que chegou a ''escorrer por suas pernas'', além de dor abdominal intensa. A paciente nega trauma e/o outras queixas. Relata ainda ter feito duas consultas de pré-natal, mas não trouxe consigo o seu cartão de pré-natal e trouxe ultrassonografia gestacional normal de duas semanas atrás. Pela data da última menstruarão, o médico calcula a idade gestacional em 32 semanas. Em seu exame físico constatou-se PA = 180 x 120 mmHg, pulso = 114 bpm, abdome gravídico com dinâmica uterina ausente, altura uterina compatível com a idade gestacional, útero lenhoso e frequência cardíaca fetal de 108 bpm. Em exame especular, foi visualizado sangramento vivo ativo vindo do orifício cervical externo. Proteinúria de fita revelou +++. Após iniciado o sulfato de magnésio, qual a conduta médica imediata a ser tomada.",
+        "statement_text": "Uma mulher com 26 anos de idade, primigesta, chega á emergência de uma maternidade confusa e com cefaleia por estar apresentando, há cerca de 30 minutos, um sangramento vivo que chegou a &#39;&#39;escorrer por suas pernas&#39;&#39;, além de dor abdominal intensa. A paciente nega trauma e/o outras queixas. Relata ainda ter feito duas consultas de pré-natal, mas não trouxe consigo o seu cartão de pré-natal e trouxe ultrassonografia gestacional normal de duas semanas atrás. Pela data da última menstruarão, o médico calcula a idade gestacional em 32 semanas. Em seu exame físico constatou-se PA = 180 x 120 mmHg, pulso = 114 bpm, abdome gravídico com dinâmica uterina ausente, altura uterina compatível com a idade gestacional, útero lenhoso e frequência cardíaca fetal de 108 bpm. Em exame especular, foi visualizado sangramento vivo ativo vindo do orifício cervical externo. Proteinúria de fita revelou +++. Após iniciado o sulfato de magnésio, qual a conduta médica imediata a ser tomada.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:58:38.218036 +0000 UTC",
+        "forum_id": "39b4cb34-6282-4212-bca5-67acb19dac5a",
+        "solution": {
+          "_key": "eccde899-4649-420b-b506-b76217ecc74e",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>A paciente da questão apresenta um quadro característico de descolamento prematuro de placenta (DPP). A principal causa de DPP são as síndromes hipertensivas gestacionais. O fato da paciente estar com um pico hipertensivo nesse momento sugere ainda mais o diagnóstico que deve ser suspeitado sempre que houver um sangramento na segunda metade da gestação com hipertonia uterina (útero lenhoso). Trata-se de uma emergência obstétrica em que a conduta deve ser a realização de amniotomia para melhorar o prognóstico materno e fetal, além de resolução da gestação pela via de parto mais rápida.&nbsp;</div><div><br></div><div>No caso da paciente não é possível saber se ela se encontra em trabalho de parto ou se apresenta dilatação, mas por ser um quadro súbito, supomos que a via de parto mais rápida seja por cesariana.</div><div><b><br></b></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DA paciente da questão apresenta um quadro característico de descolamento prematuro de placenta (DPP). A principal causa de DPP são as síndromes hipertensivas gestacionais. O fato da paciente estar com um pico hipertensivo nesse momento sugere ainda mais o diagnóstico que deve ser suspeitado sempre que houver um sangramento na segunda metade da gestação com hipertonia uterina (útero lenhoso). Trata-se de uma emergência obstétrica em que a conduta deve ser a realização de amniotomia para melhorar o prognóstico materno e fetal, além de resolução da gestação pela via de parto mais rápida. No caso da paciente não é possível saber se ela se encontra em trabalho de parto ou se apresenta dilatação, mas por ser um quadro súbito, supomos que a via de parto mais rápida seja por cesariana.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-19 19:42:40.515435 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146614-720.mp4",
+        "unlisted": false,
+        "slug": "mulher-com-26-anos15781b989a9",
+        "public": true
+      },
+      {
+        "id": "4000146611",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "NOTICE",
+                "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+              },
+              {
+                "type": "ANSWER",
+                "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2021-04-26T17:27:06Z",
+            "updated_at": "2021-11-23T12:12:21Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "15dc350387c74893b36a6977f910bd80",
+            "name": "Predição e prevenção",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Predição e prevenção",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "e19f3107-7a5c-4079-867d-726b882934bd",
+            "position": "0",
+            "body": "Metildopa.",
+            "sanitized_body": "Metildopa.",
+            "correct": false,
+            "created_at": "2021-04-26 18:57:00.424098 +0000 UTC",
+            "updated_at": "2021-05-17 15:13:15.623689 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “a” incorreta, </b>pois a metildopa é uma medicação empregada no tratamento das síndromes hipertensivas na gestação e não em sua profilaxia.",
+              "sanitized_complete": "Alternativa “a” incorreta, pois a metildopa é uma medicação empregada no tratamento das síndromes hipertensivas na gestação e não em sua profilaxia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-21 20:49:00.013932 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 441
+          },
+          {
+            "id": "3c521342-4150-4d77-9c57-114eb44ab766",
+            "position": "1",
+            "body": "Ácido fólico.",
+            "sanitized_body": "Ácido fólico.",
+            "correct": false,
+            "created_at": "2021-04-26 18:57:00.424098 +0000 UTC",
+            "updated_at": "2021-05-17 15:13:15.711346 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “b” incorreta, </b>pois o ácido fólico é uma vitamina associada à prevenção de defeitos de fechamento do tubo neural fetal e não à prevenção de hipertensão.<div><br></div>",
+              "sanitized_complete": "Alternativa “b” incorreta, pois o ácido fólico é uma vitamina associada à prevenção de defeitos de fechamento do tubo neural fetal e não à prevenção de hipertensão.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-21 20:49:00.000946 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 80
+          },
+          {
+            "id": "08ec84ea-544e-4fc4-a3f2-32b55fc985a4",
+            "position": "2",
+            "body": "Progesterona.",
+            "sanitized_body": "Progesterona.",
+            "correct": false,
+            "created_at": "2021-04-26 18:57:00.424098 +0000 UTC",
+            "updated_at": "2021-05-17 15:13:15.785553 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “c” incorreta,</b> pois a progesterona costuma ser empregada para a prevenção de prematuridade em pacientes específicas.",
+              "sanitized_complete": "Alternativa “c” incorreta, pois a progesterona costuma ser empregada para a prevenção de prematuridade em pacientes específicas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-21 20:49:00.058282 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 59
+          },
+          {
+            "id": "2062cac5-9991-4e29-aff6-85163addf4f1",
+            "position": "3",
+            "body": "Ácido acetilsalicílico.",
+            "sanitized_body": "Ácido acetilsalicílico.",
+            "correct": true,
+            "created_at": "2021-04-26 18:57:00.424098 +0000 UTC",
+            "updated_at": "2021-05-17 15:13:15.862034 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "<b>Alternativa “d” correta, </b>pois conforme foi explicado na introdução, o AAS é a droga de escolha para prevenção de pré-eclâmpsia em pacientes de alto risco.",
+              "sanitized_complete": "Alternativa “d” correta, pois conforme foi explicado na introdução, o AAS é a droga de escolha para prevenção de pré-eclâmpsia em pacientes de alto risco.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+              "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+              "author_profile": null,
+              "created_at": "2021-05-21 20:49:00.027638 +0000 UTC"
+            },
+            "answer_percentage": 89,
+            "answers": 4864
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma secundigesta com 23 anos de idade comparece à consulta ambulatorial de pré-natal de alto risco, encaminhada pela Unidade Básica de Saúde. Afirma estar receosa com a gestação atual e refere ter tido, na gravidez anterior, elevação da pressão arterial e convulsão antes do parto, que ocorreu com 37 semanas. No momento, encontra-se com 14 semanas de gestação e sem queixas, não havendo outros antecedentes patológicos. Ao exame físico, mostra-se dentro da normalidade, com PA = 115 x 82 mmHg. Avaliando-se essa história clínica, qual medicamento faz parte da prevenção da condição que a paciente apresentou em sua primeira gestação?",
+        "statement_text": "Uma secundigesta com 23 anos de idade comparece à consulta ambulatorial de pré-natal de alto risco, encaminhada pela Unidade Básica de Saúde. Afirma estar receosa com a gestação atual e refere ter tido, na gravidez anterior, elevação da pressão arterial e convulsão antes do parto, que ocorreu com 37 semanas. No momento, encontra-se com 14 semanas de gestação e sem queixas, não havendo outros antecedentes patológicos. Ao exame físico, mostra-se dentro da normalidade, com PA = 115 x 82 mmHg. Avaliando-se essa história clínica, qual medicamento faz parte da prevenção da condição que a paciente apresentou em sua primeira gestação?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2021-04-26 18:57:00.424098 +0000 UTC",
+        "forum_id": "5c2fa67b-3f31-4a80-8a60-ad10eaef6b8f",
+        "solution": {
+          "_key": "b9ec52cd-7157-41ec-947e-66d97d1dea4b",
+          "complete": "<b>GABARITO: ALTERNATIVA D</b><div><b><br></b></div><div>Diante de gestantes com alto risco de desenvolver pré-eclâmpsia, tanto pelo rastreamento combinado no primeiro trimestre como pela avaliação dos fatores de risco maternos isolados, a prevenção primária consiste na administração de aspirina em baixa dose (75-150 mg) diariamente, com início antes de 16 semanas de gestação (preferencialmente com 12 semanas), até o parto. O uso de baixa dose de aspirina antes de 16 semanas de gestação diminuiu o risco de pré-eclâmpsia, principalmente a pré-eclâmpsia precoce (&lt; 34 semanas), e de restrição de crescimento fetal em gestantes de alto risco. A suplementação de cálcio (1,5g a 2g/dia) deve ser feita para gestantes de alto risco e baixa ingesta dietética de cálcio, com redução do risco de pré-eclâmpsia para esse grupo de mulheres. Não existe evidência de que a suplementação de vitamina C, D, E, óleo de peixe, ácido fólico e restrição de sal possam reduzir o risco de pré-eclâmpsia.&nbsp;</div><div><br></div><div>A tabela abaixo resume os principais fatores de risco para pré-eclâmpsia e no fluxograma abaixo resumi a profilaxia da pré-eclâmpsia para que você memorize bem esse assunto</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A0A60CCA-E72D-BC9B-D346-790A17FE7DB5/A0A60CCA-E72D-BC9B-D346-790A17FE7DB5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/47761123-3F0E-A234-909F-1ADBE772879A/47761123-3F0E-A234-909F-1ADBE772879A-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA DDiante de gestantes com alto risco de desenvolver pré-eclâmpsia, tanto pelo rastreamento combinado no primeiro trimestre como pela avaliação dos fatores de risco maternos isolados, a prevenção primária consiste na administração de aspirina em baixa dose (75-150 mg) diariamente, com início antes de 16 semanas de gestação (preferencialmente com 12 semanas), até o parto. O uso de baixa dose de aspirina antes de 16 semanas de gestação diminuiu o risco de pré-eclâmpsia, principalmente a pré-eclâmpsia precoce (&lt; 34 semanas), e de restrição de crescimento fetal em gestantes de alto risco. A suplementação de cálcio (1,5g a 2g/dia) deve ser feita para gestantes de alto risco e baixa ingesta dietética de cálcio, com redução do risco de pré-eclâmpsia para esse grupo de mulheres. Não existe evidência de que a suplementação de vitamina C, D, E, óleo de peixe, ácido fólico e restrição de sal possam reduzir o risco de pré-eclâmpsia. A tabela abaixo resume os principais fatores de risco para pré-eclâmpsia e no fluxograma abaixo resumi a profilaxia da pré-eclâmpsia para que você memorize bem esse assunto",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "09a46135-18de-49bb-afc5-52e31024ae37",
+          "author_email_id": "562fdcb9f4bcc2f71abfb7636833c1fc",
+          "author_profile": {
+            "id": "09a46135-18de-49bb-afc5-52e31024ae37",
+            "full_name": "Carlos Martins ",
+            "avatar_url": "https://static.accounts.estrategia.com/cf7c8f6b7db0875f6541a82ed198f83f",
+            "about_me": "Formado em Medicina pela Faculdade de Medicina da Universidade de São Paulo-USP, Ginecologista e Obstetra pelo Hospital das Clínicas da Faculdade de Medicina da USP. Foi Preceptor da Divisão de Clínica Obstétrica do Hospital das Clínicas da Faculdade de Medicina da USP em 202021. Atualmente, assistente da Divisão de Obstetrícia do Hospital Universitário da Universidade de São Paulo.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dr.carlosmartins",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2021-05-21 20:49:00.085041 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000146611-720.mp4",
+        "unlisted": false,
+        "slug": "secundigesta-com-231007e69c69f",
+        "public": true
+      },
+      {
+        "id": "4000137336",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "4d52f671-df4f-4591-99d6-9b20836d7919",
+                "name": "Simulado EMED - USP"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "4223CD68-A8B2-0A06-72BF-70D3B5A8C721"
+              },
+              {
+                "type": "ANSWER",
+                "url": "A164C5B3-B2D9-92A6-CCD3-55457671F427"
+              },
+              {
+                "type": "ANSWER",
+                "url": "BC4D29AB-965C-A847-5AC4-103CD42308B6"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-12-23T11:29:48Z",
+            "updated_at": "2021-06-07T13:48:11Z",
+            "location": {
+              "id": "5298"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "14c9e58dc5f2404c9290c1e1a2def3a6",
+            "name": "Conduta obstétrica",
+            "is_master": false,
+            "master_id": "7ab5428734d84506a62e945b69217a7b",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Conduta[$$]Conduta obstétrica",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "802fa667-2e1c-4d70-b669-ffd3f1528090",
+            "position": "0",
+            "body": "Pré-eclâmpsia grave associada a sofrimento fetal. Internação hospitalar e resolução imediata da gestação.",
+            "sanitized_body": "Pré-eclâmpsia grave associada a sofrimento fetal. Internação hospitalar e resolução imediata da gestação.",
+            "correct": false,
+            "created_at": "2020-12-23 13:33:43.201801 +0000 UTC",
+            "updated_at": "2021-08-17 01:02:22.460801 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"A\": a gestante não apresenta pré-eclâmpsia grave, mas sim hipertensão arterial crônica, com pré-eclâmpsia sobreposta. A cardiotocografia anteparto não indica necessariamente sofrimento fetal, mas sim um feto hipoativo que deve ter os exames de vitalidade complementados para avaliar os riscos de sofrimento fetal (hipóxia). Como o feto apresenta 35 semanas, não há indicação nesse momento de resolução imediata da gestação, mas sim de complementação dos exames de vitalidade fetal.<div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa &#34;A&#34;: a gestante não apresenta pré-eclâmpsia grave, mas sim hipertensão arterial crônica, com pré-eclâmpsia sobreposta. A cardiotocografia anteparto não indica necessariamente sofrimento fetal, mas sim um feto hipoativo que deve ter os exames de vitalidade complementados para avaliar os riscos de sofrimento fetal (hipóxia). Como o feto apresenta 35 semanas, não há indicação nesse momento de resolução imediata da gestação, mas sim de complementação dos exames de vitalidade fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-24 00:32:11.306647 +0000 UTC",
+              "updated_at": "2020-12-24 00:34:13.043678 +0000 UTC"
+            },
+            "answer_percentage": 13,
+            "answers": 121
+          },
+          {
+            "id": "57e7454f-d41c-455d-af23-c3a5b0ad0e0f",
+            "position": "1",
+            "body": "Hipertensão arterial crônica com pré-eclâmpsia sobreposta, associada a feto hipoativo. Internação hospitalar e repetir a cardiotocografia após estimulação fetal. Caso a cardiotocografia seja não-reativa, resolver a gestação.",
+            "sanitized_body": "Hipertensão arterial crônica com pré-eclâmpsia sobreposta, associada a feto hipoativo. Internação hospitalar e repetir a cardiotocografia após estimulação fetal. Caso a cardiotocografia seja não-reativa, resolver a gestação.",
+            "correct": true,
+            "created_at": "2020-12-23 13:33:43.201801 +0000 UTC",
+            "updated_at": "2021-08-17 01:02:22.538186 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa \"B\"\ta gestante apresenta hipertensão arterial crônica, complicada em decorrência da pré-eclâmpsia sobreposta. Como a cardiotocografia anteparto apresenta um feto hipoativo, há indicação de complementar os exames de vitalidade fetal, caso a vitalidade fetal esteja preservada, é possível manter a gestação até 37 semanas com monitoramento rigoroso materno-fetal. Caso haja piora do quadro clínico materno ou alteração da vitalidade fetal, a resolução da gestação deve ocorrer antes de 37 semanas.<div><br></div><div><br></div>",
+              "sanitized_complete": "Correta a alternativa &#34;B&#34;\ta gestante apresenta hipertensão arterial crônica, complicada em decorrência da pré-eclâmpsia sobreposta. Como a cardiotocografia anteparto apresenta um feto hipoativo, há indicação de complementar os exames de vitalidade fetal, caso a vitalidade fetal esteja preservada, é possível manter a gestação até 37 semanas com monitoramento rigoroso materno-fetal. Caso haja piora do quadro clínico materno ou alteração da vitalidade fetal, a resolução da gestação deve ocorrer antes de 37 semanas.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-24 00:32:11.315604 +0000 UTC",
+              "updated_at": "2020-12-24 00:34:13.041764 +0000 UTC"
+            },
+            "answer_percentage": 52,
+            "answers": 501
+          },
+          {
+            "id": "03b43226-57cf-41ef-8bea-092014251bec",
+            "position": "2",
+            "body": "Hipertensão arterial grave associada a feto hipoativo. Internação hospitalar, hidratação, glicose e, após, repetir a cardiotocografia. Caso o feto permaneça hipoativo, resolver a gestação.",
+            "sanitized_body": "Hipertensão arterial grave associada a feto hipoativo. Internação hospitalar, hidratação, glicose e, após, repetir a cardiotocografia. Caso o feto permaneça hipoativo, resolver a gestação.",
+            "correct": false,
+            "created_at": "2020-12-23 13:33:43.201801 +0000 UTC",
+            "updated_at": "2021-08-17 01:02:22.620949 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"C\": não estamos diante de um quadro de hipertensão arterial grave, mas sim de hipertensão arterial crônica com pré- eclâmpsia sobreposta. Diante de um feto hipoativo, a conduta deve ser: realizar estimulação fetal e repetir a cardiotocografia, além de avaliar a vitalidade fetal por outros métodos (Dopplervelocimetria e perfil biofísico fetal).",
+              "sanitized_complete": "Incorreta a alternativa &#34;C&#34;: não estamos diante de um quadro de hipertensão arterial grave, mas sim de hipertensão arterial crônica com pré- eclâmpsia sobreposta. Diante de um feto hipoativo, a conduta deve ser: realizar estimulação fetal e repetir a cardiotocografia, além de avaliar a vitalidade fetal por outros métodos (Dopplervelocimetria e perfil biofísico fetal).",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-24 00:32:11.304473 +0000 UTC",
+              "updated_at": "2020-12-24 00:34:13.046207 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 61
+          },
+          {
+            "id": "effbe146-a70c-48c1-ab75-0d7a8841c03d",
+            "position": "3",
+            "body": "Hipertensão arterial crônica com pré-eclâmpsia sobreposta, associada a sofrimento fetal. Resolução imediata da gestação.",
+            "sanitized_body": "Hipertensão arterial crônica com pré-eclâmpsia sobreposta, associada a sofrimento fetal. Resolução imediata da gestação.",
+            "correct": false,
+            "created_at": "2020-12-23 13:33:43.201801 +0000 UTC",
+            "updated_at": "2021-08-17 01:02:22.707885 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa \"D\": o diagnóstico está correto, mas a cardiotocografia anteparto não indica, necessariamente, sofrimento fetal, mas sim um feto hipoativo que deve ter os exames de vitalidade complementados para avaliar os riscos de hipóxia fetal.",
+              "sanitized_complete": "Incorreta a alternativa &#34;D&#34;: o diagnóstico está correto, mas a cardiotocografia anteparto não indica, necessariamente, sofrimento fetal, mas sim um feto hipoativo que deve ter os exames de vitalidade complementados para avaliar os riscos de hipóxia fetal.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-24 00:32:11.315495 +0000 UTC",
+              "updated_at": "2020-12-24 00:34:13.054725 +0000 UTC"
+            },
+            "answer_percentage": 29,
+            "answers": 284
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Gestante 35 semanas, primigesta, hipertensa crônica em uso de metildopa desde o início da gestação. Refere piora dos níveis pressóricos nos últimos dias e inchaço nos pés e mãos. Nega outros sintomas. Vem à maternidade por diminuição da movimentação fetal. Ao exame, o paciente encontra-se com PA 160 x 110 mmHg, AU 33 cm, BCF 130 bpm, dinâmica uterina ausente, colo grosso, posterior e impérvio. Feito hidralazina com melhora dos níveis pressóricos para 145 x 195 mmHg. Exames laboratoriais: relação proteína/creatinina 0,55 mg/dl, plaquetas 195 mil x 10⁶/L, TGO 30 U/L, TGP 36 U/L, DHL 320 UI/L, creatinina 0,80 mg/dl. Cardiotocografia em anexo.&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/B032401F-7C98-7FBD-45C1-FFD99A01DC85/B032401F-7C98-7FBD-45C1-FFD99A01DC85-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Qual é o diagnóstico e a conduta para esse caso?&nbsp;</div>",
+        "statement_text": "Gestante 35 semanas, primigesta, hipertensa crônica em uso de metildopa desde o início da gestação. Refere piora dos níveis pressóricos nos últimos dias e inchaço nos pés e mãos. Nega outros sintomas. Vem à maternidade por diminuição da movimentação fetal. Ao exame, o paciente encontra-se com PA 160 x 110 mmHg, AU 33 cm, BCF 130 bpm, dinâmica uterina ausente, colo grosso, posterior e impérvio. Feito hidralazina com melhora dos níveis pressóricos para 145 x 195 mmHg. Exames laboratoriais: relação proteína/creatinina 0,55 mg/dl, plaquetas 195 mil x 10⁶/L, TGO 30 U/L, TGP 36 U/L, DHL 320 UI/L, creatinina 0,80 mg/dl. Cardiotocografia em anexo. Qual é o diagnóstico e a conduta para esse caso? ",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-12-23 13:33:43.201801 +0000 UTC",
+        "forum_id": "70f97408-15fd-48d8-8fd0-1bf3beb845bf",
+        "solution": {
+          "_key": "2c253517-64ba-4b6e-b392-8efc4eb7f1b4",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>O que o examinador quer saber: sobre as síndromes hipertensivas da gestação e os exames de vitalidade fetal. Na FMUSP os critérios diagnósticos utilizados para DHEG são os da classificação de Zugaib e Kahhale e diferem dos critérios diagnósticos utilizados pela ACOG, como podemos ver na tabela a seguir. Então, fique atento sobre isso para as provas dessa instituição.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/44B73F46-35B1-93CE-DE31-CA4B38B8E069/44B73F46-35B1-93CE-DE31-CA4B38B8E069-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/5CBCB626-FA2F-9237-E188-50B4600BB697/5CBCB626-FA2F-9237-E188-50B4600BB697-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>A conduta obstétrica nas síndromes hipertensivas da gestação depende da idade gestacional, do quadro clínico materno e da vitalidade. Na hipertensão arterial crônica não complicada, é possível manter a gestação até 40 semanas com controle materno-fetal rigoroso. Por outro lado, na hipertensão arterial crônica complicada por pré-eclâmpsia sobreposta, a gestante deve ser internada para monitorização materno- fetal e a resolução da gestação não deve ultrapassar 37 semanas. Além disso, a resolução da gestação deve ser imediata em qualquer idade  gestacional se houver alteração da vitalidade fetal ou piora do quadro clínico materno, como diante de eclâmpsia, iminência de eclâmpsia ou síndrome HELLP. A monitorização fetal nas síndromes hipertensivas da gestação pode ser feita por meio da Dopplervelocimetria obstétrica, cardiotocografia anteparto e perfil biofísico fetal.</div><div><br></div><div>A cardiotocografia anteparto é uma método largamente utilizado na prática obstétrica, porém há fracas evidências de que sua utilização reduz a morbimortalidade perinatal. Sabe-se que fetos não hipóxicos apresentam aceleração cardíaca transitória da FCF com a movimentação fetal, por isso, a reatividade cardíaca é um bom indicador de função autonômica fetal. Sendo assim, a perda da reatividade cardíaca fetal está associada à hipóxia fetal, mas também pode indicar apenas sono fetal. Esse exame pode ser realizado a partir de 26 semanas em fetos com risco de hipóxia, podendo ser feito em repouso, estimulado ou com sobrecarga (sob estresse).Na cardiotocografia de repouso não é feito nenhum estímulo para o feto. Ele é classificado em feto ativo, hipoativo e inativo, a depender da linha de base, variabilidade, aceleração e desaceleração dos batimentos cardíacos fetais. Feto ativo é aquele com todos os parâmetros cardiotocográficos normais e, pelo menos, duas acelerações transitórias. Já o feto hipoativo apresenta pelo menos dois parâmetros normais, e o inativo apresenta apenas um ou nenhum parâmetro normal, ambos sem acelerações transitórias.</div><div><br></div><div>Quando o feto está hipoativo ou inativo, faz-se a cardiotocografia anteparto estimulada, com o objetivo de alterar o estado de sono para vigília fetal, para discriminar os fetos que estão em período de sono daqueles que realmente apresentam hipoxemia. Pode ser feito estímulo vibro-acústico com buzina apropriada, ou mecânico com a movimentação do polo cefálico. Se o feto responder com aceleração dos batimentos cardíacos &gt;20 bpm por 3 min, chamamos de feto reativo, se a resposta for pequena, menor do que 20 bpm por menos de 3 min, chamamos de hiporreativo e, se não houver resposta, o feto é não reativo. Outras situações também podem levar à hiporreatividade fetal, como nos casos de anomalias cardíacas e neurológicas, ingestão de drogas e infecção materna. Resultados anormais indicam maior avaliação da vitalidade fetal (com Dopplervelocimetria e perfil biofísico fetal) ou resolução da gestação, a depender da idade gestacional e da história clínica da paciente</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/3F31A3DA-562C-05CC-251B-D23183E94531/3F31A3DA-562C-05CC-251B-D23183E94531-400.png\"><br></div><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE --><!-- BEGIN:IMAGE_TO_REPLACE --><!-- END:IMAGE_TO_REPLACE -->",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: sobre as síndromes hipertensivas da gestação e os exames de vitalidade fetal. Na FMUSP os critérios diagnósticos utilizados para DHEG são os da classificação de Zugaib e Kahhale e diferem dos critérios diagnósticos utilizados pela ACOG, como podemos ver na tabela a seguir. Então, fique atento sobre isso para as provas dessa instituição.A conduta obstétrica nas síndromes hipertensivas da gestação depende da idade gestacional, do quadro clínico materno e da vitalidade. Na hipertensão arterial crônica não complicada, é possível manter a gestação até 40 semanas com controle materno-fetal rigoroso. Por outro lado, na hipertensão arterial crônica complicada por pré-eclâmpsia sobreposta, a gestante deve ser internada para monitorização materno- fetal e a resolução da gestação não deve ultrapassar 37 semanas. Além disso, a resolução da gestação deve ser imediata em qualquer idade  gestacional se houver alteração da vitalidade fetal ou piora do quadro clínico materno, como diante de eclâmpsia, iminência de eclâmpsia ou síndrome HELLP. A monitorização fetal nas síndromes hipertensivas da gestação pode ser feita por meio da Dopplervelocimetria obstétrica, cardiotocografia anteparto e perfil biofísico fetal.A cardiotocografia anteparto é uma método largamente utilizado na prática obstétrica, porém há fracas evidências de que sua utilização reduz a morbimortalidade perinatal. Sabe-se que fetos não hipóxicos apresentam aceleração cardíaca transitória da FCF com a movimentação fetal, por isso, a reatividade cardíaca é um bom indicador de função autonômica fetal. Sendo assim, a perda da reatividade cardíaca fetal está associada à hipóxia fetal, mas também pode indicar apenas sono fetal. Esse exame pode ser realizado a partir de 26 semanas em fetos com risco de hipóxia, podendo ser feito em repouso, estimulado ou com sobrecarga (sob estresse).Na cardiotocografia de repouso não é feito nenhum estímulo para o feto. Ele é classificado em feto ativo, hipoativo e inativo, a depender da linha de base, variabilidade, aceleração e desaceleração dos batimentos cardíacos fetais. Feto ativo é aquele com todos os parâmetros cardiotocográficos normais e, pelo menos, duas acelerações transitórias. Já o feto hipoativo apresenta pelo menos dois parâmetros normais, e o inativo apresenta apenas um ou nenhum parâmetro normal, ambos sem acelerações transitórias.Quando o feto está hipoativo ou inativo, faz-se a cardiotocografia anteparto estimulada, com o objetivo de alterar o estado de sono para vigília fetal, para discriminar os fetos que estão em período de sono daqueles que realmente apresentam hipoxemia. Pode ser feito estímulo vibro-acústico com buzina apropriada, ou mecânico com a movimentação do polo cefálico. Se o feto responder com aceleração dos batimentos cardíacos &gt;20 bpm por 3 min, chamamos de feto reativo, se a resposta for pequena, menor do que 20 bpm por menos de 3 min, chamamos de hiporreativo e, se não houver resposta, o feto é não reativo. Outras situações também podem levar à hiporreatividade fetal, como nos casos de anomalias cardíacas e neurológicas, ingestão de drogas e infecção materna. Resultados anormais indicam maior avaliação da vitalidade fetal (com Dopplervelocimetria e perfil biofísico fetal) ou resolução da gestação, a depender da idade gestacional e da história clínica da paciente",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-24 00:32:11.519896 +0000 UTC",
+          "updated_at": "2020-12-24 00:34:13.231801 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Gestante-35-semanas112b61e6802",
+        "public": true
+      },
+      {
+        "id": "4000137275",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "a490f846-c91e-4c15-89a5-e90d92894edf",
+                "name": "Simulado EMED - Multimídia"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "0A580090-5540-3901-B34F-E8D148B131F9"
+              },
+              {
+                "type": "ANSWER",
+                "url": "FDA55BEC-DD76-30A9-9380-E11CE24846BA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "5A5E9881-1738-7B87-38F3-8CE0678AD4F0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-12-21T18:53:03Z",
+            "updated_at": "2021-06-07T13:45:33Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "15dc350387c74893b36a6977f910bd80",
+            "name": "Predição e prevenção",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Predição e prevenção",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "24c068b0707549a9869a233a2a7f73d8",
+            "name": "Artéria uterina",
+            "is_master": false,
+            "master_id": "1a778bff569b418aacfbd15348fbff38",
+            "path": "Obstetrícia[$$]Medicina fetal[$$]Avaliação da vitalidade fetal[$$]Dopplervelocimetria (Doppler)[$$]Vasos estudados[$$]Artéria uterina",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "6dbca135-f533-4e70-ba99-45350245297f",
+            "position": "0",
+            "body": "Artéria umbilical. Sofrimento fetal",
+            "sanitized_body": "Artéria umbilical. Sofrimento fetal",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:15.581822 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa A: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "sanitized_complete": "Incorreta a alternativa A: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.291535 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.39576 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 72
+          },
+          {
+            "id": "68fe58ea-120a-417d-8fb4-c8ef1875b1ca",
+            "position": "1",
+            "body": "Artéria cerebral média. Anemia fetal",
+            "sanitized_body": "Artéria cerebral média. Anemia fetal",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:15.808534 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B: essa Dopplervelocimetria é referente à artéria uterina e não à artéria cerebral média. A Dopplervelocimetria da artéria cerebral media, não da artéria uterina, é utilizada para avaliar anemia fetal nos casos de aloimunização Rh.",
+              "sanitized_complete": "Incorreta a alternativa B: essa Dopplervelocimetria é referente à artéria uterina e não à artéria cerebral média. A Dopplervelocimetria da artéria cerebral media, não da artéria uterina, é utilizada para avaliar anemia fetal nos casos de aloimunização Rh.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.288722 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.395929 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 51
+          },
+          {
+            "id": "3591c8ab-9522-45d7-87aa-05400fece200",
+            "position": "2",
+            "body": "Artéria uterina. Risco aumentado para pré-eclâmpsia",
+            "sanitized_body": "Artéria uterina. Risco aumentado para pré-eclâmpsia",
+            "correct": true,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.197818 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa C: a imagem corresponde à Dopplervelocimetria da artéria uterina, que se encontra com a resistência aumentada, indicando maior risco de pré-eclâmpsia e restrição de crescimento fetal. A dica para saber que essa imagem corresponde à Dopplervelocimetria da artéria uterina alterada é o formato da onda e a presença de incisura protodiastólica.",
+              "sanitized_complete": "Correta a alternativa C: a imagem corresponde à Dopplervelocimetria da artéria uterina, que se encontra com a resistência aumentada, indicando maior risco de pré-eclâmpsia e restrição de crescimento fetal. A dica para saber que essa imagem corresponde à Dopplervelocimetria da artéria uterina alterada é o formato da onda e a presença de incisura protodiastólica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.305971 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.405849 +0000 UTC"
+            },
+            "answer_percentage": 64,
+            "answers": 590
+          },
+          {
+            "id": "3ec40f7d-4d7f-4c2d-b722-5560b49f6b7a",
+            "position": "3",
+            "body": "Artéria umbilical. Risco aumentado para restrição de crescimento fetal.",
+            "sanitized_body": "Artéria umbilical. Risco aumentado para restrição de crescimento fetal.",
+            "correct": false,
+            "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.597732 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "sanitized_complete": "Incorreta a alternativa D: essa Dopplervelocimetria é referente à artéria uterina e não à artéria umbilical. A Dopplervelocimetria da artéria umbilical, não da artéria uterina, serve para avaliar sofrimento fetal, pois reflete o fluxo fetoplacentário.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.297232 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.399671 +0000 UTC"
+            },
+            "answer_percentage": 18,
+            "answers": 165
+          },
+          {
+            "id": "a59ff3e4-363f-4906-b305-77e99caf0a2f",
+            "position": "4",
+            "body": "Artéria uterina. Sofrimento fetal",
+            "sanitized_body": "Artéria uterina. Sofrimento fetal",
+            "correct": false,
+            "created_at": "2020-12-22 00:53:31.781207 +0000 UTC",
+            "updated_at": "2021-08-06 20:13:16.997419 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E: essa Dopplervelocimetria é referente à artéria uterina, mas a alteração da artéria uterina não indica sofrimento fetal no primeiro trimestre e sim o aumento do risco de pré-eclâmpsia e restrição de crescimento.",
+              "sanitized_complete": "Incorreta a alternativa E: essa Dopplervelocimetria é referente à artéria uterina, mas a alteração da artéria uterina não indica sofrimento fetal no primeiro trimestre e sim o aumento do risco de pré-eclâmpsia e restrição de crescimento.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-12-22 19:26:43.285559 +0000 UTC",
+              "updated_at": "2020-12-22 19:27:06.413235 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 42
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Gestante veio realizar ultrassonografia morfológica do primeiro trimestre e apresentou Dopplervelocimetria conforme a figura abaixo. Sobre que vaso é essa Dopplervelocimetria e o que indica essa alteração?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/41EF4F69-A9FF-7E25-B997-459606E19F16/41EF4F69-A9FF-7E25-B997-459606E19F16-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Gestante veio realizar ultrassonografia morfológica do primeiro trimestre e apresentou Dopplervelocimetria conforme a figura abaixo. Sobre que vaso é essa Dopplervelocimetria e o que indica essa alteração?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-12-21 16:58:11.140972 +0000 UTC",
+        "forum_id": "a49a2e1a-9849-4176-b33e-fd017cfa16b7",
+        "solution": {
+          "_key": "05c3b5e0-eb02-4527-9fa4-853ecea4f9bf",
+          "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><b><div><b><br></b></div>O que o examinador quer saber: sobre a Dopplervelocimetria da artéria uterina.</b><div><br></div><div>A circulação uteroplacentária é avaliada por meio da Dopplervelocimetria das artérias uterinas e a circulação fetoplacentária pelas artérias umbilicais. A circulação fetal é avaliada principalmente pela Dopplervelocimetria da artéria cerebral média (território arterial) e do ducto venoso (território venoso).</div><div><br></div><div>A Dopplervelocimetria das artérias uterinas está relacionada à invasão trofoblástica. Quando a artéria uterina está anormal (alta resistência) indica que a invasão trofoblástica foi inadequada, aumentando o risco de restrição de crescimento fetal (RCF) e pré-eclâmpsia. Considera-se resultados anormais se o IP estiver acima do percentil 95 da curva de normalidade ou houver incisura protodiastólica em ambas as artérias após 24 semanas de gestação.</div><div><br></div><div>A predição de pré-eclâmpsia vem sendo avaliada por marcadores bioquímicos (PLGF e PAPP-A), biofísicos (artéria uterina) e fatores de risco maternos. Quanto menor for a concentração de PLGF (Placental Growth Factor/fator de crescimento placentário) e de PAPP-A (Proteína Plasmática Associada à Gravidez) e maior for o índice de pulsatilidade da artéria uterina, maior o risco de desenvolver pré-eclâmpsia. No primeiro trimestre, a combinação da <b>concentração de PLGF e PPAP-A do índice de pulsatilidade da artéria uterina e dos parâmetros maternos </b>consegue identificar 93% das pacientes que desenvolverão pré-eclâmpsia e precisarão adiantar o parto antes de 34 semanas, porém a quantidade de falso positivo para essa predição é muito grande, em torno de 79%.</div><div><br></div><div>O aumento da resistência da artéria uterina ou a incisura protodiastólica bilateral após 26 semanas indicam risco elevado de RCF e esses fetos devem ser acompanhados de perto, pois apresentam alto grau de disfunção placentária.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/7CFAF2E0-6908-A9B0-499B-DF4C154943A6/7CFAF2E0-6908-A9B0-499B-DF4C154943A6-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: sobre a Dopplervelocimetria da artéria uterina.A circulação uteroplacentária é avaliada por meio da Dopplervelocimetria das artérias uterinas e a circulação fetoplacentária pelas artérias umbilicais. A circulação fetal é avaliada principalmente pela Dopplervelocimetria da artéria cerebral média (território arterial) e do ducto venoso (território venoso).A Dopplervelocimetria das artérias uterinas está relacionada à invasão trofoblástica. Quando a artéria uterina está anormal (alta resistência) indica que a invasão trofoblástica foi inadequada, aumentando o risco de restrição de crescimento fetal (RCF) e pré-eclâmpsia. Considera-se resultados anormais se o IP estiver acima do percentil 95 da curva de normalidade ou houver incisura protodiastólica em ambas as artérias após 24 semanas de gestação.A predição de pré-eclâmpsia vem sendo avaliada por marcadores bioquímicos (PLGF e PAPP-A), biofísicos (artéria uterina) e fatores de risco maternos. Quanto menor for a concentração de PLGF (Placental Growth Factor/fator de crescimento placentário) e de PAPP-A (Proteína Plasmática Associada à Gravidez) e maior for o índice de pulsatilidade da artéria uterina, maior o risco de desenvolver pré-eclâmpsia. No primeiro trimestre, a combinação da concentração de PLGF e PPAP-A do índice de pulsatilidade da artéria uterina e dos parâmetros maternos consegue identificar 93% das pacientes que desenvolverão pré-eclâmpsia e precisarão adiantar o parto antes de 34 semanas, porém a quantidade de falso positivo para essa predição é muito grande, em torno de 79%.O aumento da resistência da artéria uterina ou a incisura protodiastólica bilateral após 26 semanas indicam risco elevado de RCF e esses fetos devem ser acompanhados de perto, pois apresentam alto grau de disfunção placentária.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-22 19:26:43.446657 +0000 UTC",
+          "updated_at": "2020-12-22 19:27:06.498135 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Gestante-veio-realizar27ab13a281",
+        "public": true
+      },
+      {
+        "id": "4000137270",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "a490f846-c91e-4c15-89a5-e90d92894edf",
+                "name": "Simulado EMED - Multimídia"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "0A580090-5540-3901-B34F-E8D148B131F9"
+              },
+              {
+                "type": "ANSWER",
+                "url": "FDA55BEC-DD76-30A9-9380-E11CE24846BA"
+              },
+              {
+                "type": "ANSWER",
+                "url": "5A5E9881-1738-7B87-38F3-8CE0678AD4F0"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-12-21T18:53:03Z",
+            "updated_at": "2021-06-07T13:45:33Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "3d1b9405f8064858880b4621b92c632f",
+            "name": "Estreito superior",
+            "is_master": false,
+            "master_id": "904fbb80dc8a4a27ae1a8894a96ca151",
+            "path": "Obstetrícia[$$]Parto[$$]Bacia obstétrica e pelvimetria[$$]Estreito superior",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "4c5ba269824749f0a525025445d7abed",
+            "name": "Avaliação do estreito superior",
+            "is_master": false,
+            "master_id": "619aa9686c2e4ccf84c0c08012b561fc",
+            "path": "Obstetrícia[$$]Parto[$$]Bacia obstétrica e pelvimetria[$$]Pelvimetria[$$]Avaliação do estreito superior",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "619aa9686c2e4ccf84c0c08012b561fc",
+            "name": "Pelvimetria",
+            "is_master": false,
+            "master_id": "904fbb80dc8a4a27ae1a8894a96ca151",
+            "path": "Obstetrícia[$$]Parto[$$]Bacia obstétrica e pelvimetria[$$]Pelvimetria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "904fbb80dc8a4a27ae1a8894a96ca151",
+            "name": "Bacia obstétrica e pelvimetria",
+            "is_master": false,
+            "master_id": "c547f4392d744a9b975bdaf095b0feae",
+            "path": "Obstetrícia[$$]Parto[$$]Bacia obstétrica e pelvimetria",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "c05633a14b814b5ab49cc991c64ac08f",
+            "name": "Obstetrícia",
+            "is_master": true,
+            "path": "Obstetrícia",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "d8f97d88f130417191b9f7976be32ded",
+            "name": "Exame físico obstétrico",
+            "is_master": false,
+            "master_id": "c4805d0cd23045a89426cdf1df6afbac",
+            "path": "Obstetrícia[$$]Pré-natal[$$]Assistência pré-natal[$$]Exame físico[$$]Exame físico obstétrico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "0be0e065-49fa-4463-8c98-553e401b8df7",
+            "position": "0",
+            "body": "Conjugata diagonalis",
+            "sanitized_body": "Conjugata diagonalis",
+            "correct": true,
+            "created_at": "2020-12-21 16:48:52.891167 +0000 UTC",
+            "updated_at": "2021-08-06 19:01:28.086323 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa A, porque  a <i>Conjugata diagonalis</i> ou conjugado   diagonal   vai  da borda inferior da sínfise púbica até o promontório e tem cerca de 12 cm. Sua medida pode ser aferida durante o toque vaginal, conforme observado na figura do enunciado, e avalia o estreito superior da bacia.",
+              "sanitized_complete": "Correta a alternativa A, porque  a Conjugata diagonalis ou conjugado   diagonal   vai  da borda inferior da sínfise púbica até o promontório e tem cerca de 12 cm. Sua medida pode ser aferida durante o toque vaginal, conforme observado na figura do enunciado, e avalia o estreito superior da bacia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-22 18:53:29.036107 +0000 UTC",
+              "updated_at": "2020-12-22 18:53:49.322909 +0000 UTC"
+            },
+            "answer_percentage": 68,
+            "answers": 861
+          },
+          {
+            "id": "4c5cf3fb-f61e-4ce4-940e-06b3f56d2167",
+            "position": "1",
+            "body": "Conjugata bi-isquiática",
+            "sanitized_body": "Conjugata bi-isquiática",
+            "correct": false,
+            "created_at": "2020-12-21 16:48:52.891167 +0000 UTC",
+            "updated_at": "2021-08-06 19:01:28.195298 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa B, porque na figura observa-se a avaliação da <i>Conjugata diagonalis</i>. O diâmetro bi-isquiático caracteriza-se pela distância entre as duas espinhas ciáticas, é a região mais estreita da bacia obstétrica e refere-se ao estreito médio da bacia.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8D554B89-052E-5DD2-10DB-D69B0BD240DC/8D554B89-052E-5DD2-10DB-D69B0BD240DC-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa B, porque na figura observa-se a avaliação da Conjugata diagonalis. O diâmetro bi-isquiático caracteriza-se pela distância entre as duas espinhas ciáticas, é a região mais estreita da bacia obstétrica e refere-se ao estreito médio da bacia.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-22 18:53:29.034153 +0000 UTC",
+              "updated_at": "2020-12-22 18:53:49.322232 +0000 UTC"
+            },
+            "answer_percentage": 6,
+            "answers": 74
+          },
+          {
+            "id": "d3b655e9-e984-4b07-bf09-e1901eab1f3a",
+            "position": "2",
+            "body": "Conjugata exitus",
+            "sanitized_body": "Conjugata exitus",
+            "correct": false,
+            "created_at": "2020-12-21 16:48:52.891167 +0000 UTC",
+            "updated_at": "2021-08-06 19:01:28.291007 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa C, porque na figura observa-se a avaliação da<i> Conjugata diagonalis</i>. A <i>Conjugata exitus</i>  caracteriza-se  por ser o diâmetro anteroposterior do estreito inferior, acrescido de cerca de dois centímetros, graças à retropulsão do cóccix no momento do desprendimento do feto.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0A576B59-8066-3176-ED0F-AF392FC762B9/0A576B59-8066-3176-ED0F-AF392FC762B9-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa C, porque na figura observa-se a avaliação da Conjugata diagonalis. A Conjugata exitus  caracteriza-se  por ser o diâmetro anteroposterior do estreito inferior, acrescido de cerca de dois centímetros, graças à retropulsão do cóccix no momento do desprendimento do feto.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-22 18:53:29.03132 +0000 UTC",
+              "updated_at": "2020-12-22 18:53:49.326777 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 27
+          },
+          {
+            "id": "e6c73e71-3a2b-4358-a682-b73eb6a690bd",
+            "position": "3",
+            "body": "Conjugata vera anatômica",
+            "sanitized_body": "Conjugata vera anatômica",
+            "correct": false,
+            "created_at": "2020-12-21 16:48:52.891167 +0000 UTC",
+            "updated_at": "2021-08-06 19:01:28.396799 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa D, porque a<i> Conjugata vera anatômica</i> caracteriza-se pela distância entre a borda superior, e não inferior, da sínfise púbica e o promontório, e não é mensurável pelo exame físico por não ser alcançável.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/6674EA08-7707-0F06-7CEF-3ED9E3AEFDA4/6674EA08-7707-0F06-7CEF-3ED9E3AEFDA4-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa D, porque a Conjugata vera anatômica caracteriza-se pela distância entre a borda superior, e não inferior, da sínfise púbica e o promontório, e não é mensurável pelo exame físico por não ser alcançável.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-22 18:53:29.031234 +0000 UTC",
+              "updated_at": "2020-12-22 18:53:49.315184 +0000 UTC"
+            },
+            "answer_percentage": 14,
+            "answers": 172
+          },
+          {
+            "id": "ed5e1cc0-6815-4a92-9cb3-79d168f1a272",
+            "position": "4",
+            "body": "Altura da apresentação fetal",
+            "sanitized_body": "Altura da apresentação fetal",
+            "correct": false,
+            "created_at": "2020-12-22 00:28:23.745988 +0000 UTC",
+            "updated_at": "2021-08-06 19:01:28.517906 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa E, porque na figura observa-se a avaliação da <i>Conjugata diagonalis</i>. A altura da apresentação fetal é avaliada a partir dos planos da bacia obstétrica, que dividem o canal de parto de modo que se possa avaliar a progressão fetal por esse canal. Os planos de De Lee são a classificação mais utilizada na prática clínica. O nível das espinhas isquiáticas é o ponto mais estreito da bacia obstétrica e é considerado o plano zero de De Lee.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/E90C1C91-822A-7DFD-54E2-E1548226B891/E90C1C91-822A-7DFD-54E2-E1548226B891-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Incorreta a alternativa E, porque na figura observa-se a avaliação da Conjugata diagonalis. A altura da apresentação fetal é avaliada a partir dos planos da bacia obstétrica, que dividem o canal de parto de modo que se possa avaliar a progressão fetal por esse canal. Os planos de De Lee são a classificação mais utilizada na prática clínica. O nível das espinhas isquiáticas é o ponto mais estreito da bacia obstétrica e é considerado o plano zero de De Lee.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-22 18:53:29.046794 +0000 UTC",
+              "updated_at": "2020-12-22 18:53:49.33367 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 132
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "A manobra a seguir tem como finalidade avaliar o quê?<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/0287C4CC-5C92-613B-4704-60F4036B60D0/0287C4CC-5C92-613B-4704-60F4036B60D0-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "A manobra a seguir tem como finalidade avaliar o quê?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-12-21 16:48:52.891167 +0000 UTC",
+        "solution": {
+          "_key": "bcde51d0-a9a7-4725-98dd-11a00d0415c5",
+          "complete": "<div><b>GABARITO: ALTERNATIVA A</b></div><b><div><b><br></b></div>O que o examinador quer saber:</b> Se você conhece as manobras realizadas para avaliar a pelvimetria.",
+          "sanitized_complete": "GABARITO: ALTERNATIVA AO que o examinador quer saber: Se você conhece as manobras realizadas para avaliar a pelvimetria.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-22 18:53:29.155966 +0000 UTC",
+          "updated_at": "2020-12-22 18:53:49.482903 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "manobra-seguir-tem10457f7e06",
+        "public": true
+      },
+      {
+        "id": "4000132118",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2020,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                "name": "Residência (Acesso Direto)"
+              },
+              "institution_id": {
+                "id": "aba32425-44cd-43f6-85b7-93762296d1f5",
+                "name": "1° Simulado Geral para Residência Médica"
+              },
+              "jury_id": {
+                "id": "48ff920d-c16a-439d-8d9b-01971c94c5da",
+                "name": "EMED"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "F408CBA8-F6FC-0852-82E3-ADA8389CB6FB"
+              },
+              {
+                "type": "ANSWER",
+                "url": "6193A6B2-51C2-0BB7-D911-E06DE0B043EE"
+              },
+              {
+                "type": "ANSWER",
+                "url": "B3399AAA-60D6-3A8F-67F5-9280B38D9721"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 0,
+            "created_at": "2020-12-11T12:20:36Z",
+            "updated_at": "2021-06-07T13:44:58Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "29b50161810645e8b4205b54c1d8901a",
+            "name": "Quadro clínico",
+            "is_master": false,
+            "master_id": "fce8560204e94625a4efc3da412148ca",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento primeira metade [$$]Gestação ectópica[$$]Quadro clínico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "58967a8d-c827-4b0c-8cca-4db59d6e5da4",
+            "position": "0",
+            "body": "1",
+            "sanitized_body": "1",
+            "correct": false,
+            "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+            "updated_at": "2021-07-28 23:29:21.519995 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorretas as alternativas A, C, D e E. Porque as regiões istímica, infundibular e das fímbrias não são os locais mais frequentes de gestação ectópica tubária. Quanto à alternativa E, note que se relaciona às gestações tópicas, uma vez que indica a porção corporal da cavidade uterina.",
+              "sanitized_complete": "Incorretas as alternativas A, C, D e E. Porque as regiões istímica, infundibular e das fímbrias não são os locais mais frequentes de gestação ectópica tubária. Quanto à alternativa E, note que se relaciona às gestações tópicas, uma vez que indica a porção corporal da cavidade uterina.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-11 16:43:37.177139 +0000 UTC",
+              "updated_at": "2023-03-14 00:16:32.37916 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 135
+          },
+          {
+            "id": "ae39d0ba-030e-4c00-b8ec-8311ae4244ee",
+            "position": "1",
+            "body": "2",
+            "sanitized_body": "2",
+            "correct": true,
+            "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+            "updated_at": "2021-07-28 23:29:21.671887 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "A tuba uterina é a principal localização da gestação ectópica, sendo que a região ampolar é o local em que a maioria das gestações ectópicas se localiza na tuba.<div><br></div>",
+              "sanitized_complete": "A tuba uterina é a principal localização da gestação ectópica, sendo que a região ampolar é o local em que a maioria das gestações ectópicas se localiza na tuba.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-11 16:43:37.171025 +0000 UTC",
+              "updated_at": "2023-03-14 00:16:32.463162 +0000 UTC"
+            },
+            "answer_percentage": 79,
+            "answers": 1256
+          },
+          {
+            "id": "ecd530a0-9ff3-432a-acc6-089381c70fb5",
+            "position": "2",
+            "body": "3",
+            "sanitized_body": "3",
+            "correct": false,
+            "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+            "updated_at": "2021-07-28 23:29:21.754084 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-11 16:43:37.16909 +0000 UTC",
+              "updated_at": "2023-03-14 00:16:32.539993 +0000 UTC"
+            },
+            "answer_percentage": 11,
+            "answers": 181
+          },
+          {
+            "id": "df50c22e-df85-492c-80a3-3739043fe079",
+            "position": "3",
+            "body": "4",
+            "sanitized_body": "4",
+            "correct": false,
+            "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+            "updated_at": "2021-07-28 23:29:21.863965 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-11 16:43:37.17362 +0000 UTC",
+              "updated_at": "2023-03-14 00:16:32.984566 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 25
+          },
+          {
+            "id": "c68063b1-ee66-477e-b0e4-382d13f41b8c",
+            "position": "4",
+            "body": "5",
+            "sanitized_body": "5",
+            "correct": false,
+            "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+            "updated_at": "2021-07-28 23:29:21.958794 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "",
+              "sanitized_complete": "",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-12-11 16:43:37.162686 +0000 UTC",
+              "updated_at": "2023-03-14 00:16:33.468174 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 0
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Observe a figura abaixo e responda qual é o número que indica a estrutura onde a gestação ectópica se localiza com maior frequência.<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/D798FA69-063B-371B-EF3F-2B784D0A338C/D798FA69-063B-371B-EF3F-2B784D0A338C-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+        "statement_text": "Observe a figura abaixo e responda qual é o número que indica a estrutura onde a gestação ectópica se localiza com maior frequência.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "ded28f8ee8eeaad1dc8db0b62205ac3f",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-12-11 15:35:06.681236 +0000 UTC",
+        "solution": {
+          "_key": "d632c1d7-00c8-4cd3-9399-1e6b4d403e81",
+          "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div><b>O que o examinador quer saber:</b> Se você sabe qual é a localização mais frequente da gestação ectópica.</div><div><br></div><div>Doc, aproveite essa questão para fixar as porções da tuba uterina representadas na figura abaixo.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/8A8DE454-F730-3C41-76EF-A66F42AD981F/8A8DE454-F730-3C41-76EF-A66F42AD981F-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA BO que o examinador quer saber: Se você sabe qual é a localização mais frequente da gestação ectópica.Doc, aproveite essa questão para fixar as porções da tuba uterina representadas na figura abaixo.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-12-11 16:43:37.395197 +0000 UTC",
+          "updated_at": "2023-03-14 00:16:32.298136 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": false,
+        "solution_video_url": "",
+        "unlisted": false,
+        "slug": "Observe-responda-qual230efc9d9f",
+        "public": true
+      },
+      {
+        "id": "4000127972",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "59e91a3a-245e-4e7b-9881-cd5c9c7eb7dd",
+                "name": "Revalida - Universidade Federal de Mato Grosso - UFMT"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "FE3B6FED-5E6E-9CFE-610F-8826890C3776"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 50,
+            "created_at": "2020-09-24T18:40:45Z",
+            "updated_at": "2020-11-25T03:19:48Z",
+            "location": {
+              "id": "14"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "6187f81937b3484aaa11414d953d8421",
+            "name": "Cirúrgico",
+            "is_master": false,
+            "master_id": "69a08187ffda4b3a937f187ad5ce4af2",
+            "path": "Obstetrícia[$$]Intercorrências obstétricas /obstetrícia patológica[$$]Sangramento primeira metade [$$]Gestação ectópica[$$]Tratamento[$$]Cirúrgico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "f26d6995-61ca-480b-93df-1c6282e1bfca",
+            "position": "0",
+            "body": "Salpingostomia ou ressecção parcial é tratamento radical.",
+            "sanitized_body": "Salpingostomia ou ressecção parcial é tratamento radical.",
+            "correct": false,
+            "created_at": "2020-10-03 14:21:10.48106 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “a” porque salpingostomia ou ressecção parcial é tratamento cirúrgico conservador, e não radical, uma vez que não é realizada a extração da tuba acometida pela gestação ectópica.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “a” porque salpingostomia ou ressecção parcial é tratamento cirúrgico conservador, e não radical, uma vez que não é realizada a extração da tuba acometida pela gestação ectópica.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:25:41.517173 +0000 UTC",
+              "updated_at": "2020-10-20 12:25:42.077572 +0000 UTC"
+            },
+            "answer_percentage": 4,
+            "answers": 47
+          },
+          {
+            "id": "c591e14c-b7d1-4ce4-be31-6c7d69e9acb1",
+            "position": "1",
+            "body": "Salpingectomia é indicada para pacientes com desejo reprodutivo.",
+            "sanitized_body": "Salpingectomia é indicada para pacientes com desejo reprodutivo.",
+            "correct": false,
+            "created_at": "2020-10-03 14:21:10.48106 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “b” porque salpingectomia caracteriza-se pela retirada da tuba uterina acometida, sendo que em mulheres com desejo reprodutivo procura-se optar por tratamentos para gestação ectópica que permitam preservar a tuba.<div><br></div>",
+              "sanitized_complete": "Incorreta a alternativa “b” porque salpingectomia caracteriza-se pela retirada da tuba uterina acometida, sendo que em mulheres com desejo reprodutivo procura-se optar por tratamentos para gestação ectópica que permitam preservar a tuba.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:25:41.531469 +0000 UTC",
+              "updated_at": "2020-10-20 12:25:42.089739 +0000 UTC"
+            },
+            "answer_percentage": 7,
+            "answers": 87
+          },
+          {
+            "id": "f7be06d0-dfd7-40bb-8345-a0f1129eba97",
+            "position": "2",
+            "body": "Salpingostomia laparoscópica é padrão-ouro na tubária íntegra.",
+            "sanitized_body": "Salpingostomia laparoscópica é padrão-ouro na tubária íntegra.",
+            "correct": true,
+            "created_at": "2020-10-03 14:21:10.48106 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “c” porque salpingostomia ou ressecção parcial laparoscópica é tratamento cirúrgico conservador indicado em gestação tubária integra.<div><br></div>",
+              "sanitized_complete": "Correta a alternativa “c” porque salpingostomia ou ressecção parcial laparoscópica é tratamento cirúrgico conservador indicado em gestação tubária integra.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:25:41.512487 +0000 UTC",
+              "updated_at": "2020-10-20 12:25:42.087154 +0000 UTC"
+            },
+            "answer_percentage": 82,
+            "answers": 1069
+          },
+          {
+            "id": "fd15403f-1533-4696-87e9-65199d664d8c",
+            "position": "3",
+            "body": "Salpingectomia é tratamento cirúrgico conservador.",
+            "sanitized_body": "Salpingectomia é tratamento cirúrgico conservador.",
+            "correct": false,
+            "created_at": "2020-10-03 14:21:10.48106 +0000 UTC",
+            "updated_at": "",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “d” salpingectomia caracteriza-se pela retirada da tuba uterina acometida pela gestação ectópica, sendo, portanto, tratamento cirúrgico radical e não conservador.<div><br><div>Gabarito: alternativa C</div><div><br></div></div>",
+              "sanitized_complete": "Incorreta a alternativa “d” salpingectomia caracteriza-se pela retirada da tuba uterina acometida pela gestação ectópica, sendo, portanto, tratamento cirúrgico radical e não conservador.Gabarito: alternativa C",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+              "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+              "author_profile": null,
+              "created_at": "2020-10-20 12:25:41.526942 +0000 UTC",
+              "updated_at": "2020-10-20 12:25:42.077743 +0000 UTC"
+            },
+            "answer_percentage": 8,
+            "answers": 100
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Em virtude de sua crescente incidência e significativos índices de morbidade e mortalidade, a gravidez ectópica é considerada uma verdadeira questão de saúde   pública. O tratamento cirúrgico da gravidez ectópica ainda permanece como modalidade terapêutica importante e muitas vezes necessária. Sobre o tratamento cirúrgico na gravidez ectópica, assinale a afirmativa correta.",
+        "statement_text": "Em virtude de sua crescente incidência e significativos índices de morbidade e mortalidade, a gravidez ectópica é considerada uma verdadeira questão de saúde   pública. O tratamento cirúrgico da gravidez ectópica ainda permanece como modalidade terapêutica importante e muitas vezes necessária. Sobre o tratamento cirúrgico na gravidez ectópica, assinale a afirmativa correta.",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "49a3258dd0be94e8cb7f01bad17260f0",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-10-03 14:21:10.48106 +0000 UTC",
+        "forum_id": "86b6221c-3a41-43cc-b861-c2a848a52eae",
+        "solution": {
+          "_key": "1298b6b7-1892-42ac-a975-66355c1b3ad2",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div><b>O que o examinador quer saber:</b> Se você conhece o tratamento cirúrgico mais indicado nos casos de gestação ectópica.<div><br></div></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: Se você conhece o tratamento cirúrgico mais indicado nos casos de gestação ectópica.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+          "author_email_id": "02ef5d10ac602c0a50415bfc26dd3dc7",
+          "author_profile": {
+            "id": "eaa9e2af-cf11-4963-9cd7-b8c6d52746e5",
+            "full_name": "Ana Souza",
+            "avatar_url": "https://static.accounts.estrategia.com/c34db23e0975e51d74cad9894517085a",
+            "about_me": "Formada em medicina pela Faculdade de Medicina de São José do Rio Preto (FAMERP). Residência médica em Ginecologia e Obstetrícia pelo Hospital das Clínicas da Faculdade de Medicina da USP (HC-FMUSP) e mestrado também pela FMUSP. Foi preceptora do internato da disciplina de Obstetrícia da FMUSP por dois anos e atualmente é médica da clínica obstétrica do HC-FMUSP, onde atua no setor de endocrinopatias na gestação. É também instrutora da disciplina de saúde da mulher da Faculdade de Medicina Albert Einstein.",
+            "social_networks": [
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/profa.anasouza",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/ana-claudia-souza-289380152",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-20 12:25:41.683886 +0000 UTC",
+          "updated_at": "2020-10-20 12:25:42.185403 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127972-720-cmartins_212999_1689775000.mp4",
+        "unlisted": false,
+        "slug": "virtude-sua-crescente530ca61b79",
+        "public": true
+      },
+      {
+        "id": "4000049509",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2017,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "BE8D7197-A516-D28C-0370-179576A090C1"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 100,
+            "created_at": "2020-09-24T18:33:06Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "9b7ac046c92d4a25835edaa0a1907ff6",
+            "name": "Pré-eclâmpsia com sinais de gravidade",
+            "is_master": false,
+            "master_id": "edff42b1fa504dfa8bc57f714db820e2",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Pré-Eclâmpsia[$$]Pré-eclâmpsia com sinais de gravidade",
+            "has_children": false,
+            "nodes": null
+          },
+          {
+            "id": "aaf07c47363c4a6498098081fdb1a65d",
+            "name": "Síndrome HELLP",
+            "is_master": false,
+            "master_id": "959dde807b594b33aa2477014a2ba07d",
+            "path": "Obstetrícia[$$]Doenças associadas à gestação[$$]Distúrbios hipertensivos na gestação (DHEG)[$$]Síndrome HELLP",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "02965d6a-437f-4288-b0f7-d6734e119803",
+            "position": "0",
+            "body": "Administrar sulfato de magnésio e corticoterapia para a maturação pulmonar fetal e iniciar a indução do parto vaginal, após 24 horas da segunda dose do corticoide.",
+            "sanitized_body": "Administrar sulfato de magnésio e corticoterapia para a maturação pulmonar fetal e iniciar a indução do parto vaginal, após 24 horas da segunda dose do corticoide.",
+            "correct": false,
+            "created_at": "2020-09-12 14:18:34.008415 +0000 UTC",
+            "updated_at": "2022-04-09 13:04:21.595806 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “A” e “B”: não se deve adiar a resolução da gestação para administração de corticoide em caso de síndrome HELLP.",
+              "sanitized_complete": "Incorreta a alternativa “A” e “B”: não se deve adiar a resolução da gestação para administração de corticoide em caso de síndrome HELLP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 20:44:35.271065 +0000 UTC"
+            },
+            "answer_percentage": 12,
+            "answers": 469
+          },
+          {
+            "id": "3d198e9c-b31b-498c-a241-b4f914a52530",
+            "position": "1",
+            "body": "prescrever corticoterapia para a maturação pulmonar fetal e iniciar a indução do parto vaginal, após 24 horas da segunda dose do corticoide.",
+            "sanitized_body": "prescrever corticoterapia para a maturação pulmonar fetal e iniciar a indução do parto vaginal, após 24 horas da segunda dose do corticoide.",
+            "correct": false,
+            "created_at": "2020-09-12 14:18:34.008415 +0000 UTC",
+            "updated_at": "2022-04-09 13:04:21.901136 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “A” e “B”: não se deve adiar a resolução da gestação para administração de corticoide em caso de síndrome HELLP.",
+              "sanitized_complete": "Incorreta a alternativa “A” e “B”: não se deve adiar a resolução da gestação para administração de corticoide em caso de síndrome HELLP.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 20:44:35.272726 +0000 UTC"
+            },
+            "answer_percentage": 3,
+            "answers": 116
+          },
+          {
+            "id": "fe3869b4-c798-4516-b310-6012bb08e70c",
+            "position": "2",
+            "body": "Administrar sulfato de magnésio, estabilizar clinicamente a paciente e proceder à resolução da gestação por parto cesáreo.",
+            "sanitized_body": "Administrar sulfato de magnésio, estabilizar clinicamente a paciente e proceder à resolução da gestação por parto cesáreo.",
+            "correct": true,
+            "created_at": "2020-10-02 18:59:53.076106 +0000 UTC",
+            "updated_at": "2022-04-09 13:04:22.203334 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Correta a alternativa “C”: como a paciente apresenta quadro de Síndrome HELLP, a conduta deve ser estabilização hemodinâmica, administração de sulfato de magnésio e, em seguida, a resolução da gestação pela via mais rápida.",
+              "sanitized_complete": "Correta a alternativa “C”: como a paciente apresenta quadro de Síndrome HELLP, a conduta deve ser estabilização hemodinâmica, administração de sulfato de magnésio e, em seguida, a resolução da gestação pela via mais rápida.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 20:44:35.246722 +0000 UTC"
+            },
+            "answer_percentage": 80,
+            "answers": 3115
+          },
+          {
+            "id": "ba010e13-0a98-4429-97a2-2834998c553a",
+            "position": "3",
+            "body": "Iniciar tocólise com nifedipina via oral e prescrever corticoterapia para maturação pulmonar fetal.",
+            "sanitized_body": "Iniciar tocólise com nifedipina via oral e prescrever corticoterapia para maturação pulmonar fetal.",
+            "correct": false,
+            "created_at": "2020-10-02 18:59:53.108237 +0000 UTC",
+            "updated_at": "2022-04-09 13:04:22.503465 +0000 UTC",
+            "topics": [],
+            "solution": {
+              "complete": "Incorreta a alternativa “D”:  o tratamento deve ser focado no quadro de síndrome HELLP e pré-eclâmpsia grave que inclui estabilização hemodinâmica da gestante, administração de sulfato de magnésio e, em seguida, a resolução da gestação pela via mais rápida.",
+              "sanitized_complete": "Incorreta a alternativa “D”:  o tratamento deve ser focado no quadro de síndrome HELLP e pré-eclâmpsia grave que inclui estabilização hemodinâmica da gestante, administração de sulfato de magnésio e, em seguida, a resolução da gestação pela via mais rápida.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+              "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+              "author_profile": null,
+              "created_at": "2020-11-24 20:44:35.249564 +0000 UTC"
+            },
+            "answer_percentage": 5,
+            "answers": 195
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Uma primigesta com 27 anos de idade, na 31ª semana de gestação, procura a emergência obstétrica, queixando-se de cefaleia occipital moderada e persistente há 12 horas. O exame físico revela: palidez cutâneo-mucosa ++/4+; edema de membros inferiores +++/4+; pressão arterial = 145 x 95 mmHg; altura uterina = 30 cm; batimentos cardíacos fetais = 140 bpm, com aceleração transitória presente. Dinâmica: duas  contrações de 30 segundos em 10 minutos. Toque vaginal: colo grosso, posterior, uma polpa digital, bolsa íntegra. Cardiotocografia com padrão tranquilizador. Os resultados   dos exames laboratoriais demonstram: hematócrito = 39% (valor de referência: 36 a 54%); hemoglobina = 13 g/dl (valor de referência: 13,0 a 16,5 g/dl); plaquetas = 65.000/ml    (valor de referência: 130.000 a 450.000/mm³); desidrogenase láctica = 1.500 UI/L (valor de referência: 240 a 480 U/L); aspartato aminotransferase = 105 UI/L (valor de referência: &lt;   34 U/L); proteinúria em fita +++/4+. Em face desse quadro clínico, a conduta adequada    é:",
+        "statement_text": "Uma primigesta com 27 anos de idade, na 31ª semana de gestação, procura a emergência obstétrica, queixando-se de cefaleia occipital moderada e persistente há 12 horas. O exame físico revela: palidez cutâneo-mucosa ++/4+; edema de membros inferiores +++/4+; pressão arterial = 145 x 95 mmHg; altura uterina = 30 cm; batimentos cardíacos fetais = 140 bpm, com aceleração transitória presente. Dinâmica: duas  contrações de 30 segundos em 10 minutos. Toque vaginal: colo grosso, posterior, uma polpa digital, bolsa íntegra. Cardiotocografia com padrão tranquilizador. Os resultados   dos exames laboratoriais demonstram: hematócrito = 39% (valor de referência: 36 a 54%); hemoglobina = 13 g/dl (valor de referência: 13,0 a 16,5 g/dl); plaquetas = 65.000/ml    (valor de referência: 130.000 a 450.000/mm³); desidrogenase láctica = 1.500 UI/L (valor de referência: 240 a 480 U/L); aspartato aminotransferase = 105 UI/L (valor de referência: &lt;   34 U/L); proteinúria em fita +++/4+. Em face desse quadro clínico, a conduta adequada    é:",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "626146ad14e7af2c191e4e998f369ebe",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-12 14:18:34.008415 +0000 UTC",
+        "forum_id": "df9be37c-5dad-4e6a-add1-e402a5686cee",
+        "solution": {
+          "_key": "2d34ea33-6173-4a8f-9930-6f34bd1133ea",
+          "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div>O que o examinador quer saber: se você sabe o diagnóstico da síndrome HELLP.</div><div><br></div><div>A síndrome HELLP caracteriza-se pelo quadro de plaquetopenia, hemólise e aumento das enzimas hepáticas e consiste em uma das formas mais severas de pré-eclâmpsia, com altas taxas de morbimortalidade materna e fetal.</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/95667F2D-F312-69FB-DE66-7BA652F77BF5/95667F2D-F312-69FB-DE66-7BA652F77BF5-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Essa síndrome ocorre com mais frequência no terceiro trimestre e no puerpério. Os principais sintomas são: dor em hipocôndrio direito e epigástrio, mal-estar geral, náuseas e vômitos. É importante lembrar que a hipertensão e a proteinúria podem estar ausentes ou serem apenas ligeiramente anormais. Por outro lado, algumas pacientes podem apresentar vários sinais e sintomas, nenhum deles característico de pré-eclâmpsia grave, por isso, recomenda-se avaliação laboratorial para todas as gestantes com alguns destes sintomas.</div><div><br></div><div>Os fatores de risco para desenvolver síndrome HELLP são: pele branca, mais de 25 anos, multíparas, hipertensão arterial crônica, presença de quadro de pré-eclâmpsia ou eclâmpsia.</div><div><br></div><div>O diagnóstico é feito por meio dos seguintes critérios:</div><div><br></div><div>- Plaquetopenia: &lt; 100.000x109/L;</div><div><br></div><div>- Desidrogenase láctica (DHL): &gt; 600UI/L; e,</div><div><br></div><div>- TGO/TGP: duas vezes mais o nível superior da normalidade.</div><div><br></div><div>Vale lembrar que outros critérios diagnósticos também podem ser considerados. A hemólise pode ser caracterizada pela presença de esquizócitos (fragmento irregular ou em forma de capacete, de mordida ou triângulo) e a disfunção hepática pelo aumento da bilirrubina total.</div><div><br></div><div>Caso se confirme quadro de pré-eclâmpsia grave, iminência de eclâmpsia, eclâmpsia, ou síndrome HELLP, o mais importante na conduta é estabilizar hemodinamicamente a paciente e aplicar sulfato de magnésio a fim de prevenir convulsões</div><div><br></div><div>Além disso, deve-se controlar a hipertensão arterial grave ( a partir de 160x110 mmHg) para prevenir falência cardíaca, infarto agudo do miocárdio e acidente vascular cerebral isquêmico e hemorrágico. O objetivo do uso do anti-hipertensivo é manter a PA entre 140-150/90-100 mmHg. A medicação de escolha para o para controle da hipertensão arterial grave na gestação é a hidralazina, em seguida a nifedipina e, por último, o nitroprussiato de sódio (somente em casos de hipertensão grave refratária).</div><div><br></div><div>A conduta obstétrica nos casos de iminência de eclâmpsia, eclâmpsia, síndrome HELLP, hipertensão grave refrataria ao tratamento, edema agudo de pulmão, diástole reversa da artéria umbilical, cardiotocografia categoria III ou morte fetal é resolução imediata da gestação, de preferência pela via mais rápida.</div><div><br></div><div>Comentários:</div><div><br></div><div><i>A paciente apresenta cefaleia, edema de membros inferiores, hipertensão arterial proteinúria, plaquetopenia ( plaquetas &lt;100 mil) , hemólise ( DHL&gt; 600UI/L) e elevação das enzimas hepáticas ( aspartato aminotransferase 2x o nível superior da normalidade), por tanto tem o diagnóstico de pré-eclâmpsia grave com síndrome HELLP.</i></div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CO que o examinador quer saber: se você sabe o diagnóstico da síndrome HELLP.A síndrome HELLP caracteriza-se pelo quadro de plaquetopenia, hemólise e aumento das enzimas hepáticas e consiste em uma das formas mais severas de pré-eclâmpsia, com altas taxas de morbimortalidade materna e fetal.Essa síndrome ocorre com mais frequência no terceiro trimestre e no puerpério. Os principais sintomas são: dor em hipocôndrio direito e epigástrio, mal-estar geral, náuseas e vômitos. É importante lembrar que a hipertensão e a proteinúria podem estar ausentes ou serem apenas ligeiramente anormais. Por outro lado, algumas pacientes podem apresentar vários sinais e sintomas, nenhum deles característico de pré-eclâmpsia grave, por isso, recomenda-se avaliação laboratorial para todas as gestantes com alguns destes sintomas.Os fatores de risco para desenvolver síndrome HELLP são: pele branca, mais de 25 anos, multíparas, hipertensão arterial crônica, presença de quadro de pré-eclâmpsia ou eclâmpsia.O diagnóstico é feito por meio dos seguintes critérios:- Plaquetopenia: &lt; 100.000x109/L;- Desidrogenase láctica (DHL): &gt; 600UI/L; e,- TGO/TGP: duas vezes mais o nível superior da normalidade.Vale lembrar que outros critérios diagnósticos também podem ser considerados. A hemólise pode ser caracterizada pela presença de esquizócitos (fragmento irregular ou em forma de capacete, de mordida ou triângulo) e a disfunção hepática pelo aumento da bilirrubina total.Caso se confirme quadro de pré-eclâmpsia grave, iminência de eclâmpsia, eclâmpsia, ou síndrome HELLP, o mais importante na conduta é estabilizar hemodinamicamente a paciente e aplicar sulfato de magnésio a fim de prevenir convulsõesAlém disso, deve-se controlar a hipertensão arterial grave ( a partir de 160x110 mmHg) para prevenir falência cardíaca, infarto agudo do miocárdio e acidente vascular cerebral isquêmico e hemorrágico. O objetivo do uso do anti-hipertensivo é manter a PA entre 140-150/90-100 mmHg. A medicação de escolha para o para controle da hipertensão arterial grave na gestação é a hidralazina, em seguida a nifedipina e, por último, o nitroprussiato de sódio (somente em casos de hipertensão grave refratária).A conduta obstétrica nos casos de iminência de eclâmpsia, eclâmpsia, síndrome HELLP, hipertensão grave refrataria ao tratamento, edema agudo de pulmão, diástole reversa da artéria umbilical, cardiotocografia categoria III ou morte fetal é resolução imediata da gestação, de preferência pela via mais rápida.Comentários:A paciente apresenta cefaleia, edema de membros inferiores, hipertensão arterial proteinúria, plaquetopenia ( plaquetas &lt;100 mil) , hemólise ( DHL&gt; 600UI/L) e elevação das enzimas hepáticas ( aspartato aminotransferase 2x o nível superior da normalidade), por tanto tem o diagnóstico de pré-eclâmpsia grave com síndrome HELLP.",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+          "author_email_id": "7d6dfe10d598623eb27e1551832a474b",
+          "author_profile": {
+            "id": "1c436223-fccc-4fcf-8ebf-ec810e58e289",
+            "full_name": "Natalia Carvalho",
+            "avatar_url": "https://static.accounts.estrategia.com/ce55296391ecd6b04223805084567e49",
+            "about_me": "Graduação em Medicina pela Universidade Federal de São Paulo (UNIFESP).\nResidência Médica em Ginecologia, Obstetrícia e Medicina Fetal pela Universidade Federal\nde São Paulo (UNIFESP).\nMestrado e Doutorado pela Universidade Federal de São Paulo (UNIFESP).\nProfessora de Obstetrícia do Estratégia MED.",
+            "social_networks": [
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/natalia.carvalho.37201",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/natcarvalhogo",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "dba45351-e1a8-4570-9576-1e6dcf15f1ba",
+                "profile_social_network_url_path": "https://www.linkedin.com/in/natalia-carvalho-a72b056",
+                "name": "LinkedIn",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/linkedin.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-11-24 20:44:35.437626 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000049509-720.mp4",
+        "unlisted": false,
+        "slug": "primigesta-com-27-anos165506baa19",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 34
+    }
+  }

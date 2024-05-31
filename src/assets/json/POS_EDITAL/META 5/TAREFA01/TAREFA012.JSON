@@ -1,0 +1,372 @@
+{
+    "data": [
+      {
+        "id": "4000127183",
+        "exams": [
+          {
+            "scholarity": "placeholder",
+            "year": 2011,
+            "catalogs": {
+              "duration_id": {
+                "id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                "name": "Não se aplica"
+              },
+              "goal_id": {
+                "id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                "name": "Revalida"
+              },
+              "institution_id": {
+                "id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                "name": "Revalida Nacional - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)"
+              },
+              "jury_id": {
+                "id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                "name": "Não se aplica"
+              },
+              "residency_id": {
+                "id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                "name": "Não se aplica"
+              },
+              "sector_id": {
+                "id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                "name": "Público - Federal"
+              },
+              "specialty_id": {
+                "id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                "name": "Não se aplica"
+              },
+              "subspecialty_id": {
+                "id": "c0fb2a79-d5f3-4686-8eb4-078b329da379",
+                "name": "Não se aplica"
+              }
+            },
+            "number": 1,
+            "complement": "",
+            "remuneration": 0,
+            "open_spaces": 0,
+            "candidates_number": 0,
+            "accepted_candidates_number": 0,
+            "answers_type": "Múltipla escolha",
+            "active": true,
+            "pdfs": [
+              {
+                "type": "EXAM",
+                "url": "D607769F-A8AD-6A1A-7919-E44596BBBEAF"
+              }
+            ],
+            "degree_proof": false,
+            "questions_number": 110,
+            "created_at": "2020-09-02T22:32:52Z",
+            "updated_at": "2020-09-24T15:12:19Z",
+            "location": {
+              "id": "1"
+            },
+            "author_id": "placeholder"
+          }
+        ],
+        "topics": [
+          {
+            "id": "af56b66c0d0745cab3bbcc252cf9ad1b",
+            "name": "Diagnóstico",
+            "is_master": false,
+            "master_id": "7ce81ea1ac0f4867bdaa24ba68a89566",
+            "path": "Pediatria[$$]Reumatologia Pediátrica[$$]Febre Reumática (FR)[$$]Diagnóstico",
+            "has_children": false,
+            "nodes": null
+          }
+        ],
+        "alternatives": [
+          {
+            "id": "4a5acee1-7353-4a9a-97d3-5d571bb972a8",
+            "position": "0",
+            "body": "Artrite idopática juvenil.",
+            "sanitized_body": "Artrite idopática juvenil.",
+            "correct": false,
+            "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+            "updated_at": "2020-10-12 19:15:54.172195 +0000 UTC",
+            "topics": [
+              {
+                "id": "df5488cb95b0484abacf9b3bf2d165b1",
+                "name": "AIJ - Artrite Idiopática Juvenil",
+                "is_master": false,
+                "master_id": "820f1cd1b5ff4c5eac2bf4249f6cbacb",
+                "path": "Pediatria[$$]Reumatologia Pediátrica[$$]AIJ - Artrite Idiopática Juvenil",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Incorreta alternativa “A” porque a artrite Idiopática Juvenil é uma doença de origem autoimune que se manifesta através de artrite, alterações na pele, coração olhos entre outras. O componente articular pode ser oligo ou poliarticular, a febre e as manifestações sistêmicas podem preceder o comprometimento articular em meses ou anos. Pode ocorrer poliserosite, esplenomegalia, linfadenomegalia, mostrando o caráter sistêmico desta patologia. Não é uma doença tão comum em nosso meio como a Febre Reumática e não cursa artrite de caráter migratório como no caso apresentado.",
+              "sanitized_complete": "Incorreta alternativa “A” porque a artrite Idiopática Juvenil é uma doença de origem autoimune que se manifesta através de artrite, alterações na pele, coração olhos entre outras. O componente articular pode ser oligo ou poliarticular, a febre e as manifestações sistêmicas podem preceder o comprometimento articular em meses ou anos. Pode ocorrer poliserosite, esplenomegalia, linfadenomegalia, mostrando o caráter sistêmico desta patologia. Não é uma doença tão comum em nosso meio como a Febre Reumática e não cursa artrite de caráter migratório como no caso apresentado.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:17:50.665824 +0000 UTC",
+              "updated_at": "2020-10-12 19:17:53.53112 +0000 UTC"
+            },
+            "answer_percentage": 10,
+            "answers": 219
+          },
+          {
+            "id": "caafc581-59f0-4142-8cc0-bf3506415102",
+            "position": "1",
+            "body": "Lupus eritematoso sistêmico.",
+            "sanitized_body": "Lupus eritematoso sistêmico.",
+            "correct": false,
+            "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+            "updated_at": "2020-10-12 19:15:54.309766 +0000 UTC",
+            "topics": [
+              {
+                "id": "4f0017488262452fbbcc67ba5b2a1d66",
+                "name": "Lúpus Eritematoso Sistêmico Pediátrico",
+                "is_master": false,
+                "master_id": "85eeef3d4cbe46f4b88b20899f7e15b5",
+                "path": "Clínica Médica[$$]Reumatologia [$$]Doenças da infância [$$]Lúpus Eritematoso Sistêmico Pediátrico",
+                "has_children": false,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Incorreta alternativa “B” porque o lupus eritematoso sistêmico é uma doença crônica multissistêmica que afeta predominantemente mulheres durante seus anos reprodutivos. É caracterizado pela presença de anticorpos antinucleares (FAN). Os órgãos mais atingidos são: a pele e as articulações. Podem ocorrer manifestações neurológicas, nefrite, serosite e citopenias hematológicas. Não é uma doença comum na faixa etária pediátrica e não cursa com artrite migratória.",
+              "sanitized_complete": "Incorreta alternativa “B” porque o lupus eritematoso sistêmico é uma doença crônica multissistêmica que afeta predominantemente mulheres durante seus anos reprodutivos. É caracterizado pela presença de anticorpos antinucleares (FAN). Os órgãos mais atingidos são: a pele e as articulações. Podem ocorrer manifestações neurológicas, nefrite, serosite e citopenias hematológicas. Não é uma doença comum na faixa etária pediátrica e não cursa com artrite migratória.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:17:50.662791 +0000 UTC",
+              "updated_at": "2020-10-12 19:17:53.538328 +0000 UTC"
+            },
+            "answer_percentage": 2,
+            "answers": 38
+          },
+          {
+            "id": "6958bc1d-29ee-454b-8191-3e7c83f54cb3",
+            "position": "2",
+            "body": "Febre reumática.",
+            "sanitized_body": "Febre reumática.",
+            "correct": true,
+            "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+            "updated_at": "2020-10-12 19:15:54.438494 +0000 UTC",
+            "topics": [
+              {
+                "id": "7ce81ea1ac0f4867bdaa24ba68a89566",
+                "name": "Febre Reumática (FR)",
+                "is_master": false,
+                "master_id": "820f1cd1b5ff4c5eac2bf4249f6cbacb",
+                "path": "Pediatria[$$]Reumatologia Pediátrica[$$]Febre Reumática (FR)",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Correta alternativa “C” porque esta paciente apresenta 1 critério maior e dois menores. Se for confirmado o seu contato recente com o estreptococo, pode ser confirmado o diagnóstico de FR. Veja:<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/198D7B36-5197-F2C4-D675-C8F07C586E83/198D7B36-5197-F2C4-D675-C8F07C586E83-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div>",
+              "sanitized_complete": "Correta alternativa “C” porque esta paciente apresenta 1 critério maior e dois menores. Se for confirmado o seu contato recente com o estreptococo, pode ser confirmado o diagnóstico de FR. Veja:",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:17:50.660269 +0000 UTC",
+              "updated_at": "2020-10-12 19:17:53.535438 +0000 UTC"
+            },
+            "answer_percentage": 86,
+            "answers": 1821
+          },
+          {
+            "id": "32deb9e9-0d8a-4b96-b3a2-8cde6bb0ce4b",
+            "position": "3",
+            "body": "Síndrome de Reiter.",
+            "sanitized_body": "Síndrome de Reiter.",
+            "correct": false,
+            "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+            "updated_at": "2020-10-12 19:15:54.566539 +0000 UTC",
+            "topics": [
+              {
+                "id": "c5359866b4a344fe9d3226ded10c34c4",
+                "name": "Artrite reativa",
+                "is_master": false,
+                "master_id": "eca96d1633c34688910eb4a757fbb0c7",
+                "path": "Clínica Médica[$$]Reumatologia [$$]Artropatias inflamatórias[$$]Espondiloartrites[$$]Artrite reativa",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Incorreta alternativa “D” porque a Síndrome de Reiter é uma condição rara que se manifesta preferencialmente em homens caracterizada por poliartrite periférica soronegativa, com duração maior do que um mês, geralmente após quadro infeccioso disentérico ou urogenital.",
+              "sanitized_complete": "Incorreta alternativa “D” porque a Síndrome de Reiter é uma condição rara que se manifesta preferencialmente em homens caracterizada por poliartrite periférica soronegativa, com duração maior do que um mês, geralmente após quadro infeccioso disentérico ou urogenital.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:17:50.665954 +0000 UTC",
+              "updated_at": "2020-10-12 19:17:53.54177 +0000 UTC"
+            },
+            "answer_percentage": 1,
+            "answers": 27
+          },
+          {
+            "id": "c620ffa8-4496-49df-886b-6dbbc0c7576e",
+            "position": "4",
+            "body": "Espondilartrose.",
+            "sanitized_body": "Espondilartrose.",
+            "correct": false,
+            "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+            "updated_at": "2020-10-12 19:15:54.699074 +0000 UTC",
+            "topics": [
+              {
+                "id": "eca96d1633c34688910eb4a757fbb0c7",
+                "name": "Espondiloartrites",
+                "is_master": false,
+                "master_id": "eb92bbbe0d2c4d169ca83e66b5f17ec5",
+                "path": "Clínica Médica[$$]Reumatologia [$$]Artropatias inflamatórias[$$]Espondiloartrites",
+                "has_children": true,
+                "nodes": null
+              }
+            ],
+            "solution": {
+              "complete": "Incorreta alternativa “E” porque a espondiloartrose é uma doença degenerativa que afeta a coluna vertebral de adultos e se relaciona com o desgaste das articulações. Sendo assim é uma condição rara em crianças.",
+              "sanitized_complete": "Incorreta alternativa “E” porque a espondiloartrose é uma doença degenerativa que afeta a coluna vertebral de adultos e se relaciona com o desgaste das articulações. Sendo assim é uma condição rara em crianças.",
+              "complete_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "brief": "",
+              "sanitized_brief": "",
+              "brief_attachments": [
+                {
+                  "type": "AUDIO"
+                }
+              ],
+              "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+              "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+              "author_profile": null,
+              "created_at": "2020-10-12 19:17:50.644343 +0000 UTC",
+              "updated_at": "2020-10-12 19:17:53.53487 +0000 UTC"
+            },
+            "answer_percentage": 0,
+            "answers": 9
+          }
+        ],
+        "answer_type": "MULTIPLE_CHOICE",
+        "statement": "Menina, com seis anos de idade, foi levada pela mãe à consulta em Unidade Básica    de Saúde por apresentar, há uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38ºC) e dor articular, localizada inicialmente no joelho esquerdo, acompanhada de calor e rubor discreto e que, há dois dias, acomete o tornozelo direito.    A mãe informa que, há cerca de seis semanas, a criança apresentou quadro de infecção    de vias aéreas superiores (faringite), que regrediu com o uso de amoxicilina durante cinco dias. Ao exame físico a criança encontrava-se afebril, eupneica, hidratada, com intensa adinamia, hipocorada (+/4), Frequência cardíaca=125 bpm, Pressão arterial= 100 x 60 mmHg. A ausculta cardíaca e a ausculta pulmonar foram normais. Foi observada  hiperemia, calor e dor no tornozelo direito, com limitação de movimentos e a presença    de áreas eritematosas com centros esbranquiçados no tronco e na região proximal de membros superiores e inferiores. Os exames laboratoriais revelaram: hemoglobina=10 g/dL, hematócrito=34%, leucócitos=14000/mm3, velocidade de hemossedimentação = 26mm/h, proteína C reativa= 2,0 ng/ml (valor de referência= &lt;0,1 ng/mL); glicose, ureia e creatinina normais. O eletrocardiograma mostra um prolongamento do intervalo P-R    (0,20 s).&nbsp;<div><br></div><div>Com base no quadro clínico descrito e nos exames complementares realizados, qual o provável diagnóstico dessa criança?</div>",
+        "statement_text": "Menina, com seis anos de idade, foi levada pela mãe à consulta em Unidade Básica    de Saúde por apresentar, há uma semana, intensa adinamia, quadro febril intermitente (temperatura = 38ºC) e dor articular, localizada inicialmente no joelho esquerdo, acompanhada de calor e rubor discreto e que, há dois dias, acomete o tornozelo direito.    A mãe informa que, há cerca de seis semanas, a criança apresentou quadro de infecção    de vias aéreas superiores (faringite), que regrediu com o uso de amoxicilina durante cinco dias. Ao exame físico a criança encontrava-se afebril, eupneica, hidratada, com intensa adinamia, hipocorada (+/4), Frequência cardíaca=125 bpm, Pressão arterial= 100 x 60 mmHg. A ausculta cardíaca e a ausculta pulmonar foram normais. Foi observada  hiperemia, calor e dor no tornozelo direito, com limitação de movimentos e a presença    de áreas eritematosas com centros esbranquiçados no tronco e na região proximal de membros superiores e inferiores. Os exames laboratoriais revelaram: hemoglobina=10 g/dL, hematócrito=34%, leucócitos=14000/mm3, velocidade de hemossedimentação = 26mm/h, proteína C reativa= 2,0 ng/ml (valor de referência= &lt;0,1 ng/mL); glicose, ureia e creatinina normais. O eletrocardiograma mostra um prolongamento do intervalo P-R    (0,20 s). Com base no quadro clínico descrito e nos exames complementares realizados, qual o provável diagnóstico dessa criança?",
+        "labels": [
+          "FINAL_ANSWER_SHEET"
+        ],
+        "author_id": "3e5e66b682e4a95acb65610f0484327e",
+        "difficulty_level": "MEDIUM",
+        "created_at": "2020-09-25 11:54:05.026597 +0000 UTC",
+        "solution": {
+          "_key": "39c0bebf-3721-4381-9a8b-954dd8acf403",
+          "complete": "<div><b>GABARITO: ALTERNATIVA C</b></div><div><br></div>Caro aluno,<div><br><div>Vamos analisar os dados do enunciado:</div><div><br></div><div>•\tMenina de 6 anos,</div><div>•\tFebre:<b> critério menor,</b></div><div>•\tArtrite migratória de grandes articulações: <b>critério maior,</b></div><div>•\tAmigdalite prévia tratada inadequadamente (usou 5 dias de antibiótico),</div><div>•\tTaquicardia,</div><div>•\tLesões de pele hiperemiadas em tronco e membros: critério maior,</div><div>•\tVHS e PCR aumentados: <b>critério menor,</b></div><div>•\tECG com aumento do intervalo P-R: <b>critério menor.</b></div><div><br></div><div>A Febre Reumática (FR) é uma doença prevalente em nosso meio e causa importante de cardiopatia adquirida em idade jovem. Ela consiste numa sequela não supurativa de uma infecção estreptocócica de orofaringe que afeta indivíduos geneticamente predispostos. Ocorre após algumas semanas da infecção e é mais comum entre 5 e 15 anos de vida.&nbsp;</div><div><br></div><div>Veja abaixo os critérios diagnósticos para a Febre Reumática (FR):</div><div><br></div><div>Países de Moderado e alto risco para FR</div><div><br></div></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/A956A7E2-7DA3-A59B-5CD5-E13AAC3FEB1A/A956A7E2-7DA3-A59B-5CD5-E13AAC3FEB1A-400.jpeg\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>É muito importante lembrar que a poliartralgia e monoartite também são considerados como critérios maiores em países de moderado a alto risco de acordo com a última revisão de 2015.</div><div><br></div><div>Outro dado importante é que não podemos considerar artralgia e artrite simultaneamente.</div><div><br></div><div>Vamos às alternativas:</div>",
+          "sanitized_complete": "GABARITO: ALTERNATIVA CCaro aluno,Vamos analisar os dados do enunciado:•\tMenina de 6 anos,•\tFebre: critério menor,•\tArtrite migratória de grandes articulações: critério maior,•\tAmigdalite prévia tratada inadequadamente (usou 5 dias de antibiótico),•\tTaquicardia,•\tLesões de pele hiperemiadas em tronco e membros: critério maior,•\tVHS e PCR aumentados: critério menor,•\tECG com aumento do intervalo P-R: critério menor.A Febre Reumática (FR) é uma doença prevalente em nosso meio e causa importante de cardiopatia adquirida em idade jovem. Ela consiste numa sequela não supurativa de uma infecção estreptocócica de orofaringe que afeta indivíduos geneticamente predispostos. Ocorre após algumas semanas da infecção e é mais comum entre 5 e 15 anos de vida. Veja abaixo os critérios diagnósticos para a Febre Reumática (FR):Países de Moderado e alto risco para FRÉ muito importante lembrar que a poliartralgia e monoartite também são considerados como critérios maiores em países de moderado a alto risco de acordo com a última revisão de 2015.Outro dado importante é que não podemos considerar artralgia e artrite simultaneamente.Vamos às alternativas:",
+          "complete_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "brief": "",
+          "sanitized_brief": "",
+          "brief_attachments": [
+            {
+              "type": "AUDIO"
+            }
+          ],
+          "author_id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+          "author_email_id": "4f14f46683b3b7388a61fe2f05dfee58",
+          "author_profile": {
+            "id": "44cd08bd-64c7-4c60-af22-dc2427744fd8",
+            "full_name": "Andrea Makssoudian",
+            "avatar_url": "https://static.accounts.estrategia.com/20dcd23ddad7aa86f35206fb72182822",
+            "about_me": "Formada em Medicina pela Universidade Federal de São Paulo.\nResidência Médica no Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo\nComplementação Especializada em Endocrinologia Pediátrica pelo Instituto da Criança do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo.\nMédica Pediatra Concursada pela Secretaria de Saúde do Estado de São Paulo.\nPreceptora do Internato em Medicina na área de Pediatria da Faculdade de Medicina do Centro Universitário São Camilo\nCoordenadora da Equipe de Pediatria do Hospital Geral de Carapicuíba.\n\n\n\n\nrqe52349",
+            "social_networks": [
+              {
+                "social_network_id": "28aff5a7-6fad-4468-b404-8c0851a20f62",
+                "profile_social_network_url_path": "https://www.twitter.com/andreamakssoud1",
+                "name": "Twitter",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/twitter.svg"
+              },
+              {
+                "social_network_id": "8e4cd641-73e7-43b4-8081-b2814ae13273",
+                "profile_social_network_url_path": "https://www.facebook.com/andrea.makssoudian.739",
+                "name": "Facebook",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/facebook.svg"
+              },
+              {
+                "social_network_id": "9453ea4c-562d-4148-b58c-f7a7f650d82e",
+                "profile_social_network_url_path": "https://www.instagram.com/dra.andreamakssoud",
+                "name": "Instagram",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/instagram.svg"
+              },
+              {
+                "social_network_id": "c2126461-a800-4e91-acf0-19ec5d857e4c",
+                "profile_social_network_url_path": "https://www.youtube.com/dicasdaped",
+                "name": "YouTube",
+                "icon_url": "https://public-storage.bowie.estrategia.io/redes-sociais/icones/youtube.svg"
+              }
+            ],
+            "anonymized_areas": []
+          },
+          "created_at": "2020-10-12 19:17:50.816464 +0000 UTC",
+          "updated_at": "2020-10-12 19:17:53.648697 +0000 UTC"
+        },
+        "status": {
+          "value": "APPROVED"
+        },
+        "has_video_solution": true,
+        "solution_video_url": "https://questions.videos.estrategia.com/medicina/processadas/4000127183-720.mp4",
+        "unlisted": false,
+        "slug": "Menina-com-seis-anos2188ce280f4",
+        "public": true
+      }
+    ],
+    "pagination": {
+      "page": 0,
+      "total": 26
+    }
+  }
