@@ -10,6 +10,7 @@ const usersModule = () => import('./users/users.module').then(x => x.UsersModule
 const theoreticalCourseModule = () => import('./theoretical-course/theoretical-course.module').then(x => x.TheoreticalCourseModule);
 const practicalCourseModule = () => import('./practical-course/practical-course.module').then(x => x.PracticalCourseModule);
 const questionsCourseModule = () => import('./questions-course/questions-course.module').then(x => x.QuestionsCourseModule);
+const posEditalCourseModule = () => import('./pos-edital-course/pos-edital-course.module').then(x => x.PosEditalCourseModule);
 
 const routes: Routes = [
     { path: '', component: HomeComponent, canActivate: [AuthGuard] },
@@ -17,6 +18,7 @@ const routes: Routes = [
     { path: 'account', loadChildren: accountModule },
     { path: 'theoretical-course', loadChildren: theoreticalCourseModule, canActivate: [AuthGuard] },
     { path: 'practical-course', loadChildren: practicalCourseModule, canActivate: [AuthGuard] },
+    { path: 'pos-edital-course', loadChildren: posEditalCourseModule, canActivate: [AuthGuard] },
     { path: 'questions-course', loadChildren: questionsCourseModule, canActivate: [AuthGuard] },
 
     // otherwise redirect to home
