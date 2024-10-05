@@ -26,7 +26,7 @@
                             [filter]="true"
                             filterBy="label" 
                             [showClear]="true"
-                            (onChange)="onChangeTheme($event)">
+                            (onChange)="onChangeTheme()">
                         </p-dropdown>
                     </div>
                 </div>
@@ -77,7 +77,7 @@
                         offLabel="Detener"
                         [onIcon]="'pi pi-check'" 
                         [offIcon]="'pi pi-stop'" 
-                        (onChange)="initCountDown($event)"/>
+                        (onChange)="initCountDown()"/>
                     <div class="time font-bold text-4xl text-green-500 bg-gray-100 border-gray-200 border-1 border-round p-1" [ngClass]="{'text-red-500': secondsLeft < 60, 'text-orange-500': secondsLeft < 180}">
                         {{ secondsLeft * 1000 | date:'mm:ss' }}
                     </div>

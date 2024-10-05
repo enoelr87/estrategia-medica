@@ -1,9 +1,7 @@
 import { Component } from '@angular/core';
 import { MenuItem } from 'primeng/api';
-import { DataViewLayoutOptions } from 'primeng/dataview';
-import { Subscription, catchError, map, take, timer } from 'rxjs';
+import { Subscription, map, take, timer } from 'rxjs';
 import { UserData } from 'src/app/_models';
-import { AccountService } from 'src/app/_services';
 import { DataService } from 'src/app/_services/data.service';
 
 @Component({
@@ -79,7 +77,7 @@ export class ContentListComponent {
     this.activeItemPatientScript = this.itemsPatientScript[0];
   }
 
-  initCountDown(event: any): void {
+  initCountDown(): void {
     const countdown$ = timer(0, 1000).pipe(
       take(600),
       map(secondsElapsed => 600 - secondsElapsed)
@@ -107,7 +105,7 @@ export class ContentListComponent {
     this.paginateCheckList(0);
   }
 
-  onChangeTheme(event: any) {
+  onChangeTheme() {
     this.paginateCheckList(0);
   }
 

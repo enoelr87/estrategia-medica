@@ -1,4 +1,3 @@
-import { UrlTree } from '@angular/router';
 import { environment } from 'src/environments/environment';
 
 const API_DATA: string = environment.apiUrlData;

@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
 import { ContentListComponent } from './components/content-list/content-list.component';
 import { ViewDataComponent } from './components/view-data/view-data.component';
 import { SharedModule } from '../shared/shared.module';

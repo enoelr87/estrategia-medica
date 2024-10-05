@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { PostAuthResponse, User, UserData } from '../_models';
+import { UserData } from '../_models';
 import { AccountService } from '../_services';
 import { ActivatedRoute, Router } from '@angular/router';
 

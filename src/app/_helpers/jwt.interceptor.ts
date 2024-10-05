@@ -9,7 +9,7 @@ import { AccountService } from '../_services';
 export class JwtInterceptor implements HttpInterceptor {
     constructor(private accountService: AccountService) { }
 
-    intercept(request: HttpRequest<any>, next: HttpHandler): Observable<HttpEvent<any>> {
+    intercept(request: HttpRequest<unknown>, next: HttpHandler): Observable<HttpEvent<unknown>> {
         // add auth header with jwt if user is logged in and request is to the api url
         const user = this.accountService.userValue;
         const isLoggedIn = user && user.token;

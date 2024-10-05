@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { DataViewLayoutOptions } from 'primeng/dataview';
 import { UserData } from 'src/app/_models';
 import { AccountService } from 'src/app/_services';
 
@@ -1750,7 +1749,7 @@ export class ContentListComponent {
       default:
         return null;
     }
-  };
+  }
 
   changeSpecialty(event: any): void {
     if(event.value){

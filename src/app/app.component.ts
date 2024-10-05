@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 import { AccountService } from './_services';
-import { PostAuthResponse, User, UserData } from './_models';
+import { UserData } from './_models';
 
 @Component({ selector: 'app', templateUrl: 'app.component.html' })
 export class AppComponent {

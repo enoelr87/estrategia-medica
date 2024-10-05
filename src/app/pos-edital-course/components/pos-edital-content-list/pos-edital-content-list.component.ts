@@ -690,10 +690,10 @@ export class PosEditalContentListComponent implements AfterViewInit {
       if (this.questionsListData) {
       this.questionsListData.forEach(question => {
   
-        let questionOptions: any[] = [];
+        const questionOptions: any[] = [];
         if (question.answer_type === 'MULTIPLE_CHOICE') {   
         question.alternatives.forEach((alternative: any) => {
-          let alternativeData: any = {
+          const alternativeData: any = {
             correct: alternative.correct ? alternative.correct : question.position == alternative.position,
             text: alternative.sanitized_body ? alternative.sanitized_body : alternative.body,
             comment: alternative.solution ? alternative.solution.sanitized_complete : ''
@@ -741,7 +741,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
   }
   
   consecutiveLetters(n: number): string {
-    let alphabet = 'abcdefghijklmnopqrstuvwxyz';
+    const alphabet = 'abcdefghijklmnopqrstuvwxyz';
     let letter = '';
   
     for (let i = 0; i <= n; i++) {
