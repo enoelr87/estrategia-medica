@@ -1,8 +1,8 @@
 <div class="content-list py-2">
     <p-accordion [(activeIndex)]="activeOption">
         <p-accordionTab header="Filtro">
-            <div class="card p-3 gap-2">
-                <div class="filter flex gap-2">
+            <div class="flex flex-column p-2 sm:p-3 gap-2">
+                <div class="filter flex flex-column md:flex-row gap-2">
                     <div class="area flex align-items-center gap-2">
                         <label class="font-semibold">Area:</label>
                         <p-dropdown 
@@ -31,23 +31,32 @@
                     </div>
                 </div>
                 <div class="check-list-results">
-                    <p-table [value]="allCheckListData" [loading]="loadingAllCheckListData" [tableStyle]="{ 'min-width': '50rem' }">
+                    <p-table 
+                        [value]="allCheckListData" 
+                        [loading]="loadingAllCheckListData"
+                        [rowHover]="true"
+                        responsiveLayout="scroll" 
+                        [scrollable]="true"
+                        [breakpoint]="'960px'"
+                        [tableStyle]="{ 'min-width': '50rem' }">
                         <ng-template pTemplate="header">
                             <tr>
                                 <th>Código</th>
                                 <th>Nome</th>
                                 <th>Area</th>
                                 <th>Tema</th>
-                                <th>Ações</th>
+                                <th alignFrozen="right" pFrozenColumn [frozen]="true">Ações</th>
                             </tr>
                         </ng-template>
                         <ng-template pTemplate="body" let-checkList let-rowIndex="rowIndex">
                             <tr>
-                                <td>{{ checkList.code }}</td>
-                                <td>{{ checkList.name }}</td>
-                                <td>{{ checkList.area.name }}</td>
-                                <td>{{ checkList.theme.name }}</td>
-                                <td><i class="pi pi-eye cursor-pointer hover:text-green-500" (click)="selectCheckList(rowIndex)"></i></td>
+                                <td><span class="p-column-title">Código</span>{{ checkList.code }}</td>
+                                <td><span class="p-column-title">Nome</span>{{ checkList.name }}</td>
+                                <td><span class="p-column-title">Area</span>{{ checkList.area.name }}</td>
+                                <td><span class="p-column-title">Tema</span>{{ checkList.theme.name }}</td>
+                                <td alignFrozen="right" pFrozenColumn [frozen]="true">
+                                    <i class="pi pi-eye cursor-pointer hover:text-green-500 flex justify-content-center" (click)="selectCheckList(rowIndex)"></i>
+                                </td>
                             </tr>
                         </ng-template>
                         <ng-template pTemplate="emptymessage">
@@ -84,12 +93,13 @@
                 </div>
                 <p-tabMenu 
                     [model]="items" 
+                    scrollable="true"
                     [activeItem]="activeItem" 
                     (activeItemChange)="onActiveItemChange($event)" />
                 <div class="content-data">
-                    <div class="initial-data card p-2" *ngIf="activeItem === items[0]">
+                    <div class="initial-data flex flex-column gap-3 surface-card p-2 shadow-1 border-round" *ngIf="activeItem === items[0]">
                         <div class="card-title title text-center font-semibold text-xl py-2">Dados Base</div>
-                        <div class="data-1 flex align-items-center justify-content-around gap-2">
+                        <div class="data-1 flex flex-column md:flex-row align-items-center justify-content-around gap-2">
                             <div class="code flex gap-2">
                                 <div class="title font-semibold">Código:</div>
                                 <div class="data uppercase">{{checkListData?.code}}</div>
@@ -99,7 +109,7 @@
                                 <div class="data capitalize">{{checkListData?.area?.name}}</div>
                             </div>
                         </div>
-                        <div class="data-2 flex align-items-center justify-content-around gap-2">
+                        <div class="data-2 flex flex-column md:flex-row align-items-center justify-content-around gap-2">
                             <div class="theme flex gap-2">
                                 <div class="title font-semibold">Tema:</div>
                                 <div class="data capitalize">{{checkListData?.name}}</div>
@@ -110,9 +120,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="patient-script-data card flex flex-column gap-2 p-2" *ngIf="activeItem === items[1]">
+                    <div class="patient-script-data flex flex-column gap-3 surface-card p-2 shadow-1 border-round" *ngIf="activeItem === items[1]">
                         <p-tabMenu 
-                            [model]="itemsPatientScript" 
+                            [model]="itemsPatientScript"
+                            scrollable="true"
                             [activeItem]="activeItemPatientScript" 
                             (activeItemChange)="onActiveItemPatientScriptChange($event)" />
 
@@ -132,18 +143,18 @@
                             </div>
                         </div>
                     </div>
-                    <div class="participant-instruction-data card p-2" *ngIf="activeItem === items[2]">
+                    <div class="participant-instruction-data flex flex-column gap-3 surface-card p-2 shadow-1 border-round" *ngIf="activeItem === items[2]">
                         <div class="card-title title text-center font-semibold text-xl py-2">Dados de identificação</div>
-                        <div class="data-1 flex align-items-start justify-content-between gap-2">
-                            <div class="description w-4">
+                        <div class="data-1 flex flex-column md:flex-row align-items-start justify-content-between gap-2">
+                            <div class="description w-full md:w-4">
                                 <div class="title font-semibold">Descrição do caso:</div>
                                 <div class="data" [innerHTML]="checkListData?.instruction_sheet?.description_case"></div>
                             </div>
-                            <div class="structure w-4">
+                            <div class="structure w-full md:w-4">
                                 <div class="title font-semibold">Infraestrutura:</div>
                                 <div class="data" [innerHTML]="checkListData?.instruction_sheet?.infrastructure"></div>
                             </div>
-                            <div class="local w-4">
+                            <div class="local w-full md:w-4">
                                 <div class="title font-semibold">Local de atuação:</div>
                                 <div class="data" [innerHTML]="checkListData?.instruction_sheet?.place_performance"></div>
                             </div>

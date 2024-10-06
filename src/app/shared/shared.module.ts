@@ -17,53 +17,62 @@ import { MultiSelectModule } from 'primeng/multiselect';
 import { TableModule } from 'primeng/table';
 import { PaginatorModule } from 'primeng/paginator';
 import { ToggleButtonModule } from 'primeng/togglebutton';
-
+import { InputTextModule } from 'primeng/inputtext';
+import { ToastModule } from 'primeng/toast';
+import { TranslateModule } from '@ngx-translate/core';
+import { DialogService } from 'primeng/dynamicdialog';
 
 @NgModule({
-  declarations: [],
-  imports: [
-    CommonModule,
-    FormsModule,
-    ReactiveFormsModule,
+	declarations: [],
+	imports: [
+		CommonModule,
+		FormsModule,
+		ReactiveFormsModule,
+		TranslateModule,
 
-    DataViewModule,
-    RatingModule,
-    TagModule,
-    ButtonModule,
-    SelectButtonModule,
-    DropdownModule,
-    CardModule,
-    TooltipModule,
-    AccordionModule,
-    RadioButtonModule,
-    DialogModule,
-    TabMenuModule,  
-    MultiSelectModule,
-    TableModule,
-    PaginatorModule,
-    ToggleButtonModule,
-  ],
-  exports: [
-    CommonModule,
-    FormsModule,
-    ReactiveFormsModule,
+		DataViewModule,
+		RatingModule,
+		TagModule,
+		InputTextModule,
+		ButtonModule,
+		SelectButtonModule,
+		DropdownModule,
+		CardModule,
+		TooltipModule,
+		AccordionModule,
+		RadioButtonModule,
+		DialogModule,
+		TabMenuModule,
+		MultiSelectModule,
+		TableModule,
+		PaginatorModule,
+		ToggleButtonModule,
+		ToastModule,
+	],
+	exports: [
+		CommonModule,
+		FormsModule,
+		ReactiveFormsModule,
 
-    DataViewModule,
-    RatingModule,
-    TagModule,
-    ButtonModule,
-    SelectButtonModule,
-    DropdownModule,
-    CardModule,
-    TooltipModule,
-    AccordionModule,
-    RadioButtonModule,
-    DialogModule,
-    TabMenuModule,  
-    MultiSelectModule,
-    TableModule,
-    PaginatorModule,
-    ToggleButtonModule,
-  ]
+		DataViewModule,
+		RatingModule,
+		TagModule,
+		InputTextModule,
+		ButtonModule,
+		SelectButtonModule,
+		DropdownModule,
+		CardModule,
+		TooltipModule,
+		AccordionModule,
+		RadioButtonModule,
+		DialogModule,
+		TabMenuModule,
+		MultiSelectModule,
+		TableModule,
+		PaginatorModule,
+		ToggleButtonModule,
+		ToastModule,
+	],
+	providers: [DialogService],
 })
-export class SharedModule { }
+export class SharedModule {}

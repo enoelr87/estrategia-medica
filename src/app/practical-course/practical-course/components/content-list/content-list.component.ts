@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import { MenuItem } from 'primeng/api';
 import { Subscription, map, take, timer } from 'rxjs';
-import { UserData } from 'src/app/_models';
-import { DataService } from 'src/app/_services/data.service';
+import { UserData } from 'src/app/core/models';
+import { DataService } from 'src/app/core/services/data.service';
 
 @Component({
 	selector: 'app-content-list',

@@ -3,7 +3,7 @@
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
-		"demo": {
+		"revalida-med": {
 			"root": "",
 			"sourceRoot": "src",
 			"projectType": "application",
@@ -13,22 +13,33 @@
 				"build": {
 					"builder": "@angular-devkit/build-angular:browser",
 					"options": {
-						"outputPath": "dist/demo",
+						"outputPath": "dist/revalida-med",
 						"index": "src/index.html",
 						"main": "src/main.ts",
-						"polyfills": "src/polyfills.ts",
+						"polyfills": ["zone.js"],
 						"tsConfig": "src/tsconfig.app.json",
-						"assets": [
-							"src/favicon.ico",
-							"src/assets"
-						],
+						"assets": ["src/favicon.ico", "src/assets", "src/manifest.webmanifest"],
 						"styles": [
-							"src/styles.scss",
-							"node_modules/primeicons/primeicons.css",
-							"node_modules/primeng/resources/themes/lara-light-blue/theme.css",
-							"node_modules/primeng/resources/primeng.min.css"
+							{
+								"input": "./node_modules/primeng/resources/primeng.min.css",
+								"bundleName": "prime",
+								"inject": true
+							},
+							{
+								"input": "./node_modules/primeflex/primeflex.min.css",
+								"bundleName": "primeflex",
+								"inject": true
+							},
+							{
+								"input": "./node_modules/primeicons/primeicons.css",
+								"bundleName": "primeicons",
+								"inject": true
+							},
+							"src/styles.scss"
 						],
-						"scripts": []
+						"scripts": [],
+						"serviceWorker": true,
+						"ngswConfigPath": "ngsw-config.json"
 					},
 					"configurations": {
 						"production": {
@@ -51,54 +62,44 @@
 				},
 				"serve": {
 					"builder": "@angular-devkit/build-angular:dev-server",
-          "options": {
-            "proxyConfig": "src/proxy.conf.json",
-            "buildTarget": "demo:build"
+					"options": {
+						"proxyConfig": "src/proxy.conf.json",
+						"buildTarget": "revalida-med:build"
 					},
 					"configurations": {
-            "production": {
-              "buildTarget": "demo:build:production"
+						"production": {
+							"buildTarget": "revalida-med:build:production"
 						}
 					}
 				},
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
-          "options": {
-            "buildTarget": "demo:build"
+					"options": {
+						"buildTarget": "revalida-med:build"
 					}
 				},
 				"test": {
 					"builder": "@angular-devkit/build-angular:karma",
 					"options": {
 						"main": "src/test.ts",
-						"polyfills": "src/polyfills.ts",
+						"polyfills": ["zone.js"],
 						"tsConfig": "src/tsconfig.spec.json",
 						"karmaConfig": "src/karma.conf.js",
-						"styles": [
-							"styles.css"
-						],
+						"styles": ["styles.css"],
 						"scripts": [],
-						"assets": [
-							"src/favicon.ico",
-							"src/assets"
-						]
+						"assets": ["src/favicon.ico", "src/assets"]
 					}
 				},
 				"lint": {
 					"builder": "@angular-devkit/build-angular:tslint",
 					"options": {
-						"tsConfig": [
-							"src/tsconfig.app.json",
-							"src/tsconfig.spec.json"
-						],
-						"exclude": [
-							"**/node_modules/**"
-						]
+						"tsConfig": ["src/tsconfig.app.json", "src/tsconfig.spec.json"],
+						"exclude": ["**/node_modules/**"]
 					}
 				}
 			}
 		}
-  },
+	},
 	"cli": {
 		"analytics": false
 	}

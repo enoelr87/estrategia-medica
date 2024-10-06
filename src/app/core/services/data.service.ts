@@ -1,13 +1,13 @@
-import { HttpClient } from "@angular/common/http";
-import { Injectable } from "@angular/core";
-import { map, Observable } from "rxjs";
-import { buildURLData } from "../_utils/UrlUtil";
+import { HttpClient } from '@angular/common/http';
+import { Injectable } from '@angular/core';
+import { map, Observable } from 'rxjs';
+import { buildURLData } from '../utils/UrlUtil';
 
 @Injectable({ providedIn: 'root' })
 export class DataService {
 	private apiPathData = buildURLData('/api');
 
-	constructor(private httpClient: HttpClient) { }
+	constructor(private httpClient: HttpClient) {}
 
 	mapResponse(response: Observable<any>) {
 		return response.pipe(map((data: any) => data));
@@ -27,5 +27,4 @@ export class DataService {
 		const response = this.httpClient.get(`${this.apiPathData}/checkList/` + checkListId);
 		return this.mapResponse(response);
 	}
-
 }

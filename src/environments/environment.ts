@@ -3,10 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false,
-  apiUrl: 'http://localhost:4000',
-  apiUrlMaster: 'https://qnucffi-app.apms.io',
-  apiUrlData: 'https://goofy-roasted-opal.glitch.me',
+	production: false,
+	apiUrl: 'http://localhost:4000',
+	apiUrlMaster: 'https://qnucffi-app.apms.io',
+	apiUrlData: 'https://goofy-roasted-opal.glitch.me',
 };
 
 /*

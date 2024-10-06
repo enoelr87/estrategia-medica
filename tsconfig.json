@@ -7,10 +7,10 @@
     "declaration": false,
     "downlevelIteration": true,
     "experimentalDecorators": true,
-    "module": "esnext",
+    "module": "ES2022",
     "moduleResolution": "node",
     "importHelpers": true,
-    "target": "es2015",
+    "target": "ES2022",
     "typeRoots": [
       "node_modules/@types",
       "node_modules/@types/node"
@@ -19,7 +19,7 @@
       "node"
     ],
     "lib": [
-      "es2018",
+      "ES2022",
       "dom"
     ]
   },

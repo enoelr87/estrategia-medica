@@ -1,13 +1,13 @@
 {
-	"name": "angular",
-	"version": "0.0.0",
+	"name": "revalida-med",
+	"version": "1.0.0",
 	"scripts": {
 		"ng": "ng",
-		"start": "ng serve",
+		"start": "ng serve --port 4280",
 		"build": "ng build",
 		"watch": "ng build --watch --configuration development",
 		"test": "ng test",
-		"lint": "eslint . --ext .ts"
+		"lint": "ng lint --quiet --fix"
 	},
 	"private": true,
 	"dependencies": {
@@ -19,13 +19,16 @@
 		"@angular/platform-browser": "^18.2.7",
 		"@angular/platform-browser-dynamic": "^18.2.7",
 		"@angular/router": "^18.2.7",
+		"@angular/service-worker": "^18.2.7",
+		"@ngx-translate/core": "^15.0.0",
+		"@ngx-translate/http-loader": "^8.0.0",
 		"fs": "^0.0.1-security",
-		"primeflex": "^3.3.0",
-		"primeicons": "^6.0.1",
-		"primeng": "^15.3.0",
+		"primeflex": "^3.3.1",
+		"primeicons": "^7.0.0",
+		"primeng": "^17.18.11",
 		"rxjs": "^7.8.0",
 		"tslib": "^2.3.0",
-		"zone.js": "~0.14.10"
+		"zone.js": "^0.14.10"
 	},
 	"devDependencies": {
 		"@angular-devkit/build-angular": "^18.2.7",
@@ -43,7 +46,7 @@
 		"karma-jasmine": "~5.1.0",
 		"karma-jasmine-html-reporter": "~2.0.0",
 		"ngx-build-plus": "^14.0.0",
-		"typescript": "~5.4.5",
+		"typescript": "^5.5.4",
 		"webpack-bundle-analyzer": "^4.5.0"
 	},
 	"browser": {

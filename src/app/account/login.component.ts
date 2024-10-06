@@ -3,7 +3,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { first } from 'rxjs/operators';
 
-import { AccountService, AlertService } from '../_services';
+import { AccountService, AlertService } from '../core/services';
 
 @Component({ templateUrl: 'login.component.html' })
 export class LoginComponent implements OnInit {
@@ -21,7 +21,7 @@ export class LoginComponent implements OnInit {
 
 	ngOnInit() {
 		this.form = this.formBuilder.group({
-			login: ['', Validators.required],
+			email: ['', Validators.required],
 			password: ['', Validators.required],
 		});
 	}
@@ -44,7 +44,7 @@ export class LoginComponent implements OnInit {
 
 		this.loading = true;
 		this.accountService
-			.login(this.f.login.value, this.f.password.value)
+			.login(this.f.email.value, this.f.password.value)
 			.pipe(first())
 			.subscribe(
 				(data) => {
