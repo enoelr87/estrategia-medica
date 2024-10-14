@@ -21,6 +21,9 @@ import { InputTextModule } from 'primeng/inputtext';
 import { ToastModule } from 'primeng/toast';
 import { TranslateModule } from '@ngx-translate/core';
 import { DialogService } from 'primeng/dynamicdialog';
+import { PasswordModule } from 'primeng/password';
+import { MessageService } from 'primeng/api';
+import { BreadcrumbModule } from 'primeng/breadcrumb';
 
 @NgModule({
 	declarations: [],
@@ -48,6 +51,8 @@ import { DialogService } from 'primeng/dynamicdialog';
 		PaginatorModule,
 		ToggleButtonModule,
 		ToastModule,
+		PasswordModule,
+		BreadcrumbModule,
 	],
 	exports: [
 		CommonModule,
@@ -72,7 +77,9 @@ import { DialogService } from 'primeng/dynamicdialog';
 		PaginatorModule,
 		ToggleButtonModule,
 		ToastModule,
+		PasswordModule,
+		BreadcrumbModule,
 	],
-	providers: [DialogService],
+	providers: [DialogService, MessageService],
 })
 export class SharedModule {}

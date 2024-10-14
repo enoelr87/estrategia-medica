@@ -1,0 +1,10 @@
+<div class="header py-2 px-5 flex align-items-center justify-content-between relative lg:static border-bottom-1 surface-border shadow-2">
+    <div class="home-link">
+        
+    </div>
+    <div class="profile-user text-white flex gap-2 align-items-center ">
+        @if(user) {
+            Bem-vindo {{user.first_name}} <p-button icon="mdi mdi-logout" styleClass="p-button-rounded h-2rem w-2rem" (onClick)="logout()" pTooltip="Fechar sessão"></p-button>
+        }
+    </div>
+</div>

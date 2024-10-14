@@ -1,0 +1,31 @@
+.layout-wrapper {
+    .layout-sidebar {
+
+    }
+
+    .layout-breadcrumb {
+        height: 45px;
+    }
+
+    .layout-container {
+		position: relative;
+        left: 60px;
+        width: calc(100% - 60px);
+        height: 100vh;
+    }
+
+    .layout-main {
+        height: calc(100vh - 95px);
+    }
+}
+
+@media screen and (max-width: 960px) {
+    .layout-sidebar {
+        display: none !important;
+    }
+
+    .layout-container {
+        left: 0 !important;
+        width: 100% !important;
+    }
+}

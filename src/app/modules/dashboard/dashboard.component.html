@@ -1,0 +1,32 @@
+<div class="dashboard h-full p-2 sm:p-3 lg:p-4 overflow-hidden">
+	<div class="container-fluid overflow-y-auto h-full">
+		<div class="courses-type flex justify-content-center align-items-center w-full">
+			<p-selectButton 
+				[options]="coursesTypeOptions" 
+				[(ngModel)]="courseType" 
+				optionLabel="label" 
+				optionValue="value"
+				(onChange)="changeCourseType($event)" />
+		</div>
+		<ul class="cards">
+			@for (course of coursesListData; track course) {
+				<li>
+					<a routerLink="{{course.routeLink}}" [queryParams]="{courseId: course.courseId}" class="card">
+						<img src="{{course.image}}" class="card-image" alt="" />
+						<div class="card-overlay">
+							<div class="card-header">
+								<svg class="card-arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>                     
+								<img class="card-thumb" src="assets/images/revalida-success-white.png" alt="" />
+								<div class="card-header-text">
+									<h3 class="card-title">{{course.title}}</h3>            
+									<span class="card-tagline">{{course.tagline}}</span>
+								</div>
+							</div>
+							<p class="card-description">{{course.description}}</p>
+						</div>
+					</a>      
+				</li>
+			}
+		</ul>
+	</div>
+</div>

@@ -2,27 +2,25 @@ import { APP_INITIALIZER, Injector, NgModule, isDevMode } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HTTP_INTERCEPTORS, HttpClient, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
-
-// used to create fake backend
 import { ErrorInterceptor, fakeBackendProvider, JwtInterceptor } from './core/helpers';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HomeComponent } from './home';
 import { SharedModule } from './shared/shared.module';
 import { DialogService } from 'primeng/dynamicdialog';
 import { TranslateLoader, TranslateModule, TranslateService } from '@ngx-translate/core';
 import { appInitializerFactory, HttpTranslateLoader } from './core/utils/app.translation';
 import { ServiceWorkerModule } from '@angular/service-worker';
+import { AngularSvgIconModule } from 'angular-svg-icon';
 
 @NgModule({
-	declarations: [AppComponent, HomeComponent],
+	declarations: [AppComponent],
 	bootstrap: [AppComponent],
 	imports: [
 		BrowserModule,
 		BrowserAnimationsModule,
 		AppRoutingModule,
 		SharedModule,
+		AngularSvgIconModule.forRoot(),
 		TranslateModule.forRoot({
 			defaultLanguage: 'pt',
 			loader: {
