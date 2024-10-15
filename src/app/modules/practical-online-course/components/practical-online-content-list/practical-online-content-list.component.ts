@@ -68,6 +68,14 @@ export class PracticalOnlineContentListComponent {
 				image: 'medicina-familia.jpg',
 				category: 'Medicina de Família e Comunidade Preventiva',
 			},
+			{
+				id: '6',
+				link: 'https://mega.nz/folder/XMB0lArZ#JcUktYJaA22siot3TvDbCg',
+				name: 'Pediatria',
+				description: 'Pediatria',
+				image: 'pediatria.jpg',
+				category: 'Pediatria',
+			},
 		];
 		this.dataListTemp = [...this.dataList];
 	}
