@@ -34,12 +34,12 @@ export class ContentListComponent {
 
 	constructor(private dataService: DataService) {
 		this.getAllAreaList();
-		this.paginateCheckListData(0, 0, 0);
 	}
 
 	getAllAreaList(): void {
 		this.dataService.getAllAreaList().subscribe((data) => {
 			this.allAreaListData = data;
+			this.paginateCheckListData(0, 0, 0);
 		});
 	}
 

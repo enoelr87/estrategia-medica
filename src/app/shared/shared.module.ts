@@ -24,10 +24,13 @@ import { DialogService } from 'primeng/dynamicdialog';
 import { PasswordModule } from 'primeng/password';
 import { MessageService } from 'primeng/api';
 import { BreadcrumbModule } from 'primeng/breadcrumb';
+import { ProgressBarModule } from 'primeng/progressbar';
+
 import { ViewFileComponent } from './components/view-file/view-file.component';
+import { DialogShowInfoComponent } from './components/dialog-show-info/dialog-show-info.component';
 
 @NgModule({
-	declarations: [ViewFileComponent],
+	declarations: [ViewFileComponent, DialogShowInfoComponent],
 	imports: [
 		CommonModule,
 		FormsModule,
@@ -54,6 +57,7 @@ import { ViewFileComponent } from './components/view-file/view-file.component';
 		ToastModule,
 		PasswordModule,
 		BreadcrumbModule,
+		ProgressBarModule,
 	],
 	exports: [
 		CommonModule,
@@ -80,8 +84,10 @@ import { ViewFileComponent } from './components/view-file/view-file.component';
 		ToastModule,
 		PasswordModule,
 		BreadcrumbModule,
+		ProgressBarModule,
 
 		ViewFileComponent,
+		DialogShowInfoComponent,
 	],
 	providers: [DialogService, MessageService],
 })
