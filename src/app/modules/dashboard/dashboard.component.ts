@@ -9,7 +9,7 @@ import { AccountService } from 'src/app/core/services';
 	styleUrl: './dashboard.component.scss',
 })
 export class DashboardComponent {
-	user: UserData;
+	userLogged: UserData;
 
 	coursesTypeOptions: any[] = [
 		{ label: 'Objetiva e Discursiva', value: 'objetiva' },
@@ -21,7 +21,7 @@ export class DashboardComponent {
 	coursesListData: any[] = [];
 
 	constructor(private accountService: AccountService, private router: Router, private activatedRoute: ActivatedRoute) {
-		this.user = this.accountService.userValue;
+		this.userLogged = this.accountService.userLogged;
 		this.coursesList = [
 			{
 				id: '1',

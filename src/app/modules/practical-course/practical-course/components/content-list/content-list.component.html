@@ -41,7 +41,7 @@
                         [tableStyle]="{ 'min-width': '50rem' }">
                         <ng-template pTemplate="header">
                             <tr>
-                                <th>Código</th>
+                                <!--<th>Código</th>-->
                                 <th>Nome</th>
                                 <th>Area</th>
                                 <th>Tema</th>
@@ -50,7 +50,7 @@
                         </ng-template>
                         <ng-template pTemplate="body" let-checkList let-rowIndex="rowIndex">
                             <tr>
-                                <td><span class="p-column-title">Código</span>{{ checkList.code }}</td>
+                                <!--<td><span class="p-column-title">Código</span>{{ checkList.code }}</td>-->
                                 <td><span class="p-column-title">Nome</span>{{ checkList.name }}</td>
                                 <td><span class="p-column-title">Area</span>{{ checkList.area.name }}</td>
                                 <td><span class="p-column-title">Tema</span>{{ checkList.theme.name }}</td>
@@ -100,10 +100,12 @@
                     <div class="initial-data flex flex-column gap-3 surface-card p-2 shadow-1 border-round" *ngIf="activeItem === items[0]">
                         <div class="card-title title text-center font-semibold text-xl py-2">Dados Base</div>
                         <div class="data-1 flex flex-column md:flex-row align-items-center justify-content-around gap-2">
+                            <!--
                             <div class="code flex gap-2">
                                 <div class="title font-semibold">Código:</div>
                                 <div class="data uppercase">{{checkListData?.code}}</div>
                             </div>
+                            -->
                             <div class="area flex gap-2">
                                 <div class="title font-semibold">Área:</div>
                                 <div class="data capitalize">{{checkListData?.area?.name}}</div>

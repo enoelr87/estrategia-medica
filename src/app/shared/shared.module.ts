@@ -24,9 +24,10 @@ import { DialogService } from 'primeng/dynamicdialog';
 import { PasswordModule } from 'primeng/password';
 import { MessageService } from 'primeng/api';
 import { BreadcrumbModule } from 'primeng/breadcrumb';
+import { ViewFileComponent } from './components/view-file/view-file.component';
 
 @NgModule({
-	declarations: [],
+	declarations: [ViewFileComponent],
 	imports: [
 		CommonModule,
 		FormsModule,
@@ -79,6 +80,8 @@ import { BreadcrumbModule } from 'primeng/breadcrumb';
 		ToastModule,
 		PasswordModule,
 		BreadcrumbModule,
+
+		ViewFileComponent,
 	],
 	providers: [DialogService, MessageService],
 })

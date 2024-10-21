@@ -8,7 +8,7 @@ import { AccountService } from 'src/app/core/services';
 	styleUrl: './practical-online-content-list.component.scss',
 })
 export class PracticalOnlineContentListComponent {
-	user: UserData;
+	userLogged: UserData;
 
 	stateOptions: any[] = [];
 	state: string;
@@ -19,7 +19,7 @@ export class PracticalOnlineContentListComponent {
 	dataListTemp: any[] = [];
 
 	constructor(private accountService: AccountService) {
-		this.accountService.user.subscribe((x) => (this.user = x));
+		this.userLogged = this.accountService.userLogged;
 
 		this.stateOptions = [
 			{ label: 'List', value: 'list', icon: 'pi pi-list' },

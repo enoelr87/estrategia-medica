@@ -8,7 +8,7 @@ import { AccountService } from 'src/app/core/services';
 	styleUrls: ['./content-list.component.scss'],
 })
 export class ContentListComponent {
-	user: UserData;
+	userLogged: UserData;
 
 	specialties: any[] = [];
 	selectedSpecialty: any;
@@ -22,7 +22,7 @@ export class ContentListComponent {
 	dataListTemp: any[] = [];
 
 	constructor(private accountService: AccountService) {
-		this.accountService.user.subscribe((x) => (this.user = x));
+		this.userLogged = this.accountService.userLogged;
 
 		this.specialties = [
 			{

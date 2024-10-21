@@ -4,8 +4,7 @@
 
 export const environment = {
 	production: false,
-	apiUrl: 'http://localhost:4000',
-	apiUrlMaster: 'https://qnucffi-app.apms.io',
+	apiUrl: 'http://localhost:3000',
 	apiUrlData: 'https://goofy-roasted-opal.glitch.me',
 };
 

@@ -10,7 +10,7 @@ import { DataService } from 'src/app/core/services/data.service';
 	styleUrls: ['./content-list.component.scss'],
 })
 export class ContentListComponent {
-	user: UserData;
+	userLogged: UserData;
 	items: MenuItem[] | undefined;
 	itemsPatientScript: MenuItem[] | undefined;
 	activeItem: MenuItem | undefined;
@@ -35,9 +35,6 @@ export class ContentListComponent {
 	constructor(private dataService: DataService) {
 		this.getAllAreaList();
 		this.paginateCheckListData(0, 0, 0);
-
-		/*dataService.getCheckListData(10).subscribe((data) => {
-    });*/
 	}
 
 	getAllAreaList(): void {

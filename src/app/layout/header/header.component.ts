@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { UserData } from 'src/app/core/models';
 import { AccountService } from 'src/app/core/services';
+import { AuthService } from 'src/app/core/services/auth.service';
 
 @Component({
 	selector: 'app-header',
@@ -8,13 +9,13 @@ import { AccountService } from 'src/app/core/services';
 	styleUrl: './header.component.scss',
 })
 export class HeaderComponent {
-	user: UserData;
+	userLogged: UserData;
 
-	constructor(private accountService: AccountService) {
-		this.accountService.user.subscribe((x) => (this.user = x));
+	constructor(private accountService: AccountService, private authService: AuthService) {
+		this.userLogged = this.accountService.userLogged;
 	}
 
 	logout() {
-		this.accountService.logout();
+		this.authService.logout();
 	}
 }

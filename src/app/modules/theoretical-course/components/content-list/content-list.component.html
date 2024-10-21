@@ -42,7 +42,7 @@
                         <div class="flex md:flex-column align-items-center md:align-items-end gap-3 md:gap-2">
                             <button pButton icon="mdi mdi-folder-table mdi-18px"
                                 label="Ver Contenido"
-                                [disabled]="ri !==0 && user.role.includes('Testing')"
+                                [disabled]="ri !==0 && userLogged.role.includes('Testing')"
                                 (click)="viewData($event, product.link)"></button>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                     <div class="flex align-items-center justify-content-between">
                         <button pButton icon="mdi mdi-folder-table mdi-18px"
                             label="Ver Contenido"
-                            [disabled]="ri !==0 && user.role.includes('Testing')"
+                            [disabled]="ri !==0 && userLogged.role.includes('Testing')"
                             (click)="viewData($event, product.link)"></button>
                     </div>
                 </div>

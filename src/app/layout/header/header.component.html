@@ -3,8 +3,8 @@
         
     </div>
     <div class="profile-user text-white flex gap-2 align-items-center ">
-        @if(user) {
-            Bem-vindo {{user.first_name}} <p-button icon="mdi mdi-logout" styleClass="p-button-rounded h-2rem w-2rem" (onClick)="logout()" pTooltip="Fechar sessão"></p-button>
+        @if(userLogged) {
+            Bem-vindo {{userLogged.first_name}} <p-button icon="mdi mdi-logout" styleClass="p-button-rounded h-2rem w-2rem" (onClick)="logout()" pTooltip="Fechar sessão"></p-button>
         }
     </div>
 </div>

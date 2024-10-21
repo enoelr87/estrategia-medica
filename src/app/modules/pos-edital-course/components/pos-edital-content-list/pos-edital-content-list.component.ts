@@ -9,7 +9,7 @@ import { AccountService } from 'src/app/core/services';
 	styleUrls: ['./pos-edital-content-list.component.scss'],
 })
 export class PosEditalContentListComponent implements AfterViewInit {
-	user: UserData;
+	userLogged: UserData;
 
 	title = 'pos-edital';
 	jsonFiles: any[] = [];
@@ -31,7 +31,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 	public videoElement: HTMLVideoElement;
 
 	constructor(private httpClient: HttpClient, private accountService: AccountService) {
-		this.accountService.user.subscribe((x) => (this.user = x));
+		this.userLogged = this.accountService.userLogged;
 
 		this.jsonFiles = [
 			{

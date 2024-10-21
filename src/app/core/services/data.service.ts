@@ -5,7 +5,7 @@ import { buildURLData } from '../utils/UrlUtil';
 
 @Injectable({ providedIn: 'root' })
 export class DataService {
-	private apiPathData = buildURLData('/api');
+	private apiPathData = buildURLData('');
 
 	constructor(private httpClient: HttpClient) {}
 

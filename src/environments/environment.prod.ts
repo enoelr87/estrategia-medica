@@ -1,6 +1,5 @@
 export const environment = {
-  production: true,
-  apiUrl: 'http://localhost:4000',
-  apiUrlMaster: 'https://qnucffi-app.apms.io',
-  apiUrlData: 'https://goofy-roasted-opal.glitch.me',
+	production: true,
+	apiUrl: 'https://nodejs-api-test-lt35.onrender.com',
+	apiUrlData: 'https://goofy-roasted-opal.glitch.me',
 };

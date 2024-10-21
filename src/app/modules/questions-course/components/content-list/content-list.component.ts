@@ -9,7 +9,7 @@ import { AccountService } from 'src/app/core/services';
 	styleUrls: ['./content-list.component.scss'],
 })
 export class ContentListComponent {
-	user: UserData;
+	userLogged: UserData;
 
 	title = 'estrategia-med';
 	jsonFiles: any[] = [];
@@ -24,49 +24,49 @@ export class ContentListComponent {
 	activeState: boolean[] = [false, false, false, false, false, false, false, false];
 
 	constructor(private httpClient: HttpClient, private accountService: AccountService) {
-		this.accountService.user.subscribe((x) => (this.user = x));
+		this.userLogged = this.accountService.userLogged;
 
 		this.jsonFiles = [
 			{
 				meta: 'META 1',
 				metaPdf: 'META 1/Meta 1 - Mentoria Revalida 20231.pdf',
 				listContent: [
-					'ATLS Atendimento Inicial e Via Aérea Revisão',
+					'Imunizações Parte I',
 					'Avaliação inicial e Via Aérea',
-					'Diabetes Mellitus Diagnóstico e Metas',
-					'Diabetes Mellitus I',
+					'Ética Médica',
+					'Tuberculose',
 					'Distúrbios hipertensivos na gestação',
+					'Úlceras genitais',
+					'Imunizações Parte II',
+					'ATLS Atendimento Inicial e Via Aérea Revisão',
+					'Ética Médica Revisão',
+					'Tuberculose Revisão',
 					'Distúrbios hipertensivos na gestação Rev',
 					'Doença Ulcerosa Péptica',
-					'Ética Médica',
-					'Ética Médica Revisão',
+					'Diabetes Mellitus Diagnóstico e Metas',
+					'Diabetes Mellitus I',
 					'Hipertensão arterial',
-					'Imunizações Parte I',
-					'Imunizações Parte II',
-					'Tuberculose',
-					'Tuberculose Revisão',
-					'Úlceras genitais',
 				],
 				listFiles: [
+					'META 1/Imunizações Parte I/Imunizações Parte I.json',
+					'META 1/Avaliação inicial e Via Aérea/Avaliação inicial e Via Aérea.json',
+					'META 1/Ética Médica/Ética Médica.json',
+					'META 1/Tuberculose/Tuberculose.json',
+					'META 1/Distúrbios hipertensivos na gestação/Distúrbios hipertensivos na gestação.json',
+					'META 1/Úlceras genitais/Úlceras genitais.json',
+					'META 1/Imunizações Parte II/Imunizações Parte II.json',
 					'META 1/ATLS Atendimento Inicial e Via Aérea Revisão/ATLS Atendimento Inicial e Via Aérea Revisão1.json',
 					'META 1/ATLS Atendimento Inicial e Via Aérea Revisão/ATLS Atendimento Inicial e Via Aérea Revisão2.json',
-					'META 1/Avaliação inicial e Via Aérea/Avaliação inicial e Via Aérea.json',
-					'META 1/Diabetes Mellitus Diagnóstico e Metas/Diabetes Mellitus Diagnóstico e Metas.json',
-					'META 1/Diabetes Mellitus I/Diabetes Mellitus I.json',
-					'META 1/Distúrbios hipertensivos na gestação/Distúrbios hipertensivos na gestação.json',
+					'META 1/Ética Médica Revisão/Ética Médica Revisão1.json',
+					'META 1/Ética Médica Revisão/Ética Médica Revisão2.json',
+					'META 1/Tuberculose Revisão/Tuberculose Revisão.json',
+					'META 1/Tuberculose Revisão/Tuberculose Revisão2.json',
 					'META 1/Distúrbios hipertensivos na gestação Rev/Distúrbios hipertensivos na gestação Rev.json',
 					'META 1/Distúrbios hipertensivos na gestação Rev/Distúrbios hipertensivos na gestação Rev2.json',
 					'META 1/Doença Ulcerosa Péptica/Doença Ulcerosa Péptica.json',
-					'META 1/Ética Médica/Ética Médica.json',
-					'META 1/Ética Médica Revisão/Ética Médica Revisão1.json',
-					'META 1/Ética Médica Revisão/Ética Médica Revisão2.json',
+					'META 1/Diabetes Mellitus Diagnóstico e Metas/Diabetes Mellitus Diagnóstico e Metas.json',
+					'META 1/Diabetes Mellitus I/Diabetes Mellitus I.json',
 					'META 1/Hipertensão arterial/Hipertensão arterial.json',
-					'META 1/Imunizações Parte I/Imunizações Parte I.json',
-					'META 1/Imunizações Parte II/Imunizações Parte II.json',
-					'META 1/Tuberculose/Tuberculose.json',
-					'META 1/Tuberculose Revisão/Tuberculose Revisão.json',
-					'META 1/Tuberculose Revisão/Tuberculose Revisão2.json',
-					'META 1/Úlceras genitais/Úlceras genitais.json',
 				],
 			},
 			{
@@ -839,7 +839,6 @@ export class ContentListComponent {
 		this.activeContent = content;
 
 		this.activeState[pos] = false;
-		console.log(listContent);
 
 		listContent.forEach((file) => this.readFileContent(file));
 	}

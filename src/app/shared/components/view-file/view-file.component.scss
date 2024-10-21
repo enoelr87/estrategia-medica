@@ -1,0 +1,28 @@
+.view-file {
+	.toolbar {
+		line-height: 0;
+		color: white;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.pdf-body {
+		height: 70vh;
+		width: 75vw;
+	}
+
+	.txt-viewer-container{
+		overflow-x: scroll;
+	}
+
+	.viewer-size {
+		height: 70vh;
+		width: 75vw;
+	}
+
+	.txt-viewer {
+		white-space: pre-wrap;
+		word-wrap: break-word;
+	}
+}

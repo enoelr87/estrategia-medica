@@ -2,7 +2,7 @@ import { APP_INITIALIZER, Injector, NgModule, isDevMode } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HTTP_INTERCEPTORS, HttpClient, provideHttpClient, withInterceptorsFromDi } from '@angular/common/http';
-import { ErrorInterceptor, fakeBackendProvider, JwtInterceptor } from './core/helpers';
+import { ErrorInterceptor, JwtInterceptor } from './core/helpers';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SharedModule } from './shared/shared.module';
@@ -41,8 +41,6 @@ import { AngularSvgIconModule } from 'angular-svg-icon';
 		{ provide: APP_INITIALIZER, useFactory: appInitializerFactory, deps: [TranslateService, Injector], multi: true },
 		{ provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
 		{ provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
-		// provider used to create fake backend
-		fakeBackendProvider,
 		DialogService,
 		provideHttpClient(withInterceptorsFromDi()),
 	],
