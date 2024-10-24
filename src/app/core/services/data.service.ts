@@ -13,6 +13,16 @@ export class DataService {
 		return response.pipe(map((data: any) => data));
 	}
 
+	getAllUsers(): Observable<any> {
+		const response = this.httpClient.get(`${this.apiPathData}/users`);
+		return this.mapResponse(response);
+	}
+
+	getUserData(userId: string): Observable<any> {
+		const response = this.httpClient.get(`${this.apiPathData}/users/` + userId);
+		return this.mapResponse(response);
+	}
+
 	getAllAreaList(): Observable<any> {
 		const response = this.httpClient.get(`${this.apiPathData}/areaList`);
 		return this.mapResponse(response);

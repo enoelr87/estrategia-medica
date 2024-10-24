@@ -743,9 +743,9 @@ export class PosEditalContentListComponent implements AfterViewInit {
 		this.activeOptionQuestion = optionQuestion;
 		if (optionQuestion) {
 			if (optionQuestion.correct) {
-				this.textCheckButtons[question] = 'Respuesta Correcta';
+				this.textCheckButtons[question] = 'Resposta Correta';
 			} else {
-				this.textCheckButtons[question] = 'Respuesta Incorrecta';
+				this.textCheckButtons[question] = 'Resposta Incorreta';
 			}
 		}
 	}

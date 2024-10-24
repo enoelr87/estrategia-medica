@@ -11,6 +11,7 @@ import { TranslateLoader, TranslateModule, TranslateService } from '@ngx-transla
 import { appInitializerFactory, HttpTranslateLoader } from './core/utils/app.translation';
 import { ServiceWorkerModule } from '@angular/service-worker';
 import { AngularSvgIconModule } from 'angular-svg-icon';
+import { AppUpdateService } from './core/injects/app-update.service';
 
 @NgModule({
 	declarations: [AppComponent],
@@ -42,7 +43,12 @@ import { AngularSvgIconModule } from 'angular-svg-icon';
 		{ provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
 		{ provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
 		DialogService,
+		AppUpdateService,
 		provideHttpClient(withInterceptorsFromDi()),
 	],
 })
-export class AppModule {}
+export class AppModule {
+	constructor(app: AppUpdateService) {
+		app.init();
+	}
+}

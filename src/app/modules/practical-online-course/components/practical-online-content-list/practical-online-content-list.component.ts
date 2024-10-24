@@ -22,8 +22,8 @@ export class PracticalOnlineContentListComponent {
 		this.userLogged = this.accountService.userLogged;
 
 		this.stateOptions = [
-			{ label: 'List', value: 'list', icon: 'pi pi-list' },
-			{ label: 'Grid', value: 'grid', icon: 'pi pi-microsoft' },
+			{ label: 'Lista', value: 'list', icon: 'pi pi-list' },
+			{ label: 'Malha', value: 'grid', icon: 'pi pi-microsoft' },
 		];
 		this.state = 'list';
 

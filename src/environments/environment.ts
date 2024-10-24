@@ -4,6 +4,7 @@
 
 export const environment = {
 	production: false,
+	timeChecks: 5 * 60 * 1000,
 	apiUrl: 'http://localhost:3000',
 	apiUrlData: 'https://goofy-roasted-opal.glitch.me',
 };
