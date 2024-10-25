@@ -20,7 +20,7 @@ export class ViewFileComponent {
 	}
 
 	handleRenderPdf(data: any): void {
-		const url = window.location.origin + data;
+		const url = data;
 		PDFObject.embed(url, '#pdfViewContainer' + this.indexNro());
 	}
 }
