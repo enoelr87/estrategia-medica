@@ -149,7 +149,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 3',
-				metaPdf: 'META 3/Meta 3 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 3/Meta 3 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -215,7 +215,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 4',
-				metaPdf: 'META 4/Meta 4 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 4/Meta 4 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -288,7 +288,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 5',
-				metaPdf: 'META 5/Meta 5 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 5/Meta 5 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -356,7 +356,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 6',
-				metaPdf: 'META 6/Meta 6 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 6/Meta 6 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -419,7 +419,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 7',
-				metaPdf: 'META 7/Meta 7 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 7/Meta 7 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -494,7 +494,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 8',
-				metaPdf: 'META 8/Meta 8 - Pós-Edital Revalida INEP 20231.pdf',
+				metaPdf: 'META 8/Meta 8 - Pos-Edital Revalida INEP 20231.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
@@ -558,7 +558,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 			},
 			{
 				meta: 'META 9',
-				metaPdf: 'META 9/Meta 9 - Pós-Edital Revalida.pdf',
+				metaPdf: 'META 9/Meta 9 - Pos-Edital Revalida.pdf',
 				listContent: [
 					'TAREFA01',
 					'TAREFA02',
