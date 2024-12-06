@@ -793,7 +793,7 @@ export class ContentListComponent {
 	ngOnInit(): void {}
 
 	readFileContent(file: string): void {
-		this.httpClient.get('https://enoelr87.github.io/course-storage/EDITAL/' + file).subscribe((jsonData: any) => {
+		this.httpClient.get('https://course-storage.netlify.app/EDITAL/' + file).subscribe((jsonData: any) => {
 			this.questionsListData = jsonData.data;
 			if (this.questionsListData) {
 				this.questionsListData.forEach((question) => {

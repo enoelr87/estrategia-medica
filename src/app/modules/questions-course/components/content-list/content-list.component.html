@@ -5,10 +5,10 @@
             [(selected)]="activeState[l]">
             <div class="content-data flex flex-1 flex-column md:flex-row gap-3 w-full">
                 <div class="meta-pdf w-full md:w-7 md:h-screen" [ngClass]="{'disabled': l >= 1 && userLogged.role.includes('Testing')}">
-                    <app-view-file [indexNro]="l" [pdfUrl]="'https://enoelr87.github.io/course-storage/EDITAL/' + json.metaPdf"></app-view-file>
+                    <app-view-file [indexNro]="l" [pdfUrl]="'https://course-storage.netlify.app/EDITAL/' + json.metaPdf"></app-view-file>
                     <!--<a class="card text-center w-full my-2 mx-0 px-0 py-3 cursor-pointer hover:text-blue-500 hover:bg-gray-200 hover:text-bold" 
                         [ngClass]="{'disabled': l >= 1 && userLogged.role.includes('Testing')}" target="_blank"
-                        href="https://enoelr87.github.io/course-storage/EDITAL/{{json.metaPdf}}">{{json.metaPdf}}</a>-->
+                        href="https://course-storage.netlify.app/EDITAL/{{json.metaPdf}}">{{json.metaPdf}}</a>-->
                 </div>
                 <div class="content-list w-full md:w-5">
                     <div *ngFor="let content of json.listContent; let i=index" class="list-content" [ngClass]="{'disabled': i >= 1 && userLogged.role.includes('Testing')}">
@@ -28,9 +28,9 @@
     <p class="font-bold text-lg ">Lista de questões a resolver:</p>
     <p><b>Tema:</b> {{activeContent}}</p>
     <p>
-        <!--<app-view-file [indexNro]="0" [pdfUrl]="'https://enoelr87.github.io/course-storage/EDITAL/' + activeMeta + '/' + activeContent + '/' + activeContent + '.pdf'"></app-view-file>-->
+        <!--<app-view-file [indexNro]="0" [pdfUrl]="'https://course-storage.netlify.app/EDITAL/' + activeMeta + '/' + activeContent + '/' + activeContent + '.pdf'"></app-view-file>-->
         <a class="card text-center w-full my-2 mx-0 px-0 py-3 cursor-pointer hover:text-blue-500 hover:bg-gray-200 hover:text-bold" target="_blank"
-        href="https://enoelr87.github.io/course-storage/EDITAL/{{activeMeta}}/{{activeContent}}/{{activeContent}}.pdf">{{activeContent}} PDF</a>
+        href="https://course-storage.netlify.app/EDITAL/{{activeMeta}}/{{activeContent}}/{{activeContent}}.pdf">{{activeContent}} PDF</a>
     </p>
     <div class="card-container">
         <div *ngFor="let question of questionsListFormatted; let i=index" class="question border-1 border-200 border-round p-2 m-2 w-full">

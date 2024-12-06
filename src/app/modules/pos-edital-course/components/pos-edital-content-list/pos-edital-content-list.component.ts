@@ -673,7 +673,7 @@ export class PosEditalContentListComponent implements AfterViewInit {
 	}
 
 	readFileContent(file: string): void {
-		this.httpClient.get('https://enoelr87.github.io/course-storage/POS_EDITAL/' + file).subscribe((jsonData: any) => {
+		this.httpClient.get('https://course-storage.netlify.app/POS_EDITAL/' + file).subscribe((jsonData: any) => {
 			this.questionsListData = jsonData.data;
 			if (this.questionsListData) {
 				this.questionsListData.forEach((question) => {
