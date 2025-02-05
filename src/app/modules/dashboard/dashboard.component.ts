@@ -73,6 +73,16 @@ export class DashboardComponent {
 				routeLink: '/practical-course',
 				courseType: 'clinica',
 			},
+			{
+				id: '6',
+				courseId: '6',
+				image: 'https://imgv2-2-f.scribdassets.com/img/document/702484639/original/2a444840ac/1724199338?v=1',
+				title: 'Curso Reta Final',
+				tagline: 'Curso Reta Final',
+				description: 'Curso Reta Final',
+				routeLink: '/final-rect-course',
+				courseType: 'objetiva',
+			},
 		];
 		this.coursesListData = this.coursesList.filter((course) => course.courseType === this.courseType);
 	}

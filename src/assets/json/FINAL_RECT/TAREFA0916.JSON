@@ -1,0 +1,2859 @@
+{
+    "data": [
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 5,
+                    "answers": 21,
+                    "body": "Glaucoma agudo.",
+                    "correct": false,
+                    "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+                    "id": "fcfb14dd-1a03-4197-a053-fa3546c9f90b",
+                    "position": "0",
+                    "sanitized_body": "Glaucoma agudo.",
+                    "solution": {
+                        "alternative_id": "fcfb14dd-1a03-4197-a053-fa3546c9f90b",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. O glaucoma agudo faz diagnóstico diferencial com a uveíte anterior. Um dado da questão que ajuda a diferenciar as patologias é observar como está a pupila. No glaucoma agudo a pupila está em média midríase, na uveíte anterior ela encontra-se em miose.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-13 23:38:30.219995 +0000 UTC",
+                        "id": "3d7a7013-3709-4dcd-9e8b-3aed98652fe6",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. O glaucoma agudo faz diagnóstico diferencial com a uveíte anterior. Um dado da questão que ajuda a diferenciar as patologias é observar como está a pupila. No glaucoma agudo a pupila está em média midríase, na uveíte anterior ela encontra-se em miose.",
+                        "updated_at": "2020-11-26 12:53:13.498558 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "7770ad2593244cbaa2514661bcf3347f",
+                            "master_id": "239578a32b0549b388011be847a6969a",
+                            "name": "Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Glaucoma[$$]Glaucoma Primário de Ângulo Fechado[$$]Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 01:29:11.503574 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 1,
+                    "answers": 5,
+                    "body": "Conjuntivite.",
+                    "correct": false,
+                    "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+                    "id": "a1feb5cd-266b-40ba-ba78-e5e2e4960c83",
+                    "position": "1",
+                    "sanitized_body": "Conjuntivite.",
+                    "solution": {
+                        "alternative_id": "a1feb5cd-266b-40ba-ba78-e5e2e4960c83",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A conjuntivite também pode se apresentar com olho vermelho. Porém,  presença de secreção é um sinal característico.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-13 23:38:30.123336 +0000 UTC",
+                        "id": "d2afae2d-9bf0-4fcc-884c-63c93134c988",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A conjuntivite também pode se apresentar com olho vermelho. Porém,  presença de secreção é um sinal característico.",
+                        "updated_at": "2020-11-26 12:53:13.491535 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": true,
+                            "id": "1b0a092c0173488a8a5b05818367da47",
+                            "master_id": "61541c30a7884fcb829b2cd62abd6477",
+                            "name": "Conjuntivites",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Conjuntiva[$$]Conjuntivites"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 01:29:11.56787 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 91,
+                    "answers": 414,
+                    "body": "Uveíte anterior.",
+                    "correct": true,
+                    "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+                    "id": "87b73eca-837f-4f2c-81f9-7067db68b851",
+                    "position": "2",
+                    "sanitized_body": "Uveíte anterior.",
+                    "solution": {
+                        "alternative_id": "87b73eca-837f-4f2c-81f9-7067db68b851",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Hiperemia unilateral, dor, embaçamento e miose falam a favor de uveíte anterior.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-13 23:38:30.230085 +0000 UTC",
+                        "id": "8055ee5b-3239-405a-a9d1-1e1b782b008e",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Hiperemia unilateral, dor, embaçamento e miose falam a favor de uveíte anterior. ",
+                        "updated_at": "2020-11-26 12:53:13.496504 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 01:29:11.639944 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 11,
+                    "body": "Esclerite.",
+                    "correct": false,
+                    "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+                    "id": "c6f7eb85-8b1d-4a95-b3f2-156a013dda28",
+                    "position": "3",
+                    "sanitized_body": "Esclerite.",
+                    "solution": {
+                        "alternative_id": "c6f7eb85-8b1d-4a95-b3f2-156a013dda28",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A esclerite é uma inflamação que acomete toda a espessura da esclera, sendo destrutiva e com risco à visão. Apresenta-se com dor intensa, que pode despertar o paciente pela manhã, fotofobia e lacrimejamento. Placas hiperêmicas desenvolvem-se profundamente abaixo da conjuntiva bulbar e têm aspecto mais violáceo. Miose não é um sinal encontrado na esclerite.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-13 23:38:30.139472 +0000 UTC",
+                        "id": "867fdce5-de87-40f1-bb86-bdae81944f34",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A esclerite é uma inflamação que acomete toda a espessura da esclera, sendo destrutiva e com risco à visão. Apresenta-se com dor intensa, que pode despertar o paciente pela manhã, fotofobia e lacrimejamento. Placas hiperêmicas desenvolvem-se profundamente abaixo da conjuntiva bulbar e têm aspecto mais violáceo. Miose não é um sinal encontrado na esclerite. ",
+                        "updated_at": "2020-11-26 12:53:13.495451 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "ff0528ae3cc7458dbd6649e3f1815420",
+                            "master_id": "8d97de3219a14d4cbd1ddbe421ea8871",
+                            "name": "Esclerite Anterior",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Episclerite e Esclerite[$$]Esclerite Anterior"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 01:29:11.700206 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 1,
+                    "answers": 5,
+                    "body": "Catarata.",
+                    "correct": false,
+                    "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+                    "id": "e8d9e063-7a22-47cf-bd8b-e3adb5c6a2af",
+                    "position": "4",
+                    "sanitized_body": "Catarata.",
+                    "solution": {
+                        "alternative_id": "e8d9e063-7a22-47cf-bd8b-e3adb5c6a2af",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A catarata não entra no diagnóstico diferencial de olho vermelho. É uma opacificação do cristalino, que pode ser decorrente da idade, trauma ou doenças sistêmicas.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-13 23:38:30.22005 +0000 UTC",
+                        "id": "003749da-f853-4b4f-95d6-d98551dbcbab",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A catarata não entra no diagnóstico diferencial de olho vermelho. É uma opacificação do cristalino, que pode ser decorrente da idade, trauma ou doenças sistêmicas. ",
+                        "updated_at": "2020-11-26 12:53:13.503617 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "54d83392489443a5b6d63b617ae9e14b",
+                            "master_id": "3dc84a1773f1401a8c660b058d54f5a4",
+                            "name": "Catarata Senil",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Córnea e Cristalino[$$]Cristalino[$$]Catarata Senil"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 01:29:11.761629 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "kamilan1989@gmail.com",
+            "correct_answer_percentage": 91,
+            "created_at": "2020-09-15 00:44:53.708241 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "808427dd-3143-4ced-8656-a105e6b9a056",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-07T12:09:26Z",
+                    "degree_proof": false,
+                    "id": "4000001402",
+                    "location": {
+                        "id": "24"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "31293557-7CB8-C0CC-3D4E-CF31357B668B"
+                        }
+                    ],
+                    "questions_number": 50,
+                    "scholarity": "placeholder",
+                    "updated_at": "2020-11-26T11:25:23Z",
+                    "year": 2014
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000088589",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Jorge-vem-consultorio44e85fe133",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>O objetivo do examinador é avaliar se o candidato sabe diagnosticar um quadro de uveíte anterior.  Na uveíte anterior o sítio primário da inflamação é o segmento anterior do olho (câmara anterior). Apresenta-se subitamente com dor ocular unilateral, fotofobia, hiperemia ocular e lacrimejamento. Além disso, o paciente pode apresentar miose contínua (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso.&nbsp;</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-13 23:38:32.082032 +0000 UTC",
+                "id": "de9c6e80-a1ed-4c70-b8f9-1fa51985dc6b",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CO objetivo do examinador é avaliar se o candidato sabe diagnosticar um quadro de uveíte anterior.  Na uveíte anterior o sítio primário da inflamação é o segmento anterior do olho (câmara anterior). Apresenta-se subitamente com dor ocular unilateral, fotofobia, hiperemia ocular e lacrimejamento. Além disso, o paciente pode apresentar miose contínua (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso. ",
+                "updated_at": "2020-11-26 12:53:13.576491 +0000 UTC",
+                "video_solution_id": "b8be2ec2-f81e-45e7-a806-ed825b5c7f96"
+            },
+            "statement": "Jorge vem ao consultório com queixa ocular de embaçamento visual progressivo e dor leve em um dos olhos, apresentando, ao exame, hiperemia da conjuntiva mais intensa em volta da córnea (perilimbar), ausência de secreção e pupila em miose. Estes achados sugerem o diagnóstico de:",
+            "statement_text": "Jorge vem ao consultório com queixa ocular de embaçamento visual progressivo e dor leve em um dos olhos, apresentando, ao exame, hiperemia da conjuntiva mais intensa em volta da córnea (perilimbar), ausência de secreção e pupila em miose. Estes achados sugerem o diagnóstico de:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-14 12:36:49.76634 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000088589-720.mp4"
+                    }
+                ],
+                "id": "b8be2ec2-f81e-45e7-a806-ed825b5c7f96",
+                "identifier": "",
+                "question_id": "4000088589"
+            },
+            "video_solution_id": "b8be2ec2-f81e-45e7-a806-ed825b5c7f96"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 13,
+                    "answers": 28,
+                    "body": "<div>Doença de Chron</div>",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+                    "id": "4571ac50-c028-4198-a7ab-fdf51ed8fe1d",
+                    "position": "0",
+                    "sanitized_body": "Doença de Chron",
+                    "solution": {
+                        "alternative_id": "4571ac50-c028-4198-a7ab-fdf51ed8fe1d",
+                        "author_email": "taysa.moreira@estrategiamed.com.br",
+                        "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>A alternativa “a” está incorreta</b> porque pacientes com doença de Crohn não têm maior prevalência de HLA-B27 do que a população geral (em torno de 8%). No entanto, dentre aqueles com HLA-B27 o risco de desenvolver uma espondiloartrite é 7 a 10 vezes maior do que naqueles sem o HLA.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-23 15:03:48.964309 +0000 UTC",
+                        "id": "171303ac-07db-4729-a3ec-4887fc616278",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A alternativa “a” está incorreta porque pacientes com doença de Crohn não têm maior prevalência de HLA-B27 do que a população geral (em torno de 8%). No entanto, dentre aqueles com HLA-B27 o risco de desenvolver uma espondiloartrite é 7 a 10 vezes maior do que naqueles sem o HLA. ",
+                        "updated_at": "2020-11-23 15:04:04.211154 +0000 UTC"
+                    },
+                    "updated_at": "2020-12-05 12:36:49.889829 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 78,
+                    "answers": 175,
+                    "body": "<div>Uveíte anterior idiopática</div>",
+                    "correct": true,
+                    "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+                    "id": "f341e31a-e03e-4d67-8ebf-5a77879e9197",
+                    "position": "1",
+                    "sanitized_body": "Uveíte anterior idiopática",
+                    "solution": {
+                        "alternative_id": "f341e31a-e03e-4d67-8ebf-5a77879e9197",
+                        "author_email": "taysa.moreira@estrategiamed.com.br",
+                        "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>A alternativa “b” está correta</b> porque em pacientes com uveíte anterior aguda no Ocidente, a prevalência de HLA-B27 é de 50%. Destes, 20 a 50% terão uveíte anterior isolada e 50 a 80% desenvolverão uma espondiloartrite ao longo do tempo. Como bom estrategista, lembre-se que a uveíte anterior aguda é a principal e mais frequente manifestação extra-articular da espondilite anquilosante.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-23 15:03:48.932131 +0000 UTC",
+                        "id": "0e543d76-2226-4736-9543-4c22a3592530",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A alternativa “b” está correta porque em pacientes com uveíte anterior aguda no Ocidente, a prevalência de HLA-B27 é de 50%. Destes, 20 a 50% terão uveíte anterior isolada e 50 a 80% desenvolverão uma espondiloartrite ao longo do tempo. Como bom estrategista, lembre-se que a uveíte anterior aguda é a principal e mais frequente manifestação extra-articular da espondilite anquilosante. ",
+                        "updated_at": "2020-11-23 15:04:04.226479 +0000 UTC"
+                    },
+                    "updated_at": "2020-12-05 12:36:49.931505 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 5,
+                    "body": "<div>Insuficiência aórtica</div>",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+                    "id": "5080d0fb-60a1-4ffb-8df4-2525a5017af3",
+                    "position": "2",
+                    "sanitized_body": "Insuficiência aórtica",
+                    "solution": {
+                        "alternative_id": "5080d0fb-60a1-4ffb-8df4-2525a5017af3",
+                        "author_email": "taysa.moreira@estrategiamed.com.br",
+                        "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>A alternativa “c” está incorreta</b> porque a insuficiência aórtica é uma manifestação extra-articular da espondilite anquilosante que não tem associação direta com o HLA-B27.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-23 15:03:48.944167 +0000 UTC",
+                        "id": "3d7b4e95-0f6d-4559-9253-57c8d6c19b06",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A alternativa “c” está incorreta porque a insuficiência aórtica é uma manifestação extra-articular da espondilite anquilosante que não tem associação direta com o HLA-B27. ",
+                        "updated_at": "2020-11-23 15:04:04.222386 +0000 UTC"
+                    },
+                    "updated_at": "2020-12-05 12:36:49.97472 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 3,
+                    "answers": 7,
+                    "body": "<div>Conjuntivite</div>",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+                    "id": "19f71e88-4c97-46ab-baeb-1d8d5923a000",
+                    "position": "3",
+                    "sanitized_body": "Conjuntivite",
+                    "solution": {
+                        "alternative_id": "19f71e88-4c97-46ab-baeb-1d8d5923a000",
+                        "author_email": "taysa.moreira@estrategiamed.com.br",
+                        "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>A alternativa “d” está incorreta</b> porque a associação do HLA-B27 é com uveíte e não conjuntivite. Dentre as espondiloartrites, aquela que se destaca pela tríade clássica de artrite, conjuntivite e uretrite é a síndrome de Reiter, hoje incorporada ao conceito da artrite reativa.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-23 15:03:48.941535 +0000 UTC",
+                        "id": "c2431ded-93ee-409d-9ec8-a7d187e52f49",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A alternativa “d” está incorreta porque a associação do HLA-B27 é com uveíte e não conjuntivite. Dentre as espondiloartrites, aquela que se destaca pela tríade clássica de artrite, conjuntivite e uretrite é a síndrome de Reiter, hoje incorporada ao conceito da artrite reativa. ",
+                        "updated_at": "2020-11-23 15:04:04.241181 +0000 UTC"
+                    },
+                    "updated_at": "2020-12-05 12:36:50.045252 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 4,
+                    "answers": 9,
+                    "body": "Psoríase disseminada em placas",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+                    "id": "1ed5accf-94f4-4e81-8214-3b254042e6fe",
+                    "position": "4",
+                    "sanitized_body": "Psoríase disseminada em placas",
+                    "solution": {
+                        "alternative_id": "1ed5accf-94f4-4e81-8214-3b254042e6fe",
+                        "author_email": "taysa.moreira@estrategiamed.com.br",
+                        "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>A alternativa “e” está incorreta</b> porque o HLA-B27 está associado à artrite psoriásica (APs) e não à psoríase disseminada em placas. Até 25% dos pacientes com APs tem HLA-B27 positivo, chegando a 50% naqueles com acometimento axial (sacroiliíte e/ou espondilite).&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-23 15:03:48.92914 +0000 UTC",
+                        "id": "a10ad712-09c6-4c31-9e59-f574a26ee799",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A alternativa “e” está incorreta porque o HLA-B27 está associado à artrite psoriásica (APs) e não à psoríase disseminada em placas. Até 25% dos pacientes com APs tem HLA-B27 positivo, chegando a 50% naqueles com acometimento axial (sacroiliíte e/ou espondilite). ",
+                        "updated_at": "2020-11-23 15:04:04.251134 +0000 UTC"
+                    },
+                    "updated_at": "2020-12-05 12:36:50.083678 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "kellejq@gmail.com",
+            "correct_answer_percentage": 78,
+            "created_at": "2020-09-14 13:38:18.604177 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "e5b3f733-947f-4daa-88b3-b70172150f86",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-07T10:15:08Z",
+                    "degree_proof": false,
+                    "id": "4000001375",
+                    "location": {
+                        "id": "27"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "84D9A058-5430-3078-B06B-AB553C5ED26F"
+                        }
+                    ],
+                    "questions_number": 50,
+                    "scholarity": "placeholder",
+                    "year": 2013
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000076891",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "espondiloartrites52aa09e956",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "taysa.moreira@estrategiamed.com.br",
+                "author_id": "c56fd3be-da50-45af-8c28-bfa222fbea44",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><b><br></b></div><div>Questão interessante através da qual a banca quer saber se o candidato entende a relação entre o HLA-B27 e o universo das espondiloartrites. Vamos lá!</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-11-23 15:03:49.117041 +0000 UTC",
+                "id": "8d84c579-167f-4c83-bf36-64a801bc61d0",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BQuestão interessante através da qual a banca quer saber se o candidato entende a relação entre o HLA-B27 e o universo das espondiloartrites. Vamos lá!",
+                "updated_at": "2020-11-23 15:04:04.377299 +0000 UTC",
+                "video_solution_id": "29689d20-0f13-4818-906e-f7e51ff81c74"
+            },
+            "statement": "As espondiloartrites constituem um grupo de doenças reumáticas multissistêmicas que afetam primariamente a coluna e as articulações sacro-ilíacas. Apresentam manifestações clínicas, laboratoriais e genéticas comuns como a entesite, a dactilite, a inflamação ocular (uveíte ou conjuntivite), além da forte incidência familiar. A presença do HLA-B27 está associada a qual das alternativas abaixo?&nbsp;",
+            "statement_text": "As espondiloartrites constituem um grupo de doenças reumáticas multissistêmicas que afetam primariamente a coluna e as articulações sacro-ilíacas. Apresentam manifestações clínicas, laboratoriais e genéticas comuns como a entesite, a dactilite, a inflamação ocular (uveíte ou conjuntivite), além da forte incidência familiar. A presença do HLA-B27 está associada a qual das alternativas abaixo? ",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-11-23 17:54:01.462232 +0000 UTC",
+                "owner": "taysa.moreira@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "2639caa565ac45cf9a927955ad0e2436",
+                    "master_id": "ad056fc8ba4d4006887e499ea0a6ec80",
+                    "name": "Antígeno leucocitário humano (HLA)",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Reumatologia [$$]Introdução à Reumatologia[$$]Bases imunológicas da Reumatologia[$$]Autoanticorpos[$$]Antígeno leucocitário humano (HLA)"
+                },
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                },
+                {
+                    "has_children": false,
+                    "id": "eca96d1633c34688910eb4a757fbb0c7",
+                    "master_id": "eb92bbbe0d2c4d169ca83e66b5f17ec5",
+                    "name": "Espondiloartrites",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Reumatologia [$$]Artropatias inflamatórias[$$]Espondiloartrites"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000076891-720.mp4"
+                    }
+                ],
+                "id": "29689d20-0f13-4818-906e-f7e51ff81c74",
+                "identifier": "",
+                "question_id": "4000076891"
+            },
+            "video_solution_id": "29689d20-0f13-4818-906e-f7e51ff81c74"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 1,
+                    "answers": 17,
+                    "body": "Retinite aguda",
+                    "correct": false,
+                    "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+                    "id": "818345d7-7ab7-43af-9b2b-19ef3565696a",
+                    "position": "0",
+                    "sanitized_body": "Retinite aguda",
+                    "solution": {
+                        "alternative_id": "818345d7-7ab7-43af-9b2b-19ef3565696a",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta.</b> Retinite aguda não é uma forma de apresentação comum na artrite idiopática juvenil.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-15 16:51:45.003145 +0000 UTC",
+                        "id": "89bf7d84-a729-4fb3-81f9-32b8bfdb92c5",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. Retinite aguda não é uma forma de apresentação comum na artrite idiopática juvenil.",
+                        "updated_at": "2020-11-25 13:09:48.544111 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-06 23:44:21.378863 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 5,
+                    "answers": 56,
+                    "body": "Episclerite crônica",
+                    "correct": false,
+                    "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+                    "id": "069ef1f8-c64b-4bb4-a98e-3fc15710da73",
+                    "position": "1",
+                    "sanitized_body": "Episclerite crônica",
+                    "solution": {
+                        "alternative_id": "069ef1f8-c64b-4bb4-a98e-3fc15710da73",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta.</b> Episclerite não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil. Lembrando que a episclerite é uma inflamação da episclera, ocorrendo como uma resposta imunológica de hipersensibilidade. Tem caráter benigno e autolimitado, sendo sua principal causa a idiopática.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-15 16:51:45.003181 +0000 UTC",
+                        "id": "1ab29025-d2fa-4950-a91a-0af03e037c1f",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. Episclerite não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil. Lembrando que a episclerite é uma inflamação da episclera, ocorrendo como uma resposta imunológica de hipersensibilidade. Tem caráter benigno e autolimitado, sendo sua principal causa a idiopática.",
+                        "updated_at": "2020-11-25 13:09:48.536383 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "57e6dc39074d4f34a69c67de1774a7f8",
+                            "master_id": "8d97de3219a14d4cbd1ddbe421ea8871",
+                            "name": "Episclerite",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Episclerite e Esclerite[$$]Episclerite"
+                        }
+                    ],
+                    "updated_at": "2020-11-06 23:44:21.435306 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 8,
+                    "answers": 93,
+                    "body": "Conjuntivite aguda",
+                    "correct": false,
+                    "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+                    "id": "9e806e2e-b99d-4803-affe-b51ee1e2f07d",
+                    "position": "2",
+                    "sanitized_body": "Conjuntivite aguda",
+                    "solution": {
+                        "alternative_id": "9e806e2e-b99d-4803-affe-b51ee1e2f07d",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta. </b>Conjuntivite aguda não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-15 16:51:45.014266 +0000 UTC",
+                        "id": "2be20f9c-40e3-451d-a9a4-0ca8cf2b1763",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. Conjuntivite aguda não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil.",
+                        "updated_at": "2020-11-25 13:09:48.538583 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": true,
+                            "id": "1b0a092c0173488a8a5b05818367da47",
+                            "master_id": "61541c30a7884fcb829b2cd62abd6477",
+                            "name": "Conjuntivites",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Conjuntiva[$$]Conjuntivites"
+                        }
+                    ],
+                    "updated_at": "2020-11-06 23:44:21.494473 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 21,
+                    "body": "Atrofia do nervo óptico",
+                    "correct": false,
+                    "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+                    "id": "1d2737bf-3aaa-4dd7-a328-3c94e58d1d53",
+                    "position": "3",
+                    "sanitized_body": "Atrofia do nervo óptico",
+                    "solution": {
+                        "alternative_id": "1d2737bf-3aaa-4dd7-a328-3c94e58d1d53",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta.</b> Atrofia do nervo óptico não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-15 16:51:45.013439 +0000 UTC",
+                        "id": "52ca80cf-be3d-4bb4-aba7-9c4bddd3cef3",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. Atrofia do nervo óptico não é uma manifestação oftalmológica encontrada em pacientes com artrite idiopática juvenil.",
+                        "updated_at": "2020-11-25 13:09:48.530097 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-06 23:44:21.55716 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 85,
+                    "answers": 1037,
+                    "body": "Uveíte anterior crônica",
+                    "correct": true,
+                    "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+                    "id": "9aff8df4-380a-4804-8544-d80eb4f25801",
+                    "position": "4",
+                    "sanitized_body": "Uveíte anterior crônica",
+                    "solution": {
+                        "alternative_id": "9aff8df4-380a-4804-8544-d80eb4f25801",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta. </b>Uveíte anterior crônica é a forma mais comum de apresentação ocular da artrite Idiopática juvenil.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-15 16:51:45.013288 +0000 UTC",
+                        "id": "84ebcc98-2ed1-4568-a5bc-c5f57b0172f8",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Uveíte anterior crônica é a forma mais comum de apresentação ocular da artrite Idiopática juvenil.",
+                        "updated_at": "2020-11-25 13:09:48.531068 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-06 23:44:21.622687 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "alexharka@hotmail.com",
+            "correct_answer_percentage": 85,
+            "created_at": "2020-09-13 02:03:08.006553 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "70fd17e8-68f9-4cc1-a9cc-d454f775c9b8",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-08T13:14:29Z",
+                    "degree_proof": false,
+                    "id": "4000001689",
+                    "location": {
+                        "id": "1393"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C3D8C9C7-634C-E31F-47CE-1D3EBE5B4DF4"
+                        }
+                    ],
+                    "questions_number": 60,
+                    "scholarity": "placeholder",
+                    "year": 2020
+                }
+            ],
+            "forum_id": "274850de-e5b1-4d84-b46e-f0fbaf98c4f3",
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": false,
+            "id": "4000059293",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Menina-3-anos-idade4503acd5f5",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA E</b><div><b><br></b></div><div>Criança de 3 anos, feminina, apresentando artrite em duas articulações, provas de atividade inflamatória positivas e fator antinúcleo positivo, quadro este sugestivo de artrite idiopática juvenil (AIJ). A artrite idiopática juvenil não é uma doença única, representando um grupo de doenças que cursam com artrite crônica, ocorrem em crianças e compartilham certas características. Desse grupo de doenças, a artrite oligoarticular é a forma mais comum e geralmente afeta meninas jovens, sendo caracterizada pelo envolvimento de ≤ 4 articulações durante os primeiros 6 meses da doença.</div><div><br></div><div>Com relação às manifestações oculares da AIJ, a forma mais comum de apresentação é a uveíte anterior. Contudo, diferente de outras doenças, a uveíte anterior manifesta-se de forma assintomática nesses pacientes, sendo detectada em exames de rotina e manifestando-se bilateralmente em 70% dos casos. A uveíte costuma ser crônica e não granulomatosa e o olho mantém-se “branco” mesmo na presença de inflamação grave.&nbsp;</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-15 16:51:46.058529 +0000 UTC",
+                "id": "d6b892a4-8d79-46ea-8c7b-bc980b4eab23",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA ECriança de 3 anos, feminina, apresentando artrite em duas articulações, provas de atividade inflamatória positivas e fator antinúcleo positivo, quadro este sugestivo de artrite idiopática juvenil (AIJ). A artrite idiopática juvenil não é uma doença única, representando um grupo de doenças que cursam com artrite crônica, ocorrem em crianças e compartilham certas características. Desse grupo de doenças, a artrite oligoarticular é a forma mais comum e geralmente afeta meninas jovens, sendo caracterizada pelo envolvimento de ≤ 4 articulações durante os primeiros 6 meses da doença.Com relação às manifestações oculares da AIJ, a forma mais comum de apresentação é a uveíte anterior. Contudo, diferente de outras doenças, a uveíte anterior manifesta-se de forma assintomática nesses pacientes, sendo detectada em exames de rotina e manifestando-se bilateralmente em 70% dos casos. A uveíte costuma ser crônica e não granulomatosa e o olho mantém-se “branco” mesmo na presença de inflamação grave. ",
+                "updated_at": "2020-11-25 13:09:48.620934 +0000 UTC"
+            },
+            "statement": "Menina, 3 anos de idade, apresenta artrite em joelho direito há 5 meses e em tornozelo esquerdo há 3 meses. Os exames laboratoriais mostram alteração das provas de atividade inflamatória (velocidade de hemossedimentação, proteína C reativa) e fator antinúcleo positivo. Qual o comprometimento oftalmológico esperado?",
+            "statement_text": "Menina, 3 anos de idade, apresenta artrite em joelho direito há 5 meses e em tornozelo esquerdo há 3 meses. Os exames laboratoriais mostram alteração das provas de atividade inflamatória (velocidade de hemossedimentação, proteína C reativa) e fator antinúcleo positivo. Qual o comprometimento oftalmológico esperado?",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-15 18:17:54.859994 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": null,
+                "id": "",
+                "identifier": "",
+                "question_id": ""
+            }
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 31,
+                    "answers": 258,
+                    "body": "20% dos casos são bilaterais.",
+                    "correct": true,
+                    "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+                    "id": "a13b9c4d-d976-4f46-95ef-fad4c33f0588",
+                    "position": "0",
+                    "sanitized_body": "20% dos casos são bilaterais.",
+                    "solution": {
+                        "alternative_id": "a13b9c4d-d976-4f46-95ef-fad4c33f0588",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. Na uveíte associada com a artrite juvenil crônica, ambos os olhos são acometidos em 70% dos casos.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:05:51.599997 +0000 UTC",
+                        "id": "5d8e2d42-70e4-4e4b-ad95-7c2fd0251563",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. Na uveíte associada com a artrite juvenil crônica, ambos os olhos são acometidos em 70% dos casos.",
+                        "updated_at": "2020-11-11 12:34:01.026909 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-11 12:31:54.852824 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 32,
+                    "answers": 267,
+                    "body": "O olho fica branco mesmo na presença de severa uveíte.",
+                    "correct": false,
+                    "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+                    "id": "061080ed-74d0-4102-b535-2d470123581b",
+                    "position": "1",
+                    "sanitized_body": "O olho fica branco mesmo na presença de severa uveíte.",
+                    "solution": {
+                        "alternative_id": "061080ed-74d0-4102-b535-2d470123581b",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Mesmo na presença de uveíte grave, o olho costuma ficar branco.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:05:51.59656 +0000 UTC",
+                        "id": "f4143404-e932-4275-9583-c177e9ffcd54",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Mesmo na presença de uveíte grave, o olho costuma ficar branco.",
+                        "updated_at": "2020-11-11 12:34:01.037301 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-11 12:31:55.041124 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 19,
+                    "answers": 160,
+                    "body": "O envolvimento do segundo olho em casos unilaterais é raro após um ano.",
+                    "correct": false,
+                    "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+                    "id": "c19b19e5-fdbd-4873-ae83-71a9118ab4d2",
+                    "position": "2",
+                    "sanitized_body": "O envolvimento do segundo olho em casos unilaterais é raro após um ano.",
+                    "solution": {
+                        "alternative_id": "c19b19e5-fdbd-4873-ae83-71a9118ab4d2",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. É incomum a uveíte unilateral tornar-se bilateral depois de mais de um ano. Porém, quando se torna bilateral, a gravidade da inflamação normalmente é simétrica.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:05:51.604101 +0000 UTC",
+                        "id": "b26cf473-1819-4adf-ae8e-c6c00f114fe7",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. É incomum a uveíte unilateral tornar-se bilateral depois de mais de um ano. Porém, quando se torna bilateral, a gravidade da inflamação normalmente é simétrica.",
+                        "updated_at": "2020-11-11 12:34:01.026959 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-11 12:31:55.104247 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 12,
+                    "answers": 101,
+                    "body": "25% dos casos são severos e respondem pobremente ao tratamento.",
+                    "correct": false,
+                    "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+                    "id": "1ebe26cb-e3bb-4518-a792-c559c9e260d6",
+                    "position": "3",
+                    "sanitized_body": "25% dos casos são severos e respondem pobremente ao tratamento.",
+                    "solution": {
+                        "alternative_id": "1ebe26cb-e3bb-4518-a792-c559c9e260d6",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Em 25% dos casos a uveíte é muito grave, persiste por muitos anos e responde mal ao tratamento. Nesse subgrupo, é comum o desenvolvimento de ceratopatia em faixa, catarata e glaucoma inflamatório secundário.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:05:51.597062 +0000 UTC",
+                        "id": "72200ae9-4169-4d68-8011-04eef1604763",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Em 25% dos casos a uveíte é muito grave, persiste por muitos anos e responde mal ao tratamento. Nesse subgrupo, é comum o desenvolvimento de ceratopatia em faixa, catarata e glaucoma inflamatório secundário. ",
+                        "updated_at": "2020-11-11 12:34:01.036698 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-11 12:31:55.161204 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 6,
+                    "answers": 52,
+                    "body": "Cerca de 15% dos casos tem um curso que dura menos de 4 meses.",
+                    "correct": false,
+                    "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+                    "id": "a5c38e74-fa7e-4b5d-80bc-b5f51e04791c",
+                    "position": "4",
+                    "sanitized_body": "Cerca de 15% dos casos tem um curso que dura menos de 4 meses.",
+                    "solution": {
+                        "alternative_id": "a5c38e74-fa7e-4b5d-80bc-b5f51e04791c",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Aproximadamente 15% dos pacientes têm um ataque, que dura menos de quatro meses.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:05:51.584965 +0000 UTC",
+                        "id": "f41b8bbd-4863-49fb-bd6f-9d9f1a619676",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Aproximadamente 15% dos pacientes têm um ataque, que dura menos de quatro meses. ",
+                        "updated_at": "2020-11-11 12:34:01.03216 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-11 12:31:55.227222 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "aanahcorrea@gmail.com",
+            "correct_answer_percentage": 31,
+            "created_at": "2020-09-09 16:11:49.686265 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "bed775aa-f660-4b68-a735-c82f49cfa04b",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-02T19:34:25Z",
+                    "degree_proof": false,
+                    "id": "4000000074",
+                    "location": {
+                        "id": "122"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "F157D507-FF37-0D6A-6732-6E3512279EF2"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "year": 2018
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": false,
+            "id": "4000002501",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "uveites-associadas-com111455df44",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><b><br></b></div><div>Questão bem específica e com nível de dificuldade elevado para uma prova de acesso direto.&nbsp;</div><div><br></div><div>Primeiro vamos fazer uma breve revisão sobre a <b>artrite juvenil crônica</b>. Caracteriza-se por ser uma artrite inflamatória, que se apresenta até os 16 anos de idade, sendo mais comum em meninas. É a <b>principal causa de uveíte anterior na infância.</b> A<b> apresentação da uveíte é invariavelmente assintomática,</b> sendo com frequência<b> detectada em exames de rotina.</b> Mesmo durante as exacerbações agudas, é raro que o paciente apresente alguma queixa. Na maioria dos casos, a atrite precede o quadro de uveíte. Vale ressaltar que existem três formas de apresentação da doença: pauciarticular, poliarticular e sistêmica. A uveíte é mais comum na forma pauciarticular, afetando cerca de 20% das crianças. A manifestação pauciarticular acomete 4 ou menos articulações, é responsável por cerca de 60% dos casos e 75% das crianças são anticorpos antinucleares (ANA) positivas.&nbsp;</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-12 19:05:51.818101 +0000 UTC",
+                "id": "1af6ca76-3a51-4959-9f90-763ba2233b33",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AQuestão bem específica e com nível de dificuldade elevado para uma prova de acesso direto. Primeiro vamos fazer uma breve revisão sobre a artrite juvenil crônica. Caracteriza-se por ser uma artrite inflamatória, que se apresenta até os 16 anos de idade, sendo mais comum em meninas. É a principal causa de uveíte anterior na infância. A apresentação da uveíte é invariavelmente assintomática, sendo com frequência detectada em exames de rotina. Mesmo durante as exacerbações agudas, é raro que o paciente apresente alguma queixa. Na maioria dos casos, a atrite precede o quadro de uveíte. Vale ressaltar que existem três formas de apresentação da doença: pauciarticular, poliarticular e sistêmica. A uveíte é mais comum na forma pauciarticular, afetando cerca de 20% das crianças. A manifestação pauciarticular acomete 4 ou menos articulações, é responsável por cerca de 60% dos casos e 75% das crianças são anticorpos antinucleares (ANA) positivas. ",
+                "updated_at": "2020-11-11 12:34:01.593593 +0000 UTC"
+            },
+            "statement": "Nas uveítes associadas com artrite juvenil crônica, é INCORRETO afirmar que:",
+            "statement_text": "Nas uveítes associadas com artrite juvenil crônica, é INCORRETO afirmar que:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-12 19:33:47.008352 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                },
+                {
+                    "has_children": false,
+                    "id": "df5488cb95b0484abacf9b3bf2d165b1",
+                    "master_id": "820f1cd1b5ff4c5eac2bf4249f6cbacb",
+                    "name": "AIJ - Artrite Idiopática Juvenil",
+                    "order_index": 0,
+                    "path": "Pediatria[$$]Reumatologia Pediátrica[$$]AIJ - Artrite Idiopática Juvenil"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": null,
+                "id": "",
+                "identifier": "",
+                "question_id": ""
+            }
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 19,
+                    "answers": 196,
+                    "body": "Glaucoma agudo",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+                    "id": "627da21e-2671-43e5-9b1b-0370215da7ce",
+                    "position": "0",
+                    "sanitized_body": "Glaucoma agudo",
+                    "solution": {
+                        "alternative_id": "627da21e-2671-43e5-9b1b-0370215da7ce",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. O quadro de glaucoma agudo pode apresentar todos os sinais e sintomas descritos no enunciado, com exceção da pupila miótica. No glaucoma agudo, a pupila encontra-se em média midríase.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:40:51.986667 +0000 UTC",
+                        "id": "44a2ee70-9bce-42fc-8a8d-1490a9e7253f",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. O quadro de glaucoma agudo pode apresentar todos os sinais e sintomas descritos no enunciado, com exceção da pupila miótica. No glaucoma agudo, a pupila encontra-se em média midríase. ",
+                        "updated_at": "2020-11-26 14:06:12.484177 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "7770ad2593244cbaa2514661bcf3347f",
+                            "master_id": "239578a32b0549b388011be847a6969a",
+                            "name": "Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Glaucoma[$$]Glaucoma Primário de Ângulo Fechado[$$]Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 10:08:32.715434 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 3,
+                    "answers": 31,
+                    "body": "Conjuntivite",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+                    "id": "7fae0f89-44c9-4aad-8162-d0d935b097cd",
+                    "position": "1",
+                    "sanitized_body": "Conjuntivite",
+                    "solution": {
+                        "alternative_id": "7fae0f89-44c9-4aad-8162-d0d935b097cd",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A conjuntivite costuma cursar com secreção e a pupila encontra-se normal (miose não é um sinal presente na conjuntivite).",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:40:51.973972 +0000 UTC",
+                        "id": "12394327-8795-4d47-b173-77b13572f5ee",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A conjuntivite costuma cursar com secreção e a pupila encontra-se normal (miose não é um sinal presente na conjuntivite).",
+                        "updated_at": "2020-11-26 14:06:12.487586 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": true,
+                            "id": "1b0a092c0173488a8a5b05818367da47",
+                            "master_id": "61541c30a7884fcb829b2cd62abd6477",
+                            "name": "Conjuntivites",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Conjuntiva[$$]Conjuntivites"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 10:08:32.774804 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 67,
+                    "answers": 679,
+                    "body": "Uveíte anterior",
+                    "correct": true,
+                    "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+                    "id": "7410c932-7cef-4670-a609-4134d21397f5",
+                    "position": "2",
+                    "sanitized_body": "Uveíte anterior",
+                    "solution": {
+                        "alternative_id": "7410c932-7cef-4670-a609-4134d21397f5",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. O que nos ajuda a chegar ao diagnóstico com mais facilidade é a presença de pupila em miose, bastante característica em quadros de uveíte anterior.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:40:51.974366 +0000 UTC",
+                        "id": "85e70b0d-1288-420c-879d-c0329a2b35ec",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. O que nos ajuda a chegar ao diagnóstico com mais facilidade é a presença de pupila em miose, bastante característica em quadros de uveíte anterior. ",
+                        "updated_at": "2020-11-26 14:06:12.486049 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:08:32.83175 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 7,
+                    "answers": 68,
+                    "body": "Esclerite",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+                    "id": "f15bff7f-92f5-4e3d-979e-bfadb47a7413",
+                    "position": "3",
+                    "sanitized_body": "Esclerite",
+                    "solution": {
+                        "alternative_id": "f15bff7f-92f5-4e3d-979e-bfadb47a7413",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A esclerite também pode cursar com alteração visual, dor e hiperemia ocular. Contudo, pupila em miose não é característica dessa patologia. Um dado importante, e que pode estar presente no enunciado, é que cinquenta por cento dos pacientes com esclerite têm uma doença sistêmica associada.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:40:51.986696 +0000 UTC",
+                        "id": "bc423f3d-1428-4827-8e82-09a38629a7d7",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A esclerite também pode cursar com alteração visual, dor e hiperemia ocular. Contudo, pupila em miose não é característica dessa patologia. Um dado importante, e que pode estar presente no enunciado, é que cinquenta por cento dos pacientes com esclerite têm uma doença sistêmica associada. ",
+                        "updated_at": "2020-11-26 14:06:12.48836 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "ff0528ae3cc7458dbd6649e3f1815420",
+                            "master_id": "8d97de3219a14d4cbd1ddbe421ea8871",
+                            "name": "Esclerite Anterior",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Episclerite e Esclerite[$$]Esclerite Anterior"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 10:08:32.914721 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 4,
+                    "answers": 40,
+                    "body": "Catarata",
+                    "correct": false,
+                    "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+                    "id": "0c7027c8-dc06-4992-94b0-ce07b2caa5b3",
+                    "position": "4",
+                    "sanitized_body": "Catarata",
+                    "solution": {
+                        "alternative_id": "0c7027c8-dc06-4992-94b0-ce07b2caa5b3",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A catarata não faz diagnóstico diferencial com as outras alternativas. Ela não cursa com olho vermelho, sendo seu principal sintoma a diminuição da acuidade visual, que pode ser uni ou bilateral.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 19:40:51.987025 +0000 UTC",
+                        "id": "1ad8dd3b-e05c-4bd7-b95a-1211dbf75186",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A catarata não faz diagnóstico diferencial com as outras alternativas. Ela não cursa com olho vermelho, sendo seu principal sintoma a diminuição da acuidade visual, que pode ser uni ou bilateral.",
+                        "updated_at": "2020-11-26 14:06:12.486722 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "54d83392489443a5b6d63b617ae9e14b",
+                            "master_id": "3dc84a1773f1401a8c660b058d54f5a4",
+                            "name": "Catarata Senil",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Córnea e Cristalino[$$]Cristalino[$$]Catarata Senil"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 10:08:32.976362 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "carlosjsouza07@gmail.com",
+            "correct_answer_percentage": 67,
+            "created_at": "2020-09-15 01:15:18.157168 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "808427dd-3143-4ced-8656-a105e6b9a056",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-07T12:11:40Z",
+                    "degree_proof": false,
+                    "id": "4000001406",
+                    "location": {
+                        "id": "24"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "C2C1AA59-BB80-F5C3-2F50-9D27B6EE76A8"
+                        }
+                    ],
+                    "questions_number": 50,
+                    "scholarity": "placeholder",
+                    "updated_at": "2020-11-26T11:25:40Z",
+                    "year": 2018
+                }
+            ],
+            "forum_id": "ca93d3a6-531d-465a-8379-70d7aabd10e9",
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000088899",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Mariana-chega-a4792beae24",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>Questão direta sobre uveíte anterior. A uveíte é, por definição, uma inflamação do trato uveal. Pode ser dividida em uveíte anterior, intermediária e posterior. A uveíte anterior acomete predominantemente a íris, sendo a forma mais comum. Apresenta-se subitamente com<b> dor unilateral, fotofobia, hiperemia ocular e lacrimejamento</b>. Além disso, o paciente pode apresentar <b>miose contínua</b> (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso. A<b> presença de miose é o dado que ajuda o candidato a responder a questão e fazer o diagnóstico diferencial com as outras patologias.&nbsp;</b></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-12 19:40:52.206913 +0000 UTC",
+                "id": "fec27916-de4d-4436-b94d-75bdb37a3827",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CQuestão direta sobre uveíte anterior. A uveíte é, por definição, uma inflamação do trato uveal. Pode ser dividida em uveíte anterior, intermediária e posterior. A uveíte anterior acomete predominantemente a íris, sendo a forma mais comum. Apresenta-se subitamente com dor unilateral, fotofobia, hiperemia ocular e lacrimejamento. Além disso, o paciente pode apresentar miose contínua (ocasionada pelo espasmo do esfíncter pupilar), gerando uma resposta pobre ao estímulo luminoso. A presença de miose é o dado que ajuda o candidato a responder a questão e fazer o diagnóstico diferencial com as outras patologias. ",
+                "updated_at": "2020-11-26 14:06:12.604201 +0000 UTC",
+                "video_solution_id": "e4c439a6-1352-456f-8012-01b0f1050772"
+            },
+            "statement": "Mariana chega à consulta com queixa ocular de embaçamento visual progressivo e dor leve no olho direito, apresentando ao exame hiperemia da conjuntiva mais intensa em volta da córnea (perilimbar), ausência de secreção e pupila miótica. Dentre as alternativas abaixo, assinale a que melhor define o diagnóstico:",
+            "statement_text": "Mariana chega à consulta com queixa ocular de embaçamento visual progressivo e dor leve no olho direito, apresentando ao exame hiperemia da conjuntiva mais intensa em volta da córnea (perilimbar), ausência de secreção e pupila miótica. Dentre as alternativas abaixo, assinale a que melhor define o diagnóstico:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-12 21:07:44.465111 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000088899-720.mp4"
+                    }
+                ],
+                "id": "e4c439a6-1352-456f-8012-01b0f1050772",
+                "identifier": "",
+                "question_id": "4000088899"
+            },
+            "video_solution_id": "e4c439a6-1352-456f-8012-01b0f1050772"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 5,
+                    "answers": 34,
+                    "body": "Glaucoma agudo em ângulo estreito.&nbsp;",
+                    "correct": false,
+                    "created_at": "2020-09-14 02:22:40.069373 +0000 UTC",
+                    "id": "f232aaaf-32b9-4550-9980-34ba01486280",
+                    "position": "0",
+                    "sanitized_body": "Glaucoma agudo em ângulo estreito. ",
+                    "solution": {
+                        "alternative_id": "f232aaaf-32b9-4550-9980-34ba01486280",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A crise aguda de glaucoma faz diagnóstico diferencial com a uveíte anterior aguda. Um dos sinais presentes no glaucoma agudo é a pupila em média midríase.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 23:34:24.263422 +0000 UTC",
+                        "id": "c8a8f577-95f6-4fa8-83db-68061848153a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A crise aguda de glaucoma faz diagnóstico diferencial com a uveíte anterior aguda. Um dos sinais presentes no glaucoma agudo é a pupila em média midríase. ",
+                        "updated_at": "2020-11-25 18:27:40.831061 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": false,
+                            "id": "7770ad2593244cbaa2514661bcf3347f",
+                            "master_id": "239578a32b0549b388011be847a6969a",
+                            "name": "Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Glaucoma[$$]Glaucoma Primário de Ângulo Fechado[$$]Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 00:31:06.994417 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 1,
+                    "answers": 9,
+                    "body": "Retinocoroidite autoimune.",
+                    "correct": false,
+                    "created_at": "2020-09-14 02:22:40.069373 +0000 UTC",
+                    "id": "e7c5d6b9-3f67-4d7e-8f49-775b07272e7a",
+                    "position": "1",
+                    "sanitized_body": "Retinocoroidite autoimune.",
+                    "solution": {
+                        "alternative_id": "e7c5d6b9-3f67-4d7e-8f49-775b07272e7a",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A retinocoroidite autoimune é uma inflamação da parte posterior do olho, geralmente manifestando-se com baixa acuidade visual.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 23:34:24.266309 +0000 UTC",
+                        "id": "4e4579d4-8e56-4be4-b8a2-830a3964f227",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A retinocoroidite autoimune é uma inflamação da parte posterior do olho, geralmente manifestando-se com baixa acuidade visual.",
+                        "updated_at": "2020-11-25 18:27:40.829117 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 00:31:07.038799 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 92,
+                    "answers": 674,
+                    "body": "Uveíte anterior aguda.",
+                    "correct": true,
+                    "created_at": "2020-09-14 02:22:40.069373 +0000 UTC",
+                    "id": "388e489f-4122-4867-8818-c9a4b540c821",
+                    "position": "2",
+                    "sanitized_body": "Uveíte anterior aguda.",
+                    "solution": {
+                        "alternative_id": "388e489f-4122-4867-8818-c9a4b540c821",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Nossa principal hipótese diagnóstica para o caso é a uveíte anterior aguda.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 23:34:24.278265 +0000 UTC",
+                        "id": "d43a7163-cb83-4d5e-879e-6221c3e6a1c9",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Nossa principal hipótese diagnóstica para o caso é a uveíte anterior aguda. ",
+                        "updated_at": "2020-11-25 18:27:40.819183 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 00:31:07.078945 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 17,
+                    "body": "Ceratite dendrítica.",
+                    "correct": false,
+                    "created_at": "2020-09-14 02:22:40.069373 +0000 UTC",
+                    "id": "680e9df5-568b-44e3-b7ed-8896a26c7af4",
+                    "position": "3",
+                    "sanitized_body": "Ceratite dendrítica.",
+                    "solution": {
+                        "alternative_id": "680e9df5-568b-44e3-b7ed-8896a26c7af4",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A ceratite dendrítica é uma das formas de apresentação da doença ocular herpética, estando associada à replicação viral ativa. Apresenta-se com olho vermelho, fotofobia, lacrimejamento e visão borrada. O principal sinal ao exame oftalmológico é uma úlcera com ramificações lineares (dendrítica), normalmente localizada no centro da córnea, que cora bem com fluoresceína.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 23:34:24.27837 +0000 UTC",
+                        "id": "790a46ee-8cda-47d5-8311-6d06a95acc21",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A ceratite dendrítica é uma das formas de apresentação da doença ocular herpética, estando associada à replicação viral ativa. Apresenta-se com olho vermelho, fotofobia, lacrimejamento e visão borrada. O principal sinal ao exame oftalmológico é uma úlcera com ramificações lineares (dendrítica), normalmente localizada no centro da córnea, que cora bem com fluoresceína. ",
+                        "updated_at": "2020-11-25 18:27:40.820677 +0000 UTC"
+                    },
+                    "topics": [
+                        {
+                            "has_children": true,
+                            "id": "3b1daee74c6448d9ab89535c42251986",
+                            "master_id": "643dc52519de46e2bff4a80b379adfc0",
+                            "name": "Ceratite Herpética",
+                            "order_index": 0,
+                            "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Córnea[$$]Ceratites Infecciosas[$$]Ceratite Herpética"
+                        }
+                    ],
+                    "updated_at": "2020-11-07 00:31:07.122081 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "patriciaeotavio1984@gmail.com",
+            "correct_answer_percentage": 92,
+            "created_at": "2020-09-14 02:22:40.069373 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "4f7b79b9-6ac0-4037-ae9a-94677d9a1054",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "62f67deb-31ba-415e-aafd-fe626a6d53c0",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-05T20:24:43Z",
+                    "degree_proof": false,
+                    "id": "4000001185",
+                    "location": {
+                        "id": "20"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "513E1B88-9AAC-3113-CBC0-6EBCA4BE28B8"
+                        }
+                    ],
+                    "questions_number": 80,
+                    "scholarity": "placeholder",
+                    "year": 2017
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": false,
+            "id": "4000072814",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Paciente-25-anos-com57f818a0c3",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b><div>Questão bem elaborada sobre uveíte anterior aguda. Paciente jovem, portador de doença reumatológica, apresentando episódios recorrentes de “olho vermelho”, dor ocular, fotofobia, alteração da acuidade visual e miose. Diante do quadro descrito, temos como<b> principal hipótese diagnóstica a uveíte anterior</b>. Atenção: um dado da questão que sempre ajuda a diferenciar a uveíte anterior do glaucoma agudo é a pupila. No glaucoma agudo ela está em média midríase; na uveíte a pupila encontra-se em miose.</div></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-12 23:34:24.529097 +0000 UTC",
+                "id": "d67f2098-bc47-43f5-92d7-991c59169c91",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CQuestão bem elaborada sobre uveíte anterior aguda. Paciente jovem, portador de doença reumatológica, apresentando episódios recorrentes de “olho vermelho”, dor ocular, fotofobia, alteração da acuidade visual e miose. Diante do quadro descrito, temos como principal hipótese diagnóstica a uveíte anterior. Atenção: um dado da questão que sempre ajuda a diferenciar a uveíte anterior do glaucoma agudo é a pupila. No glaucoma agudo ela está em média midríase; na uveíte a pupila encontra-se em miose.",
+                "updated_at": "2020-11-25 18:27:40.933113 +0000 UTC"
+            },
+            "statement": "Paciente de 25 anos, com espondilite anquilosante, relata episódios de \"olho vermelho\". Queixa-se de dor ocular à esquerda, de intensidade moderada e severa, fotofobia local e leve diminuição da acuidade visual. À inspeção simples do olho esquerdo, é possível observar miose e hiperemia conjuntival predominantemente pericerática, sem secreção ocular. A investigação oftalmológica deve levar ao diagnóstico de:",
+            "statement_text": "Paciente de 25 anos, com espondilite anquilosante, relata episódios de &#34;olho vermelho&#34;. Queixa-se de dor ocular à esquerda, de intensidade moderada e severa, fotofobia local e leve diminuição da acuidade visual. À inspeção simples do olho esquerdo, é possível observar miose e hiperemia conjuntival predominantemente pericerática, sem secreção ocular. A investigação oftalmológica deve levar ao diagnóstico de:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-13 02:09:59.974027 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": null,
+                "id": "",
+                "identifier": "",
+                "question_id": ""
+            }
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 4,
+                    "answers": 8,
+                    "body": "1 - 2 - 3",
+                    "correct": false,
+                    "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+                    "id": "47fd98c4-d1cd-43c3-8b3c-d9771714caba",
+                    "position": "0",
+                    "sanitized_body": "1 - 2 - 3",
+                    "solution": {
+                        "alternative_id": "47fd98c4-d1cd-43c3-8b3c-d9771714caba",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 22:34:15.969949 +0000 UTC",
+                        "id": "a088268c-ae2c-4270-8df4-ac1543cb188c",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta.",
+                        "updated_at": "2020-11-26 17:09:17.949989 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:15:50.175053 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 92,
+                    "answers": 197,
+                    "body": "2 - 1 - 4",
+                    "correct": true,
+                    "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+                    "id": "00760203-4887-4f80-ad30-35a0361cc32f",
+                    "position": "1",
+                    "sanitized_body": "2 - 1 - 4",
+                    "solution": {
+                        "alternative_id": "00760203-4887-4f80-ad30-35a0361cc32f",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. 2 - 1 - 4.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 22:34:15.982903 +0000 UTC",
+                        "id": "238591a8-0358-4691-a26c-08a247f3bc4b",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. 2 - 1 - 4.",
+                        "updated_at": "2020-11-26 17:09:17.965918 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:15:50.234256 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 5,
+                    "body": "2 - 5 - 1",
+                    "correct": false,
+                    "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+                    "id": "60d22dc3-8ac8-474e-b7dd-9efeb167e6ba",
+                    "position": "2",
+                    "sanitized_body": "2 - 5 - 1",
+                    "solution": {
+                        "alternative_id": "60d22dc3-8ac8-474e-b7dd-9efeb167e6ba",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 22:34:15.993031 +0000 UTC",
+                        "id": "63da3675-7eda-4ecf-a5e0-189cc5691a56",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. ",
+                        "updated_at": "2020-11-26 17:09:17.962251 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:15:50.302428 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 4,
+                    "body": "3 - 1 - 4",
+                    "correct": false,
+                    "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+                    "id": "0dbce4c9-f00a-4f18-a518-dd9da8927102",
+                    "position": "3",
+                    "sanitized_body": "3 - 1 - 4",
+                    "solution": {
+                        "alternative_id": "0dbce4c9-f00a-4f18-a518-dd9da8927102",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 22:34:15.982656 +0000 UTC",
+                        "id": "6af38206-afa6-45a7-bc80-33fd4a4769e8",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. ",
+                        "updated_at": "2020-11-26 17:09:17.955268 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:15:50.365315 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 0,
+                    "answers": 1,
+                    "body": "3 - 5 - 1",
+                    "correct": false,
+                    "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+                    "id": "cc5466a2-6299-41ba-b7fd-350da40accb4",
+                    "position": "4",
+                    "sanitized_body": "3 - 5 - 1",
+                    "solution": {
+                        "alternative_id": "cc5466a2-6299-41ba-b7fd-350da40accb4",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 22:34:15.992734 +0000 UTC",
+                        "id": "ca8dbc33-c45e-4f3e-b4ab-bee99542ce0e",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. ",
+                        "updated_at": "2020-11-26 17:09:17.956758 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 10:15:50.430211 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "carlat840@gmail.com",
+            "correct_answer_percentage": 92,
+            "created_at": "2020-09-15 12:32:32.559955 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "a0541757-3028-43e5-a616-42119ff7b312",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-05T22:00:18Z",
+                    "degree_proof": false,
+                    "id": "4000001219",
+                    "location": {
+                        "id": "24"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "36B20FB8-1DCE-5ECD-39EC-2768AA7619D3"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "updated_at": "2020-11-26T10:40:52Z",
+                    "year": 2012
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000091866",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Associe-diagnosticos1009c135b42",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA B</b><div><br></div><div>Vamos analisar cada uma das proposições:<div><br></div><div><b>(2)</b> Dor ocular, borramento visual unilateral e miose em portador de artrite reumatoide. Para acertar, bastava lembrar da forte associação entre as doenças reumáticas e a uveíte anterior. Além disso, vamos relembrar que geralmente a uveíte anterior tem apresentação unilateral e pode cursar com miose, dado que ajuda a diferenciar de outras patologias que também se apresentam com olho vermelho.&nbsp;</div><div><br></div><div><b>(1)</b> Dor ocular unilateral, náuseas e/ou vômitos, redução de acuidade visual, percepção de halos coloridos, midríase e opacidade corneana difusa em paciente previamente hígido.</div><div><br></div><div>Estamos diante de um quadro clássico de glaucoma agudo. A uveíte anterior e o glaucoma agudo podem apresentar sinais e sintomas bem semelhantes; ambos apresentam-se com quadro unilateral agudo de olho vermelho, dor e borramento visual.  Porém, o que nos ajuda a diferenciar as duas patologias é o reflexo pupilar. Na uveíte normalmente a pupila está em miose, enquanto no glaucoma agudo ela encontra-se em midríase.&nbsp;</div><div><br></div><div><b>(4) </b>Dor ocular unilateral, redução da acuidade visual, blefaroespasmo, epífora importante e lesão esbranquiçada no centro da córnea em paciente usuário de lentes de contato.&nbsp;</div><div><br></div><div>A ceratite bacteriana é uma inflamação da córnea, associando-se frequentemente a situações em que ocorrem alterações nos mecanismos de defesa corneana, como o uso de lentes de contato. Geralmente as complicações decorrem de falta de obediência dos usuários às orientações de manutenção e troca das lentes, que facilitam a formação de depósitos. Os depósitos, além de provocar desconforto e turvação visual podem ocasionar reações imunoalérgicas, facilitar a aderência de micro-organismos e levar à infecção. Pseudomonas é o organismo mais frequentemente isolado de ceratite infecciosa em usuários de lentes de contato hidrofílicas.</div></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-14 22:34:16.327774 +0000 UTC",
+                "id": "b0967085-e0fd-4bfd-ba44-e58582bbd95f",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA BVamos analisar cada uma das proposições:(2) Dor ocular, borramento visual unilateral e miose em portador de artrite reumatoide. Para acertar, bastava lembrar da forte associação entre as doenças reumáticas e a uveíte anterior. Além disso, vamos relembrar que geralmente a uveíte anterior tem apresentação unilateral e pode cursar com miose, dado que ajuda a diferenciar de outras patologias que também se apresentam com olho vermelho. (1) Dor ocular unilateral, náuseas e/ou vômitos, redução de acuidade visual, percepção de halos coloridos, midríase e opacidade corneana difusa em paciente previamente hígido.Estamos diante de um quadro clássico de glaucoma agudo. A uveíte anterior e o glaucoma agudo podem apresentar sinais e sintomas bem semelhantes; ambos apresentam-se com quadro unilateral agudo de olho vermelho, dor e borramento visual.  Porém, o que nos ajuda a diferenciar as duas patologias é o reflexo pupilar. Na uveíte normalmente a pupila está em miose, enquanto no glaucoma agudo ela encontra-se em midríase. (4) Dor ocular unilateral, redução da acuidade visual, blefaroespasmo, epífora importante e lesão esbranquiçada no centro da córnea em paciente usuário de lentes de contato. A ceratite bacteriana é uma inflamação da córnea, associando-se frequentemente a situações em que ocorrem alterações nos mecanismos de defesa corneana, como o uso de lentes de contato. Geralmente as complicações decorrem de falta de obediência dos usuários às orientações de manutenção e troca das lentes, que facilitam a formação de depósitos. Os depósitos, além de provocar desconforto e turvação visual podem ocasionar reações imunoalérgicas, facilitar a aderência de micro-organismos e levar à infecção. Pseudomonas é o organismo mais frequentemente isolado de ceratite infecciosa em usuários de lentes de contato hidrofílicas.",
+                "updated_at": "2020-11-26 17:09:18.282351 +0000 UTC",
+                "video_solution_id": "8bad60aa-49e8-4bde-92b2-81ebbadb75e4"
+            },
+            "statement": "Associe os diagnósticos diferenciais de olho vermelho (coluna da esquerda) aos quadros clínicos (coluna da direita).&nbsp;<div><br></div><div>1- Glaucoma agudo;&nbsp;</div><div><br></div><div>2- Uveíte anterior;&nbsp;</div><div><br></div><div>3-Conjuntivite viral aguda;&nbsp;</div><div><br></div><div>4- Ceratite bacteriana aguda;&nbsp;</div><div><br></div><div>5- Blefarite;&nbsp;</div><div><br></div><div>(&nbsp; ) Dor ocular, borramento visual unilateral e miose em portador de artrite reumatoide;&nbsp;</div><div><br></div><div>(&nbsp; ) Dor ocular unilateral, náuseas e/ou vômitos, redução de acuidade visual, percepção de halos coloridos, medríase e opacidade corneana difusa em paciente previamente hígido;&nbsp;</div><div><br></div><div>(&nbsp; ) Dor ocular unilateral, redução da acuidade visual, blefaroespasmo, epífora importante e lesão esbranquiçada no centro da córnea em paciente usuário de lentes de contato.&nbsp;</div><div><br></div><div>A sequência numérica correta, de cima para baixo, da coluna da direita, é:</div>",
+            "statement_text": "Associe os diagnósticos diferenciais de olho vermelho (coluna da esquerda) aos quadros clínicos (coluna da direita). 1- Glaucoma agudo; 2- Uveíte anterior; 3-Conjuntivite viral aguda; 4- Ceratite bacteriana aguda; 5- Blefarite; (  ) Dor ocular, borramento visual unilateral e miose em portador de artrite reumatoide; (  ) Dor ocular unilateral, náuseas e/ou vômitos, redução de acuidade visual, percepção de halos coloridos, medríase e opacidade corneana difusa em paciente previamente hígido; (  ) Dor ocular unilateral, redução da acuidade visual, blefaroespasmo, epífora importante e lesão esbranquiçada no centro da córnea em paciente usuário de lentes de contato. A sequência numérica correta, de cima para baixo, da coluna da direita, é:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-14 23:55:48.484535 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "036274dae1df41dc8e0e6b891c0c4fc2",
+                    "master_id": "643dc52519de46e2bff4a80b379adfc0",
+                    "name": "Ceratite Bacteriana",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Córnea[$$]Ceratites Infecciosas[$$]Ceratite Bacteriana"
+                },
+                {
+                    "has_children": false,
+                    "id": "7770ad2593244cbaa2514661bcf3347f",
+                    "master_id": "239578a32b0549b388011be847a6969a",
+                    "name": "Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Glaucoma[$$]Glaucoma Primário de Ângulo Fechado[$$]Glaucoma Agudo de Ângulo Fechado (Crise Aguda de Glaucoma)"
+                },
+                {
+                    "has_children": false,
+                    "id": "c1e8be66143a4bc99763a28ef5067942",
+                    "master_id": "1b0a092c0173488a8a5b05818367da47",
+                    "name": "Conjuntivite Viral",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Conjuntiva[$$]Conjuntivites[$$]Conjuntivite Viral"
+                },
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                },
+                {
+                    "has_children": false,
+                    "id": "fd3455a53a864057911ca567937154bf",
+                    "master_id": "a8c1bbfe3d9e4897b045b75860db9535",
+                    "name": "Blefarite",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Patologias Palpebrais[$$]Blefarite"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000091866-720.mp4"
+                    }
+                ],
+                "id": "8bad60aa-49e8-4bde-92b2-81ebbadb75e4",
+                "identifier": "",
+                "question_id": "4000091866"
+            },
+            "video_solution_id": "8bad60aa-49e8-4bde-92b2-81ebbadb75e4"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 14,
+                    "answers": 38,
+                    "body": "toxoplasmose.&nbsp;",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:30:16.710621 +0000 UTC",
+                    "id": "b56d5981-592d-432b-99e7-ac36c1fcc241",
+                    "position": "0",
+                    "sanitized_body": "toxoplasmose. ",
+                    "solution": {
+                        "alternative_id": "b56d5981-592d-432b-99e7-ac36c1fcc241",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A principal forma de apresentação da toxoplasmose ocular é a retinite, através da presença de lesão inflamatória característica observada no fundo de olho. A uveíte anterior pode ser um sinal presente, sendo geralmente granulomatosa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 00:11:07.47819 +0000 UTC",
+                        "id": "27304700-fb95-48d5-9743-f4cf9e560564",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A principal forma de apresentação da toxoplasmose ocular é a retinite, através da presença de lesão inflamatória característica observada no fundo de olho. A uveíte anterior pode ser um sinal presente, sendo geralmente granulomatosa.",
+                        "updated_at": "2020-11-25 18:56:24.948847 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 01:00:55.991992 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 28,
+                    "answers": 76,
+                    "body": "sarcoidose.",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:30:16.710621 +0000 UTC",
+                    "id": "58cb8309-df06-43f8-8b82-bc91b92fc3ec",
+                    "position": "1",
+                    "sanitized_body": "sarcoidose.",
+                    "solution": {
+                        "alternative_id": "58cb8309-df06-43f8-8b82-bc91b92fc3ec",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>.  A principal manifestação ocular da sarcoidose é a uveíte, que pode ocorrer na forma anterior, posterior ou intermediária. A uveíte anterior em geral é granulomatosa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 00:11:07.493586 +0000 UTC",
+                        "id": "70acbefc-71a9-41d8-9ab4-28cbf45a5a10",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta.  A principal manifestação ocular da sarcoidose é a uveíte, que pode ocorrer na forma anterior, posterior ou intermediária. A uveíte anterior em geral é granulomatosa.",
+                        "updated_at": "2020-11-25 18:56:24.945698 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 01:00:56.036756 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 55,
+                    "answers": 147,
+                    "body": "doença inflamatória intestinal.",
+                    "correct": true,
+                    "created_at": "2020-09-14 13:30:16.710621 +0000 UTC",
+                    "id": "3ab23af4-9f40-4b43-b89f-1cd7a5fdd79e",
+                    "position": "2",
+                    "sanitized_body": "doença inflamatória intestinal.",
+                    "solution": {
+                        "alternative_id": "3ab23af4-9f40-4b43-b89f-1cd7a5fdd79e",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>. Doenças inflamatórias intestinais podem apresentar manifestações oculares como a uveíte, que em geral é não granulomatosa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 00:11:07.618052 +0000 UTC",
+                        "id": "2b5c310c-fae4-48ae-a32d-d94e4c934ed0",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Doenças inflamatórias intestinais podem apresentar manifestações oculares como a uveíte, que em geral é não granulomatosa.",
+                        "updated_at": "2020-11-25 18:56:24.950023 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 01:00:56.076956 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 3,
+                    "answers": 7,
+                    "body": "tuberculose.&nbsp;",
+                    "correct": false,
+                    "created_at": "2020-09-14 13:30:16.710621 +0000 UTC",
+                    "id": "ebf0ebfa-72b7-4b31-8f76-1d17f055d2a6",
+                    "position": "3",
+                    "sanitized_body": "tuberculose. ",
+                    "solution": {
+                        "alternative_id": "ebf0ebfa-72b7-4b31-8f76-1d17f055d2a6",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Incorreta</b>. A uveíte tuberculosa em geral é granulomatosa.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-14 00:11:07.601086 +0000 UTC",
+                        "id": "53e084f2-6e3c-4eac-bb52-b7a575dc8609",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A uveíte tuberculosa em geral é granulomatosa.",
+                        "updated_at": "2020-11-25 18:56:24.942209 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-07 01:00:56.123701 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "deborahcdireito@gmail.com",
+            "correct_answer_percentage": 55,
+            "created_at": "2020-09-14 13:30:16.710621 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "bd4a7d2c-7084-4198-9bd0-b535796600b4",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-05T15:23:37Z",
+                    "degree_proof": false,
+                    "id": "4000001162",
+                    "location": {
+                        "id": "20"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "CC1611A1-D015-18AD-40FF-84B9C29190B0"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "year": 2013
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": false,
+            "id": "4000076676",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Uveite-anterior-na10a68ba6b2",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><br></div><div>As uveítes anteriores podem ser classificadas patologicamente em granulomatosas e não granulomatosas, de acordo com a natureza do processo inflamatório. A forma dos precipitados ceráticos (PKs), que são conglomerados de células inflamatórias aderidas ao endotélio corneano, auxilia nessa diferenciação. As uveítes granulomatosas apresentam-se com PKs granulomatosos, também chamados de mutton-fat, que são conglomerados de histiócitos epitelioides, tendo aspecto acinzentado e grande. Podem estar presentes em doenças como sarcoidose, oftalmia simpática, esclerose múltipla, síndrome de Vogt-Koyanagi-Harada, sífilis, tuberculose, toxoplasmose e uveítes fúngicas. As uveítes classificadas como não granulomatosas cursam com PKs finos e brancos, formados por leucócitos. São os PKs mais  comuns, podendo ser encontrados em qualquer processo inflamatório agudo.</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-14 00:11:08.068404 +0000 UTC",
+                "id": "739bd2a1-52f1-4540-bff9-e0194a8f9d65",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CAs uveítes anteriores podem ser classificadas patologicamente em granulomatosas e não granulomatosas, de acordo com a natureza do processo inflamatório. A forma dos precipitados ceráticos (PKs), que são conglomerados de células inflamatórias aderidas ao endotélio corneano, auxilia nessa diferenciação. As uveítes granulomatosas apresentam-se com PKs granulomatosos, também chamados de mutton-fat, que são conglomerados de histiócitos epitelioides, tendo aspecto acinzentado e grande. Podem estar presentes em doenças como sarcoidose, oftalmia simpática, esclerose múltipla, síndrome de Vogt-Koyanagi-Harada, sífilis, tuberculose, toxoplasmose e uveítes fúngicas. As uveítes classificadas como não granulomatosas cursam com PKs finos e brancos, formados por leucócitos. São os PKs mais  comuns, podendo ser encontrados em qualquer processo inflamatório agudo.",
+                "updated_at": "2020-11-25 18:56:24.966709 +0000 UTC"
+            },
+            "statement": "Uveíte anterior, não granulomatosa, aguda, é relacionada mais comumente a:",
+            "statement_text": "Uveíte anterior, não granulomatosa, aguda, é relacionada mais comumente a:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-14 12:56:47.754192 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": null,
+                "id": "",
+                "identifier": "",
+                "question_id": ""
+            }
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 61,
+                    "answers": 360,
+                    "body": "V, F, V, V",
+                    "correct": true,
+                    "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+                    "id": "f4854b0b-995e-425e-b154-060b19abf982",
+                    "position": "0",
+                    "sanitized_body": "V, F, V, V",
+                    "solution": {
+                        "alternative_id": "f4854b0b-995e-425e-b154-060b19abf982",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>Correta</b>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 18:53:32.106273 +0000 UTC",
+                        "id": "a058ceb2-08af-42c5-a421-59e55d56195a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta",
+                        "updated_at": "2020-11-10 18:43:03.350474 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-10 18:35:57.366088 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 3,
+                    "answers": 20,
+                    "body": "F, V, F, V",
+                    "correct": false,
+                    "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+                    "id": "8dd1796b-658b-4e0f-95d4-816286614b6a",
+                    "position": "1",
+                    "sanitized_body": "F, V, F, V",
+                    "solution": {
+                        "alternative_id": "8dd1796b-658b-4e0f-95d4-816286614b6a",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>&nbsp;Incorreta.</b>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 18:53:32.106256 +0000 UTC",
+                        "id": "81823b12-7686-4956-a4e5-c1e03796cdc6",
+                        "sanitized_brief": "",
+                        "sanitized_complete": " Incorreta.",
+                        "updated_at": "2020-11-10 18:43:03.338759 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-10 18:35:57.431763 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 26,
+                    "answers": 154,
+                    "body": "V, V, F, V",
+                    "correct": false,
+                    "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+                    "id": "e820fabd-34d8-4402-b1a5-8f0297ee47ce",
+                    "position": "2",
+                    "sanitized_body": "V, V, F, V",
+                    "solution": {
+                        "alternative_id": "e820fabd-34d8-4402-b1a5-8f0297ee47ce",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>&nbsp;Incorreta.</b>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 18:53:32.099051 +0000 UTC",
+                        "id": "789532ca-f50a-4d5a-9e87-3c09595e1d95",
+                        "sanitized_brief": "",
+                        "sanitized_complete": " Incorreta.",
+                        "updated_at": "2020-11-10 18:43:03.353127 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-10 18:35:57.495499 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 7,
+                    "answers": 44,
+                    "body": "V, F, F, F",
+                    "correct": false,
+                    "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+                    "id": "2afb42c3-ecd9-4747-a790-6f154a0bd66f",
+                    "position": "3",
+                    "sanitized_body": "V, F, F, F",
+                    "solution": {
+                        "alternative_id": "2afb42c3-ecd9-4747-a790-6f154a0bd66f",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>&nbsp;Incorreta.</b>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 18:53:32.095589 +0000 UTC",
+                        "id": "6629378b-4d06-45ca-bf4a-6614851e8c3a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": " Incorreta.",
+                        "updated_at": "2020-11-10 18:43:03.355096 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-10 18:35:57.560498 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 2,
+                    "answers": 11,
+                    "body": "F, F, V, V",
+                    "correct": false,
+                    "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+                    "id": "100f695b-0c94-4305-89e3-c86a398c0400",
+                    "position": "4",
+                    "sanitized_body": "F, F, V, V",
+                    "solution": {
+                        "alternative_id": "100f695b-0c94-4305-89e3-c86a398c0400",
+                        "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                        "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "<b>&nbsp;Incorreta.</b>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-10-12 18:53:32.091482 +0000 UTC",
+                        "id": "94c409f8-c510-4bff-b160-06985a401114",
+                        "sanitized_brief": "",
+                        "sanitized_complete": " Incorreta.",
+                        "updated_at": "2020-11-10 18:43:03.345455 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-10 18:35:57.620223 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "aanahcorrea@gmail.com",
+            "correct_answer_percentage": 61,
+            "created_at": "2020-09-09 15:50:59.00689 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "bed775aa-f660-4b68-a735-c82f49cfa04b",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "b35c6fce-73ec-4b54-aae8-ad664a219e03",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-02T19:34:25Z",
+                    "degree_proof": false,
+                    "id": "4000000074",
+                    "location": {
+                        "id": "122"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "F157D507-FF37-0D6A-6732-6E3512279EF2"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "year": 2018
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000002229",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "as-uveites-anteriores90f8ec1afb",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "evelyn.ciuffo@estrategiamed.com.br",
+                "author_id": "0e300855-29e6-424a-92ef-f92658a78631",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA A</b><div><br></div><div>Questão específica sobre uveíte anterior. Fique atento (a) e aproveite o comentário para fixar alguns conceitos importantes sobre esse tema.</div><div><br></div><div>Vamos analisar cada uma das afirmações da questão:</div><div><br></div><div>(V) “Caracterizam-se pela inflamação preponderante do segmento anterior do olho”. A afirmativa é <b>verdadeira</b>. A uveíte anterior caracteriza-se pela inflamação do segmento anterior do olho. Pode ser dividida em irite, na qual a inflamação afeta predominantemente a íris, e iridociclite, na qual tanto a íris quanto o corpo ciliar são afetados.&nbsp;</div><div><br></div><div>(F) “A iridociclite é o achado ocular mais comum nos pacientes com síndrome de Reiter, afetando, aproximadamente, 30-60% de todos os pacientes, sendo geralmente bilateral e autolimitada.” A afirmativa é <b>falsa</b>. A <b>síndrome de Reiter</b>, também conhecida como artrite reativa, <b>caracteriza-se por uma tríade composta por: uretrite inespecífica, conjuntivite e artrite</b>. Portanto, o achado ocular mais comum é a conjuntivite, e não a iridociclite, embora essa possa estar presente em 12% dos pacientes. A conjuntivite geralmente aparece duas semanas após a uretrite, precedendo a artrite.&nbsp;</div><div><br></div><div>(V) “Quando relacionada à infecção por sífilis, pode ser grave e não responsiva à medicação.” A afirmativa é <b>verdadeira</b>. A <b>uveíte anterior sifilítica afeta cerca de 4% dos pacientes com sífilis secundária, sendo bilateral em 50% dos casos.</b> Pode ser um quadro grave e não responsivo à medicação. Vários tipos de atrofia iriana pós-inflamatória podem ocorrer.</div><div><br></div><div>(V) “Os achados oculares mais frequentes relacionados à tuberculose são: precipitados ceráticos granulomatosos e nódulos de íris.” A afirmativa é <b>verdadeira</b>. A <b>uveíte anterior tuberculosa em geral é granulomatosa e o envolvimento do segmento anterior também pode se manifestar com nódulos de íris.</b> Lembrando que a uveíte tuberculosa pode ser de difícil diagnóstico, pois pode ocorrer em pacientes sem manifestações sistêmicas de tuberculose. Assim, geralmente o diagnóstico é presuntivo, com base em evidências indiretas, como uma uveíte que não responde ao tratamento com esteroides, história positiva de contato, teste cutâneo positivo e achados negativos para outras causas de uveíte.</div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-10-12 18:53:32.377826 +0000 UTC",
+                "id": "8f9b42f7-5faa-4731-913e-b42956b2e81e",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA AQuestão específica sobre uveíte anterior. Fique atento (a) e aproveite o comentário para fixar alguns conceitos importantes sobre esse tema.Vamos analisar cada uma das afirmações da questão:(V) “Caracterizam-se pela inflamação preponderante do segmento anterior do olho”. A afirmativa é verdadeira. A uveíte anterior caracteriza-se pela inflamação do segmento anterior do olho. Pode ser dividida em irite, na qual a inflamação afeta predominantemente a íris, e iridociclite, na qual tanto a íris quanto o corpo ciliar são afetados. (F) “A iridociclite é o achado ocular mais comum nos pacientes com síndrome de Reiter, afetando, aproximadamente, 30-60% de todos os pacientes, sendo geralmente bilateral e autolimitada.” A afirmativa é falsa. A síndrome de Reiter, também conhecida como artrite reativa, caracteriza-se por uma tríade composta por: uretrite inespecífica, conjuntivite e artrite. Portanto, o achado ocular mais comum é a conjuntivite, e não a iridociclite, embora essa possa estar presente em 12% dos pacientes. A conjuntivite geralmente aparece duas semanas após a uretrite, precedendo a artrite. (V) “Quando relacionada à infecção por sífilis, pode ser grave e não responsiva à medicação.” A afirmativa é verdadeira. A uveíte anterior sifilítica afeta cerca de 4% dos pacientes com sífilis secundária, sendo bilateral em 50% dos casos. Pode ser um quadro grave e não responsivo à medicação. Vários tipos de atrofia iriana pós-inflamatória podem ocorrer.(V) “Os achados oculares mais frequentes relacionados à tuberculose são: precipitados ceráticos granulomatosos e nódulos de íris.” A afirmativa é verdadeira. A uveíte anterior tuberculosa em geral é granulomatosa e o envolvimento do segmento anterior também pode se manifestar com nódulos de íris. Lembrando que a uveíte tuberculosa pode ser de difícil diagnóstico, pois pode ocorrer em pacientes sem manifestações sistêmicas de tuberculose. Assim, geralmente o diagnóstico é presuntivo, com base em evidências indiretas, como uma uveíte que não responde ao tratamento com esteroides, história positiva de contato, teste cutâneo positivo e achados negativos para outras causas de uveíte.",
+                "updated_at": "2020-11-10 18:43:03.475702 +0000 UTC",
+                "video_solution_id": "d8a5c88e-158b-4ca3-9f79-5c8edfe188ad"
+            },
+            "statement": "Em relação às uveítes anteriores, marque V para as afirmativas verdadeiras e F para as falsas.&nbsp;<div><br></div><div>(&nbsp; &nbsp;) Caracterizam-se pela inflamação preponderante do segmento anterior do olho.</div><div><br></div><div>(&nbsp; &nbsp;) A iridociclite é o achado ocular mais comum nos pacientes com síndrome de Reiter, afetando, aproximadamente, 30 a 60% de todos os pacientes, sendo geralmente bilateral e autolimitada.</div><div><br></div><div>(&nbsp; &nbsp;) Quando relacionada à infecção por sífilis, pode ser grave e não responsiva à medicação.</div><div><br></div><div>(&nbsp; &nbsp;) Os achados oculares mais frequentes relacionados à tuberculose são: precipitados ceráticos granulomatosos e nódulos de íris.&nbsp;</div><div><br></div><div>A sequência está correta:</div>",
+            "statement_text": "Em relação às uveítes anteriores, marque V para as afirmativas verdadeiras e F para as falsas. (   ) Caracterizam-se pela inflamação preponderante do segmento anterior do olho.(   ) A iridociclite é o achado ocular mais comum nos pacientes com síndrome de Reiter, afetando, aproximadamente, 30 a 60% de todos os pacientes, sendo geralmente bilateral e autolimitada.(   ) Quando relacionada à infecção por sífilis, pode ser grave e não responsiva à medicação.(   ) Os achados oculares mais frequentes relacionados à tuberculose são: precipitados ceráticos granulomatosos e nódulos de íris. A sequência está correta:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-10-12 19:33:55.177605 +0000 UTC",
+                "owner": "evelyn.ciuffo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000002229-720.mp4"
+                    }
+                ],
+                "id": "d8a5c88e-158b-4ca3-9f79-5c8edfe188ad",
+                "identifier": "",
+                "question_id": "4000002229"
+            },
+            "video_solution_id": "d8a5c88e-158b-4ca3-9f79-5c8edfe188ad"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 4,
+                    "answers": 6,
+                    "body": "histoplasmose.",
+                    "correct": false,
+                    "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+                    "id": "cd6cabd9-fa20-48ac-b2e2-b88d2d087989",
+                    "position": "0",
+                    "sanitized_body": "histoplasmose.",
+                    "solution": {
+                        "alternative_id": "cd6cabd9-fa20-48ac-b2e2-b88d2d087989",
+                        "author_email": "philippe.colares@estrategiamed.com.br",
+                        "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Alternativa A incorreta – a Histoplasmose, doença fúngica causada pelo Histoplasma capsulatum, fungo presente universalmente no solo e poeira, principalmente em áreas rurais ou mesmo urbanas em que haja exposição à terra com dejetos provenientes de aves e morcegos.<div><br><div>Indivíduos imunocompetentes, com inalação volumosa de microconídeos, podem apresentar doença caraterizada por febre, tosse, dispneia, dor torácica e mialgias. O exame físico pode apresentar hepatoesplenomegalia, insuficiência respiratória, eritema marginado, eritema nodoso e artrite reativa (simétrica e poliarticular). Apresenta evolução benigna com duração máxima de 4 semanas, sem necessidade de tratamento específico. Os pacientes podem futuramente, desenvolver nódulos pulmomares, solitários ou múltiplos, calcificados ou não, assintomáticos. Podem também apresentar linfonodomegalias mediastinais e pericardite reacional.</div><div><br></div></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-14 16:41:13.900249 +0000 UTC",
+                        "id": "bacd9899-406b-4995-97ce-09058e21ec72",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Alternativa A incorreta – a Histoplasmose, doença fúngica causada pelo Histoplasma capsulatum, fungo presente universalmente no solo e poeira, principalmente em áreas rurais ou mesmo urbanas em que haja exposição à terra com dejetos provenientes de aves e morcegos.Indivíduos imunocompetentes, com inalação volumosa de microconídeos, podem apresentar doença caraterizada por febre, tosse, dispneia, dor torácica e mialgias. O exame físico pode apresentar hepatoesplenomegalia, insuficiência respiratória, eritema marginado, eritema nodoso e artrite reativa (simétrica e poliarticular). Apresenta evolução benigna com duração máxima de 4 semanas, sem necessidade de tratamento específico. Os pacientes podem futuramente, desenvolver nódulos pulmomares, solitários ou múltiplos, calcificados ou não, assintomáticos. Podem também apresentar linfonodomegalias mediastinais e pericardite reacional.",
+                        "updated_at": "2020-11-14 16:41:14.146644 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-20 22:43:00.476749 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 4,
+                    "answers": 6,
+                    "body": "leishmaniose.",
+                    "correct": false,
+                    "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+                    "id": "17bbc2e3-2e04-4063-b700-f4b231889bcc",
+                    "position": "1",
+                    "sanitized_body": "leishmaniose.",
+                    "solution": {
+                        "alternative_id": "17bbc2e3-2e04-4063-b700-f4b231889bcc",
+                        "author_email": "philippe.colares@estrategiamed.com.br",
+                        "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Alternativa B incorreta – a leishmaniose, infecção pela L.(L) chagasi, caracteriza-se por um amplo espectro clínico, que pode variar desde as manifestações clínicas discretas (oligossintomáticas), moderadas e graves e que se não tratadas podem levar o paciente à morte. O diagnóstico clínico da leishmaniose visceral deve ser suspeitado quando o paciente apresentar: febre e esplenomegalia associado ou não à hepatomegalia.<div><br></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-14 16:41:13.905065 +0000 UTC",
+                        "id": "9ae66835-5e4b-47fc-bdfa-31d58bbe5119",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Alternativa B incorreta – a leishmaniose, infecção pela L.(L) chagasi, caracteriza-se por um amplo espectro clínico, que pode variar desde as manifestações clínicas discretas (oligossintomáticas), moderadas e graves e que se não tratadas podem levar o paciente à morte. O diagnóstico clínico da leishmaniose visceral deve ser suspeitado quando o paciente apresentar: febre e esplenomegalia associado ou não à hepatomegalia.",
+                        "updated_at": "2020-11-14 16:41:14.111657 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-20 22:43:00.547314 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 7,
+                    "answers": 12,
+                    "body": "tuberculose.&nbsp;",
+                    "correct": false,
+                    "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+                    "id": "30225b58-53fa-4e9b-96b0-69a273b18b59",
+                    "position": "2",
+                    "sanitized_body": "tuberculose. ",
+                    "solution": {
+                        "alternative_id": "30225b58-53fa-4e9b-96b0-69a273b18b59",
+                        "author_email": "philippe.colares@estrategiamed.com.br",
+                        "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Alternativa C incorreta – a tuberculose é um dos principais diagnósticos diferenciais da sarcoidose, principalmente quando se manifesta por sintomas respiratórios com acometimento pulmonar o linfonodal. Os sintomas clássicos, como tosse persistente seca ou produtiva, febre vespertina, sudorese noturna e emagrecimento, podem ocorrer em qualquer apresentação. As apresentações extrapulmonares da TB têm seus sinais e sintomas dependentes dos órgãos ou sistemas acometidos. Pode apresentar acometimento linfonodal e oftalmológico, entretanto, a apresentação de eritema nodoso não é característica.<div><br></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-14 16:41:13.90099 +0000 UTC",
+                        "id": "459017ef-c7aa-4ecd-bb62-92a7f74d9fc5",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Alternativa C incorreta – a tuberculose é um dos principais diagnósticos diferenciais da sarcoidose, principalmente quando se manifesta por sintomas respiratórios com acometimento pulmonar o linfonodal. Os sintomas clássicos, como tosse persistente seca ou produtiva, febre vespertina, sudorese noturna e emagrecimento, podem ocorrer em qualquer apresentação. As apresentações extrapulmonares da TB têm seus sinais e sintomas dependentes dos órgãos ou sistemas acometidos. Pode apresentar acometimento linfonodal e oftalmológico, entretanto, a apresentação de eritema nodoso não é característica.",
+                        "updated_at": "2020-11-14 16:41:14.127567 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-20 22:43:00.615497 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 79,
+                    "answers": 135,
+                    "body": "sarcoidose.",
+                    "correct": true,
+                    "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+                    "id": "9c0bce1a-58fd-4bae-b87b-d6d3f29b6b6c",
+                    "position": "3",
+                    "sanitized_body": "sarcoidose.",
+                    "solution": {
+                        "alternative_id": "9c0bce1a-58fd-4bae-b87b-d6d3f29b6b6c",
+                        "author_email": "philippe.colares@estrategiamed.com.br",
+                        "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Alternativa D correta – o quadro clínico é patognomônico de sarcoidose (dispensa biópsia), definido como síndrome de Lofgren.<div><br></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-14 16:41:13.908259 +0000 UTC",
+                        "id": "6aef49dc-24d1-4969-921c-971ebfa1f183",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Alternativa D correta – o quadro clínico é patognomônico de sarcoidose (dispensa biópsia), definido como síndrome de Lofgren.",
+                        "updated_at": "2020-11-14 16:41:14.115986 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-20 22:43:00.667704 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 7,
+                    "answers": 12,
+                    "body": "paracoccidioidomicose.",
+                    "correct": false,
+                    "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+                    "id": "3187ad42-6209-4af1-b313-34858bbb99fe",
+                    "position": "4",
+                    "sanitized_body": "paracoccidioidomicose.",
+                    "solution": {
+                        "alternative_id": "3187ad42-6209-4af1-b313-34858bbb99fe",
+                        "author_email": "philippe.colares@estrategiamed.com.br",
+                        "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Alternativa E incorreta – a paracococcidioidomicose é doença causada pelo Paracoccidioides brasilienses, fungo dimórfico termodependente, que apresenta a forma de micélio filamentoso (formando hifas e esporos, ou conídios, contaminantes), e é encontrado no solo, temperatura ambiente. Geralmente acomete homens (10:1), 35 a 50 anos, tabagistas, etilistas e com antecedentes de trabalho na zona rural. Comumente, as alterações radiológicas são difusas, bilaterais, com predomínio nos campos médios, formando imagem que sugere “asas de borboleta”. A histologia, compatível com o diagnóstico, identifica o fungo na lesão, que se apresenta como células arredondadas, de dupla parede, birrefringente, com ou sem gemulação (“aspecto em roda de leme”).<div><br><div>O acometimento pulmonar se dá como foco único ou disseminado, com alterações mais comuns na pele e mucosas, ósseas, cerebrais, genitourinárias e suprarrenais (provocando síndrome de Addison). A forma miliar pulmonar pode ser observada nos casos sistêmicos.</div><div><br></div><div>Queixas subagudas ou crônicas, com tosse seca ou produtiva, hemoptoicos, dispneia, anorexia, astenia, perda ponderal, febre, podem estar presentes. Deve-se buscar ativamente lesões orais, como: estomatite moriforme, úlceras de fundo granulomatoso, localizadas no palato, comissuras labiais, gengiva, vestíbulos e região sublingual.</div><div><br></div></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2020-11-14 16:41:13.911509 +0000 UTC",
+                        "id": "406df643-eb24-4ff0-b05e-45b4075270a2",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Alternativa E incorreta – a paracococcidioidomicose é doença causada pelo Paracoccidioides brasilienses, fungo dimórfico termodependente, que apresenta a forma de micélio filamentoso (formando hifas e esporos, ou conídios, contaminantes), e é encontrado no solo, temperatura ambiente. Geralmente acomete homens (10:1), 35 a 50 anos, tabagistas, etilistas e com antecedentes de trabalho na zona rural. Comumente, as alterações radiológicas são difusas, bilaterais, com predomínio nos campos médios, formando imagem que sugere “asas de borboleta”. A histologia, compatível com o diagnóstico, identifica o fungo na lesão, que se apresenta como células arredondadas, de dupla parede, birrefringente, com ou sem gemulação (“aspecto em roda de leme”).O acometimento pulmonar se dá como foco único ou disseminado, com alterações mais comuns na pele e mucosas, ósseas, cerebrais, genitourinárias e suprarrenais (provocando síndrome de Addison). A forma miliar pulmonar pode ser observada nos casos sistêmicos.Queixas subagudas ou crônicas, com tosse seca ou produtiva, hemoptoicos, dispneia, anorexia, astenia, perda ponderal, febre, podem estar presentes. Deve-se buscar ativamente lesões orais, como: estomatite moriforme, úlceras de fundo granulomatoso, localizadas no palato, comissuras labiais, gengiva, vestíbulos e região sublingual.",
+                        "updated_at": "2020-11-14 16:41:14.12481 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-20 22:43:00.734343 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "matheusmandz@hotmail.com",
+            "correct_answer_percentage": 79,
+            "created_at": "2020-09-13 18:51:13.538411 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "42bcdb35-c6b9-4ff2-bac0-2d2fa575f042",
+                        "institution_id": "89866878-1f61-416d-bc4c-4c94f0c43eb8",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "af7e85c2-2c30-4a9a-ba79-8caf9d22e744",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-05T12:23:11Z",
+                    "degree_proof": false,
+                    "id": "4000001074",
+                    "location": {
+                        "id": "20"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "CCF23919-1BF8-EE15-A561-064436C52F5E"
+                        }
+                    ],
+                    "questions_number": 50,
+                    "scholarity": "placeholder",
+                    "updated_at": "2020-11-26T19:47:57Z",
+                    "year": 2014
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": false,
+            "id": "4000067576",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Paciente-que-apresenta15ef3a611f",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "philippe.colares@estrategiamed.com.br",
+                "author_id": "f2c1c016-6ce3-483b-8e83-6762c2de1af5",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "<b>GABARITO: ALTERNATIVA D</b><div><br></div><div>Caro Estrategista, questão conceitual sobre uma importante doença sistêmica, que acomete, principalmente pulmões e sistema linfático: a sarcoidose.</div><div><br><div>A sarcoidose é uma doença sistêmica de etiologia desconhecida, caracterizada patologicamente pela presença de granuloma sem necrose caseosa nos órgãos envolvidos, inicialmente com uma ou mais das seguintes anormalidades: adenopatia hilar bilateral; opacidades reticulares pulmonares; e lesões na pele, articulações e / ou olhos. Afeta tipicamente adultos jovens, 3 a 4x mais negros. Mulheres são afetadas mais tardiamente, comparadas aos homens</div><div>.</div><div>Afeta tipicamente indivíduos entre 20 e 60 anos e em até 50% é descoberta incidentalmente com achados radiográficos. Afeta principalmente pulmões (90% dos pacientes), mas cerca de 30% apresentam manifestações extratorácicas.</div><div><br></div><div>Apresenta duas síndromes clínicas clássicas, que, quando presentes, dispensam a necessidade de biópsia para confirmação diagnóstica:</div><div><br></div><div>- Síndrome de Lofgren: adenopatia hilar bilateral + eritema nodoso + poliartralgias migratórias + febre.</div><div>- Síndrome Heerfordt-Waldenström: febre + parotidite + uveíte anterior + paralisia facial.</div><div><br></div></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2020-11-14 16:41:14.154366 +0000 UTC",
+                "id": "4d385f6d-cafd-435e-8bb1-be69740dd654",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA DCaro Estrategista, questão conceitual sobre uma importante doença sistêmica, que acomete, principalmente pulmões e sistema linfático: a sarcoidose.A sarcoidose é uma doença sistêmica de etiologia desconhecida, caracterizada patologicamente pela presença de granuloma sem necrose caseosa nos órgãos envolvidos, inicialmente com uma ou mais das seguintes anormalidades: adenopatia hilar bilateral; opacidades reticulares pulmonares; e lesões na pele, articulações e / ou olhos. Afeta tipicamente adultos jovens, 3 a 4x mais negros. Mulheres são afetadas mais tardiamente, comparadas aos homens.Afeta tipicamente indivíduos entre 20 e 60 anos e em até 50% é descoberta incidentalmente com achados radiográficos. Afeta principalmente pulmões (90% dos pacientes), mas cerca de 30% apresentam manifestações extratorácicas.Apresenta duas síndromes clínicas clássicas, que, quando presentes, dispensam a necessidade de biópsia para confirmação diagnóstica:- Síndrome de Lofgren: adenopatia hilar bilateral + eritema nodoso + poliartralgias migratórias + febre.- Síndrome Heerfordt-Waldenström: febre + parotidite + uveíte anterior + paralisia facial.",
+                "updated_at": "2020-11-14 16:41:14.208158 +0000 UTC"
+            },
+            "statement": "Paciente que apresenta eritema nodoso, adenopatia hilar bilateral e uveíte anterior sugere o diagnóstico de:",
+            "statement_text": "Paciente que apresenta eritema nodoso, adenopatia hilar bilateral e uveíte anterior sugere o diagnóstico de:",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2020-11-15 02:37:12.905805 +0000 UTC",
+                "owner": "philippe.colares@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "042cbd5f90f8479ca5d777804fa4f9a2",
+                    "master_id": "eb7f00892f1f4af4972a845ffaca14c6",
+                    "name": "Achados clínicos",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Pneumologia [$$]Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo[$$]Pneumopatias Intersticiais[$$]Pneumonia intersticial granulomatosa[$$]Sarcoidose[$$]Diagnóstico[$$]Achados clínicos"
+                },
+                {
+                    "has_children": false,
+                    "id": "0d02b1270ac1426698d9942118b28a30",
+                    "master_id": "01650c99ac47434d84c95cb13da522a0",
+                    "name": "Manifestações clínicas",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Reumatologia [$$]Sarcoidose[$$]Manifestações clínicas"
+                },
+                {
+                    "has_children": false,
+                    "id": "651e6616abc54b709c7f13df8e18fdb3",
+                    "master_id": "eb7f00892f1f4af4972a845ffaca14c6",
+                    "name": "Achados radiográficos",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Pneumologia [$$]Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo[$$]Pneumopatias Intersticiais[$$]Pneumonia intersticial granulomatosa[$$]Sarcoidose[$$]Diagnóstico[$$]Achados radiográficos"
+                },
+                {
+                    "has_children": false,
+                    "id": "db67151cf6774696b7cf74f87d5717d8",
+                    "master_id": "d547760759624b02a810b0f7503f02b8",
+                    "name": "Uveíte Anterior",
+                    "order_index": 0,
+                    "path": "Outros [$$]Oftalmologia[$$]Síndrome do Olho Vermelho[$$]Uveíte Anterior"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": null,
+                "id": "",
+                "identifier": "",
+                "question_id": ""
+            }
+        }
+    ]
+}

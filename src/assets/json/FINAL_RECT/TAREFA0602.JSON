@@ -1,0 +1,1240 @@
+{
+    "data": [
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 1,
+                    "answers": 56,
+                    "body": "cirurgia adiada até obtenção do resultado do RT-PCR, a ser feita somente por via aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual, caso o resultado do exame seja negativo: máscara N95, avental impermeável, gorro, luvas estéreis e protetor facial.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:55:28.253817 +0000 UTC",
+                    "id": "1d133a3c-c097-42d9-a769-5a2ade3bd85f",
+                    "position": "0",
+                    "sanitized_body": "cirurgia adiada até obtenção do resultado do RT-PCR, a ser feita somente por via aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual, caso o resultado do exame seja negativo: máscara N95, avental impermeável, gorro, luvas estéreis e protetor facial.",
+                    "solution": {
+                        "alternative_id": "1d133a3c-c097-42d9-a769-5a2ade3bd85f",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "A apendicite aguda não complicada é de tratamento cirúrgico e é uma urgência cirúrgica, sendo assim não há a possibilidade de aguardar o resultado do RT-PCR por 48-72 horas. Orienta-se que na investigação do quadro abdominal com tomografia de abdome realize-se tomografia de tórax para avaliar possível comprometimento sugestivo de COVID-19.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-05-25 14:32:13.129657 +0000 UTC",
+                        "id": "65612e5c-a65d-495f-aa4d-a6013832ddda",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A apendicite aguda não complicada é de tratamento cirúrgico e é uma urgência cirúrgica, sendo assim não há a possibilidade de aguardar o resultado do RT-PCR por 48-72 horas. Orienta-se que na investigação do quadro abdominal com tomografia de abdome realize-se tomografia de tórax para avaliar possível comprometimento sugestivo de COVID-19."
+                    },
+                    "updated_at": "2021-04-29 21:22:36.515956 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 3,
+                    "answers": 259,
+                    "body": "cirurgia adiada até obtenção do resultado do RT-PCR, a ser feita somente por via laparoscópica ou aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual, em caso de resultado negativo do exame: máscara cirúrgica, luvas estéreis, gorro e avental impermeável.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:55:28.253817 +0000 UTC",
+                    "id": "2619000d-a81b-4505-87ea-4cf62cc53ad5",
+                    "position": "1",
+                    "sanitized_body": "cirurgia adiada até obtenção do resultado do RT-PCR, a ser feita somente por via laparoscópica ou aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual, em caso de resultado negativo do exame: máscara cirúrgica, luvas estéreis, gorro e avental impermeável.",
+                    "solution": {
+                        "alternative_id": "2619000d-a81b-4505-87ea-4cf62cc53ad5",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Além de não ser passível de aguardar o resultado de RT-PCR, nos EPIS mostrados na questão nota-se a falta do óculos de proteção ou protetor facial, que é indicado junto do gorro, máscara cirúrgica, avental cirúrgico e luva estéril para o médico cirurgião que irá participar de uma cirurgia no qual a triagem de sintomas respiratórios é realizada no pré-operatório com paciente assintomático.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-05-25 14:32:13.15018 +0000 UTC",
+                        "id": "33cf19c0-d23a-455a-a726-97efb92dd024",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Além de não ser passível de aguardar o resultado de RT-PCR, nos EPIS mostrados na questão nota-se a falta do óculos de proteção ou protetor facial, que é indicado junto do gorro, máscara cirúrgica, avental cirúrgico e luva estéril para o médico cirurgião que irá participar de uma cirurgia no qual a triagem de sintomas respiratórios é realizada no pré-operatório com paciente assintomático. "
+                    },
+                    "updated_at": "2021-04-29 21:22:37.60908 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 91,
+                    "answers": 6972,
+                    "body": "cirurgia de emergência, por via laparoscópica ou aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual: máscara N95, protetor facial, luvas estéreis, gorro e avental impermeável.",
+                    "correct": true,
+                    "created_at": "2021-04-26 17:55:28.253817 +0000 UTC",
+                    "id": "4f853c15-623f-419d-ba6a-4e7ca9359db4",
+                    "position": "2",
+                    "sanitized_body": "cirurgia de emergência, por via laparoscópica ou aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual: máscara N95, protetor facial, luvas estéreis, gorro e avental impermeável.",
+                    "solution": {
+                        "alternative_id": "4f853c15-623f-419d-ba6a-4e7ca9359db4",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "O paciente tem indicação de tratamento cirúrgico, não há contraindicação para a realização do tratamento via laparoscopia considerando seus benefícios e esta é uma decisão do cirurgião, porém é considerado um procedimento de alto risco de infecção/contaminação então, além dos EPIS citados (máscara N95, protetor facial, luvas estéreis, gorro e avental impermeável), recomenda-se que o cirurgião mais experiente realize o procedimento, os trocartes sejam descartáveis e testados para vazamento antes da cirurgia, utilize baixa pressão de gás e com sistema de ultrafiltração.&nbsp;",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-05-25 14:32:13.109392 +0000 UTC",
+                        "id": "367e5699-70cd-4ff6-9d3f-847bcf470be4",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "O paciente tem indicação de tratamento cirúrgico, não há contraindicação para a realização do tratamento via laparoscopia considerando seus benefícios e esta é uma decisão do cirurgião, porém é considerado um procedimento de alto risco de infecção/contaminação então, além dos EPIS citados (máscara N95, protetor facial, luvas estéreis, gorro e avental impermeável), recomenda-se que o cirurgião mais experiente realize o procedimento, os trocartes sejam descartáveis e testados para vazamento antes da cirurgia, utilize baixa pressão de gás e com sistema de ultrafiltração. "
+                    },
+                    "updated_at": "2021-04-29 21:22:38.394649 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 5,
+                    "answers": 414,
+                    "body": "cirurgia de emergência somente por via aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual: máscara N95, protetor facial e avental impermeável, gorro e luvas estéreis.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:55:28.253817 +0000 UTC",
+                    "id": "60f9d9ef-9d40-4773-bf2e-bf2d1589fdbf",
+                    "position": "3",
+                    "sanitized_body": "cirurgia de emergência somente por via aberta, com equipe cirúrgica utilizando os seguintes equipamentos de proteção individual: máscara N95, protetor facial e avental impermeável, gorro e luvas estéreis.",
+                    "solution": {
+                        "alternative_id": "60f9d9ef-9d40-4773-bf2e-bf2d1589fdbf",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Além da ANVISA não contraindicar procedimentos laparoscópicos, se o procedimento for via aberta ele é considerado sem risco de aerosolização, portanto não há indicação do uso de máscara N95.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-05-25 14:32:13.12929 +0000 UTC",
+                        "id": "395d28d1-8727-4507-ab36-5d274252fa1e",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Além da ANVISA não contraindicar procedimentos laparoscópicos, se o procedimento for via aberta ele é considerado sem risco de aerosolização, portanto não há indicação do uso de máscara N95."
+                    },
+                    "updated_at": "2021-04-29 21:22:39.107341 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "bruno-cesar110@hotmail.com",
+            "correct_answer_percentage": 91,
+            "created_at": "2021-04-26 17:55:28.253817 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                        "institution_id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2021-04-26T17:27:06Z",
+                    "degree_proof": false,
+                    "id": "4000004064",
+                    "location": {
+                        "id": "1"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "subscription_fee": 330,
+                    "updated_at": "2021-11-23T12:12:21Z",
+                    "year": 2020
+                }
+            ],
+            "forum_id": "236cf750-d501-43b8-a1cd-07e79a02fcf2",
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000146541",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "mulher-com-20-anos9837a0f568",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "thaila.gondek@estrategiamed.com.br",
+                "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "Paciente com quadro de dor abdominal há 24 horas localizada em fossa ilíaca direita e febre com diagnóstico de apendicite aguda. Pelo tempo de história e características do quadro clínicos inferimos ser um quadro de apendicite aguda não complicada.&nbsp;<div><br></div><div>Segundo as recomendações da Anvisa para orientações para a prevenção e o controle das infecções pelo novo coronavírus (sars-cov-2) em procedimentos cirúrgicos, vamos analisar as alternativas!&nbsp;</div><div><br></div><div><br></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2021-05-25 14:32:13.201984 +0000 UTC",
+                "id": "712430e3-8ee3-4886-8b56-225d038b5eeb",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "Paciente com quadro de dor abdominal há 24 horas localizada em fossa ilíaca direita e febre com diagnóstico de apendicite aguda. Pelo tempo de história e características do quadro clínicos inferimos ser um quadro de apendicite aguda não complicada. Segundo as recomendações da Anvisa para orientações para a prevenção e o controle das infecções pelo novo coronavírus (sars-cov-2) em procedimentos cirúrgicos, vamos analisar as alternativas! ",
+                "video_solution_id": "2394bccd-ac55-4343-a6a9-f9d70fa369fc"
+            },
+            "statement": "Uma mulher com 20 anos de idade chega ao pronto-socorro com queixa de dor em fossa ilíaca direita e relata febre iniciada há 24 horas. O cirurgião de plantão fez o diagnóstico de apendicite aguda e indicou cirurgia para a paciente. Seguindo a rotina hospitalar, foi colhido swab para teste de COVID-19 por RT-PCR, mesmo com a paciente assintomática, cujo resultado será obtido entre 48 a 72 horas. Entre os procedimentos descritos a seguir, os mais indicados em relação ao acesso cirúrgico e à proteção da equipe cirúrgica quanto ao contágio de COVID-19 durante o ato operatório são",
+            "statement_text": "Uma mulher com 20 anos de idade chega ao pronto-socorro com queixa de dor em fossa ilíaca direita e relata febre iniciada há 24 horas. O cirurgião de plantão fez o diagnóstico de apendicite aguda e indicou cirurgia para a paciente. Seguindo a rotina hospitalar, foi colhido swab para teste de COVID-19 por RT-PCR, mesmo com a paciente assintomática, cujo resultado será obtido entre 48 a 72 horas. Entre os procedimentos descritos a seguir, os mais indicados em relação ao acesso cirúrgico e à proteção da equipe cirúrgica quanto ao contágio de COVID-19 durante o ato operatório são",
+            "status": {
+                "change_actor": "cnishiama@admin.admin",
+                "created_at": "2021-05-26 01:18:00.141595 +0000 UTC",
+                "owner": "thaila.gondek@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "bf0069da1eca4a73b63ad2730edbc877",
+                    "master_id": "20a13e9c2ae7493dbeff78bfc2e36440",
+                    "name": "Precaução especial",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Infectologia [$$]Infecções relacionadas à assistência à saúde (IRAS)[$$]Prevenção[$$]Precaução especial"
+                },
+                {
+                    "has_children": false,
+                    "id": "c66ac5cb233342a69d44c553efa61776",
+                    "master_id": "4a718e700df34f569435b18530b339af",
+                    "name": "Tratamento",
+                    "order_index": 0,
+                    "path": "Cirurgia[$$]Urgências Abdominais[$$]Abdome Agudo Inflamatório[$$]Apendicite Aguda[$$]Tratamento"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146541-720.mp4"
+                    }
+                ],
+                "id": "2394bccd-ac55-4343-a6a9-f9d70fa369fc",
+                "identifier": "",
+                "question_id": "4000146541"
+            },
+            "video_solution_id": "2394bccd-ac55-4343-a6a9-f9d70fa369fc"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 79,
+                    "answers": 4204,
+                    "body": "realizar, com um alicate, o corte da ponta livre do anzol, para que não haja risco de novo acidente enquanto se está removendo a ponta perfurante.",
+                    "correct": true,
+                    "created_at": "2021-04-26 17:59:30.99763 +0000 UTC",
+                    "id": "a64fce76-83ae-4fe9-8561-84bb2d92dc74",
+                    "position": "0",
+                    "sanitized_body": "realizar, com um alicate, o corte da ponta livre do anzol, para que não haja risco de novo acidente enquanto se está removendo a ponta perfurante.",
+                    "solution": {
+                        "alternative_id": "a64fce76-83ae-4fe9-8561-84bb2d92dc74",
+                        "author_email": "jose.rodolfo@estrategiamed.com.br",
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Correta. Durante a retirada de um anzol, está indicado <b>cortar a ponta livre</b>, evitando novos acidentes. Após isso, devemos <b>anestesiar o local e transformar a lesão em transfixante</b>, efetuando a retirada da ponta perfurante.<div><br></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-06-09 18:11:02.400506 +0000 UTC",
+                        "id": "29d9ffe5-a817-4ab6-9a1a-f1b586c40506",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta. Durante a retirada de um anzol, está indicado cortar a ponta livre, evitando novos acidentes. Após isso, devemos anestesiar o local e transformar a lesão em transfixante, efetuando a retirada da ponta perfurante.",
+                        "updated_at": "2021-06-14 20:24:46.700454 +0000 UTC"
+                    },
+                    "updated_at": "2021-06-13 19:36:06.332175 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 15,
+                    "answers": 818,
+                    "body": "realizar a técnica de bloqueio de campo regional para a anestesia no local de entrada do anzol e posterior remoção.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:59:30.99763 +0000 UTC",
+                    "id": "b2116bc3-9367-4bb0-b0d2-2ffb2eaf690c",
+                    "position": "1",
+                    "sanitized_body": "realizar a técnica de bloqueio de campo regional para a anestesia no local de entrada do anzol e posterior remoção.",
+                    "solution": {
+                        "alternative_id": "b2116bc3-9367-4bb0-b0d2-2ffb2eaf690c",
+                        "author_email": "jose.rodolfo@estrategiamed.com.br",
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Incorreta. <b>A anestesia por bloqueio de campo regional é utilizada em casos em que o edema causado pela infiltração do anestésico vai prejudicar a identificação do corpo estranho</b> - não é o caso: temos anzol visível e exteriorizado na pele, sendo possível a realização de anestesia infiltrativa local. Note que o enunciado diz que a lesão é profunda, logo, não devemos simplesmente puxar o anzol até o orifício de entrada, pois, pelo formato da ponta, ocorrerá maior lesão tecidual.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-06-09 18:11:02.271375 +0000 UTC",
+                        "id": "d4daf91a-9672-44fc-9b45-bcbe11649fd3",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A anestesia por bloqueio de campo regional é utilizada em casos em que o edema causado pela infiltração do anestésico vai prejudicar a identificação do corpo estranho - não é o caso: temos anzol visível e exteriorizado na pele, sendo possível a realização de anestesia infiltrativa local. Note que o enunciado diz que a lesão é profunda, logo, não devemos simplesmente puxar o anzol até o orifício de entrada, pois, pelo formato da ponta, ocorrerá maior lesão tecidual.",
+                        "updated_at": "2021-06-14 20:24:46.700459 +0000 UTC"
+                    },
+                    "updated_at": "2021-06-13 19:36:06.409657 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 5,
+                    "answers": 255,
+                    "body": "realizar, com um bisturi, uma incisão para ampliar o orifício de entrada do anzol, a fim de que ele possa ser retirado.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:59:30.99763 +0000 UTC",
+                    "id": "b90f1e9d-5c64-4a63-a7f3-61355e00f805",
+                    "position": "2",
+                    "sanitized_body": "realizar, com um bisturi, uma incisão para ampliar o orifício de entrada do anzol, a fim de que ele possa ser retirado.",
+                    "solution": {
+                        "alternative_id": "b90f1e9d-5c64-4a63-a7f3-61355e00f805",
+                        "author_email": "jose.rodolfo@estrategiamed.com.br",
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Incorreta. <b>A retirada de anzol com lesão que não transfixou a pele não é realizada pelo orifício de entrada</b> - a ponta, onde há a fisga, ou barbela, se tracionada em direção ao orifício de entrada, vai causar grande lesão tecidual. Logo, <b>a lesão deve ser transformada em transfixante</b> e a retirada deve ser <b>realizada pela extremidade distal</b>.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-06-09 18:11:02.395062 +0000 UTC",
+                        "id": "b2fe2908-2dd4-473e-8fe1-3fe7125d2fd6",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. A retirada de anzol com lesão que não transfixou a pele não é realizada pelo orifício de entrada - a ponta, onde há a fisga, ou barbela, se tracionada em direção ao orifício de entrada, vai causar grande lesão tecidual. Logo, a lesão deve ser transformada em transfixante e a retirada deve ser realizada pela extremidade distal.",
+                        "updated_at": "2021-06-14 20:24:46.712279 +0000 UTC"
+                    },
+                    "updated_at": "2021-06-13 19:36:06.484254 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 1,
+                    "answers": 43,
+                    "body": "realizar a tração do anzol até efetuar a sua retirada.",
+                    "correct": false,
+                    "created_at": "2021-04-26 17:59:30.99763 +0000 UTC",
+                    "id": "5e731c1d-3677-490d-b45c-17257f807e3c",
+                    "position": "3",
+                    "sanitized_body": "realizar a tração do anzol até efetuar a sua retirada.",
+                    "solution": {
+                        "alternative_id": "5e731c1d-3677-490d-b45c-17257f807e3c",
+                        "author_email": "jose.rodolfo@estrategiamed.com.br",
+                        "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Incorreta. É importante, antes de realizar a retirada do anzol, garantir a segurança para isso, cortando sua ponta livre. Além disso, a retirada não é realizada puxando o anzol de volta para o orifício de entrada.<div><br></div><div><br></div>",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-06-09 18:11:02.324813 +0000 UTC",
+                        "id": "c34a591e-91f0-43d5-bd32-a8f984138d8b",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta. É importante, antes de realizar a retirada do anzol, garantir a segurança para isso, cortando sua ponta livre. Além disso, a retirada não é realizada puxando o anzol de volta para o orifício de entrada.",
+                        "updated_at": "2021-06-14 20:24:46.704485 +0000 UTC"
+                    },
+                    "updated_at": "2021-06-13 19:36:06.571324 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "bruno-cesar110@hotmail.com",
+            "correct_answer_percentage": 79,
+            "created_at": "2021-04-26 17:59:30.99763 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                        "institution_id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2021-04-26T17:27:06Z",
+                    "degree_proof": false,
+                    "id": "4000004064",
+                    "location": {
+                        "id": "1"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "subscription_fee": 330,
+                    "updated_at": "2021-11-23T12:12:21Z",
+                    "year": 2020
+                }
+            ],
+            "forum_id": "72144c1d-a042-4f88-a51d-6a9c41e2a38a",
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000146546",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "homem-com-26-anos860dd5bde9",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "jose.rodolfo@estrategiamed.com.br",
+                "author_id": "bd929da6-8f9e-4166-9de5-ffc5c8d16c44",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "Estrategista, ferimentos com corpo estranho são comuns na prática médica diária. Quando acontecem decorrentes de <b>objetos grandes, palpáveis ou visíveis, a retirada deve ser realizada, desde que sejam levados em conta cuidados como: propriedades do corpo estranho, segurança da cena, assepsia da ferida e anestesia.</b><div>No caso exposto, temos um anzol: <b>extremidade distal dotada da fisga, ou barbela.</b></div><div>Vamos conversar sobre as peculiaridades nas alternativas.</div><div><br></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2021-06-09 18:11:02.514315 +0000 UTC",
+                "id": "526cb6e0-1824-48c0-b5c8-a93c0cae9863",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "Estrategista, ferimentos com corpo estranho são comuns na prática médica diária. Quando acontecem decorrentes de objetos grandes, palpáveis ou visíveis, a retirada deve ser realizada, desde que sejam levados em conta cuidados como: propriedades do corpo estranho, segurança da cena, assepsia da ferida e anestesia.No caso exposto, temos um anzol: extremidade distal dotada da fisga, ou barbela.Vamos conversar sobre as peculiaridades nas alternativas.",
+                "updated_at": "2021-06-14 20:24:46.919125 +0000 UTC",
+                "video_solution_id": "ac7b4328-8971-438b-9638-8c6e52b7693b"
+            },
+            "statement": "Um homem com 26 anos de idade procura equipe de Saúde da Família Ribeirinha devido a um acidente com anzol. O paciente refere que é pescador experiente, porém, ao se distrair para pegar a isca, acabou fisgando a própria perna com o anzol. Ao realizar o exame físico, o médico identifica que se trata de um anzol de duas pontas e que uma das pontas perfurou profundamente a panturrilha direita do paciente. Sobre o procedimento para a remoção do anzol, é correto afirmar que se deve",
+            "statement_text": "Um homem com 26 anos de idade procura equipe de Saúde da Família Ribeirinha devido a um acidente com anzol. O paciente refere que é pescador experiente, porém, ao se distrair para pegar a isca, acabou fisgando a própria perna com o anzol. Ao realizar o exame físico, o médico identifica que se trata de um anzol de duas pontas e que uma das pontas perfurou profundamente a panturrilha direita do paciente. Sobre o procedimento para a remoção do anzol, é correto afirmar que se deve",
+            "status": {
+                "change_actor": "frank.martins@estrategiamed.com.br",
+                "created_at": "2021-06-09 18:47:21.556772 +0000 UTC",
+                "owner": "jose.rodolfo@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "230ea3a49ccd47dcab16691111a5a851",
+                    "master_id": "ce93cab80820446290f7ea627578e6e9",
+                    "name": "Temas Gerais em Cirurgia",
+                    "order_index": 0,
+                    "path": "Cirurgia[$$]Temas Gerais em Cirurgia"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146546-720.mp4"
+                    }
+                ],
+                "id": "ac7b4328-8971-438b-9638-8c6e52b7693b",
+                "identifier": "",
+                "question_id": "4000146546"
+            },
+            "video_solution_id": "ac7b4328-8971-438b-9638-8c6e52b7693b"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 14,
+                    "answers": 42,
+                    "body": "sutura simples da pele.",
+                    "correct": false,
+                    "created_at": "2024-08-28 17:58:14.170974 +0000 UTC",
+                    "id": "e780a549-0745-41be-b693-956899966a23",
+                    "position": "0",
+                    "sanitized_body": "sutura simples da pele.",
+                    "solution": {
+                        "alternative_id": "e780a549-0745-41be-b693-956899966a23",
+                        "author_email": "david.nordon@estrategiamed.com.br",
+                        "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+                        "brief": "",
+                        "brief_attachments": [],
+                        "complete": "Incorreta a alternativa A, pois a ferida deve permanecer aberta para avaliação ortopédica.",
+                        "complete_attachments": [],
+                        "created_at": "2024-09-04 00:13:54.74045 +0000 UTC",
+                        "id": "2de798e5-5e2c-40bf-b819-fac56d919333",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta a alternativa A, pois a ferida deve permanecer aberta para avaliação ortopédica."
+                    },
+                    "updated_at": "2024-08-30 10:08:31.404232 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 4,
+                    "answers": 13,
+                    "body": "sutura da pele e imobilização com gesso.",
+                    "correct": false,
+                    "created_at": "2024-08-28 17:58:14.170974 +0000 UTC",
+                    "id": "0a684803-5da2-44dc-90da-591660fb72d8",
+                    "position": "1",
+                    "sanitized_body": "sutura da pele e imobilização com gesso.",
+                    "solution": {
+                        "alternative_id": "0a684803-5da2-44dc-90da-591660fb72d8",
+                        "author_email": "david.nordon@estrategiamed.com.br",
+                        "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+                        "brief": "",
+                        "brief_attachments": [],
+                        "complete": "Incorreta a alternativa B, pois não só a sutura deve ser evitada, como a imobilização gessada não auxiliará em nada. Normalmente, para falanges, utilizamos talas metálicas.",
+                        "complete_attachments": [],
+                        "created_at": "2024-09-04 00:13:54.748736 +0000 UTC",
+                        "id": "9c4566c0-06d5-4040-841f-303508c6764d",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta a alternativa B, pois não só a sutura deve ser evitada, como a imobilização gessada não auxiliará em nada. Normalmente, para falanges, utilizamos talas metálicas."
+                    },
+                    "updated_at": "2024-08-30 10:08:31.775893 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 74,
+                    "answers": 220,
+                    "body": "curativo simples e transferência para ortopedia.",
+                    "correct": true,
+                    "created_at": "2024-08-28 17:58:14.170974 +0000 UTC",
+                    "id": "dc36d922-078f-4d1a-ac1a-11188575d34c",
+                    "position": "2",
+                    "sanitized_body": "curativo simples e transferência para ortopedia.",
+                    "solution": {
+                        "alternative_id": "dc36d922-078f-4d1a-ac1a-11188575d34c",
+                        "author_email": "david.nordon@estrategiamed.com.br",
+                        "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+                        "brief": "",
+                        "brief_attachments": [],
+                        "complete": "Correta a alternativa C, sem ressalvas. Apresenta-se, no caso, uma lesão do tendão flexor superficial.",
+                        "complete_attachments": [],
+                        "created_at": "2024-09-04 00:13:54.755845 +0000 UTC",
+                        "id": "3761c9b5-93bd-4157-85cc-eedb0e63d8de",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Correta a alternativa C, sem ressalvas. Apresenta-se, no caso, uma lesão do tendão flexor superficial."
+                    },
+                    "updated_at": "2024-08-30 10:08:32.161001 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 7,
+                    "answers": 21,
+                    "body": "curativo simples e transferência para cirurgia vascular.",
+                    "correct": false,
+                    "created_at": "2024-08-28 17:58:14.170974 +0000 UTC",
+                    "id": "b450c69a-7801-4c77-b72d-dd6f1b59e9f9",
+                    "position": "3",
+                    "sanitized_body": "curativo simples e transferência para cirurgia vascular.",
+                    "solution": {
+                        "alternative_id": "b450c69a-7801-4c77-b72d-dd6f1b59e9f9",
+                        "author_email": "david.nordon@estrategiamed.com.br",
+                        "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+                        "brief": "",
+                        "brief_attachments": [],
+                        "complete": "Incorreta a alternativa D, pois a cirurgia vascular não conseguirá reparar a lesão tendínea, e uma lesão vascular do dedo raramente demanda reparos, especialmente por haver outra artéria contralateral que pode suprir o dedo.",
+                        "complete_attachments": [],
+                        "created_at": "2024-09-04 00:13:54.761514 +0000 UTC",
+                        "id": "aa0d14d3-eb71-498a-aa35-46ecdc70bc2a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Incorreta a alternativa D, pois a cirurgia vascular não conseguirá reparar a lesão tendínea, e uma lesão vascular do dedo raramente demanda reparos, especialmente por haver outra artéria contralateral que pode suprir o dedo."
+                    },
+                    "updated_at": "2024-08-30 10:08:32.55357 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "eliets.9@gmail.com",
+            "correct_answer_percentage": 74,
+            "created_at": "2024-08-28 17:58:14.170974 +0000 UTC",
+            "difficulty_level": "MEDIUM",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "MULTIPLE_CHOICE",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                        "institution_id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2024-08-28T16:19:09Z",
+                    "degree_proof": false,
+                    "id": "4000008142",
+                    "location": {
+                        "id": "1"
+                    },
+                    "number": 2,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "91FD2070-6E3E-ED34-4EC9-75B39EAF28B9"
+                        },
+                        {
+                            "type": "EXAM",
+                            "url": "F95939BA-8C0B-0AE1-CC7C-37A3A1C56205"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "5C202FBC-A6B0-DC67-9F74-71DCA0FA5582"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "0F4B6B6A-7A9A-2D8E-A287-E612BE921BB0"
+                        }
+                    ],
+                    "questions_number": 105,
+                    "scholarity": "placeholder",
+                    "subscription_fee": 330,
+                    "updated_at": "2024-10-04T17:47:12Z",
+                    "year": 2024
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000223905",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "paciente-20-anos54d5f7492c",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "david.nordon@estrategiamed.com.br",
+                "author_id": "8ac33532-cff3-42de-81f8-4852f9530478",
+                "brief": "",
+                "brief_attachments": [],
+                "complete": "<b>GABARITO: ALTERNATIVA C</b><div><b><br></b></div><div><b>Discussão da questão:</b></div><div><br></div><div><i>O que o examinador quer saber com esta questão?</i></div><div><br></div><div>Condutas na lesão de tendões flexores.</div><div><br></div><div><i>O que você precisa saber para responder esta questão?</i></div><div><br></div><div>Condutas nas lesões de partes moles em ortopedia</div><div><br></div><div>A lesão de músculos raramente necessita de sutura. Contudo, a lesão de tendões ou de inserções miotendíneas frequentemente necessita de reparos. Nas lesões parciais, a depender do tendão e do músculo ,tratamento conservador é possível. Nas lesões totais, geralmente é recomendada a reinserção do tendão.</div><div><br></div><div>O reparo não precisa ser feito imediatamente, mas, sim programado de forma eletiva. Contudo, quanto mais demorar, mais difícil será o procedimento.</div><div><br></div><div><b>Discussão das alternativas</b></div>",
+                "complete_attachments": [],
+                "created_at": "2024-09-04 00:13:54.727885 +0000 UTC",
+                "id": "7d501b9f-f03d-423d-9620-745add7ca190",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "GABARITO: ALTERNATIVA CDiscussão da questão:O que o examinador quer saber com esta questão?Condutas na lesão de tendões flexores.O que você precisa saber para responder esta questão?Condutas nas lesões de partes moles em ortopediaA lesão de músculos raramente necessita de sutura. Contudo, a lesão de tendões ou de inserções miotendíneas frequentemente necessita de reparos. Nas lesões parciais, a depender do tendão e do músculo ,tratamento conservador é possível. Nas lesões totais, geralmente é recomendada a reinserção do tendão.O reparo não precisa ser feito imediatamente, mas, sim programado de forma eletiva. Contudo, quanto mais demorar, mais difícil será o procedimento.Discussão das alternativas",
+                "video_solution_id": "6064d338-aba5-4042-b3ed-f7d428408bd9"
+            },
+            "statement": "Um paciente de 20 anos procura atendimento imediato em <span>posto de saúde devido a um ferimento cortante em face volar do </span><span>1º quirodáctilo direito em falange proximal. Ao exame físico, </span><span>observa-se ferida cortante de 2 cm de extensão com déficit na </span><span>flexão do segmento e com sangramento em pequeno volume.</span><div><br></div><div>A conduta adequada deve ser a realização de uma</div>",
+            "statement_text": "Um paciente de 20 anos procura atendimento imediato em posto de saúde devido a um ferimento cortante em face volar do 1º quirodáctilo direito em falange proximal. Ao exame físico, observa-se ferida cortante de 2 cm de extensão com déficit na flexão do segmento e com sangramento em pequeno volume.A conduta adequada deve ser a realização de uma",
+            "status": {
+                "change_actor": "pedagogico.novosnegocios@estrategiaconcursos.com.br",
+                "created_at": "2024-09-04 14:26:50.423135 +0000 UTC",
+                "owner": "david.nordon@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "4a541b0b61c74a1f8c33330baea6efde",
+                    "master_id": "eebe3acaffb3457f9d8f800f937b32cf",
+                    "name": "Conceitos Básicos do Trauma Ortopédico",
+                    "order_index": 0,
+                    "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Conceitos Básicos do Trauma Ortopédico"
+                },
+                {
+                    "has_children": false,
+                    "id": "8a0809d6ea6e48a8b9e9fb9b077efaf9",
+                    "master_id": "eebe3acaffb3457f9d8f800f937b32cf",
+                    "name": "Complicações do trauma ortopédico",
+                    "order_index": 0,
+                    "path": "Outros [$$]Ortopedia[$$]Trauma Ortopédico[$$]Complicações do trauma ortopédico"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "360",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000223905-360-dnordon_438131_1725630437_60990.mp4"
+                    },
+                    {
+                        "resolution": "480",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000223905-480-dnordon_438131_1725630437_60990.mp4"
+                    },
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000223905-720-dnordon_438131_1725630437_60990.mp4"
+                    }
+                ],
+                "id": "6064d338-aba5-4042-b3ed-f7d428408bd9",
+                "identifier": "dnordon_438131_1725630437_60990",
+                "question_id": "4000223905"
+            },
+            "video_solution_id": "6064d338-aba5-4042-b3ed-f7d428408bd9"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 7,
+                    "answers": 187,
+                    "body": "realizar exérese completa da unha encravada.",
+                    "correct": false,
+                    "created_at": "2021-04-26 18:11:54.493099 +0000 UTC",
+                    "id": "e48af91f-2b3c-47d2-8388-c6d80a472c12",
+                    "position": "0",
+                    "sanitized_body": "realizar exérese completa da unha encravada.",
+                    "solution": {
+                        "alternative_id": "e48af91f-2b3c-47d2-8388-c6d80a472c12",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "O tratamento para a onicocriptose permite a avulsão parcial da unha.",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-11-18 18:04:34.596527 +0000 UTC",
+                        "id": "0fe81e84-af0c-4dc0-b30f-3ed441e0fcbe",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "O tratamento para a onicocriptose permite a avulsão parcial da unha.",
+                        "updated_at": "2021-11-18 18:04:35.047205 +0000 UTC"
+                    },
+                    "updated_at": "2021-08-28 13:05:27.342445 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 52,
+                    "answers": 1470,
+                    "body": "descolar o leito ungueal, fazendo-se uma avulsão parcial do segmento encravado.",
+                    "correct": true,
+                    "created_at": "2021-04-26 18:11:54.493099 +0000 UTC",
+                    "id": "3d62a48c-9601-4080-9e3d-3e1dff5f2e50",
+                    "position": "1",
+                    "sanitized_body": "descolar o leito ungueal, fazendo-se uma avulsão parcial do segmento encravado.",
+                    "solution": {
+                        "alternative_id": "3d62a48c-9601-4080-9e3d-3e1dff5f2e50",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "O tratamento cirúrgico para casos recorrentes ou avançados de onicocriptose consiste na remoção de uma parte da lâmina ungueal do segmento da unha encravada, desde sua matriz ungueal. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-11-18 18:04:34.55385 +0000 UTC",
+                        "id": "134b89da-b3da-40e6-b369-304ffc13b39a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "O tratamento cirúrgico para casos recorrentes ou avançados de onicocriptose consiste na remoção de uma parte da lâmina ungueal do segmento da unha encravada, desde sua matriz ungueal.",
+                        "updated_at": "2021-11-18 18:04:35.035191 +0000 UTC"
+                    },
+                    "updated_at": "2021-08-28 13:05:27.388979 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 24,
+                    "answers": 684,
+                    "body": "preservar a matriz ungueal e fazer a exérese em cunha do tecido de granulação.",
+                    "correct": false,
+                    "created_at": "2021-04-26 18:11:54.493099 +0000 UTC",
+                    "id": "216d32e8-1bbc-4f4d-b4af-a9ef36ce72d6",
+                    "position": "2",
+                    "sanitized_body": "preservar a matriz ungueal e fazer a exérese em cunha do tecido de granulação.",
+                    "solution": {
+                        "alternative_id": "216d32e8-1bbc-4f4d-b4af-a9ef36ce72d6",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "A matriz ungueal deve ser ressecada junto da lâmina ungueal. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-11-18 18:04:34.575244 +0000 UTC",
+                        "id": "fbf2c1e5-53e5-464b-8910-66f5558f90c0",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A matriz ungueal deve ser ressecada junto da lâmina ungueal.",
+                        "updated_at": "2021-11-18 18:04:35.024304 +0000 UTC"
+                    },
+                    "updated_at": "2021-08-28 13:05:27.433458 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 18,
+                    "answers": 502,
+                    "body": "retirar uma elipse de pele e tecido subcutâneo da borda com tecido de granulação e sinais de infecção local.",
+                    "correct": false,
+                    "created_at": "2021-04-26 18:11:54.493099 +0000 UTC",
+                    "id": "594364c2-5860-4072-a38f-c4464c647529",
+                    "position": "3",
+                    "sanitized_body": "retirar uma elipse de pele e tecido subcutâneo da borda com tecido de granulação e sinais de infecção local.",
+                    "solution": {
+                        "alternative_id": "594364c2-5860-4072-a38f-c4464c647529",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "A remoção do tecido de granulação não é realizado isoladamente, a avulsão parcial da unha encravada é realizada no mesmo momento para tratamento adequado. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-11-18 18:04:34.552592 +0000 UTC",
+                        "id": "4c1571be-20f6-4bf4-b0d3-bae0d6627f4a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A remoção do tecido de granulação não é realizado isoladamente, a avulsão parcial da unha encravada é realizada no mesmo momento para tratamento adequado.",
+                        "updated_at": "2021-11-18 18:04:35.047125 +0000 UTC"
+                    },
+                    "updated_at": "2021-08-28 13:05:27.479348 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "bruno-cesar110@hotmail.com",
+            "correct_answer_percentage": 52,
+            "created_at": "2021-04-26 18:11:54.493099 +0000 UTC",
+            "difficulty_level": "HARD",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                        "institution_id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2021-04-26T17:27:06Z",
+                    "degree_proof": false,
+                    "id": "4000004064",
+                    "location": {
+                        "id": "1"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "NOTICE",
+                            "url": "2D231074-0230-4041-8F54-FAFD03716E7C"
+                        },
+                        {
+                            "type": "ANSWER",
+                            "url": "9B3A75CC-8893-1FE8-7FDC-33360FAB38EA"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "subscription_fee": 330,
+                    "updated_at": "2021-11-23T12:12:21Z",
+                    "year": 2020
+                }
+            ],
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000146558",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "homem-com-21-anos41495bd784",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "thaila.gondek@estrategiamed.com.br",
+                "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "Revalidandos, o assunto de onicocriptose é recorrente nas provas do revalida! <div><br><div>A onicocriptose, mais conhecida popularmente como unha encravada, ocorre quando uma espícula da unha em sua região lateral perfura a prega ungueal lateral e penetra na pele, com subsequente reação inflamatória de corpo estranho e infecção secundária. </div><div>O aparelho ungueal é composto pela lâmina ungueal (unha propriamente dita) e os tecidos moles adjacentes que dão suporte. (imagem a seguir)</div><div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/95505A42-60BB-91CF-3663-EAEDA8EB0B16/95505A42-60BB-91CF-3663-EAEDA8EB0B16-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div> </div><div>Os sinais e sintomas característicos incluem dor, edema, exsudato e tecido de granulação, e na presença de infeção o paciente pode desenvolver febre, adenopatia inguinal e abscesso local. </div><div>Os fatores predisponentes incluem sapatos mal ajustados, corte inadequado da unha, deformidade da unha em pinça (sobrecurvatura transversal da unha) e trauma. </div><div>O diagnóstico é baseado na aparência clínica e o tratamento irá depender da gravidade do quadro!</div><div>Casos leves (sem complicações locais ou sistêmicas) podem ser tratados de forma conservadora: corte unhas adequado, sapato confortável, banho de água morna, corticoterapia tópica.</div><div>Casos avançados (presença de abscesso, granuloma ou sinais de infecção sistêmica -> adenopatia, febre) ou recorrentes devem ser tratados de forma cirúrgica: drenagem de abscesso, ressecção de granuloma ou cantoplastia (avulsão da unha). </div><div>A cantoplastia consiste na remoção de uma parte da lâmina ungueal do segmento da unha encravada. A matriz ungueal deve ser descolada do leito ungueal na largura do segmento que for ressecado. </div><div><br></div><div>Vamos analisar as alternativas:</div><div><br></div></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2021-11-18 18:04:34.594997 +0000 UTC",
+                "id": "a2255837-4df6-468b-a11a-ab8236475345",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "Revalidandos, o assunto de onicocriptose é recorrente nas provas do revalida! A onicocriptose, mais conhecida popularmente como unha encravada, ocorre quando uma espícula da unha em sua região lateral perfura a prega ungueal lateral e penetra na pele, com subsequente reação inflamatória de corpo estranho e infecção secundária. O aparelho ungueal é composto pela lâmina ungueal (unha propriamente dita) e os tecidos moles adjacentes que dão suporte. (imagem a seguir) Os sinais e sintomas característicos incluem dor, edema, exsudato e tecido de granulação, e na presença de infeção o paciente pode desenvolver febre, adenopatia inguinal e abscesso local. Os fatores predisponentes incluem sapatos mal ajustados, corte inadequado da unha, deformidade da unha em pinça (sobrecurvatura transversal da unha) e trauma. O diagnóstico é baseado na aparência clínica e o tratamento irá depender da gravidade do quadro!Casos leves (sem complicações locais ou sistêmicas) podem ser tratados de forma conservadora: corte unhas adequado, sapato confortável, banho de água morna, corticoterapia tópica.Casos avançados (presença de abscesso, granuloma ou sinais de infecção sistêmica -&gt; adenopatia, febre) ou recorrentes devem ser tratados de forma cirúrgica: drenagem de abscesso, ressecção de granuloma ou cantoplastia (avulsão da unha). A cantoplastia consiste na remoção de uma parte da lâmina ungueal do segmento da unha encravada. A matriz ungueal deve ser descolada do leito ungueal na largura do segmento que for ressecado. Vamos analisar as alternativas:",
+                "updated_at": "2021-11-18 18:04:35.094507 +0000 UTC",
+                "video_solution_id": "2a517c13-5611-480d-92de-b325ac1e9fab"
+            },
+            "statement": "Um homem com 21 anos de idade comparece à Unidade de Saúde da Família para ser submetido a tratamento cirúrgico de onicocriptose em hálux direito. Com relação à técnica a ser adotada para esse procedimento cirúrgico, após anestesia local, é correto",
+            "statement_text": "Um homem com 21 anos de idade comparece à Unidade de Saúde da Família para ser submetido a tratamento cirúrgico de onicocriptose em hálux direito. Com relação à técnica a ser adotada para esse procedimento cirúrgico, após anestesia local, é correto",
+            "status": {
+                "change_actor": "frank.martins@estrategiamed.com.br",
+                "created_at": "2021-11-18 18:22:29.792022 +0000 UTC",
+                "owner": "thaila.gondek@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "61ea1d515ce0474b8e198e5bb3523040",
+                    "master_id": "6d89d7ece8dc46c2a8b3ad1847f9fdd9",
+                    "name": "Aparelho Ungueal",
+                    "order_index": 0,
+                    "path": "Clínica Médica[$$]Dermatologia [$$]Anatomia e fisiologia da pele[$$]Anexos cutâneos[$$]Aparelho Ungueal"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "360",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146558-360-bsouza_338887_1711806989_47207.mp4"
+                    },
+                    {
+                        "resolution": "480",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146558-480-bsouza_338887_1711806989_47207.mp4"
+                    },
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000146558-720-bsouza_338887_1711806989_47207.mp4"
+                    }
+                ],
+                "id": "2a517c13-5611-480d-92de-b325ac1e9fab",
+                "identifier": "bsouza_338887_1711806989_47207",
+                "question_id": "4000146558"
+            },
+            "video_solution_id": "2a517c13-5611-480d-92de-b325ac1e9fab"
+        },
+        {
+            "active": true,
+            "alternatives": [
+                {
+                    "answer_percentage": 66,
+                    "answers": 2474,
+                    "body": "Os instrumentos de corte no quadrante 3, porque são os primeiros a serem utilizados.",
+                    "correct": true,
+                    "created_at": "2020-09-25 01:31:14.950864 +0000 UTC",
+                    "id": "bcc53e48-5a90-454d-82c4-089933c9e476",
+                    "position": "0",
+                    "sanitized_body": "Os instrumentos de corte no quadrante 3, porque são os primeiros a serem utilizados.",
+                    "solution": {
+                        "alternative_id": "bcc53e48-5a90-454d-82c4-089933c9e476",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Os instrumentos de diérese são os mais utilizados no ato cirúrgico, portanto necessitam estar próximos do instrumentador, ou seja, quadrantes 3 e 4.  ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-08-08 15:41:44.338505 +0000 UTC",
+                        "id": "fc50bf17-28a6-4f26-8e75-c1317cbc276b",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Os instrumentos de diérese são os mais utilizados no ato cirúrgico, portanto necessitam estar próximos do instrumentador, ou seja, quadrantes 3 e 4.",
+                        "updated_at": "2021-08-08 15:41:45.780924 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-23 13:37:01.376953 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 8,
+                    "answers": 300,
+                    "body": "Os afastadores junto ao material da diérese, porque são acessórios essenciais nesse tempo cirúrgico.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:31:14.950864 +0000 UTC",
+                    "id": "d6b16235-3a3e-4df1-8a66-f982bbe93ba9",
+                    "position": "1",
+                    "sanitized_body": "Os afastadores junto ao material da diérese, porque são acessórios essenciais nesse tempo cirúrgico.",
+                    "solution": {
+                        "alternative_id": "d6b16235-3a3e-4df1-8a66-f982bbe93ba9",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Os afastadores são alocados juntos dos materiais de síntese e específicos, já que são menos utilizados, ou seja, quadrantes 1 ou 2. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-08-08 15:41:44.349319 +0000 UTC",
+                        "id": "c4d3819e-1ed4-4bd3-b3a3-6f78df5bc7a7",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Os afastadores são alocados juntos dos materiais de síntese e específicos, já que são menos utilizados, ou seja, quadrantes 1 ou 2.",
+                        "updated_at": "2021-08-08 15:41:45.802726 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-23 13:37:01.432408 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 10,
+                    "answers": 362,
+                    "body": "Os instrumentos da síntese, agrupados, nos quadrantes 2 e 4, pois serão os mais utilizados durante procedimento.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:31:14.950864 +0000 UTC",
+                    "id": "dec0f33b-f819-4048-ad84-50c2d4fde472",
+                    "position": "2",
+                    "sanitized_body": "Os instrumentos da síntese, agrupados, nos quadrantes 2 e 4, pois serão os mais utilizados durante procedimento.",
+                    "solution": {
+                        "alternative_id": "dec0f33b-f819-4048-ad84-50c2d4fde472",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "Os instrumentos de síntese ficam distantes do instrumentador, os instrumentos mais próximos são: diérese e hemostasia. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-08-08 15:41:44.350683 +0000 UTC",
+                        "id": "03611b1d-c425-475d-b843-49ee91a4bf9f",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "Os instrumentos de síntese ficam distantes do instrumentador, os instrumentos mais próximos são: diérese e hemostasia.",
+                        "updated_at": "2021-08-08 15:41:45.802948 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-23 13:37:01.479376 +0000 UTC"
+                },
+                {
+                    "answer_percentage": 16,
+                    "answers": 591,
+                    "body": "Os instrumentos de hemostasia com a ponta voltada para os quadrantes 1 ou 2, facilitando a passagem desses para a mão dos cirurgiões.",
+                    "correct": false,
+                    "created_at": "2020-09-25 01:31:14.950864 +0000 UTC",
+                    "id": "5d781a1a-e722-4496-be9b-5a9dbcd36189",
+                    "position": "3",
+                    "sanitized_body": "Os instrumentos de hemostasia com a ponta voltada para os quadrantes 1 ou 2, facilitando a passagem desses para a mão dos cirurgiões.",
+                    "solution": {
+                        "alternative_id": "5d781a1a-e722-4496-be9b-5a9dbcd36189",
+                        "author_email": "thaila.gondek@estrategiamed.com.br",
+                        "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                        "brief": "",
+                        "brief_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "complete": "A ponta dos instrumentos de hemostasia e diérese ficam voltadas para o instrumentador, para facilitar a passagem do instrumentador para o cirurgião. ",
+                        "complete_attachments": [
+                            {
+                                "type": "AUDIO"
+                            }
+                        ],
+                        "created_at": "2021-08-08 15:41:44.337221 +0000 UTC",
+                        "id": "43e5ae13-d2c9-474e-b8d1-db22d590408a",
+                        "sanitized_brief": "",
+                        "sanitized_complete": "A ponta dos instrumentos de hemostasia e diérese ficam voltadas para o instrumentador, para facilitar a passagem do instrumentador para o cirurgião.",
+                        "updated_at": "2021-08-08 15:41:45.774268 +0000 UTC"
+                    },
+                    "updated_at": "2020-11-23 13:37:01.528198 +0000 UTC"
+                }
+            ],
+            "answer_type": "MULTIPLE_CHOICE",
+            "author_id": "keniagabriela.santos@gmail.com",
+            "correct_answer_percentage": 66,
+            "created_at": "2020-09-25 01:31:14.950864 +0000 UTC",
+            "difficulty_level": "EASY",
+            "exams": [
+                {
+                    "accepted_candidates_number": 0,
+                    "active": true,
+                    "answers_type": "Múltipla escolha",
+                    "author_id": "placeholder",
+                    "candidates_number": 0,
+                    "catalogs": {
+                        "duration_id": "cad77a08-2520-453c-bb37-b023d5161d6d",
+                        "goal_id": "509858a1-11ed-4c96-a194-33b16db1300e",
+                        "institution_id": "93c3cca3-ed81-43bf-8d66-35d220299c08",
+                        "jury_id": "4bc36cd6-7d4c-4b2a-967e-78a854b504b9",
+                        "residency_id": "ebede3c5-fe91-45f0-b53b-6d5231b1c625",
+                        "sector_id": "2db85153-c19d-47ed-ae73-2faaaa65c63b",
+                        "specialty_id": "55402575-a6ef-41f1-a190-9ecdce1af36b",
+                        "subspecialty_id": "c0fb2a79-d5f3-4686-8eb4-078b329da379"
+                    },
+                    "created_at": "2020-09-04T16:46:08Z",
+                    "degree_proof": false,
+                    "id": "4000000598",
+                    "location": {
+                        "id": "1"
+                    },
+                    "number": 1,
+                    "open_spaces": 0,
+                    "pdfs": [
+                        {
+                            "type": "EXAM",
+                            "url": "FEAC8616-69CA-B32F-8351-91906A4E0DDC"
+                        }
+                    ],
+                    "questions_number": 100,
+                    "scholarity": "placeholder",
+                    "updated_at": "2020-09-24T17:24:55Z",
+                    "year": 2016
+                }
+            ],
+            "forum_id": "3c86d07f-907c-457d-8479-7f573a12fc4a",
+            "has_student_answer": false,
+            "has_user_solution": false,
+            "has_video_solution": true,
+            "id": "4000126861",
+            "labels": [
+                "FINAL_ANSWER_SHEET"
+            ],
+            "public": true,
+            "slug": "Durante-planta58aa5215a0",
+            "solution": {
+                "alternative_solutions": null,
+                "author_email": "thaila.gondek@estrategiamed.com.br",
+                "author_id": "c7b0df30-86b1-4c2b-a7ae-deb83b6322f5",
+                "brief": "",
+                "brief_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "complete": "A mesa de instrumentação deve respeitar a disposição pensando em manter o mais próximo do instrumentador os instrumentos que são mais utilizados que são: diérese, hemostasia e síntese. <div><br><div>Para isso dividimos a mesa em 4 quadrante como na imagem da questão, os instrumentos próximos ao instrumentador são dispostos os instrumentos de diérese e hemostasia, com a ponta voltada para o instrumentador. Já mais distantes do instrumentador: os instrumentos de síntese e auxiliares de operações fundamentais e os materiais específicos para aquela cirurgia! </div><div><br></div><div>Vamos analisar as alternativas:</div><div><br></div></div>",
+                "complete_attachments": [
+                    {
+                        "type": "AUDIO"
+                    }
+                ],
+                "created_at": "2021-08-08 15:41:44.431341 +0000 UTC",
+                "id": "cbda8caa-df9b-498e-894f-66abd26baa58",
+                "is_default": false,
+                "sanitized_brief": "",
+                "sanitized_complete": "A mesa de instrumentação deve respeitar a disposição pensando em manter o mais próximo do instrumentador os instrumentos que são mais utilizados que são: diérese, hemostasia e síntese. Para isso dividimos a mesa em 4 quadrante como na imagem da questão, os instrumentos próximos ao instrumentador são dispostos os instrumentos de diérese e hemostasia, com a ponta voltada para o instrumentador. Já mais distantes do instrumentador: os instrumentos de síntese e auxiliares de operações fundamentais e os materiais específicos para aquela cirurgia! Vamos analisar as alternativas:",
+                "updated_at": "2021-08-08 15:41:45.805309 +0000 UTC",
+                "video_solution_id": "4dad2e88-ab39-4b3c-9b81-85c1d65b5e28"
+            },
+            "statement": "Durante o plantão em um Hospital Geral, chegam várias vítimas de um acidente com ônibus, as quais, após avaliação, são encaminhadas para cirurgia de urgência. Foi necessário convocar o clínico geral para instrumentar uma laparotomia. A figura abaixo representa a referência de montagem da mesa de instrumentação a ser seguida por médico.&nbsp;<div><br></div><div><!-- BEGIN:IMAGE_TO_REPLACE --><img src=\"https://estrategia-prod-questoes.s3.amazonaws.com/images/17D1A957-256F-B368-D1D3-921EFBCEB564/17D1A957-256F-B368-D1D3-921EFBCEB564-400.png\"><!-- END:IMAGE_TO_REPLACE --><br></div><div><br></div><div>Nessa situação, o médico instrumentador deve posicionar:</div>",
+            "statement_text": "Durante o plantão em um Hospital Geral, chegam várias vítimas de um acidente com ônibus, as quais, após avaliação, são encaminhadas para cirurgia de urgência. Foi necessário convocar o clínico geral para instrumentar uma laparotomia. A figura abaixo representa a referência de montagem da mesa de instrumentação a ser seguida por médico. Nessa situação, o médico instrumentador deve posicionar:",
+            "status": {
+                "change_actor": "wellington.silva@estrategiamed.com.br",
+                "created_at": "2021-08-09 12:39:46.777565 +0000 UTC",
+                "owner": "thaila.gondek@estrategiamed.com.br",
+                "value": "APPROVED"
+            },
+            "topics": [
+                {
+                    "has_children": false,
+                    "id": "487a56863f154e53bf2c67003770f646",
+                    "master_id": "230ea3a49ccd47dcab16691111a5a851",
+                    "name": "Instrumental Cirúrgico",
+                    "order_index": 0,
+                    "path": "Cirurgia[$$]Temas Gerais em Cirurgia[$$]Instrumental Cirúrgico"
+                },
+                {
+                    "has_children": false,
+                    "id": "ce93cab80820446290f7ea627578e6e9",
+                    "is_master": true,
+                    "name": "Cirurgia",
+                    "order_index": 0,
+                    "path": "Cirurgia"
+                }
+            ],
+            "unlisted": false,
+            "video_solution": {
+                "available_resolutions": [
+                    {
+                        "resolution": "720",
+                        "url": "https://api.estrategia.com/questoes/sign/medicina/processadas/4000126861-720.mp4"
+                    }
+                ],
+                "id": "4dad2e88-ab39-4b3c-9b81-85c1d65b5e28",
+                "identifier": "",
+                "question_id": "4000126861"
+            },
+            "video_solution_id": "4dad2e88-ab39-4b3c-9b81-85c1d65b5e28"
+        }
+    ]
+}

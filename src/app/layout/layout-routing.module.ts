@@ -65,6 +65,14 @@ const routes: Routes = [
 				},
 			},
 			{
+				path: 'final-rect-course',
+				loadChildren: () => import('../modules/final-rect-course/final-rect-course.module').then((m) => m.FinalRectCourseModule),
+				//canActivate: [canMatchCourseGuard],
+				resolve: {
+					user: UserResolver,
+				},
+			},
+			{
 				path: 'forbidden',
 				loadChildren: () => import('../modules/forbidden/forbidden.module').then((m) => m.ForbiddenModule),
 			},
